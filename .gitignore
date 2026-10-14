@@ -3,6 +3,7 @@
 __pycache__/
 *.py[cod]
 .pruebas/
+_site/
 
 # Paquetes reproducibles: el contenido y los constructores sí se versionan
 *.zip

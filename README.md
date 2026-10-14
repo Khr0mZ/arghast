@@ -1,5 +1,9 @@
 # Biblioteca de Aventuras en Xoltacan
 
+**[Abrir la enciclopedia online](https://khr0mz.github.io/arghast/)** · [Estado del despliegue](https://github.com/Khr0mZ/arghast/actions/workflows/pages.yml)
+
+GitHub Pages se actualiza automáticamente al subir cambios a `main`. El flujo `.github/workflows/pages.yml` comprueba los datos, regenera la interfaz y publica únicamente el HTML autónomo como `index.html`. También puede ejecutarse manualmente desde Actions. La versión local sigue disponible en `xoltacan.html`.
+
 Reconstrucción objetiva de la campaña de Lichpol. Abre [la interfaz HTML](xoltacan.html) con doble clic: incluye buscador, capítulos, personajes, atlas, facciones, misiones, relaciones y misterios, con citas y enlaces al minuto. Funciona desde un archivo local, sin servidor ni instalación. También puedes consultar el [índice Markdown](conocimiento/INDICE.md).
 
 El HTML contiene los 39 capítulos, 946 registros y las lecturas derivadas de todas las transcripciones. Permite buscar en registros o en la transcripción de un capítulo, filtrar evidencias y leer el contexto de una cita. Solo abrir el vídeo requiere Internet. La interfaz se regenera automáticamente con `python scripts/construir.py`; sus fuentes están en `web/` y `scripts/construir_interfaz.py`.

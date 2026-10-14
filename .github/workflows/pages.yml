@@ -1,0 +1,56 @@
+name: Publicar Xoltacan en GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Obtener las fuentes
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+
+      - name: Preparar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Comprobar datos e historias
+        run: python -m unittest discover -s scripts -p 'test_*.py'
+
+      - name: Construir la enciclopedia
+        run: python scripts/construir_interfaz.py
+
+      - name: Preparar la página de inicio
+        run: |
+          mkdir -p _site
+          cp xoltacan.html _site/index.html
+
+      - name: Configurar GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Subir la web
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - name: Publicar
+        id: deployment
+        uses: actions/deploy-pages@v5
