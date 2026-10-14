@@ -1,17 +1,52 @@
 /* Display families are local; reading paragraphs retain their existing fonts. */
-:root { --font-display:'Cinzel',Georgia,serif; --font-display-weight:600; }
-body[data-view="world"] { --font-display:'Cinzel',Georgia,serif; --font-display-weight:600; }
+:root { --font-display:'IM Fell English SC',Georgia,serif; --font-display-weight:400; }
+body[data-view="world"] { --font-display:'IM Fell English SC',Georgia,serif; --font-display-weight:400; }
+body[data-view="world"] :is(.campaign-picker label,.campaign-picker>a,#campaign-selector,#campaign-context,.primary-button,.secondary-button,.campaign-enter,.footer a) { font-family:'IM Fell English SC',Georgia,serif; font-weight:400; font-synthesis:none; letter-spacing:.025em; }
+body[data-view="world"] .campaign-picker label { font-size:11px; letter-spacing:.06em; }
+body[data-view="world"] .campaign-picker>a { font-size:14px; }
+body[data-view="world"] #campaign-context { font-size:12px; }
+body[data-view="world"] .campaign-enter { font-size:18px; }
+body[data-view="world"] .footer a { font-size:14px; }
 body[data-campaign="xoltacan"][data-view="campaign"],.world-campaign-xoltacan { --font-display:'Macondo',Georgia,serif; --font-display-weight:400; }
 body[data-campaign="kuroto"][data-view="campaign"],.world-campaign-kuroto { --font-display:'Kaisei Tokumin',Georgia,serif; --font-display-weight:700; }
 body[data-view] :is(.hero-title,.world-hero h1,.campaign-card-body h2,.section-head h1,.section-head h2,.card-title,.story-heading h2,.story-prose h3,.document h1,.document h2,.document h3) { font-family:var(--font-display); font-weight:var(--font-display-weight); font-style:normal; letter-spacing:0; line-height:1.25; font-synthesis:none; }
 body[data-view] #page-title { font-family:var(--font-display); font-weight:var(--font-display-weight); letter-spacing:0; }
 body[data-view="campaign"][data-campaign] .nav-links a { font-family:var(--font-display); font-weight:var(--font-display-weight); font-size:15px; line-height:1.6; }
 body[data-campaign="xoltacan"][data-view="campaign"] .nav-links a { font-size:17px; }
-body[data-view] .brand-name { font-family:'Cinzel',Georgia,serif; font-size:26px; font-weight:600; letter-spacing:-.5px; line-height:1.3; }
+body[data-view] .brand-name { font-family:'IM Fell English SC',Georgia,serif; font-size:29px; font-weight:400; letter-spacing:.2px; line-height:1.3; }
 body[data-view="campaign"][data-campaign] .hero-title { line-height:1.18; }
 body[data-view] .campaign-card-body h2 { line-height:1.2; }
+/* Cover lettering extends to navigation and controls; prose keeps reading fonts. */
+body[data-campaign="kuroto"][data-view="campaign"] { --font-ui:'Karate','Kaisei Tokumin',Georgia,serif; }
+body[data-campaign="kuroto"][data-view="campaign"] :is(.nav-links a,.nav-label,.campaign-picker label,.campaign-picker>a,#campaign-selector,#campaign-context,#page-title,.primary-button,.secondary-button,.expedition-link strong,.detail-tabs a,.detail-tabs button,.section-head h1,.section-head h2,.section-head>a,.footer a,.story-heading h2,.context-details>summary,.chapter-nav a) { font-family:var(--font-ui); font-weight:400; letter-spacing:.015em; font-synthesis:none; }
+body[data-campaign="kuroto"][data-view="campaign"] .nav-links a { font-size:17px; line-height:1.5; }
+body[data-campaign="kuroto"][data-view="campaign"] :is(.primary-button,.secondary-button) { font-size:14px; }
+body[data-campaign="kuroto"][data-view="campaign"] .nav-label { font-size:12px; letter-spacing:.08em; }
+body[data-campaign="xoltacan"][data-view="campaign"] .campaign-lettering { position:relative; display:inline-block; vertical-align:middle; width:var(--lettering-width); height:var(--lettering-height); max-width:100%; flex-shrink:1; min-width:0; line-height:1; -webkit-text-fill-color:transparent; }
+body[data-campaign="xoltacan"][data-view="campaign"] .campaign-lettering::after { content:''; position:absolute; inset:0; pointer-events:none; background:currentColor; mask:var(--lettering-src) left center / contain no-repeat; }
+body[data-campaign="xoltacan"][data-view="campaign"] .campaign-picker>a .campaign-lettering { float:none; color:inherit; }
+body[data-campaign="xoltacan"][data-view="campaign"] :is(.primary-button,.secondary-button) { font-size:14px; }
+body[data-campaign="xoltacan"][data-view="campaign"] .nav-links a { font-size:16px; line-height:1.5; }
+body[data-campaign="xoltacan"][data-view="campaign"] .nav-label { font-size:12px; letter-spacing:0; }
+body[data-view="campaign"][data-campaign] .campaign-picker label { font-size:11px; }
+body[data-view="campaign"][data-campaign] .campaign-picker>a { font-size:12px; }
+body[data-view="campaign"][data-campaign] #campaign-context { font-size:11px; }
+body[data-campaign="xoltacan"][data-view="campaign"] .campaign-picker #campaign-selector { -webkit-text-fill-color:transparent; background-image:url(assets/xoltacan-titulo.png); background-size:auto 19px; background-position:left center; background-repeat:no-repeat; }
+body[data-campaign="xoltacan"][data-view="campaign"] .campaign-picker #campaign-selector option { -webkit-text-fill-color:var(--light); }
+body[data-campaign="kuroto"][data-view="campaign"] .hero-title,
+body[data-view] .world-campaign-kuroto .campaign-card-body h2 { font-family:'Karate','Kaisei Tokumin',serif; font-weight:400; }
+body[data-campaign="xoltacan"][data-view="campaign"] .hero-title,
+.world-campaign-xoltacan .campaign-card-body h2 { position:relative; width:min(100%,6.6em); -webkit-text-fill-color:transparent; }
+body[data-campaign="xoltacan"][data-view="campaign"] .hero-title::after,
+.world-campaign-xoltacan .campaign-card-body h2::after { content:''; position:absolute; inset:0; background:currentColor; mask:url(assets/xoltacan-titulo.png) left center / contain no-repeat; }
 @media(max-width:650px) {
   body[data-view="world"] .world-hero h1 { font-size:clamp(36px,10vw,58px); }
   body[data-view="campaign"][data-campaign] .hero-title { font-size:37px; }
   body[data-view] .card-title { font-size:24px; }
+  body[data-view="campaign"][data-campaign] :is(.primary-button,.secondary-button) { font-size:12px; }
+}
+@media print, (forced-colors:active) {
+  body[data-campaign="xoltacan"][data-view="campaign"] .campaign-lettering { width:auto; height:auto; -webkit-text-fill-color:currentColor; }
+  body[data-campaign="xoltacan"][data-view="campaign"] .campaign-lettering::after { display:none; }
+  body[data-campaign="xoltacan"][data-view="campaign"] .campaign-picker #campaign-selector { -webkit-text-fill-color:currentColor; background-image:none; }
 }

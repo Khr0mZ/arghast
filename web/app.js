@@ -16,6 +16,29 @@
   const entities = new Map(data.entities.map(e => [e.name, e]));
   const entityAliases = new Map(data.entities.flatMap(e=>e.aliases.map(label=>[label,e])));
   const sections={inicio:'Portada',capitulos:'Crónicas',cronologia:'Acontecimientos',personajes:'Personajes',atlas:'Lugares',facciones:'Facciones',objetos:'Vestigios',misiones:'Misiones',misterios:'Misterios y desenlaces',relaciones:'Relaciones',metodo:'Fuentes y método',nombres:'Nombres y equivalencias'};
+  const campaignLettering = /* ROTULOS_XOLTACAN */{};
+  function applyCampaignLettering() {
+    if(campaignId!=='xoltacan'||document.body.dataset.view!=='campaign') {
+      document.querySelectorAll('.campaign-lettering').forEach(span=>span.replaceWith(document.createTextNode(span.textContent)));
+      return;
+    }
+    const selectors='.nav-links a,.nav-label,.campaign-picker label,.campaign-picker>a,#campaign-context,#page-title,.primary-button,.secondary-button,.expedition-link strong,.detail-tabs a,.detail-tabs button,.section-head h1,.section-head h2,.section-head>a,.footer a,.story-heading h2,.context-details>summary,.filters label,.chapter-nav a,.document h1';
+    document.querySelectorAll(selectors).forEach(element=>{
+      for(const node of [...element.childNodes]) {
+        if(node.nodeType!==Node.TEXT_NODE)continue;
+        const text=node.textContent.trim();
+        const label=text.replace(/^[←↗→]\s*|\s*[←↗→]$/g,'');
+        const variant=element.closest('.nav-links')&&label==='Misterios y desenlaces'?label+'|sidebar':label;
+        const key=Object.hasOwn(campaignLettering,variant)?campaignLettering[variant]:null;
+        if(!key)continue;
+        const span=document.createElement('span');
+        span.className='campaign-lettering';span.dataset.lettering=key;span.textContent=label;
+        const leading=node.textContent.slice(0,node.textContent.indexOf(label));
+        const trailing=node.textContent.slice(node.textContent.indexOf(label)+label.length);
+        node.replaceWith(document.createTextNode(leading),span,document.createTextNode(trailing));
+      }
+    });
+  }
   document.querySelectorAll('#sidebar .nav-links a').forEach(link=>{
     const label=sections[link.hash.slice(1)];
     if(label)link.replaceChildren(link.querySelector('.nav-symbol'),document.createTextNode(label));
@@ -293,6 +316,7 @@
     const category=Object.entries(categories).find(([,value])=>value.route===route);
     if(route==='campanas')worldHome();else if(route==='inicio')home();else if(route==='capitulos')chapterList();else if(route==='capitulo')chapterView(Number(arg));else if(route==='registro')recordView(arg);else if(route==='pregunta')questionView(arg);else if(route==='misterios')questionList();else if(category)entityList(category[0]);else if(route==='entidad')entityView(arg);else if(route==='cronologia')listing();else if(route==='busqueda'){searchInput.value=arg;listing(arg);}else documentView(route);
     document.getElementById('search-clear').hidden=!searchInput.value;
+    applyCampaignLettering();
   }
   content.addEventListener('click',async eventObject=>{
     const button=eventObject.target.closest('button');if(!button)return;
@@ -302,6 +326,7 @@
     if(button.hasAttribute('data-transcript-more')){state.transcriptLimit+=200;const scrollY=window.scrollY;render();window.scrollTo(0,scrollY);}
     if(button.dataset.transcriptRetry){transcriptErrors.delete(button.dataset.transcriptRetry);render();}
     if(button.dataset.copy){const f=facts.get(button.dataset.copy);const text=`Arghast · ${campaign.name} · ${f.titulo} · ${chapterName(f.capitulo)} · ${clock(f.evidencia_cue?.inicio || f.inicio)} · ${f.id}\n${f.afirmacion}\nCita: ${f.cita}\n${sourceURL(f)}`;try{if(navigator.clipboard?.writeText)await navigator.clipboard.writeText(text);else{const area=document.createElement('textarea');area.value=text;document.body.append(area);area.select();document.execCommand('copy');area.remove();}button.textContent='Referencia copiada';}catch{button.textContent='Selecciona y copia la cita';} }
+    applyCampaignLettering();
   });
   content.addEventListener('change',eventObject=>{const key=eventObject.target.dataset.filter;if(key){state[key]=eventObject.target.value;state.page=1;render();}});
   content.addEventListener('input',eventObject=>{const input=eventObject.target;const field={'chapter-search':'chapterQuery','entity-search':'entityQuery','transcript-search':'transcriptQuery','question-search':'questionQuery'}[input.id];if(field){const selection=input.selectionStart,scroll=window.scrollY;state[field]=input.value;state.page=1;state.transcriptLimit=120;render();const restored=document.getElementById(input.id);restored.focus();restored.setSelectionRange(selection,selection);window.scrollTo(0,scroll);}});

@@ -1,7 +1,6 @@
 {
-  "provider": "Google Fonts",
+  "provider": "Google Fonts y Gary D. Jessey (DaFont)",
   "css_source": "https://fonts.googleapis.com/css2?family=Cinzel:wght@600&family=Kaisei+Tokumin:wght@700&family=Macondo&display=swap",
-  "license": "SIL Open Font License 1.1",
   "files": [
     {
       "family": "Cinzel",
@@ -47,13 +46,34 @@
       "source": "https://fonts.gstatic.com/s/macondo/v27/RrQQboN9-iB1IXmOe2LE0Q.woff2",
       "sha256": "892cfdc13b08ecddf00768d1099c1d1bfa92d028f6fe4343051f4356897919be",
       "bytes": 11560
+    },
+    {
+      "family": "Karate",
+      "weight": "400",
+      "file": "web/assets/fonts/karate.ttf",
+      "source": "https://dl.dafont.com/dl/?f=karate",
+      "sha256": "6f409faab88a9ead73fcb6a4d557719abd5944412b10f30970e056ec2ea373cd",
+      "bytes": 20664,
+      "license": "Freeware; karate-README.txt",
+      "usage": "Interfaz de Kuroto: sidebar, topbar, controles y encabezados; Kaisei Tokumin aporta caracteres ausentes"
+    },
+    {
+      "family": "IM Fell English SC",
+      "weight": "400",
+      "subset": "latin",
+      "file": "web/assets/fonts/imfellenglishsc-400-latin.woff2",
+      "source": "https://fonts.gstatic.com/s/imfellenglishsc/v16/a8IENpD3CDX-4zrWfr1VY879qFF05pZ7PIIP.woff2",
+      "sha256": "f0f85c4edd2c3dc659db649e9fd0258951445d2fa0735eb43b44a1052ed3d2f5",
+      "bytes": 56956,
+      "license": "SIL Open Font License 1.1"
     }
   ],
   "families": [
     {
       "name": "Cinzel",
       "license_source": "https://raw.githubusercontent.com/google/fonts/main/ofl/cinzel/OFL.txt",
-      "specimen": "https://fonts.google.com/specimen/Cinzel"
+      "specimen": "https://fonts.google.com/specimen/Cinzel",
+      "usage": "Fuente anterior conservada como recurso; sustituida por IM Fell English SC en la interfaz"
     },
     {
       "name": "Kaisei Tokumin",
@@ -64,6 +84,31 @@
       "name": "Macondo",
       "license_source": "https://raw.githubusercontent.com/google/fonts/main/ofl/macondo/OFL.txt",
       "specimen": "https://fonts.google.com/specimen/Macondo"
+    },
+    {
+      "name": "Karate",
+      "author": "Gary D. Jessey",
+      "license": "Freeware",
+      "specimen": "https://www.dafont.com/karate.font"
+    },
+    {
+      "name": "IM Fell English SC",
+      "author": "Igino Marini",
+      "license_source": "https://raw.githubusercontent.com/google/fonts/main/ofl/imfellenglishsc/OFL.txt",
+      "specimen": "https://fonts.google.com/specimen/IM+Fell+English+SC",
+      "usage": "Interfaz de Arghast y nombre del mundo en las tres vistas"
     }
-  ]
+  ],
+  "rendered_wordmarks": [
+    {
+      "family": "Ambystoma Mexicanum",
+      "author": "Chequered Ink",
+      "file": "web/assets/xoltacan-titulo.png",
+      "source": "https://www.dafont.com/ambystoma-mexicanum.font",
+      "license": "Personal, Non-Commercial; graphic only, font not redistributed",
+      "license_source": "https://chequered.ink/font-license/",
+      "sha256": "e522c6a1dffec99d9554ba2269a71d050b74b8b3e2e03559b946ada6b46c25c3"
+    }
+  ],
+  "rendered_interface_labels": "web/assets/rotulos-xoltacan.procedencia.json"
 }

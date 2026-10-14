@@ -16,4 +16,4 @@
 
 - Usar los 16 HEX de cada campaña proporcionados por el usuario y guardados en `config/paletas_campanas.json`. Son la referencia autoritativa. Los bordes, cifras e iconos no deben usar una gama distinta por categoría: asignar colores por función, con marcos comunes de la campaña.
 
-- Tipografías: Cinzel para Arghast, Macondo para Xoltacan y Kaisei Tokumin para Kuroto, con WOFF2 locales y licencias OFL conservadas e incrustadas. Mantener legibilidad y acentos españoles; el nombre del mundo en el sidebar usa Cinzel en todas las vistas.
+- Tipografías: IM Fell English SC para Arghast; Karate para la interfaz de Kuroto y Ambystoma Mexicanum para la de Xoltacan, incluidos sidebar, topbar y controles. Ambystoma se aplica mediante rótulos gráficos con texto accesible; no redistribuir su OTF bajo la licencia gratuita. Conservar Kaisei Tokumin como apoyo para tildes de Karate y Macondo/Georgia para lectura. Guardar procedencia y licencias; el nombre del mundo en el sidebar usa IM Fell English SC en todas las vistas.

@@ -82,15 +82,24 @@ def main():
     from campanas import build_world
     template = (ROOT / 'web/plantilla.html').read_text(encoding='utf-8')
     script = (ROOT / 'web/app.js').read_text(encoding='utf-8')
+    lettering = (ROOT / 'web/assets/rotulos-xoltacan/indice.json').read_text(encoding='utf-8')
+    script = script.replace('/* ROTULOS_XOLTACAN */{}', lettering)
     theme = (ROOT / 'web/selva.css').read_text(encoding='utf-8')
     theme += '\n' + (ROOT / 'web/codice.css').read_text(encoding='utf-8')
     theme += '\n' + (ROOT / 'web/arghast.css').read_text(encoding='utf-8')
     theme += '\n' + (ROOT / 'web/paletas.css').read_text(encoding='utf-8')
     theme += '\n' + (ROOT / 'web/fuentes.css').read_text(encoding='utf-8')
     theme += '\n' + (ROOT / 'web/tipografia.css').read_text(encoding='utf-8')
-    for font in sorted((ROOT / 'web/assets/fonts').glob('*.woff2')):
+    theme += '\n' + (ROOT / 'web/rotulos.css').read_text(encoding='utf-8')
+    for label in sorted((ROOT / 'web/assets/rotulos-xoltacan').glob('*.png')):
+        theme = theme.replace('assets/rotulos-xoltacan/' + label.name, 'data:image/png;base64,' + base64.b64encode(label.read_bytes()).decode('ascii'))
+    for font in sorted((ROOT / 'web/assets/fonts').iterdir()):
+        if font.suffix not in ('.woff2', '.ttf'):
+            continue
         encoded = base64.b64encode(font.read_bytes()).decode('ascii')
-        theme = theme.replace('assets/fonts/' + font.name, 'data:font/woff2;base64,' + encoded)
+        theme = theme.replace('assets/fonts/' + font.name, 'data:font/' + font.suffix[1:] + ';base64,' + encoded)
+    wordmark = ROOT / 'web/assets/xoltacan-titulo.png'
+    theme = theme.replace('assets/xoltacan-titulo.png', 'data:image/png;base64,' + base64.b64encode(wordmark.read_bytes()).decode('ascii'))
     for asset in ('xoltacan-selva.webp', 'kuroto-bosque.webp', 'arghast-mapa-oficial.webp',
                   'arghast-drawer.webp', 'xoltacan-drawer.webp', 'kuroto-drawer.webp',
                   'xoltacan-background.webp', 'kuroto-background.webp',

@@ -38,8 +38,7 @@ try {
   const route=async hash=>{await evaluate('location.hash='+JSON.stringify(hash));await sleep(160);};
   const screenshot=async name=>{const shot=await call('Page.captureScreenshot',{format:'png',captureBeyondViewport:false});await fs.writeFile(path.join(output,name+'.png'),Buffer.from(shot.data,'base64'));};
   const checks=[];
-  const checkThematicFont=async(family,weight,selector)=>{
-    const text='Cr\u00f3nicas \u00c1\u00c9\u00cd\u00d3\u00da\u00dc\u00d1 \u00e1\u00e9\u00ed\u00f3\u00fa\u00fc\u00f1 \u00bf\u00a1';
+  const checkThematicFont=async(family,weight,selector,text='Cr\u00f3nicas \u00c1\u00c9\u00cd\u00d3\u00da\u00dc\u00d1 \u00e1\u00e9\u00ed\u00f3\u00fa\u00fc\u00f1 \u00bf\u00a1')=>{
     await call('DOM.enable');await call('CSS.enable');
     await evaluate(`(async()=>{await document.fonts.load(${JSON.stringify(weight+' 24px "'+family+'"')},${JSON.stringify(text)});await document.fonts.ready;const p=document.createElement('span');p.id='font-probe';p.textContent=${JSON.stringify(text)};Object.assign(p.style,{fontFamily:${JSON.stringify(family)},fontWeight:${JSON.stringify(String(weight))},fontSize:'24px',fontSynthesis:'none',position:'absolute',left:'-10000px'});document.body.append(p);p.getBoundingClientRect();await new Promise(resolve=>requestAnimationFrame(()=>requestAnimationFrame(resolve)))})()`);
     const {root:dom}=await call('DOM.getDocument',{depth:0});
@@ -47,7 +46,7 @@ try {
     const {fonts}=await call('CSS.getPlatformFontsForNode',{nodeId});
     if(!fonts.length)throw new Error('No se renderizo la muestra de '+family);
     const normalized=family.replace(/\s+/g,'').toLowerCase();
-    await check(family+' carga localmente y dibuja todos los acentos sin sustituciones: '+fonts.map(f=>f.familyName).join(', '),JSON.stringify(fonts.length>0&&fonts.every(f=>f.isCustomFont&&f.familyName.replace(/\s+/g,'').toLowerCase().includes(normalized))));
+    await check(family+' carga localmente y dibuja la muestra sin sustituciones: '+fonts.map(f=>f.familyName).join(', '),JSON.stringify(fonts.length>0&&fonts.every(f=>f.isCustomFont&&f.familyName.replace(/\s+/g,'').toLowerCase().includes(normalized))));
     await check('El titulo usa '+family,'getComputedStyle(document.querySelector('+JSON.stringify(selector)+')).fontFamily.includes('+JSON.stringify(family)+')');
     await evaluate('document.getElementById("font-probe").remove()');
   };
@@ -203,6 +202,10 @@ try {
   const xoltacanCover=await readBackground('.hero-art');
   const xoltacanMaterial=await readBackground('.hero');
   await checkThematicFont('Macondo',400,'.hero-title');
+  await check('Xoltacan usa su titulo grafico incrustado','getComputedStyle(document.querySelector(".hero-title"),"::after").maskImage.includes("data:image/png;base64,")');
+  await check('Ambystoma llega a todos los enlaces del sidebar, topbar y botones','[...document.querySelectorAll(".nav-links a,#page-title,.primary-button,.secondary-button,.expedition-link strong")].every(e=>!!e.querySelector(".campaign-lettering"))');
+  await check('El selector de Xoltacan tambien muestra su rotulo de campaña','getComputedStyle(document.querySelector("#campaign-selector")).backgroundImage.includes("data:image/png;base64,")');
+  await check('Los rotulos conservan texto accesible e imagenes locales decodificables','(async()=>{const nodes=[...document.querySelectorAll(".campaign-lettering")];return nodes.length>20&&(await Promise.all(nodes.map(async e=>{const mask=getComputedStyle(e,"::after").maskImage;const url=mask.match(/url\\([\"\u0027]?(data:image\\/png;base64,[^\"\u0027)]+)[\"\u0027]?\\)/)?.[1];if(!url||!e.textContent.trim())return false;const img=new Image();img.src=url;await img.decode();return img.naturalWidth>0}))).every(Boolean)})()');
   const xoltacanHeader=await readBackground('.topbar');
   await check('La topbar de Xoltacan carga su textura exclusiva',JSON.stringify(!!xoltacanHeader&&xoltacanHeader.width>1500&&xoltacanHeader.key!==xoltacanMaterial.key));
   await check('Xoltacan abre la textura recoloreada con la paleta aportada',JSON.stringify(xoltacanMaterial?.key===expectedMaterialKeys.xoltacan));
@@ -227,7 +230,9 @@ try {
   await check('Arghast tiene un selector y dos campañas independientes','document.title==="Arghast · Archivo de campañas"&&document.querySelectorAll(".world-campaign").length===2&&document.getElementById("campaign-selector").value===""');
   const worldBackground=await readBackground('.workspace','::before');
   const worldSidebar=await readBackground('#sidebar');
-  await checkThematicFont('Cinzel',600,'.world-hero h1');
+  await checkThematicFont('IM Fell English SC',400,'.world-hero h1');
+  await check('Arghast utiliza su fuente en sidebar, topbar y controles','[...document.querySelectorAll(".brand-name,#page-title,#campaign-context,#campaign-selector,.campaign-picker>a,.campaign-enter,.footer a")].every(e=>getComputedStyle(e).fontFamily.includes("IM Fell English SC"))');
+  await check('El selector de Arghast conserva las tipografias de las campañas','getComputedStyle(document.querySelector(".world-campaign-kuroto h2")).fontFamily.startsWith("Karate")&&getComputedStyle(document.querySelector(".world-campaign-xoltacan h2"),"::after").maskImage.includes("data:image/png;base64,")');
   const worldHeader=await readBackground('.topbar');
   const worldHero=await readBackground('.world-hero');
   await check('Arghast tiene textura de topbar y atlas propios',JSON.stringify(!!worldHeader&&!!worldHero&&worldHeader.key!==worldHero.key&&worldHero.key!==worldBackground.key));
@@ -249,7 +254,9 @@ try {
   const kurotoDrawer=await readBackground('#sidebar');
   const kurotoCover=await readBackground('.hero-art');
   const kurotoMaterial=await readBackground('.hero');
-  await checkThematicFont('Kaisei Tokumin',700,'.hero-title');
+  await checkThematicFont('Kaisei Tokumin',700,'.nav-links a');
+  await checkThematicFont('Karate',400,'.hero-title','Kuroto');
+  await check('Karate llega al sidebar, topbar, botones y pestañas','[...document.querySelectorAll(".nav-links a,#page-title,.primary-button,.secondary-button,.expedition-link strong,#campaign-selector")].every(e=>getComputedStyle(e).fontFamily.startsWith("Karate"))');
   const kurotoHeader=await readBackground('.topbar');
   await check('Cada topbar tiene una textura diferente',JSON.stringify(!!kurotoHeader&&new Set([xoltacanHeader.key,worldHeader.key,kurotoHeader.key]).size===3&&kurotoHeader.key!==kurotoMaterial.key));
   await check('Kuroto abre la textura recoloreada con la paleta aportada',JSON.stringify(kurotoMaterial?.key===expectedMaterialKeys.kuroto));

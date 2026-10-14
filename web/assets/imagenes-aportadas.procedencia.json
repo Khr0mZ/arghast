@@ -2,18 +2,18 @@
   "origin": "User supplied originals; WebP encoding only.",
   "assets": [
     {
-      "source": "xolta.jpg",
+      "source": "Xoltacan.png",
       "file": "web/assets/xoltacan-portada.webp",
-      "source_sha256": "96082c64bdbb6823ac1241a6cd3cd1440a87dffc0e283b440a7f0e978dd156b4",
-      "sha256": "9c903b61769115459af3e1ccf7ead7a9b36750417ca16fd9b08b8e4f099cf567",
+      "source_sha256": "0e389f1f30b6ba57556b1e0deb4503c57abd2289f82a1476d3533b8e4db41ff7",
+      "sha256": "d668fe0b81dd5e4f4062a9a5c9ee27ae1a086446ccef66b8f2b506b0dec6489b",
       "width": 1280,
       "height": 720
     },
     {
-      "source": "kuroto.jpg",
+      "source": "Kuroto.png",
       "file": "web/assets/kuroto-portada.webp",
-      "source_sha256": "47e24d44b33fbc9ea7ce3e537f1ed78eb692d6aba68c92551e8e96515b157910",
-      "sha256": "1d186555b78be73bc6aca663cd606a17037357d1922e29435afb091da00dbe1c",
+      "source_sha256": "2f224c309e63413133688ac86b66bb139b1166592f986175166e136dd2f22776",
+      "sha256": "f4648f096f31547bf6c4f6ec6ae926e64aa33eb1d50942a7b58d7f7368a7525b",
       "width": 1280,
       "height": 720
     },

@@ -37,7 +37,7 @@
   "pruebas_navegador": {
     "comando": "node scripts/probar_interfaz.mjs",
     "resultado": "OK",
-    "cantidad": 187,
+    "cantidad": 196,
     "nombres_y_destinos_compartidos_entre_campanas": true,
     "terminos_comunes": [
       "Crónicas",
@@ -87,12 +87,13 @@
     "atlas_de_arghast_con_panel_y_cifras_reales": true,
     "registro_cabeceras_y_atlas": "web/assets/cabeceras-atlas.generacion.json",
     "tipografias_tematicas": {
-      "arghast": "Cinzel 600",
-      "xoltacan": "Macondo 400",
-      "kuroto": "Kaisei Tokumin 700"
+      "arghast": "IM Fell English SC 400: nombre del mundo, sidebar, topbar y controles",
+      "xoltacan": "Ambystoma Mexicanum: rotulos graficos en sidebar, topbar, botones, pestanas y secciones; Macondo para lectura",
+      "kuroto": "Karate 400: sidebar, topbar, botones, pestanas y secciones; Kaisei Tokumin para glifos ausentes"
     },
     "glifos_espanoles_verificados_en_motor_del_navegador": true,
-    "fuentes_incrustadas_sin_conexion_y_licencias_incluidas": true
+    "fuentes_incrustadas_sin_conexion_y_licencias_incluidas": true,
+    "rotulos_interfaz": "web/assets/rotulos-xoltacan.procedencia.json"
   },
   "xoltacan_conservado": {
     "capitulos": 39,
