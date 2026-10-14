@@ -1,0 +1,574 @@
+{
+  "capitulo": 34,
+  "estado_revision": "revisado",
+  "resumen": "Citlali, ya liberada y alejada de Shiaru por la advertencia de Bonnie, vuelve al Zampaolas para recoger sus pertenencias y el huevo. Los hipopótamos han reorganizado el camarote y explican que Ione expulsó a Nox. El huevo ha desaparecido. Blink, Zarial y Winscore se suman a la búsqueda. Detectar pensamientos permite encontrar a piratas que afirman que la Marina lo robó durante el ataque. Citlali golpea accidentalmente a Tim con una chancla; él cae al agua y el director confirma su muerte. Siguen un rastro de arrastre hacia el sur. Un combate contra dinosaurios derriba a Winscore y Zarial; el drenaje de vida de Mamá agrava las heridas del enano. Se recuperan y descansan. Encuentran un campamento de la Marina donde Pinky reclama el huevo. La magia mejora su sigilo y Blink entra en la tienda mientras Winscore corta la tela y Mamá distrae a los oficiales. Sacan el huevo, pero Pinky los denuncia. Huyen mientras Mamá encanta a los marines y Pinky incendia el campamento. Un disparo perfora la cáscara. Cuando se reúnen, la curación desencadena la eclosión de una gran cría de dinosaurio emplumada. Esta mata y devora al capitán que los persigue. El grupo parte hacia Cuicapalli para buscar refugio al bebé, todavía sin nombre.",
+  "misiones": [
+    "Recuperar el huevo: siguen la pista de la Marina y el rastro de arrastre. Lo extraen mediante infiltración y una distracción, pero los descubren y huyen. El huevo recibe un disparo y eclosiona después de ser curado; la cría está viva (34-003–34-018).",
+    "Buscar refugio para Citlali y la cría: parten hacia Cuicapalli y proponen una cueva como alternativa. No se muestra la llegada ni obtienen permiso (34-020)."
+  ],
+  "preguntas": [
+    "¿Qué causa las lagunas de memoria de Blink? No se explica (34-001).",
+    "¿Dónde están Triel, ausente una semana, y Nox, expulsado del barco? Se mencionan sin revelar sus paraderos (34-001 y 34-003).",
+    "¿En qué estado quedan el campamento y Pinky y qué causa la desaparición de Paco? Hay un incendio y una huida, sin un balance final (34-017).",
+    "¿Cuál es el nombre y la especie de la cría? ¿La aceptarán en Cuicapalli? Queda pendiente (34-018–34-020)."
+  ],
+  "contradicciones": [
+    "El médico piensa en un huevo pequeño, no en el huevo de dinosaurio que buscan (34-005–34-006).",
+    "Que los hipopótamos tiraran el nido no demuestra que robaran el huevo. Los testigos señalan a la Marina (34-003 y 34-006).",
+    "Mamá no cura inicialmente al enano: le roba dieciocho puntos de vida y contribuye a su caída. Después aplica una curación normal de siete puntos y se disculpa (34-009–34-010).",
+    "La invisibilidad de Blink no incluye al huevo según la adjudicación de la mesa (34-014).",
+    "Citlali interpreta que la buscan o amenazan. El director aclara que Bonnie le advirtió que se alejara por el peligro de la Marina (34-020)."
+  ],
+  "nombres_dudosos": [
+    "Zarial/Azarial/Tarial/Sarial es la paladina, distinta de Eleanor.",
+    "Winscore/Winscor/Winson es el explorador enano, de grafía provisional.",
+    "Mike y Luis aparecen en bromas sobre los guardias y no identifican de forma fiable a los capitanes.",
+    "La cría se describe como un dinosaurio o pollo emplumado, sin nombre ni especie exacta."
+  ],
+  "fuente_sha256": "b8e1d7e32cb4dab501e9297e7e70cadb6ffa7ebaf1e317af220f23e1c709d7fd",
+  "afirmaciones": [
+    {
+      "id": "34-001",
+      "titulo": "Recapitulaciones y libertad de Citlali",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Zarial ha pasado tiempo con su amiga Triel, ausente desde hace una semana, y pierde seis monedas de oro mientras duerme en Shiaru. Winscore explora los alrededores y viene de Cuicapalli. Citlali afirma que una pirata la liberó y habló con ella y Nox; evita Shiaru por la advertencia de Bonnie. Blink relata lagunas de memoria e intentos fallidos de marcharse.",
+      "inicio": "00:00:00.000",
+      "fin": "00:05:30.000",
+      "cita": "cierta pirata la haya",
+      "evidencia_cue": {
+        "inicio": "00:03:09.959",
+        "fin": "00:03:13.030",
+        "texto": "Pues después de que cierta pirata la haya este liberado,"
+      },
+      "entidades": [
+        "Zarial / Azarial (paladina, grafía provisional)",
+        "Triel (elfa hermana, grafía provisional)",
+        "Winscore / Winscor (explorador enano, grafía provisional)",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Blink / Blank",
+        "Happy Bonnie / Bonny (grafía provisional)"
+      ],
+      "ambito": "recapitulaciones",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se confirma la causa de la amnesia de Blink ni que sea mágica. Citlali refiere su liberación, por lo que no sigue cautiva."
+    },
+    {
+      "id": "34-002",
+      "titulo": "Planes de Cuicapalli y encuentro del enano",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Blink propone a Zarial viajar al día siguiente a Cuicapalli, pero ella quiere avisar a Triel. Winscore se presenta, describe los experimentos del médico y afirma que no frecuenta a los piratas. Hablan de abandonar el pueblo y de sus peligros.",
+      "inicio": "00:06:00.000",
+      "fin": "00:12:20.000",
+      "cita": "Winscor a su servicio",
+      "evidencia_cue": {
+        "inicio": "00:10:47.160",
+        "fin": "00:10:52.790",
+        "texto": "y tú eres buenas Winscor a su servicio."
+      },
+      "entidades": [
+        "Blink / Blank",
+        "Zarial / Azarial (paladina, grafía provisional)",
+        "Winscore / Winscor (explorador enano, grafía provisional)",
+        "Cuicapalli"
+      ],
+      "ambito": "encuentro",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": ""
+    },
+    {
+      "id": "34-003",
+      "titulo": "Nox expulsado y huevo desaparecido",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Citlali entra con sigilo en el Zampaolas y el camarote de Nox. Mingo, Mango y Mungo lo han reorganizado con plantas y una librería. Afirman que Ione expulsó a Nox. Citlali ofrece chocolate especial para pasar y recupera sus cosas, pero no el huevo ni el nido. Los hipopótamos dicen que encontraron paja y ropa sin huevo, las consideraron basura y tiraron el nido.",
+      "inicio": "00:12:00.000",
+      "fin": "00:19:55.000",
+      "cita": "Nox ya no pertenece a la tripulación",
+      "evidencia_cue": {
+        "inicio": "00:15:00.440",
+        "fin": "00:15:01.910",
+        "texto": "Ah, bueno, es que Nox ya no pertenece a la tripulación. La capitana la ha"
+      },
+      "entidades": [
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Zampaolas",
+        "Nox",
+        "Ione",
+        "Mingo, Mango y Mungo (hipopótamos, grafía provisional)",
+        "Huevo criado por Mamá"
+      ],
+      "ambito": "camarote y pérdida",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La expulsión procede del relato de los tripulantes. No demuestra que robaran el huevo, que según ellos ya faltaba. No se aplica un efecto del chocolate en la narración."
+    },
+    {
+      "id": "34-004",
+      "titulo": "Mamá pide ayuda y frutas",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Mamá se oculta cerca de la entrada y cuenta a Blink que el huevo ha desaparecido. Blink reúne a Zarial y Winscore y les presenta a Citlali. Consideran a la Marina, Bonnie y Nox como posibles responsables, sin pruebas iniciales. Una fruta reduce veinte centímetros la altura de Zarial y triplica la capacidad de carga de Blink.",
+      "inicio": "00:20:00.000",
+      "fin": "00:29:50.000",
+      "cita": "puedes carar tres veces más",
+      "evidencia_cue": {
+        "inicio": "00:29:08.039",
+        "fin": "00:29:10.110",
+        "texto": "que pueda. Un trozo. Oh, pues puedes carar tres veces más el"
+      },
+      "entidades": [
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Blink / Blank",
+        "Zarial / Azarial (paladina, grafía provisional)",
+        "Winscore / Winscor (explorador enano, grafía provisional)",
+        "Huevo criado por Mamá"
+      ],
+      "ambito": "reunión y efectos temporales",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": ""
+    },
+    {
+      "id": "34-005",
+      "titulo": "Origen del huevo y barrido mental",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Citlali afirma que el huevo pertenece a un dinosaurio cuya madre mataron al defender a una persona atacada. Dice que lo cría para cumplir una promesa. Según la conversación, Merlucilla IV se llevó el cadáver del elfo. Blink utiliza detectar pensamientos mientras recorre el pueblo. Oye al médico pensar en un trozo de huevo y a unos piratas hablar de un huevo enorme.",
+      "inicio": "00:30:00.000",
+      "fin": "00:36:50.000",
+      "cita": "el origen del huevo que es de un dinosaurio",
+      "evidencia_cue": {
+        "inicio": "00:31:01.600",
+        "fin": "00:31:05.230",
+        "texto": "contar tanto un poco del origen del huevo que es de un dinosaurio, que"
+      },
+      "entidades": [
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Huevo criado por Mamá",
+        "Blink / Blank",
+        "Merlucilla IV (tigre)",
+        "Erendriel (grafía provisional)"
+      ],
+      "ambito": "testimonio y pesquisa",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "El apodo Mamá no establece una maternidad literal de Citlali o Blink. Se refiere la retirada del cadáver, sin una escena de entierro."
+    },
+    {
+      "id": "34-006",
+      "titulo": "Marina se llevó huevo y Tim muere",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Blink comprueba que el médico tiene un huevo pequeño y un cadáver, no el huevo que buscan. Citlali increpa a los piratas del muelle. Dicen que la Marina se llevó el huevo durante el ataque y creen que lo llevaron al bosque. Ella golpea a Tim con una chancla; él cae al agua y desaparece. El director confirma su muerte y menciona un kraken previo, sin añadir detalles.",
+      "inicio": "00:37:00.000",
+      "fin": "00:44:55.000",
+      "cita": "Tim ha muerto",
+      "evidencia_cue": {
+        "inicio": "00:44:05.720",
+        "fin": "00:44:07.829",
+        "texto": "tenías tanto por lo que vivir. Sí, Tim ya no está. Tim ha muerto, mamá,"
+      },
+      "entidades": [
+        "Blink / Blank",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Tim (pirata del muelle)",
+        "Marina",
+        "Huevo criado por Mamá",
+        "Criatura marina del muelle (kraken referido)"
+      ],
+      "ambito": "pista y muerte",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "El médico no se comió el huevo de dinosaurio. La suposición del pirata tampoco confirma su destino exacto."
+    },
+    {
+      "id": "34-007",
+      "titulo": "Rastro al sur y cadáveres mordidos",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Citlali encuentra un gran surco de arrastre, distinto de la paja del nido que desecharon los hipopótamos. Lo siguen al sur de Shiaru. Encuentran dos cadáveres de la Marina. Winscore identifica arañazos y mordeduras, sin balas o cortes, aunque su posición sugiere una refriega. Mamá y el enano detectan dinosaurios cerca.",
+      "inicio": "00:45:00.000",
+      "fin": "00:50:55.000",
+      "cita": "marcas de arañazos y mordidas",
+      "evidencia_cue": {
+        "inicio": "00:50:14.839",
+        "fin": "00:50:19.470",
+        "texto": "ves que tienen marcas de arañazos y mordidas. Y ves que justo en ese momento"
+      },
+      "entidades": [
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Winscore / Winscor (explorador enano, grafía provisional)",
+        "Marina",
+        "Dinosaurios de la ruta del huevo",
+        "Shiaru"
+      ],
+      "ambito": "rastro y emboscada",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": ""
+    },
+    {
+      "id": "34-008",
+      "titulo": "Dinosaurios emboscan y magia defensiva",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Los dinosaurios muerden y arañan al grupo y sorprenden a Zarial y Blink. Mamá mata a uno con las chanclas. Blink cura, utiliza susurros disonantes para provocar huidas y ataques aliados y desvía a una criatura con telequinesis. Zarial ataca y se coloca en posición; Winscore también combate. El grupo recibe varios golpes.",
+      "inicio": "00:50:00.000",
+      "fin": "01:10:55.000",
+      "cita": "dos zapatillazos",
+      "evidencia_cue": {
+        "inicio": "00:55:02.480",
+        "fin": "00:55:05.030",
+        "texto": "el hueso. Hemos visto de dos zapatillazos como matan a un dinosaurio."
+      },
+      "entidades": [
+        "Dinosaurios de la ruta del huevo",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Blink / Blank",
+        "Zarial / Azarial (paladina, grafía provisional)",
+        "Winscore / Winscor (explorador enano, grafía provisional)"
+      ],
+      "ambito": "combate",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La grafía de la especie es incierta. Los nombres técnicos mal reconocidos no permiten identificar a cada criatura."
+    },
+    {
+      "id": "34-009",
+      "titulo": "Mamá drena Winscore y ambos aliados caen",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Mamá toca el cuello de Winscore y le roba dieciocho puntos de vida para curarse y rejuvenecer. Los ataques posteriores derriban al enano y a Zarial. Blink lanza patrón hipnótico, que afecta a Mamá y a un dinosaurio. Baja para dar una poción de Arwen a Zarial, que recupera el conocimiento con ceceo. Blink termina la concentración para liberar a Mamá.",
+      "inicio": "01:11:00.000",
+      "fin": "01:19:55.000",
+      "cita": "te roba",
+      "evidencia_cue": {
+        "inicio": "01:13:18.760",
+        "fin": "01:13:21.070",
+        "texto": "Y te los ha robado. No es que te te haya hecho daño, que te roba."
+      },
+      "entidades": [
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Winscore / Winscor (explorador enano, grafía provisional)",
+        "Zarial / Azarial (paladina, grafía provisional)",
+        "Blink / Blank",
+        "Pociones de Arwen"
+      ],
+      "ambito": "drenaje y recuperación",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Mamá presenta el drenaje como una necesidad, no como una curación del enano. Las caídas no suponen muertes ni resurrecciones."
+    },
+    {
+      "id": "34-010",
+      "titulo": "Combate resuelto y descanso corto",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Zarial se levanta y mata a dos dinosaurios; el grupo elimina la amenaza. Mamá da una poción a Winscore para recuperarlo, después le cura siete puntos de forma normal y se disculpa. Zarial utiliza treinta puntos de imposición de manos. Entre los cadáveres encuentran una perla y un pergamino de nivel uno cuyo conjuro desconocen. Descansan una hora pese a la urgencia de Mamá.",
+      "inicio": "01:20:00.000",
+      "fin": "01:31:55.000",
+      "cita": "y el otro un pergamino",
+      "evidencia_cue": {
+        "inicio": "01:28:52.320",
+        "fin": "01:28:55.470",
+        "texto": "y el otro un pergamino a nivel un"
+      },
+      "entidades": [
+        "Zarial / Azarial (paladina, grafía provisional)",
+        "Winscore / Winscor (explorador enano, grafía provisional)",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Pergamino de cadáver de Marina sin identificar"
+      ],
+      "ambito": "recuperación y botín",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": ""
+    },
+    {
+      "id": "34-011",
+      "titulo": "Polen resistido y rastro recuperado",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Durante el descanso en la selva oyen movimiento. Blink y Zarial intentan ocultarse y Winscore prepara fuego. Mamá come una fruta que vuelve pegajosa su saliva. Zarial resiste un polen extraño. No identifican a un atacante y se marchan. Recuperan el surco del huevo hacia el sur y llegan al anochecer a las luces de un campamento junto al río.",
+      "inicio": "01:32:00.000",
+      "fin": "01:41:55.000",
+      "cita": "un polen raro",
+      "evidencia_cue": {
+        "inicio": "01:36:24.080",
+        "fin": "01:36:26.189",
+        "texto": "Vale, pues Tarial es notarías como como si un polen raro pues te venía en"
+      },
+      "entidades": [
+        "Zarial / Azarial (paladina, grafía provisional)",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Campamento Marina de recuperación del huevo",
+        "Huevo criado por Mamá"
+      ],
+      "ambito": "marcha y amenaza desconocida",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se demuestra que el polen proceda de Pinky o de otra criatura concreta."
+    },
+    {
+      "id": "34-012",
+      "titulo": "Infiltración y Pinky retenida",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "El grupo prefiere recuperar el huevo sin matar. Una magia mejora su sigilo en diez puntos mientras permanezcan cerca. En el campamento, dos capitanes discuten con una anciana sujeta por los marines: Pinky lleva dos días reclamando algo suyo. Su percepción pasiva le permite detectar a Blink y Winscore mientras bordean el campamento.",
+      "inicio": "01:42:00.000",
+      "fin": "01:50:55.000",
+      "cita": "lleva dos días siguiéndonos",
+      "evidencia_cue": {
+        "inicio": "01:47:33.560",
+        "fin": "01:47:36.399",
+        "texto": "[ __ ] vez que lleva dos días siguiéndonos.\""
+      },
+      "entidades": [
+        "Campamento Marina de recuperación del huevo",
+        "Pinky / Pinki (grafía provisional)",
+        "Marina",
+        "Blink / Blank",
+        "Winscore / Winscor (explorador enano, grafía provisional)",
+        "Mamá / Citlali (identificación contextual provisional)"
+      ],
+      "ambito": "infiltración",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "El director aclara que es un campamento distinto de Fuerte Aurora."
+    },
+    {
+      "id": "34-013",
+      "titulo": "Mamá distrae y Blink encuentra huevo",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Mamá intenta atraer a un perro con una piedra y hablar con animales. El ladrido alerta a un guardia, que la encuentra. Ella finge estar perdida y él la acompaña, sangrando por su cercanía a la maldición. Winscore, Blink y Zarial llegan a una tienda. Blink entra por debajo y encuentra el huevo. Winscore corta la tela y Zarial vigila mientras Mamá llora ante los oficiales para distraerlos.",
+      "inicio": "01:50:00.000",
+      "fin": "02:04:20.000",
+      "cita": "te metes dentro y ves un huevo",
+      "evidencia_cue": {
+        "inicio": "01:57:43.280",
+        "fin": "01:57:47.709",
+        "texto": "25. Vale, pues te metes dentro y ves un huevo."
+      },
+      "entidades": [
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Perro amigo de Mamá en campamento",
+        "Guardia que acompaña Mamá (sin identidad firme)",
+        "Blink / Blank",
+        "Winscore / Winscor (explorador enano, grafía provisional)",
+        "Zarial / Azarial (paladina, grafía provisional)",
+        "Huevo criado por Mamá"
+      ],
+      "ambito": "localización y distracción",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": ""
+    },
+    {
+      "id": "34-014",
+      "titulo": "Pinky delata extracción e invisibilidad parcial",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Gracias a la capacidad de carga triplicada, Blink vuela con el huevo a través del corte de la tienda. Pinky señala a los ladrones y denuncia la mentira de Mamá. Los marines atacan y disparan. Blink utiliza Invisibilidad Mayor, pero el huevo sigue visible según la adjudicación sobre su tamaño o condición de criatura. Winscore y Zarial huyen al norte.",
+      "inicio": "02:04:00.000",
+      "fin": "02:12:55.000",
+      "cita": "os quieren robar el huevo",
+      "evidencia_cue": {
+        "inicio": "02:05:29.679",
+        "fin": "02:05:31.390",
+        "texto": "y hace está mintiendo, os quieren robar el huevo esos de allí y os señala a"
+      },
+      "entidades": [
+        "Blink / Blank",
+        "Huevo criado por Mamá",
+        "Pinky / Pinki (grafía provisional)",
+        "Marina",
+        "Winscore / Winscor (explorador enano, grafía provisional)",
+        "Zarial / Azarial (paladina, grafía provisional)"
+      ],
+      "ambito": "extracción descubierta",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "El huevo no se vuelve invisible y los tres no vuelven a ser capturados."
+    },
+    {
+      "id": "34-015",
+      "titulo": "Mamá encanta y Pinky combate",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "El perro acepta a Mamá y no la ataca, aunque la mesa no permite que lo controle para atacar a su dueño. Mamá encanta a unos marines, que defienden su inocencia. Pinky queda libre, reclama el huevo, lanza fuego contra un marine y una tienda, recibe disparos y huye. El drenaje de Mamá hace sangrar a los aliados encantados.",
+      "inicio": "02:12:00.000",
+      "fin": "02:20:55.000",
+      "cita": "no estás controlando al perro",
+      "evidencia_cue": {
+        "inicio": "02:13:25.119",
+        "fin": "02:13:26.790",
+        "texto": "marines ni va a impedir muchas cosas. O sea, no estás controlando al perro. O"
+      },
+      "entidades": [
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Pinky / Pinki (grafía provisional)",
+        "Perro amigo de Mamá en campamento",
+        "Marines encantados por Mamá",
+        "Marina"
+      ],
+      "ambito": "distracción y violencia",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Las bromas sobre relaciones polígamas entre marines no demuestran una organización o afiliación."
+    },
+    {
+      "id": "34-016",
+      "titulo": "Disparo agujerea huevo y Mamá se zafa",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Un disparo dirigido al huevo perfora la cáscara y deja un agujero con líquido y respiración. Blink lo tapa con el dedo, continúa huyendo y prepara magia contra sus perseguidores. Mamá vuelve a drenar vida y utiliza Paso brumoso para huir al sur. Los marines encantados frenan a sus compañeros.",
+      "inicio": "02:20:00.000",
+      "fin": "02:25:55.000",
+      "cita": "el huevo tiene un agujero",
+      "evidencia_cue": {
+        "inicio": "02:22:38.840",
+        "fin": "02:22:40.270",
+        "texto": "E le he dado, o sea, le he dado al al huevo y el huevo tiene un agujero ahora"
+      },
+      "entidades": [
+        "Huevo criado por Mamá",
+        "Blink / Blank",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Marina"
+      ],
+      "ambito": "daño y escape",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "El disparo no confirma la muerte del embrión ni la discapacidad sugerida en las bromas."
+    },
+    {
+      "id": "34-017",
+      "titulo": "Pinky incendia campamento y grupo se reúne",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Pinky lanza un muro de fuego y ríe entre las llamas y los gritos de los marines. Los fugitivos se alejan durante horas hasta reunirse, sin perseguidores inmediatos. Un marine que corría junto a los tres desaparece tragado por la tierra, según el director, sin una explicación. El huevo conserva el agujero.",
+      "inicio": "02:26:00.000",
+      "fin": "02:32:55.000",
+      "cita": "cortina de fuego ardiendo",
+      "evidencia_cue": {
+        "inicio": "02:31:16.560",
+        "fin": "02:31:19.550",
+        "texto": "campamento y cuando miráis hacia atrás veis como una cortina de fuego ardiendo"
+      },
+      "entidades": [
+        "Pinky / Pinki (grafía provisional)",
+        "Campamento Marina de recuperación del huevo",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Blink / Blank",
+        "Marine desaparecido durante huida (Paco referido)",
+        "Huevo criado por Mamá"
+      ],
+      "ambito": "huida y reunión",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se confirma la muerte de todos los marines ni se identifica la causa de la desaparición."
+    },
+    {
+      "id": "34-018",
+      "titulo": "Eclosiona bebé dinosaurio",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Blink cura el huevo. La figura interior brilla y rompe la cáscara desde dentro. Sale una cría enorme, emplumada y con pico, descrita como un pollo. Blink aumenta su propio tamaño para no parecer una presa y recoge insectos para Mamá. Citlali intenta alimentar a la cría mientras le canta nanas.",
+      "inicio": "02:32:00.000",
+      "fin": "02:37:30.000",
+      "cita": "sale un pico de repente",
+      "evidencia_cue": {
+        "inicio": "02:33:43.200",
+        "fin": "02:33:47.190",
+        "texto": "está bien. Pum. Y ves que sale un pico de repente."
+      },
+      "entidades": [
+        "Blink / Blank",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Cría dinosaurio de Mamá (sin nombre)",
+        "Huevo criado por Mamá"
+      ],
+      "ambito": "eclosión",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "El huevo ya no permanece intacto. No se determina la especie exacta ni las habilidades adultas de la cría."
+    },
+    {
+      "id": "34-019",
+      "titulo": "Cría mata y come capitán perseguidor",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Un capitán quemado y sangrante sale de la jungla y dispara cerca de Mamá. La cría intenta atacarlo y falla al principio. La magia lo inmoviliza y el dinosaurio acierta con un crítico, lo mata y lo traga. El grupo cuestiona que se alimente de carne humana.",
+      "inicio": "02:36:00.000",
+      "fin": "02:39:30.000",
+      "cita": "Empieza a tragarse",
+      "evidencia_cue": {
+        "inicio": "02:38:52.000",
+        "fin": "02:38:52.710",
+        "texto": "Y empieza a comérselo. Empieza a tragarse que [risas] le veis las"
+      },
+      "entidades": [
+        "Cría dinosaurio de Mamá (sin nombre)",
+        "Capitán perseguidor del huevo (sin nombre)",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Blink / Blank"
+      ],
+      "ambito": "combate tras eclosión",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se identifica con certeza cuál de los dos oficiales es ni se establece una domesticación completa."
+    },
+    {
+      "id": "34-020",
+      "titulo": "Rumbo Cuicapalli con cría",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Winscore propone como refugio una cueva de hombres serpiente muertos cerca de Cuicapalli. Mamá prefiere la ciudad, aunque teme que no la acepten. El director aclara que Bonnie la apartó de Shiaru para evitar a la Marina, sin que eso implique que la persiga. Parten hacia Cuicapalli con la cueva como alternativa y guían al bebé mediante un conejo ilusorio. La cría come la cartera de Winscore con dos monedas de oro. Todavía no tiene nombre.",
+      "inicio": "02:39:00.000",
+      "fin": "02:47:55.000",
+      "cita": "camino hacia Cuikapali",
+      "evidencia_cue": {
+        "inicio": "02:47:12.560",
+        "fin": "02:47:16.309",
+        "texto": "Y nada, gente, pues iréis de camino hacia Cuikapali y mientras ya tenéis ese"
+      },
+      "entidades": [
+        "Cuicapalli",
+        "Cueva de hombres serpiente propuesta como refugio",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Winscore / Winscor (explorador enano, grafía provisional)",
+        "Cría dinosaurio de Mamá (sin nombre)",
+        "Happy Bonnie / Bonny (grafía provisional)"
+      ],
+      "ambito": "destino y cierre",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No llegan a la ciudad ni obtienen su aceptación. Tampoco se alojan aún en la cueva."
+    }
+  ]
+}

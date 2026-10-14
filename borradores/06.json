@@ -1,0 +1,874 @@
+{
+  "capitulo": 6,
+  "estado_revision": "revisado",
+  "resumen": "La sesión reúne a Blink, Ione, el visitante Kilzer/Kilcer, Chochi y Sir Poncelot. Se introduce una tirada de sucesos al dormir cerca del poblado y se adjudican gemas y monedas. Ione recapitula que Bonnie ya localizó la gema entregada por Patata a la encargada de la Sirena Borracha y le ordenó recuperar las demás. Poncelot sigue buscando a Merlucilla porque cree que se escapó y ha estado limpiando para Liz, a quien interpreta como una jueza. Un loro roba el monedero de Chochi y lo deja caer al mar; el visitante lo recupera a cambio de la mitad. Poncelot encuentra una botella con una sirena reducida, que Chochi consigue abrir. La sirena relata que piratas con bandera de banana la capturaron para llegar a su tesoro; Ione identifica esa bandera con el legendario Elger Banana. El grupo decide escoltarla a su señora. La sirena les proporciona burbujas para respirar y bajan entre ruinas. Se desvían hacia un hipocampo atacado por tiburones; salvan al animal y Poncelot lo monta y llama Merlucilla II. Llegan después a las sirenas: la señora devuelve el tamaño a la liberada, llamada Marina, y ofrece un tesoro como señuelo antes de atacar. Aparece una tercera sirena. Ione vuelve a transformarse, ataca a Chochi y pierde su burbuja; huye hacia la superficie y la selva. Blink es convertida en pez durante parte del combate y Chochi cae al borde de la muerte. Los restantes derrotan a las sirenas, Poncelot devuelve la consciencia a Chochi con una poción y toman perlas y monedas, con una discrepancia final sobre la cantidad de oro. Regresan; Chochi y el visitante van a buscar atención médica, Blink busca a Ione y Poncelot conserva el botín para repartirlo.",
+  "registros": [
+    [
+      "00:00:00",
+      "00:02:20",
+      "Sucesos al dormir y valor de los tesoros",
+      "explicacion_director",
+      "El director introduce una tirada de sucesos para quienes duermen en el poblado pirata o sus cercanías. Blink recibe una gema de obsidiana. Explica que habrá objetos de valor además de monedas y que los comerciantes parten de comprar a la mitad del valor indicado, con opción de regatear.",
+      [
+        "Blink / Blank",
+        "Shiaru",
+        "Sucesos de descanso en Shiaru"
+      ],
+      "te lo comprarán por cinco",
+      "mecánica de economía y descanso de la mesa",
+      [],
+      "desconocido",
+      "No se convierte esa adjudicación en ley económica universal de todas las ciudades. No se fija un valor numérico de la obsidiana a partir de lo que no se lee en la interfaz."
+    ],
+    [
+      "00:02:15",
+      "00:05:55",
+      "Monedas perdidas y encontradas",
+      "explicacion_director",
+      "Ione recibe otra obsidiana. El visitante pierde cuatro monedas durante sus descansos y Chochi encuentra cuatro. La mesa las relaciona narrativamente, pero no se representa a Chochi robando al visitante ni se identifica un ladrón.",
+      [
+        "Ione",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Chochi (grafía provisional)"
+      ],
+      "cuatro monedas",
+      "sucesos de descanso adjudicados",
+      [],
+      "desconocido",
+      "El visitante no recibe información sobre autoría de su pérdida. Hallazgo y robo no son la misma acción."
+    ],
+    [
+      "00:06:00",
+      "00:07:15",
+      "Blink busca a sus captores",
+      "declaracion_personaje",
+      "Blink relata haber hostigado a los dos piratas que la capturaron, dejando caer cocos y quitándoles objetos en el bosque. Lleva días sin verlos y los busca con cautela por tejados y calles del poblado.",
+      [
+        "Blink / Blank",
+        "Dos piratas captores (sin nombres)",
+        "Shiaru"
+      ],
+      "hace un par de días que no los veo",
+      "actividad entre sesiones",
+      [],
+      "desconocido",
+      "No se identifica a esos dos con los tres piratas enviados por Bonnie en el capítulo 4 ni se da por probada su muerte."
+    ],
+    [
+      "00:06:55",
+      "00:08:00",
+      "Bonnie localiza una gema y exige las demás",
+      "declaracion_personaje",
+      "Ione recapitula que Bonnie encontró una gema que Patata había entregado a Lizy y le ordenó conseguir de vuelta las gemas repartidas para comprar el silencio de los compañeros. Ione se hace la desentendida.",
+      [
+        "Ione",
+        "Happy Bonnie / Bonny (grafía provisional)",
+        "Patata / Patatamán (grafía provisional)",
+        "Liz / Lizy (encargada de Sirena Borracha, grafía provisional)",
+        "Gemas extraídas del collar"
+      ],
+      "consígueme las gemas",
+      "encargo posterior al informe del capítulo 4",
+      [
+        "Ione",
+        "Happy Bonnie / Bonny (grafía provisional)"
+      ],
+      "desconocido",
+      "Confirma que la búsqueda avanzó; no que Ione recuperara ya todas las gemas ni que hubiera pago o castigo definitivo a Patata."
+    ],
+    [
+      "00:08:00",
+      "00:09:45",
+      "Huida estudiada y pertenencia de Chochi",
+      "declaracion_personaje",
+      "El visitante relata haber examinado un mapa para huir a otro poblado, sin saber cómo atravesar la jungla. Chochi dice que, por la apuesta, acabó en la tripulación de Ione; meditó y volvió para tratar de acostumbrarse a los piratas.",
+      [
+        "Kilzer / Kilcer (grafía provisional)",
+        "Chochi (grafía provisional)",
+        "Ione",
+        "Zampaolas (tripulación)"
+      ],
+      "tripulación de Ione",
+      "relatos de actividad entre sesiones",
+      [],
+      "desconocido",
+      "La pertenencia es admitida en el relato de Chochi; no se extiende al visitante ni resuelve todos los términos monetarios de la apuesta del capítulo 2."
+    ],
+    [
+      "00:10:00",
+      "00:14:00",
+      "Ione en el pozo y ayuda de Blink",
+      "hecho_confirmado",
+      "Blink encuentra a Ione medio metida de cabeza en el pozo de suciedad del poblado. Reconoce sus gritos, recuerda la trampa de la selva e intenta sacarla tirando del pelo. Ione pide ayuda y no reconoce inicialmente al hada.",
+      [
+        "Blink / Blank",
+        "Ione",
+        "Shiaru"
+      ],
+      "Ayúdame, ayúdame",
+      "encuentro en la plaza",
+      [
+        "Blink / Blank",
+        "Ione"
+      ],
+      "desconocido",
+      "El olvido momentáneo no prueba amnesia permanente. La causa de quedar en el pozo se explica luego por una pelea, no por la trampa del capítulo 3."
+    ],
+    [
+      "00:14:00",
+      "00:16:45",
+      "Gema de Liz y suministro del poblado",
+      "declaracion_personaje",
+      "El visitante ve a la encargada de la Sirena Borracha con una gema igual a la que conserva. Ella dice que un cliente le pagó con cosas bonitas y que recolectores y Bonnie proporcionan los suministros, mientras Bonnie controla lo que entra y sale.",
+      [
+        "Kilzer / Kilcer (grafía provisional)",
+        "Liz / Lizy (encargada de Sirena Borracha, grafía provisional)",
+        "La Sirena Borracha",
+        "Happy Bonnie / Bonny (grafía provisional)",
+        "Gemas extraídas del collar"
+      ],
+      "Es la que controla lo que entra y lo que sale",
+      "conversación con la encargada",
+      [
+        "Kilzer / Kilcer (grafía provisional)",
+        "Liz / Lizy (encargada de Sirena Borracha, grafía provisional)"
+      ],
+      "desconocido",
+      "La atribución de control procede de Liz, no de registros mercantiles inspeccionados. La gema se vincula por continuidad con el pago de Patata en 04-030."
+    ],
+    [
+      "00:16:30",
+      "00:18:10",
+      "Nombre completo reservado de Chochi",
+      "declaracion_personaje",
+      "Al encontrarse con el visitante, Chochi permite que lo llamen Chochi/Sochi y dice que en su tierra el nombre completo se guarda para los jefes de aldea. No revela su nombre completo. El director lo describe como humano joven y nativo.",
+      [
+        "Chochi (grafía provisional)",
+        "Kilzer / Kilcer (grafía provisional)"
+      ],
+      "el nombre completo se guarda",
+      "presentación entre personajes",
+      [
+        "Chochi (grafía provisional)",
+        "Kilzer / Kilcer (grafía provisional)"
+      ],
+      "desconocido",
+      "No se generaliza esa costumbre a todas las tribus. El nombre completo sigue pendiente; no se inventa por etimología."
+    ],
+    [
+      "00:18:30",
+      "00:23:40",
+      "Poncelot cree que Merlucilla escapó",
+      "declaracion_personaje",
+      "Poncelot relata que encontró la cuerda rota y buscó a Merlucilla pensando que había escapado. Cuenta que Nox lo envió con unos piratas atados al lugar que considera juzgado; Liz le cobró sus diez monedas para una audiencia con Bonnie y lo puso a limpiar. Él interpreta cubo y mocho como casco y lanza sagrados y la limpieza como mazmorra.",
+      [
+        "Sir Poncelot",
+        "Merlucilla (dinosaurio, grafía provisional)",
+        "Nox",
+        "Liz / Lizy (encargada de Sirena Borracha, grafía provisional)",
+        "Happy Bonnie / Bonny (grafía provisional)",
+        "Mocho de Poncelot",
+        "La Sirena Borracha"
+      ],
+      "cuerda estaba rota",
+      "recapitulación de Poncelot",
+      [],
+      "desconocido",
+      "Poncelot no sabe que Ione relató comerse su montura en 04-003. Liz no queda confirmada como jueza oficial ni la limpieza como mazmorra sobrenatural. Recibe también una obsidiana por la tirada de descanso, sin tasación leída."
+    ],
+    [
+      "00:23:45",
+      "00:32:45",
+      "Cubo retirado y rescate del pozo",
+      "hecho_confirmado",
+      "El visitante quita el cubo que impide ver a Poncelot, quien cree que le levantó una maldición. Poncelot encuentra a Ione en el pozo, confunde a Blink con un atacante y saca a Ione. Ella relata que terminó allí tras una pelea contra semiorcos; ambos van al mar a lavarse.",
+      [
+        "Sir Poncelot",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Ione",
+        "Blink / Blank"
+      ],
+      "quito el hechizo",
+      "encuentros y rescate en el poblado",
+      [
+        "Sir Poncelot",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Ione",
+        "Blink / Blank"
+      ],
+      "desconocido",
+      "La maldición es interpretación del gnomo. El hada intentaba ayudar, no atacaba a Ione. La pelea previa no aparece representada."
+    ],
+    [
+      "00:34:30",
+      "00:40:00",
+      "Baño y entrenamiento presentado por Ione",
+      "hecho_confirmado",
+      "Poncelot e Ione se desnudan y bañan en el mar. Ella lo presenta como entrenamiento al desnudo y lo convence de acompañarla. El visitante y Chochi observan la escena; Chochi llama lago salado al mar.",
+      [
+        "Sir Poncelot",
+        "Ione",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Chochi (grafía provisional)",
+        "Blink / Blank"
+      ],
+      "entrenamiento al desnudo",
+      "baño junto al muelle",
+      [],
+      "desconocido",
+      "La justificación de Ione no convierte ese baño en método de entrenamiento reglado. No se fija ignorancia permanente de Chochi sobre toda geografía marítima."
+    ],
+    [
+      "00:40:00",
+      "00:44:15",
+      "El loro roba el monedero de Chochi",
+      "hecho_confirmado",
+      "Un loro con sombrero pirata se lleva el monedero de Chochi y lo deja caer al agua del muelle. El director lo presenta con una denominación humorística de loro random DM y explica que así reúne al grupo.",
+      [
+        "Chochi (grafía provisional)",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Loro del sombrero pirata (nombre no diegético)",
+        "Ione",
+        "Sir Poncelot"
+      ],
+      "se lleva una bolsita de cuero",
+      "robo del animal y comentario del director",
+      [
+        "Chochi (grafía provisional)",
+        "Kilzer / Kilcer (grafía provisional)"
+      ],
+      "desconocido",
+      "DM es referencia a su función en la mesa, no necesariamente nombre pronunciado por un personaje."
+    ],
+    [
+      "00:43:15",
+      "00:51:15",
+      "Rescate y reparto del monedero",
+      "hecho_confirmado",
+      "Chochi acuerda dar al visitante la mitad del monedero y una cerveza si lo recupera. El visitante gana a Ione la carrera bajo el agua y recoge la bolsa. Tras la disputa, devuelve siete monedas a Chochi y se queda otras siete; Ione no obtiene parte del reparto.",
+      [
+        "Chochi (grafía provisional)",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Ione"
+      ],
+      "siete monedas de oro",
+      "recuperación y reparto adjudicado",
+      [
+        "Chochi (grafía provisional)",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Ione"
+      ],
+      "desconocido",
+      "La suma de catorce corresponde al monedero de esta escena, no al patrimonio completo de Chochi. No se muestra aquí el pago de la cerveza adicional."
+    ],
+    [
+      "00:48:20",
+      "00:50:30",
+      "Blink habla telepáticamente a Ione",
+      "hecho_confirmado",
+      "Blink usa habla telepática para preguntar a Ione por lo que pasa. Ione se asusta, lo toma por un fantasma dentro de su cabeza y se golpea hasta que ve al hada saludándola desde una roca.",
+      [
+        "Blink / Blank",
+        "Ione"
+      ],
+      "Estoy en tu cabeza",
+      "comunicación telepática y reacción",
+      [
+        "Blink / Blank",
+        "Ione"
+      ],
+      "desconocido",
+      "El jugador aclara que transmite lo que quiere comunicar, no lectura automática de todos los pensamientos de Ione."
+    ],
+    [
+      "00:51:00",
+      "01:04:00",
+      "Botella con sirena liberada por Chochi",
+      "hecho_confirmado",
+      "Una botella golpea a Poncelot mientras se baña. Contiene a una sirena pequeña que habla. Poncelot no logra sacar el tapón y el visitante falla al intentar romper el cuello; Chochi consigue abrirlo usando una daga como sacacorchos. La sirena sale al agua, pero sigue pequeña.",
+      [
+        "Sir Poncelot",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Chochi (grafía provisional)",
+        "Blink / Blank",
+        "Marina (sirena liberada de botella)"
+      ],
+      "abres el taponcito",
+      "liberación de criatura en el muelle",
+      [
+        "Sir Poncelot",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Chochi (grafía provisional)",
+        "Blink / Blank"
+      ],
+      "desconocido",
+      "Su nombre Marina se pronuncia más adelante al llegar a su señora. No confundirla con el nombre Marina que Nox atribuía antiguamente a Molly."
+    ],
+    [
+      "01:03:40",
+      "01:07:00",
+      "Captura relatada y crecimiento temporal",
+      "declaracion_personaje",
+      "La sirena cuenta que unos piratas la capturaron y redujeron con un conjuro para meterla en una botella y que los guiara a su tesoro. Describe una bandera con enorme plátano. Blink prueba Agrandar y la sirena recupera tamaño durante un minuto, pero vuelve a encogerse.",
+      [
+        "Marina (sirena liberada de botella)",
+        "Blink / Blank",
+        "Piratas de Elger Banana (grafía provisional)"
+      ],
+      "una bandera con un enorme plátano",
+      "relato de captura y prueba mágica",
+      [
+        "Marina (sirena liberada de botella)",
+        "Blink / Blank",
+        "Sir Poncelot",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Chochi (grafía provisional)"
+      ],
+      "desconocido",
+      "El relato de captura es de la sirena; la reversión temporal se observa. No se identifica el conjuro original ni a su ejecutor."
+    ],
+    [
+      "01:08:30",
+      "01:15:50",
+      "Recompensa y opción de escolta",
+      "declaracion_personaje",
+      "La sirena propone informar a su señora y espera que les dé parte del tesoro como recompensa. Describe un gran buque negro, numerosos tripulantes y un gorila enorme con sombrero pirata. El grupo discute combatirlos, pero decide escoltarla para informar y buscar cómo devolverle tamaño.",
+      [
+        "Marina (sirena liberada de botella)",
+        "Piratas de Elger Banana (grafía provisional)",
+        "Sir Poncelot",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Chochi (grafía provisional)",
+        "Blink / Blank"
+      ],
+      "un parecía un gorila enorme",
+      "propuestas de misión en el muelle",
+      [],
+      "desconocido",
+      "El centenar de enemigos es aproximación en la mesa, no censo comprobado. No se realiza ataque al buque pirata."
+    ],
+    [
+      "01:15:20",
+      "01:19:55",
+      "Ione identifica a Elger Banana",
+      "explicacion_director",
+      "Al oír la descripción de la bandera, Ione reconoce al pirata al que el director llama Elger Banana: un pirata legendario considerado uno de los reyes de los piratas. Advierte que no pueden enfrentarse sin barco a esa flota con su pequeño grupo.",
+      [
+        "Ione",
+        "Elger Banana (rey pirata, grafía provisional)",
+        "Piratas de Elger Banana (grafía provisional)"
+      ],
+      "Elger Banana",
+      "reconocimiento de información por Ione",
+      [
+        "Ione"
+      ],
+      "desconocido",
+      "Rey de los piratas es reputación adjudicada, no genealogía o monarquía jurídica. La grafía del nombre queda pendiente de mejor transcripción o audio."
+    ],
+    [
+      "01:20:00",
+      "01:26:45",
+      "Salida en barca y burbujas para respirar",
+      "hecho_confirmado",
+      "Ione toma una barca y el grupo sigue a la sirena. Al ver que no pueden acompañarla bajo el agua, la sirena les da besos que forman burbujas alrededor de la cabeza para respirar. Los cinco bajan, algunos dejando ropa y armadura en la barca; Poncelot conserva la pesada y se hunde hasta el fondo.",
+      [
+        "Marina (sirena liberada de botella)",
+        "Ione",
+        "Sir Poncelot",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Chochi (grafía provisional)",
+        "Blink / Blank",
+        "Burbujas de respiración de la sirena"
+      ],
+      "respirar bajo el agua",
+      "inicio de escolta submarina",
+      [
+        "Marina (sirena liberada de botella)",
+        "Ione",
+        "Sir Poncelot",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Chochi (grafía provisional)",
+        "Blink / Blank"
+      ],
+      "desconocido",
+      "La sirena advierte que las burbujas pueden estallar si las tocan fuerte. No se declara que otorguen respiración acuática permanente ni un conjuro oficial determinado."
+    ],
+    [
+      "01:26:10",
+      "01:31:50",
+      "Ruinas submarinas y supuesto caballo",
+      "hecho_confirmado",
+      "El grupo ve columnas, huesos y ruinas sumergidas cerca de la costa. Ione reconoce una criatura con aspecto de caballo, escamas, aletas y cola; el director la identifica después como hipocampo. Ella convence a Poncelot de intentar otra montura sin esperar a comprender qué sucede alrededor del animal.",
+      [
+        "Ruinas submarinas frente a Shiaru",
+        "Ione",
+        "Sir Poncelot",
+        "Hipocampo Merlucilla II"
+      ],
+      "parece un caballo, pero tiene escamas",
+      "observación y desvío de la escolta",
+      [
+        "Ione",
+        "Sir Poncelot"
+      ],
+      "desconocido",
+      "No se identifica civilización ni fecha de inundación. Que Poncelot crea que tiene patas o cascos no altera la descripción acuática del director."
+    ],
+    [
+      "01:32:00",
+      "01:42:40",
+      "Tiburones sorprenden a los compañeros",
+      "hecho_confirmado",
+      "Poncelot e Ione se aproximan al hipocampo y reciben ataques de tiburones. El resto se une para ayudarlos y la sirena vuelve a socorrerlos. El hipocampo combate a sus agresores; los aventureros descubren dificultades de movimiento y ciertas armas bajo el agua.",
+      [
+        "Sir Poncelot",
+        "Ione",
+        "Hipocampo Merlucilla II",
+        "Tiburones de las ruinas",
+        "Marina (sirena liberada de botella)",
+        "Chochi (grafía provisional)",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Blink / Blank"
+      ],
+      "tiburón",
+      "combate incidental durante escolta",
+      [],
+      "desconocido",
+      "No se declara que el hipocampo sea ya aliado por atacar al mismo enemigo; el director rechaza inicialmente esa suposición al calcular un flanqueo."
+    ],
+    [
+      "01:45:30",
+      "01:52:10",
+      "Tiburones derrotados",
+      "hecho_confirmado",
+      "Ione inmoviliza un tiburón con una cuerda. Chochi mata a uno con su arco; el visitante apuñala al otro y la sirena lo remata. Los dos tiburones quedan muertos y el grupo, con heridas.",
+      [
+        "Ione",
+        "Chochi (grafía provisional)",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Marina (sirena liberada de botella)",
+        "Tiburones de las ruinas"
+      ],
+      "matas al tiburón",
+      "resolución del combate incidental",
+      [
+        "Ione",
+        "Chochi (grafía provisional)",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Sir Poncelot",
+        "Blink / Blank"
+      ],
+      "desconocido",
+      "Las bajas se distribuyen según adjudicaciones del director. La participación de la sirena en el rescate no garantiza sus intenciones posteriores."
+    ],
+    [
+      "01:51:45",
+      "01:56:55",
+      "Merlucilla II y tiburón Princesa",
+      "hecho_confirmado",
+      "Poncelot atrae al hipocampo con fruta, logra montarlo y lo llama Merlucilla II; la criatura adquiere fluorescencia al comer. Ione no consigue extraer dientes ni cortar una aleta de tiburón y arrastra su cadáver con la cuerda, llamándolo Princesa.",
+      [
+        "Sir Poncelot",
+        "Hipocampo Merlucilla II",
+        "Ione",
+        "Tiburón Princesa (cadáver)",
+        "Frutas de la selva (efectos de sesión)"
+      ],
+      "Merlucilla segundo",
+      "nueva montura y trofeo de Ione",
+      [
+        "Sir Poncelot",
+        "Ione",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Blink / Blank",
+        "Chochi (grafía provisional)"
+      ],
+      "desconocido",
+      "El cadáver Princesa no es la señora de la sirena ni un tiburón vivo domado. Merlucilla II es hipocampo diferente de Merlucilla, dinosaurio muerto del capítulo 4."
+    ],
+    [
+      "01:55:30",
+      "01:59:50",
+      "Pasajeros del hipocampo",
+      "hecho_confirmado",
+      "Blink se agarra a Poncelot sin que él lo note. El visitante pide viajar con él por su brazo mordido y Poncelot acepta; intenta convencerlo de ser su escudero durante el trayecto. El grupo vuelve a seguir a la sirena.",
+      [
+        "Blink / Blank",
+        "Sir Poncelot",
+        "Hipocampo Merlucilla II",
+        "Kilzer / Kilcer (grafía provisional)"
+      ],
+      "no te enteras",
+      "trayecto de montura con pasajeros",
+      [
+        "Blink / Blank",
+        "Sir Poncelot",
+        "Kilzer / Kilcer (grafía provisional)"
+      ],
+      "desconocido",
+      "Poncelot no conoce inicialmente al pasajero oculto Blink. La invitación a ser escudero no queda aceptada como vínculo formal."
+    ],
+    [
+      "01:58:30",
+      "02:05:50",
+      "Llegada al huevo y recuperación del tamaño de Marina",
+      "hecho_confirmado",
+      "Llegan a ruinas circulares con antorchas azules encendidas bajo el agua y un gran huevo abierto sobre musgo colocado como lecho. La señora aparece y llama Marina a la sirena liberada. Tras hablar con ella, le besa la frente y le devuelve su tamaño; ofrece al grupo escoger recompensa del tesoro del huevo.",
+      [
+        "Marina (sirena liberada de botella)",
+        "Señora de Marina (sirena, sin nombre)",
+        "Ruinas del huevo y tesoro de sirenas",
+        "Sir Poncelot",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Blink / Blank",
+        "Chochi (grafía provisional)",
+        "Ione"
+      ],
+      "¿eres tú, Marina?",
+      "fin de la escolta y oferta de tesoro",
+      [
+        "Marina (sirena liberada de botella)",
+        "Señora de Marina (sirena, sin nombre)",
+        "Sir Poncelot",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Blink / Blank",
+        "Chochi (grafía provisional)",
+        "Ione"
+      ],
+      "desconocido",
+      "El director aclara que señora no significa necesariamente reina. El huevo es recipiente o estructura observada; no se identifica especie que lo puso."
+    ],
+    [
+      "02:05:40",
+      "02:10:05",
+      "Recompensa como trampa y orden de matar al grupo",
+      "hecho_confirmado",
+      "Poncelot se acerca al huevo y ve perlas y oro. Resiste el intento de la señora de acercarse con dientes afilados; el director identifica a las criaturas como caníbales. La señora muestra rostro monstruoso, recrimina a Marina y ordena matarlos para que nadie salga sabiendo dónde está su tesoro.",
+      [
+        "Sir Poncelot",
+        "Señora de Marina (sirena, sin nombre)",
+        "Marina (sirena liberada de botella)",
+        "Tesoro del huevo de sirenas",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Blink / Blank",
+        "Chochi (grafía provisional)",
+        "Ione"
+      ],
+      "No pueden salir de aquí",
+      "traición de la oferta y comienzo del combate",
+      [
+        "Sir Poncelot",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Blink / Blank",
+        "Chochi (grafía provisional)",
+        "Ione"
+      ],
+      "desconocido",
+      "La tirada previa del visitante no había detectado intención oculta. El tesoro existe pese al engaño; no era todo una ilusión."
+    ],
+    [
+      "02:10:00",
+      "02:15:00",
+      "Ione se transforma al contacto de la sirena",
+      "hecho_confirmado",
+      "Ione ata el tiburón muerto a una columna. Una sirena se le acerca y acaricia la mejilla; tras la salvación fallida, Ione aumenta de tamaño, rompe la ropa, desarrolla pelo y garras y vuelve a forma de lobo. La sirena se asusta.",
+      [
+        "Ione",
+        "Marina (sirena liberada de botella)",
+        "Señora de Marina (sirena, sin nombre)",
+        "Tiburón Princesa (cadáver)",
+        "Sir Poncelot",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Blink / Blank",
+        "Chochi (grafía provisional)"
+      ],
+      "se vuelve literalmente una bestia",
+      "transformación durante batalla submarina",
+      [],
+      "desconocido",
+      "El personaje explica la transformación por excitación y caricia; se registra la secuencia sin afirmar que el contacto transmitió la licantropía."
+    ],
+    [
+      "02:13:50",
+      "02:22:40",
+      "Primera sirena abatida y aparición de una tercera atacante",
+      "hecho_confirmado",
+      "El visitante y el hipocampo hieren a una sirena, Poncelot la ataca desde su montura y Chochi la remata con una flecha. Aparece una tercera sirena por detrás y deja a Blink aturdida mediante una caricia o toque.",
+      [
+        "Kilzer / Kilcer (grafía provisional)",
+        "Hipocampo Merlucilla II",
+        "Sir Poncelot",
+        "Chochi (grafía provisional)",
+        "Blink / Blank",
+        "Tres sirenas del tesoro"
+      ],
+      "una tercera",
+      "combate de tres sirenas",
+      [],
+      "desconocido",
+      "No se identifica de forma inequívoca cuál baja corresponde a Marina y cuál a su señora. No se añaden sirenas extra por el número de iniciativas que comentan los jugadores."
+    ],
+    [
+      "02:22:00",
+      "02:26:50",
+      "Invisibilidad interrumpida y mocho contra Ione",
+      "hecho_confirmado",
+      "Ione muerde a una sirena y le golpea al intentar hacerse invisible, rompiendo su concentración. Poncelot, creyendo que un brujo ha maldecido a la capitana, trata de purificarla con el mocho o dejarla inconsciente; el primer intento falla.",
+      [
+        "Ione",
+        "Tres sirenas del tesoro",
+        "Sir Poncelot",
+        "Mocho de Poncelot"
+      ],
+      "rompe la concentración",
+      "acciones contra sirena e intento de controlar a Ione",
+      [
+        "Ione",
+        "Sir Poncelot"
+      ],
+      "desconocido",
+      "La maldición de un brujo es interpretación de Poncelot. La invisibilidad no significa que la sirena desaparezca o muera."
+    ],
+    [
+      "02:29:30",
+      "02:36:50",
+      "Ione muerde y hiere a Chochi",
+      "hecho_confirmado",
+      "Ione en forma de lobo ataca a Chochi por acercarse a ella. Lo muerde, obliga a realizar salvaciones de Constitución y el director indica que se siente mareado y mal. Al apartarse, recibe también un golpe de oportunidad de Ione.",
+      [
+        "Ione",
+        "Chochi (grafía provisional)",
+        "Sir Poncelot",
+        "Kilzer / Kilcer (grafía provisional)"
+      ],
+      "te empiezas a sentir un poco mareado y mal",
+      "ataque de la compañera transformada",
+      [
+        "Chochi (grafía provisional)",
+        "Ione"
+      ],
+      "desconocido",
+      "No se confirma una nueva transformación de Chochi ni contagio consumado. Se conserva como pista pendiente el mordisco, las salvaciones y el malestar. La jugadora de Ione intenta interpretar instinto animal, no hostilidad voluntaria en su forma habitual."
+    ],
+    [
+      "02:35:45",
+      "02:38:45",
+      "Blink convertida en pez",
+      "hecho_confirmado",
+      "Una sirena lanza un efecto que convierte a Blink en pez. El hada se oculta bajo el cadáver del tiburón y permanece allí mientras el combate continúa.",
+      [
+        "Blink / Blank",
+        "Tres sirenas del tesoro",
+        "Tiburón Princesa (cadáver)"
+      ],
+      "eres un pez",
+      "transformación temporal de Blink",
+      [
+        "Blink / Blank"
+      ],
+      "desconocido",
+      "La mesa identifica después Polimorfia; no se trata la forma como muerte o cambio permanente de especie."
+    ],
+    [
+      "02:42:20",
+      "02:49:05",
+      "Rotura de la burbuja y huida de Ione",
+      "hecho_confirmado",
+      "Poncelot consigue meter el mocho en la boca de Ione y rompe su burbuja de respiración. El hipocampo le da un fuerte golpe; Ione, herida y empezando a ahogarse, huye nadando hacia la superficie.",
+      [
+        "Sir Poncelot",
+        "Mocho de Poncelot",
+        "Ione",
+        "Hipocampo Merlucilla II",
+        "Burbujas de respiración de la sirena"
+      ],
+      "has roto la burbuja",
+      "control fallido y huida de Ione",
+      [
+        "Ione",
+        "Sir Poncelot"
+      ],
+      "desconocido",
+      "No queda inconsciente ni vuelve a su forma habitual en esta escena. La huida evita ahogamiento, pero abandona al grupo en plena batalla."
+    ],
+    [
+      "02:48:30",
+      "02:59:55",
+      "Segunda baja y Chochi agoniza",
+      "hecho_confirmado",
+      "El visitante mata a otra sirena y se aparta herido. Chochi recibe nuevos ataques, queda fuera de combate y empieza a realizar salvaciones de muerte. Poncelot queda aturdido por un toque de la sirena restante.",
+      [
+        "Kilzer / Kilcer (grafía provisional)",
+        "Tres sirenas del tesoro",
+        "Chochi (grafía provisional)",
+        "Sir Poncelot"
+      ],
+      "salvación de muerte",
+      "combate con dos bajas y aliados incapacitados",
+      [],
+      "desconocido",
+      "Chochi aún no ha muerto. El director realiza parte de las tiradas en privado; no se reconstruyen valores no vistos o no declarados."
+    ],
+    [
+      "02:59:45",
+      "03:01:45",
+      "El hipocampo rompe la concentración",
+      "hecho_confirmado",
+      "El hipocampo golpea a la sirena restante, que falla concentración y devuelve a Blink su forma de hada. El visitante le pide ayudar a Chochi porque está muriéndose.",
+      [
+        "Hipocampo Merlucilla II",
+        "Tres sirenas del tesoro",
+        "Blink / Blank",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Chochi (grafía provisional)"
+      ],
+      "ya no eres un pez",
+      "ruptura de Polimorfia y petición de ayuda",
+      [
+        "Blink / Blank",
+        "Kilzer / Kilcer (grafía provisional)"
+      ],
+      "desconocido",
+      "El cambio se debe a la concentración rota, no a que Blink deje voluntariamente el hechizo."
+    ],
+    [
+      "03:02:40",
+      "03:09:35",
+      "Intento de estabilización y última sirena abatida",
+      "hecho_confirmado",
+      "Blink alcanza a Chochi e intenta taponar una herida, pero no consigue estabilizarlo con la tirada de Medicina. El visitante y Poncelot siguen atacando; finalmente el visitante mata a la última sirena.",
+      [
+        "Blink / Blank",
+        "Chochi (grafía provisional)",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Sir Poncelot",
+        "Tres sirenas del tesoro"
+      ],
+      "matáis a la última sirena",
+      "resolución del combate",
+      [
+        "Blink / Blank",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Sir Poncelot"
+      ],
+      "desconocido",
+      "La tirada fallida de Medicina no añade daño en esta adjudicación. Ione ya no está en el lugar del combate."
+    ],
+    [
+      "03:08:00",
+      "03:11:00",
+      "Poncelot salva a Chochi con una poción",
+      "hecho_confirmado",
+      "Poncelot se acerca a Chochi y le da una poción. El director narra que abre los ojos y se recupera en el último momento: tenía dos salvaciones de muerte fallidas y una acertada. Chochi le agradece, aunque sigue herido. El visitante toma como recuerdo la espada que le clavó una sirena.",
+      [
+        "Sir Poncelot",
+        "Chochi (grafía provisional)",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Espada tomada de una sirena"
+      ],
+      "dos fallidas y una acertada",
+      "rescate tras la batalla",
+      [
+        "Sir Poncelot",
+        "Chochi (grafía provisional)",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Blink / Blank"
+      ],
+      "desconocido",
+      "No hay muerte consumada ni resurrección. El agradecimiento constituye evolución de su relación con el gnomo, distinta del desprecio inicial."
+    ],
+    [
+      "03:10:00",
+      "03:15:45",
+      "Tesoro real y cantidad de oro discrepante",
+      "hecho_confirmado",
+      "Los supervivientes comprueban que el huevo contiene tesoro real. El director adjudica tres perlas y diez monedas de oro varias veces, pero al apremiar la salida dice tres perlas y cinco monedas. Intentan cargar el huevo en el hipocampo y luego deciden tomar el contenido; no se muestra reparto definitivo.",
+      [
+        "Sir Poncelot",
+        "Chochi (grafía provisional)",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Blink / Blank",
+        "Hipocampo Merlucilla II",
+        "Tesoro del huevo de sirenas"
+      ],
+      "tres perlas y 10 monedas de oro",
+      "recogida de botín y salida",
+      [
+        "Sir Poncelot",
+        "Chochi (grafía provisional)",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Blink / Blank"
+      ],
+      "desconocido",
+      "Conservar discrepancia diez/cinco sin seleccionar una cifra por conveniencia. No se reconstruye reparto ni venta del huevo. Se obtiene un diente mellado; el intento de cortar cola de sirena falla."
+    ],
+    [
+      "03:15:45",
+      "03:17:55",
+      "Regreso, médico y búsqueda de Ione",
+      "hecho_confirmado",
+      "Al salir, el visitante y Chochi se dirigen a buscar al médico por sus heridas. Blink se interna en la selva para localizar a Ione. Poncelot sale del barco con perlas y dinero. La cámara muestra movimiento de ramas de algo que salió del agua y corre alejándose por la selva.",
+      [
+        "Kilzer / Kilcer (grafía provisional)",
+        "Chochi (grafía provisional)",
+        "Blink / Blank",
+        "Ione",
+        "Sir Poncelot",
+        "Shiaru",
+        "Tesoro del huevo de sirenas"
+      ],
+      "yendo a buscar al médico",
+      "separación final del grupo",
+      [
+        "Kilzer / Kilcer (grafía provisional)",
+        "Chochi (grafía provisional)",
+        "Blink / Blank",
+        "Sir Poncelot"
+      ],
+      "desconocido",
+      "No se muestra consulta médica, localización de Ione ni su recuperación humana. El destino de Princesa, atado en las ruinas, no se recupera en pantalla."
+    ]
+  ],
+  "misiones": [
+    "Recuperar gemas para Bonnie: Ione recibe nuevo encargo tras localizarse la entregada por Patata a Liz (06-004). La sesión no representa recuperación de las otras gemas ni entrega final.",
+    "Venganza/búsqueda de captores de Blink: relata hostigamiento entre sesiones y sigue buscándolos al inicio (06-003). No se aclara su paradero.",
+    "Recuperar monedero de Chochi: el visitante acuerda recibir la mitad más una cerveza y recoge la bolsa; reparto de siete monedas a cada uno adjudicado (06-012–06-013). Cerveza adicional no cobrada en escena.",
+    "Liberar a la sirena de la botella y devolverle tamaño: Chochi abre el tapón (06-015); Agrandar solo funciona temporalmente (06-016). Escolta a su señora, que le devuelve su tamaño (06-025). La destinataria intenta matar al grupo para ocultar el tesoro (06-026).",
+    "Atacar piratas de bandera banana: posibilidad discutida, Ione identifica rey pirata y disuade por falta de barco y tropas (06-017–06-018). No se realiza expedición contra su flota.",
+    "Rescatar al hipocampo de tiburones: enemigos derrotados, Poncelot se gana montura Merlucilla II (06-021–06-023). Hipocampo ayuda en combate posterior; no es el dinosaurio Merlucilla original.",
+    "Sobrevivir a la traición de las sirenas: tres abatidas; Ione huye, Blink recupera forma y Chochi es salvado con poción (06-026–06-036). Botín de perlas y oro tomado, cifra y reparto pendientes (06-037).",
+    "Reencontrar a Ione y recibir atención médica: decisiones al cierre, sin resultado mostrado (06-038)."
+  ],
+  "preguntas": [
+    "¿Está Chochi infectado por la mordedura de Ione? Mordisco, salvaciones de Constitución y malestar documentados, sin contagio explícitamente confirmado ni transformación mostrada (06-030).",
+    "¿Dónde está Ione y recuperará forma habitual? Salió del agua y huyó tras romperse su burbuja, Blink va a buscarla (06-032, 06-038).",
+    "¿Qué coste y tratamiento tendrán las heridas de Chochi y del visitante? Van a buscar al médico, consulta no representada (06-038).",
+    "¿El oro del huevo son diez o cinco monedas? Ambas cifras aparecen; tres perlas son consistentes. Reparto definitivo pendiente (06-037).",
+    "¿Qué pasó con los captores de Blink y con los piratas atados que Poncelot llevó al juzgado? No se identifican ni se muestra su destino (06-003 y 06-009). No fusionarlos con otras partidas de piratas.",
+    "¿Recuperará Ione las gemas que Bonnie reclama? Solo encargo recapitulativo, no devolución (06-004).",
+    "¿Quién es exactamente Elger Banana, qué flota manda y qué tesoro buscaban sus piratas? Relatos de sirena y reconocimiento de Ione, sin encuentro directo (06-016–06-018).",
+    "¿El crecimiento que dio la señora a Marina permanece y qué hechizo había sobre ella? Se observa restauración al llegar, sin identificación del conjuro original (06-025).",
+    "¿Sabe Poncelot que su primera Merlucilla murió? Su recapitulación sigue atribuyendo ausencia a fuga (06-009)."
+  ],
+  "contradicciones": [
+    "Poncelot cree que Merlucilla escapó porque la cuerda está rota (06-009); la jugadora de Ione había relatado que se la comió (04-003). Diferencia de conocimiento, no reescritura de la muerte.",
+    "Chochi reconoce pertenecer por una apuesta a la tripulación de Ione (06-005), mientras los términos y la pertenencia estaban disputados al final del capítulo 2. Se agrega su aceptación posterior sin hacerla extensiva al visitante.",
+    "Las confusiones de Poncelot: Chochi es dríada, Blink espíritu agresor, Liz jueza y la limpieza mazmorra. Las escenas aclaran humano, hada auxiliadora, encargada del local y limpieza respectivamente (06-008–06-011).",
+    "Tesoro prometido por la sirena: existe en el huevo, pero la señora intenta matar al grupo para que no sepan dónde está (06-025–06-026). No todo el ofrecimiento es ilusión ni recompensa realmente entregada voluntariamente.",
+    "El hipocampo primero combate tiburones por su cuenta y el director rechaza que sea aliado para flanqueo (06-021). Tras alimentarlo y montarlo, Poncelot puede darle órdenes (06-023–06-024). No retroceder ese control al encuentro inicial.",
+    "Sirenas sin nombres identificados en las bajas: no asumir orden señora/Marina/tercera a partir solo del número de enemigos derrotados (06-028–06-035).",
+    "Tesoro final: tres perlas y diez monedas repetido, luego tres perlas y cinco monedas sin explicación. Se conservan ambas cantidades (06-037).",
+    "Durante el combate se discuten aturdido/incapacitado, salvaciones y penalizaciones de agua; no se importan esos errores o correcciones de interfaz como nuevas condiciones permanentes del canon."
+  ],
+  "nombres_dudosos": [
+    "Elger Banana: rey pirata de bandera banana reconocido por Ione; grafía pendiente de confirmación. No relacionar con otros monos por bromas sobre primos.",
+    "Marina: sirena pequeña llamada por su señora a 02:02. Personaje distinto de Molly, cuyo alias previo según Nox también era Marina en capítulo 5.",
+    "Señora de Marina: sirena grande sin nombre ni título real inequívoco. El director aclara que señora no implica reina.",
+    "Merlucilla II: hipocampo luminoso. Merlucilla original era dinosaurio y Princesa es cadáver de tiburón arrastrado por Ione: tres entidades separadas.",
+    "Liz/Lizy/L/Al: encargada de la Sirena Borracha, asociada por contexto al pago con gema de Patata. Jueza es interpretación de Poncelot, no cargo confirmado.",
+    "Bling Bang/Blink/Blank: el hada, que permite Bling como nombre abreviado; mantener identidad común por continuidad. No confundir con Lunaria, ausente de este episodio.",
+    "Chochi/Sochi/Chosi: se reserva el nombre completo a jefes de aldea, no lo revela en esta sesión.",
+    "Loro random DM: nombre metanarrativo del director para el animal que reúne al grupo; no fabricar una identidad secreta diegética."
+  ]
+}

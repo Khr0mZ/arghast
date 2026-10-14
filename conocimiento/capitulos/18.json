@@ -1,0 +1,598 @@
+{
+  "capitulo": 18,
+  "estado_revision": "revisado",
+  "resumen": "Patata regresa con Mamá a Cuicapalli. Sir Poncelot los encuentra mientras viaja montado en Cipo y busca a una abuela y una niña supuestamente perdidas. Evitan un dinosaurio y se reúnen con Ayoto, que ha entrenado con los habitantes. Un kenku entrega a Mamá unas botas con símbolos semejantes a sus tatuajes y repite la palabra «tiempo», sin ofrecer un diagnóstico comprensible de sus heridas. Eromov les encarga investigar un templo antiguo ocupado por yuan-ti. Baton indica el camino y Mamá guía al grupo. Los aventureros matan a las criaturas guardianas y a las serpientes, descubren trampas que escupen veneno cuando se interrumpe el contacto visual entre estatuas y encuentran dos criaturas marinas muertas y sangre reciente. Un intento de curación de Mamá daña a Patata y reduce algunas de las arrugas de ella. Al romper una estatua, dejan las trampas activas permanentemente. Combaten contra dos monstruosidades y dos humanoides serpiente; Poncelot y Patata caen inconscientes y reciben ayuda para recuperarse. Mamá resiste las intrusiones mentales. El último enemigo se levanta con una bendición de Set y Ayoto lo mata definitivamente. Mamá ve una imagen fugaz al registrar su cadáver. Regresan a Cuicapalli, desechan una cabeza peligrosa, muestran un medallón y reciben curación y recompensas. Eromov considera organizar una reunión frente a los extranjeros y el culto de las serpientes. El cierre muestra a los espectadores una sombra serpentina que cubre la isla.",
+  "misiones": [
+    "Investigar el templo yuan-ti para Eromov: el grupo elimina guardianes y dos humanoides, encuentra cadáveres y sangre, muestra medallón y recibe recompensas; la naturaleza exacta de las actividades y la identidad de las víctimas todavía desconocida (18-007–18-021).",
+    "Búsqueda de una abuela y una niña: se envían patrullas por una noticia confusa, sin hallazgo, y el director niega que exista una anciana perdida en esta trama (18-001 y 18-006).",
+    "Heridas de Mamá: el kenku las examina sin diagnóstico claro; el intento de curación daña a Patata y rejuvenece a Mamá, visión posterior sin causa establecida (18-005, 18-009 y 18-019)."
+  ],
+  "preguntas": [
+    "¿Qué significan la palabra «tiempo», las botas con símbolos y las heridas persistentes de Mamá? (18-005, 18-009)",
+    "¿Quiénes son las criaturas marinas asesinadas y qué ritual utiliza la sangre reciente? (18-012–18-013)",
+    "¿Quién es el dios del templo, Lares/Larcamas, y qué vínculo tiene con Set nombrado en la bendición? Sin equivalencia establecida (18-007 y 18-017).",
+    "¿Qué representa la sombra del cierre y qué conoce algún personaje de ella? No acceso demostrado (18-021)."
+  ],
+  "contradicciones": [
+    "La mujer acusada por Ayoto en el capítulo 16 se explica como una representación gráfica reutilizada; no prueba de una nawal resucitada (18-002).",
+    "El intento de curación de Mamá causa dolor a Patata y ella pierde arrugas: distinguir fenómeno de hipótesis vampíricas (18-009).",
+    "La represalia del lector se describe como veneno o ácido, pero el director aclara que es daño psíquico. La bendición concede puntos temporales, no la totalidad de sus puntos de vida (18-017).",
+    "Patata y Poncelot caen y reciben curación, no muerte ni resurrección (18-015 y 18-018).",
+    "La cabeza se tira al bosque; propuesta de río es corregida por no haberlo allí (18-020)."
+  ],
+  "nombres_dudosos": [
+    "Lares/Larcamas/Lariz/Lores: dios y templo antiguos, grafía sin confirmar; mantener distinto de Set mientras no haya prueba.",
+    "Eromov/Heromov: líder de Cuicapalli; Rotter/Rotter: posible nombre del alquimista kenku dicho por Baton, provisional.",
+    "Balancax/Balankax: jungla del camino Shiaru–Cuicapalli, grafía provisional.",
+    "Citlali se presenta fonéticamente mamállali, corroborando apelativo Mamá sin confirmar Coyote."
+  ],
+  "fuente_sha256": "465492501ce05ea82760e3c0c01d7e1dc0145feb1f899334c7c77fc1904bbca5",
+  "afirmaciones": [
+    {
+      "id": "18-001",
+      "titulo": "Descansos y huevo encerrado",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Patata relata que volvió de Cuicapalli a Shiaru, revisó su granja y viajó con Mamá. Ella conserva heridas sin curar y deja el huevo encerrado con un candado. Poncelot busca a una abuela y una niña tras recibir noticias de unos gemelos de circo, y acaba montando un lagarto de fuego en la selva.",
+      "inicio": "00:00:00.000",
+      "fin": "00:04:20.000",
+      "cita": "el huevo ya está encerrado",
+      "evidencia_cue": {
+        "inicio": "00:01:53.000",
+        "fin": "00:01:54.990",
+        "texto": "vámonos.\" De todos modos, el huevo ya está encerrado con con candado y todo,"
+      },
+      "entidades": [
+        "Patata / Patatamán (grafía provisional)",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Sir Poncelot",
+        "Huevo de Mamá",
+        "Shiaru",
+        "Cuicapalli"
+      ],
+      "ambito": "recapitulaciones de descanso",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": ""
+    },
+    {
+      "id": "18-002",
+      "titulo": "Ayoto entrena y Poncelot encuentra oro",
+      "tipo": "explicacion_director",
+      "afirmacion": "Ayoto ha entrenado con los habitantes de Cuicapalli y han aprendido unos de otros. Un comentario explica que la imagen de la mujer sospechosa era una representación gráfica reutilizada; no confirma una resurrección. Poncelot obtiene siete monedas al investigar las alcantarillas.",
+      "inicio": "00:04:00.000",
+      "fin": "00:06:00.000",
+      "cita": "has entrenado con ellos",
+      "evidencia_cue": {
+        "inicio": "00:04:44.520",
+        "fin": "00:04:46.390",
+        "texto": "bastante guerreros y son bastante armados, así que has entrenado con ellos"
+      },
+      "entidades": [
+        "Ayoto / Ayuto (grafía provisional)",
+        "Sir Poncelot",
+        "Cuicapalli",
+        "Mujer acusada en Cuicapalli (sin identificar)"
+      ],
+      "ambito": "descanso y aclaración gráfica",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": ""
+    },
+    {
+      "id": "18-003",
+      "titulo": "Cipo reúne a los viajeros y evitan un dinosaurio",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Patata y Mamá comen frutas cuyos efectos son resistencia física y canto al lanzar hechizos. No se precisa el reparto de los efectos porque no se identifica al interlocutor correspondiente. Cipo lleva a Poncelot hasta ellos. El gnomo cree haber encontrado a la señora perdida, pero Mamá lo niega. Aparece un dinosaurio; huyen y, tras varias horas de desvíos, llegan a Cuicapalli.",
+      "inicio": "00:06:00.000",
+      "fin": "00:15:55.000",
+      "cita": "yo no me he perdido",
+      "evidencia_cue": {
+        "inicio": "00:12:17.360",
+        "fin": "00:12:19.829",
+        "texto": "y la encuentra usted. Eh, yo no me he perdido, criaturita. Yo"
+      },
+      "entidades": [
+        "Patata / Patatamán (grafía provisional)",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Sir Poncelot",
+        "Cipo",
+        "Cuicapalli"
+      ],
+      "ambito": "encuentro y viaje",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Las especies y la grafía del nombre de la jungla, Balancax, son provisionales. No se demuestra que la búsqueda de una niña real haya concluido."
+    },
+    {
+      "id": "18-004",
+      "titulo": "Llegada y presentación de Mamá",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Ayoto dirige los ejercicios de los habitantes y Cipo los imita. Tacha sirve los restos del cocodrilo. Poncelot pide comida después de que Cipo se coma sus raciones. Mamá se presenta con un nombre reconocido fonéticamente como Citlali y pide que la llamen Mamá. Poncelot sigue tratándola como Titania, sin que se establezca que sea una reina.",
+      "inicio": "00:16:00.000",
+      "fin": "00:25:55.000",
+      "cita": "dime mamá",
+      "evidencia_cue": {
+        "inicio": "00:25:33.960",
+        "fin": "00:25:35.870",
+        "texto": "yo yo soy yo soy mamállali, mijo. Pero pues dime mamá para evitarle cualquier"
+      },
+      "entidades": [
+        "Ayoto / Ayuto (grafía provisional)",
+        "Cipo",
+        "Tacha (tabernero hiena, grafía provisional)",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Sir Poncelot"
+      ],
+      "ambito": "recepción y presentación",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": ""
+    },
+    {
+      "id": "18-005",
+      "titulo": "Botas con símbolos y una advertencia sobre el tiempo",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "El kenku examina las heridas de Mamá y dice «malo». Le entrega unas botas que, según afirma, proceden del bosque y tienen signos semejantes a sus tatuajes. El director las trata como un arma con tres cargas cuyo golpe empuja diez pies. El kenku repite la palabra «tiempo» a Patata, pero no se aclara su significado.",
+      "inicio": "00:26:00.000",
+      "fin": "00:31:55.000",
+      "cita": "tienes tres cargas",
+      "evidencia_cue": {
+        "inicio": "00:30:07.279",
+        "fin": "00:30:09.509",
+        "texto": "Vale. Eh, nada, podré tienes es un arma mejor, tienes tres cargas y las puedes"
+      },
+      "entidades": [
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Patata / Patatamán (grafía provisional)",
+        "Alquimista kenku de Cuicapalli (sin nombre)",
+        "Botas de Mamá"
+      ],
+      "ambito": "objeto adjudicado y advertencia ambigua",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se expresa un diagnóstico ni un precio. Las teorías sobre pedir la hora o necesitar tiempo son interpretaciones."
+    },
+    {
+      "id": "18-006",
+      "titulo": "Eromov ordena una búsqueda por una noticia confusa",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Eromov recibe a los viajeros y, al escuchar el relato de una abuela y una niña perdidas, envía patrullas mediante órdenes en Primordial. El director aclara que no existe tal anciana en esta trama concreta. Eromov reconoce a Mamá como una señora importante, sin explicar cómo la conoce. Busca a Naór, ausente de la reunión.",
+      "inicio": "00:32:00.000",
+      "fin": "00:36:30.000",
+      "cita": "envíe algunas patrullas",
+      "evidencia_cue": {
+        "inicio": "00:35:53.640",
+        "fin": "00:35:54.990",
+        "texto": "dice básicamente al guardia que envíe algunas patrullas a buscar esa vieja,"
+      },
+      "entidades": [
+        "Eromov (líder de Cuicapalli, grafía provisional)",
+        "Sir Poncelot",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Naór Tarcan (grafía provisional)"
+      ],
+      "ambito": "audiencia y búsqueda",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se confirma que Naór esté secuestrada ni se muestra el resultado de las patrullas."
+    },
+    {
+      "id": "18-007",
+      "titulo": "Encargo de investigar yuan-ti",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Eromov informa de que un clan yuan-ti está saliendo de sus escondrijos, acercándose a Cuicapalli y ocupando un templo situado al sur, dedicado a un dios muy antiguo cuyo nombre se reconoce como Lares o Larcamas. Pide averiguar qué hacen. Ante las quejas de Patata por el combate y el rapto de Pix, describe a los hombres lagarto como territoriales y normalmente amistosos. El grupo acepta el encargo.",
+      "inicio": "00:36:00.000",
+      "fin": "00:41:55.000",
+      "cita": "Queremos saber qué están haciendo",
+      "evidencia_cue": {
+        "inicio": "00:38:33.359",
+        "fin": "00:38:39.309",
+        "texto": "con ellos? Queremos saber qué están haciendo exactamente."
+      },
+      "entidades": [
+        "Eromov (líder de Cuicapalli, grafía provisional)",
+        "Yuan-ti",
+        "Templo de Lares (grafía provisional)",
+        "Patata / Patatamán (grafía provisional)",
+        "Pix"
+      ],
+      "ambito": "encargo y juicios culturales",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se confirma ninguna relación del dios antiguo con otras deidades. La valoración del líder no elimina las agresiones previas."
+    },
+    {
+      "id": "18-008",
+      "titulo": "Chocolate y ruta de Baton",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Mamá deja caer un chocolate que Ayoto recoge, sin consumirlo en esta escena. Baton, dolorido tras un encuentro con una amiga, indica una ruta hacia el oeste siguiendo el sol: un árbol hueco, una rampa con caimanes, un río con pirañas y una cueva con arañas. Poncelot le aconseja usar crema. Mamá supera la prueba de navegación y guía al grupo entre los peligros hasta llegar al templo al anochecer.",
+      "inicio": "00:42:00.000",
+      "fin": "00:49:55.000",
+      "cita": "la cueva de las arañas",
+      "evidencia_cue": {
+        "inicio": "00:47:22.960",
+        "fin": "00:47:25.069",
+        "texto": "después adentraros en la cueva de las arañas superchungas."
+      },
+      "entidades": [
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Ayoto / Ayuto (grafía provisional)",
+        "Baton (nativo rescatado, grafía provisional)",
+        "Sir Poncelot",
+        "Templo de Lares (grafía provisional)"
+      ],
+      "ambito": "preparativos y navegación",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Recoger el chocolate no aplica sus efectos. La ruta narrada no ofrece coordenadas cartográficas exactas."
+    },
+    {
+      "id": "18-009",
+      "titulo": "Guardianes muertos y curación dañina",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Cuando Poncelot se aproxima, dos criaturas agresivas salen de la maleza. El grupo las mata. Patata activa Guardianes espirituales e ilumina la armadura de Poncelot. Mamá intenta curar a Patata, pero él siente dolor y ella pierde algunas arrugas. Asustada, retira la mano. Patata rechaza más curación y continúa.",
+      "inicio": "00:50:00.000",
+      "fin": "01:04:40.000",
+      "cita": "esa curación te duele",
+      "evidencia_cue": {
+        "inicio": "01:04:22.920",
+        "fin": "01:04:25.150",
+        "texto": "Y notas que esa curación te duele."
+      },
+      "entidades": [
+        "Sir Poncelot",
+        "Patata / Patatamán (grafía provisional)",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Ayoto / Ayuto (grafía provisional)",
+        "Cipo",
+        "Heridas y rejuvenecimiento de Mamá"
+      ],
+      "ambito": "combate y fenómeno observado",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Las bromas sobre absorber vida no establecen vampirismo, un pacto con la Luna ni otra causa."
+    },
+    {
+      "id": "18-010",
+      "titulo": "Serpiente del altar y huellas recientes",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Una serpiente escondida muerde y envenena a Patata cuando inspecciona el altar; sus guardianes espirituales la matan. Poncelot identifica huellas de pies y rastros serpenteantes recientes en ambas bifurcaciones. La prueba de Religión de Patata no le permite identificar al dios. Mamá se aparta, inquieta, y los otros la siguen.",
+      "inicio": "01:05:00.000",
+      "fin": "01:12:55.000",
+      "cita": "rastros incluso serpenteantes",
+      "evidencia_cue": {
+        "inicio": "01:10:15.480",
+        "fin": "01:10:19.189",
+        "texto": "incluso algunos unos rastros incluso serpenteantes de alguien que ha pasado"
+      },
+      "entidades": [
+        "Patata / Patatamán (grafía provisional)",
+        "Sir Poncelot",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Templo de Lares (grafía provisional)"
+      ],
+      "ambito": "exploración y veneno",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": ""
+    },
+    {
+      "id": "18-011",
+      "titulo": "Descubrimiento de la trampa de las miradas",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Las estatuas escupen veneno cuando el grupo pasa y los aventureros sufren daño. Otra serpiente sale del canal, muerde a Ayoto y vuelve a esconderse. Poncelot deduce que debe mantenerse el contacto visual entre las estatuas y cruza agachado para no interrumpirlo. Mamá arroja una piedra y comprueba que se activa una columna de veneno; después pasa por debajo. Cipo se teletransporta.",
+      "inicio": "01:13:00.000",
+      "fin": "01:23:55.000",
+      "cita": "No hay que cortar la visión",
+      "evidencia_cue": {
+        "inicio": "01:21:51.440",
+        "fin": "01:21:52.990",
+        "texto": "Oh, compañeros, he encontrado el truco. No hay que cortar la visión de las dos"
+      },
+      "entidades": [
+        "Sir Poncelot",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Ayoto / Ayuto (grafía provisional)",
+        "Cipo",
+        "Trampas de miradas del templo"
+      ],
+      "ambito": "mecanismo comprobado",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": ""
+    },
+    {
+      "id": "18-012",
+      "titulo": "Ataques de serpientes y cuerpos marinos",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Una serpiente muerde a Mamá y vuelve al canal. Poncelot abre una puerta y otra serpiente intenta morderlo. Ayoto muerde a la criatura y cierran la puerta, sin que se confirme su muerte. En otra sala encuentran cadenas, un antiguo lugar de tortura y dos criaturas marinas cuyos cadáveres son recientes. La prueba de Medicina de Mamá no permite establecer un diagnóstico.",
+      "inicio": "01:24:00.000",
+      "fin": "01:34:55.000",
+      "cita": "los cuerpos están como recientes",
+      "evidencia_cue": {
+        "inicio": "01:32:50.840",
+        "fin": "01:32:54.990",
+        "texto": "de tortura bastante antiguo y ves que los cuerpos están como recientes."
+      },
+      "entidades": [
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Sir Poncelot",
+        "Ayoto / Ayuto (grafía provisional)",
+        "Dos criaturas marinas muertas del templo"
+      ],
+      "ambito": "exploración y cadáveres",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Los sacrificios y el parentesco con las serpientes son hipótesis; no se identifica a los fallecidos."
+    },
+    {
+      "id": "18-013",
+      "titulo": "Sangre y trampas permanentemente activas",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "La sala principal contiene un altar del que gotea sangre reciente al canal y unas estatuas que se miran hacia el centro. Patata cubre sus ojos con una tela y activa el veneno. Al intentar mover una estatua junto a Poncelot, la rompe e interrumpe el contacto visual, dejando las trampas activas constantemente. Mamá utiliza el arco de Axi, que aún conserva, rompe un ojo y reduce la zona afectada por el veneno. Ayoto baila en honor al Sol, pero no desactiva el mecanismo.",
+      "inicio": "01:35:00.000",
+      "fin": "01:45:55.000",
+      "cita": "activados las trampas todo el rato",
+      "evidencia_cue": {
+        "inicio": "01:43:10.040",
+        "fin": "01:43:13.790",
+        "texto": "las otras cuatro, vais a tener activados las trampas todo el rato."
+      },
+      "entidades": [
+        "Patata / Patatamán (grafía provisional)",
+        "Sir Poncelot",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Ayoto / Ayuto (grafía provisional)",
+        "Axi / Chochi (identificación contextual provisional)",
+        "Trampas de miradas del templo"
+      ],
+      "ambito": "alteración del templo",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": ""
+    },
+    {
+      "id": "18-014",
+      "titulo": "Emboscada y Cipo como montura",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Dos monstruosidades emergen del canal y sorprenden al grupo mientras está ocupado. Atacan a Ayoto y Poncelot. Cipo vuelve, se ofrece como montura al gnomo y combate. Patata cura a Poncelot y utiliza su arma espiritual; las ayudas del chat restauran puntos de vida. El grupo lucha contra los guardianes.",
+      "inicio": "01:46:00.000",
+      "fin": "01:57:55.000",
+      "cita": "se te pone debajo",
+      "evidencia_cue": {
+        "inicio": "01:53:24.520",
+        "fin": "01:53:26.750",
+        "texto": "Perdón, meido. Frena y te ve a ti y hace y se pone y se te pone debajo, ¿sabes?"
+      },
+      "entidades": [
+        "Ayoto / Ayuto (grafía provisional)",
+        "Sir Poncelot",
+        "Cipo",
+        "Patata / Patatamán (grafía provisional)",
+        "Mamá / Citlali (identificación contextual provisional)"
+      ],
+      "ambito": "combate y ayuda",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": ""
+    },
+    {
+      "id": "18-015",
+      "titulo": "Humanoides que leen mentes y abaten a Poncelot",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Un humanoide serpiente pregunta por dónde han entrado y lee los pensamientos del grupo. Otro enemigo, con cabeza de serpiente y piernas, dispara con su arco y deja inconsciente a Poncelot. Las maldiciones y ventajas del chat afectan al combate; una carta representa la lectura de los pensamientos épicos del gnomo como daño psíquico. Mamá mata a una monstruosidad, Ayoto combate contra la restante y Patata devuelve la consciencia a Poncelot mediante curación.",
+      "inicio": "01:57:00.000",
+      "fin": "02:08:55.000",
+      "cita": "queda como medio encima",
+      "evidencia_cue": {
+        "inicio": "02:02:54.719",
+        "fin": "02:02:57.589",
+        "texto": "Ah, pues ves que le dispara y veis que sirponcero queda como medio encima del"
+      },
+      "entidades": [
+        "Sir Poncelot",
+        "Patata / Patatamán (grafía provisional)",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Ayoto / Ayuto (grafía provisional)",
+        "Humanoide serpiente lector de pensamientos",
+        "Humanoide serpiente arquero"
+      ],
+      "ambito": "caída y recuperación",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Poncelot no muere ni es resucitado. Los efectos de las cartas no establecen una vulnerabilidad universal de los yuan-ti a las fantasías del gnomo."
+    },
+    {
+      "id": "18-016",
+      "titulo": "Mamá resiste la intrusión y muere el arquero",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "El lector intenta profundizar en la mente de Mamá, pero falla. Ella dispara y rompe su concentración. Las maniobras defensivas de Ayoto y Poncelot protegen al grupo; Poncelot mata al arquero. El lector intenta otra influencia mental sobre Mamá, que vuelve a resistir. Una carta lo ciega durante un turno y ella lo ataca.",
+      "inicio": "02:09:00.000",
+      "fin": "02:19:55.000",
+      "cita": "pierde esa concentración",
+      "evidencia_cue": {
+        "inicio": "02:13:10.520",
+        "fin": "02:13:12.910",
+        "texto": "concentración. Ay. Uh, pues mira, si rompe, o sea, pierde esa concentración"
+      },
+      "entidades": [
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Ayoto / Ayuto (grafía provisional)",
+        "Sir Poncelot",
+        "Humanoide serpiente lector de pensamientos",
+        "Humanoide serpiente arquero"
+      ],
+      "ambito": "defensa mental y combate",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se revela el contenido profundo de su mente al enemigo ni al grupo."
+    },
+    {
+      "id": "18-017",
+      "titulo": "Bendición de Set y último enemigo muerto",
+      "tipo": "explicacion_director",
+      "afirmacion": "Pol explica que permite, como regla de la mesa, atacar con otra arma mediante una acción adicional aunque la acción principal haya utilizado un arco. Ayoto golpea al lector. La represalia se describe inicialmente como ácido, pero se aclara que causa daño psíquico una vez por turno. Al llegar a cero puntos de vida, el enemigo se levanta con una bendición de Set, un punto de vida y puntos temporales, sin recuperar toda su vida. Ayoto inflige suficiente daño y lo mata de nuevo.",
+      "inicio": "02:20:00.000",
+      "fin": "02:25:55.000",
+      "cita": "la bendición de set",
+      "evidencia_cue": {
+        "inicio": "02:24:40.479",
+        "fin": "02:24:43.830",
+        "texto": "poner a mí, ¿eh? Bueno, es la la bendición de set, que básicamente lo que"
+      },
+      "entidades": [
+        "Ayoto / Ayuto (grafía provisional)",
+        "Humanoide serpiente lector de pensamientos",
+        "Set (nombre de bendición)",
+        "Reglas caseras de combate"
+      ],
+      "ambito": "adjudicación y muerte definitiva",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "El nombre de este rasgo no identifica al dios del templo como Set. La referencia a una bendición solar de Ayoto es una broma narrativa sobre su golpe."
+    },
+    {
+      "id": "18-018",
+      "titulo": "Patata levantado y botín de Poncelot",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Patata está inconsciente y realiza salvaciones de muerte. Ayoto encuentra su poción e intenta sustituir su símbolo religioso por uno solar. Mamá impide que lo registre y exige que le dé la poción. Patata recupera la consciencia. Poncelot obtiene un medallón serpiente como prueba, una poción de curación y una espada larga antigua con brillo mágico. Patata pide salir y cura al grupo, incluido Ayoto, al que había amenazado con excluir.",
+      "inicio": "02:25:00.000",
+      "fin": "02:33:55.000",
+      "cita": "Ahora lo levantáis",
+      "evidencia_cue": {
+        "inicio": "02:28:49.600",
+        "fin": "02:28:52.328",
+        "texto": "Venga, ahora sí. Ahora lo levantáis."
+      },
+      "entidades": [
+        "Patata / Patatamán (grafía provisional)",
+        "Ayoto / Ayuto (grafía provisional)",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Sir Poncelot",
+        "Medallón serpiente del templo",
+        "Espada larga mágica de Poncelot"
+      ],
+      "ambito": "rescate y botín",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se consuma el cambio de símbolo ni Patata acepta una plegaria solar. Las propiedades exactas de la espada no se identifican."
+    },
+    {
+      "id": "18-019",
+      "titulo": "Visión de Mamá y cabeza retirada",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Mamá registra al lector armado con arco, obtiene siete monedas y ve por un instante la imagen de una criatura que se lanza hacia ella. Parpadea y comprueba que el cadáver no se ha movido. Se retira alterada y deja una flecha en la estatua como amenaza. Ayoto no consigue romper otra estatua y toma una cabeza como prueba. Regresan evitando a las arañas y los caimanes, que se apartan.",
+      "inicio": "02:33:00.000",
+      "fin": "02:38:55.000",
+      "cita": "ni se ha movido el cuerpo",
+      "evidencia_cue": {
+        "inicio": "02:35:37.279",
+        "fin": "02:35:39.429",
+        "texto": "veces y ves que ni se ha movido el cuerpo."
+      },
+      "entidades": [
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Ayoto / Ayuto (grafía provisional)",
+        "Humanoide serpiente lector de pensamientos",
+        "Visión de Mamá al registrar cadáver"
+      ],
+      "ambito": "visión y regreso",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Mamá percibe una visión cuya imagen no se describe de forma completamente legible. No se confirma un ataque físico ni una posesión."
+    },
+    {
+      "id": "18-020",
+      "titulo": "Prueba y recompensas en Cuicapalli",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Los guardias impiden que entren con la cabeza de serpiente por el riesgo del veneno. Ayoto la arroja al bosque, no al río, que no está junto a la puerta. Los clérigos curan diez puntos de vida a todos. Poncelot muestra el medallón a Eromov y relata la victoria. El líder entrega jade a Poncelot, una perla a Mamá, obsidiana a Ayoto, ocho monedas a Patata y una perla a Cipo; también ofrece cobijo y comida.",
+      "inicio": "02:38:00.000",
+      "fin": "02:43:55.000",
+      "cita": "ocho monedas de más",
+      "evidencia_cue": {
+        "inicio": "02:43:19.000",
+        "fin": "02:43:22.389",
+        "texto": "te las punto. Te las apunto por ahí. Y tenés ocho monedas de más."
+      },
+      "entidades": [
+        "Cuicapalli",
+        "Eromov (líder de Cuicapalli, grafía provisional)",
+        "Sir Poncelot",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Ayoto / Ayuto (grafía provisional)",
+        "Patata / Patatamán (grafía provisional)",
+        "Cipo"
+      ],
+      "ambito": "retorno y pago",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": ""
+    },
+    {
+      "id": "18-021",
+      "titulo": "Reunión contemplada y sombra final",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Eromov propone considerar la reunión de tribus planteada por Naór para afrontar tanto a los extranjeros como al culto de las serpientes. Dice que necesita meditar y declara que los huéspedes siempre serán bienvenidos. La escena final muestra una sombra con forma de serpiente que recorre toda la isla dibujando un símbolo de infinito.",
+      "inicio": "02:43:00.000",
+      "fin": "02:45:30.000",
+      "cita": "sombra de serpiente recubre toda la isla",
+      "evidencia_cue": {
+        "inicio": "02:45:08.160",
+        "fin": "02:45:10.510",
+        "texto": "nos vamos alejando y vemos como una sombra de serpiente recubre toda la isla"
+      },
+      "entidades": [
+        "Eromov (líder de Cuicapalli, grafía provisional)",
+        "Naór Tarcan (grafía provisional)",
+        "Tutucan",
+        "Sombra serpentina del cierre"
+      ],
+      "ambito": "audiencia y escena privilegiada",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La escena final es visible para los espectadores. No demuestra que los personajes hayan visto la sombra ni confirma su identidad, su naturaleza corpórea o el nombre Ouroboros que exclama un jugador."
+    }
+  ]
+}

@@ -1,0 +1,511 @@
+{
+  "capitulo": 20,
+  "estado_revision": "revisado",
+  "resumen": "Poncelot repara su equipo en Cuicapalli y busca una montura. Naór y Axi salen de Ras Racor hacia Iktan. Zarial/Tarial llega a Shiaru en busca de poder y ataca a un pirata borracho al creer que es un maestro. Triel empuja al pirata al pozo, se presenta falsamente como jefa del pueblo y recluta a la recién llegada para buscar a Eldrat. Ambas encuentran a Naór, Axi y Poncelot. Una mujer acuática intenta atraer al gnomo al agua, sin conseguirlo. Poncelot captura una mosca gigante con ayuda de una fregona maloliente y la utiliza como montura, aunque la llama dragón. Triel ofrece chocolate robado a Naór, que sufre alucinaciones durante dos horas. El grupo se desvía al Garfio y encuentra un campamento de la Marina instalado en un templo. Inician un combate sin negociar y matan a cuatro marines y dos perros. Después rompen una puerta de piedra, liberan gas venenoso y se enfrentan a una serpiente enorme que incapacita temporalmente a Axi. Poncelot recupera un mapa marcado con una X y la palabra Slaz, de grafía provisional. Naór rescata a Axi y Triel le da una poción. Poncelot intenta domar a la serpiente sin éxito; Zarial la mata y recoge sus colmillos. Naór prepara los cadáveres para comer y permanece con Axi, que pide carne de perro sin saber con seguridad qué recibe. Poncelot, Triel y Zarial parten hacia Shiaru en la mosca. No se muestra su llegada ni encuentran a Eldrat.",
+  "misiones": [
+    "Buscar a Eldrat: Triel se presenta falsamente como jefa y recluta a Zarial. Se unen a los viajeros, pero no encuentran a Eldrat en el campamento. Después parten hacia Shiaru para continuar la búsqueda (20-002–20-004, 20-012 y 20-017).",
+    "Convocatoria en Iktan: Naór intenta llegar allí, pero se desvía hacia el Garfio. No contacta con ningún líder (20-001 y 20-007).",
+    "Atacar el campamento: el grupo inicia el combate y mata a cuatro marines y dos perros. No lee cartas ni órdenes, ni investiga la finalidad del puesto (20-008–20-012).",
+    "Investigar el mapa del cofre: Poncelot lo recupera; contiene una X y la palabra Slaz, cuya ubicación es incierta. El director señala su relevancia, pero la exploración queda pendiente (20-014 y 20-017).",
+    "Conseguir una montura para Poncelot: captura una mosca gigante. Su intento de domar a la serpiente fracasa y esta muere. Utiliza la mosca para partir (20-005, 20-015–20-017)."
+  ],
+  "preguntas": [
+    "¿Quién es Arcan, la figura del templo de Zarial, y por qué ella busca fuerza? Solo se dispone de su relato introductorio (20-003).",
+    "¿Qué indica la X junto a Slaz en el mapa y cuándo compartirá Poncelot su contenido? (20-014).",
+    "¿Cuál era el cometido del campamento, del gas y de la serpiente? ¿Dónde está Eldrat? No se averigua en este capítulo (20-008, 20-013 y 20-017).",
+    "¿Existe la criatura de tres cabezas de la tradición leonina o aparece en otras fuentes? (20-006)."
+  ],
+  "contradicciones": [
+    "Triel afirma ser jefa de Shiaru y anuncia la llegada a Iktan, pero el director sitúa al grupo en la jungla del Garfio. No se confirma su cargo ni esa llegada (20-002 y 20-007).",
+    "La montura es una mosca, no un dragón. Las percepciones de Naór proceden de sus alucinaciones y no de transformaciones reales del gnomo, el árbol o la fruta (20-005–20-007).",
+    "Poncelot llama magos oscuros a los marines, pero no se demuestra que lo sean ni que tengan relación con la transformación de Ione (20-008).",
+    "Naór es bárbara y guerrera de nivel total seis; no tiene multiataque por la distribución de sus niveles. El hacha retorna únicamente mientras permanece vigente el efecto temporal de su furia (20-009 y 20-013).",
+    "Axi queda incapacitado, pero sigue vivo. La bestia destruida es su invocación; las bromas no confirman la muerte del explorador (20-010 y 20-013).",
+    "La narración confirma que Naór acepta carne humana al cierre. Axi prefiere carne de perro, pero no se precisa el origen de su ración (20-017)."
+  ],
+  "nombres_dudosos": [
+    "Zarial/Tarial/Tajarial/Zariel es una recién llegada procedente de un templo. Utiliza smite, imposición de manos, canalización y arma espiritual. Su nombre es fonético y no permite identificarla con la deidad Zariel.",
+    "Atlat/Atlan/Atlas son variantes fonéticas del reino leonino. Naór se presenta como hija de Camar Tarquan; las grafías siguen siendo provisionales.",
+    "Slaz es la palabra junto a una X en el mapa. Su grafía y ubicación son inciertas; los recuerdos de otra campaña no identifican a un slaad en esta escena.",
+    "B/Bee es el nombre de la mosca de Poncelot, basado en su zumbido. Su grafía es provisional."
+  ],
+  "fuente_sha256": "30fded31abb6a30d0c3fd68a4a139edad1315b47ccd596639c2586c2e146a185",
+  "afirmaciones": [
+    {
+      "id": "20-001",
+      "titulo": "Equipo reparado y camino a Iktan",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Poncelot relata que reparó sus armas y su armadura tras el encuentro con las serpientes, y que buscó un animal que pudiera montar cerca de Cuicapalli. Naór y Axi pasan la noche en la ciudad de los lagartos después de la arena. Ella parte hacia Iktan y él la sigue, agotado.",
+      "inicio": "00:00:00.000",
+      "fin": "00:03:30.000",
+      "cita": "puse dirección a Iktan",
+      "evidencia_cue": {
+        "inicio": "00:02:50.640",
+        "fin": "00:02:54.070",
+        "texto": "Así se llamaba. Y nada, por la mañana me levanté y puse dirección a Iktan a"
+      },
+      "entidades": [
+        "Sir Poncelot",
+        "Naór Tarcan (grafía provisional)",
+        "Axi / Chochi (identificación contextual provisional)",
+        "Cuicapalli",
+        "Iktan",
+        "Ras Racor (grafía provisional)"
+      ],
+      "ambito": "recapitulaciones",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Las bromas sobre la muerte de Axi durante sus relaciones no confirman que haya muerto."
+    },
+    {
+      "id": "20-002",
+      "titulo": "La recién llegada golpea al pirata y Triel lo engaña",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Una mujer recién llegada en bote busca poder y maestros de puño borracho. Golpea con un martillo a un pirata borracho; su segundo intento falla. Triel, que ha robado herramientas del alquimista, empuja al pirata al pozo y se presenta falsamente como jefa del pueblo. Recluta a la recién llegada para buscar a su hermano Eldrat.",
+      "inicio": "00:03:00.000",
+      "fin": "00:10:55.000",
+      "cita": "yo soy la jefa",
+      "evidencia_cue": {
+        "inicio": "00:07:50.120",
+        "fin": "00:07:57.230",
+        "texto": "Ah, pues yo soy la jefa."
+      },
+      "entidades": [
+        "Zarial / Tarial (grafía provisional)",
+        "Triel (elfa hermana, grafía provisional)",
+        "Eldrat (elfo hermano, grafía provisional)",
+        "Pirata borracho del pozo (sin nombre)",
+        "Shiaru"
+      ],
+      "ambito": "presentación y engaño",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se confirma que Triel tenga mando, que exista una academia de puño borracho o que el pirata haya muerto."
+    },
+    {
+      "id": "20-003",
+      "titulo": "Encuentro del grupo y tradición del templo",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Triel y la recién llegada encuentran a Naór y Axi descansando. Una fruta proporciona una cola prensil a Naór y otra irrita las encías de Axi. Naór identifica el espadón recibido del jefe del templo y lo devuelve tras cogerlo con la cola. La recién llegada afirma que se entrenó para seguir los pasos del legendario Arcan/Rcan, cuya biografía no se comprueba. Axi acepta en broma que lo llamen esclavo de la princesa; no se muestra ningún contrato jurídico.",
+      "inicio": "00:11:00.000",
+      "fin": "00:20:55.000",
+      "cita": "legendario RCAN",
+      "evidencia_cue": {
+        "inicio": "00:19:50.480",
+        "fin": "00:19:54.669",
+        "texto": "para intentar seguir los pasos del legendario RCAN. Seguramente"
+      },
+      "entidades": [
+        "Naór Tarcan (grafía provisional)",
+        "Axi / Chochi (identificación contextual provisional)",
+        "Triel (elfa hermana, grafía provisional)",
+        "Zarial / Tarial (grafía provisional)",
+        "Arcan (figura de templo, grafía provisional)"
+      ],
+      "ambito": "presentaciones y efectos temporales",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La cola o el arma no identifican a Naór con Nox. Axi es otro personaje y el nombre de Zarial todavía fluctúa."
+    },
+    {
+      "id": "20-004",
+      "titulo": "Una mujer acuática y una riña llevan a Poncelot al grupo",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Poncelot toma té junto a un lago y conversa con una mujer rubia desnuda que canta para intentar que salte al agua. No lo consigue y se retira. El gnomo se acerca a una riña amistosa entre Naór, Triel y Zarial. Naór lo arrastra con la cola y él termina mareado, pero vivo. Se ofrece a buscar a Eldrat. Naór se presenta como hija de Camar Tarquan, del reino de Atlat.",
+      "inicio": "00:20:00.000",
+      "fin": "00:32:55.000",
+      "cita": "reino de Atlat",
+      "evidencia_cue": {
+        "inicio": "00:32:04.960",
+        "fin": "00:32:07.909",
+        "texto": "Naor Tarquan, hija de Camar Tarquan del reino de Atlat."
+      },
+      "entidades": [
+        "Sir Poncelot",
+        "Mujer acuática del lago (sin nombre)",
+        "Naór Tarcan (grafía provisional)",
+        "Triel (elfa hermana, grafía provisional)",
+        "Zarial / Tarial (grafía provisional)",
+        "Camar Taruan (rey leonino, grafía provisional)",
+        "Atlan / Atlat (reino leonino, grafía provisional)"
+      ],
+      "ambito": "encuentro y procedencia",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se identifica a la mujer como la sirena Marina ni se confirma que su canción cause daño o una maldición. La broma sobre una luz celestial no confirma la muerte de Poncelot."
+    },
+    {
+      "id": "20-005",
+      "titulo": "Mosca domada con fregona",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Una mosca gigante desciende. Poncelot la llama dragón, aunque otros la identifican como una mosca. Le echa un lazo y Axi y Zarial ayudan a sujetarla. Utiliza una fregona de las alcantarillas de Liz como señuelo maloliente y consigue montarla tras una tirada de trato con animales.",
+      "inicio": "00:33:00.000",
+      "fin": "00:41:55.000",
+      "cita": "empieza como a seguir el mocho",
+      "evidencia_cue": {
+        "inicio": "00:41:02.640",
+        "fin": "00:41:04.710",
+        "texto": "huele fatal ese mocho, ¿sabes? Pues la mosca empieza como a seguir el mocho y"
+      },
+      "entidades": [
+        "Sir Poncelot",
+        "Mosca gigante B (montura de Poncelot)",
+        "Axi / Chochi (identificación contextual provisional)",
+        "Zarial / Tarial (grafía provisional)",
+        "Liz",
+        "Fregona de Poncelot"
+      ],
+      "ambito": "montura conseguida",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La criatura no es un dragón, aunque Poncelot lo crea."
+    },
+    {
+      "id": "20-006",
+      "titulo": "Chocolate de Triel y leyenda de tres cabezas",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Triel ofrece a Naór chocolate que robó a la anciana. Naór lo fuma y sufre alucinaciones durante dos horas. Cuenta que su abuelo hablaba de una criatura enorme de tres cabezas que come moscas, animales normalmente gregarios. Durante las alucinaciones ve a Poncelot primero como una seta y después como un gran guerrero sobre un dragón.",
+      "inicio": "00:42:00.000",
+      "fin": "00:50:55.000",
+      "cita": "exactamente 2 horas",
+      "evidencia_cue": {
+        "inicio": "00:43:49.800",
+        "fin": "00:43:51.630",
+        "texto": "durante exactamente 2 horas,"
+      },
+      "entidades": [
+        "Triel (elfa hermana, grafía provisional)",
+        "Naór Tarcan (grafía provisional)",
+        "Chocolate de Mamá",
+        "Criatura de tres cabezas que come moscas (leyenda)"
+      ],
+      "ambito": "intoxicación y tradición",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se produce un encuentro con esa criatura, ni se confirma su nombre o que sea una hidra. Tampoco se demuestra una receta para atraerla."
+    },
+    {
+      "id": "20-007",
+      "titulo": "Desvío hacia el Garfio y alucinaciones",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "El grupo busca a Eldrat e intenta llegar a Iktan, pero avanza por el Garfio hacia el sur, algo al norte del fuerte de la Marina. Naór confunde una palmera con un dinosaurio de cuello largo, la corta de un hachazo y muerde la madera. Axi la mastica, pero no la traga. Naór arroja una lanza a la fruta de Zarial al creer que es una rata venenosa, sin herir a su compañera.",
+      "inicio": "00:48:00.000",
+      "fin": "00:57:55.000",
+      "cita": "zona del Garfio hacia el sur",
+      "evidencia_cue": {
+        "inicio": "00:48:42.359",
+        "fin": "00:48:46.230",
+        "texto": "realmente estáis yendo por la zona del Garfio hacia el sur,"
+      },
+      "entidades": [
+        "Naór Tarcan (grafía provisional)",
+        "Axi / Chochi (identificación contextual provisional)",
+        "Triel (elfa hermana, grafía provisional)",
+        "Zarial / Tarial (grafía provisional)",
+        "Garfio",
+        "Fuerte de la Marina"
+      ],
+      "ambito": "viaje y alucinaciones",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "El saludo falso de Triel no confirma la llegada a Iktan. Naór corta un árbol, no mata a un dinosaurio."
+    },
+    {
+      "id": "20-008",
+      "titulo": "Marines avistados y ataque decidido",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Desde su montura, Poncelot ve unas ruinas o un templo con tumbas, un campamento reciente, hombres armados con casacas azules y dos perros. Los llama magos oscuros y propone un ataque relámpago, pues cree que tienen relación con la maldición de Ione. Naór olfatea a los perros y se esconde. Axi intenta actuar con sigilo, pero solo Naór permanece oculta. El grupo inicia las hostilidades sin hablar con los marines.",
+      "inicio": "00:57:00.000",
+      "fin": "01:05:55.000",
+      "cita": "tres magos oscuros",
+      "evidencia_cue": {
+        "inicio": "01:00:40.599",
+        "fin": "01:00:43.430",
+        "texto": "en silencio. Acabo de ver a tres magos oscuros."
+      },
+      "entidades": [
+        "Sir Poncelot",
+        "Naór Tarcan (grafía provisional)",
+        "Axi / Chochi (identificación contextual provisional)",
+        "Ione",
+        "Campamento Marina en templo del Garfio",
+        "Marina"
+      ],
+      "ambito": "avistamiento e inicio de combate",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se demuestra que los marines sean magos ni que sean responsables de la transformación de Ione."
+    },
+    {
+      "id": "20-009",
+      "titulo": "Dos perros muertos y bestia de Axi",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Naór agarra a un perro contra la pared. Su furia vuelve temporalmente ligera y arrojadiza el hacha, que causa daño de fuerza y retorna a su mano. Zarial mata al otro perro, que estaba dormido. El capitán sale y dispara. Naór remata al perro que sujetaba golpeándole el cráneo contra la pared. Axi invoca una bestia espiritual y le ordena atacar.",
+      "inicio": "01:05:00.000",
+      "fin": "01:17:55.000",
+      "cita": "Matas al perro",
+      "evidencia_cue": {
+        "inicio": "01:08:54.679",
+        "fin": "01:08:59.829",
+        "texto": "Vale. Matas al perro."
+      },
+      "entidades": [
+        "Naór Tarcan (grafía provisional)",
+        "Zarial / Tarial (grafía provisional)",
+        "Axi / Chochi (identificación contextual provisional)",
+        "Bestia espiritual de Axi",
+        "Capitán Marina del Garfio (sin nombre)",
+        "Perros del campamento del Garfio"
+      ],
+      "ambito": "combate y poderes temporales",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": ""
+    },
+    {
+      "id": "20-010",
+      "titulo": "Primer marine muerto y espíritu destruido",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Poncelot falla sus golpes desde la mosca y recibe ataques. Triel utiliza no detección; después combate y presta apoyo. Zarial mata a un marine combinando su espada y su arma espiritual. Naór lanza el hacha, que regresa a su mano, y utiliza Acción súbita. Un marine destruye la bestia espiritual de Axi, pero el explorador sigue luchando, agotado.",
+      "inicio": "01:18:00.000",
+      "fin": "01:33:55.000",
+      "cita": "el espíritu se desaparece",
+      "evidencia_cue": {
+        "inicio": "01:31:42.440",
+        "fin": "01:31:45.510",
+        "texto": "¡Uf! Pues adiós, perro. Y nada, el espíritu se desaparece, creo."
+      },
+      "entidades": [
+        "Sir Poncelot",
+        "Mosca gigante B (montura de Poncelot)",
+        "Triel (elfa hermana, grafía provisional)",
+        "Zarial / Tarial (grafía provisional)",
+        "Naór Tarcan (grafía provisional)",
+        "Axi / Chochi (identificación contextual provisional)",
+        "Bestia espiritual de Axi"
+      ],
+      "ambito": "combate prolongado",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La desaparición de la invocación no supone la muerte del explorador. Sus acciones no se atribuyen a multiataque."
+    },
+    {
+      "id": "20-011",
+      "titulo": "Curaciones, miedo y muerte de otros marines",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Pol permite a Naór utilizar una garra como acción adicional mientras su hacha sea ligera. Zarial utiliza una canalización que añade diez a su ataque y mata a otro marine. Las cartas ciegan al capitán y favorecen al grupo. Naór asusta a un soldado y Poncelot impone una marca. Triel cura a Naór. Axi se teletransporta y cura con sangre a Zarial, que aplica una curación de veinte puntos mediante imposición de manos. Axi mata a otro marine con sus flechas.",
+      "inicio": "01:34:00.000",
+      "fin": "01:59:55.000",
+      "cita": "cúrate 20",
+      "evidencia_cue": {
+        "inicio": "01:53:56.920",
+        "fin": "01:53:58.750",
+        "texto": "Vale, pues no está automatizado, así que esto se tiene cúrate 20 y esto se pone"
+      },
+      "entidades": [
+        "Naór Tarcan (grafía provisional)",
+        "Zarial / Tarial (grafía provisional)",
+        "Axi / Chochi (identificación contextual provisional)",
+        "Sir Poncelot",
+        "Triel (elfa hermana, grafía provisional)"
+      ],
+      "ambito": "apoyo y victoria parcial",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Las bromas no confirman que la curación transmita una infección. Los ataques y la curación se adjudican como alternativas de acción."
+    },
+    {
+      "id": "20-012",
+      "titulo": "Capitán muerto y puerta de piedra golpeada",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "La espada de Zarial le clava pinchos en las manos y le causa daño. Ella mata al capitán con un golpe crítico y smite. Los cuatro marines quedan muertos. Zarial toma la solapa y el sombrero del capitán; Axi obtiene una poción y ocho flechas. Poncelot busca a Eldrat y encuentra una puerta de piedra cerrada, sin llave. Zarial la golpea con un martillo. Naór reúne los cuatro cadáveres, los echa al fuego y prepara estacas para cocinar mientras Triel observa.",
+      "inicio": "02:00:00.000",
+      "fin": "02:09:55.000",
+      "cita": "habéis acabado con los con los marines",
+      "evidencia_cue": {
+        "inicio": "02:03:06.440",
+        "fin": "02:03:13.229",
+        "texto": "Vale, pues has acabado, habéis acabado con los con los marines estos."
+      },
+      "entidades": [
+        "Zarial / Tarial (grafía provisional)",
+        "Capitán Marina del Garfio (sin nombre)",
+        "Axi / Chochi (identificación contextual provisional)",
+        "Sir Poncelot",
+        "Eldrat (elfo hermano, grafía provisional)",
+        "Naór Tarcan (grafía provisional)",
+        "Triel (elfa hermana, grafía provisional)",
+        "Espadón de Zarial"
+      ],
+      "ambito": "victoria y puerta forzada",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La búsqueda no confirma que Eldrat esté cautivo. Tampoco se establece que las armas permanezcan intactas después de destrozar al capitán."
+    },
+    {
+      "id": "20-013",
+      "titulo": "El gas y la serpiente incapacitan a Axi",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "La puerta se rompe y libera gas. Axi recibe veinticuatro puntos de daño y queda envenenado; Poncelot y Zarial reciben la mitad. Una serpiente enorme sale de un agujero y el veneno deja a Axi incapacitado durante un minuto, entre risas y llanto. Zarial se retira, se trata y avisa a los demás. Naór toma una poción y regresa. Su nueva furia crea terreno difícil; arroja el hacha sin que retorne, porque el efecto anterior ha expirado.",
+      "inicio": "02:10:00.000",
+      "fin": "02:20:55.000",
+      "cita": "te deja incapacitado",
+      "evidencia_cue": {
+        "inicio": "02:14:45.840",
+        "fin": "02:14:51.310",
+        "texto": "el veneno de ese serpiente te deja incapacitado, así que al suelo."
+      },
+      "entidades": [
+        "Axi / Chochi (identificación contextual provisional)",
+        "Sir Poncelot",
+        "Zarial / Tarial (grafía provisional)",
+        "Naór Tarcan (grafía provisional)",
+        "Serpiente gigante de templo del Garfio"
+      ],
+      "ambito": "trampa y rescate iniciado",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Axi queda incapacitado por el veneno, no muerto. Los chistes no establecen ninguna actividad sexual con la criatura."
+    },
+    {
+      "id": "20-014",
+      "titulo": "Mapa Slaz encontrado en un cofre",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Poncelot abre un cofre mineral haciendo palanca con la lanza y recurriendo a sus conocimientos de minero. Encuentra un mapa de la selva que parece representar parte de Xoltacan, marcado con una X y la palabra Slaz, cuya grafía es provisional. Lo guarda al creer que puede indicar dónde está Eldrat. No encuentra a ninguna persona dentro ni identifica la región exacta.",
+      "inicio": "02:21:00.000",
+      "fin": "02:24:55.000",
+      "cita": "hay una X en ese mapa",
+      "evidencia_cue": {
+        "inicio": "02:23:11.120",
+        "fin": "02:23:14.030",
+        "texto": "exactamente bien qué es, pero ves que básicamente hay una X en ese mapa y"
+      },
+      "entidades": [
+        "Sir Poncelot",
+        "Mapa Slaz del cofre (grafía provisional)",
+        "Eldrat (elfo hermano, grafía provisional)"
+      ],
+      "ambito": "hallazgo y lectura limitada",
+      "conocedores": [
+        "Sir Poncelot"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "El director recalca después la importancia del mapa, pero no se encuentra un tesoro ni se confirma la ubicación de Eldrat."
+    },
+    {
+      "id": "20-015",
+      "titulo": "Naór evacúa a Axi y Poncelot monta a la serpiente",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Naór saca a Axi por el tobillo y lo pone a cubierto. Poncelot clava la espada y se monta sobre la serpiente para intentar dominarla. Triel da una poción a Axi y su risa se disipa. Ordena a la serpiente que se vaya; esta sale hacia la sala, no hacia un agujero mortal. Axi vuelve a invocar una bestia con forma de oso para protegerse.",
+      "inicio": "02:24:00.000",
+      "fin": "02:33:55.000",
+      "cita": "sacarlo un poco a cubierto",
+      "evidencia_cue": {
+        "inicio": "02:27:32.439",
+        "fin": "02:27:34.349",
+        "texto": "mecánicamente lo que quiero hacer es sacarlo un poco a cubierto. Luego ya"
+      },
+      "entidades": [
+        "Naór Tarcan (grafía provisional)",
+        "Axi / Chochi (identificación contextual provisional)",
+        "Sir Poncelot",
+        "Triel (elfa hermana, grafía provisional)",
+        "Serpiente gigante de templo del Garfio",
+        "Bestia espiritual de Axi"
+      ],
+      "ambito": "evacuación y dominio fallido",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": ""
+    },
+    {
+      "id": "20-016",
+      "titulo": "Serpiente muerta y colmillos recuperados",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Poncelot no consigue domar a la serpiente herida. Triel la ataca, Axi dispara y la bestia espiritual se aproxima. Zarial mata a la serpiente y recoge sus colmillos, resistiendo el veneno al tocarlos. Naór marca el cadáver orinando sobre él. Pol aclara que el espíritu de Axi es pequeño y no puede servir de montura, aunque tenga forma de oso.",
+      "inicio": "02:34:00.000",
+      "fin": "02:41:55.000",
+      "cita": "acabáis con esa serpiente",
+      "evidencia_cue": {
+        "inicio": "02:38:43.680",
+        "fin": "02:38:45.110",
+        "texto": "vale, pues veis que acabáis con esa serpiente."
+      },
+      "entidades": [
+        "Sir Poncelot",
+        "Triel (elfa hermana, grafía provisional)",
+        "Axi / Chochi (identificación contextual provisional)",
+        "Zarial / Tarial (grafía provisional)",
+        "Naór Tarcan (grafía provisional)",
+        "Serpiente gigante de templo del Garfio",
+        "Colmillos de Zarial"
+      ],
+      "ambito": "victoria y objetos",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La serpiente no queda domada ni se confirman escamas excepcionales. Reanimarla para montarla es solo una broma."
+    },
+    {
+      "id": "20-017",
+      "titulo": "Separación, campamento y mapa pendiente",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Axi encuentra una poción dentro de una tienda y desmonta la carpa. Triel decide buscar a Eldrat en Shiaru. Poncelot y Zarial la acompañan en la mosca, llamada B por su zumbido; no se muestra su llegada. Naór y Axi permanecen para cenar los cadáveres. Ella acepta carne humana; él pide perro, pero no sabe con seguridad qué porción recibe. El director recuerda la importancia del mapa de Poncelot.",
+      "inicio": "02:42:00.000",
+      "fin": "02:49:00.000",
+      "cita": "un mapa bastante importante",
+      "evidencia_cue": {
+        "inicio": "02:47:16.640",
+        "fin": "02:47:19.110",
+        "texto": "te vas a acordar, tienes un mapa bastante importante en el"
+      },
+      "entidades": [
+        "Axi / Chochi (identificación contextual provisional)",
+        "Naór Tarcan (grafía provisional)",
+        "Triel (elfa hermana, grafía provisional)",
+        "Sir Poncelot",
+        "Zarial / Tarial (grafía provisional)",
+        "Mosca gigante B (montura de Poncelot)",
+        "Mapa Slaz del cofre (grafía provisional)",
+        "Shiaru"
+      ],
+      "ambito": "cierre y pendientes",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se muestra el regreso a Shiaru ni se encuentra a Eldrat. La preferencia de Axi por la carne de perro no demuestra el origen de la porción servida."
+    }
+  ]
+}

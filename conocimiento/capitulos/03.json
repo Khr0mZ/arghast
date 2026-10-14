@@ -1,0 +1,967 @@
+{
+  "capitulo": 3,
+  "estado_revision": "revisado",
+  "resumen": "Mamá despierta a Nox e Ione en Shiaru. Dos piratas han capturado un hada; tras amenazarlos y golpear a uno con su sandalia, Mamá la libera. El hada se presenta como Blink o Blank y relata que está perdida en este mundo. Los piratas informan de una excavación de la Marina; Nox encuentra un croquis y sigue su rastro. En la selva conoce a Sir Poncelot, un gnomo que intenta montar un dinosaurio convencido de que es un caballo, al que llama Merlucilla. Ione, Mamá y Blink se reúnen con ellos. Una trampa de Blink y varios efectos de frutas distraen al grupo mientras Nox localiza la excavación. Los aventureros entran y atacan a los marines: suplantan al centinela, pero el disfraz de Nox falla y lo reconocen por un cartel. Durante el combate, Ione se transforma en una mujer lobo, mata a un marine y después se lanza contra sus compañeros. Blink consigue calmarla y luego encantarla, permitiendo retirarse. El grupo regresa al poblado con Merlucilla y un marine vivo capturado por Nox. No descubren qué busca la Marina ni la función completa de la excavación.",
+  "misiones": [
+    "Rescate del hada: Mamá rompe el dominio de sus captores y le retira las ataduras (03-002–03-005). Blink queda libre y acompaña temporalmente al grupo.",
+    "Llevar a Blink a su casa del bosque: acuerdo de Ione y Mamá (03-007). El grupo pasa por la zona, pero se desvía; no se acredita llegada a su casa ni establecimiento definitivo del hada allí.",
+    "Investigar qué excava la Marina: relato de piratas y croquis (03-003, 03-006), entrada confirmada (03-019). La infiltración falla (03-022), ocurre combate y salen con un cautivo (03-029). No se averigua el objeto de la excavación.",
+    "Conseguir montura para Poncelot: ata y monta al dinosaurio con ayuda de Nox (03-008, 03-010); lo llama Merlucilla y sale montado al final (03-013, 03-031). Su convicción de que es un caballo no altera la descripción del director.",
+    "Sacar a Ione de la trampa: el primer intento con el dinosaurio empeora la situación; la ilusión y la cuerda permiten el rescate (03-015, 03-017).",
+    "Evitar que Ione ataque al grupo en forma de lobo: Calmar emociones y encantamiento de Blink permiten la retirada (03-027, 03-030). No es una curación definitiva."
+  ],
+  "preguntas": [
+    "¿Qué busca la Marina en la excavación? Se confirma que excava; el oro era solo una sospecha de los captores (03-003 y 03-019).",
+    "¿De dónde procede Blink/Blank y cómo llegó a este mundo? Relato de árboles parlantes y sensación de extrañeza, sin plano o portal identificado (03-005).",
+    "¿Por qué Ione es licántropa y cómo se controla? La forma de mujer lobo queda confirmada (03-024, 03-031), pero Poncelot y Mamá solo especulan sobre su origen (03-028).",
+    "¿Qué harán con el marine cautivo? Nox lo lleva encadenado, sin destino final ni interrogatorio mostrado (03-029, 03-031).",
+    "¿Cuál es la recompensa y acusación exacta del cartel de Nox? Lo reconocen por un cartel; el importe no queda inequívoco (03-022).",
+    "¿Ingresará Poncelot en la tripulación? Ione lo invita mediante una versión caballeresca engañosa; no hay juramento de tripulación explícito fuera de esa prueba presentada (03-015 y 03-020).",
+    "¿Qué especie de dinosaurio es Merlucilla y qué vínculos reales tiene con una madre? Solo Nox afirma que es una cría; no se ve su madre (03-011)."
+  ],
+  "contradicciones": [
+    "Se resuelve parcialmente la pista de capítulos 1–2: ahora sí se muestra a Ione transformándose en mujer lobo (03-024, 03-031). La explicación del origen y los desperfectos de aquella noche permanece pendiente; no se sustituye la incertidumbre previa por una falsa certeza anterior.",
+    "Pix: al inicio (00:01:00–00:01:40) el director dice que el mono no habla y Mamá no lo entiende. En el capítulo 1 sí se describe comprensión de sus palabras y mediación (01-016). Puede depender de magia temporal, pero no se explica aquí; conservar la diferencia.",
+    "Poncelot llama caballo a Merlucilla y presenta la tripulación como orden de caballeros; el director identifica un dinosaurio y deja claro que Ione engaña al gnomo (03-008, 03-011, 03-020). Son interpretaciones de personajes, no identidades confirmadas.",
+    "Monedas de Mamá: la adjudicación inicial de dieciséis se corrige a diez porque la persona que pierde solo dispone de diez (03-016).",
+    "Nombre Sir Pancelot en interfaz o voz: el jugador corrige explícitamente a Poncelot y el director acepta (03-018).",
+    "La pistola pide inicialmente salvación de veneno por configuración errónea: el director aclara que no tiene veneno (03-023).",
+    "Marine atado: una frase del director parece decir matado, pero se corrige a atado y el cautivo aparece vivo después (03-025 y 03-029)."
+  ],
+  "nombres_dudosos": [
+    "Blink/Blank/Bling/Blan: el hada declara que alterna Blink y Blank. Mantener una sola entidad Blink / Blank; no son dos personajes.",
+    "Sir Poncelot: corrección explícita del jugador a 01:28–01:30. Sir Pancelot y los compuestos sirpancelot son variantes conservadas en la fuente.",
+    "Merlucilla/Merluilla/Merilla: dinosaurio que Poncelot considera caballo; grafía de la montura pendiente de confirmación adicional.",
+    "Mamá/Citlali: el director pronuncia Citlali a 00:56–00:58, reforzando la identificación contextual. Coyote sigue sin aparecer inequívocamente en esta revisión.",
+    "Jack: nombre que los trabajadores gritan al centinela dormido, luego capturado; identidad por continuidad, no nombre confesado por el cautivo.",
+    "Nombre de especie que Nox intenta dar al dinosaurio, alrededor de 00:46, es ininteligible; no se reconstruye por parecido.",
+    "Gustavo, Edvin y referencias a personajes reciclados al hablar de plantas pueden ser bromas de mesa; no se fija nombre propio del arbusto."
+  ],
+  "fuente_sha256": "baae8e206e5c61a195eff250fcb059d7b8482605dd79c41011923a649a94c686",
+  "afirmaciones": [
+    {
+      "id": "03-001",
+      "titulo": "Mamá sale del barco y despierta a los piratas",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Mamá sale del barco donde Nox le ofreció alojamiento, despierta a Nox e Ione y propone desayunar. El director establece que ya es mediodía.",
+      "inicio": "00:00:00.000",
+      "fin": "00:06:20.000",
+      "cita": "12 del mediodía",
+      "evidencia_cue": {
+        "inicio": "00:05:54.080",
+        "fin": "00:05:56.550",
+        "texto": "¿Qué hora distingo que es más o menos? Son las 12 del mediodía."
+      },
+      "entidades": [
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Nox",
+        "Ione",
+        "Barco Zampaolas (grafía provisional)",
+        "Shiaru"
+      ],
+      "ambito": "escena en el poblado",
+      "conocedores": [
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Nox",
+        "Ione"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": ""
+    },
+    {
+      "id": "03-002",
+      "titulo": "Hada cautiva de dos piratas",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Nox y Mamá encuentran a dos piratas con un hada pequeña encerrada, atada y amordazada. Los piratas reclaman que les pertenece y discuten con ambos; al presionarlos con informar a Bonnie, ofrecen a Nox información a cambio de su silencio.",
+      "inicio": "00:08:00.000",
+      "fin": "00:12:00.000",
+      "cita": "atada y está también amordazada",
+      "evidencia_cue": {
+        "inicio": "00:09:21.079",
+        "fin": "00:09:22.550",
+        "texto": "La veis que está atada y está también amordazada. Y la veis a pobrecita que"
+      },
+      "entidades": [
+        "Nox",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Blink / Blank",
+        "Dos piratas captores (sin nombres)",
+        "Happy Bonnie / Bonny (grafía provisional)"
+      ],
+      "ambito": "encuentro en la costa",
+      "conocedores": [
+        "Nox",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Blink / Blank"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La pretensión de pertenencia de los piratas no demuestra legitimidad ni una ley oficial del poblado."
+    },
+    {
+      "id": "03-003",
+      "titulo": "Noticia de la excavación de la Marina",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Los captores dicen haber encontrado al hada mientras seguían a la Marina. Relatan que los marines llevan palas y picos y están excavando algo; especulan que puede ser oro. Dicen que desembarcan más al sur.",
+      "inicio": "00:11:40.000",
+      "fin": "00:13:20.000",
+      "cita": "estaban excavando algo",
+      "evidencia_cue": {
+        "inicio": "00:12:20.040",
+        "fin": "00:12:21.509",
+        "texto": "algo. Llevaban palas y picos, estaban excavando algo. Seguro que han"
+      },
+      "entidades": [
+        "Dos piratas captores (sin nombres)",
+        "Marina",
+        "Nox",
+        "Blink / Blank"
+      ],
+      "ambito": "información de piratas a Nox",
+      "conocedores": [
+        "Nox",
+        "Dos piratas captores (sin nombres)"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Oro es una sospecha de los piratas. La excavación se verifica más adelante; el hallazgo de oro no."
+    },
+    {
+      "id": "03-004",
+      "titulo": "Liberación del hada",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Mamá golpea con su sandalia a un captor, que suelta la jaula y la rompe. Mamá toma al hada y le quita las ataduras. El hada intenta morder a uno de los piratas, que huye; luego explica que la capturaron mientras estaba distraída en el bosque.",
+      "inicio": "00:13:30.000",
+      "fin": "00:18:10.000",
+      "cita": "Suelta la jaula",
+      "evidencia_cue": {
+        "inicio": "00:15:15.079",
+        "fin": "00:15:17.230",
+        "texto": "que pues se queda así medio tonto, ¿sabes? Suelta la jaula y nada, al"
+      },
+      "entidades": [
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Blink / Blank",
+        "Nox",
+        "Dos piratas captores (sin nombres)"
+      ],
+      "ambito": "liberación en la costa",
+      "conocedores": [
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Blink / Blank",
+        "Nox"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se muestra la muerte de los captores. La libertad del hada es el resultado observado; su relato del secuestro es una declaración posterior."
+    },
+    {
+      "id": "03-005",
+      "titulo": "Blink o Blank, hada perdida",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "El hada explica que en el bosque donde vivía hablaban los árboles y había criaturas diferentes. Se siente perdida en este mundo, donde ha permanecido en el bosque. Se presenta como Blink o Blank y dice que usa ambos nombres.",
+      "inicio": "00:17:45.000",
+      "fin": "00:20:45.000",
+      "cita": "a veces blank",
+      "evidencia_cue": {
+        "inicio": "00:20:25.880",
+        "fin": "00:20:29.549",
+        "texto": "vez blink y a veces blank."
+      },
+      "entidades": [
+        "Blink / Blank",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Nox"
+      ],
+      "ambito": "presentación y relato del hada",
+      "conocedores": [
+        "Blink / Blank",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Nox"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se identifica el plano de origen, una fecha de traslado ni un portal. La explicación posterior de Poncelot sobre Avalon no confirma el origen del hada."
+    },
+    {
+      "id": "03-006",
+      "titulo": "Nox recupera un croquis",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Nox busca donde se produjo el altercado y encuentra un papel manchado con un dibujo del bosque, un camino y una X. El director explica que la ruta sale a pie del poblado hacia la jungla. Nox se marcha solo para seguirlo.",
+      "inicio": "00:24:20.000",
+      "fin": "00:28:40.000",
+      "cita": "una línea y una X",
+      "evidencia_cue": {
+        "inicio": "00:28:26.039",
+        "fin": "00:28:27.950",
+        "texto": "nada, pues un típico mapa que haría un niño, ¿sabes? Con una línea y una X,"
+      },
+      "entidades": [
+        "Nox",
+        "Marina",
+        "Croquis de los piratas"
+      ],
+      "ambito": "investigación individual de Nox",
+      "conocedores": [
+        "Nox"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se confirma el autor del croquis. La relación con los captores se basa en el lugar del hallazgo y el contexto de su relato."
+    },
+    {
+      "id": "03-007",
+      "titulo": "Desayuno y plan de acompañar al hada",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Blink se esconde en la ropa de Mamá para evitar que Bonnie la vea. Ione pide comida y ron y carga la botella a nombre de Nox. Blink dice vivir en un tronco cerca de una construcción de grandes piedras; acuerdan acompañarla al bosque.",
+      "inicio": "00:28:30.000",
+      "fin": "00:33:20.000",
+      "cita": "casa en un tronco",
+      "evidencia_cue": {
+        "inicio": "00:31:20.799",
+        "fin": "00:31:24.110",
+        "texto": "Yo vivo en el bosque, tengo una casa en un tronco cerca de una casa así, no sé,"
+      },
+      "entidades": [
+        "Blink / Blank",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Ione",
+        "Pix",
+        "Nox"
+      ],
+      "ambito": "desayuno y acuerdo de traslado",
+      "conocedores": [
+        "Blink / Blank",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Ione"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se da por cumplido el regreso a su casa: el grupo termina desviándose a la excavación."
+    },
+    {
+      "id": "03-008",
+      "titulo": "Poncelot y el supuesto corcel",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Nox encuentra a un individuo pequeño con armadura y un sombrero de hoja, luego identificado como gnomo Sir Poncelot, que intenta domar un dinosaurio. Poncelot lo considera un caballo. La criatura lo golpea con la cola y él insiste en acercarse.",
+      "inicio": "00:33:15.000",
+      "fin": "00:38:45.000",
+      "cita": "un dinosaurio",
+      "evidencia_cue": {
+        "inicio": "00:35:31.839",
+        "fin": "00:35:33.510",
+        "texto": "pero que está intentando hablar con un dinosaurio que es bastante más grande"
+      },
+      "entidades": [
+        "Nox",
+        "Sir Poncelot",
+        "Merlucilla (dinosaurio, grafía provisional)"
+      ],
+      "ambito": "encuentro de Nox con Poncelot",
+      "conocedores": [
+        "Nox",
+        "Sir Poncelot"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La identificación como caballo es la interpretación de Poncelot; el director identifica la criatura como dinosaurio. No se establece especie exacta."
+    },
+    {
+      "id": "03-009",
+      "titulo": "Fruta y daño adicional de Nox",
+      "tipo": "explicacion_director",
+      "afirmacion": "Después de que Nox coma una fruta de la selva, el director adjudica que sus armas hacen daño adicional durante la partida mediante un efecto descrito como veneno o jugo espiritual. Nox lo representa clavando la fruta en su espada.",
+      "inicio": "00:38:30.000",
+      "fin": "00:41:00.000",
+      "cita": "ahora haces más daño",
+      "evidencia_cue": {
+        "inicio": "00:39:42.599",
+        "fin": "00:39:44.550",
+        "texto": "envuelve esas armas y ahora haces más daño"
+      },
+      "entidades": [
+        "Nox",
+        "Frutas de la selva (efectos de sesión)"
+      ],
+      "ambito": "adjudicación de efecto de juego",
+      "conocedores": [
+        "Nox"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Es un efecto temporal adjudicado en esta sesión; no se fija una especie botánica, una receta ni una regla general de D&D."
+    },
+    {
+      "id": "03-010",
+      "titulo": "Montura y presentación de Poncelot",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Poncelot sujeta al dinosaurio con una cuerda y lo atrae con comida. Tiene dificultades para subir, pero Nox lo ayuda. Poncelot se presenta como caballero andante, matador de dragones, salvador de princesas y castigador de gigantes.",
+      "inicio": "00:40:00.000",
+      "fin": "00:45:50.000",
+      "cita": "caballero andante",
+      "evidencia_cue": {
+        "inicio": "00:45:11.319",
+        "fin": "00:45:14.630",
+        "texto": "caballero. Me presento, soy Sir Poncelot, caballero andante,"
+      },
+      "entidades": [
+        "Nox",
+        "Sir Poncelot",
+        "Merlucilla (dinosaurio, grafía provisional)"
+      ],
+      "ambito": "monta y presentación ante Nox",
+      "conocedores": [
+        "Nox",
+        "Sir Poncelot"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Los títulos y proezas son proclamados por Poncelot. No se registran dragones o gigantes derrotados por esa sola presentación."
+    },
+    {
+      "id": "03-011",
+      "titulo": "Especie y origen disputados por los interlocutores",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Nox llama inicialmente a la criatura una cría de una especie de la isla cuyo nombre se transcribe de forma confusa y advierte de la madre; luego acepta verbalmente que parece un caballo. Poncelot dice llevar apenas una semana en la isla.",
+      "inicio": "00:46:00.000",
+      "fin": "00:48:20.000",
+      "cita": "apenas una semana",
+      "evidencia_cue": {
+        "inicio": "00:47:26.200",
+        "fin": "00:47:29.549",
+        "texto": "habitantes de de esta isla. Llevo apenas una semana en ella y no entiendo bien"
+      },
+      "entidades": [
+        "Nox",
+        "Sir Poncelot",
+        "Merlucilla (dinosaurio, grafía provisional)"
+      ],
+      "ambito": "conversación sobre la criatura",
+      "conocedores": [
+        "Nox",
+        "Sir Poncelot"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La opinión cambiante de Nox no modifica la identificación de dinosaurio del director. No se toma la cría ni su madre como encuentros confirmados."
+    },
+    {
+      "id": "03-012",
+      "titulo": "Frutas, idiomas y arbusto parlante",
+      "tipo": "explicacion_director",
+      "afirmacion": "Blink, Ione y Mamá comen frutas. El director adjudica efectos que duran la partida: Blink habla también infracomún, Mamá no deja huellas e Ione entiende plantas. Ione conversa con un arbusto que se queja de que una vieja acompañada de una criatura de fuego le arranca hojas para fumar; Ione le arranca el resto del bigote de hojas.",
+      "inicio": "00:49:30.000",
+      "fin": "00:55:50.000",
+      "cita": "tus pasos no dejan huellas",
+      "evidencia_cue": {
+        "inicio": "00:53:04.920",
+        "fin": "00:53:06.990",
+        "texto": "mamma, eh, tus pasos no dejan huellas durante"
+      },
+      "entidades": [
+        "Blink / Blank",
+        "Ione",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Frutas de la selva (efectos de sesión)",
+        "Arbusto parlante (sin nombre confirmado)",
+        "Pinky"
+      ],
+      "ambito": "adjudicación y escena de plantas",
+      "conocedores": [
+        "Blink / Blank",
+        "Ione",
+        "Mamá / Citlali (identificación contextual provisional)"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "El arbusto menciona una vieja; su identificación con Pinky es contextual, no un nombre dicho por el arbusto. Gustavo y Edvin aparecen como bromas o nombres mal atribuidos, sin establecer identidad del arbusto."
+    },
+    {
+      "id": "03-013",
+      "titulo": "Grupo reunido y nombre de Merlucilla",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Ione, Mamá y Blink se reúnen con Nox y Poncelot. Poncelot llama a su montura Merlucilla o Merluilla, según las variantes del reconocimiento. La criatura sigue las frutas y trepa un árbol; Ione la atrae de nuevo con comida. El director llama Citlali a Mamá en esta escena.",
+      "inicio": "00:55:45.000",
+      "fin": "01:01:10.000",
+      "cita": "Citlali",
+      "evidencia_cue": {
+        "inicio": "00:57:40.039",
+        "fin": "00:57:43.069",
+        "texto": "atrás. Mamá, ves a a Citlali peggando el grito en el"
+      },
+      "entidades": [
+        "Nox",
+        "Ione",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Blink / Blank",
+        "Sir Poncelot",
+        "Merlucilla (dinosaurio, grafía provisional)"
+      ],
+      "ambito": "reunión del grupo en la selva",
+      "conocedores": [
+        "Nox",
+        "Ione",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Blink / Blank",
+        "Sir Poncelot"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La mención Citlali refuerza la identificación de Mamá, pero no establece identidad con Coyote."
+    },
+    {
+      "id": "03-014",
+      "titulo": "Mapa orientado y ocultado",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Desde una roca, Nox reconoce en el paisaje un árbol curvado, montaña y cueva que coinciden con el croquis, y establece una ruta aproximada. Oculta el papel al resto y muestra dados a Mamá como explicación de su actitud; la tirada indica que ella cree esa explicación.",
+      "inicio": "01:01:00.000",
+      "fin": "01:06:20.000",
+      "cita": "los mismos dibujitos",
+      "evidencia_cue": {
+        "inicio": "01:02:11.319",
+        "fin": "01:02:13.470",
+        "texto": "montaña, pues ves eso y ves el papelito que tienes y hay los mismos dibujitos,"
+      },
+      "entidades": [
+        "Nox",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Ione",
+        "Croquis de los piratas"
+      ],
+      "ambito": "investigación y engaño en el grupo",
+      "conocedores": [
+        "Nox"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se da por sabido el contenido del mapa por Mamá en este momento."
+    },
+    {
+      "id": "03-015",
+      "titulo": "Trampa del hada e Ione atrapada",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Blink teme que el grupo invada su casa y prepara un agujero cubierto por una hoja cerca del camino. Ione cae y queda encajada hasta la cadera. Poncelot la invita a considerar su orden de caballeros, siguiendo la presentación engañosa que ella hace de los Zampaolas.",
+      "inicio": "01:14:00.000",
+      "fin": "01:23:30.000",
+      "cita": "una hoja encima",
+      "evidencia_cue": {
+        "inicio": "01:14:52.520",
+        "fin": "01:14:55.910",
+        "texto": "de cinco pies en en el suelo y voy a poner una hoja encima. Eso. [risas]"
+      },
+      "entidades": [
+        "Blink / Blank",
+        "Ione",
+        "Sir Poncelot",
+        "Zampaolas (tripulación)"
+      ],
+      "ambito": "trampa y conversación junto al camino",
+      "conocedores": [
+        "Blink / Blank",
+        "Ione",
+        "Sir Poncelot"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "El director aclara que la construcción cercana no es la casa del hada. No se registra que la tripulación sea realmente una orden de caballería."
+    },
+    {
+      "id": "03-016",
+      "titulo": "Diez monedas encontradas por Mamá",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Mamá encuentra un rastro de monedas y lo recoge. Una interacción de cartas de los espectadores plantea inicialmente dieciséis monedas, pero el director corrige que el personaje que las pierde solo tiene diez y adjudica diez a Mamá.",
+      "inicio": "01:17:45.000",
+      "fin": "01:19:40.000",
+      "cita": "te ganas 10",
+      "evidencia_cue": {
+        "inicio": "01:19:30.560",
+        "fin": "01:19:31.470",
+        "texto": "de oro porque solo tenía 10, así que te ganas 10 a cu."
+      },
+      "entidades": [
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Ione"
+      ],
+      "ambito": "adjudicación de carta en la mesa",
+      "conocedores": [
+        "Mamá / Citlali (identificación contextual provisional)"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La pérdida se atribuye en la mesa al personaje de Sorano, Ione, por contexto de la conversación; no se documenta que Mamá identifique a la propietaria en la ficción."
+    },
+    {
+      "id": "03-017",
+      "titulo": "Rescate de Ione de la trampa",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Poncelot intenta usar a Merlucilla para sacar a Ione, pero el dinosaurio le mete la cabeza en la boca como si fuera una fruta. Los intentos iniciales fallan; una ilusión de fruta de Blink distrae a la montura y una cuerda permite finalmente sacar a Ione.",
+      "inicio": "01:24:15.000",
+      "fin": "01:31:55.000",
+      "cita": "ilusión de la fruta",
+      "evidencia_cue": {
+        "inicio": "01:30:43.679",
+        "fin": "01:30:46.109",
+        "texto": "masticable y no sé qué y cuando ve la ilusión de la fruta hace y ves que ve la"
+      },
+      "entidades": [
+        "Sir Poncelot",
+        "Merlucilla (dinosaurio, grafía provisional)",
+        "Ione",
+        "Blink / Blank",
+        "Mamá / Citlali (identificación contextual provisional)"
+      ],
+      "ambito": "resolución de la trampa",
+      "conocedores": [
+        "Sir Poncelot",
+        "Ione",
+        "Blink / Blank",
+        "Mamá / Citlali (identificación contextual provisional)"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Nox pasa de largo para investigar la excavación; no se presume que presencie toda la resolución."
+    },
+    {
+      "id": "03-018",
+      "titulo": "Corrección explícita del nombre de Poncelot",
+      "tipo": "explicacion_director",
+      "afirmacion": "El jugador corrige la grafía del nombre: dice que es Poncelot, no la variante que figura en la interfaz. El director acepta corregirlo para la siguiente sesión.",
+      "inicio": "01:28:00.000",
+      "fin": "01:30:00.000",
+      "cita": "es Ponce Lot",
+      "evidencia_cue": {
+        "inicio": "01:28:13.960",
+        "fin": "01:28:17.189",
+        "texto": "te va. Por cierto, Paul es es Ponce Lot, que he"
+      },
+      "entidades": [
+        "Sir Poncelot"
+      ],
+      "ambito": "corrección de nombre en la mesa",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Se fija Sir Poncelot como etiqueta editorial, conservando Pancelot y otras variantes en la fuente."
+    },
+    {
+      "id": "03-019",
+      "titulo": "Excavación de la Marina localizada",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Nox encuentra una entrada excavada con herramientas, cascos, mochilas, literas y un carril para vagoneta. Hay un marine dormido y se oyen trabajos más adentro. Al reunirse con el resto, Nox avisa de la presencia de la Marina; él e Ione entran con sigilo y ven a otros marines trabajando.",
+      "inicio": "01:28:20.000",
+      "fin": "01:39:50.000",
+      "cita": "cositas como de minería",
+      "evidencia_cue": {
+        "inicio": "01:29:29.440",
+        "fin": "01:29:30.990",
+        "texto": "cascos, mochilas y de cositas como de minería."
+      },
+      "entidades": [
+        "Nox",
+        "Ione",
+        "Marina",
+        "Excavación de la Marina (ubicación aproximada por croquis)",
+        "Marine centinela capturado (Jack, identificación provisional)"
+      ],
+      "ambito": "exploración e infiltración",
+      "conocedores": [
+        "Nox",
+        "Ione"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La observación confirma excavación, no el oro que habían supuesto los piratas ni la finalidad completa de los trabajos."
+    },
+    {
+      "id": "03-020",
+      "titulo": "Engaño caballeresco y plan de infiltración",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Nox advierte de los marines. Ione presenta a Poncelot a esos hombres como caballeros oscuros enemigos de los Zampaolas y convierte el ataque en una supuesta prueba de ingreso. Poncelot la cree. Su comparación de Mamá con Titania y sus alusiones a Oberon y Avalon son interpretaciones del gnomo.",
+      "inicio": "01:34:00.000",
+      "fin": "01:47:20.000",
+      "cita": "caballeros oscuros",
+      "evidencia_cue": {
+        "inicio": "01:46:37.000",
+        "fin": "01:46:39.709",
+        "texto": "son los son los caballeros son los caballeros oscuros de las profundidades."
+      },
+      "entidades": [
+        "Nox",
+        "Ione",
+        "Sir Poncelot",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Marina",
+        "Zampaolas (tripulación)"
+      ],
+      "ambito": "explicación engañosa a Poncelot",
+      "conocedores": [
+        "Sir Poncelot",
+        "Ione"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No confirma que Mamá sea Titania, que esté emparentada con Oberon, que Blink venga de Avalon ni que los marines pertenezcan a una orden caballeresca."
+    },
+    {
+      "id": "03-021",
+      "titulo": "Centinela aturdido y disfraz de Nox",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Nox inmoviliza al marine que dormía e Ione lo golpea en la cabeza con Diálogo, dejándolo aturdido. Nox se pone su casaca, sombrero y distintivos para suplantarlo; los compañeros del marine llaman Jack al trabajador que esperan.",
+      "inicio": "01:43:20.000",
+      "fin": "01:48:45.000",
+      "cita": "te disfrazas de él",
+      "evidencia_cue": {
+        "inicio": "01:48:10.320",
+        "fin": "01:48:11.990",
+        "texto": "vale. Sí, me parece. Vale, te disfrazas de él y nada, pues estáis escuchando"
+      },
+      "entidades": [
+        "Nox",
+        "Ione",
+        "Marina",
+        "Marine centinela capturado (Jack, identificación provisional)",
+        "Diálogo (bate de Ione)"
+      ],
+      "ambito": "ataque sigiloso y suplantación",
+      "conocedores": [
+        "Nox",
+        "Ione"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Jack es una identificación por la llamada de los otros marines, sin presentación directa del cautivo."
+    },
+    {
+      "id": "03-022",
+      "titulo": "Escondites y descubrimiento de Nox",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Ione se esconde en una letrina mientras Nox intenta fingir un cambio de turno. Mamá no consigue ocultarse completamente. El disfraz de Nox se deshace, los marines lo reconocen como el del cartel y sacan sus armas.",
+      "inicio": "01:48:00.000",
+      "fin": "01:53:50.000",
+      "cita": "el del cartel",
+      "evidencia_cue": {
+        "inicio": "01:52:45.520",
+        "fin": "01:52:49.430",
+        "texto": "Pero es él el del cartel."
+      },
+      "entidades": [
+        "Nox",
+        "Ione",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Sir Poncelot",
+        "Blink / Blank",
+        "Marina",
+        "Cartel de búsqueda de Nox"
+      ],
+      "ambito": "infiltración fallida",
+      "conocedores": [
+        "Nox",
+        "Ione",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Sir Poncelot",
+        "Blink / Blank",
+        "Marina"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Los comentarios 125 cada uno sugieren recompensa, pero no se fija aquí el texto, la moneda ni el importe total exacto del cartel."
+    },
+    {
+      "id": "03-023",
+      "titulo": "Combate dentro de la excavación",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Ione sale de su escondite y ataca a los marines; Mamá interviene lanzando sandalias, Poncelot arroja herramientas y protege a Mamá, y Nox empuja una vagoneta para apartar a dos enemigos. Un marine dispara a Ione. El director aclara que la petición automática de salvación de veneno de esa pistola era un error de configuración.",
+      "inicio": "01:54:00.000",
+      "fin": "02:10:25.000",
+      "cita": "la pistola no tiene veneno",
+      "evidencia_cue": {
+        "inicio": "02:06:30.719",
+        "fin": "02:06:32.189",
+        "texto": "pidiendo para un veneno y la pistola no tiene veneno."
+      },
+      "entidades": [
+        "Nox",
+        "Ione",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Sir Poncelot",
+        "Blink / Blank",
+        "Marina"
+      ],
+      "ambito": "combate y corrección técnica en la mesa",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se interpreta el error del programa como un arma envenenada dentro del mundo."
+    },
+    {
+      "id": "03-024",
+      "titulo": "Ione se transforma en mujer lobo",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Tras fallar una salvación durante el combate, Ione desarrolla pelo, aumenta de tamaño y rompe su ropa. Avisa de que corran, arrastra a un marine al fondo de la excavación y lo ataca con mordiscos y zarpazos. La mesa habla explícitamente de licantropía y de la forma de hombre lobo; el director la llama mujer lobo al cierre.",
+      "inicio": "02:10:00.000",
+      "fin": "02:22:30.000",
+      "cita": "hombre lobo",
+      "evidencia_cue": {
+        "inicio": "02:21:32.760",
+        "fin": "02:21:35.870",
+        "texto": "¿vale? Eh, sí, pero imaginaos como un hombre lobo, ¿sabes? Formas porque sí."
+      },
+      "entidades": [
+        "Ione",
+        "Nox",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Sir Poncelot",
+        "Blink / Blank",
+        "Marina"
+      ],
+      "ambito": "transformación adjudicada y descripción de la mesa",
+      "conocedores": [
+        "Nox",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Sir Poncelot",
+        "Blink / Blank"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Confirma la forma licántropa, pero no su origen, fecha de adquisición ni reglas generales. Algunos personajes pueden verla sin identificar licantropía; Poncelot propone una maldición ajena."
+    },
+    {
+      "id": "03-025",
+      "titulo": "Retirada de Mamá y centinela atado",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Poncelot, ayudado por Blink, logra arrastrar a Mamá hacia la salida a pesar de su resistencia inicial. Nox aparta las armas del marine aturdido, busca cuerda y lo ata; el director aclara atado después de una frase que parecía matado.",
+      "inicio": "02:16:00.000",
+      "fin": "02:29:30.000",
+      "cita": "Atado",
+      "evidencia_cue": {
+        "inicio": "02:29:20.479",
+        "fin": "02:29:21.870",
+        "texto": "No, no lo tengo atado. Atado. Sí, sí, atado, atado. Sí, sí. Lo"
+      },
+      "entidades": [
+        "Nox",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Sir Poncelot",
+        "Blink / Blank",
+        "Marine centinela capturado (Jack, identificación provisional)"
+      ],
+      "ambito": "retirada y captura",
+      "conocedores": [
+        "Nox",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Sir Poncelot",
+        "Blink / Blank"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "El cautivo está vivo en la salida posterior. La frase te he matado no se conserva como muerte consumada, sino como equivocación corregida."
+    },
+    {
+      "id": "03-026",
+      "titulo": "Tres marines abatidos",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Ione mata al marine que había sujetado con un zarpazo en el estómago; Mamá derriba al marine al que había paralizado Blink y Nox acaba con el último enemigo activo mediante un grito y el efecto de un conjuro cuyo nombre se oye parcialmente como whisper. El centinela atado permanece vivo.",
+      "inicio": "02:29:30.000",
+      "fin": "02:36:05.000",
+      "cita": "acabas con él",
+      "evidencia_cue": {
+        "inicio": "02:35:52.240",
+        "fin": "02:35:56.469",
+        "texto": "y acabas acabas con él. Ya podemos hacer"
+      },
+      "entidades": [
+        "Nox",
+        "Ione",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Blink / Blank",
+        "Marina",
+        "Marine centinela capturado (Jack, identificación provisional)"
+      ],
+      "ambito": "resolución del combate",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La muerte de Ione está descrita inequívocamente. Mamá hace caer al suyo y Nox acaba con el tercero; el resumen posterior de la mesa trata a los compañeros del cautivo como muertos, sin describir recuperación."
+    },
+    {
+      "id": "03-027",
+      "titulo": "La bestia se lanza hacia sus compañeros",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Tras derrotar a los marines, Ione corre a cuatro patas hacia sus compañeros buscando nuevas presas. Poncelot se prepara para proteger al grupo con el escudo. Blink lanza Calmar emociones y logra que Ione se tranquilice; Poncelot la acaricia y ella se deja rascar como un perro.",
+      "inicio": "02:36:00.000",
+      "fin": "02:40:45.000",
+      "cita": "calar emociones",
+      "evidencia_cue": {
+        "inicio": "02:38:28.560",
+        "fin": "02:38:30.590",
+        "texto": "Y la acción es lanzar un un calar emociones, intentar a ver a ver si"
+      },
+      "entidades": [
+        "Ione",
+        "Sir Poncelot",
+        "Blink / Blank",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Nox"
+      ],
+      "ambito": "peligro y control de Ione",
+      "conocedores": [
+        "Sir Poncelot",
+        "Blink / Blank",
+        "Mamá / Citlali (identificación contextual provisional)"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se muestra que mate a un compañero. El efecto es temporal; no cura la licantropía ni resuelve su control permanente."
+    },
+    {
+      "id": "03-028",
+      "titulo": "Interpretaciones sobre la condición de Ione",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Poncelot interpreta que un mago de los caballeros oscuros maldijo a Ione. Mamá dice que quizá nació así y propone buscar un chamán, sin estar segura. Ninguna explicación se confirma.",
+      "inicio": "02:40:00.000",
+      "fin": "02:42:10.000",
+      "cita": "haya nacido así",
+      "evidencia_cue": {
+        "inicio": "02:41:27.720",
+        "fin": "02:41:30.190",
+        "texto": "eh ella se se acerca. Hm. No sé, probablemente haya nacido así. Bueno,"
+      },
+      "entidades": [
+        "Ione",
+        "Sir Poncelot",
+        "Mamá / Citlali (identificación contextual provisional)"
+      ],
+      "ambito": "hipótesis expresadas por personajes",
+      "conocedores": [
+        "Sir Poncelot",
+        "Mamá / Citlali (identificación contextual provisional)"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Son hipótesis en diálogo de personajes, no certezas de la mesa ni adjudicaciones del director."
+    },
+    {
+      "id": "03-029",
+      "titulo": "Nox se lleva al marine cautivo",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Nox saca al marine vivo, le amenaza con su espada, le cubre los ojos y le pone las cadenas que utiliza para Ione para llevárselo. El cautivo lo reconoce como pirata e intenta que avisen a los demás; Nox no lo libera.",
+      "inicio": "02:41:40.000",
+      "fin": "02:46:35.000",
+      "cita": "cadenas que uso para Jones",
+      "evidencia_cue": {
+        "inicio": "02:43:13.640",
+        "fin": "02:43:15.950",
+        "texto": "y y me preparo las cadenas que uso para Jones para volver a ponérselas en las"
+      },
+      "entidades": [
+        "Nox",
+        "Marine centinela capturado (Jack, identificación provisional)",
+        "Ione"
+      ],
+      "ambito": "captura y traslado bajo amenaza",
+      "conocedores": [
+        "Nox",
+        "Marine centinela capturado (Jack, identificación provisional)"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La promesa de Nox de salvarlo forma parte de su conducta coercitiva; no prueba que lo lleve a lugar seguro ni que cumpla la promesa."
+    },
+    {
+      "id": "03-030",
+      "titulo": "Blink encanta a Ione y guía la retirada",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Al advertir que Calmar emociones dura poco, Blink intenta un segundo conjuro de encantamiento y lo consigue. Ione se muestra amistosa hacia el hada, que se sube sobre ella y la guía hacia el bosque tirando de sus orejas.",
+      "inicio": "02:43:00.000",
+      "fin": "02:46:45.000",
+      "cita": "hechizo",
+      "evidencia_cue": {
+        "inicio": "02:45:13.000",
+        "fin": "02:45:14.950",
+        "texto": "estaba, cómo estaba ruendo como esto y de repente como que le haces ese hechizo"
+      },
+      "entidades": [
+        "Blink / Blank",
+        "Ione",
+        "Sir Poncelot",
+        "Mamá / Citlali (identificación contextual provisional)"
+      ],
+      "ambito": "control temporal y salida",
+      "conocedores": [
+        "Blink / Blank",
+        "Sir Poncelot",
+        "Mamá / Citlali (identificación contextual provisional)"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La mesa discute Charm Person y que Ione sigue siendo humanoide. No se da por curada ni por plenamente consciente bajo el encantamiento."
+    },
+    {
+      "id": "03-031",
+      "titulo": "Regreso con el dinosaurio y el cautivo",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Poncelot vuelve a montar a Merlucilla. Ione intenta acercarse para morder al dinosaurio, pero Blink la desvía. El grupo abandona la excavación y regresa hacia el poblado pirata con el hada sobre Ione en forma de mujer lobo, Mamá, Poncelot en su montura y Nox conduciendo al marine encadenado.",
+      "inicio": "02:46:00.000",
+      "fin": "02:51:00.000",
+      "cita": "una mujer lobo",
+      "evidencia_cue": {
+        "inicio": "02:50:19.760",
+        "fin": "02:50:22.990",
+        "texto": "una had montada en un hombre, una mujer lobo, una señora mayor que me la imagino"
+      },
+      "entidades": [
+        "Nox",
+        "Ione",
+        "Blink / Blank",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Sir Poncelot",
+        "Merlucilla (dinosaurio, grafía provisional)",
+        "Marine centinela capturado (Jack, identificación provisional)",
+        "Shiaru"
+      ],
+      "ambito": "descripción de cierre del director",
+      "conocedores": [
+        "Nox",
+        "Ione",
+        "Blink / Blank",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Sir Poncelot"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se muestra aún la reacción del poblado ni una entrega del cautivo. El regreso al poblado es dirección narrada, no escena de llegada representada."
+    }
+  ]
+}

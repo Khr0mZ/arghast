@@ -1,0 +1,710 @@
+{
+  "capitulo": 12,
+  "estado_revision": "revisado",
+  "resumen": "Blink y Axi se recuperan del cautiverio. Nox relata una conversación con Bonnie y Erendriel admite que estuvo con él en una entrevista en la que perdió parte de una oreja. El compromiso de una semana todavía queda sin explicar. Ione cuenta una cita con Kilzer entre sesiones. Pix conserva el mondadientes de Blink. Nox propone enviar a Jack a Puerto de las Espadas para cobrar una lista y reunirse con Lucy, con la condición de regresar con ganancias. Se identifica expresamente el diario del nawal: sus rutinas y rituales dan paso a una escritura cada vez menos verbal y más agresiva, interpretada como animalización. Jack informa de las expediciones de Fuerte Aurora y Nox cree que Molly lo dirige. Blink guía al grupo a otro campamento de la Marina en unas ruinas. Pinky se une y recibe hojas de la planta de esporas. Nox se hace pasar por Jack Jackson y engaña al capitán, mientras los demás se infiltran y ven a cuatro presos. La captura de un guardia y el crecimiento de plantas crean confusión, pero un segundo intento es descubierto. Durante el combate liberan a una mujer tatuada y a un hombre tigre; otro pirata huye y cae bajo los disparos. No queda clara la liberación del cuarto preso. Pinky come chocolate, alucina, quema al capitán y a Nox y acaba convertida en oveja. Nox deja al capitán vivo e inconsciente, obtiene una copa ritual y un mapa de actividades de la Marina y le deja una nota para Molly. Ione regresa con los heridos y refugiados. Los demás vuelven después con Pinky. No visitan Fuerte Aurora ni leen el contenido completo de la nota.",
+  "registros": [
+    [
+      "00:00:00",
+      "00:02:35",
+      "Recuperación de Blink e inquietud de Nox por el fortín",
+      "declaracion_personaje",
+      "Blink relata que está consciente y recuperándose en el barco, cerca de Mamá y del huevo, sin salir mucho, con intención de obtener ropa. No pierde ningún objeto durante el descanso al no tener nada. Nox relata una conversación interesante con Happy Bonnie sin detalles y preocupación por el fortín del sur del Garfio. Una tirada le resta tres puntos de vida.",
+      [
+        "Blink / Blank",
+        "Nox",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Huevo grande del nido",
+        "Fuerte Aurora (grafía provisional)"
+      ],
+      "está recuperándose",
+      "recapitulación y descanso",
+      [],
+      "desconocido",
+      "La conversación de muelle del 11 se menciona sin contenido completo. No visita al fuerte ni causa de pérdida de vida establecidas en esta recapitulación."
+    ],
+    [
+      "00:02:25",
+      "00:05:15",
+      "Cita de Ione y despertar de Axi",
+      "declaracion_personaje",
+      "Ione relata una cita corta con Kilzer, interrumpida por un mono al que casi degüella por las monedas, hasta pagarle y despedirlo; no se fija una cantidad. Una tirada le da cuatro monedas de oro. Axi dice que acaba de despertar en la enfermería sin equipo, en taparrabos y con gran dolor; una tirada le da cansancio.",
+      [
+        "Ione",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Pix (mono de Bonnie)",
+        "Axi (identificación contextual con Chochi)"
+      ],
+      "esa cita que le pidió la otra vez",
+      "recapitulaciones entre sesiones",
+      [],
+      "desconocido",
+      "No escena completa de cita o identidad inequívoca del mono mencionada en esa frase. No diagnóstico de lesión nueva o muerte de Axi."
+    ],
+    [
+      "00:05:00",
+      "00:07:25",
+      "El elfo recibe apoyo de Nox y relata su entrevista con Bonnie",
+      "declaracion_personaje",
+      "El elfo relata haber hablado con Nox y Happy Bonnie y haber ayudado en la conversación, con un nuevo «piercing» en la oreja y tras salvar la vida. Nox le dio dinero y arma; robó ropa de convalecientes porque la suya estaba rota. El descanso le concede dos monedas de oro.",
+      [
+        "Erendriel (grafía provisional)",
+        "Nox",
+        "Happy Bonnie / Bonny (grafía provisional)"
+      ],
+      "le dio un poco de dinero y una arma",
+      "recapitulación de ayuda y consecuencias",
+      [],
+      "desconocido",
+      "Contenido de entrevista y obligación exacta no expuestos aquí. Bromas de sarna o enfermedad venérea no se tratan como diagnóstico firme."
+    ],
+    [
+      "00:08:00",
+      "00:15:20",
+      "Libro entregado por el elfo, oreja perdida y plazo de Bonnie",
+      "hecho_confirmado",
+      "Nox dibuja runas y realiza un ritual en el libro que, según dice, le dio Erendriel. Blink ve el pozo con sangre y una pantera medio podrida al buscar agua. El director confirma que al elfo le falta la punta de una oreja. Al abrir la taberna, Bonnie dispara y le roza la otra oreja y le dice que le queda una semana y ya no le quedan más orejas; él asiente y se va. Encuentra dieciséis monedas bajo el mostrador.",
+      [
+        "Nox",
+        "Erendriel (grafía provisional)",
+        "Libro de Nox preparado en Terran",
+        "Diario en Terran del templo",
+        "Blink / Blank",
+        "Pozo de Shiaru",
+        "Happy Bonnie / Bonny (grafía provisional)"
+      ],
+      "Te queda una semana, elfo",
+      "amenaza y estado de objetos",
+      [
+        "Erendriel (grafía provisional)",
+        "Happy Bonnie / Bonny (grafía provisional)"
+      ],
+      "desconocido",
+      "La amenaza está ligada a compromiso aún no explicado entero, no ejecución realizada. Dinero del mostrador no se identifica como de Pix por sospecha. Diario se identifica inequívocamente después, no por solo parecido de libro."
+    ],
+    [
+      "00:15:20",
+      "00:20:25",
+      "Pix tiene el mondadientes de Blink",
+      "hecho_confirmado",
+      "Blink agradece el alojamiento y pregunta por sus rescatadores y objetos. Ione reconoce la ayuda de Nox, Kilzer y el gnomo y no recuerda todo el combate. Blink busca el palillo que había encontrado. Mediante Historia, Nox lo recuerda en la boca de Pix y el elfo lo ha visto; Ione no recuerda. Informan a Blink y ella se tranquiliza porque conoce su ubicación.",
+      [
+        "Blink / Blank",
+        "Ione",
+        "Nox",
+        "Erendriel (grafía provisional)",
+        "Pix (mono de Bonnie)",
+        "Mondadientes de Blink"
+      ],
+      "Pix tiene un palillo en la boca",
+      "localización de objeto por conversación",
+      [
+        "Blink / Blank",
+        "Nox",
+        "Erendriel (grafía provisional)"
+      ],
+      "desconocido",
+      "No recuperación del arma de Blink mostrada ni robo inicial de Pix presenciado. No inventario completo restituido por estar consciente."
+    ],
+    [
+      "00:20:30",
+      "00:24:30",
+      "El elfo ofrece ocho monedas y Nox recuerda el diez por ciento",
+      "hecho_confirmado",
+      "El elfo insiste en el plazo de una semana y en el asunto de Jacki; ofrece a Nox ocho monedas por el dinero prestado. Nox se las devuelve y dice que pidió diez por ciento de lo que traiga a Bonnie y de las misiones. Le pide equiparse y volver a ser útil; el elfo piensa comprar un arco.",
+      [
+        "Erendriel (grafía provisional)",
+        "Nox",
+        "Jack / Jackie (marine cautivo, variantes de apellido)",
+        "Happy Bonnie / Bonny (grafía provisional)"
+      ],
+      "El 10% de lo que traiga Bonnie",
+      "reclamación de pacto y devolución de monedas",
+      [
+        "Erendriel (grafía provisional)",
+        "Nox"
+      ],
+      "desconocido",
+      "No pago definitivo de ocho ni ganancias liquidadas. Porcentaje procede de palabras de Nox; no contrato escrito mostrado."
+    ],
+    [
+      "00:24:15",
+      "00:30:35",
+      "Jack debe ir a Puerto de Espadas y volver con ganancias",
+      "declaracion_personaje",
+      "Nox presenta a Jacki como alguien que podrá reunirse con Lucy y propone conseguir una embarcación a Puerto de Espadas para hacer gestiones cobrando a una lista de nombres, ver a Lucy y regresar con dinero para ser libre. El elfo muestra su anillo y apoya la advertencia de que volver como exmarine al fuerte podría costarle la vida; Jack no reconoce el anillo. Jack quiere instrucciones claras y se marcha dudoso.",
+      [
+        "Nox",
+        "Jack / Jackie (marine cautivo, variantes de apellido)",
+        "Lucy (esposa declarada de Jack)",
+        "Erendriel (grafía provisional)",
+        "Puerto de Espadas",
+        "Anillo familiar de Erendriel"
+      ],
+      "traer para acá todo lo que has ganado y serás libre",
+      "plan condicionado y advertencias",
+      [
+        "Nox",
+        "Jack / Jackie (marine cautivo, variantes de apellido)",
+        "Erendriel (grafía provisional)"
+      ],
+      "desconocido",
+      "Lista no leída, barco no conseguido en escena y viaje no iniciado. Sentencia de traidor es advertencia de Nox/elfo, no ley o condena verificada. No libertad actual de Jack."
+    ],
+    [
+      "00:26:55",
+      "00:29:15",
+      "Contenido e identificación del diario del nawal",
+      "explicacion_director",
+      "Al examinar escrituras antiguas sobre la espalda de Jack, el director las identifica como el diario recogido del nawal. Empieza describiendo el despertar, las rutinas y los rituales a dioses animales. Con el paso de los días, la letra se vuelve fuerte y agresiva, escribe menos cosas y palabras, termina en garabatos. El director confirma la interpretación de una pérdida de la esencia humana y un avance hacia el estado animal.",
+      [
+        "Nox",
+        "Jack / Jackie (marine cautivo, variantes de apellido)",
+        "Erendriel (grafía provisional)",
+        "Diario en Terran del templo",
+        "Nawal del templo (mujer sin nombre)"
+      ],
+      "cada vez es más animal que persona",
+      "lectura e interpretación adjudicadas",
+      [],
+      "desconocido",
+      "Resuelve relación con libro anterior por fuente explícita, sin transcripción completa, autor nombrado, fechas o instrucciones exactas. No atribuir rituales a hombres lagarto por comentario de jugador."
+    ],
+    [
+      "00:28:50",
+      "00:32:20",
+      "Jack informa de Fuerte Aurora; Nox busca tres compañeros",
+      "declaracion_personaje",
+      "Jack dice que Fuerte Aurora estaba casi terminado cuando él llegó, con pocos muros y cosas pendientes, y hacían expediciones más arriba. Nox teme el avance de los marines, cree que Molly dirige el fuerte y busca a Mingo, Mango y a un tercer compañero no identificado. Cree que siguen vivos pero no sabe si están presos, con una tribu o muertos por dinosaurios.",
+      [
+        "Jack / Jackie (marine cautivo, variantes de apellido)",
+        "Fuerte Aurora (grafía provisional)",
+        "Nox",
+        "Molly (capitana de la Marina)",
+        "Mingo (pirata buscado, grafía provisional)",
+        "Mango (pirata buscado, grafía provisional)",
+        "Tercer pirata buscado por Nox (sin nombre claro)"
+      ],
+      "estaba casi terminado cuando yo llegué",
+      "informe y búsqueda declarada",
+      [],
+      "desconocido",
+      "No inspección actual del fuerte ni Molly vista allí; cargo es creencia de Nox. No identificarlos con captores de Blink por pregunta sola."
+    ],
+    [
+      "00:31:45",
+      "00:36:55",
+      "Blink guía hacia un campamento que recuerda al sur de su árbol",
+      "hecho_confirmado",
+      "Acuerdan recopilar información sobre el interés de la Marina. Blink recuerda mediante Historia un campamento y unas ruinas con humo y hombres azules al sur de su casa y de las minas previas; puede guiar. Pregunta si los dos desaparecidos son captores sin respuesta confirmatoria. Se disponen a salir y esperan la compra del arco del elfo.",
+      [
+        "Blink / Blank",
+        "Nox",
+        "Ione",
+        "Erendriel (grafía provisional)",
+        "Campamento de Marina en ruinas del sur",
+        "Casa de Blink en bosque",
+        "Dos piratas captores de Blink (sin nombres)"
+      ],
+      "un poco más hacia el sur de donde estaba tu arbolito",
+      "ruta por recuerdo adjudicado",
+      [
+        "Blink / Blank"
+      ],
+      "desconocido",
+      "No campamento identificado como Fuerte Aurora ni lugar de mina del 3. Objetivo de reconocimiento, no encargo de Bonnie confirmado por decir misión."
+    ],
+    [
+      "00:36:25",
+      "00:41:25",
+      "Arco comprado y palabra papaya para cambios de Ione",
+      "hecho_confirmado",
+      "El elfo compra un arco al herrero tras ofertas discutidas de 25, 45 y 48 y compra normal con ajuste del director, sin precio final inequívoco. Ione ofrece a Nox hojas olorosas de la planta que lo atrapó y las relaciona con las cadenas; acordaron gritar «papaya» si siente un cambio, como señal para las cadenas. No se activa una transformación.",
+      [
+        "Erendriel (grafía provisional)",
+        "Herrero de Shiaru (sin nombre)",
+        "Ione",
+        "Nox",
+        "Hojas de planta recogidas por Ione"
+      ],
+      "Te iré papaya",
+      "preparación y acuerdo sobre aviso",
+      [
+        "Ione",
+        "Nox"
+      ],
+      "desconocido",
+      "Dobles sentidos no prueba de uso sexual o terapéutico de hojas o cadenas; no afirmar plata de cadenas cuando personaje dice no saberlo."
+    ],
+    [
+      "00:41:00",
+      "00:45:30",
+      "Frutas dan curación, elasticidad y caída lenta",
+      "explicacion_director",
+      "Comen frutas. Blink obtiene savia curativa para curar D6 por contacto; Ione obtiene la posibilidad de recibir un truco aleatorio que el director pide elegir porque falta la tabla, sin uno concreto fijado aquí. El elfo tiene la piel elástica y ventaja para escapar de los agarres; el dragón obtiene piel verde y ventaja en Sigilo solo dentro de la jungla. Nox obtiene planear o caída lenta. Guardan un fruto para Pix.",
+      [
+        "Blink / Blank",
+        "Ione",
+        "Erendriel (grafía provisional)",
+        "Dragoncito de Erendriel (sin nombre)",
+        "Nox",
+        "Pix (mono de Bonnie)",
+        "Frutas de Xoltacan"
+      ],
+      "tu piel se vuelve elástica",
+      "efectos temporales adjudicados",
+      [],
+      "desconocido",
+      "No capacidades permanentes ni truco específico inventado. Camino no cuenta como jungla para ventaja del dragón."
+    ],
+    [
+      "00:44:30",
+      "00:48:40",
+      "Pinky recibe hojas y se une",
+      "hecho_confirmado",
+      "Pinky aparece y confunde Blink con mosca; Nox le da hojas de la planta de esporas a cambio de ayudar en una tarea. Ella las huele y esnifa, opina que tienen un olor extraño y no sirven bien para fumar, y toma un mango. Ione pregunta por Molly y Bonnie; Nox insinúa que Bonnie es más de lo que parece y que la ambición de Molly quizá permita un trato, sin explicarlo.",
+      [
+        "Pinky (grafía provisional)",
+        "Blink / Blank",
+        "Nox",
+        "Ione",
+        "Hojas de planta recogidas por Ione",
+        "Molly (capitana de la Marina)",
+        "Happy Bonnie / Bonny (grafía provisional)"
+      ],
+      "huele raro, pero parece bien",
+      "entrega e incorporación de Pinky",
+      [],
+      "desconocido",
+      "Opinión de Pinky no identifica usos seguros o mágicos de hojas. No transmite a Ione toda revelación de moneda del 11 por insinuación."
+    ],
+    [
+      "00:48:30",
+      "00:56:20",
+      "Ione equipa a Axi, que fabrica un arco imperfecto",
+      "hecho_confirmado",
+      "Se encuentran con Axi maltrecho de camino. Ione le ayuda a levantarse, le entrega una cerbatana con todos los dardos y un abrigo de cuero para cubrirlo y promete protegerlo. El elfo pregunta por armas y Nox comprueba si durante la marcha pudo construirse algo; el director permite un arco artesanal con penalidad por el mal resultado y el cansancio. No posee todo su equipamiento anterior.",
+      [
+        "Axi (identificación contextual con Chochi)",
+        "Ione",
+        "Nox",
+        "Erendriel (grafía provisional)"
+      ],
+      "una penalidad en el arco",
+      "reunión y equipo mínimo",
+      [],
+      "desconocido",
+      "Arco recogido para él en 11 no equivale automáticamente a devolución efectiva: aquí necesita fabricar. Registrar diferencia sin inventar pérdida o robo intermedio."
+    ],
+    [
+      "00:52:30",
+      "01:07:45",
+      "Se infiltran entre ruinas mientras Pinky distrae",
+      "hecho_confirmado",
+      "Llegan al humo de un campamento y se acercan ocultos; cae la noche. El elfo y el dragón exploran; el dragón hace ruido y los centinelas elevados cargan armas. Nox deja a Pinky aproximarse como distracción; ella habla con un guardia que llama al capitán. Aprovechan para moverse entre sombras. Ione siente cambio con adrenalina, supera la salvación y se calma sin transformarse. Blink reduce la luz de una antorcha junto a un muro.",
+      [
+        "Nox",
+        "Pinky (grafía provisional)",
+        "Ione",
+        "Blink / Blank",
+        "Erendriel (grafía provisional)",
+        "Dragoncito de Erendriel (sin nombre)",
+        "Axi (identificación contextual con Chochi)",
+        "Campamento de Marina en ruinas del sur"
+      ],
+      "me vuelvo a calmar",
+      "infiltración y control de Ione",
+      [],
+      "desconocido",
+      "No invisibilidad de Nox este episodio. Centinelas siguen en posición ventajosa, no se alejan automáticamente de torre por sonido."
+    ],
+    [
+      "01:07:15",
+      "01:19:35",
+      "Nox se hace pasar por Jack Jackson ante el capitán",
+      "hecho_confirmado",
+      "Nox se disfraza con ropa y objetos de Jack y herramientas. Entra como escolta de Pinky, superando la prueba de Interpretación aunque el guardia nota algo raro. El capitán pregunta por su nombre y regimiento tras la mención de Molly; Nox dice Jack Jackson. Le ordena dar comida a la anciana y llevarla mañana a Fuerte Aurora. Nox comparte el estofado; Pinky sabe que es él por su mirada y su saludo.",
+      [
+        "Nox",
+        "Jack / Jackie (marine cautivo, variantes de apellido)",
+        "Pinky (grafía provisional)",
+        "Capitán del campamento de Marina (sin nombre)",
+        "Molly (capitana de la Marina)",
+        "Fuerte Aurora (grafía provisional)"
+      ],
+      "Jack Jackson a su servicio",
+      "suplantación aceptada provisionalmente",
+      [
+        "Nox",
+        "Pinky (grafía provisional)",
+        "Capitán del campamento de Marina (sin nombre)"
+      ],
+      "desconocido",
+      "Capitán lo cree subordinado, no identidad verdadera de Jack. Su reacción muestra que Molly es capitana que no molestará por vieja, sin confirmar aquí que mande fuerte."
+    ],
+    [
+      "01:09:30",
+      "01:12:00",
+      "Cuatro presos del campamento",
+      "hecho_confirmado",
+      "Nox ve cuatro jaulas: una mujer joven con harapos y tatuajes, de aspecto similar a Mamá; un hombre tigre; un pirata que le suena de Shiaru y un hombre moreno con pinturas blancas que agita y muerde los barrotes. Los compañeros siguen por fuera sin recibir automáticamente esa identificación.",
+      [
+        "Nox",
+        "Mujer tatuada presa de Marina (sin nombre)",
+        "Hombre tigre preso de Marina (sin nombre)",
+        "Pirata preso de Marina (sin nombre)",
+        "Hombre de pinturas blancas preso (sin nombre)"
+      ],
+      "una especie de hombre tigre",
+      "observación de prisioneros",
+      [
+        "Nox"
+      ],
+      "desconocido",
+      "Parecido de mujer con Mamá no parentesco o identidad. Pirata familiar no identificado como Mingo/Mango ni captor del hada."
+    ],
+    [
+      "01:19:00",
+      "01:33:45",
+      "Guardia reducido por Ione y Blink; otros no ven todo",
+      "hecho_confirmado",
+      "Ione y Blink saltan al guardia del muro, lo arrastran abajo, le tapan la boca y lo asfixian para dejarlo inconsciente. Blink ayuda y luego introducen plantas en su boca. El director aclara que el elfo y Axi no vieron la captura oculta; el elfo hace un sonido animal con Taumaturgia, el guardia mira hacia el ruido sin abandonar la torre, y luego logra localizar al hada parcialmente.",
+      [
+        "Ione",
+        "Blink / Blank",
+        "Erendriel (grafía provisional)",
+        "Axi (identificación contextual con Chochi)",
+        "Guardia asfixiado del muro (sin nombre)"
+      ],
+      "no lo habéis visto",
+      "neutralización oculta y conocimiento restringido",
+      [
+        "Ione",
+        "Blink / Blank"
+      ],
+      "desconocido",
+      "No muerte del guardia: después compañeros intentan despertarlo quitando plantas. Tapar boca/asfixiar son ficción representada, no técnica real detallada."
+    ],
+    [
+      "01:33:30",
+      "01:38:15",
+      "Nox paga diez y Pinky hace crecer plantas",
+      "hecho_confirmado",
+      "Nox entrega diez monedas de oro a Pinky para hacer algo fuerte. Ella hace crecer plantas con grandes cogollos por el campamento. El capitán sale cortando vegetación, Nox lo atribuye a una maldición de la jungla y le disuade de atacar a la anciana por los dioses del bosque. Pinky finge morir; el capitán ordena sacarla y cortar las plantas.",
+      [
+        "Nox",
+        "Pinky (grafía provisional)",
+        "Capitán del campamento de Marina (sin nombre)",
+        "Plantación mágica de Pinky"
+      ],
+      "10 monedas de oro",
+      "distracción mágica y pago",
+      [
+        "Nox",
+        "Pinky (grafía provisional)"
+      ],
+      "desconocido",
+      "No maldición divina confirmada ni incendio del campamento por broma. Se discute cobertura: al principio no ventaja, luego algunas tiradas sí tienen por plantas; no regla universal."
+    ],
+    [
+      "01:38:00",
+      "01:46:45",
+      "Segundo agarre detectado e Inmovilizar persona",
+      "hecho_confirmado",
+      "Ione intenta capturar a otro guardia por detrás, falla el agarre y Blink falla inmovilizarlo. Ione gasta inspiración para agarrarlo, pero un centinela observa la maniobra y la magia y se alertan. Comienza el combate. Blink vuelve a Inmovilizar persona y esta vez lo consigue; se oculta y mueve a Ione con telequinesis para apartarla de la vista del enemigo.",
+      [
+        "Ione",
+        "Blink / Blank",
+        "Segundo guardia agarrado (sin nombre)",
+        "Centinelas del campamento de Marina"
+      ],
+      "os han visto",
+      "detección y combate",
+      [],
+      "desconocido",
+      "Primer guardia inconsciente distinto del segundo paralizado. Inspiración arregla agarre, no evita toda percepción del campamento."
+    ],
+    [
+      "01:46:20",
+      "01:58:30",
+      "Nox paraliza al capitán y a un marine; Ione mata al perro",
+      "hecho_confirmado",
+      "El capitán dispara y envía a su perro contra Ione. Nox finge apuntar a Ione y prepara Inmovilizar persona sobre el capitán y otro marine si el perro se acerca. Lo lanza de tercer nivel, el marine falla la salvación y Nox utiliza inspiración para el capitán. Otro soldado lo anima a disparar a Ione y Nox finge hacerlo sin acertar. Ione arroja al guardia agarrado sobre el perro, golpea al guardia paralizado y mata al perro con Negociación antes del empujón previsto.",
+      [
+        "Nox",
+        "Ione",
+        "Blink / Blank",
+        "Capitán del campamento de Marina (sin nombre)",
+        "Marine paralizado por Nox (sin nombre)",
+        "Perro del capitán (sin nombre)",
+        "Segundo guardia agarrado (sin nombre)"
+      ],
+      "se ha muerto",
+      "parálisis y combate con perro",
+      [],
+      "desconocido",
+      "Ancla refiere muerte adjudicada del perro, no capitán. Nox sigue disfrazado; compañeros no saben automáticamente que disparo fallido era engaño."
+    ],
+    [
+      "01:59:30",
+      "02:06:45",
+      "El elfo utiliza las coberturas y Nox el libro con el glifo",
+      "hecho_confirmado",
+      "El elfo se mueve entre coberturas y ataca con arco y Golpe de céfiro. Nox consulta el uso del libro con glifo preparado de nuevo al inicio; el director permite Inmovilizar persona de un turno sin concentración y consume un espacio de tercer nivel para el glifo y uno de segundo para el conjuro. Nox susurra la leyenda de la anciana de los cogollos con Susurros disonantes al capitán, que no se mueve estando paralizado.",
+      [
+        "Erendriel (grafía provisional)",
+        "Nox",
+        "Libro de Nox preparado en Terran",
+        "Capitán del campamento de Marina (sin nombre)",
+        "Marine paralizado por Nox (sin nombre)"
+      ],
+      "le dura un turno",
+      "magia adjudicada y ataque oculto",
+      [],
+      "desconocido",
+      "Tratamiento del glifo expresamente provisional y discutido; no declarar combinación reglamentaria general. Voz de abuela es narrativa de Nox, no entidad distinta."
+    ],
+    [
+      "02:06:15",
+      "02:13:25",
+      "Mujer y pirata liberados; Pinky come chocolate",
+      "hecho_confirmado",
+      "Ione rompe el candado con un arma y abre la jaula de la mujer tatuada, animándola a luchar por su libertad. Blink abre la del pirata mediante mano mágica invisible y juego de manos, tras discusión de telequinesis. El pirata los rechaza de forma insultante y huye en vez de ayudar. Pinky consume chocolate dado por Mamá, falla la salvación y alucina durante cuatro horas con desventaja en ataques y habilidades según el director.",
+      [
+        "Ione",
+        "Blink / Blank",
+        "Mujer tatuada presa de Marina (sin nombre)",
+        "Pirata preso de Marina (sin nombre)",
+        "Pinky (grafía provisional)",
+        "Chocolate de Mamá"
+      ],
+      "Estoy flipando durante 4 horas",
+      "liberaciones y efecto de chocolate",
+      [],
+      "desconocido",
+      "No todos los cautivos agradecidos o aliados por liberarlos. Chocolate es objeto específico de campaña; no propiedades universales de cacao ni efectos reales."
+    ],
+    [
+      "02:13:00",
+      "02:23:30",
+      "El pirata liberado es abatido y la mujer ayuda",
+      "hecho_confirmado",
+      "Nox sigue dañando al capitán con susurros mientras intenta mantener el disfraz. Marines disparan al pirata liberado que huye y lo derriban. Ione combate contra los marines y dice a Blink que libere a los restantes. La mujer tatuada da las gracias y apuñala enemigos para ayudar. Un soldado intenta despertar al guardia asfixiado sacándole las plantas de la boca.",
+      [
+        "Nox",
+        "Capitán del campamento de Marina (sin nombre)",
+        "Pirata preso de Marina (sin nombre)",
+        "Ione",
+        "Blink / Blank",
+        "Mujer tatuada presa de Marina (sin nombre)",
+        "Guardia asfixiado del muro (sin nombre)"
+      ],
+      "vuestro escudo ha caído",
+      "combate y destinos diferenciados",
+      [],
+      "desconocido",
+      "No recuperación del pirata liberado mostrada. Caída no diagnóstico de muerte definitivo sin frase expresa o confirmación posterior. Intento de despertar guardia acredita que no se había declarado muerto al asfixiarlo."
+    ],
+    [
+      "02:24:00",
+      "02:38:30",
+      "Blink abre la jaula del hombre tigre y deja encerrado al preso feroz",
+      "hecho_confirmado",
+      "Blink observa dos jaulas restantes: un hombre tigre apoyado en los barrotes y un hombre pintado que intenta morderlos. Decide no abrir al segundo por riesgo. Intenta abrir la jaula del primero mediante una mano mágica sin herramientas, falla inicialmente y vuelve hasta conseguirla. Usa Patrón hipnótico rápido para bloquear rivales mientras abre. El elfo mata a un marine y ordena al dragón que proteja a Blink.",
+      [
+        "Blink / Blank",
+        "Hombre tigre preso de Marina (sin nombre)",
+        "Hombre de pinturas blancas preso (sin nombre)",
+        "Erendriel (grafía provisional)",
+        "Dragoncito de Erendriel (sin nombre)"
+      ],
+      "consigues abrirlo",
+      "liberación y control de enemigos",
+      [
+        "Blink / Blank"
+      ],
+      "desconocido",
+      "No liberación clara del hombre de pinturas blancas ni declaración de su especie, crimen o locura. No identificar hombre tigre como aliado permanente solo por apertura."
+    ],
+    [
+      "02:35:00",
+      "02:46:35",
+      "Pinky quema al capitán y también a Nox",
+      "hecho_confirmado",
+      "Pinky alucinada toca la cara del capitán paralizado y le aplica fuego, luego hace lo mismo a Nox que está a su lado. El capitán supera la parálisis después y sigue actuando, pese a exclamación previa de «se muere». Nox vuelve a susurrar desde las sombras; el capitán no lo reconoce claramente como atacante y ordena matar a la anciana. Ione protege a sus compañeros y devuelve un proyectil con técnica de monje.",
+      [
+        "Pinky (grafía provisional)",
+        "Capitán del campamento de Marina (sin nombre)",
+        "Nox",
+        "Ione"
+      ],
+      "te quema un poquito",
+      "ataques bajo alucinación",
+      [],
+      "desconocido",
+      "Se muere de mesa es contradicho por turnos y estado vivo posteriores. No adjudicar fuego a campo entero o muerte de Nox por ataque."
+    ],
+    [
+      "02:46:00",
+      "02:56:35",
+      "Ione devuelve una bala y Nox deja al capitán vivo e inconsciente",
+      "hecho_confirmado",
+      "Ione reduce el daño de una bala y gasta ki para devolvérsela al capitán. El elfo ataca y se corrige la repetición del daño de Golpe de céfiro como beneficio de un solo ataque. Nox mete fruta en la boca de Pinky en el contexto de una carta de los espectadores y ella se transforma en oveja vestida. Nox golpea al capitán con daño no letal, que tenía un punto de vida, y lo deja inconsciente; cura a Ione.",
+      [
+        "Ione",
+        "Nox",
+        "Pinky (grafía provisional)",
+        "Capitán del campamento de Marina (sin nombre)",
+        "Erendriel (grafía provisional)"
+      ],
+      "daño no letal",
+      "neutralización final y transformación",
+      [
+        "Nox"
+      ],
+      "desconocido",
+      "Capitán vivo tras noqueo confirmado después. Transformación de Pinky adjudicada en escena, sin receta de fruta o hechizo propio de Nox generalizable."
+    ],
+    [
+      "02:56:10",
+      "03:07:40",
+      "Últimos enemigos abatidos y mujer auxiliada",
+      "hecho_confirmado",
+      "Blink encuentra cuatro monedas por una carta de los espectadores y usa susurros y telequinesis para apartar a un enemigo caído. Ione y el elfo matan a los últimos adversarios activos. La mujer tatuada está sangrando; Ione la ayuda y el elfo le pone las manos para cerrar parte de las heridas, pero aún sangra. Ione dice que volverá a la aldea con los heridos y refugiados y pide avisar a Nox; el elfo lo transmite después.",
+      [
+        "Blink / Blank",
+        "Ione",
+        "Erendriel (grafía provisional)",
+        "Mujer tatuada presa de Marina (sin nombre)",
+        "Hombre tigre preso de Marina (sin nombre)",
+        "Nox"
+      ],
+      "vuelvo a la aldea con los con los heridos",
+      "fin de combate y evacuación",
+      [],
+      "desconocido",
+      "No alta o cura completa de mujer ni lista nominal de todos refugiados que acompañan. No adjudicar salida del preso pintado que no se abrió explícitamente."
+    ],
+    [
+      "03:00:00",
+      "03:02:50",
+      "Nox toma una copa ritual y nueve monedas del capitán",
+      "hecho_confirmado",
+      "Nox registra al capitán inconsciente y obtiene nueve monedas de oro y una copa dorada de rituales con decoraciones. Luego va a la tienda del capitán.",
+      [
+        "Nox",
+        "Capitán del campamento de Marina (sin nombre)",
+        "Copa ritual dorada del capitán"
+      ],
+      "nueve monedas de oro",
+      "saqueo de cautivo vivo",
+      [
+        "Nox"
+      ],
+      "desconocido",
+      "Inicial dos monedas es sustituido por nueve en adjudicación, no once totales. Copa distinta de la vendida por Lunaria en capítulo 9."
+    ],
+    [
+      "03:06:30",
+      "03:09:40",
+      "Nox recupera su pago y un mapa de la actividad de la Marina",
+      "hecho_confirmado",
+      "Nox registra el bolsillo de Pinky mientras está transformada en oveja y recupera las diez monedas que pagó antes. En la tienda encuentra un mapa de una zona de la isla con varios puntos marcados, incluido el campamento actual, interpretados por el director como sitios de investigación, excavación y actividad de la Marina. Lo toma y escribe una carta para Molly con papel, pluma y tinta disponibles.",
+      [
+        "Nox",
+        "Pinky (grafía provisional)",
+        "Mapa de actividad de Marina",
+        "Molly (capitana de la Marina)",
+        "Carta de Nox al capitán/Molly"
+      ],
+      "puntos donde está la Marina haciendo cosas",
+      "documentos y recuperación de dinero",
+      [
+        "Nox"
+      ],
+      "desconocido",
+      "No coordenadas o nombres de todos puntos legibles en transcripción, no todas excavaciones visitadas ni tesoro identificado. Contenido de carta no se lee."
+    ],
+    [
+      "03:08:30",
+      "03:11:45",
+      "Blink toma una perla y el elfo registra los cuerpos",
+      "hecho_confirmado",
+      "Blink encuentra una perla en cabaña del capitán. El elfo registra cadáveres buscando pistola y balas, el director señala que muchas pistolas están rotas y adjudica cinco monedas por una tirada para los cuerpos. No se narran las cantidades finales de munición.",
+      [
+        "Blink / Blank",
+        "Erendriel (grafía provisional)",
+        "Perla del campamento de Marina"
+      ],
+      "Cinco de oro",
+      "botín final",
+      [],
+      "desconocido",
+      "La perla no se identifica como la previamente robada a Blink por acusación humorística. Petición de una pistola y todas balas no equivale a veinte armas adjudicadas."
+    ],
+    [
+      "03:10:00",
+      "03:15:15",
+      "El capitán queda con una carta y no es interrogado",
+      "hecho_confirmado",
+      "Blink propone despertar al capitán y leer su mente mientras Nox pregunta, pero no lo hacen por el cierre de la sesión. Nox dice que quiere enviar un mensaje, y enseña y entrega el mapa a Blink, que intenta orientarse. Pone la carta en el pecho del capitán, lo arrastra hacia la cabaña y lo deja vivo e inconsciente. El elfo informa que Ione fue con los presos a la ciudad. Los restantes vuelven; Blink guía a Pinky, transformada en oveja, mediante una ilusión de brócoli.",
+      [
+        "Nox",
+        "Blink / Blank",
+        "Capitán del campamento de Marina (sin nombre)",
+        "Carta de Nox al capitán/Molly",
+        "Mapa de actividad de Marina",
+        "Pinky (grafía provisional)",
+        "Erendriel (grafía provisional)",
+        "Ione"
+      ],
+      "está inconsciente",
+      "retirada y mensaje pendiente",
+      [
+        "Nox",
+        "Blink / Blank"
+      ],
+      "desconocido",
+      "No lectura de pensamientos ni interrogatorio realizado. No carta entregada a Molly o lectura por capitán comprobadas. No recuperación de forma de Pinky antes de cierre."
+    ]
+  ],
+  "misiones": [
+    "El grupo reconoce un campamento en ruinas y obtiene un mapa de investigaciones y excavaciones de la Marina. No visita Fuerte Aurora ni descubre el propósito completo de sus actividades (12-010,12-015–12-017 y 12-030).",
+    "La mujer tatuada y el hombre tigre salen de sus jaulas. Un pirata liberado huye y cae bajo los disparos; la salida del cuarto preso no queda clara. Ione vuelve con heridos y refugiados (12-017,12-023–12-025 y 12-028).",
+    "Nox deja al capitán vivo e inconsciente, lo registra y le coloca una carta. El interrogatorio y la lectura mental quedan en propuestas (12-027,12-029 y 12-032).",
+    "Nox propone enviar a Jack a Puerto de las Espadas para cobrar una lista y reunirse con Lucy. El viaje depende de regresar con ganancias; no se muestra una partida ni la entrega de la lista (12-007).",
+    "Se identifica el diario del nawal y se describe el deterioro de su escritura. No se precisan las fechas, las deidades ni el ritual completo (12-008).",
+    "Pix conserva el mondadientes de Blink. Erendriel compra un arco; Axi recibe una cerbatana, dardos y un abrigo y fabrica un arco con penalización. No se devuelve el mondadientes (12-005,12-011 y 12-014).",
+    "Pinky ayuda a cambio de diez monedas, pero alucina tras comer chocolate y ataca también a Nox. Acaba convertida en oveja. Nox recupera el pago y el grupo la guía de vuelta mediante una ilusión (12-019,12-023,12-026–12-027 y 12-030–12-032)."
+  ],
+  "preguntas": [
+    "¿Qué compromiso asumió Erendriel con Bonnie para cumplir en una semana? Las amenazas sobre sus orejas no explican todos los detalles (12-003–12-007).",
+    "¿Dirige Molly Fuerte Aurora y por qué hay tantos lugares de interés? Nox lo cree, pero el mapa no revela el propósito completo (12-009 y 12-030).",
+    "¿Dónde están Mingo, Mango y el tercer pirata? Nox cree que viven, sin localizarles ni identificarles con los captores de Blink (12-009–12-010).",
+    "¿Quiénes son la mujer tatuada, el hombre tigre y el preso pintado? ¿Por qué los encerraron y qué ocurre con el cuarto preso? No se proporcionan nombres ni delitos (12-017 y 12-023–12-025).",
+    "¿Sobrevive o se recupera el pirata que cae bajo los disparos? No se muestra su salida ni su recuperación (12-024).",
+    "¿Leerán el capitán o Molly la carta de Nox y qué dice? La nota no se lee y el capitán queda inconsciente (12-030 y 12-032).",
+    "¿Qué investigan los marines en los lugares del mapa? Sus nombres y coordenadas no se transcriben (12-030).",
+    "¿Devolverá Pix el mondadientes de Blink? Se conoce quién lo tiene, pero la entrega sigue pendiente (12-005).",
+    "¿Cuándo recuperará Pinky su forma y terminarán las alucinaciones? Regresa como oveja; se adjudican cuatro horas de alucinación, sin mostrar la reversión (12-023 y 12-027–12-032)."
+  ],
+  "contradicciones": [
+    "Nox dice que recibió el libro de Erendriel y el director lo identifica como el diario del nawal. La nueva identificación resuelve una duda anterior, sin atribuir conocimiento retrospectivo a todos los personajes (12-004 y 12-008).",
+    "El supuesto piercing de Erendriel se precisa como la pérdida de la punta de una oreja. Otro disparo roza la otra. No se describe únicamente un adorno voluntario (12-003–12-004).",
+    "Una exclamación parece dar por muerto al capitán durante el fuego, pero sigue actuando y Nox lo deja vivo e inconsciente con daño no letal (12-026–12-027 y 12-032).",
+    "El desmayo del primer guardia no confirma su muerte. Los intentos posteriores de despertarlo no son una resurrección (12-018 y 12-024).",
+    "Axi sigue sin arco pese a que se recogió uno para él en el capítulo 11. No se inventa una pérdida o un robo intermedio para explicar la falta de una entrega efectiva (12-014 y 11-026).",
+    "La mesa discute la concentración y la duración del glifo y limita su aplicación a un turno, con gasto de espacios. La adjudicación no se presenta como una regla general (12-022).",
+    "La ventaja al esconderse entre las plantas cambia según la adjudicación concreta; no se establece una regla universal (12-019–12-020).",
+    "La copa del capitán es distinta de la que se vendió en el capítulo 9. El recuento inicial de dos monedas se corrige a nueve, sin sumarlas como once (12-029).",
+    "El pirata liberado decide huir aunque Ione quiera que combata. La liberación no implica que acepte luchar para sus rescatadores (12-023–12-024)."
+  ],
+  "nombres_dudosos": [
+    "Erendriel y Salazor designan al mismo elfo. La pérdida de parte de la oreja no crea otro personaje ni otra raza.",
+    "Jack Jackson es la identidad que utiliza Nox para suplantar a un marine. El Jack real permanece en el poblado; no se le atribuyen las acciones de Nox.",
+    "Las menciones de Mingo, Mango y un tercer pirata no bastan para identificarles con los captores de Blink.",
+    "El jefe del campamento no recibe un nombre personal. La alternancia entre capitán y general no fija por sí sola su grado.",
+    "La mujer tatuada, el hombre tigre y el hombre pintado no reciben nombres ni una filiación, clase u origen confirmados.",
+    "El diario procede del nawal del capítulo 8. El comentario de Nox sobre escamosos no lo atribuye a la civilización del templo de serpientes.",
+    "Las identificaciones de los hechizos se basan en el contexto; su aplicación concreta corresponde a la adjudicación de la mesa."
+  ]
+}

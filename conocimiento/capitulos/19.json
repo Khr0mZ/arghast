@@ -1,0 +1,507 @@
+{
+  "capitulo": 19,
+  "estado_revision": "revisado",
+  "resumen": "Mamá evita a sus compañeros tras un intento de curación dañino y oye cascabeles. Blink se siente cómoda en Cuicapalli. Nelli lleva ante Eromov a Leona, una joven coneja con una gran hacha que se mete sola en peleas. El líder pide a Mamá y Blink investigar unos dinosaurios muertos junto a una charca y enseñar prudencia a Leona. Pinky, intoxicada por el chocolate, se incorpora y causa incidentes y daño a sus aliados. Las frutas hacen brillar a Blink, vuelven invisible y silenciosa a Mamá y crean un espíritu insultante para Leona. Tres pequeños dinosaurios atacan al grupo y mueren. Mamá vuelve a causar daño al intentar curar a Leona y pierde arrugas; Blink observa el fenómeno. Los cadáveres tienen la piel corroída, las plantas no muestran anomalías y la charca carece de fauna, sin que se establezca una causa. Ayoto se incorpora. Un triceratops deformado y un hombre serpiente atacan al grupo. Leona cae inconsciente dos veces y Mamá una; ambas reciben ayuda. El hombre serpiente utiliza curación, órdenes mentales y Santuario para dificultar los ataques. Mamá mata al triceratops y Blink al hombre serpiente. Pinky vuelve a golpear a Leona e ingiere más chocolate. El collar del enemigo hace que Blink perciba una voz poderosa en su mente; lo guarda dentro de una fruta. Regresan e informan de sus hipótesis a Eromov, que exige investigar sin dar por ciertas las conjeturas. El destino del collar queda pendiente y se mencionan Iktan y Tutucan como lugares donde encontrar eruditos. El líder encarga a Blink entrenar a Leona. Nelli la lleva a recibir curación y el tabernero desecha el dinosaurio que habían llevado para cocinar.",
+  "misiones": [
+    "Investigar la charca: depredadores, triceratops alterado y serpiente muertos; se recupera el collar y se entrega el informe. La causa de las muertes y el mecanismo de modificación o control siguen sin resolverse (19-003, 19-008, 19-010–19-016).",
+    "Enseñar prudencia a Leona: cae dos veces, mantiene su actitud agresiva; Blink recibe encargo específico de entrenarla al cierre (19-002 y 19-017).",
+    "Heridas de Mamá: vuelve a causar daño al intentar curar y rejuvenece, Blink lo observa, pero guarda silencio; la causa sigue pendiente (19-001 y 19-007).",
+    "Resguardar collar: se utiliza una fruta para aislarlo temporalmente, sin decisión final de custodia o destrucción (19-014 y 19-016)."
+  ],
+  "preguntas": [
+    "¿Qué presencia habla a través del collar y puede modificar/controlar criaturas? Solo percepción e hipótesis (19-014–19-016).",
+    "¿Por qué el intento de curación de Mamá causa daño y rejuvenecimiento? Blink conoce el fenómeno, no explicación (19-007).",
+    "¿Se entrenará Leona y dónde custodiarán el collar? Pendientes (19-016–19-017)."
+  ],
+  "contradicciones": [
+    "Leona es una coneja recién presentada, no Naór leonina; Nelli niega ser su madre (19-002).",
+    "Dos caídas de Leona son llamadas dos muertes en recapitulación humorística, pero recibe asistencia mediante Medicina y curación mientras sigue viva (19-012–19-013).",
+    "El daño del aliento del triceratops se aclara como veneno pese a la etiqueta de daño psíquico; control/modificación no probado (19-010 y 19-016).",
+    "La intoxicación inicial de Pinky procede del chocolate que come por iniciativa propia. Después Ayoto le da otro chocolate (19-004 y 19-015).",
+    "El supuesto dragón para la cena es un dinosaurio pequeño interpretado así bajo los efectos del chocolate y finalmente descartado (19-015 y 19-017)."
+  ],
+  "nombres_dudosos": [
+    "Leona: joven coneja con hacha, grafía estable en transcripción; distinta de Naór.",
+    "Chalta: hombre tigre que expulsa a Pinky, fonético provisional; no equiparar con Baton.",
+    "Serafina: voz de espíritu de fruta interpretada por jugadora, sin que se establezca una identidad ancestral.",
+    "Itan normalizado como candidato Iktan por contexto de ciudades grandes y pista del usuario; no todos usos fonéticos del nombre automáticamente inequívocos."
+  ],
+  "fuente_sha256": "12f82edb9977ea840643a47ece1d90da3f84f0d08d960d65f9bee8f381468878",
+  "afirmaciones": [
+    {
+      "id": "19-001",
+      "titulo": "Mamá teme causar daño y Blink encuentra un refugio",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Citlali relata que ha dormido mal, oye cascabeles constantemente y evita a sus compañeros tras dañar a Patata al intentar curarlo. El huevo sigue encerrado, no abandonado. Blink ayuda en las tareas de Cuicapalli y se siente cómoda y menos agresiva. Mamá disimula sus heridas al hablar con ella.",
+      "inicio": "00:00:00.000",
+      "fin": "00:06:55.000",
+      "cita": "escuchando cascabeles de serpientes",
+      "evidencia_cue": {
+        "inicio": "00:00:43.280",
+        "fin": "00:00:45.310",
+        "texto": "estado escuchando cascabeles de serpientes por todos lados. La tiene muy"
+      },
+      "entidades": [
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Blink / Blank",
+        "Huevo de Mamá",
+        "Cuicapalli"
+      ],
+      "ambito": "recapitulación y conversación",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": ""
+    },
+    {
+      "id": "19-002",
+      "titulo": "Leona castigada por agresividad",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Nelli persigue a Leona, una joven coneja con una gran hacha, y la lleva ante Eromov porque sale sola a la jungla y golpea a las criaturas. Nelli niega ser su madre y explica que la comunidad presenta a los infractores ante el jefe. Eromov reprende su actitud y utiliza un bastón que se alarga como una raíz, sin precisar el origen del objeto.",
+      "inicio": "00:07:00.000",
+      "fin": "00:15:55.000",
+      "cita": "Mi nombre es Leona",
+      "evidencia_cue": {
+        "inicio": "00:10:01.240",
+        "fin": "00:10:04.561",
+        "texto": "esta pequeñaja? Mi nombre es Leona y pequeñas eres tú."
+      },
+      "entidades": [
+        "Leona (coneja, grafía provisional)",
+        "Nelli (nativa rescatada, grafía provisional)",
+        "Eromov (líder de Cuicapalli, grafía provisional)"
+      ],
+      "ambito": "presentación y disciplina",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Leona no es hija biológica de Nelli ni es Naór, la leonina. Son personajes distintos."
+    },
+    {
+      "id": "19-003",
+      "titulo": "Investigar muertes de dinosaurios",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Eromov informa de que han encontrado dinosaurios muertos, sin heridas, junto a una charca y plantea una posible intoxicación. Solicita una investigación y pide que Mamá y Blink enseñen a Leona a no resolverlo todo a golpes. Ellas aceptan. Chalta, un hombre tigre, expulsa a Pinky del local.",
+      "inicio": "00:15:00.000",
+      "fin": "00:18:55.000",
+      "cita": "una especie de intoxicación",
+      "evidencia_cue": {
+        "inicio": "00:16:36.560",
+        "fin": "00:16:38.509",
+        "texto": "prestaba heridas ni nada de eso. Era como una especie de intoxicación en"
+      },
+      "entidades": [
+        "Eromov (líder de Cuicapalli, grafía provisional)",
+        "Leona (coneja, grafía provisional)",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Blink / Blank",
+        "Pinky",
+        "Chalta (hombre tigre, grafía provisional)",
+        "Charca de dinosaurios muertos"
+      ],
+      "ambito": "encargo e informe previo",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": ""
+    },
+    {
+      "id": "19-004",
+      "titulo": "Pinky drogada y conflicto entre aliadas",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Pinky come chocolate de la mercancía que comparte con Mamá, alucina y cae al agua cuando se acerca a Leona. Blink la saca mediante telequinesis e intenta inmovilizar a la coneja. Leona lanza a Blink al agua y Mamá también cae al intentar obligarla a comer chocolate. Blink evita la caída al volar y ayuda a sacar a Mamá. Leona resiste la sugestión de comer el chocolate y exige partir.",
+      "inicio": "00:18:00.000",
+      "fin": "00:27:55.000",
+      "cita": "Es un chocolate muy especial",
+      "evidencia_cue": {
+        "inicio": "00:20:17.080",
+        "fin": "00:20:21.029",
+        "texto": "Pero, ¿qué haces? Es un chocolate muy especial."
+      },
+      "entidades": [
+        "Pinky",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Blink / Blank",
+        "Leona (coneja, grafía provisional)",
+        "Chocolate de Mamá"
+      ],
+      "ambito": "preparativos caóticos",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Leona todavía no ingiere chocolate. Pinky lo ha comido por decisión propia; su intoxicación inicial no procede de un ataque ajeno."
+    },
+    {
+      "id": "19-005",
+      "titulo": "Frutas y espíritu insultante",
+      "tipo": "explicacion_director",
+      "afirmacion": "Las frutas hacen brillar a Blink y le conceden ventaja en Carisma y desventaja en Sigilo. Leona recibe un espíritu que la insulta, representado por la voz de una jugadora llamada Serafina; no se confirma el nombre del supuesto ancestro. Mamá no deja huellas y la magia salvaje la vuelve invisible y hace inaudible su voz durante un minuto. Por decisión de la mesa, puede actuar como el espíritu que oye Leona. Una trampa del chat causa daño al comer.",
+      "inicio": "00:28:00.000",
+      "fin": "00:34:55.000",
+      "cita": "te vuelves invisible durante un minuto",
+      "evidencia_cue": {
+        "inicio": "00:30:45.240",
+        "fin": "00:30:48.830",
+        "texto": "Magia salvaje. Pues, mamá, te vuelves invisible durante un minuto,"
+      },
+      "entidades": [
+        "Blink / Blank",
+        "Leona (coneja, grafía provisional)",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Espíritu de fruta que insulta Leona"
+      ],
+      "ambito": "efectos temporales",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Mamá no es realmente un ancestro de Leona ni adquiere invisibilidad permanente."
+    },
+    {
+      "id": "19-006",
+      "titulo": "Tres depredadores muertos y humo aliado",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Ante dos cadáveres grandes, tres pequeños dinosaurios tienden una emboscada a Leona. Ella entra en furia y mata al primero. Mamá golpea al segundo y Blink lo mata con daño psíquico; Leona mata al último. Pinky crea humo que dificulta la visión y auxilia a la coneja. Leona carga un pequeño cadáver para la cena.",
+      "inicio": "00:34:00.000",
+      "fin": "00:46:55.000",
+      "cita": "no parece que hayan más bichos",
+      "evidencia_cue": {
+        "inicio": "00:44:19.079",
+        "fin": "00:44:23.390",
+        "texto": "queda más. No, no parece que hayan más bichos."
+      },
+      "entidades": [
+        "Leona (coneja, grafía provisional)",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Blink / Blank",
+        "Pinky",
+        "Dinosaurios depredadores de charca"
+      ],
+      "ambito": "combate y cadáver de cena",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": ""
+    },
+    {
+      "id": "19-007",
+      "titulo": "Curación de Mamá vuelve a dañar",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Mamá intenta curar a Leona, pero le causa un dolor interno y pierde algunas de sus propias arrugas. Blink lo percibe y decide guardar silencio por amistad. Mamá atribuye el dolor a un accidente y dice sentirse mejor.",
+      "inicio": "00:46:00.000",
+      "fin": "00:50:20.000",
+      "cita": "algunas arrugas se le han quitado",
+      "evidencia_cue": {
+        "inicio": "00:48:52.160",
+        "fin": "00:48:56.710",
+        "texto": "Vale, pues nada, podrías ver que a mama algunas arrugas se le han quitado."
+      },
+      "entidades": [
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Leona (coneja, grafía provisional)",
+        "Blink / Blank",
+        "Heridas y rejuvenecimiento de Mamá"
+      ],
+      "ambito": "fenómeno observado y secreto",
+      "conocedores": [
+        "Blink / Blank",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Leona (coneja, grafía provisional)"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Blink ve el rejuvenecimiento, pero no conoce su causa. Leona siente el daño; no se demuestra que haya advertido todos los cambios en las arrugas."
+    },
+    {
+      "id": "19-008",
+      "titulo": "Cadáveres corroídos y lago sin fauna",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Blink examina un cadáver devorado por depredadores y distingue la piel corroída y signos de mala salud; interpreta que puede tratarse de un envenenamiento. Las plantas no muestran marcas anómalas. Mamá no identifica la causa de la muerte del segundo cadáver. Leona observa que la charca carece de peces y otros animales, aunque el agua parece normal. Mamá lava con esa agua la sangre de Pinky, sin que se confirme un nuevo efecto.",
+      "inicio": "00:49:00.000",
+      "fin": "00:56:55.000",
+      "cita": "no estaba sano",
+      "evidencia_cue": {
+        "inicio": "00:50:32.440",
+        "fin": "00:50:35.309",
+        "texto": "tiene la piel como corroída, mal, o sea, no no estaba sano"
+      },
+      "entidades": [
+        "Blink / Blank",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Leona (coneja, grafía provisional)",
+        "Pinky",
+        "Charca de dinosaurios muertos"
+      ],
+      "ambito": "indicios y examen",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Las pruebas de Medicina no confirman que el agua sea la causa ni identifican un veneno concreto o un responsable."
+    },
+    {
+      "id": "19-009",
+      "titulo": "Pelea, esfera de fuego y llegada de Ayoto",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Leona imita una voz que pide ahogar a Pinky. Mamá descubre el engaño y le lanza una bota; la coneja golpea a Mamá. Blink intenta calmar las emociones y Pinky crea una esfera de fuego que daña al grupo repetidamente. Ayoto llega siguiendo las huellas de Pinky. Mamá oye algo entre los matorrales y se acerca.",
+      "inicio": "00:56:00.000",
+      "fin": "01:07:55.000",
+      "cita": "siguiendo las huelas",
+      "evidencia_cue": {
+        "inicio": "01:06:18.760",
+        "fin": "01:06:21.309",
+        "texto": "aquel que que lo llega a ver, eh, lo ve llegar eh siguiendo las huelas de las"
+      },
+      "entidades": [
+        "Leona (coneja, grafía provisional)",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Blink / Blank",
+        "Pinky",
+        "Ayoto / Ayuto (grafía provisional)"
+      ],
+      "ambito": "conflicto y refuerzo",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Los problemas de audio no se convierten en una maldición real de mudez ni en una teletransportación del Sol. Son explicaciones propuestas que no se representan en la partida."
+    },
+    {
+      "id": "19-010",
+      "titulo": "Un triceratops alterado y una serpiente atacan",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Un triceratops deformado, con los cuernos caídos, protuberancias y la piel negruzca, sale de la jungla. Mamá dispara y avisa; Leona carga en furia. Un humanoide serpiente aparece junto a Leona, la deja inconsciente y cura a la criatura grande. El triceratops exhala veneno y Mamá queda envenenada. Blink lanza un hechizo de ralentización contra dos objetivos y se vuelve invisible, pero su brillo revela su ubicación. Ayoto combate.",
+      "inicio": "01:08:00.000",
+      "fin": "01:20:55.000",
+      "cita": "no parece un triceratops",
+      "evidencia_cue": {
+        "inicio": "01:09:03.960",
+        "fin": "01:09:07.070",
+        "texto": "criatura, no parece un triceratops."
+      },
+      "entidades": [
+        "Triceratops alterado de charca",
+        "Hombre serpiente de charca",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Leona (coneja, grafía provisional)",
+        "Blink / Blank",
+        "Ayoto / Ayuto (grafía provisional)"
+      ],
+      "ambito": "nueva amenaza y caída",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La apariencia deformada está confirmada, pero su modificación por los yuan-ti y el origen del envenenamiento siguen siendo hipótesis. La etiqueta de daño psíquico del aliento se corrige a veneno."
+    },
+    {
+      "id": "19-011",
+      "titulo": "Mamá cae y Leona recibe asistencia",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Mamá toca a Pinky durante el combate y esta grita. El hombre serpiente aleja a Ayoto mediante un susurro. El triceratops corre hacia Mamá y la deja inconsciente; Pinky la cura y le devuelve la consciencia. Blink intenta ayudar a Leona con Medicina y el director lo resuelve como un éxito en una salvación de muerte, sin estabilizarla automáticamente.",
+      "inicio": "01:20:00.000",
+      "fin": "01:28:55.000",
+      "cita": "ganas un punto, un punto bueno",
+      "evidencia_cue": {
+        "inicio": "01:26:41.280",
+        "fin": "01:26:43.590",
+        "texto": "tirada de medicina, ganas un punto, un punto bueno. Si la cagan, recibes uno"
+      },
+      "entidades": [
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Pinky",
+        "Blink / Blank",
+        "Leona (coneja, grafía provisional)",
+        "Ayoto / Ayuto (grafía provisional)",
+        "Triceratops alterado de charca",
+        "Hombre serpiente de charca"
+      ],
+      "ambito": "caída y reglas de medicina",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La decisión de sumar éxitos o fallos de muerte mediante Medicina es una regla de esta mesa. Nadie es resucitado."
+    },
+    {
+      "id": "19-012",
+      "titulo": "Muere el triceratops y Santuario bloquea los golpes",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Mamá mata a la criatura grande con una bota y dispara al hombre serpiente. Este intenta ordenar a Ayoto que golpee a Leona, pero falla. Utiliza Santuario, que impide los ataques cuando los adversarios fallan sus salvaciones de Sabiduría. Blink consigue el último éxito de Medicina y Leona recupera la consciencia. El enemigo vuelve a dejarla inconsciente con sus ataques y renueva Santuario. Pinky golpea a Mamá por haberla tocado.",
+      "inicio": "01:28:00.000",
+      "fin": "01:40:55.000",
+      "cita": "tienes tres",
+      "evidencia_cue": {
+        "inicio": "01:36:50.920",
+        "fin": "01:36:53.149",
+        "texto": "te ha curado la última que ha acertado, así que tienes tres."
+      },
+      "entidades": [
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Triceratops alterado de charca",
+        "Hombre serpiente de charca",
+        "Leona (coneja, grafía provisional)",
+        "Blink / Blank",
+        "Ayoto / Ayuto (grafía provisional)",
+        "Pinky"
+      ],
+      "ambito": "muerte de amenaza y segunda caída",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La orden no se ejecuta. La secuencia de Santuario y el ataque se discute sin retroceder la escena; se conserva el resultado decidido en la mesa."
+    },
+    {
+      "id": "19-013",
+      "titulo": "Chocolate, raíces y serpiente muerta",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Pinky lanza chocolate a la boca de Leona mientras está inconsciente y el director le asigna tres horas de alucinaciones. Blink vuelve a asistirla con Medicina. Ayoto acerca una antorcha. Mamá dispara al suelo y unas raíces dañan e inmovilizan al hombre serpiente pese a Santuario. Pinky cura a Leona tirándole de las orejas. Blink mata al enemigo con un ataque psíquico cuando ya no está protegido por Santuario.",
+      "inicio": "01:41:00.000",
+      "fin": "01:50:55.000",
+      "cita": "Durante 3 horas",
+      "evidencia_cue": {
+        "inicio": "01:42:49.199",
+        "fin": "01:42:54.149",
+        "texto": "diré lo que te pasa. Te tiro esto, ¿vale? Durante 3 horas vas a empezar a"
+      },
+      "entidades": [
+        "Pinky",
+        "Leona (coneja, grafía provisional)",
+        "Blink / Blank",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Ayoto / Ayuto (grafía provisional)",
+        "Hombre serpiente de charca",
+        "Chocolate de Mamá"
+      ],
+      "ambito": "victoria y ayuda",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Leona no muere, pese a las bromas sobre dos muertes: ambas caídas se resuelven mediante ayuda y curación. El efecto de las raíces es una decisión de esta escena, no una regla universal."
+    },
+    {
+      "id": "19-014",
+      "titulo": "Collar con voz poderosa en fruta",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Pinky golpea a Leona al intentar levantarla. Ayoto cuelga el cadáver del hombre serpiente sobre el de la criatura grande como advertencia. Mamá recupera dos flechas. Blink toma un collar o cadena y oye un siseo incomprensible en su cabeza. Percibe una presencia ajena y poderosa que la hace sentirse pequeña; resiste y guarda el objeto dentro de una fruta para no tocarlo. No se lo explica al grupo hasta el regreso.",
+      "inicio": "01:50:00.000",
+      "fin": "01:55:55.000",
+      "cita": "sisea en la cabeza",
+      "evidencia_cue": {
+        "inicio": "01:53:41.520",
+        "fin": "01:53:43.830",
+        "texto": "que cuando lo coges es como escuchas una voz que te sisea en la cabeza, no"
+      },
+      "entidades": [
+        "Pinky",
+        "Leona (coneja, grafía provisional)",
+        "Ayoto / Ayuto (grafía provisional)",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Blink / Blank",
+        "Collar serpiente de charca"
+      ],
+      "ambito": "objeto peligroso y percepción privada",
+      "conocedores": [
+        "Blink / Blank"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se identifica con el collar del capítulo 4 ni con el que vendió Nox. No se confirma una posesión efectiva y la voz no está transcrita literalmente."
+    },
+    {
+      "id": "19-015",
+      "titulo": "Regreso con Pinky alucinando",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Ayoto carga a Pinky pese a sus golpes y le da más chocolate. Ella sufre pesadillas, lo ve como un monstruo e intenta escapar mediante magia. Blink intenta calmarla, sin éxito. Mamá carga a Blink para marcharse. Leona lleva un pequeño dinosaurio, al que interpreta como un dragón para la cena, y llega a Cuicapalli con el resto del grupo.",
+      "inicio": "01:55:00.000",
+      "fin": "02:02:55.000",
+      "cita": "le muerde la oreja",
+      "evidencia_cue": {
+        "inicio": "02:00:34.079",
+        "fin": "02:00:35.589",
+        "texto": "intentando añándoles, le muerde la oreja, o sea, va haciendo lo que puede"
+      },
+      "entidades": [
+        "Ayoto / Ayuto (grafía provisional)",
+        "Pinky",
+        "Blink / Blank",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Leona (coneja, grafía provisional)",
+        "Cuicapalli"
+      ],
+      "ambito": "evacuación y alucinaciones",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Las bromas sobre agresiones sexuales no describen una escena sexual. La percepción bajo los efectos del chocolate no convierte al pequeño dinosaurio en un dragón real."
+    },
+    {
+      "id": "19-016",
+      "titulo": "Informe, collar y eruditos de otras ciudades",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "El grupo informa a Eromov de los muertos y del combate. Blink muestra el collar guardado en la fruta y cuenta que oyó una voz. Plantean que las serpientes pueden controlar o modificar al dinosaurio y que su veneno mata a la fauna. El líder insiste en no dar por ciertas las conjeturas, dice que desconoce el collar y menciona a los eruditos de Iktan y Tutucan. Discuten si retirarlo, investigarlo, enterrarlo o entregárselo a una mujer con pistola, pero no se muestra un destino definitivo.",
+      "inicio": "02:02:00.000",
+      "fin": "02:10:55.000",
+      "cita": "No podemos tener conjeturas",
+      "evidencia_cue": {
+        "inicio": "02:09:02.760",
+        "fin": "02:09:05.270",
+        "texto": "dice, \"Bueno, pues habrá que investigar más esto. No podemos tener conjeturas"
+      },
+      "entidades": [
+        "Eromov (líder de Cuicapalli, grafía provisional)",
+        "Blink / Blank",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Ayoto / Ayuto (grafía provisional)",
+        "Collar serpiente de charca",
+        "Iktan",
+        "Tutucan"
+      ],
+      "ambito": "informe e hipótesis",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Eromov no confirma el mecanismo de control ni una posesión. La mujer considerada peligrosa no recibe un nombre explícito en este pasaje."
+    },
+    {
+      "id": "19-017",
+      "titulo": "Encargo de entrenar a Leona y cena descartada",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Blink pide una estrategia para ayudar a Leona y Eromov le encarga entrenarla mediante la observación. Pinky huye asustada y Ayoto va a buscarla. Nelli lleva a la coneja a recibir curación. El tabernero arroja el dinosaurio al agua y continúa cocinando cerdo; no se consume la supuesta cena de dragón.",
+      "inicio": "02:10:00.000",
+      "fin": "02:14:55.000",
+      "cita": "nos hará hace el favor de entrenarla",
+      "evidencia_cue": {
+        "inicio": "02:12:09.880",
+        "fin": "02:12:12.870",
+        "texto": "bien, pues entonces nos hará hace el favor de entrenarla,"
+      },
+      "entidades": [
+        "Blink / Blank",
+        "Leona (coneja, grafía provisional)",
+        "Eromov (líder de Cuicapalli, grafía provisional)",
+        "Pinky",
+        "Ayoto / Ayuto (grafía provisional)",
+        "Nelli (nativa rescatada, grafía provisional)",
+        "Tacha (tabernero hiena, grafía provisional)"
+      ],
+      "ambito": "pendiente y cierre",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": ""
+    }
+  ]
+}

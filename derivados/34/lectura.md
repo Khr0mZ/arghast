@@ -1,0 +1,8863 @@
+# Capítulo 34: Hacer una tortilla con un huevo
+
+Transcripción derivada, no resumen. Voz y hablante sin identificar automáticamente.
+
+[00:00:00.160] Y bienvenidos al capítulo número 34 de
+
+[00:00:04.040] las aventuras de Cholta, que creo que en
+
+[00:00:07.319] el capítulo 60 tenemos que empezar a
+
+[00:00:09.000] decir ya el one shot alargado, ¿vale? Ya
+
+[00:00:12.519] sabéis que cuando vamos acercándonos al
+
+[00:00:14.040] final cada vez nombre más largo,
+
+[00:00:16.240] así que nada, vamos a empezar chotacan
+
+[00:00:19.359] con, bueno, con esta gente de aquí, así
+
+[00:00:22.680] que vamos a ver qué han estado haciendo
+
+[00:00:25.680] y empezamos por Zarial. ¿Qué qué estaba
+
+[00:00:29.560] haciendo nuestra paladina?
+
+[00:00:32.399] Pues después de la última aventura que
+
+[00:00:35.200] tuvo en donde se tuvo que enfrentar a
+
+[00:00:38.840] unos a unas criaturas raras
+
+[00:00:43.000] y vio una cosa rara en una especie de de
+
+[00:00:46.360] la no sé, esa esa expedición fue un poco
+
+[00:00:50.760] caótica cuanto menos.
+
+[00:00:53.079] se ha pasado un poco con su amiga Triel
+
+[00:00:55.800] de allí para allá, entrando en el local
+
+[00:00:58.120] de [resoplido] ese chico que dice que es
+
+[00:01:01.039] su amigo. No sé por qué siempre entramos
+
+[00:01:03.440] en un por un agujero, pero costumbres de
+
+[00:01:05.720] la gente de aquí.
+
+[00:01:10.479] Vale, pues
+
+[00:01:12.680] veremos qué ha pasado la señorita
+
+[00:01:15.479] durante estos días. ¿Dónde estás?
+
+[00:01:18.759] Nos va a doler
+
+[00:01:19.560] durante estos días, ¿eh? También llevas
+
+[00:01:23.799] un par de creo, ¿no? Una semana sin ver
+
+[00:01:25.720] a Trier, ¿sabes? Estuviste con ella,
+
+[00:01:27.280] pero de repente llevas una semana sin
+
+[00:01:28.479] ver a Triel. No sabes dónde está.
+
+[00:01:29.735] [risas]
+
+[00:01:31.240] Cosas de Triel, o sea, Triel es como
+
+[00:01:34.240] aparece, desaparece, no, no se la juzga,
+
+[00:01:36.439] se sabe que es así.
+
+[00:01:38.040] No, no la juzguéis. Y a ver qué le ha
+
+[00:01:39.920] pasado a Zarias. Bueno, bienvenidas a
+
+[00:01:43.320] Chatacans.
+
+[00:01:45.320] Tenías dinero. Ya tienes dinero.
+
+[00:01:47.600] Seis moneditas de oro menos para azar y
+
+[00:01:51.200] al que parece que ya sabéis que dormir
+
+[00:01:54.200] en Xaru pues esos ladronzuelos y los
+
+[00:01:56.200] piratas siempre, bueno, te miran los
+
+[00:01:58.960] bolsillos y como las puertas no tienen
+
+[00:02:01.200] seguros.
+
+[00:02:03.560] Así que nada, vamos a seguir con nuestro
+
+[00:02:06.360] enano explorador, con Winscore, que qué
+
+[00:02:09.039] ha estado haciendo nuestro enano estos
+
+[00:02:12.840] días,
+
+[00:02:14.080] ¿no? Pues ahora que ya he encontrado
+
+[00:02:15.760] dónde estaba el pueblo este y quitándolo
+
+[00:02:18.080] donde están los piratas, me he dedicado
+
+[00:02:20.040] tranquilamente a ir catalogando y
+
+[00:02:22.319] explorando todas las zonas de alrededor,
+
+[00:02:23.720] que se ve que ese pueblo conoce bastante
+
+[00:02:25.280] bien los alrededores.
+
+[00:02:27.040] Vale. Eh, vale. Lo que va a pasar es que
+
+[00:02:30.319] cuando sales a explorar con algunos de
+
+[00:02:33.040] estos, eh, vas a salir a explorar, vas a
+
+[00:02:36.920] empezar a buscar y
+
+[00:02:39.360] sin quererlo o queriendo vas a acabar en
+
+[00:02:42.159] la entrada de Shiaru. A ver, porque
+
+[00:02:44.840] empezamos ahí, pero como has estado como
+
+[00:02:47.760] has estado dando vueltas pues no hay
+
+[00:02:49.640] tirada porque no has dormido en Shiaru
+
+[00:02:51.239] estos días, así que no hay ningún
+
+[00:02:52.640] problema. y nos pasamos a
+
+[00:02:54.640] nada que perder, o sea, que eso,
+
+[00:02:56.599] bueno, cuidado.
+
+[00:02:59.040] Seguimos con mama, que qué ha estado
+
+[00:03:01.360] haciendo nuestra señora mayor después de
+
+[00:03:05.239] lo ocurrido.
+
+[00:03:07.400] Pues después de que cierta pirata la
+
+[00:03:09.959] haya este liberado,
+
+[00:03:13.040] estuvo platicando con ella,
+
+[00:03:15.840] con Nox, otra vez siendo amenazada con
+
+[00:03:18.239] una pistola que ya no es novedad
+
+[00:03:21.599] y este ha estado tratando de no
+
+[00:03:25.200] acercarse a Sharu después de la
+
+[00:03:28.080] advertencia que le dio Bonnie. Entonces,
+
+[00:03:31.519] ah, como que se medio asoma, como que de
+
+[00:03:34.239] repente se va de nuevo a la jungla y así
+
+[00:03:36.799] no ha no ha querido este [música]
+
+[00:03:38.599] acercarse después de todo lo que ha
+
+[00:03:40.400] escuchado que que sucedió.
+
+[00:03:42.879] Vale,
+
+[00:03:44.480] pues
+
+[00:03:46.640] nada, pues eso. Y mamá, como también ha
+
+[00:03:49.000] dormido por la jungla y no ha dormido un
+
+[00:03:50.560] sharo, pues no tiene tabla estos días.
+
+[00:03:54.480] Y por último seguimos con Blink, que que
+
+[00:03:58.200] ha estado haciendo nuestra pequeña
+
+[00:04:00.560] Blink está un poquito rayada porque
+
+[00:04:02.840] llevan como un par de semanas que que se
+
+[00:04:05.000] intenta ir de Shiaru y se despierta
+
+[00:04:07.592] [risas]
+
+[00:04:09.799] que que antes ya pasaban cosas raras,
+
+[00:04:11.200] eh, de de como de tener como islas, o
+
+[00:04:14.920] sea, como lagunas de memoria y tal, pero
+
+[00:04:17.919] no entiendo por qué [ __ ] no se puede ir
+
+[00:04:19.199] de aquí. Está aquí pues ya con las
+
+[00:04:20.880] maletas llenas de polvo, ¿sabes? que más
+
+[00:04:22.919] del sol y ya sé qué hacer. Y está aquí
+
+[00:04:25.360] pues es un batido de fruta medio
+
+[00:04:27.880] podrida, eh, extraucarada.
+
+[00:04:34.199] Yo me imagino a Blí con sus poderes que
+
+[00:04:36.160] ella misma se hace poderes y se olvida
+
+[00:04:37.600] de las cosas y vuelve.
+
+[00:04:39.720] Sí, algún hechizo me habrá encima que
+
+[00:04:42.160] que no me acuerdo. [risas]
+
+[00:04:44.919] Y nada, y con esto pues nos acercamos a
+
+[00:04:49.520] ese maravilloso pueblo que todos deseáis
+
+[00:04:53.280] huir. No sé por qué, porque en el otro
+
+[00:04:54.639] hay maldiciones, pero bueno. Así que
+
+[00:04:57.479] nada, nos acercamos a Shiaru entre esas
+
+[00:05:00.960] calles, vemos esa plaza, vemos a Blink,
+
+[00:05:05.919] pues ahí en ese tenderete que encima de
+
+[00:05:09.400] ese tenderete que siempre utiliza como
+
+[00:05:10.880] como
+
+[00:05:12.479] su casa. Veríamos a Winscore entrar otra
+
+[00:05:16.400] vez por el pueblo. Seguramente
+
+[00:05:18.160] maldiciendo [música]
+
+[00:05:19.880] Azaria al salir pues del local de Lit,
+
+[00:05:22.600] seguramente de unas de esas habitaciones
+
+[00:05:26.360] y
+
+[00:05:27.880] arriba del todo, [música] entre la
+
+[00:05:30.560] maleza, cerca de ese barco estampado,
+
+[00:05:35.199] la cabecita de una señora mayor
+
+[00:05:38.199] observando,
+
+[00:05:40.680] preguntándose si
+
+[00:05:43.039] sus cosas aún estarán ahí.
+
+[00:05:45.840] Hijo de la burger.
+
+[00:05:47.808] [risas]
+
+[00:05:50.240] Así que nada, nos acercamos a ese enano
+
+[00:05:53.840] y
+
+[00:05:55.479] la escena es vuestra.
+
+[00:05:57.240] Dame un segundo que no me está
+
+[00:05:58.319] funcionando el foundry
+
+[00:06:00.520] y no me está funcionando.
+
+[00:06:02.960] No,
+
+[00:06:03.919] solamente veo negro puesto ahí o
+
+[00:06:06.520] a ver, espérate [música] de permisos de
+
+[00:06:08.759] vista.
+
+[00:06:10.199] En principio tienes que tener. ¿Te ves
+
+[00:06:11.880] ahora?
+
+[00:06:13.880] No, espérate, voy a voy a salir y volver
+
+[00:06:15.479] a entrar. Sigue con otro.
+
+[00:06:17.520] Vale,
+
+[00:06:17.759] ahora mismo lo arreglo. Me estoy pegando
+
+[00:06:19.199] con una planta. [risas]
+
+[00:06:21.880] Pues nada, Blink, verías a Azari al
+
+[00:06:26.000] salir de del local de Elit. No sé si la
+
+[00:06:28.759] conoces.
+
+[00:06:30.160] Estoy pensando en ello. Yo creo que sí.
+
+[00:06:32.759] Sí, nos conocimos en la misión con
+
+[00:06:35.360] Pancelo y la mosca voladora. No me
+
+[00:06:37.080] acuerdo. Sí, la misión de los borrachos
+
+[00:06:39.039] cachondos.
+
+[00:06:39.520] Es verdad. [risas]
+
+[00:06:45.199] Pues estoy aquí con el juguete, así con
+
+[00:06:47.440] las piernas medio colgando de de ese
+
+[00:06:49.479] tejado. Lo veo, me estoy acabando ya el
+
+[00:06:51.680] último sorbo, lo veo. Voy un poco un
+
+[00:06:54.039] poquito ya como un poquito mareada del
+
+[00:06:55.560] calor y tal y digo, voy a bajarme un
+
+[00:06:57.479] poquito la sombra y y cuando voy la
+
+[00:06:59.039] sombra veo a Dariel ahí y y me acerco
+
+[00:07:01.360] hacia ella.
+
+[00:07:04.000] No puedo bajar.
+
+[00:07:05.720] Ah, vale, perfecto. Y nada, me por aquí
+
+[00:07:08.520] a a sombra de de de esa casita, ¿sabes?
+
+[00:07:13.360] ¿Qué tal? Vaya calor hoy, eh, día de de
+
+[00:07:16.080] playa.
+
+[00:07:19.759] Además, aquí en estas tierras no sé si
+
+[00:07:22.720] este calor es normal.
+
+[00:07:25.000] Uno no se acostumbra.
+
+[00:07:27.520] ¿Qué haces aquí en este pueblo aún? Si
+
+[00:07:29.879] yo intento irme, pero no lo consigo.
+
+[00:07:32.319] Creo que hoy esta noche voy a hacer las
+
+[00:07:33.800] maletas otra vez.
+
+[00:07:36.479] Creo que en este, yo me quedo en este
+
+[00:07:37.960] pueblo porque creo que hay gente fuerte
+
+[00:07:39.919] y
+
+[00:07:41.560] nunca falta un buen combate por estas
+
+[00:07:43.800] calles. Siempre viene bien tener algo de
+
+[00:07:46.080] acción.
+
+[00:07:47.560] Verías un pirata que se acerca.
+
+[00:07:49.120] Señora, tiene una monedita.
+
+[00:07:52.915] [risas]
+
+[00:07:54.360] Saco la espada. ¿Lo ves?
+
+[00:07:57.440] La mía es más grande.
+
+[00:08:00.120] [risas]
+
+[00:08:00.400] Uh, esa caca.
+
+[00:08:04.080] Ves que está como de lado, ¿eh? Que
+
+[00:08:06.280] quizás si so para el viento se cae.
+
+[00:08:08.560] Claro, le empujo con la espada para que
+
+[00:08:10.680] caiga.
+
+[00:08:12.840] Bueno, pues se cae. Sí, se
+
+[00:08:14.280] pum,
+
+[00:08:15.440] pero no no cierra los ojos ni nada, ¿eh?
+
+[00:08:16.919] Está totalmente pum [música] cao.
+
+[00:08:21.440] Le miro a los ojos y le digo, "Creo que
+
+[00:08:23.159] piensa que todavía sigue de pie y que el
+
+[00:08:25.159] mundo se ha tumbado.
+
+[00:08:30.280] No querás ir a a Quicapali, ¿no?
+
+[00:08:33.680] Quik Quicapali, [música] que en ese
+
+[00:08:36.360] sitio hay gente guerrero fuerte
+
+[00:08:40.279] por de veces. La verdad que sí hay
+
+[00:08:42.279] bastante guerreros. Son más que como
+
+[00:08:44.640] aquí que son más piratillas, veis, son
+
+[00:08:46.160] un poquito más salvajes y hay un poquito
+
+[00:08:47.480] de todo. Hay bastante animal.
+
+[00:08:49.279] Mm,
+
+[00:08:51.160] podría ser interesante
+
+[00:08:54.320] un estilo de combate más primitivo, más
+
+[00:08:57.080] enfatizado en el
+
+[00:08:59.680] en la acción directa.
+
+[00:09:01.480] La verdad que son bastante Sí, bastante
+
+[00:09:03.720] instintivos como luchan. Son como
+
+[00:09:05.800] bastante bestias.
+
+[00:09:08.680] Y esta noche, esta noche haré maletas y
+
+[00:09:11.200] por mañana saldré. No sé si quieres
+
+[00:09:13.000] salir por mañana. Yo iré para allá.
+
+[00:09:15.560] Me parece bien que iré contigo, aunque
+
+[00:09:17.800] tendré que dejarle un mensaje a Triel.
+
+[00:09:19.480] Me parece, me parecería muy feo dejarla
+
+[00:09:21.160] aquí sin despedirme
+
+[00:09:23.279] como ella.
+
+[00:09:25.079] Hag un vo de tiempo durante el día. Hag
+
+[00:09:27.040] un vo. Haz otra vez las maletas y ya te
+
+[00:09:29.480] buscaré por la noche.
+
+[00:09:32.079] ¿Tienes que hacer algo ahora o qué? ¿A
+
+[00:09:33.800] dónde vas?
+
+[00:09:34.680] No muchos, la verdad. Iba ahí a ver si
+
+[00:09:36.720] en el bar ya tienen algo que no sea los
+
+[00:09:39.640] orines del mundo.
+
+[00:09:43.040] Y Winscore,
+
+[00:09:44.279] ¿eh? ¿Te funciona? Ya.
+
+[00:09:46.240] A ver, estoy mirándolo.
+
+[00:09:49.279] Me muevo.
+
+[00:09:50.000] Sí,
+
+[00:09:50.959] eh, sí.
+
+[00:09:52.440] A ver, pues nada, entro al pueblo.
+
+[00:09:54.839] Vale. Pues nada, ves al pueblo y ves a
+
+[00:09:57.200] esa mujer con esa armadura negra,
+
+[00:10:00.360] ¿sabes? Con el pelo blanquecino, ¿no? Es
+
+[00:10:03.880] sí. ¿Escucháis el taladro que me están
+
+[00:10:05.600] reventando por encima o no?
+
+[00:10:07.360] No,
+
+[00:10:07.640] no, no, no, eso no lo escuché.
+
+[00:10:08.839] Ah, vale, vale, vale, vale, vale. Estoy
+
+[00:10:10.079] aquí yo viendo ver que la ha dicho, ha
+
+[00:10:12.600] decidido que es un buen momento ponerse
+
+[00:10:14.040] a usar el talado a las 8:15 de la noche,
+
+[00:10:16.800] pero bueno, ¿qué le vamos a hacer?
+
+[00:10:18.760] Los vecinos siempre
+
+[00:10:20.399] pues entras en el poblado y ves a esa
+
+[00:10:22.959] mujer y a una pequeña hada hablando pues
+
+[00:10:26.120] ahí de abandonar este sitio de irse a
+
+[00:10:28.360] Cuikapali.
+
+[00:10:31.640] Pues buen sitio.
+
+[00:10:33.320] Tú vienes de ahí.
+
+[00:10:33.920] Efectivamente. Sí, sí que lo hago.
+
+[00:10:38.120] Miro, miro al enano que acaba de entrar
+
+[00:10:43.880] y tú eres
+
+[00:10:47.160] buenas Winscor a su servicio.
+
+[00:10:52.800] Eres nuevo de por aquí, ¿verdad?
+
+[00:10:55.480] Yo no lo
+
+[00:10:56.120] nuevo tampoco, pero tampoco es que lleve
+
+[00:10:58.120] aquí mucho tiempo.
+
+[00:11:02.519] Miro, miro a Blin. Si tú no le si a ti
+
+[00:11:06.120] no te suena y a mí tampoco. Este este es
+
+[00:11:08.079] más nuevo que yo.
+
+[00:11:11.360] Bueno, yo soy Blink. Conoces el pueblo
+
+[00:11:13.839] un poquito.
+
+[00:11:16.839] A ver, conocer conocerlo. Estuve un día
+
+[00:11:19.320] como mucho por aquí antes de irme al
+
+[00:11:21.320] pueblo este de los nativos.
+
+[00:11:24.480] O sea, que no lo conoces.
+
+[00:11:27.079] Algo conozco.
+
+[00:11:29.600] Así que por aquí está la taberna. Por
+
+[00:11:31.800] aquí hay un herrero y por ahí hay un
+
+[00:11:34.200] doctor raro que hace experimentos con
+
+[00:11:35.480] gente.
+
+[00:11:36.880] Ah, sí.
+
+[00:11:38.279] No vayas al doctor.
+
+[00:11:39.920] No soy yo muy de racionable con piratas.
+
+[00:11:41.240] No se preocupen.
+
+[00:11:42.200] No vayáis al doctor, no vayáis a la
+
+[00:11:44.360] taberna, no vayáis a ningún sitio. Aquí
+
+[00:11:45.839] esto peligroso. En la taberna señora
+
+[00:11:48.760] bastante chunga.
+
+[00:11:50.440] Sí, he intentado que no se de mi
+
+[00:11:52.000] existencia.
+
+[00:11:54.720] Pero en la taberna siempre hay una mujer
+
+[00:11:56.320] que es bastante fuerte, [risas]
+
+[00:12:00.160] desafortunadamente
+
+[00:12:02.639] o afortunadamente, o sea, todo es
+
+[00:12:04.200] cuestión de perspectiva.
+
+[00:12:06.480] Me encanta porque comparé como la
+
+[00:12:08.040] Underd, ¿sabes? No puedes ir a ningún
+
+[00:12:09.320] lado.
+
+[00:12:10.988] [risas]
+
+[00:12:13.040] Y mientras estabais vosotros ahí
+
+[00:12:15.120] hablando, vamos a ver a Mamí
+
+[00:12:19.120] escondidita.
+
+[00:12:20.813] [risas]
+
+[00:12:25.199] lo que hace es que se va acercando poco
+
+[00:12:27.720] a poco a al barco tratando de no llamar
+
+[00:12:30.360] la atención, este, queriendo subirse
+
+[00:12:35.480] porque obviamente había dejado
+
+[00:12:36.800] muchísimas cosas ahí porque alguien se
+
+[00:12:39.240] la llevó así de la nada y ni siquiera le
+
+[00:12:41.880] dio chance de agarrar ropa, entonces ya
+
+[00:12:45.079] también necesita cambiarse la pobre
+
+[00:12:46.880] señora. Hazme una tirada de sigilo.
+
+[00:12:50.839] Ahí voy.
+
+[00:12:51.440] Míralo. No puede. Está con el gato ahí
+
+[00:12:52.880] encima.
+
+[00:12:55.120] Un gato te da más cinco todas las
+
+[00:12:56.880] tiradas. Cinco en
+
+[00:12:59.120] México hace frío. Fico. [risas]
+
+[00:13:02.240] Qué pobrecita. [música] Tiene frío mi
+
+[00:13:04.079] bebé.
+
+[00:13:06.160] Para fría. ¿Cómo se ha quedado mamá
+
+[00:13:07.760] ahora mismo.
+
+[00:13:09.079] Vale, pues mamá. A ver, déjame mirar
+
+[00:13:11.880] cuando tiene.
+
+[00:13:13.720] [ __ ] el putoado.
+
+[00:13:14.959] Pues no, que que no [risas] te ve. Vale,
+
+[00:13:16.959] pues
+
+[00:13:19.519] mamá, [risas]
+
+[00:13:21.480] subes arriba,
+
+[00:13:23.920] llegas arriba del barco, miras a los
+
+[00:13:25.600] lados, ves que no hay nadie, no escuchas
+
+[00:13:28.360] a nadie, no escuchas ni a Ione ni,
+
+[00:13:30.720] bueno, los gritos de Jone, tampoco
+
+[00:13:33.079] escuchas a Nox, miras hacia arriba a ver
+
+[00:13:34.920] si está durmiendo donde siempre duerme,
+
+[00:13:36.560] arriba en el [ __ ] Tampoco está. Y
+
+[00:13:39.199] bueno, ves que tienes el camino hacia
+
+[00:13:43.160] los camarotes libre.
+
+[00:13:45.760] Qué bueno, no me hace [música] falta.
+
+[00:13:48.120] Pero pues obviamente va hacia donde está
+
+[00:13:52.320] el camarote de Nox, [música] donde había
+
+[00:13:53.920] dejado sus cosas y su huevito.
+
+[00:13:57.120] Vale, pues abres la puerta
+
+[00:14:01.320] y
+
+[00:14:02.880] seguramente se te abren los ojos como
+
+[00:14:04.480] platos, debes quedar como algo
+
+[00:14:07.199] impactada.
+
+[00:14:08.720] Porque verías a tres hipopótamos
+
+[00:14:14.360] en tanga cambiándose, ¿sabes? Y uno hace
+
+[00:14:17.920] ah, ¿sabes? Como ah, ¿sabes? Y ves pues
+
+[00:14:22.880] a Mingo, Mango y Mungo
+
+[00:14:26.360] y Mangolero,
+
+[00:14:27.160] que son los los tripulantes también del
+
+[00:14:29.839] Zamp Paola. Bueno, son los tripulantes
+
+[00:14:31.759] porque los dos los han echado y ves que
+
+[00:14:33.360] se quedan así y hacen, "Ah, ¿quién eres
+
+[00:14:35.639] tú? Fuera de nuestro camelote, fuera,
+
+[00:14:37.000] fuera, [música] fuera.
+
+[00:14:40.279] Ah, antes que nada, eh, yo también tengo
+
+[00:14:43.600] algo parecido, menos lo de abajo. Este,
+
+[00:14:48.079] voy a pasar porque necesito agarrar unas
+
+[00:14:50.600] cosas mías.
+
+[00:14:51.720] Pero, ¿usted quién es?
+
+[00:14:54.600] Ah, soy Sitlali, una conocida de Nox.
+
+[00:14:58.759] Ah, bueno, es que Nox ya no pertenece a
+
+[00:15:00.440] la tripulación. La capitana la ha
+
+[00:15:01.920] echado.
+
+[00:15:04.199] Bueno, eso a mí me viene y me va. Yo
+
+[00:15:06.199] vengo por lo mío.
+
+[00:15:08.120] Pero esto es un barco pirata.
+
+[00:15:11.360] Ajá.
+
+[00:15:14.160] Esto es el barco de la capitana y aquí
+
+[00:15:15.880] no se puede pasar.
+
+[00:15:19.600] Ajá.
+
+[00:15:21.639] Miren, ustedes me dejan pasar y yo les
+
+[00:15:24.720] doy un chocolatito, ¿les parece?
+
+[00:15:27.639] Eh, un chocolate.
+
+[00:15:30.480] Sí.
+
+[00:15:32.839] Mm.
+
+[00:15:34.040] A ver,
+
+[00:15:35.639] saco el chocolate de mis faldas y lo
+
+[00:15:38.680] divido en tres.
+
+[00:15:40.399] Ah, el chocolate especial,
+
+[00:15:42.560] obviamente.
+
+[00:15:43.680] Vale,
+
+[00:15:43.959] se saca de la espalda.
+
+[00:15:46.079] Vale, pues nada. Es que lo coge y lo
+
+[00:15:50.600] huele.
+
+[00:15:52.440] Ah, fuck. ¿Por qué me lo tiré yo?
+
+[00:15:54.560] Ah,
+
+[00:15:54.759] no sé. Vale, lo huele y te mira [música]
+
+[00:15:59.120] y dice,
+
+[00:16:01.880] "Bueno, pero que sea rápido y no diga
+
+[00:16:03.440] nada la capitana Yuli."
+
+[00:16:05.839] Sí, de todos modos ella también me
+
+[00:16:07.360] conoce, entonces empiezo a agarrar mis
+
+[00:16:10.680] cosas.
+
+[00:16:11.720] Vale. ¿Ves que aparte de mogollón de
+
+[00:16:14.240] cosas de los hipopótamos, nuevo
+
+[00:16:16.399] equipamiento del hipopótamo, ves que han
+
+[00:16:17.720] pesto plantas, flores, ¿sabes? Está todo
+
+[00:16:20.160] cuidado, ¿sabes? Se han puesto en una
+
+[00:16:21.959] librería incluso,
+
+[00:16:25.120] pero falta algo, algo grande.
+
+[00:16:29.839] Ya me lo presentía.
+
+[00:16:32.336] [risas]
+
+[00:16:33.480] Algo solía.
+
+[00:16:34.480] Aquí vienen unos unos marines a hacer un
+
+[00:16:36.639] ataque.
+
+[00:16:39.240] A buscarlo.
+
+[00:16:40.680] Me volteo a ver el nido vacío.
+
+[00:16:42.920] No, no hay nido ya.
+
+[00:16:44.680] Ah, ni nido.
+
+[00:16:45.440] No, los hipop reorganizado en la
+
+[00:16:48.639] habitación.
+
+[00:16:50.160] No,
+
+[00:16:50.279] hombre.
+
+[00:16:51.680] Me me volteo a ver lentamente hacia los
+
+[00:16:53.399] hipopótamos.
+
+[00:16:54.920] Ah, una pregunta, este,
+
+[00:16:59.000] ¿no vieron de casualidad un huevo aquí
+
+[00:17:02.519] enorme, grande, este, en un nido hecho
+
+[00:17:06.396] [música] de trapos, paja y demás
+
+[00:17:09.679] cositas?
+
+[00:17:11.240] E, bueno, había un montón de Sí. paja y
+
+[00:17:14.959] cosas ahí tiradas por el suelo, pero
+
+[00:17:17.120] ningún huevo. Eso era suyo.
+
+[00:17:21.919] Sí, era mío.
+
+[00:17:23.240] Oh, pues pensábamos que esas ropses y
+
+[00:17:25.039] todo eso contera que eran. Pensábamos
+
+[00:17:27.160] que era basura,
+
+[00:17:30.480] ¿no? Bueno, las ropas ya me dan igual.
+
+[00:17:32.919] Ay, lo que me importaba es lo del huevo.
+
+[00:17:34.799] Ay, no puede ser.
+
+[00:17:36.520] Pero un huevo puede [ __ ] huevos de la
+
+[00:17:38.520] cocina si quieres, señorita.
+
+[00:17:41.480] No, este es un huevo alguien algo
+
+[00:17:44.280] especial que se lo había prometido
+
+[00:17:46.200] alguien y pues,
+
+[00:17:48.960] ay, no puede ser.
+
+[00:17:50.760] Ah, ya lo entiendo.
+
+[00:17:53.559] Costumbres. Usted es de aquí, ¿verdad?
+
+[00:17:57.520] Eh, sí. ¿Por qué lo dices?
+
+[00:18:00.760] No, porque son estas costumbres. Regalan
+
+[00:18:02.400] huevos a la gente. Interesante. Y ves
+
+[00:18:05.000] que uno apunta uno de los de estos,
+
+[00:18:08.840] ¿eh? No, digamos que matamos a la mamá
+
+[00:18:11.960] de quien puso ese huevito y pues el
+
+[00:18:14.039] huevito [música] estuvo a cargo mío
+
+[00:18:16.320] y yo se lo prometines de madresines.
+
+[00:18:22.360] Es [risas] es nombre.
+
+[00:18:25.799] Madre, madre.
+
+[00:18:27.919] Olvídenlo. Este es un eh es hablar con
+
+[00:18:30.960] la pared. Este, bueno, agarro yo lo lo
+
+[00:18:34.360] poco mucho que queda mío
+
+[00:18:37.200] y y salgo del barco. Ay, [ __ ] ¿Dónde
+
+[00:18:41.000] estará? ¿Quién se lo habrá llevado? No
+
+[00:18:43.159] puede ser.
+
+[00:18:45.559] Bueno, sabe que [música] hubo un ataque,
+
+[00:18:46.720] ¿no? Aquí hace unos días me dijo la
+
+[00:18:48.720] capitana Jone.
+
+[00:18:51.720] También algo me comentó otra capitana de
+
+[00:18:54.400] aquí.
+
+[00:18:55.880] No, pues debería haber visto cómo estaba
+
+[00:18:57.120] el barco.
+
+[00:19:00.159] Bueno, ahorita ha estado mejor de de
+
+[00:19:02.840] otras situaciones y digo, el [música]
+
+[00:19:05.240] chiste es que todavía sigue aquí
+
+[00:19:06.679] embarcado en medio de esta taberna, así
+
+[00:19:09.919] que bueno,
+
+[00:19:11.760] es algo que tenemos que trabajar.
+
+[00:19:14.919] Sí, qué bueno [música] que ustedes están
+
+[00:19:17.360] recuperando bien el barco. Qué bueno, en
+
+[00:19:19.799] verdad me alegro muchísimo.
+
+[00:19:22.880] Bueno, necesita algo más, señorita.
+
+[00:19:26.559] No, sería ya todo. Voy a a buscar el
+
+[00:19:30.200] huevo.
+
+[00:19:32.520] Si quieres le podemos avisar a los
+
+[00:19:33.840] capitán que la ayude.
+
+[00:19:37.120] No, no, déjala. de estar ocupada y digo,
+
+[00:19:41.799] si está de mu humor, prefiero evitar
+
+[00:19:44.799] cualquier [música] problema.
+
+[00:19:46.880] Muy bien, señora.
+
+[00:19:49.640] No, ya mejor que se les quite con
+
+[00:19:50.803] [música] ustedes. Este, bueno, ya me voy
+
+[00:19:53.280] retirando, ¿eh? Ya va bajando.
+
+[00:19:57.520] Pobrecita. No aceptan ayuda de la gente
+
+[00:20:01.000] y va apuntando.
+
+[00:20:06.200] Vale.
+
+[00:20:07.440] Y te metes de vuelta a la jungla. ¿Qué
+
+[00:20:11.240] piensas, mamá?
+
+[00:20:14.400] pues va a estar este empieza a a hacer
+
+[00:20:17.919] conjeturas de [resoplido] a ver, hay
+
+[00:20:20.440] muchas posibilidades, o se lo llevaron
+
+[00:20:22.840] los marines o igual se lo secuestró
+
+[00:20:26.039] Bonnie, pero no creo.
+
+[00:20:28.480] No se hizo de las suyas, probablemente
+
+[00:20:30.760] otra vez,
+
+[00:20:33.120] pero de haber sido eso hubiera indicios
+
+[00:20:35.520] de que me estaba jugando una broma.
+
+[00:20:37.919] Entonces está está tratando de pensar
+
+[00:20:41.480] dónde podría estar tremendo tamaño de
+
+[00:20:44.000] huevo.
+
+[00:20:46.799] Bueno, ¿y hacia dónde vas?
+
+[00:20:50.640] Pues voy a irme por la por las orillitas
+
+[00:20:53.919] del bar. [risas] Puedo de estar pegado a
+
+[00:20:56.039] la a la este a la pared.
+
+[00:21:00.159] Vale, pues nada, vas a ir pues pegada
+
+[00:21:03.200] por aquí, ¿no?
+
+[00:21:05.000] Mm.
+
+[00:21:06.880] Y bueno, supongo que te estás alejando
+
+[00:21:09.760] un poco de Shiaru.
+
+[00:21:11.760] Pregunto eh lo que tú digas.
+
+[00:21:15.159] Mira, por acá podré verlos. Creo que no.
+
+[00:21:17.600] Mira, lo que voy a hacer es lo
+
+[00:21:18.760] siguiente. Obviamente se va a ir por la
+
+[00:21:21.559] por la mera orillita
+
+[00:21:24.520] y pues ahí como hay un montón de basura,
+
+[00:21:27.799] cosas este de montón y demás, se va a
+
+[00:21:30.360] querer asomar a ver si encuentra alguien
+
+[00:21:32.960] conocido y que la pueda ayudar.
+
+[00:21:36.279] Em, pues creo que ves a Blink y a
+
+[00:21:39.534] [música] a Winscore. No sé si a Winscor
+
+[00:21:41.440] lo conoces.
+
+[00:21:43.200] No, la mamá no lo conoce.
+
+[00:21:45.480] Vale, pues ves a eso, ves a Blink, eso
+
+[00:21:47.400] sí que ves que está hablando con
+
+[00:21:49.000] alguien, pero no sé si la ves.
+
+[00:21:52.159] Sí, si la Sí, la medio alcanzo a ver una
+
+[00:21:54.919] al su polvito. Entonces le le doy un
+
+[00:21:59.159] pequeño silvidito para que voltee hacia
+
+[00:22:00.720] acá.
+
+[00:22:03.640] rebroteando,
+
+[00:22:06.000] hablando con y Winsor y en servido, me
+
+[00:22:09.960] llama la atención simplemente y y me
+
+[00:22:11.840] giro,
+
+[00:22:13.679] peroía,
+
+[00:22:15.679] mira y y sin ningún tipo de de voz alta
+
+[00:22:20.480] y chillando, mira, mamá y corriendo
+
+[00:22:24.075] [risas]
+
+[00:22:25.360] hacer aquí escondida
+
+[00:22:27.840] que su madre estaba por aquí. [risas]
+
+[00:22:29.799] Muchas cosas mis niñas no saben.
+
+[00:22:33.440] Yo no sabía que tenían las madres.
+
+[00:22:35.120] Pensaba que eran como espirjos del
+
+[00:22:37.919] bosque que aparecían. [risas]
+
+[00:22:41.720] La verdad es que nunca me lo he
+
+[00:22:42.520] preguntado. Todo lo que sé es que tienen
+
+[00:22:43.919] monarcas y cosas raras.
+
+[00:22:47.039] Ya. Este le doy un abrazo a Blin.
+
+[00:22:51.120] Ay, mi niña, no sabes tanta cosa que ha
+
+[00:22:53.520] pasado que ya también ya quiero largarme
+
+[00:22:55.880] de aquí.
+
+[00:22:56.799] Yo también. Mañana por la mañana
+
+[00:22:58.520] salimos.
+
+[00:23:00.640] Pero no puedo irme todavía, mi niña,
+
+[00:23:02.760] porque te acuerdas del huevo que
+
+[00:23:04.360] estábamos cuidando
+
+[00:23:06.760] sí y que veo un poquito.
+
+[00:23:10.520] Pues ya no está.
+
+[00:23:11.320] Cuenta queo paró y te miró el huevo.
+
+[00:23:13.440] ¿Qué? ¿Qué pasa?
+
+[00:23:15.400] Ya no está el huevo.
+
+[00:23:17.400] Ya se lo han comido.
+
+[00:23:20.520] No creo si no hubiera rastro de huevo
+
+[00:23:24.080] ahí revuelto, pero no no hay rastro ni
+
+[00:23:27.559] siquiera del nido.
+
+[00:23:30.240] Pues algo sabrán Nox o Jone, ¿no?
+
+[00:23:35.000] Ahorita están discutiendo. Medio alcancé
+
+[00:23:37.320] que está [música] se andaban gritando
+
+[00:23:39.039] entre ellos. Ya la verdad ya no sé si es
+
+[00:23:41.960] amor, es odio, es obsesión, qué es lo
+
+[00:23:43.679] que tienen. Ya la verdad ya me da igual.
+
+[00:23:47.559] Ninguna en pie de la otra.
+
+[00:23:49.799] Yo te ayudo a usar el huevo. Quizás lo
+
+[00:23:52.400] tiene
+
+[00:23:54.440] la desequilibrada esta, o sea, y hacia
+
+[00:23:57.039] la taberna. [risas]
+
+[00:23:59.880] Yo también pensé lo mismo, mi niña, pero
+
+[00:24:02.960] yo estuve donde ella me dejó, entonces
+
+[00:24:05.400] no creo que
+
+[00:24:06.559] sí que son buenas las paredes esas.
+
+[00:24:08.876] [risas]
+
+[00:24:11.559] Está un revólver por la ventana, ¿no?
+
+[00:24:13.279] Sí. Oye, clac. [risas] John Wick 5.
+
+[00:24:15.159] ¿Sabes?
+
+[00:24:18.799] Yo te ayudo a buscar el huevo, ¿eh? No
+
+[00:24:21.360] es difícil, o sea, no es fácil de
+
+[00:24:23.159] esconder y vamos a ver por las tiendas.
+
+[00:24:27.000] Preguntamos.
+
+[00:24:28.279] ¿Has mirado la cocina? ¿Has mirado la
+
+[00:24:29.840] cocina del barco?
+
+[00:24:31.720] Eh, insisto, no creo que se lo hayan
+
+[00:24:34.080] comido, eh, y para el tiempo que
+
+[00:24:37.041] [música] este que estuvo en el nido, no
+
+[00:24:39.360] creo que ya esté muy bueno.
+
+[00:24:41.360] ¿Y no hab salido ya? Y salido por la
+
+[00:24:43.399] ventana,
+
+[00:24:44.760] ¿no? Porque no estaba ni siquiera el
+
+[00:24:46.080] cascarón, no había nada.
+
+[00:24:52.480] No se lo y no lo habrá vendido Nox.
+
+[00:24:58.120] Eso puede ser también. No sé, la verdad
+
+[00:25:01.080] ya no estoy muy seguro.
+
+[00:25:03.399] Se le habría vendido a la Ibiro Álvarez
+
+[00:25:06.440] y ahora en silencio. [risas]
+
+[00:25:11.320] Mira, vamos a hacer lo siguiente. Vamos
+
+[00:25:12.760] a a intentar buscarlo al menos este
+
+[00:25:16.342] [música]
+
+[00:25:16.919] hacer el intento y si no ya
+
+[00:25:20.279] me las pagará. Nox.
+
+[00:25:28.039] Yo te ayudo. Ahora mismo está hablando
+
+[00:25:30.679] con Tariel y y un y un no instante. No
+
+[00:25:33.840] sé conocer a Tarel la chica esa que va
+
+[00:25:35.919] de cuero.
+
+[00:25:37.679] Okay. No conozco a estos niños. Este
+
+[00:25:40.919] para armadura, perdón, negra. Mira, lo
+
+[00:25:44.240] que vamos a hacer es lo siguiente. Vamos
+
+[00:25:45.880] a alejarnos tantito de aquí porque
+
+[00:25:48.840] digamos que no pueden verme aquí
+
+[00:25:51.057] [música] en Shiaru. Entonces, ¿te parece
+
+[00:25:54.320] si nos vemos en la entrada?
+
+[00:26:00.080] Vale, pues cuando dice eso empiezo como
+
+[00:26:03.600] a disimular exageradamente, ¿sabes? Como
+
+[00:26:05.240] silvando, mirando hacia el cielo todo el
+
+[00:26:07.080] rato, ¿sabes?
+
+[00:26:08.960] y
+
+[00:26:11.159] mirando hacia todos lados. Si alguien me
+
+[00:26:12.600] mira es como que miro hacia otro lado y
+
+[00:26:13.760] sigo subando más fuerte y y me acerco ha
+
+[00:26:16.480] los compañeros ahí y les digo sin voz
+
+[00:26:19.520] baja,
+
+[00:26:21.039] chicos, chicos, maman, mamanes te ayuda.
+
+[00:26:25.360] Pero qué pasa tu madre buscando un huevo
+
+[00:26:27.240] está buscando un huevo.
+
+[00:26:28.679] ¿Por qué tu madre busca un huevo?
+
+[00:26:29.703] [risas]
+
+[00:26:31.399] Bueno, hay varias, ¿sabes? Por ahí
+
+[00:26:34.080] alguna puedes encontrar. O gaviota o
+
+[00:26:36.840] es muy buena mujer.
+
+[00:26:37.640] Es gallina,
+
+[00:26:39.799] no sé de qué es muy grande. Puede ser
+
+[00:26:42.520] cualquier cosa.
+
+[00:26:44.039] En donde vengo de donde vengo un de un
+
+[00:26:45.720] huevo así puede ser cualquier cosa.
+
+[00:26:48.399] Ah, sí. Bueno, el mundo férico es
+
+[00:26:49.840] definitivamente un mundo misterioso,
+
+[00:26:51.320] pero creo que matarán a su mamá. Habrán
+
+[00:26:53.679] un lagarto o algo así. Creo que era la
+
+[00:26:55.039] mamá.
+
+[00:26:55.520] Pero [risas]
+
+[00:26:58.320] una garta.
+
+[00:26:58.760] Eh, tu madre es una asesina.
+
+[00:27:01.159] No, no creo que fue un accidente que
+
+[00:27:03.520] mamá es muy buena. [risas]
+
+[00:27:06.679] A ver,
+
+[00:27:09.679] a ver, muchas aves abandonan sus huevos
+
+[00:27:12.120] después de mucho tiempo, o sea, no creo
+
+[00:27:14.000] realmente que sea un problema eliminar a
+
+[00:27:15.840] la madre de un ave.
+
+[00:27:17.960] Bueno, mamá es, yo creo es es vosotros
+
+[00:27:21.600] buscáis un huevo, mamá os lo ayudaría
+
+[00:27:23.000] seguramente. O sea, que yo creo que que
+
+[00:27:24.880] la tienes que ayudar. Yo no busco un
+
+[00:27:26.919] huevo. Bueno, a ver,
+
+[00:27:28.919] a ver, tampoco quiero decir que no. O
+
+[00:27:30.640] sea,
+
+[00:27:32.159] pero pero una pregunta,
+
+[00:27:34.080] estamos asumiendo de que el huevo es de
+
+[00:27:35.799] un ave, ¿no? Lo primero, ¿por qué por
+
+[00:27:38.760] qué tu madre?
+
+[00:27:39.240] A ver, ¿de qué va a ser? No va a ser un
+
+[00:27:40.720] huevo de Bueno, podría ser un huevo de
+
+[00:27:41.840] hornito rico.
+
+[00:27:42.440] Reptil puede ser
+
+[00:27:44.039] de un reptil. ¿Has visto los reptiles
+
+[00:27:45.679] que hay por ahí? [risas]
+
+[00:27:46.919] Y señal hacia abajo. ¿Has visto el
+
+[00:27:48.840] reptil aquel? Total. Miro hacia la
+
+[00:27:51.559] entrada y digo, "Venga, va, que os
+
+[00:27:52.480] invito unas frutas." Si hay una sombra
+
+[00:27:54.519] hablamos con mamá y decidís si le
+
+[00:27:55.799] ayudáis o no. Yo quedo ahí por ella.
+
+[00:27:58.880] Pero tu madre se esconde por el
+
+[00:28:00.080] asesinato o no es mi madre. Ojalá fuera
+
+[00:28:03.200] mi madre.
+
+[00:28:05.360] Era es tu madre entonces o no.
+
+[00:28:06.880] No es la mamá de todos.
+
+[00:28:09.480] ¿Cómo que de todos?
+
+[00:28:11.840] Muchos. De muchos.
+
+[00:28:13.519] Yo estoy seguro de que mi madre no está
+
+[00:28:15.039] aquí.
+
+[00:28:16.760] Yo espero que no.
+
+[00:28:21.679] Os invito a unas frutas. Ahí en el árbol
+
+[00:28:25.600] y cojo una especie de plátanos como
+
+[00:28:29.080] anaranjados y lo y los dejuelvo y y los
+
+[00:28:31.880] bajo y me como uno.
+
+[00:28:34.720] Estamos aquí.
+
+[00:28:35.440] ¿Coméis los plátanos que os han dado?
+
+[00:28:36.880] Winscore y
+
+[00:28:39.480] sí.
+
+[00:28:40.640] Yo sí. Y lo [risas] primero que y yo lo
+
+[00:28:42.559] primero que pienso es que no sea como el
+
+[00:28:44.000] vino.
+
+[00:28:44.640] Te encoges 20 cm. Zarian.
+
+[00:28:47.909] [risas]
+
+[00:28:47.960] Ahora,
+
+[00:28:49.799] ahora soy ahora mismo yo que sé 60.
+
+[00:28:53.804] [risas]
+
+[00:28:54.960] Soy soy una
+
+[00:28:55.760] Sigue siendo más alta que yo.
+
+[00:28:58.360] He e he crecido de golpe. Ah, no, esta
+
+[00:29:00.279] se hecho, se ha hecho pequeño. [risas]
+
+[00:29:03.279] Y blink.
+
+[00:29:05.320] Sí, mira. Como un platanito de estos lo
+
+[00:29:07.200] que pueda. Un trozo.
+
+[00:29:08.039] Oh, pues puedes carar tres veces más el
+
+[00:29:10.120] peso que llevas.
+
+[00:29:11.640] Bu, chaval, puedo llevar,
+
+[00:29:14.159] puedo llevar a todos volando. Vale, tú
+
+[00:29:17.159] quieres comer fruta. No, no, no, no.
+
+[00:29:21.000] Yo yo me miro ahora después de haber
+
+[00:29:22.720] cogido 20 cm, me sacudo así un poco.
+
+[00:29:26.880] Ahora la armadura queda más holgada.
+
+[00:29:29.519] No me gusta. [risas]
+
+[00:29:30.679] ¿Por qué seguis comiendo de las frutas
+
+[00:29:32.120] estas mágicas? No lo entiendo.
+
+[00:29:34.120] Porque está porque están ricas.
+
+[00:29:36.240] Yo yo soy como esto
+
+[00:29:38.000] y y me y me sigo agitando para que suena
+
+[00:29:40.039] como maraca.
+
+[00:29:40.965] [risas]
+
+[00:29:41.960] Ay, Dios.
+
+[00:29:44.240] Esto no puede ser bueno para el cuerpo.
+
+[00:29:45.840] Mira, os presento por si no lo conocéis,
+
+[00:29:47.720] eh, es Lali, la mamá de muchos y y
+
+[00:29:52.080] necesita ayuda con con una cosa.
+
+[00:29:54.399] Gracias conocerla, señora. Soy Winscor y
+
+[00:29:56.320] le ofrezco la mano.
+
+[00:29:58.480] Igualmente, la este
+
+[00:30:01.519] lo toma de la mano, la ojita. Un gusto,
+
+[00:30:03.720] mis niños. Este, [música]
+
+[00:30:05.600] perdón que les traiga hasta acá y que
+
+[00:30:09.320] tristemente hayan llegado a este lugar
+
+[00:30:12.159] que se ve muy amigable, ¿verdad?
+
+[00:30:15.039] Bastante.
+
+[00:30:16.360] Técnicamente viene voluntariamente, así
+
+[00:30:18.039] que tampoco hay nada que lamentar.
+
+[00:30:21.120] Pobre de ti. Bueno,
+
+[00:30:22.760] la verdad es que este sitio al menos es
+
+[00:30:24.480] sincero. Quien te va a apuñalar lo ves
+
+[00:30:26.440] venir de frente muchas veces.
+
+[00:30:28.360] Todo el mundo te va a apuñalar en este
+
+[00:30:29.720] sitio. ¿Verdad? Pues eso te lo imaginas
+
+[00:30:32.760] ya. Entonces, sincero, en hay ciudades
+
+[00:30:35.440] en donde te apuñalan y no te esperas que
+
+[00:30:36.760] te apuñalen.
+
+[00:30:37.880] ¿Veis una planta que tiene un cuchillo
+
+[00:30:40.159] atado? Esta sí la [risas] planta.
+
+[00:30:45.159] ¿Ves la floróctona?
+
+[00:30:48.431] [risas]
+
+[00:30:49.320] Técnicamente es la flora, pero sí.
+
+[00:30:54.760] Vale.
+
+[00:30:55.559] Ay, Dios. Ya puesali les empieza a
+
+[00:30:59.120] contar tanto un poco del origen del
+
+[00:31:01.600] huevo que es de un dinosaurio, que
+
+[00:31:05.240] no fue tan accidental la muerte y pero
+
+[00:31:09.000] que es muy importante para ella y que si
+
+[00:31:11.399] la pueden ayudar.
+
+[00:31:13.399] Bueno, tampoco tenía nada que hacer hoy.
+
+[00:31:17.760] Me parece bien. Pero entonces aclárame
+
+[00:31:20.120] una cosa.
+
+[00:31:22.919] Matasteis un dinosaurio. O sea, ¿por
+
+[00:31:25.279] qué? O sea,
+
+[00:31:28.000] o sea, me parece bien. Es dije que eres
+
+[00:31:29.639] fuerte, pero
+
+[00:31:31.760] un poco porque sí, ¿no? Ah, mira, es que
+
+[00:31:36.240] ese dinosaurio iba a matar a y me volteé
+
+[00:31:38.799] hacia donde se se había quedado el
+
+[00:31:40.320] cadáver del elfo y luego veo que ya no
+
+[00:31:42.679] está ahí.
+
+[00:31:43.480] No, no está ahí. Creo que lo bajaron,
+
+[00:31:45.000] ¿no? Por eso veo que ya no, porque se lo
+
+[00:31:47.200] llevó Merluz a cuarta. [risas]
+
+[00:31:51.039] Ah, bueno. Eh, bueno, había atacado una
+
+[00:31:54.080] persona y pues yo lo defendí y para pasó
+
+[00:31:57.080] cosas.
+
+[00:31:59.080] Los que pasan.
+
+[00:32:01.000] Así es. en lo que tienen los
+
+[00:32:02.559] depredadores
+
+[00:32:05.039] y pues ahora estoy criando a uno,
+
+[00:32:06.639] entonces necesito
+
+[00:32:09.120] pues cuidar ese huevo.
+
+[00:32:13.120] Espero esté bien.
+
+[00:32:14.960] Hice una promesa.
+
+[00:32:17.760] Entonces, ¿sabes dónde está el huevo o
+
+[00:32:20.000] puede estar en cualquier sitio del
+
+[00:32:21.200] pueblo?
+
+[00:32:24.279] Un objeto robado en un pueblo pirata. No
+
+[00:32:26.000] suena algo fácil.
+
+[00:32:27.559] Exacto. Eh, podría estar en cualquier
+
+[00:32:30.240] parte del pueblo, pero también en
+
+[00:32:32.279] cualquier parte de afuera. No estamos
+
+[00:32:34.880] muy seguros. Por lo poco mucho que me
+
+[00:32:37.200] dijeron, hubo un problema con la Marina
+
+[00:32:41.120] aquí y no estoy segura si ellos se lo
+
+[00:32:45.039] llevaron también.
+
+[00:32:46.720] Entonces, estamos acotando todo el radio
+
+[00:32:48.919] de búsqueda a Shotacan.
+
+[00:32:51.480] Ah,
+
+[00:32:51.679] sí. Buscar un huevo en un continente no
+
+[00:32:54.440] suena algo que voy a ser sencillo
+
+[00:32:57.000] ni posible.
+
+[00:32:59.039] Yo puedo hacer un pequeño barrido por el
+
+[00:33:01.720] pueblo. Me consumirá un poquito de
+
+[00:33:03.519] poder, pero quizás consigo alguna pista.
+
+[00:33:05.960] Soy capaz de
+
+[00:33:07.480] No os sentáis incómodo porque no lo hago
+
+[00:33:09.080] tampoco todo el rato, pero pero puedo
+
+[00:33:10.720] detectar ciertos pensamientos. Entonces
+
+[00:33:12.360] puedo hacer un barrido por el pueblo
+
+[00:33:14.240] concentrándome en en si alguien pensa en
+
+[00:33:17.120] esa palabra en algún momento y a ver si
+
+[00:33:19.159] detecto alguna pista. Sí, sinceramente,
+
+[00:33:22.480] Blin, si el si el huevo estuviese en
+
+[00:33:24.760] este pueblo, uno, habría alguien mucho
+
+[00:33:27.840] más gordo de los que estos piratas.
+
+[00:33:31.720] Dos, seguramente Bonnie ya estaría
+
+[00:33:33.919] pegando tiros por ahí maldiciendo porque
+
+[00:33:37.240] a lo mejor el huevo de un dinosaurio es
+
+[00:33:39.039] mucho dinero o un efectivo muy valioso.
+
+[00:33:42.240] O bien se lo han vendido a al herrero y
+
+[00:33:45.200] y la verdad no sé si sus pensamientos
+
+[00:33:48.279] serán como sus palabras, pero tiene una
+
+[00:33:50.720] un don de la oratorio bastante curioso.
+
+[00:33:53.798] [resoplido] Es verdad.
+
+[00:33:55.360] Cuando lo escucho sí que lo entiendo,
+
+[00:33:56.519] pero en su pensamiento solo, ¿eh?
+
+[00:34:01.760] Eas querría hacer el rero con el huevo.
+
+[00:34:05.480] Yo que sé, la cáscara,
+
+[00:34:07.360] la cáscara de huevo de dinosaurio puede
+
+[00:34:09.560] hacer armaduras o armas, ¿no? O sea, no
+
+[00:34:11.399] sé como es
+
+[00:34:12.919] donde yo de donde
+
+[00:34:14.320] de donde yo vengo no hay dinosaurios. No
+
+[00:34:16.399] sé qué podrían hacer con ello.
+
+[00:34:18.960] A ver, supuestamente la cáscara es para
+
+[00:34:20.919] que se rompe pueda salir el embrión. No
+
+[00:34:22.480] tendría sentido que sea extremadamente
+
+[00:34:23.919] resistente
+
+[00:34:25.679] también. También
+
+[00:34:26.480] también cento que no soy biólogo.
+
+[00:34:28.513] [carraspeo]
+
+[00:34:30.159] Yo no sé
+
+[00:34:32.119] el caso. Buscamos un huevo.
+
+[00:34:35.839] Dando más pinta. Tamaño, peso, tiene
+
+[00:34:38.879] algún color.
+
+[00:34:40.720] Okay. Es más o menos como de este
+
+[00:34:43.040] tamaño. Empieza a hacerlo con con las
+
+[00:34:46.560] manos. Es como de este tamaño, eh, es de
+
+[00:34:50.280] un color medio pálido con pequeñas
+
+[00:34:54.399] manchitas, este, color negro y café, más
+
+[00:34:58.000] o menos.
+
+[00:35:00.280] Como un huevo, por eso buscamos [risas]
+
+[00:35:05.640] un huevo con forma de huevo de color
+
+[00:35:08.359] huevo. [risas] Bien, bien. Estamosando.
+
+[00:35:12.920] Tú también le has preguntado, ¿sabes?
+
+[00:35:15.019] [risas]
+
+[00:35:15.160] Claro. No, pero yo que sé.
+
+[00:35:17.160] Hay huevos en la en la naturaleza. Hay
+
+[00:35:19.119] huevos color verdes.
+
+[00:35:20.599] Venga, huevos que tenéis que descubrir
+
+[00:35:22.280] un de estos que os liáis con cualquier
+
+[00:35:24.160] cosa. [risas]
+
+[00:35:26.040] La biología siempre es entretenida.
+
+[00:35:28.880] No creo.
+
+[00:35:29.320] No me salgáis todo el rato. Rol. Venga,
+
+[00:35:30.560] tirar.
+
+[00:35:32.800] Vale,
+
+[00:35:33.960] vamos a pasar.
+
+[00:35:35.599] La única lo único que tenemos es lo que
+
+[00:35:38.599] tú has dicho, Blink. O sea, que tampoco
+
+[00:35:40.320] tenemos muchas más opciones.
+
+[00:35:41.720] Voy a hacer un barrido, Paul. Eh,
+
+[00:35:43.800] consumiré los conjuros que me pidas,
+
+[00:35:45.480] ¿vale? y y haré un barrido por todo el
+
+[00:35:47.000] pueblo intentando eh eh e estar
+
+[00:35:49.240] concentrado en escuchar la palabra como
+
+[00:35:52.000] en los [música]
+
+[00:35:53.839] de de de algún huevo y y haré como para
+
+[00:35:58.520] encontrar algún punto caliente, ¿sabes?
+
+[00:35:59.720] Para saber por dónde puedo empezar a
+
+[00:36:01.119] buscar.
+
+[00:36:02.520] Vale.
+
+[00:36:04.200] Eh,
+
+[00:36:05.599] ten cuidado con la taberna.
+
+[00:36:07.520] La palabra huevos en un en un pueblo
+
+[00:36:09.839] pirata puede sonar muchas veces, nunca
+
+[00:36:11.839] en el contexto que tú quieres. [risas]
+
+[00:36:13.560] Hazme tirada de inside,
+
+[00:36:17.800] pero eso, ¿vale? Y y el inside,
+
+[00:36:22.680] inside,
+
+[00:36:24.880] inside.
+
+[00:36:26.480] Vamos ahí.
+
+[00:36:28.800] Vale, pues
+
+[00:36:31.119] ves que cuánto dura esto un minuto.
+
+[00:36:33.319] Vale, pues te voy a hacer te voy a hacer
+
+[00:36:34.839] gastar más de uno, no te preocupar.
+
+[00:36:36.079] Bueno,
+
+[00:36:36.760] lanza otro,
+
+[00:36:37.920] ¿eh? Vas a ir pues el primer barrido,
+
+[00:36:41.680] supongo que pues pasas por todo el
+
+[00:36:43.240] pueblo, supongo, pues pues pasas por
+
+[00:36:44.760] aquí volando [música] y justo cuando
+
+[00:36:49.079] pasas por por la por la de esto del
+
+[00:36:52.560] médico, ¿sabes? Por por cerca del médico
+
+[00:36:55.800] escuchas un Bueno, sí, escuchas [música]
+
+[00:36:58.319] en tu mente un mm estar riquísimo.
+
+[00:37:01.359] Pedazo huevo,
+
+[00:37:03.750] [risas]
+
+[00:37:05.240] cabrón. Está hacendo una tortilla
+
+[00:37:06.400] normal. Pero bueno, eh, ya tengo una
+
+[00:37:08.440] pista por él. [risas]
+
+[00:37:12.280] Pero, ¿quién lo tiene?
+
+[00:37:14.240] Eh, pues eso, pues cuando escucho eso lo
+
+[00:37:16.480] que hago es mirar,
+
+[00:37:17.079] pero es tu primera vuelta, ¿eh? O sea,
+
+[00:37:18.440] no se ha acabado la vuelta, sino
+
+[00:37:19.440] simplemente has pasado por aquí.
+
+[00:37:21.319] Vale, pues sigo haciendo la vuelta. que
+
+[00:37:22.880] es más más palabra huevos.
+
+[00:37:24.880] Vale, pues [risas] nada, escucharás
+
+[00:37:27.560] quizá alguien chillar del rollo, [ __ ]
+
+[00:37:29.400] me han dado los huevos, ¿sabes? Y pues
+
+[00:37:31.915] [risas] 1 y un insultos de cosas de
+
+[00:37:35.800] huevos.
+
+[00:37:36.960] Está super concentrada ahí sudando con
+
+[00:37:38.920] con tanta palabra huevo por el pueblo,
+
+[00:37:40.240] ¿sabes? [ __ ] [ __ ] [risas]
+
+[00:37:42.359] No ha sido la idea. Más frío.
+
+[00:37:44.480] Y en en otro lado, ¿sabes? Digamos pues
+
+[00:37:47.319] por el por la parte del puerto, ¿sabes?
+
+[00:37:49.400] La zona de por aquí, ¿sabes? Escuchas a
+
+[00:37:51.640] un par de piratas hablar del rollo. Tú
+
+[00:37:53.560] viste el tamaño de ese huevo,
+
+[00:37:57.319] de su compañero, ¿no?
+
+[00:37:59.520] Esas son las pistas que te doy.
+
+[00:38:02.880] Vale, pues ya tengo un par de pistas.
+
+[00:38:04.440] Perfecto. Pues por eso, eh,
+
+[00:38:07.480] como escucho de estos de aquí e como
+
+[00:38:10.520] están hablando, me me voy a acercar un
+
+[00:38:12.240] poquito, sin que me vean mucho, pero que
+
+[00:38:14.640] puedo escuchar y seguir escuchando esta
+
+[00:38:15.760] conversación.
+
+[00:38:17.040] Vale,
+
+[00:38:17.440] el huevo este.
+
+[00:38:19.200] Vale, hazme una tirada de de sigilo.
+
+[00:38:25.440] Tienen estas. Opa. Eh, tengo algo yo. Es
+
+[00:38:29.960] para
+
+[00:38:31.599] checks. Tengo un [música] ocho. Pues voy
+
+[00:38:33.240] a usar un un point para hacer un
+
+[00:38:35.640] rerroll.
+
+[00:38:39.381] [risas]
+
+[00:38:40.040] Pues no sé,
+
+[00:38:41.480] me choco contra esa fruta morada que me
+
+[00:38:44.119] tomaba antes de de de ver a los
+
+[00:38:46.240] compañeros. Me está sentando un poquito
+
+[00:38:47.400] mal en la barriga y me una torta contra
+
+[00:38:49.599] la pared. No,
+
+[00:38:50.520] vale. Sí, ves esto y ves que estos
+
+[00:38:52.160] estaban hablando de Sí, era enorme ese
+
+[00:38:54.160] huevo y p y escuchan eso y dicen,
+
+[00:38:56.640] "Joder, ¿qué ha sido eso?" No lo sé.
+
+[00:38:59.119] Bueno, vamos a seguir trabajando. Y ve
+
+[00:39:00.800] que se ponen a trabajar.
+
+[00:39:04.359] Y nada, y antes de ir con los
+
+[00:39:06.119] compañeros, eh, voy a comprobar un
+
+[00:39:07.880] momento por la ventana del del médico a
+
+[00:39:10.319] ver qué se está a ver qué está
+
+[00:39:11.800] preparando, si un huevo normal o si veo
+
+[00:39:14.000] ahí algo muy grande.
+
+[00:39:16.240] Vale, pues nada, te acercas te
+
+[00:39:18.599] acercarías a lo del médico, empezarías a
+
+[00:39:22.119] mirar por la ventanita, ¿sabes? Ves el
+
+[00:39:25.040] médico como que te está dando la
+
+[00:39:26.720] espalda, que no ves lo que está haciendo
+
+[00:39:28.160] y de repente ves un pum, ves como sale
+
+[00:39:30.160] un huevo dando vueltas.
+
+[00:39:32.440] Pedazo huevo me voy a hacer. Pero,
+
+[00:39:35.712] [resoplido]
+
+[00:39:36.560] ¿no ves cáscara?
+
+[00:39:40.040] Eso sí, hay un hay un tío aquí muerto.
+
+[00:39:44.040] Y ya os dejo la mismación.
+
+[00:39:46.440] No,
+
+[00:39:50.520] son son locos. Son locos. Este está
+
+[00:39:52.680] loco.
+
+[00:39:53.079] No hizo ningún Nozo ningún huevo grande,
+
+[00:39:55.000] pero bueno, pues [risas]
+
+[00:39:57.520] vuelvo así Gabiz baja volando así como a
+
+[00:39:59.359] letos cortos y como como muy muy
+
+[00:40:01.160] bajitas, ¿sabes? La los compañeros y
+
+[00:40:04.480] dónde estoy
+
+[00:40:06.040] allí arriba.
+
+[00:40:07.560] Vale. Y con los compañeros y pues no no
+
+[00:40:11.400] habido mucha suerte, ¿eh? Al menos el
+
+[00:40:14.119] médico parecía que se estaba comiendo un
+
+[00:40:15.440] pedazo de huevo, decía, pero pero luego
+
+[00:40:17.280] era un huevito, tampoco está exagerando.
+
+[00:40:20.480] Y sí que había unos marineros ahí al
+
+[00:40:22.560] lado de de del bar de Bonnie ahí en el
+
+[00:40:25.920] muelle que estaban hablando algo así de
+
+[00:40:27.440] que vieron un huevo muy grande el otro
+
+[00:40:28.800] día. Tampoco he podido indagar mucho más
+
+[00:40:31.160] y no sé
+
+[00:40:32.920] y no sé muy bien de qué hablan, si de el
+
+[00:40:36.240] de Cislali o o si el de un compañero.
+
+[00:40:40.760] Okay, ya con eso para mí es [música]
+
+[00:40:42.000] suficiente y empiezo a caminar con con
+
+[00:40:45.160] paso más fuerte y y en y molesta hacia
+
+[00:40:48.920] donde están los estos
+
+[00:40:51.960] que ni siquiera sé dónde está. A ver,
+
+[00:40:55.000] Blin, guíame. ¿Dónde están estos perros?
+
+[00:40:57.000] Allá, allá. y pongo encima de tu hombro
+
+[00:40:59.400] y y voy señalando aquellos dos del
+
+[00:41:00.880] fondo.
+
+[00:41:01.560] Si ves a un par de piratas ahí pues
+
+[00:41:03.560] moviendo cajas, ¿sabes? Y ves que van
+
+[00:41:05.800] moviendo cajas, pero ves que van
+
+[00:41:07.040] abriendo alguna y van mangando algo
+
+[00:41:09.839] también.
+
+[00:41:11.440] Y ahí va la mamá bien molesta. Pu pueden
+
+[00:41:15.240] escuchar hasta las chanclas rebotando en
+
+[00:41:17.900] [música]
+
+[00:41:18.880] el suelo.
+
+[00:41:19.800] Ah, rebotan. Yo pensaba que no levantaba
+
+[00:41:21.240] los pies del suelo.
+
+[00:41:22.839] Suena, suenan como los cuartos al lado
+
+[00:41:24.640] del que duermo. [risas]
+
+[00:41:26.800] Ándale. Así.
+
+[00:41:29.440] Estos listos.
+
+[00:41:33.000] Uy, lo que me voy a llevar. Uh, esto que
+
+[00:41:34.760] brilla.
+
+[00:41:36.359] Me me les pongo atrás
+
+[00:41:40.200] y ves que se gira y [ __ ] Y ves que se
+
+[00:41:42.079] asusta y dice, "Joder, señora, apártese.
+
+[00:41:46.920] ¿Dónde se llevaron el huevo?
+
+[00:41:50.520] Qué huevo.
+
+[00:41:55.079] Acaban de decir que qué pedazo de huevo
+
+[00:41:58.319] que vieron y que no sé qué cuánta cosa.
+
+[00:42:00.760] Me dicen o qué.
+
+[00:42:03.079] Ah, team. Y ves que señal de atrás
+
+[00:42:09.520] y [resoplido] ves que team está de
+
+[00:42:10.440] rollo. ¿Qué? Y ves que estamos pues de
+
+[00:42:12.359] espaldas cogiendo algunas cosas de una
+
+[00:42:13.920] caja.
+
+[00:42:15.760] Me pongo
+
+[00:42:19.359] a ver par de inútiles. Me van a decir en
+
+[00:42:23.640] dónde vieron ese huevo.
+
+[00:42:26.319] V que team se gira.
+
+[00:42:27.480] Les juro, les juro que me los voy a
+
+[00:42:30.160] cargar con la chancla, así que me van
+
+[00:42:33.400] diciendo o qué.
+
+[00:42:35.880] Y ves que el primero que está así dice,
+
+[00:42:38.440] "Bueno, Tim, te dejo para que le
+
+[00:42:40.319] expliques a la señora." Y le das
+
+[00:42:41.520] palmaditas y dice, "Encantado.
+
+[00:42:49.880] Señora, pero fue team. Ha hablado team.
+
+[00:42:55.760] A ver, los dos estaban hablando. A mí me
+
+[00:42:57.680] da igual.
+
+[00:42:59.559] E bueno, es que
+
+[00:43:00.839] los dos estaban hablando, así que me van
+
+[00:43:02.800] diciendo,
+
+[00:43:05.000] vale, pero era un huevo grande que se
+
+[00:43:07.280] llevaron los los de la marina el otro
+
+[00:43:09.720] día en el ataque.
+
+[00:43:12.079] ¿A dónde se lo llevaron?
+
+[00:43:14.480] Yo que sé, supongo que para el bosque.
+
+[00:43:18.240] Marina,
+
+[00:43:22.240] ¿de [resoplido] acuerdo?
+
+[00:43:24.040] Y obviamente les voy a dar su respectivo
+
+[00:43:26.040] chanclazo leve [risas] a los dos porque
+
+[00:43:28.480] ya me tienen harte. ¿Qué hemos hecho?
+
+[00:43:32.800] Venga, fuera de aquí.
+
+[00:43:34.400] Pasa por robar.
+
+[00:43:36.680] [ __ ] que me mat.
+
+[00:43:38.599] No, pues a lo mejor
+
+[00:43:41.079] le das a uno, le das a team. [ __ ]
+
+[00:43:42.760] daño máximo.
+
+[00:43:44.400] Ojo, ahí tomar por culo. Team.
+
+[00:43:46.119] Ah. Ah, pero señora. Ah, ah. Y ves que
+
+[00:43:48.920] se va y se cae
+
+[00:43:50.559] y al otro.
+
+[00:43:53.000] con el kraken este. Ah,
+
+[00:43:54.119] es verdad que había un kraken. Pues
+
+[00:43:55.200] desapareció.
+
+[00:43:56.760] Adiós,
+
+[00:43:59.079] no
+
+[00:44:00.990] [risas]
+
+[00:44:04.160] tenías tanto por lo que vivir.
+
+[00:44:05.720] Sí, Tim ya no está. Tim ha muerto, mamá,
+
+[00:44:07.839] que lo sepas. Vado dinero o algo,
+
+[00:44:10.319] ¿no? Se ha caído, ¿sabes? Y de repente,
+
+[00:44:12.200] como está ahí medio flotando, vosotros
+
+[00:44:13.760] estabais viendo al otro y de repente Tim
+
+[00:44:15.240] ha hecho ha desaparecido.
+
+[00:44:18.020] [risas] Juraría que estaba por aquí.
+
+[00:44:21.119] Vale,
+
+[00:44:22.839] burbujitas.
+
+[00:44:26.000] Bueno, habis hecho contentes con el
+
+[00:44:26.920] espíritu del mar.
+
+[00:44:28.160] Qué raro.
+
+[00:44:29.200] El espíritu de quién aquí no tiene
+
+[00:44:31.559] espíritu.
+
+[00:44:33.599] Las traiciones est aquí son raras.
+
+[00:44:37.319] [ __ ] mamá, ¿qué qué impones?
+
+[00:44:41.600] [risas]
+
+[00:44:44.240] Okay, entonces
+
+[00:44:46.480] dijeron que se lo llevaron a este lejos
+
+[00:44:48.680] de aquí. Vamos a empezar a seguir algún
+
+[00:44:51.160] rastro o algo parecido. Entonces sí
+
+[00:44:52.920] fueron los de la marina.
+
+[00:44:55.280] Ay, enfrentar
+
+[00:44:57.400] a enfrentaros a la marina.
+
+[00:45:00.400] Ya una vez me enfrenté a ellos.
+
+[00:45:02.800] No necesariamente. Solo tenemos que
+
+[00:45:04.280] [ __ ] el huevo. Si le explicamos de que
+
+[00:45:06.400] le pertenece a mamá, la marina no serán
+
+[00:45:08.720] tan tan malos.
+
+[00:45:10.960] Créemo.
+
+[00:45:11.480] Recuerda aquella vez recuerda aquella
+
+[00:45:13.400] vez que partió un capitán de la Marina
+
+[00:45:15.599] por la mitad.
+
+[00:45:16.920] Además son débiles. [risas]
+
+[00:45:18.400] Atacaron por Maro o atacaron por tierra
+
+[00:45:20.200] en la marina.
+
+[00:45:24.040] Les
+
+[00:45:24.200] hablina
+
+[00:45:27.451] [risas]
+
+[00:45:28.920] debería transformar, ¿no? Entonces
+
+[00:45:31.240] complicado.
+
+[00:45:32.359] Depende de una base cerca que estarán
+
+[00:45:35.119] por aquí rastros. No sé.
+
+[00:45:37.920] A ver, ¿sabéis dónde está la marina? Al
+
+[00:45:39.280] menos mam sabes dónde está la marina
+
+[00:45:40.599] ahora mismo.
+
+[00:45:42.200] Sí. Puerto Aurora.
+
+[00:45:44.800] Yo no tengo una idea.
+
+[00:45:46.880] A ver, entonces síganme. Creo que ya
+
+[00:45:48.520] tengo una idea de en dónde está.
+
+[00:45:54.319] No sé hasta qué punto va a ser para
+
+[00:45:55.520] enfrentarse a la marina, pero
+
+[00:45:58.000] eh quiero buscar a este algún rastro de
+
+[00:46:03.000] paja o algo parecido del nido que se
+
+[00:46:05.441] [música] les haya caído cerca de donde
+
+[00:46:06.920] está el este el barco, porque obviamente
+
+[00:46:09.480] tuvieron que bajarlo del barco
+
+[00:46:12.079] y este [música]
+
+[00:46:13.440] y caminar con él.
+
+[00:46:15.520] Una tirada de supervivencia.
+
+[00:46:25.200] Pues no vas a encontrar lo que se dice
+
+[00:46:28.920] marcas de lo del nido, ¿vale? Porque ya
+
+[00:46:32.280] te ha dicho Mingo, Mango y el otro que
+
+[00:46:35.400] tiraron la, o sea, seguramente tiraron
+
+[00:46:37.160] eso. Ellos lo tiraron el nido ellos
+
+[00:46:38.960] porque encontraron un nido vacío.
+
+[00:46:41.760] Pero si vas a encontrar como [música] un
+
+[00:46:43.839] pequeño rastro de que han estado
+
+[00:46:45.920] arrastrando algo
+
+[00:46:48.599] grande el huevo.
+
+[00:46:52.559] Ya voy, voy a este a [música] empezar a
+
+[00:46:54.400] seguir ese rastro de arrastre.
+
+[00:46:57.680] Síganme, niños, por favor. Creo que esto
+
+[00:47:00.040] va a estar un poquito complicado.
+
+[00:47:06.480] Peligroso va a ser.
+
+[00:47:08.760] Recupero conjuritos.
+
+[00:47:11.119] A ver.
+
+[00:47:15.400] Y nada, pues os encamináis hacia el sur,
+
+[00:47:18.599] hacia,
+
+[00:47:20.559] bueno, a la salida sur de Shiaru y os
+
+[00:47:23.640] entráis en la jungla.
+
+[00:47:26.662] [resoplido] Hm hmm.
+
+[00:47:36.599] Y vos dor
+
+[00:47:38.800] vais siguiendo el pequeño rastro, veis
+
+[00:47:40.480] que mama va siguiendo hacia el sur,
+
+[00:47:43.480] ¿sabes? en algunos tramos, pues ves como
+
+[00:47:46.079] que como que sabes, desaparecieda, pero
+
+[00:47:50.480] ves, por ejemplo, que hay un tronco pues
+
+[00:47:51.880] quizá ha caído en el suelo y en ese
+
+[00:47:53.800] punto pues desaparece, que seguramente
+
+[00:47:55.280] pues lo habrán pillado entre dos y lo
+
+[00:47:57.119] habrán pasado del otro lado. Y bueno,
+
+[00:47:59.839] vais siguiendo ese ese pequeño rastro,
+
+[00:48:04.480] así que vosotros mismos.
+
+[00:48:09.359] La mamá va con una velocidad ahora un
+
+[00:48:11.839] poquito más de como siempre va, que
+
+[00:48:14.319] siempre va a su tiempo arrastrando los
+
+[00:48:16.839] pies, toda tranquilita. Esta vez no.
+
+[00:48:20.160] Esta vez viene apresurada y con unas
+
+[00:48:22.993] [música] ansias que la carcoman.
+
+[00:48:25.000] Hazme una tirada de percepción.
+
+[00:48:26.280] Entonces,
+
+[00:48:28.920] pero
+
+[00:48:30.880] ma mamá, ves más tranquilo.
+
+[00:48:34.280] Vale, pues ves que vas así de rápido,
+
+[00:48:36.280] vas muy rápido avanzando y ves que
+
+[00:48:38.559] cuando llegas más o menos a esta zona de
+
+[00:48:40.720] aquí,
+
+[00:48:42.240] ¿vale? que así te vas a tropezar, pero
+
+[00:48:45.319] ves
+
+[00:48:48.200] dos cadáveres
+
+[00:48:51.240] justo enfrente.
+
+[00:48:55.000] Okay.
+
+[00:48:57.079] A huevo por pendej [risas]
+
+[00:49:02.640] son de la marina estos.
+
+[00:49:05.599] Me acerco para comprobar si son de la
+
+[00:49:07.400] marina o no. Levanto con la espada un
+
+[00:49:10.240] trozo de la chaqueta.
+
+[00:49:11.920] Sí. Sí, lo era.
+
+[00:49:14.799] La choqueta es inconfundible.
+
+[00:49:17.799] A ver qué llevan. Mira si lleva algún
+
+[00:49:19.119] documento o algo.
+
+[00:49:20.240] Vamos ver qué ideas tienen,
+
+[00:49:22.920] ¿eh? Sí, hace una tirada de medicina.
+
+[00:49:28.079] Yo voy a hacer caso a a Blí mientras y
+
+[00:49:30.920] voy a ver si tienen algo, en plan algún
+
+[00:49:33.160] documento o lo que sea.
+
+[00:49:36.680] Eh, tienen heridas. ¿De qué? Heridas.
+
+[00:49:39.559] Están muertos.
+
+[00:49:41.280] Si tienen heridas, por lo menos sabemos
+
+[00:49:42.319] que ha sido una muerte violenta.
+
+[00:49:44.799] Esto va a quedar muy bien porque
+
+[00:49:47.799] Winscore,
+
+[00:49:49.359] ves que te agachas,
+
+[00:49:52.200] empiezas a a mirar, empiezas a ver,
+
+[00:49:55.960] parece están puestos como lo típico que
+
+[00:49:59.200] hubiesen hecho un combate y hubiesen
+
+[00:50:01.440] refriegado entre ellos y se hubiesen
+
+[00:50:02.880] matado entre ellos. están como una
+
+[00:50:04.160] posición así, pero a la que les miras la
+
+[00:50:06.680] chaqueta, empiezas a mirarles, ves que
+
+[00:50:08.480] no tienen marcas de cortes ni de balas y
+
+[00:50:11.520] ves que tienen marcas de arañazos y
+
+[00:50:14.839] mordidas. Y ves que justo en ese momento
+
+[00:50:19.480] tú y mamá, porque sois los únicos que
+
+[00:50:22.440] tenéis percepción,
+
+[00:50:24.824] [risas] vais a ver que por los lados
+
+[00:50:27.920] saldría unos morros de unas bestias y
+
+[00:50:32.680] sería el momento de decir chicalista,
+
+[00:50:35.040] boscada,
+
+[00:50:36.960] chicalista,
+
+[00:50:38.480] dinosaurios,
+
+[00:50:42.680] mira
+
+[00:50:43.799] el [ __ ]
+
+[00:50:49.640] Vamos, Blin.
+
+[00:50:50.599] Ah, he sacado un poderosísimo tres.
+
+[00:50:54.400] Ten iniciativa para sacar un tres.
+
+[00:50:58.559] Mira, Blim va con todo, ¿eh?
+
+[00:51:01.280] Me cago en la leche. [risas]
+
+[00:51:03.599] Vale, pues
+
+[00:51:05.559] nada. Uy,
+
+[00:51:09.480] ¿dónde está esto? Aquí. Eh, eh, eh,
+
+[00:51:13.000] perdón.
+
+[00:51:14.480] Eh, está
+
+[00:51:15.240] la ventaja es que como no lo estamos
+
+[00:51:16.960] viendo, vas a verlos todos cuando
+
+[00:51:20.799] cuando ya te estén atacando. Claro,
+
+[00:51:22.760] ¿eh? No, porque ahora lo explican.
+
+[00:51:25.359] Vale, pues veis que nada, pues ves que
+
+[00:51:29.040] sale el primero de de ahí dentro y mete
+
+[00:51:34.400] un salto, va corriendo hacia hacia
+
+[00:51:37.160] Tarian
+
+[00:51:38.720] y va a atacarte Zarial.
+
+[00:51:42.359] Tarial. Blink, ¿estáis sorprendidos?
+
+[00:51:48.280] Eso es que tiras con ventaja, ¿no?
+
+[00:51:49.799] Eso que tiro con ventaja y no tienes
+
+[00:51:51.240] reacción y no tienes tur.
+
+[00:51:55.040] Ah.
+
+[00:51:55.359] Ah, bueno.
+
+[00:51:56.280] Emboscada. Ah,
+
+[00:51:59.145] [risas]
+
+[00:52:01.119] es que empat ha sido 16.
+
+[00:52:03.880] Primer ataque.
+
+[00:52:07.240] Te lo tengo ahí. Recibo, recibo un
+
+[00:52:08.839] pequeño mordiquito.
+
+[00:52:11.359] [ __ ]
+
+[00:52:12.240] Segundo ataque. [resoplido]
+
+[00:52:14.079] Ahí está. [risas]
+
+[00:52:17.760] Y tercer ataque.
+
+[00:52:24.040] Y este falla. Vale, pues no te puedo
+
+[00:52:25.520] hacer lo que quería hacerte.
+
+[00:52:28.000] Pues Blin, está sorprendida.
+
+[00:52:30.520] Nada, le toca a otro de esos. bichitos.
+
+[00:52:34.000] Hola,
+
+[00:52:34.760] que está por aquí que nada, pues ves que
+
+[00:52:38.319] sale pues a toda velocidad y va a atacar
+
+[00:52:40.920] a va a saltar hacia winscore. Tú winscor
+
+[00:52:43.799] normal.
+
+[00:52:44.359] Bueno,
+
+[00:52:44.599] que tú tienes percepción, no las has
+
+[00:52:45.920] visto
+
+[00:52:46.440] ya. Bueno,
+
+[00:52:48.640] conociéndome
+
+[00:52:51.720] te va a dar un mordisco
+
+[00:52:55.640] y después pues
+
+[00:52:56.559] tien los dientes un poco chuecos, o sea,
+
+[00:52:59.160] los mordiscos hacen menos daño que los
+
+[00:53:01.240] ritmo. Sí.
+
+[00:53:02.640] Hombre, los velociractores no son
+
+[00:53:04.839] conocidos precisamente por su mordida,
+
+[00:53:06.079] sino por su eh garra de 5 cm de longitud
+
+[00:53:09.440] que era para degolarte.
+
+[00:53:12.359] No, pero estos no son velocrates, son
+
+[00:53:15.880] no sé qué pone aquí. Dinochiliponicus
+
+[00:53:26.319] el tío.
+
+[00:53:27.480] Vamos a empezar.
+
+[00:53:30.280] Eso
+
+[00:53:33.200] deus.
+
+[00:53:35.880] Uh,
+
+[00:53:39.079] primera chancla contra uno.
+
+[00:53:43.160] Vale, que le metes una [ __ ]
+
+[00:53:45.640] Está blinga ya haendo leader en su
+
+[00:53:47.200] hombro.
+
+[00:53:49.160] Recuerda que tenéis esa flecha especial
+
+[00:53:51.000] y [risas] que tenis multiataque.
+
+[00:53:55.720] Ay, vamos a tirarle otra.
+
+[00:53:58.720] Y tienes esa flecha especial, ¿eh?
+
+[00:54:00.079] Recuerda,
+
+[00:54:03.079] ¿qué?
+
+[00:54:03.680] La flecha especial. Tú tienes una flecha
+
+[00:54:05.280] especial.
+
+[00:54:07.839] Ajá.
+
+[00:54:09.440] Ah, espérate. Si es cierto que aquí le
+
+[00:54:12.520] voy a tirar de este.
+
+[00:54:14.880] Se se me había olvidado.
+
+[00:54:17.400] Y el segundo ataque
+
+[00:54:18.079] los daños psíquicos
+
+[00:54:21.559] y
+
+[00:54:24.480] ya no me acuerdo qué vas a hacer.
+
+[00:54:25.799] Aguanta.
+
+[00:54:27.440] ataque. El segundo ataque tienes dos
+
+[00:54:28.640] ataques. Ataca dos veces
+
+[00:54:31.119] con la Nike, ¿verdad? Sí, con la Nike.
+
+[00:54:34.240] La otra chancla te sac las buenas Nike.
+
+[00:54:38.319] Estas son Nike porque las lanza,
+
+[00:54:40.200] porque eso son Nike.
+
+[00:54:42.200] Impact.
+
+[00:54:45.119] Vale. Y
+
+[00:54:45.720] [ __ ] ese sí que lo has lanzado.
+
+[00:54:47.160] Mueres, perro.
+
+[00:54:48.240] Pues uno menos. Vale. Y ahora te queda
+
+[00:54:50.839] movimiento y bonus. Bonus. Poco tienes,
+
+[00:54:53.520] pero movimiento sí.
+
+[00:54:57.720] Me muevo acá y ahorita
+
+[00:55:01.079] el hueso. Hemos visto de dos
+
+[00:55:02.480] zapatillazos como matan a un dinosaurio.
+
+[00:55:05.040] Sí, habéis visto dos chanclas a salir
+
+[00:55:07.160] volando y pa pa le han dado al
+
+[00:55:08.400] dinosaurio y lo ha tumbado y nada, pues
+
+[00:55:10.520] veríais a a otro de esos velocirectores
+
+[00:55:13.240] que nada, pues va hacia Winscore y va a
+
+[00:55:15.839] intentar pues atacar un mordisquito.
+
+[00:55:23.039] Mordisquito, no.
+
+[00:55:25.119] que a Winsor a él no me da tiempo a
+
+[00:55:27.520] tirar el de esto. Bueno, es igual.
+
+[00:55:29.039] Ah, sí, sí, claro. Sí,
+
+[00:55:30.880] sí que a no lo conozco, pero cuando veo
+
+[00:55:32.839] que se salta por al lado que que a mí
+
+[00:55:34.799] también. Ah, no se sorprendido aún.
+
+[00:55:37.440] Perdón, aún no puedo hacer toma.
+
+[00:55:40.799] He sorprendido aún
+
+[00:55:42.079] el segundo ataque
+
+[00:55:46.319] que nada. Y el tercero
+
+[00:55:53.440] que era poco.
+
+[00:55:57.559] Vale, pues nada, el siguiente pues veis
+
+[00:56:01.359] que salta este
+
+[00:56:04.400] de aquí y nada, pues va a salir
+
+[00:56:05.920] saltando. Espera, voy a quitar el
+
+[00:56:07.520] muerto.
+
+[00:56:09.599] Va a ir saltando y Arian,
+
+[00:56:13.839] ¿ves que va por ti?
+
+[00:56:21.039] Vale, que te queda. Ah, porque tú vas
+
+[00:56:22.920] con mandoble. Claro.
+
+[00:56:24.760] Digo, ¿por qué te entran?
+
+[00:56:27.520] Porque voy con con mandoble.
+
+[00:56:30.920] A ver, el segundo ataque
+
+[00:56:35.960] y el tercero.
+
+[00:56:37.079] Madre, madre, madre. Ya no
+
+[00:56:39.960] tres veces. Son bichos asquerosos.
+
+[00:56:46.440] Ya suéltenla, por favor, [risas]
+
+[00:56:48.359] ya suéltenme
+
+[00:56:50.160] y nada, veis que va a salir otro y nada,
+
+[00:56:54.920] pues veis que ¿Dónde está este? Aquí
+
+[00:56:57.000] hay otro por ahí. Madre mía, emboscada
+
+[00:56:59.799] el otro. Pues nada, pues mamá va a ir a
+
+[00:57:02.079] por ti,
+
+[00:57:03.319] ¿sabes? salta entre esto y va por ti que
+
+[00:57:05.440] tú no tienes
+
+[00:57:09.960] tú no estás sorprendida, pero ves que te
+
+[00:57:11.400] muerde.
+
+[00:57:16.359] Ay, espérate.
+
+[00:57:18.720] Vale, pues el zarpazo.
+
+[00:57:25.520] No [ __ ]
+
+[00:57:26.839] no [ __ ] Cúrate, cúrate.
+
+[00:57:30.240] Y el tercero
+
+[00:57:35.240] que este falló yal tu turno.
+
+[00:57:40.280] Ah, no, tu turno que tú estás
+
+[00:57:41.240] sorprendido.
+
+[00:57:41.680] Yo estaba sorprendida. O sea, tengo que
+
+[00:57:43.599] encima de ti, digo, no puedo.
+
+[00:57:48.920] Estoy pensando, ¿eh? Vale, primero que
+
+[00:57:51.280] nada, eh, mis cosas de bonus action
+
+[00:57:54.240] sirale.
+
+[00:57:55.359] A ver
+
+[00:57:56.640] si quiere castearse.
+
+[00:57:58.760] Ah, lo casteo. No quiere salir el
+
+[00:58:01.839] V. No te preocupes.
+
+[00:58:04.520] Y ahora estoy yendo fatal el fundri
+
+[00:58:09.920] y voy a ¿Qué hago? ¿Aco o curo?
+
+[00:58:15.960] ¿Cómo lo vais viendo?
+
+[00:58:17.400] Estos modos se los va a cargar la [ __ ]
+
+[00:58:19.839] Como tú quieras. [risas] Aqua puede
+
+[00:58:21.200] curar también.
+
+[00:58:24.945] [risas]
+
+[00:58:26.960] Esa risa no me da mucha confianza.
+
+[00:58:29.520] Voy curer.
+
+[00:58:32.319] Yo es que curo un poquito, pero bueno,
+
+[00:58:34.079] vamos a intentarlo.
+
+[00:58:41.200] Mira, un poquito de vida.
+
+[00:58:42.559] Vale, pues decar un poco.
+
+[00:58:46.240] Nada. A ver.
+
+[00:58:48.400] Vale, pues le toca al siguiente bichito
+
+[00:58:51.799] que nada, pues Tarial va a ir a intentar
+
+[00:58:55.319] morderte.
+
+[00:58:58.680] No [ __ ]
+
+[00:59:02.440] Vaya,
+
+[00:59:02.920] pero pero vamos a ver, Paul, pero vamos
+
+[00:59:05.039] a ver estos bichos.
+
+[00:59:07.119] Ahora po sido sorprendido. Ahora estoy
+
+[00:59:09.200] round o ahora ya estoy en en ronda.
+
+[00:59:11.480] Ahora sí que lanzaría el
+
+[00:59:13.720] Ahora sí que lanzaría el roll el
+
+[00:59:18.280] Hilbery de blanzo. Ya está.
+
+[00:59:21.039] Vale.
+
+[00:59:21.920] Y ventaja y ventaja y ventaja
+
+[00:59:26.119] que le hará falta.
+
+[00:59:29.839] ¿A quién?
+
+[00:59:31.599] A Dariel. Dariel. Dariel.
+
+[00:59:34.440] Sí. Dariel. El segundo ataque.
+
+[00:59:39.319] Bueno, y es menos con los [ __ ] [risas]
+
+[00:59:41.000] bichos estos, ¿no? Menos, o sea, tengo
+
+[00:59:43.520] que sacar estos bichos.
+
+[00:59:44.319] Pero madre mía, pero es que este [ __ ]
+
+[00:59:47.400] madre mía, viene con clen Buterol en
+
+[00:59:49.680] pena
+
+[00:59:50.160] y falla. Eh,
+
+[00:59:52.400] es CR1, eh, vosotros sois seis y s, eh,
+
+[00:59:54.839] eso es vuestro cosa, así que
+
+[00:59:57.400] si no lo que son las tiradas
+
+[00:59:59.880] son dinosaurioso, eh, veo dificultad
+
+[01:00:02.039] para traquetear a los enemigos y me voy
+
+[01:00:03.799] a alivar un poquito para para estar más
+
+[01:00:05.680] a salvo, ¿eh? Me voy a levantar hasta 25
+
+[01:00:08.079] pies, o sea, que me muevo 20,
+
+[01:00:10.960] ¿vale?
+
+[01:00:11.359] Y voy a intentar alejar a un par de
+
+[01:00:12.960] ellos, eh, lanzando un poquito de
+
+[01:00:14.680] metamagia para hacer un hechizo como
+
+[01:00:16.799] como bonus con un wickenet. Vale,
+
+[01:00:19.680] lo uso ya y te lanzo y te lanzaré dos
+
+[01:00:22.760] disant whispers para intentar alejar a a
+
+[01:00:24.799] estos y que se llevenas de oportunidad.
+
+[01:00:26.640] Vale,
+
+[01:00:27.240] uno por aquí que te lo lanzo un poquito
+
+[01:00:29.200] subido de nivel.
+
+[01:00:36.880] Vale. Y ves que falla. Se va a mover.
+
+[01:00:38.599] ¿Queréis pegarme?
+
+[01:00:41.440] Hombre, si
+
+[01:00:43.559] si te vas a mover y sales de nuestro
+
+[01:00:45.319] esto. Yo sí. Yo a ese le quiero pegar.
+
+[01:00:47.799] El combo de whispers
+
+[01:00:50.640] claro.
+
+[01:00:51.559] Bueno, pues
+
+[01:00:52.520] tari whisc podéis pegarle a este [ __ ]
+
+[01:00:54.280] si queréis como usando vuestra reacción.
+
+[01:00:55.920] Claro,
+
+[01:00:57.640] un momento porque ahora digo que me ha
+
+[01:01:00.200] salido la
+
+[01:01:03.240] voy a pegarle.
+
+[01:01:05.520] Venga,
+
+[01:01:06.240] de momento yo no voy a pegarle.
+
+[01:01:10.039] En principio deberías matarlo.
+
+[01:01:12.079] No [ __ ]
+
+[01:01:13.920] Sí, no. E en un principio si no si los
+
+[01:01:16.839] dados me ayudas.
+
+[01:01:18.559] Vaya tú le das.
+
+[01:01:20.760] No, yo no, yo no, yo no. Ya he dicho que
+
+[01:01:22.160] no mantenerme.
+
+[01:01:23.680] Pues
+
+[01:01:25.480] y al de más abajo, pues lo voy a tirar
+
+[01:01:28.359] al más arriba.
+
+[01:01:29.720] Eh, ese normal.
+
+[01:01:36.000] Vale, que también falla. Y mama, le
+
+[01:01:37.480] quieres pegar como reacción.
+
+[01:01:39.359] Obviamente
+
+[01:01:41.440] chancletazo. ¿Para qué voy a lejos?
+
+[01:01:44.799] Órale, perro.
+
+[01:01:47.640] Ya se la sabe, perro. [risas]
+
+[01:01:51.119] Madre mía, pero
+
+[01:01:52.440] bien emperradísima la no. O sea,
+
+[01:01:56.400] vale,
+
+[01:01:58.359] pues hasta luego. Y se mete para el
+
+[01:02:00.559] bosque.
+
+[01:02:00.799] Vale. Y me quedaban 10 pies de
+
+[01:02:02.520] movimiento que me alejaré un poquito
+
+[01:02:04.520] hacia aquí.
+
+[01:02:06.599] Vale. Y todo
+
+[01:02:08.279] pues mamá, tu turno.
+
+[01:02:11.079] Neta que la mamá viene emperradísima, te
+
+[01:02:13.200] lo juro, ¿eh? A ver,
+
+[01:02:14.559] Daniel está muy mal, yo creo que
+
+[01:02:15.599] deberías curar.
+
+[01:02:16.680] Sí, ahí va.
+
+[01:02:18.760] No, con esto no. [risas]
+
+[01:02:20.599] Tranquilo,
+
+[01:02:23.119] cabrón. Con
+
+[01:02:25.400] con lo chungo, ¿no? Con lo que lo mata.
+
+[01:02:27.953] [risas]
+
+[01:02:32.160] Ay, ¿por qué? Ay, no. ¿Cómo crees? se va
+
+[01:02:34.720] a curar con la técnica más importante de
+
+[01:02:36.960] curarse. Muerte, créate otro nuevo
+
+[01:02:38.880] personaje.
+
+[01:02:40.480] Bueno, empieza con toda la vida
+
+[01:02:42.079] y revives. Exacto. Con toda la vida y
+
+[01:02:43.680] con todos los hechizos y todo.
+
+[01:02:44.839] De nivel uno. Eres un mago de nivel uno
+
+[01:02:46.799] con seis de vida. [risas]
+
+[01:02:49.160] No, no, no. Constitución negativa.
+
+[01:02:50.559] Constitución negativa.
+
+[01:02:52.400] Vale,
+
+[01:02:52.599] yo sigo con mi 12 de armadura.
+
+[01:02:55.400] Creo que ya puedo ya
+
+[01:02:57.520] has hecho dos ataques.
+
+[01:02:59.000] Ah, no, espérate, eh, aguántame.
+
+[01:03:00.960] Segundo ataque. Tienes dos ataques, ¿eh?
+
+[01:03:03.119] Por eso. Ahí va.
+
+[01:03:04.680] Este y la palgata de nuevo.
+
+[01:03:07.680] Crítico, por favor. O uno, por favor.
+
+[01:03:10.640] Uh.
+
+[01:03:11.079] Ah, pues están ahí.
+
+[01:03:13.200] 319 que lleva mamá, ¿eh?
+
+[01:03:16.480] Y daño máximo
+
+[01:03:21.440] ha venido por su huevo y no se irá sin
+
+[01:03:23.680] él,
+
+[01:03:24.000] ¿no? [risas]
+
+[01:03:25.359] Pues nada, veis que el otro bichito pues
+
+[01:03:27.839] winscor ves que te va pues primero una
+
+[01:03:30.760] mordisquita.
+
+[01:03:33.839] Una de tres. Tengo reacción aún.
+
+[01:03:38.440] Intento protegerlo desde aquí arriba.
+
+[01:03:39.640] Estoy aquí como en plan torreta,
+
+[01:03:42.119] de hechizos. Voy a a intentar evitar
+
+[01:03:44.079] este
+
+[01:03:45.839] crítico, aunque lleva armadura este
+
+[01:03:47.200] señor.
+
+[01:03:48.240] Vale, la ventaja para [ __ ] de
+
+[01:03:51.640] la ventaja
+
+[01:03:53.640] tiene una. Esta se la daré a
+
+[01:03:55.599] No, pero si no la ha usado se pierde.
+
+[01:03:57.960] Ah, pues a Winson. Vale, pues primer
+
+[01:04:01.200] ataque.
+
+[01:04:04.200] A mamá hoy no le hace falta la la
+
+[01:04:06.000] ventaja así viendo esta
+
+[01:04:07.039] verdad hoy se ve que viene [risas]
+
+[01:04:10.119] hoy mamá viene chetadísima
+
+[01:04:12.400] y ves que solo tomas ataques pues no te
+
+[01:04:14.799] dan en la armadurac
+
+[01:04:17.359] ya han metido dos críticos
+
+[01:04:19.480] para quemar
+
+[01:04:20.760] nada el siguiente [ __ ] pues va a volver
+
+[01:04:23.400] aquí 30 pies yal va a saltar contra ti
+
+[01:04:27.164] [risas]
+
+[01:04:27.960] otra vez que maña ya me tiene este [ __ ]
+
+[01:04:30.559] y veis que esta vez salta a por tío a
+
+[01:04:33.440] ver Sí, te entra.
+
+[01:04:35.240] Ah, ahora sí voy a intentar derribar.
+
+[01:04:37.400] Estos son los que los que pueden
+
+[01:04:38.319] derribarte, ¿no?
+
+[01:04:39.079] Sí, pero tienen que moverse 20 pies
+
+[01:04:41.720] para poder arribarte. Entonces, ¿ves?
+
+[01:04:43.680] Ahora te doy.
+
+[01:04:44.839] Claro, no me estaba moviendo. Estabais a
+
+[01:04:46.160] 10 pies, entonces no llegaba.
+
+[01:04:48.160] Bueno, pues te doy ese golpe y ahora sí
+
+[01:04:49.480] te voy a intentar derripar que me tienes
+
+[01:04:50.839] que hacer una tirada de fuerza.
+
+[01:04:53.640] La madre estoy de fuerza.
+
+[01:04:57.920] [ __ ] que no
+
+[01:05:02.079] pimba.
+
+[01:05:04.079] que te la pasas y el último ataque.
+
+[01:05:08.640] Al menos algo te tenías que pasar,
+
+[01:05:11.520] algo tendría que hacer
+
+[01:05:14.400] aguantar.
+
+[01:05:15.279] Pues este va a pegar a mam. ¿Qué mamá?
+
+[01:05:18.000] Pues primer bocado
+
+[01:05:28.000] y después pues dos zarpazos.
+
+[01:05:33.480] Ahora ya gastado todos los críticos.
+
+[01:05:36.119] Ya gastado todos por fin.
+
+[01:05:37.079] Jol pues el terrex que tengo aquí
+
+[01:05:38.319] guardado. ¿Qué
+
+[01:05:39.960] con el combate desgaste nos estás
+
+[01:05:41.760] jodiendo bien?
+
+[01:05:43.160] Y el dragón y el dragón anciano que
+
+[01:05:46.420] [risas]
+
+[01:05:47.920] depende del color. Depende del color.
+
+[01:05:49.480] este turno.
+
+[01:05:51.400] Vale, pues yo aprovechando de que me ha
+
+[01:05:54.480] venido este me ha saltado, primero me
+
+[01:05:57.480] voy a eliminar a este pegándole el
+
+[01:06:00.079] primer espadazo.
+
+[01:06:05.200] ¿Tenéis cartas? Usar cartas
+
+[01:06:07.359] para curaros.
+
+[01:06:10.655] [risas]
+
+[01:06:11.480] Eh, ojalá tener cartas, pero soy
+
+[01:06:15.960] Aquí el chiste es que nosotros seamos
+
+[01:06:17.599] las víctimas. [risas]
+
+[01:06:20.240] Uh, falla.
+
+[01:06:21.240] No, le
+
+[01:06:23.400] bien.
+
+[01:06:24.599] Me gusta eso.
+
+[01:06:25.480] Eres level 6, tienes ataques.
+
+[01:06:27.880] Sí,
+
+[01:06:29.160] vale.
+
+[01:06:29.520] Eh, que es lo que estoy mirando ahora
+
+[01:06:31.160] para ver porque sé que tenía uno que me
+
+[01:06:34.000] permitía
+
+[01:06:36.720] volver a tirar un
+
+[01:06:39.359] un ataque, pero no me acuerdo cuál era.
+
+[01:06:41.079] Le puedes añadir más 10 a la tirada.
+
+[01:06:45.920] Pues voy a hacer ese, que es que no me
+
+[01:06:47.279] acuerdo cuál era. Es que sé que había
+
+[01:06:48.880] uno que me ayudaba mucho en esto. Digo,
+
+[01:06:50.880] ya es por quitarnos los del medio.
+
+[01:06:52.200] Vale, pues 22. Tírame el daño. Tírame
+
+[01:06:55.559] dos de seis,
+
+[01:06:56.599] ¿eh? Vale,
+
+[01:06:59.160] un segundito
+
+[01:07:01.240] porque ahora no lo veo el daño.
+
+[01:07:05.160] Bueno, te tiro aquí dos de seis
+
+[01:07:06.279] directamente. Seis y ya está.
+
+[01:07:09.400] A ver, son 7, 8, 9, 10, 11. ¿Cuánto
+
+[01:07:12.240] tienes tú de de esto?
+
+[01:07:14.960] Eh, de fuerza, eh, 13. Vale, pues son
+
+[01:07:18.839] siete 10 de daño.
+
+[01:07:21.839] ¿Al de arriba o al de abajo?
+
+[01:07:23.640] Ah, el de abajo. Si lo tengo marcado. A
+
+[01:07:25.119] este de aquí
+
+[01:07:29.760] no le he matado. Me voy a pegarle el
+
+[01:07:31.960] segundo espadazo
+
+[01:07:36.480] porque este ya no se me escapa. que lo
+
+[01:07:39.720] veo venir.
+
+[01:07:43.279] [ __ ] siempre
+
+[01:07:47.920] vale impacta.
+
+[01:07:48.760] Ahí está.
+
+[01:07:50.359] Menos mal
+
+[01:07:52.240] hasta fallado por los pelos. [risas]
+
+[01:07:55.640] Lo mat.
+
+[01:07:56.039] Le estoy robando los dados a a
+
+[01:07:58.799] y los dados últimamente no me no me
+
+[01:08:01.559] quieren, me odian, me detestan.
+
+[01:08:04.559] Y lo que voy a hacer es ponerme aquí
+
+[01:08:07.079] para
+
+[01:08:08.720] si luego mama está en peligro que tengo
+
+[01:08:11.279] una ventaja contra este.
+
+[01:08:13.680] Vale,
+
+[01:08:15.599] pues Winscore, tu turno. Tienes ventaja.
+
+[01:08:19.239] Sí, eh, le voy a pegar al [ __ ]
+
+[01:08:22.159] Venga.
+
+[01:08:23.120] Jajaja.
+
+[01:08:27.920] Vale, a ver qué impacta. Esto va a estar
+
+[01:08:30.319] bueno.
+
+[01:08:32.159] Y bueno, pues primera [ __ ]
+
+[01:08:33.239] ocho de daño. Le pego otra vez.
+
+[01:08:39.880] Ah, le doy,
+
+[01:08:41.480] le hago daño
+
+[01:08:43.560] y le hago un de adicional. Venga.
+
+[01:08:48.239] Pum.
+
+[01:08:49.199] Pues ves que el [ __ ] pilla bastante
+
+[01:08:52.920] bien.
+
+[01:08:54.839] Y unos action. Nada, realmente
+
+[01:08:59.159] no voy a usar eso.
+
+[01:09:01.400] Vale, pues le toca al bichito este de
+
+[01:09:04.480] por aquí, así que va a salir para allá.
+
+[01:09:07.719] Y Zarial
+
+[01:09:11.359] te va a atacar con ventaja.
+
+[01:09:13.600] No es cierto.
+
+[01:09:16.239] Sí, o sea, me lo veío venir. Si
+
+[01:09:18.400] cadena, cadena de flanqueos.
+
+[01:09:19.759] Cadena de flanqueos. Ves que te hace el
+
+[01:09:21.440] daño y te intenta tirar, ¿sabes? Cuando
+
+[01:09:24.040] sales de la jungla ese primer golpe y me
+
+[01:09:26.920] tienes que hacer una tirción de fuerza
+
+[01:09:28.600] que me deje
+
+[01:09:30.319] y ves que aguantas el segundo ataque.
+
+[01:09:32.960] Ay, con ventaja.
+
+[01:09:37.920] Quédate el 10, hombre, si no va a salir
+
+[01:09:39.920] algo. Me [risas]
+
+[01:09:41.960] No, no te preocupes. ¿Cuánto hace esto
+
+[01:09:43.480] daño esto?
+
+[01:09:47.080] Ah, mira, mínimo daño.
+
+[01:09:48.759] Y
+
+[01:09:49.199] sí, no, pero de poco a poco
+
+[01:09:52.560] me mamen mal.
+
+[01:09:54.159] Crítico. [ __ ] cuarto crítico del
+
+[01:09:56.159] combate.
+
+[01:09:57.760] No, [risas] mira Paul está disfrutando.
+
+[01:10:01.480] Es un paradín. No me preocupa que se
+
+[01:10:02.800] puede curar.
+
+[01:10:05.120] Sí.
+
+[01:10:06.280] Así que Blink, tu turno. Qué gran
+
+[01:10:07.960] desgaste.
+
+[01:10:08.560] Madre mía.
+
+[01:10:09.760] Sí.
+
+[01:10:11.880] Nada, eh, me he gastado bastante energía
+
+[01:10:14.000] y veo a mamá también en apuros. Bueno,
+
+[01:10:16.000] están todos en apuros, pero voy a
+
+[01:10:16.960] intentar sacarle encima de mamá. Y nada,
+
+[01:10:19.760] ya estará hago suave. Estoy chungo,
+
+[01:10:22.480] chungo.
+
+[01:10:24.120] Lo saco
+
+[01:10:27.280] bola de fuego.
+
+[01:10:29.239] No, no, no [risas]
+
+[01:10:31.239] me fido de polastar.
+
+[01:10:38.400] Vale.
+
+[01:10:38.719] [ __ ] cuántos críticos estoy sacando
+
+[01:10:39.960] hoy.
+
+[01:10:40.320] Inteligencia. Salva inteligencia. Madre
+
+[01:10:41.840] mía. [risas]
+
+[01:10:44.600] Y nada, me quedo aquí cabiz baja y con
+
+[01:10:48.520] telequinética intentaré apartar la
+
+[01:10:49.920] criatura de
+
+[01:10:53.840] de mamá.
+
+[01:10:55.080] Vale. ¿Cuántos pies le mues?
+
+[01:10:57.520] Ah, no, este no, a este, perdón.
+
+[01:11:00.360] Pero mueves cinco pies, ¿no? Aquí.
+
+[01:11:02.480] Sí. No, no. Ah, el otro, perdón. Este,
+
+[01:11:05.880] ¿a dónde?
+
+[01:11:07.520] Para acá.
+
+[01:11:09.360] Vale,
+
+[01:11:10.280] no tengo bonus ahora que lo ha movido.
+
+[01:11:12.360] No, porque esto no es voluntario.
+
+[01:11:15.234] [risas]
+
+[01:11:16.679] Solo tienes acción original cuando es
+
+[01:11:18.239] voluntaria.
+
+[01:11:19.719] No, no, ya, ya, pero que lo decía por si
+
+[01:11:21.280] por si colaba, o sea, si ya sé que no
+
+[01:11:24.440] hay que intentarlo que estoy [ __ ]
+
+[01:11:26.480] Algo más, Blin. Curados, hijos de [ __ ]
+
+[01:11:29.199] Eh, no, me quedé aquí arriba haciendo de
+
+[01:11:31.120] torreta.
+
+[01:11:32.520] No tenéis [ __ ] para curaros. Mamá,
+
+[01:11:35.280] cura a la gente.
+
+[01:11:37.480] Mamá, cura.
+
+[01:11:39.760] Voy a lanzar el m step a mí mismo.
+
+[01:11:42.760] Puedes curar a los enemigos también.
+
+[01:11:46.159] Le tir un cur aquí al [ __ ]
+
+[01:11:48.199] Uh, ¿a dónde vas, mamá?
+
+[01:11:53.224] [risas]
+
+[01:11:53.840] Y con la pena.
+
+[01:11:55.760] No, no te conozco todavía.
+
+[01:11:59.960] Yo bien, eh. No,
+
+[01:12:01.639] un toque cerca de tu co mitad de la
+
+[01:12:04.199] vida.
+
+[01:12:06.000] ¿Qué vas a hacer? Vas vas a sentir un
+
+[01:12:08.679] toque cerca de tu cuello dejado batar
+
+[01:12:12.600] que van a atacar
+
+[01:12:14.639] todo
+
+[01:12:14.920] agarra un cuello alando. [risas]
+
+[01:12:17.360] Hola.
+
+[01:12:21.320] Vale, pues Winscor parece que esa
+
+[01:12:24.239] curación de mama
+
+[01:12:27.440] te te empieza como a doler en la cabeza,
+
+[01:12:30.520] o sea, sientes como algo en la cabeza te
+
+[01:12:32.239] dolierá un montón.
+
+[01:12:35.760] Y súbeme esos 18. [risas]
+
+[01:12:40.000] Notarás una ligera molestia. Y ves como
+
+[01:12:43.000] mamá empieza a curarse un poco y algunas
+
+[01:12:45.960] arrugas le desaparecen.
+
+[01:12:50.120] Lo siento, mi niño, es muy necesario.
+
+[01:12:52.830] [risas]
+
+[01:12:55.520] Ay,
+
+[01:12:56.159] eh,
+
+[01:12:57.760] este [risas]
+
+[01:12:59.120] a punto de arrancar la cabeza y todo en
+
+[01:13:01.120] plan, "Lo siento prop muo de regreso.
+
+[01:13:06.239] A mí me tumba ya." Y
+
+[01:13:09.520] este
+
+[01:13:10.719] pasado de 31 de vida y 13. No está mal
+
+[01:13:12.800] eso. [risas]
+
+[01:13:14.000] Me has cambiado, me has cambiado el
+
+[01:13:14.880] orden de los números.
+
+[01:13:16.159] Sí.
+
+[01:13:17.280] Y te los ha robado. No es que te te haya
+
+[01:13:18.760] hecho daño, que te roba.
+
+[01:13:21.080] Sí.
+
+[01:13:21.760] [ __ ]
+
+[01:13:23.159] Sí.
+
+[01:13:25.280] Vale, pues le toca el [ __ ] te han
+
+[01:13:27.480] dejado vendido.
+
+[01:13:30.960] Vas a tener seis ataques con ventaja
+
+[01:13:32.760] tener.
+
+[01:13:33.280] No, seis no.
+
+[01:13:35.159] Madre mía. [ __ ]
+
+[01:13:36.719] el primero ves que te intenta dar el
+
+[01:13:38.760] mord. [ __ ] el primer
+
+[01:13:40.440] [ __ ] máximo.
+
+[01:13:41.800] Ah, no dices,
+
+[01:13:43.840] a un sobrev
+
+[01:13:45.880] es
+
+[01:13:46.120] cómoáis vosotros solos. ¿Ves que el
+
+[01:13:47.800] segundo falla?
+
+[01:13:49.480] Yo qué [risas] hecho
+
+[01:13:50.920] que tenía todavía bastante vida. No era
+
+[01:13:53.400] mi culpa.
+
+[01:13:54.639] Tenía
+
+[01:13:55.520] tenía
+
+[01:13:57.120] del verbo vas para el suelo.
+
+[01:13:59.440] Sí, del verbo de que Winscor pues cae y
+
+[01:14:01.679] el [ __ ] pues va a estar aquí.
+
+[01:14:03.571] [risas]
+
+[01:14:04.639] Cadena de cadena,
+
+[01:14:07.400] [ __ ]
+
+[01:14:08.040] Cadena, cadena, cadena.
+
+[01:14:09.960] Eh, nada, pues
+
+[01:14:12.760] que me pega a mí si no queda [risas]
+
+[01:14:16.520] mal con [ __ ] lagartos.
+
+[01:14:17.960] Ay, con bichos de nivel uno, ¿eh? [ __ ]
+
+[01:14:20.480] [ __ ] Pero
+
+[01:14:21.880] pero si el [ __ ] de nivel uno no me ha
+
+[01:14:22.920] hecho daño, me hacho mi compañero.
+
+[01:14:25.080] [ __ ] con los dados. Vale, uno menos.
+
+[01:14:27.719] Bueno, pues parece que voy a acabacar.
+
+[01:14:31.199] Ahí se acabó. Un gusto, ¿eh?
+
+[01:14:34.920] Pero vamos a ver.
+
+[01:14:38.120] Me matado mi compañero. [risas]
+
+[01:14:40.639] Qué cabrona.
+
+[01:14:42.480] Hay dos en el suelo.
+
+[01:14:44.000] Hay dos en dos. Si todos en el suelo.
+
+[01:14:46.920] He apado, he apartado la vista. Nada, en
+
+[01:14:48.560] medio minuto. Me sab que solo yo uno. Y
+
+[01:14:50.520] este
+
+[01:14:50.800] no, no. O sea,
+
+[01:14:52.360] 12
+
+[01:14:54.679] tirada. Salvación de muerte. No
+
+[01:14:57.400] es la que Vale, espérate.
+
+[01:14:59.600] En la ficha, en la calaverita que sale
+
+[01:15:01.199] en tu imagen. Oh,
+
+[01:15:03.239] no.
+
+[01:15:04.800] Qué pende [risas]
+
+[01:15:08.600] Winscore tir salvación de muerte.
+
+[01:15:12.346] [risas]
+
+[01:15:12.840] Ahí va.
+
+[01:15:13.280] Tranquilo, ahorita lo salvo, no hay
+
+[01:15:15.080] problema. [resoplido]
+
+[01:15:16.639] Yo tengo la poción de ¿Quién la quiere?
+
+[01:15:19.120] Los dos.
+
+[01:15:19.480] Poción de oro.
+
+[01:15:21.040] Vale, pues nada, pues este va a ir a por
+
+[01:15:23.679] mamte.
+
+[01:15:27.719] Bueno, pues se quedó buena tarde, ¿no?
+
+[01:15:31.679] La partida ha sido rápida. [risas]
+
+[01:15:34.040] Había muchas risas, eh, la partida hasta
+
+[01:15:35.679] que
+
+[01:15:39.880] yo me sigo riendo. [risas]
+
+[01:15:42.239] Cago en la leche.
+
+[01:15:44.120] [ __ ] es que es que esos lagarto, yo
+
+[01:15:47.360] quiero hacerle un tes antiopin a estos.
+
+[01:15:50.000] O sea,
+
+[01:15:51.440] lagart problema.
+
+[01:15:56.440] O sea, ¿cuántos críticos ha hecho por
+
+[01:15:58.520] hoy?
+
+[01:15:59.239] Todos que yo
+
+[01:16:02.600] conjuro son de mierder son No para nada
+
+[01:16:05.280] selva. A ver,
+
+[01:16:07.920] no tienes uno que me deado un colega
+
+[01:16:10.120] porque si no la palma.
+
+[01:16:11.920] Sí, no, no, eso es lo que voy a ir. E
+
+[01:16:15.360] va.
+
+[01:16:17.800] Vale, venga, va, metamia. Vamos a gastar
+
+[01:16:20.080] las cositas que si no como bonus voy a
+
+[01:16:23.040] lanzar un
+
+[01:16:25.159] patrón hipnótico a lo loco aquí por mamá
+
+[01:16:27.560] incluida.
+
+[01:16:30.880] No [ __ ] No, [risas]
+
+[01:16:33.040] esto como bonus. Vale.
+
+[01:16:37.480] Au.
+
+[01:16:40.080] Y mira, tienes que hacer mama y blink.
+
+[01:16:42.159] La tienes que hacer tú también. Y creo
+
+[01:16:43.199] que los muertos también.
+
+[01:16:45.360] ¿Qué tenemos que hacer? No sé, no
+
+[01:16:47.400] fallamos automáticamente.
+
+[01:16:48.440] Sí, pero no sé si el foundry está mal
+
+[01:16:50.840] configurado y
+
+[01:16:53.679] no me sale. Ah, sí,
+
+[01:16:54.920] a mí no me sale nada,
+
+[01:16:56.639] ¿eh?
+
+[01:16:56.920] Síale que tienes que hacer una
+
+[01:16:57.880] salvación.
+
+[01:16:58.320] Pues tirada de salvación de tíramela
+
+[01:16:59.960] igualmente.
+
+[01:17:00.960] Sí, bueno, pero técnicamente fallamos,
+
+[01:17:02.800] ¿no?
+
+[01:17:03.159] Sí, sí, técnicamente fallos afecta.
+
+[01:17:07.000] Sí,
+
+[01:17:07.480] porque sea willing creature
+
+[01:17:09.080] y vosotros willing willing no estáis muy
+
+[01:17:10.840] willing,
+
+[01:17:12.480] ¿eh?
+
+[01:17:13.960] Vale, pues este [ __ ] y mamá se quedan
+
+[01:17:16.800] un poco atontadas.
+
+[01:17:18.639] Solo un [ __ ]
+
+[01:17:22.719] Bueno,
+
+[01:17:23.000] estos bichos menos todo, tío.
+
+[01:17:24.800] Inteligencia es una vergüenza porque
+
+[01:17:27.159] sacado 19.
+
+[01:17:28.280] Vergüenza
+
+[01:17:30.159] de daño que me he comido
+
+[01:17:32.280] desde arriba, ¿vale? Me pondré aquí
+
+[01:17:33.840] encima y a 10 pies, ¿vale? O sea, que
+
+[01:17:36.400] bajaré bajaré un poquito y abriré una
+
+[01:17:38.920] poción de árbol y se la voy a lanzar
+
+[01:17:40.320] como a la boca de de Tariel. Un chorrito
+
+[01:17:43.040] ahí
+
+[01:17:45.280] que la de salvación ha sido dura.
+
+[01:17:48.560] Lanza.
+
+[01:17:48.840] Es lo único que tengo.
+
+[01:17:50.960] Lo único que tengo es como si lo dejo
+
+[01:17:53.440] cader o sea me ha costado como a unos 10
+
+[01:17:55.239] pies la veo así como agitando boca
+
+[01:17:57.000] arriba y si no lo compras ahí bajo, ¿eh?
+
+[01:17:59.360] Sí, sí, baja, baja. Pero no, esto no es
+
+[01:18:01.960] el aquí no puedes tirar una poción y se
+
+[01:18:03.880] cuera mucha gente.
+
+[01:18:04.960] Pues eso, estaba por aquí yo, por aquí.
+
+[01:18:08.639] Pues 1, dos, 3, cu, eh, me bajo sin
+
+[01:18:12.320] llegar al alcance de estos bichos y me
+
+[01:18:13.880] pongo atrás de Tarial y de Tarial y le
+
+[01:18:16.480] doy la poción de Arwen.
+
+[01:18:18.040] Venga,
+
+[01:18:18.560] eh, la tiro,
+
+[01:18:20.679] la lanzo yo o
+
+[01:18:22.320] a él y si la tiras.
+
+[01:18:24.000] Vale, un segundo, estoy encima. Podré
+
+[01:18:26.440] darle. Sí.
+
+[01:18:28.480] Potion sorpresa.
+
+[01:18:34.280] Oh, Dios mío.
+
+[01:18:36.880] Vale, pues Tarial, te levantas, [risas]
+
+[01:18:39.719] pero no sabes por qué, pero CCA, ¿vale?
+
+[01:18:41.679] Tienes que hablar así durante el resto
+
+[01:18:43.480] del stream
+
+[01:18:45.920] porque son lo que hacen las pociones de
+
+[01:18:47.400] Arwen. Se juran, pero hace veces te
+
+[01:18:48.840] pasan cosas así.
+
+[01:18:52.560] Me parece me parece estupendo, la
+
+[01:18:54.880] verdad. [risas]
+
+[01:18:57.000] Suflar
+
+[01:18:58.520] sufres. Ah, sois sufriendo.
+
+[01:19:01.599] [risas]
+
+[01:19:02.800] Vale, arriba
+
+[01:19:06.520] está un en el suelo y y le señalo y no y
+
+[01:19:09.800] creo que ya no me queda movimiento, por
+
+[01:19:10.800] lo tanto me quedaré aquí aguantar las
+
+[01:19:12.040] hostias.
+
+[01:19:12.679] Vale, pues mamá, ¿estás a a Polyardá
+
+[01:19:15.199] literalmente?
+
+[01:19:17.280] Eh, cuando veo que mamá está poyardada,
+
+[01:19:21.719] ¿puedo quitar el efito de del Hipnotic?
+
+[01:19:23.960] No sé si puedo.
+
+[01:19:24.719] Podéis romper la concentración. cuando
+
+[01:19:26.280] queráis.
+
+[01:19:28.159] Pues si cuando veo que que que los
+
+[01:19:29.560] bichos siguen como muy despiertos
+
+[01:19:31.400] mirándome y tal, pues he quito el
+
+[01:19:33.560] hechizo para que mamá reaccione.
+
+[01:19:34.960] Pues mamá.
+
+[01:19:36.840] Okay.
+
+[01:19:37.239] Está rodeada de bichitos.
+
+[01:19:40.440] Todos contra todos ustedes contra el
+
+[01:19:42.520] pobre está en el suelo.
+
+[01:19:44.880] Cura un [ __ ] de estos. Cúralo.
+
+[01:19:49.719] Ah, fuck. Un
+
+[01:19:51.040] primer ataque.
+
+[01:19:53.480] El [ __ ]
+
+[01:19:55.440] El [ __ ]
+
+[01:19:58.040] a los hueso.
+
+[01:19:59.800] V impacta.
+
+[01:20:01.400] Ahí se me fueron todas mis este
+
+[01:20:03.600] muerto.
+
+[01:20:08.600] Bonus action
+
+[01:20:13.600] impacta.
+
+[01:20:18.560] Como ese le di muy poquito
+
+[01:20:24.280] y lo dejas medio atontado, pero ves que
+
+[01:20:25.880] está ahí medio chocaldo.
+
+[01:20:28.199] Sigue sigue resistiendo
+
+[01:20:31.880] y [risas] no puedo hacer nada.
+
+[01:20:34.800] 200.
+
+[01:20:37.120] Vale,
+
+[01:20:37.840] esto sí que está siendo duro. [risas]
+
+[01:20:40.440] Vamos por disco.
+
+[01:20:44.880] Uh, que falla. Zarpazos.
+
+[01:20:48.120] Jur enano, por favor. Eh,
+
+[01:20:51.440] otro crítico. No, si vamos a si nos
+
+[01:20:53.600] tenemos que volver para el pueblo. Tú
+
+[01:20:55.000] ver, verás,
+
+[01:20:56.560] hay reacciones.
+
+[01:20:58.840] No, no me salte ninguna. Pues
+
+[01:21:03.600] ay,
+
+[01:21:04.400] pues pues mamá está está el asunto
+
+[01:21:08.880] está el asunto mal. Vale,
+
+[01:21:11.639] ventaja.
+
+[01:21:12.520] Ah, era con ventaja.
+
+[01:21:13.320] Eh, una
+
+[01:21:17.040] como salga otro crítico, ya me levanto y
+
+[01:21:19.560] me voy. [risas] O sea, ha ganado. Gan
+
+[01:21:22.080] Paul.
+
+[01:21:23.159] [ __ ] bordisco del [ __ ]
+
+[01:21:30.600] Mu estoy al lado. Hace el [ __ ] de
+
+[01:21:32.480] [ __ ]
+
+[01:21:36.199] No, Paul quiere tumbarme. Paul quiere
+
+[01:21:38.040] tumbarme.
+
+[01:21:40.360] A ver, quiere, lo puede, lo hará.
+
+[01:21:42.760] Ventaja.
+
+[01:21:43.920] No, estoy atacando al otro que me ha
+
+[01:21:45.120] pedido ataques. Pues yo lo ataco.
+
+[01:21:48.199] A mí si me pedíis ataque. A ver si se le
+
+[01:21:50.591] [risas]
+
+[01:21:51.120] 17,
+
+[01:21:51.719] ¿eh? 17. Si me lo como. Claro, es o se
+
+[01:21:54.360] me lleva ya para la selva este, ¿eh?
+
+[01:21:57.679] Uf, qué asco.
+
+[01:21:59.159] Bueno, bueno, menos mal. Darial, tu
+
+[01:22:01.880] turno. Estás en el suelo.
+
+[01:22:05.760] Pues me levanto,
+
+[01:22:07.679] me levanto haciendo como [ __ ] pues al
+
+[01:22:10.480] final verás tú que los lagartos y todos
+
+[01:22:13.040] son fuertes.
+
+[01:22:15.360] Que a lo tonto, a lo tonto.
+
+[01:22:18.080] Bueno, pues aprovecho
+
+[01:22:21.280] y en esta posición
+
+[01:22:24.320] intuyo que no me puedo poner a la misma
+
+[01:22:26.920] en la misma casilla que Blinz, ¿verdad?
+
+[01:22:28.840] No,
+
+[01:22:30.920] vale. Pues pues va a hacer primero un
+
+[01:22:33.000] gempetazo
+
+[01:22:36.639] al dinosaurio. Hay que hay que
+
+[01:22:38.360] intentarlos, si no estamos jodidos.
+
+[01:22:45.480] Venga,
+
+[01:22:50.440] me ha asustado, me ha asustado. He visto
+
+[01:22:52.199] el uno muy cerca.
+
+[01:22:57.920] Se muere. Ah,
+
+[01:22:59.800] ahí está.
+
+[01:23:02.760] Yo yo la verdad es que no sé si Reyorá
+
+[01:23:05.719] ya me muevo aquí para dar el segundo
+
+[01:23:08.840] golpe a al otro.
+
+[01:23:16.800] A ver si esta vez tenemos más suerte.
+
+[01:23:20.639] Vamos, vamos, vamos, vamos, vamos,
+
+[01:23:22.080] vamos.
+
+[01:23:23.760] Entró, entró por entró seguro.
+
+[01:23:26.840] Sí, entonces [resoplido]
+
+[01:23:28.760] o 13 y se muere.
+
+[01:23:31.000] Uh, ahí está, ahí está. Ya el enano.
+
+[01:23:36.048] [risas]
+
+[01:23:36.880] Miro, mira mi compañero a nuevo.
+
+[01:23:41.199] Tir
+
+[01:23:46.199] Vale,
+
+[01:23:46.520] ahí está. Sí, sí, sí, sí. Si lo salvo.
+
+[01:23:48.480] Si lo salvo. Sí, lo salvo.
+
+[01:23:51.400] Espérate que seguro se salva solo.
+
+[01:23:54.387] [risas]
+
+[01:23:55.679] No creo.
+
+[01:23:56.600] Le le veo convulsionar.
+
+[01:23:58.960] Vale,
+
+[01:23:59.239] pues no es para
+
+[01:24:00.560] lo moviendo.
+
+[01:24:01.719] Si puedo si puedo hacer esto. O sea, ya
+
+[01:24:04.840] se adelantó mam
+
+[01:24:07.360] ya ya ven a la mam agarrando de entre
+
+[01:24:09.560] sus faldas un este una poción, la abre y
+
+[01:24:12.920] en corto
+
+[01:24:14.960] redespierta. [risas]
+
+[01:24:16.880] Eh, miro a todos, a todos estamos en la
+
+[01:24:20.560] [ __ ] como para [ __ ] el huevo y donde
+
+[01:24:22.280] tengamos que hacer frente a la marina,
+
+[01:24:23.520] ¿eh? Lo que está la cabeza. Me vo puñar
+
+[01:24:26.800] trampasera. [risas]
+
+[01:24:28.400] ¿Qué? ¿Qué hacen ningún cuchillo en la
+
+[01:24:30.960] espalda?
+
+[01:24:32.480] Hay que ver, Dios mío, si es como la
+
+[01:24:35.159] gente que
+
+[01:24:38.273] [risas] sí llevan aluna poción estos
+
+[01:24:40.159] cadáveres por casualidad, así como
+
+[01:24:42.679] vamos a
+
+[01:24:45.800] mucho mejor.
+
+[01:24:48.400] Yo la verdad me voy a
+
+[01:24:51.880] me voy a poner layers of hand encima
+
+[01:24:54.119] mía.
+
+[01:24:54.920] Hala, ya está.
+
+[01:24:55.600] ¿Cuántos puntos quieres gastar?
+
+[01:24:58.040] Los 30. O sea, si tengo 14.
+
+[01:25:03.600] Ah, qué bueno. Vamos a vamos a este de
+
+[01:25:05.800] nuevo a recuperarnos. A ver, ¿vas a
+
+[01:25:08.199] volver a sentir la mano fría en tu
+
+[01:25:10.960] cuello? [risas]
+
+[01:25:12.280] Te pego, te pego.
+
+[01:25:16.719] Te pego. Eh, [risas]
+
+[01:25:19.440] tienes también eling
+
+[01:25:24.239] el healing curo siete.
+
+[01:25:26.480] Bueno, números son números.
+
+[01:25:30.480] Mamá, creo que te chupa los huevos y le
+
+[01:25:32.360] curas siete. [risas]
+
+[01:25:34.520] Yo cojo, yo cojo y mamá y no le agarres
+
+[01:25:38.320] cuello ceño bajito
+
+[01:25:40.639] que que últimamente que lo has visto
+
+[01:25:43.400] como acabamos más. Le pongo las manos
+
+[01:25:46.000] encima y le empiezo a curar.
+
+[01:25:48.080] Tú tranquilas. Lo que lo que sí, a ver
+
+[01:25:50.440] si vamos a si tenéis alguien dinero, a
+
+[01:25:53.000] ver si podemos ya por unas pociones,
+
+[01:25:54.719] porque la verdad es que no sé qué ha
+
+[01:25:57.280] pasado que cuando me he tenido que
+
+[01:25:58.360] desmayar me ha me mordió la lengua
+
+[01:26:01.320] porque es que ya no sé hablar.
+
+[01:26:03.560] Descansos cortos.
+
+[01:26:04.800] Eh,
+
+[01:26:06.960] a ver que no una este perdón, le volteó
+
+[01:26:10.800] a ver a este a Wincon. Eh, perdón, yo no
+
+[01:26:15.360] era mi intención este lastimarte,
+
+[01:26:17.880] realmente era una cosa de necesidad y
+
+[01:26:22.119] este no podemos perder más tiempo. Nos
+
+[01:26:25.440] está ayudando unor no
+
+[01:26:29.080] si no podemos perder más tiempo, pero
+
+[01:26:30.960] más tiempo vamos a perder si estamos en
+
+[01:26:32.679] una tumba,
+
+[01:26:34.864] [risas]
+
+[01:26:35.600] sobre todo si es autoenterrada.
+
+[01:26:37.560] Descansos cortos,
+
+[01:26:39.639] por favor. [risas] En verdad los
+
+[01:26:41.440] necesito muchísimo. Yo veré la manera de
+
+[01:26:44.159] recuperarme, pero necesito recuperar ese
+
+[01:26:47.440] huevo lo más pronto posible. No sabemos
+
+[01:26:49.600] si ya se lo comieron o algo parecido.
+
+[01:26:52.360] Recemos porque los estos tipos tengan
+
+[01:26:55.280] algo, alguna cura porque es necesario
+
+[01:26:57.360] ya. O sea,
+
+[01:26:58.960] y escucháis
+
+[01:27:00.480] y escucháis cecea ccea, ccea y veis un
+
+[01:27:03.760] loro con un gorro de pirata. Cecea,
+
+[01:27:05.679] ceica el camino. ¿Por dónde era?
+
+[01:27:07.800] Y se sienta aquí
+
+[01:27:09.000] y os mira.
+
+[01:27:11.239] Ay, Dios mío. La próxima vez
+
+[01:27:12.719] será será capullo el loro
+
+[01:27:15.040] y dice,
+
+[01:27:15.400] "La próxima vez ni se te ocurra volver a
+
+[01:27:16.760] hacer eso."
+
+[01:27:17.440] Dice, digo, "Descansos cortos."
+
+[01:27:22.320] Ya.
+
+[01:27:22.520] Ah, es verdad.
+
+[01:27:24.840] Oh, es verdad. [risas]
+
+[01:27:27.199] Y se va.
+
+[01:27:30.000] No, no se va. Se va
+
+[01:27:31.960] capullos y se van. Eh, [risas]
+
+[01:27:35.360] es el loro de M.
+
+[01:27:37.719] Claro, 102 cuadras ahora mismo.
+
+[01:27:41.960] Cierto. Vamos,
+
+[01:27:43.080] tocará descansar.
+
+[01:27:44.950] [resoplido]
+
+[01:27:45.080] Sí, vamos a descansar. [risas]
+
+[01:27:47.760] Yo estoy bien.
+
+[01:27:50.239] No quieres estarlo [risas]
+
+[01:27:52.639] a si tú no si tú no quieres descansar me
+
+[01:27:55.000] parece bien. Pero mira, mamá,
+
+[01:27:57.520] ella en cualquier momento que estés en
+
+[01:27:58.760] una pelea te va a agarrar del pescuezo y
+
+[01:28:01.320] tú de ahí no sales ya. Si la pelea va a
+
+[01:28:03.719] ser conmigo. [risas]
+
+[01:28:08.719] Mamá, aquí la
+
+[01:28:11.040] siéntate.
+
+[01:28:12.480] Mamá es la más fuerte. Se ha cagado como
+
+[01:28:14.239] a un dos tres a tres de cinco.
+
+[01:28:20.159] No, no te ha cargado. Siamos eran cinco
+
+[01:28:23.239] o hay seis.
+
+[01:28:25.239] Eran a mí.
+
+[01:28:29.840] Eh, oye, ¿habéis habéis registrado a
+
+[01:28:31.679] estos?
+
+[01:28:34.520] Lo intentamos lo llevamos intentando
+
+[01:28:36.159] decir un rato que le registramos.
+
+[01:28:38.600] Es que
+
+[01:28:39.199] lo puedo registrar.
+
+[01:28:40.440] Sí, claro.
+
+[01:28:42.000] Pues yo lo registro a ver si tienen
+
+[01:28:43.239] alguna pota.
+
+[01:28:44.400] El descenso corto.
+
+[01:28:47.920] Vale, pues uno tiene una perla
+
+[01:28:52.320] y el otro un pergamino a nivel un
+
+[01:28:55.480] puede ser uno de cura. [risas]
+
+[01:28:59.159] No lo sé, ya veremos. Hacer un [ __ ]
+
+[01:29:02.159] descanso corto que es mejor que una
+
+[01:29:03.800] cura.
+
+[01:29:04.159] Ya
+
+[01:29:05.800] voy a tirar un dadito de descanso corto.
+
+[01:29:07.679] Meo con mamá y hago un descansito, un
+
+[01:29:09.920] descansito y me tiro un dadito.
+
+[01:29:12.400] Descanso corto es una hora, o sea, que
+
+[01:29:14.080] sí, claro, es una hora. Claro, un
+
+[01:29:15.639] descanso corto es una hora. Eh,
+
+[01:29:18.040] pues vamos a descansar un un poquito.
+
+[01:29:21.600] Bueno, bueno, no. Sí o sí o no.
+
+[01:29:24.080] No, podemos aguantar.
+
+[01:29:26.600] Lo que digáis vosotros. Tú eres la que
+
+[01:29:27.920] tiene prisa,
+
+[01:29:29.560] ¿no? La que tiene prisa es mama.
+
+[01:29:31.560] Ya, ya. Eso digo.
+
+[01:29:32.920] Pues descansamos todos, ¿no? Si vamos a
+
+[01:29:34.639] perder la hora sí o sí, pues.
+
+[01:29:36.560] Ay, ¿cuánto era de vida? Si es el
+
+[01:29:38.840] descanso corto.
+
+[01:29:39.719] Puedes tirar dados, puedes tirar hasta
+
+[01:29:41.840] ocho un dados de
+
+[01:29:43.480] dados. Tu nivel, seis dados.
+
+[01:29:44.560] Tu nivel, tu nivel, tu nivel de dados.
+
+[01:29:46.159] Dados deos descanso corto.
+
+[01:29:49.080] Tú eres un ranger. Creo que Ranger es un
+
+[01:29:50.679] de 10, así que sí, es un de 10 o un de
+
+[01:29:53.000] ocho, no lo sab
+
+[01:29:54.679] un de 10.
+
+[01:29:56.159] No lo sé. Vas tirando dados, puedes
+
+[01:29:57.880] tirar hasta seis y te curas, pues lo que
+
+[01:30:00.080] salga.
+
+[01:30:01.560] Ay, mira, vamos a poner los seis ya la
+
+[01:30:03.280] burger.
+
+[01:30:03.960] O sea, vais a hacer un descanso corto.
+
+[01:30:06.320] Si quieres descanso corto o
+
+[01:30:07.600] sí, o sea, vamos a curarnos enteros
+
+[01:30:09.960] porque si no vamos a ir jodidos. O sea,
+
+[01:30:11.960] voy a voy a hablar mientras tanto un
+
+[01:30:13.880] poco sin CCA.
+
+[01:30:17.119] ¿Dónde está el botón de los estos?
+
+[01:30:20.679] Eh,
+
+[01:30:21.480] descanso largo, ¿no?
+
+[01:30:22.360] Descanso largo. Si hace doble click
+
+[01:30:24.440] sobre tu personaje en la cama.
+
+[01:30:26.639] Ah, sí, sí, lo he visto.
+
+[01:30:28.719] Okay.
+
+[01:30:29.280] Descanso corto.
+
+[01:30:32.880] Me aviento los seis dados.
+
+[01:30:36.880] Sí, yo también lo he pensado, Kender,
+
+[01:30:38.320] por eso he tirado un dado secreto.
+
+[01:30:41.280] Ay, no puede ser.
+
+[01:30:43.760] Nos van a saltar más bichos. Yo he
+
+[01:30:46.040] dicho, podéis hacer un descanso corto.
+
+[01:30:47.320] No os he dicho dónde.
+
+[01:30:50.560] Al lado de unos muertos en una selva con
+
+[01:30:52.320] dinosaurios. Es un buen sitio. [ __ ]
+
+[01:30:53.719] madre.
+
+[01:30:55.159] Tengo 20 partición pasiva. Malo será que
+
+[01:30:57.280] no lo voy a venir.
+
+[01:30:58.400] Ya no sé ni qué estoy haciendo. A ver,
+
+[01:31:02.480] dijiste que que podía lanzar seis seis
+
+[01:31:05.080] dados de 10 si yo quisiera.
+
+[01:31:07.360] Eh, en tu en tu ficha
+
+[01:31:09.280] en tu ficha donde está tu retrato
+
+[01:31:11.600] V. Bajo tu donde está tu vida.
+
+[01:31:14.080] Vale.
+
+[01:31:14.600] Sí.
+
+[01:31:18.880] Pues esos son los dados que entonces
+
+[01:31:20.520] sabes cómo hacer un descanso.
+
+[01:31:22.920] Vale,
+
+[01:31:24.040] ahí está.
+
+[01:31:24.639] Pues eso y puedes ir tirando dados hasta
+
+[01:31:26.159] que veas que tu cura pues se cura al
+
+[01:31:27.440] máximo.
+
+[01:31:29.159] Okay.
+
+[01:31:30.320] Cuando descanso ahí también los puedes
+
+[01:31:32.000] tirar, ¿eh? S hay una ventanita en deo
+
+[01:31:35.960] que ahí puesto los uno a uno.
+
+[01:31:38.239] No [ __ ] me está saliendo de uno en
+
+[01:31:39.719] uno. Qué poca más.
+
+[01:31:42.800] Está tirando
+
+[01:31:44.880] así me dice.
+
+[01:31:47.239] Selecciona el dado y
+
+[01:31:49.960] sí, pero cuando lo O sea,
+
+[01:31:53.520] no sé.
+
+[01:31:55.080] A ver, Paul, ayúdame.
+
+[01:31:56.760] Eres a ver, ¿te estás curando? No.
+
+[01:31:59.679] Sí. P
+
+[01:32:00.159] solucionado.
+
+[01:32:01.119] Ya está.
+
+[01:32:01.960] ¿Qué problema tenéis?
+
+[01:32:03.920] Tienes que clicando el dado de rol y ya
+
+[01:32:05.719] está.
+
+[01:32:06.040] Claro, porque te vas quedando sin dados,
+
+[01:32:07.440] o sea, tienes x cantidad de dados para
+
+[01:32:09.040] tirar al día de descansos cortos. Es lo
+
+[01:32:11.159] primero que os explicado.
+
+[01:32:11.800] Ya estaría
+
+[01:32:13.400] y ya ahí está.
+
+[01:32:15.280] Vale, pues
+
+[01:32:16.480] ya no te quedan
+
+[01:32:17.400] daditos.
+
+[01:32:18.480] Vale, pues qué tengo por aquí
+
+[01:32:23.199] un tiranosaurius re.
+
+[01:32:26.320] No [risas]
+
+[01:32:27.639] vais a vais a sobre todo winscore vais a
+
+[01:32:32.600] vas a escuchar como mientras estos están
+
+[01:32:35.360] descansando va a escuchar ruido que de
+
+[01:32:38.800] que se cena por este lado de aquí de la
+
+[01:32:40.600] de la jungla.
+
+[01:32:42.639] Ay no.
+
+[01:32:43.840] Ay, me pongo de pie de la piedra en la
+
+[01:32:45.239] que me he sentado. Me acerco para acá.
+
+[01:32:47.639] Preparados que volvemos a empezar. Y voy
+
+[01:32:50.159] a ir casteando ya un poquito de síal
+
+[01:32:53.400] normal. O que tal si una idea,
+
+[01:32:55.280] mira, ataca solo si hago ahí. Ah, mira
+
+[01:32:57.520] una idea.
+
+[01:32:59.354] [risas]
+
+[01:32:59.560] Bueno, hacen daño, hace el daño
+
+[01:33:03.000] y voy a hacer daño solo
+
+[01:33:06.480] porque
+
+[01:33:07.000] y voy a preparar un produce flame en
+
+[01:33:09.000] cuanto vea algo.
+
+[01:33:10.320] Y y ¿por qué has pegado más? O sea,
+
+[01:33:11.799] [risas]
+
+[01:33:13.920] pero a dónde, a dónde, perro.
+
+[01:33:17.159] ¿Qué
+
+[01:33:17.600] han pegado a esa?
+
+[01:33:19.679] Ah, tengo objetiva. A ver, centraos,
+
+[01:33:22.239] chicos, centraos. ¿Dónde estamos?
+
+[01:33:27.280] A ver,
+
+[01:33:27.880] yo, claro, yo estaba diciendo, "¿Y si en
+
+[01:33:30.040] vez de prepararnos para un combate no
+
+[01:33:33.480] nos escondemos y pasamos de lo que vaya
+
+[01:33:35.719] a parecer?"
+
+[01:33:37.760] Eh,
+
+[01:33:39.440] armadura pesados los dos, ¿no?
+
+[01:33:41.760] Sí, también los llevábamos con los con
+
+[01:33:43.360] los otros lagartos.
+
+[01:33:45.860] [resoplido]
+
+[01:33:47.169] [risas]
+
+[01:33:47.239] Efectivamente, me refiero nos van a
+
+[01:33:49.679] escuchar
+
+[01:33:52.159] o no. Una
+
+[01:33:54.840] mejor intentarlos que simplemente ir
+
+[01:33:56.840] hacia delante en el combate
+
+[01:33:58.040] estúpidamente y molid de nuevo.
+
+[01:34:00.560] Ya vienen para acá. Mejor prim de
+
+[01:34:02.560] prepararse y atacar en cuanto aparezcan.
+
+[01:34:06.040] Yo me escondo. [risas]
+
+[01:34:09.560] Poca.
+
+[01:34:12.199] Vale, los demás.
+
+[01:34:13.880] Bueno, mientras ellos están discutiendo
+
+[01:34:15.600] y
+
+[01:34:17.600] descansando, me voy a comer una frutita
+
+[01:34:19.480] porque no me la come.
+
+[01:34:21.760] Vale. O sea, tú no te escondes.
+
+[01:34:24.320] Pues ya no, no me queda de otra.
+
+[01:34:25.920] Va de frente. Mamá no tiene miedo.
+
+[01:34:29.600] Ay,
+
+[01:34:30.280] que es que salió de fruta. Porque no me
+
+[01:34:33.159] ahí,
+
+[01:34:33.440] ahí está.
+
+[01:34:34.480] Eh, tu sa extremamente pegajosa. Puedes
+
+[01:34:36.199] parar un objeto pequeño a una
+
+[01:34:37.719] superficie.
+
+[01:34:39.920] Blin. [risas]
+
+[01:34:42.880] Vale, Blink. ¿Tú qué vas a hacer?
+
+[01:34:45.199] Yo estoy escondida aquí en un árbol
+
+[01:34:46.520] mirando a ver hacia dónde hacia el rollo
+
+[01:34:48.480] que ha indicado. Sí,
+
+[01:34:50.159] vale. Y winscore,
+
+[01:34:52.880] preparo un produ flame en cuanto vea un
+
+[01:34:54.639] [ __ ] Bueno, de hecho lo tengo en la
+
+[01:34:55.920] mano y en cuanto eso y casteo y sirele.
+
+[01:34:59.360] Vale, pues estaría el blink hacerme
+
+[01:35:01.199] tirar de sigilo.
+
+[01:35:05.520] Eran de steel, ¿no?
+
+[01:35:08.199] Mm.
+
+[01:35:09.239] Oh.
+
+[01:35:10.719] Uh. La tengo que la tiro normal o con
+
+[01:35:12.960] desventaja.
+
+[01:35:14.080] Eh, ay, tú con desventaja que vas con
+
+[01:35:15.679] una armadura pesada.
+
+[01:35:17.880] Ay, venga,
+
+[01:35:20.880] por lo que he dicho. [risas]
+
+[01:35:23.239] Venga. [ __ ] pero un cuatro y un uno.
+
+[01:35:26.360] Es que ni ni pagando.
+
+[01:35:28.840] Es verdad.
+
+[01:35:29.119] Ay, no puede ser.
+
+[01:35:30.280] A uno de vosotros, no sé por qué.
+
+[01:35:33.560] No.
+
+[01:35:34.880] Ah, no, menos mal.
+
+[01:35:35.840] Pues mira, sí, por hablar. Es que yo no
+
+[01:35:38.000] sé por qué habláis.
+
+[01:35:41.600] Tú ya lo sabe. [risas]
+
+[01:35:43.239] Otra puñalada trapera por la
+
+[01:35:45.560] una tirada de salvación de sabiduría.
+
+[01:35:48.520] Ah, bueno, de sabiduría.
+
+[01:35:49.400] Al paladín. La madre.
+
+[01:35:53.199] Espérate que sale otro mundo.
+
+[01:35:56.480] Vale, pues winscore. Ay, no has
+
+[01:36:00.080] dicho has tirado carisma.
+
+[01:36:03.080] No, tirado sabiduría.
+
+[01:36:03.719] Ah, sabiduría.
+
+[01:36:04.800] Sí, sabiduría.
+
+[01:36:05.360] No, he tirado carisma. Tirado. Yo y he
+
+[01:36:08.000] tirado.
+
+[01:36:09.360] Lo pone ahí.
+
+[01:36:11.520] A mí me sale sabiduría.
+
+[01:36:14.000] Arriba la que ha tirado. Sale como que
+
+[01:36:15.880] ha tirado la salvación. Bueno, 19.
+
+[01:36:18.119] Vale, pues Tarial es notarías como
+
+[01:36:24.080] como si un polen raro pues te venía en
+
+[01:36:26.199] la nariz y lo típico que sabes, soplas,
+
+[01:36:28.400] soplas por la nariz fuerte para quitarte
+
+[01:36:30.280] eso que te entraba.
+
+[01:36:37.639] No, no vemos al [ __ ]
+
+[01:36:38.960] Es polen,
+
+[01:36:39.920] ¿no?
+
+[01:36:40.800] [ __ ] polen [risas]
+
+[01:36:42.560] perión pasiva. Uh,
+
+[01:36:43.800] hay que irse de aquí. Vos
+
+[01:36:46.239] si estoy de acuerdo. Si nos teníamos que
+
+[01:36:47.840] estar yendo, pero conce un enano de que
+
+[01:36:50.960] se tiene que ir de un lado.
+
+[01:36:55.400] Tengo 25.
+
+[01:36:59.520] ¿Sabes lo que nos costó sacar un enano
+
+[01:37:01.480] del templo que venía vend?
+
+[01:37:05.119] Fueron tres semanas y cinco personas al
+
+[01:37:07.000] hospital.
+
+[01:37:08.760] Hay que irse. Puedo, [risas] puedo
+
+[01:37:10.679] buscar al Puedo buscar al [ __ ] que
+
+[01:37:13.800] he oído.
+
+[01:37:14.480] Estoy de acuerdo.
+
+[01:37:15.280] Eh, sí,
+
+[01:37:18.920] la mamá va a seguir su camino. Eh,
+
+[01:37:21.357] [risas]
+
+[01:37:21.639] eh, para empezar a buscarlo.
+
+[01:37:24.199] Y los atacan,
+
+[01:37:25.239] ¿eh?
+
+[01:37:26.880] Vas a vas a ver cuando te acercas,
+
+[01:37:28.639] porque supongo que te acercarás para
+
+[01:37:29.760] buscarlo.
+
+[01:37:31.360] Eh, para abajo, ¿no?
+
+[01:37:33.119] Eh, sí, lo viendo para abajo.
+
+[01:37:34.600] ¿Lo habéis visto? O sea, tú has notado,
+
+[01:37:36.199] lo habías visto aquí al principio
+
+[01:37:37.440] moverse algo
+
+[01:37:37.960] por aquí algo de movimiento.
+
+[01:37:39.400] Vale, pues
+
+[01:37:40.560] estamos yendo para abajo, ¿no?
+
+[01:37:42.000] Eh, sí. No sé, vosotros estáis aquí.
+
+[01:37:44.040] Sería por eso te pregunto.
+
+[01:37:45.320] Pregunto, estamos yendo para abajo, ¿no?
+
+[01:37:46.480] Porque teníamos que ir para abajo para
+
+[01:37:47.920] ir en dirección a esto. Sí, sí, sí.
+
+[01:37:50.400] Pues voy acercándome así.
+
+[01:37:53.719] ¿Podéis
+
+[01:37:56.320] acompañarme?
+
+[01:37:57.520] ¿Veis algo?
+
+[01:37:59.280] Voy, voy mirando para este lado a ver si
+
+[01:38:00.800] veo algo.
+
+[01:38:02.080] Eh, si miráis aquí veis plantas.
+
+[01:38:08.119] La mamma ya está tensando el
+
+[01:38:10.880] arco.
+
+[01:38:12.440] ¿Los seguimos o los dejamos? A ver si yo
+
+[01:38:14.639] que sea te los come.
+
+[01:38:16.639] Pero vamos
+
+[01:38:18.679] rápido.
+
+[01:38:21.040] Va a ser rápido. Así como ay.
+
+[01:38:24.040] Corre, corre, corre, corre, corre.
+
+[01:38:26.040] Pero, ¿a qué esperáis? ¿No tenéis que ir
+
+[01:38:27.560] a poner un huevo?
+
+[01:38:29.000] Sí, nos han disparado un po una planta.
+
+[01:38:30.719] No sé de dónde viene.
+
+[01:38:32.320] Ya, vámonos, vámonos, vámonos, vámonos,
+
+[01:38:33.719] vámonos.
+
+[01:38:35.440] Seguramente no había una vieja que
+
+[01:38:37.800] fumaba cosa así como un poco con polen,
+
+[01:38:39.840] musopolen y demás. A lo mejor era de eso
+
+[01:38:43.560] la bola esta la vi el otro día, por eso
+
+[01:38:44.920] no me acuerdo creo del día siguiente y
+
+[01:38:47.280] sigo así caminando. Quiero comprobar si
+
+[01:38:49.599] nos están siguiendo,
+
+[01:38:51.520] ¿eh? No, miras hacia atrás y ves el el
+
+[01:38:54.280] bosque normal
+
+[01:38:58.159] y los cadáveres siguen ahí,
+
+[01:38:59.719] ¿eh? Sí, los cadáveres siguen ahí.
+
+[01:39:02.679] Mm.
+
+[01:39:04.520] Valía que no estuvieran. E Wizon, Wizon,
+
+[01:39:09.400] no, no quiero más pelear por aquí que de
+
+[01:39:11.400] nuevo sale el lagarto y verás tú.
+
+[01:39:14.320] Estoy viendo si nos están siguiendo.
+
+[01:39:16.560] Está [resoplido] en zona de caza de
+
+[01:39:17.440] lagartos. Había ir con cuidado.
+
+[01:39:18.920] Siempre en Satacán siempre se sigue a
+
+[01:39:21.679] alguien
+
+[01:39:23.920] ya, pero prefiero que no sea a mí.
+
+[01:39:26.760] Ya, vámonos.
+
+[01:39:28.719] Voy mirando también hacia los lados por
+
+[01:39:30.440] si veo movimiento entre la maleza. Sí,
+
+[01:39:33.440] encán veis movimiento entre la
+
+[01:39:36.639] Claro. O sea, estáis mirando en la
+
+[01:39:39.199] jungla si hay algo en la jungla. O sea,
+
+[01:39:41.529] [risas]
+
+[01:39:42.360] hay algo en la jungla.
+
+[01:39:43.719] Siempre hay algo.
+
+[01:39:45.239] Y alg me está buscando a mí.
+
+[01:39:47.400] Vemos huellas también de vemos huellas
+
+[01:39:49.560] de monodías por este por este camino
+
+[01:39:51.199] también como si
+
+[01:39:53.320] hacerme tirada de supervivencia.
+
+[01:39:56.080] A ver si alguna gente que vamos en buen
+
+[01:39:57.320] camino.
+
+[01:39:58.639] De humanides, eh, me preguntáis.
+
+[01:40:01.119] Bueno, de de con botas como la Marina.
+
+[01:40:04.280] Yo busco de botas de cosas de la Marina.
+
+[01:40:07.560] Yo quiero de botas
+
+[01:40:08.520] y que lleven botas,
+
+[01:40:10.119] ¿eh? No hay, no sabéis eso,
+
+[01:40:14.320] hombre. Yo veo una pisado una bota y
+
+[01:40:15.880] digo, "Es una bota muy pisada,
+
+[01:40:17.960] ¿eh?" Sí, la jungla que han pasado ya
+
+[01:40:19.679] una semana. ¿Veis? Pisadas
+
+[01:40:22.159] eso también.
+
+[01:40:23.320] V.
+
+[01:40:24.199] Quizá no hay que buscar,
+
+[01:40:25.920] claro, quizá no hay que buscar huellas
+
+[01:40:27.520] de botas.
+
+[01:40:29.360] Hay que buscar de arrastre. Habíamos
+
+[01:40:31.599] dicho que era el de arrastre del huevo.
+
+[01:40:33.679] Claro, hay que buscar eso. Bueno, pues
+
+[01:40:36.599] vamos buscando el surco del huevo
+
+[01:40:38.599] arrastrándolo.
+
+[01:40:40.520] Vale. Hac una tada de supervivencia.
+
+[01:40:42.520] Tremendo huevo. [risas]
+
+[01:40:45.719] Sí, lo está logrando.
+
+[01:40:47.320] Vale, pues sí, veis un un seguís el
+
+[01:40:49.520] huevo, o sea, estabais siguiendo el
+
+[01:40:51.560] camino este cuando veíais os habían
+
+[01:40:53.360] atacado los voociirraaptores y al cabo
+
+[01:40:55.080] de unos metros pues volvéis a ver ese
+
+[01:40:56.599] pequeño surco que sigue hacia el sur.
+
+[01:41:00.199] Venga, vamos en camino. Con cuidado y
+
+[01:41:02.280] sigamos
+
+[01:41:05.159] y vais siguiendo el el
+
+[01:41:09.199] rastro ese y veis que se va haciendo de
+
+[01:41:13.639] noche. Lleváis un buen rato por la
+
+[01:41:16.239] jungla.
+
+[01:41:18.480] Carta,
+
+[01:41:19.480] ¿no?
+
+[01:41:20.000] Ay, no puede ser.
+
+[01:41:21.000] Soy yo que he dicho que el tiempo corre.
+
+[01:41:23.040] Vale,
+
+[01:41:24.639] veis que se va haciendo un poquito más
+
+[01:41:26.480] de noche y empezáis a
+
+[01:41:30.719] dislumbrar entre la maleza de la jungla,
+
+[01:41:33.760] ¿sabes? Escucháis ya como el agua correr
+
+[01:41:36.400] de un río y ahí cercano empezáis a
+
+[01:41:38.480] dislumbrar pues como unas pequeñas
+
+[01:41:39.960] antorchas encendidas e el hablar de
+
+[01:41:43.639] gente, el chismorreo, ¿sabes? Escucháis
+
+[01:41:45.480] ahí ruidos de gente hablando y veis que
+
+[01:41:48.480] ese ese surco como da la vuelta, se mete
+
+[01:41:51.960] dentro de la selva y va hacia en esa
+
+[01:41:55.000] dirección.
+
+[01:41:57.770] [resoplido]
+
+[01:41:59.440] Pues toca seguir
+
+[01:42:01.199] susurrando. El huevo está cerca de el
+
+[01:42:04.679] campamento verazo.
+
+[01:42:10.560] Otra vez. No
+
+[01:42:13.400] es que
+
+[01:42:15.639] tuviese el campo.
+
+[01:42:20.599] Este fuerte en este sitio, mamá.
+
+[01:42:23.199] No, no es el fuerte.
+
+[01:42:24.920] No, no es el
+
+[01:42:29.440] no no lo conozco, pero este tipo de
+
+[01:42:32.280] gente ya no sé qué hacer.
+
+[01:42:36.639] Normalmente tienen más de fuego,
+
+[01:42:41.280] perros
+
+[01:42:43.679] y mucha gente.
+
+[01:42:45.800] Mínimo seis.
+
+[01:42:50.560] ¿Verdad que se enfrentaros a la marina?
+
+[01:42:53.239] Van a poner busca y captura. El el
+
+[01:42:56.360] objetivo es conseguir.
+
+[01:42:58.960] Yo yo todavía no. Yo todavía no. Taria
+
+[01:43:01.880] todavía no. Bueno, [risas] no te
+
+[01:43:03.040] preocupes,
+
+[01:43:04.440] es cuestión de tiempo, pero
+
+[01:43:06.840] aunque te vean el
+
+[01:43:07.880] yo
+
+[01:43:09.840] solo lo que digo es el objetivo es o o
+
+[01:43:14.320] pisar el huevo y eso sería robar a la
+
+[01:43:16.960] marina.
+
+[01:43:18.880] La Marina meó a mí, así que eso ya es
+
+[01:43:22.480] cosa entre la marina y no vamos a
+
+[01:43:24.400] entrar, no vamos a entrar si los
+
+[01:43:25.880] impuestos son un robo o no, porque estos
+
+[01:43:27.400] son otros temas que [risas]
+
+[01:43:29.639] a ver, técnicamente la marina cogió el
+
+[01:43:31.520] huevo como saqueo en una un ataque a una
+
+[01:43:34.080] población pirata técnicamente.
+
+[01:43:39.440] Pero es que era mío, no era ni siquiera
+
+[01:43:41.679] de los piratas.
+
+[01:43:44.119] ¿Tú crees tú ves a mamá siendo una
+
+[01:43:45.599] pirata?
+
+[01:43:47.520] No, yo no he dicho eso.
+
+[01:43:50.520] Ha robado un civil. Esto está mal.
+
+[01:43:53.960] De todas formas, ¿cuál es vuestra
+
+[01:43:55.199] aprovechamiento? Vamos a entrar ahí,
+
+[01:43:56.280] empezar a matar gente inocente.
+
+[01:43:58.320] No,
+
+[01:43:59.159] vamos a procurar irnos en silencio.
+
+[01:44:02.360] Tampoco es eso.
+
+[01:44:03.199] Ustedes con más silencio. Señalo a los
+
+[01:44:05.480] dos con la armadura este pesada.
+
+[01:44:09.199] Con más silencio. ¿Cómo quieres que haga
+
+[01:44:10.679] eso?
+
+[01:44:11.639] Eh, tengo un truquito para eso.
+
+[01:44:14.520] Yo la fruta que me he tomado me creo que
+
+[01:44:17.800] me permite levantar a una o dos
+
+[01:44:19.480] personas. Igual no hacéis tanto ruido.
+
+[01:44:20.800] Si llevo volando yo.
+
+[01:44:26.199] Podemos intentarlo.
+
+[01:44:27.599] Lo pruebo
+
+[01:44:28.119] también. También puedo hacer esto.
+
+[01:44:31.119] A ver,
+
+[01:44:32.280] a ver,
+
+[01:44:33.320] a ver qué intentas. Pi pop.
+
+[01:44:38.199] Opa.
+
+[01:44:39.760] Vale,
+
+[01:44:40.280] hechizo.
+
+[01:44:43.239] Vais a entraria
+
+[01:44:44.480] entrar escondiendo. Todo
+
+[01:44:47.560] pues tirada de sigiros todo. Winscore y
+
+[01:44:50.360] Tarial con sigo. Ahy con desventaja.
+
+[01:44:52.119] No, no, todos, todos, todos tenemos un
+
+[01:44:53.520] más 10.
+
+[01:44:54.159] Sí, sí, pero tú y y Tarial con
+
+[01:44:55.679] desventaja.
+
+[01:44:56.159] Ah, sí, desventaja. Desventaja. Sí,
+
+[01:44:57.840] de momento hasta que consiga la armadura
+
+[01:44:59.040] que no
+
+[01:44:59.360] sumarle un más 10 y ya está. En la
+
+[01:45:01.800] tirada os pondrá un hueco ahí.
+
+[01:45:03.639] 10 y fuera [resoplido]
+
+[01:45:06.599] este
+
+[01:45:08.000] más 10 19 pol
+
+[01:45:09.920] y no lo he sumado
+
+[01:45:14.360] esperemos que vaya bien la cosa.
+
+[01:45:16.159] [ __ ]
+
+[01:45:16.920] la mam
+
+[01:45:19.040] 16.
+
+[01:45:21.320] A ver,
+
+[01:45:21.800] no es
+
+[01:45:22.440] a ver mamá es invisible.
+
+[01:45:25.239] Mamá es literalmente invisible. No la
+
+[01:45:27.000] vemos ni ninguno ni intentándolo.
+
+[01:45:31.239] Vale,
+
+[01:45:31.480] a ver qué pasa.
+
+[01:45:32.360] Pues
+
+[01:45:34.159] os empezáis a adentrar en esa jungla,
+
+[01:45:37.800] empezáis a avanzar.
+
+[01:45:40.639] ¿Y dónde está? Aquí.
+
+[01:45:47.520] Oh, no.
+
+[01:45:50.199] Oh, no.
+
+[01:45:55.280] Vale, veis que empezáis a avanzar, ¿eh?
+
+[01:45:59.239] Todos vais bastante sigilosos, pero
+
+[01:46:02.280] Blink,
+
+[01:46:03.800] tú vas demasiado alto.
+
+[01:46:07.159] Es un 19 lo que sacado Blink.
+
+[01:46:08.599] Ah, sa. Ah, es verdad, te lo he dicho.
+
+[01:46:12.280] Ah, vale, vale, vale.
+
+[01:46:13.400] Es esa, esa cóo la más baja.
+
+[01:46:14.960] Pues entonces nada, pues entonces todos
+
+[01:46:16.920] llegáis en sigiro,
+
+[01:46:19.360] vais avanzando por ese campamento
+
+[01:46:23.199] y cuando estáis un poquito más cerca,
+
+[01:46:26.080] sobre todo en Winscore y y Mama, que
+
+[01:46:29.400] sois los que tenéis más percepción,
+
+[01:46:32.040] empezáis a escuchar
+
+[01:46:34.159] una discusión,
+
+[01:46:36.199] ¿vale? Bueno, en parte de escuchar como
+
+[01:46:37.880] que mueven cajas, un carro, algún perro
+
+[01:46:41.119] ladrando, escuchas una discusión.
+
+[01:46:44.440] Veis que hay como dos figuras, escucháis
+
+[01:46:46.760] dos dos voces de autoridad como diciendo
+
+[01:46:49.040] algo, discutiendo con un con pues
+
+[01:46:51.159] parecen que pues alguien de menos rango,
+
+[01:46:54.560] pero hay una voz extra, una voz extraña,
+
+[01:46:57.360] ¿no? No debería estar ahí.
+
+[01:47:00.159] Y
+
+[01:47:01.960] tu mam la conoces muy bien porque ves
+
+[01:47:06.040] que dice,
+
+[01:47:07.280] "Pero, ¿cómo que no? Yo quiero eso.
+
+[01:47:09.679] Dámelo."
+
+[01:47:11.199] Y veis a una vieja,
+
+[01:47:14.794] [risas] ¿vale? pillada como pillada así
+
+[01:47:17.639] por los brazos que está con los pies
+
+[01:47:19.080] colgando por dos marines delante de esas
+
+[01:47:22.159] dos figuras de autoridad que son dos
+
+[01:47:23.719] capitanes y ves que la vieja está
+
+[01:47:25.400] diciendo, "A ver, me tenéis que dar eso
+
+[01:47:27.520] porque eso es mío, lo he encontrado yo."
+
+[01:47:29.199] Y ves que los marines están diciendo,
+
+[01:47:30.719] "Sacar a esta señora de aquí de una
+
+[01:47:32.119] [ __ ] vez que lleva dos días
+
+[01:47:33.560] siguiéndonos."
+
+[01:47:36.409] [risas]
+
+[01:47:38.800] Le incautaron le [ __ ] le incautaron
+
+[01:47:42.880] todo el alijo.
+
+[01:47:45.800] Oye, pero ya que este no se ha visto.
+
+[01:47:47.239] Vale, pues vosotros mismos, ¿qué queréis
+
+[01:47:48.520] saber?
+
+[01:47:53.040] Okay, puedo puedo ver a mi distancia
+
+[01:47:57.599] dónde está el huevo.
+
+[01:48:00.920] Eh eh no no está pues a simple vista.
+
+[01:48:05.159] No está la vista.
+
+[01:48:07.320] Okay.
+
+[01:48:08.360] Creo que puede estar dentro de la carpa
+
+[01:48:10.599] grande.
+
+[01:48:14.719] Hay mucha gente y perros.
+
+[01:48:19.360] Demasiada, hay demasiada gente, la
+
+[01:48:21.159] verdad,
+
+[01:48:22.239] para ir de cara. Sí,
+
+[01:48:24.199] pues vamos en misión de sigilo.
+
+[01:48:26.480] Rodemos por el lado.
+
+[01:48:30.119] No os alejéis mucho.
+
+[01:48:34.050] [risas]
+
+[01:48:34.599] Hasta habrá que ir con cigilo.
+
+[01:48:38.960] Vale. ¿Hasta dónde queréis ir?
+
+[01:48:42.480] Rodear pegaditos al borde del mapa.
+
+[01:48:45.719] Vale,
+
+[01:48:47.800] de
+
+[01:48:48.400] hasta el otro borde del mapa.
+
+[01:48:50.239] Vale, pues hacerme una tirada de sigilo
+
+[01:48:52.719] hasta aquí.
+
+[01:48:55.080] Sí, sí, así me lo sumaré ya los 10.
+
+[01:49:02.599] Ahí va el 10.
+
+[01:49:06.159] Uy,
+
+[01:49:07.040] otro 14.
+
+[01:49:09.080] ¿Por qué me por qué se me abre
+
+[01:49:10.679] directamente siempre las fichas de
+
+[01:49:12.119] Kilter en vez de esta? Digo, [ __ ]
+
+[01:49:14.080] digo,
+
+[01:49:15.199] ¿por qué no tendrás puesto el de esto?
+
+[01:49:16.520] Eh, moveros hasta moveros hasta donde
+
+[01:49:18.599] queráis moveros los que de momento
+
+[01:49:20.520] winscore y blink, moveros.
+
+[01:49:22.800] No, no os alejéis más de 30 pies de mí,
+
+[01:49:24.119] que si no perdíis el efecto.
+
+[01:49:27.159] 28
+
+[01:49:30.000] y mam
+
+[01:49:30.560] no se alejéis de mí.
+
+[01:49:32.560] Okay.
+
+[01:49:33.239] Ah, no os preocupéis lo cuento como como
+
+[01:49:35.239] que
+
+[01:49:36.920] se va a mover. Espérate
+
+[01:49:39.719] si no vienes con nosotros pierdes el 10.
+
+[01:49:41.960] Tranquil.
+
+[01:49:43.560] Pues sí, o sea, lo que voy a hacer es
+
+[01:49:45.040] eso, o sea, me voy a a mover poquito,
+
+[01:49:48.119] poquito,
+
+[01:49:49.480] pero
+
+[01:49:50.639] aguanta, espera aquí.
+
+[01:49:53.159] Vale.
+
+[01:49:54.920] Y quiero ver si puedo llamar la atención
+
+[01:49:57.560] del perrito.
+
+[01:49:59.719] ¿Cómo?
+
+[01:50:02.679] Voy a dar un pequeño No, no, mejor no.
+
+[01:50:06.199] Un silvido, no, eh. Voy a aventar una
+
+[01:50:08.639] piedrita.
+
+[01:50:09.920] Vale, prim una tirada de sigilo y
+
+[01:50:11.920] vosotros si queréis ir tirando para allá
+
+[01:50:13.440] ir. Eh,
+
+[01:50:15.520] yo yo os digo, si os queréis aquí a ver
+
+[01:50:17.560] a mamá, perfecto.
+
+[01:50:20.719] Okay. A ver,
+
+[01:50:21.719] la idea es que ya que hemos tirado el
+
+[01:50:23.560] sigilo para irnos moviendo.
+
+[01:50:26.560] Qué cobardes.
+
+[01:50:27.280] Yo quiero mantener a todo el mundo.
+
+[01:50:29.760] Quiero mantener a todo el mundo dentro.
+
+[01:50:31.000] Tiene 35 de sigilo.
+
+[01:50:33.000] Sí, sí. No, nosotros para
+
+[01:50:35.280] con mi mat.
+
+[01:50:36.280] Claro, pero si no son 25.
+
+[01:50:38.480] Claro, o sea, qué mal le da.
+
+[01:50:39.639] Como no veo como no haya un dragón aquí.
+
+[01:50:42.079] Ah, no, espera que hay algo peor.
+
+[01:50:44.679] No me acordaba porque tienen
+
+[01:50:47.679] tarú no,
+
+[01:50:49.159] pero
+
+[01:50:50.760] Blink y Winscore
+
+[01:50:53.400] cuando pasáis pues donde ibais aquí no
+
+[01:50:56.320] habíais dicho hasta aquí arriba.
+
+[01:50:58.320] Plan llegar.
+
+[01:50:59.320] Claro,
+
+[01:50:59.599] hasta aquí arriba y de aquí para acá.
+
+[01:51:01.599] Vale,
+
+[01:51:02.000] claro.
+
+[01:51:02.440] Máximo sigilo posible. Pegaditos,
+
+[01:51:04.119] pegaditos al pegaditos al mapa.
+
+[01:51:05.760] Cuando vais por esta, bueno, imagino,
+
+[01:51:07.960] vais por aquí, por esta zona, veis que
+
+[01:51:11.440] no los piratas están como increpando a
+
+[01:51:13.239] los marines, están crepando a a la
+
+[01:51:15.440] señora. Veis que los marinos están esto,
+
+[01:51:16.840] algunos están riendo, cargando las cajas
+
+[01:51:18.760] y veis la señora que está discutiendo,
+
+[01:51:20.440] pero ves que cuando pasáis la señora
+
+[01:51:22.280] hace tan y se gira en vuestra dirección.
+
+[01:51:25.760] Tengo 23 de pasivo. Tengo 23 de pasivo,
+
+[01:51:28.760] así que sí que
+
+[01:51:29.840] yo saco más de 23.
+
+[01:51:31.280] Tú no, tú no. Por eso a Winscore y a
+
+[01:51:32.800] Blin sacado [risas] un 14. He sacado dos
+
+[01:51:35.800] y ves que se os queda así y hace tan
+
+[01:51:37.440] chan tan y se queda mirando cómo os
+
+[01:51:38.679] movéis.
+
+[01:51:40.920] Yo entiendo que también nos ve a
+
+[01:51:42.040] nosotros que yo también la veo.
+
+[01:51:43.679] Sí, sí, vosotros la veis con la gente.
+
+[01:51:47.760] Y mamá,
+
+[01:51:49.520] ¿quieres tirar una piedrecita al perro?
+
+[01:51:53.119] Cerca. Quiero que el perro se acerque a
+
+[01:51:54.760] mí.
+
+[01:51:56.360] Haz una tirada de trato con animales.
+
+[01:52:01.960] Por favor, que salga bien. Por favor,
+
+[01:52:03.079] que salga bien. Por favor, que salga
+
+[01:52:04.320] bien.
+
+[01:52:09.360] Vale, pues ves que tirarás la
+
+[01:52:11.440] piedrecita, pero ves que el perro como
+
+[01:52:13.639] estaba recostado, le tiras la piedra y
+
+[01:52:15.119] como que se levanta, mira y empieza guow
+
+[01:52:19.159] y empieza a ladrar.
+
+[01:52:21.079] Distracción. [risas]
+
+[01:52:22.400] Y nada, pues verías que este hombre pues
+
+[01:52:24.079] se va. Hay un hombre que se va
+
+[01:52:25.280] acercando, dice, "Tú, Chucho, ¿quieres
+
+[01:52:26.679] callarte ya?" Y se va acercando al
+
+[01:52:28.440] Churcho. ¿Qué has visto? ¿Qué pasa? Y
+
+[01:52:30.920] está el perro. Guow, guow, guow. Y
+
+[01:52:33.320] empieza a olfatear.
+
+[01:52:36.320] Vamos bien, vamos bien, vamos bien.
+
+[01:52:38.440] Tengo tengo un pequeño plan. [risas]
+
+[01:52:40.880] Todo forma parte del plan.
+
+[01:52:43.360] Y el perro
+
+[01:52:45.280] olfateando. [resoplido]
+
+[01:52:47.880] ¿No tienen ventaja los perros en
+
+[01:52:49.159] percepción?
+
+[01:52:50.800] Mm.
+
+[01:52:53.480] para
+
+[01:52:54.000] pero para sacar 35
+
+[01:52:56.560] para buscar rastros es seguro que
+
+[01:52:58.119] 35 no, eh 25 porque no estoy yo
+
+[01:53:01.079] igualmente como no sa un 20
+
+[01:53:04.480] okay
+
+[01:53:04.960] pero se ha quedado muy cerca eh
+
+[01:53:08.239] un perro es
+
+[01:53:09.920] me voy a lanzar el el speak animals
+
+[01:53:13.719] y quiero hablarle al perrito
+
+[01:53:18.840] a esta distancia Sea,
+
+[01:53:21.360] no, obviamente voy aar un poquito.
+
+[01:53:24.880] Vale, pues vale.
+
+[01:53:28.760] ¿Qué haces? ¿Qué dices?
+
+[01:53:29.480] Sigilo para que no te pisen,
+
+[01:53:30.760] ¿no? ¿Qué haces?
+
+[01:53:32.360] Dejar al máster.
+
+[01:53:34.360] Okay. Lo que quiero hacer es hablarle
+
+[01:53:38.679] en perro.
+
+[01:53:39.800] Ya le digo, "Ven, chiquito, ven."
+
+[01:53:43.760] Vale,
+
+[01:53:44.840] ven, precioso.
+
+[01:53:46.320] Es que el perro mira, mira en esa
+
+[01:53:48.560] dirección. Pero si el perro te oye, este
+
+[01:53:50.800] hombre también. Y escucha, guow,
+
+[01:53:52.360] ¿no? Porque estoy Ah,
+
+[01:53:53.960] wow,
+
+[01:53:55.159] otro perro. Tú tranquilo.
+
+[01:53:57.079] Y es que el hombre pues bajaría también.
+
+[01:53:59.360] Pero, ¿qué pasa?
+
+[01:54:01.159] ¿Está ahí Tobi? Y empezaría a mirar
+
+[01:54:04.119] hacia atrás y dice, "Pero si Tobi está
+
+[01:54:05.480] ahí."
+
+[01:54:07.040] Y señala hacia ahí. ¿Qué haces, pequeño?
+
+[01:54:09.920] Espero pues va a empezar a entrar por la
+
+[01:54:11.520] jungla.
+
+[01:54:14.480] Okay, me voy a me voy a acercar hacia el
+
+[01:54:16.520] perrito.
+
+[01:54:18.560] Hola, chiquito, ¿cómo estás, precioso?
+
+[01:54:23.880] ¿Ves que me entra el hombre porque va a
+
+[01:54:25.480] escuchar a dos perros ha diciendo guerra
+
+[01:54:29.599] hablando un perro
+
+[01:54:30.480] y nada, pues va a entrar el señor y te
+
+[01:54:31.920] va a ver y te
+
+[01:54:33.880] es unal.
+
+[01:54:35.679] ¿Quién es usted, señora? Y ves que te va
+
+[01:54:37.560] a intentar [ __ ]
+
+[01:54:40.040] Okay, espera.
+
+[01:54:42.159] Es amiga de la otra abuela.
+
+[01:54:45.560] Le hunde el cráneo a chancletazo.
+
+[01:54:47.639] ¿Qué le dices?
+
+[01:54:50.480] Ay, lo siento, eh, es que me perdí aquí
+
+[01:54:54.280] en aquí en la selva y y estoy intentando
+
+[01:54:57.880] buscar alimento. Eh, y también se me
+
+[01:55:01.000] perdió algo por aquí y la estoy
+
+[01:55:03.400] intentando buscar. No sé si si tú me
+
+[01:55:05.560] puedas ayudar en eso. Y con con esos
+
+[01:55:08.960] ojitos de de abuelita desamparada. Ah, y
+
+[01:55:12.199] ves que ay, no le ladres a la señora. Y
+
+[01:55:15.360] ves que le da una [ __ ] al morro del
+
+[01:55:16.639] perro.
+
+[01:55:17.800] No, no, no le pegues, no le pegues. Ay,
+
+[01:55:20.520] pobrecito. Perdón, señor, no le quería
+
+[01:55:22.639] pegar, pero está usted bien y un dado de
+
+[01:55:25.000] cuatro.
+
+[01:55:26.960] Un de cuatro. Voy
+
+[01:55:31.760] a ver un de cu. ¿Ves
+
+[01:55:37.440] que al hombre le va sangrando la oreja?
+
+[01:55:42.199] Uh.
+
+[01:55:43.280] Y ves que y Pero señora, no se preocupe,
+
+[01:55:46.400] mire, acompáñeme. Hablaré con el capitán
+
+[01:55:48.360] que se ha perdido y seguro que la
+
+[01:55:49.360] llevaremos a casa.
+
+[01:55:51.719] Ay, sí, muchas gracias, mi niño. Y
+
+[01:55:54.199] quiero seguir hablando con el perrito
+
+[01:55:55.560] así por por encimita. Quiero hacerme su
+
+[01:55:58.400] amiga.
+
+[01:55:59.480] El perro.
+
+[01:56:00.880] Sí.
+
+[01:56:02.880] yo hablas con el marine de pronto. Guow
+
+[01:56:05.560] gua gua gua gua guau.
+
+[01:56:07.360] No, porque va a ser guada
+
+[01:56:10.880] y te vas a ir acercando. Mientras tanto,
+
+[01:56:13.520] los demás, ¿qué hacéis? ¿Veis que
+
+[01:56:15.040] llegáis aquí? ¿Habéis visto esa vieja
+
+[01:56:16.400] que os ha mirado? Y nada, ahora vendría
+
+[01:56:19.480] mam un momento y lo voy a dejar aquí.
+
+[01:56:21.520] ¿Qué queréis hacer vosotros?
+
+[01:56:22.400] Yo el gesto de de así
+
+[01:56:25.800] y no me vist para atrás.
+
+[01:56:29.199] Usted no ha visto nada. ¿Y
+
+[01:56:32.860] [resoplido]
+
+[01:56:34.079] qué queréis hacer
+
+[01:56:35.199] a los Homers Simpson?
+
+[01:56:36.800] Pues
+
+[01:56:38.360] X por aquí.
+
+[01:56:40.320] Vale.
+
+[01:56:40.960] El plan es llegar realmente hasta detrás
+
+[01:56:42.960] de la
+
+[01:56:44.760] de la
+
+[01:56:46.280] Vale,
+
+[01:56:47.719] por aquí pegado la piedrecita esta.
+
+[01:56:50.400] Vale.
+
+[01:56:53.599] Y
+
+[01:56:54.639] y una vez cuando estamos pegados, yo
+
+[01:56:56.599] quiero estar así como una ligerita
+
+[01:56:58.560] ojeada a ver si por
+
+[01:57:01.639] Claro, por contorno, por siluetas de
+
+[01:57:04.079] luces que pueda haber dentro como vela o
+
+[01:57:06.960] cualquier cosa de iluminación, se ve la
+
+[01:57:09.560] el contorno de un gran huevo.
+
+[01:57:11.639] También puede entrar Blink.
+
+[01:57:15.239] Sí, yo quería ver si si hay algún
+
+[01:57:16.719] agujero aquí en el levantar un poquito
+
+[01:57:19.159] la tele y que entre. No,
+
+[01:57:19.960] es una tienda. Claro. Sí,
+
+[01:57:23.000] eso
+
+[01:57:23.320] sí, entrar un poquito por debajo.
+
+[01:57:24.880] Exacto. Miraría si hay algún agujero y
+
+[01:57:26.760] si y si no hay un agujero, pues entraría
+
+[01:57:28.360] por debajo de la tela, como dice.
+
+[01:57:29.920] Vale, una tirada de sigilo.
+
+[01:57:32.760] Sí, sí.
+
+[01:57:36.599] Todos o blink,
+
+[01:57:37.760] eh, blink, porque vosotros estáis
+
+[01:57:38.880] detrás. Me falta más 10, ¿eh? El más 10
+
+[01:57:41.679] 25. Vale,
+
+[01:57:43.280] pues te metes dentro y ves un huevo.
+
+[01:57:47.719] Tienes un por tres al carry capacity.
+
+[01:57:52.800] Es un huevo y
+
+[01:57:55.520] miro si lo protege algo, ¿sabes? O sea,
+
+[01:57:58.360] estaba hacia la tienda y veo un huevo.
+
+[01:57:59.639] No,
+
+[01:58:00.119] no, la tienda hay cosas, o sea, hay una
+
+[01:58:01.880] cama y no sé qué había, pero ves un
+
+[01:58:03.520] huevo enorme ahí.
+
+[01:58:06.040] O sea, el huevo es tamaño medio. No os
+
+[01:58:07.480] penséis un huevo 300 m.
+
+[01:58:09.320] Sí. No, no, si hoy justamente hoy me veo
+
+[01:58:11.400] con fortes eh eh he de llevarlo, pero
+
+[01:58:14.079] miro miro si veo algún sitio por donde
+
+[01:58:16.599] sacarlo, si se un a un espacio de tela
+
+[01:58:19.119] libre por donde puedan cortar los
+
+[01:58:20.199] compañeros y sacarlo por la puerta.
+
+[01:58:22.280] Es un huevo. Claro, es un huevo grande.
+
+[01:58:23.679] Por aquí abajo no pasa.
+
+[01:58:26.159] No, pero si raj
+
+[01:58:28.800] es es un huevo de del tamaño igual de
+
+[01:58:31.560] grande que tú de que un enano.
+
+[01:58:34.040] Un metro y pico. Vale.
+
+[01:58:35.520] Sí, sería como un enano. Este es un
+
+[01:58:37.400] ketch de estos, o sea, es un huevo.
+
+[01:58:40.587] [risas]
+
+[01:58:42.960] Ese ese huevo es un huevo.
+
+[01:58:44.960] [ __ ] pues incluso más grande, ¿eh?
+
+[01:58:47.760] Por lo menos en Jurassic Wars son
+
+[01:58:49.639] tremenda cosa así. Pues más grande.
+
+[01:58:51.599] Entonces,
+
+[01:58:52.639] metro y pico.
+
+[01:58:53.840] Eso estuvo empollando. 20 metro.
+
+[01:58:57.239] Es gordo. Es grande.
+
+[01:58:59.280] O sea, grande es que lo puede levantar
+
+[01:59:00.800] blink. Sí, pero es eso. Es grande. Y el
+
+[01:59:02.560] único sitio por donde cabría mismo es la
+
+[01:59:04.400] puerta. Claro.
+
+[01:59:06.440] Menos que hagamos otra.
+
+[01:59:08.480] No es una tienda de tela, ¿no? Que
+
+[01:59:09.520] podemos rajar, por ejemplo.
+
+[01:59:11.239] Eh, sí.
+
+[01:59:15.320] Pues
+
+[01:59:17.560] daga cortar. Eh, se ha quedado otra vez
+
+[01:59:19.639] la cabeza por debajo de la tienda,
+
+[01:59:20.920] ¿sabes? Y al huevo aquí y no hay nadie
+
+[01:59:24.840] dentro.
+
+[01:59:28.119] Vale, vigila, vigila que nadie se entra
+
+[01:59:30.679] a la tienda y cojo un mini cuchillo y
+
+[01:59:34.599] empiezo a cortar muy lentamente para que
+
+[01:59:36.040] no hacer el mínimo ruido posible hacia
+
+[01:59:37.599] arriba.
+
+[01:59:38.400] Puesto esto. Vale. Y Zaria, ¿tú qué
+
+[01:59:40.960] haces?
+
+[01:59:42.639] Yo vigilo de que no venga nadie mientras
+
+[01:59:45.159] que mi compañero raja la
+
+[01:59:48.920] la tienda. Intento intento hacerlo como
+
+[01:59:51.440] por si fuera de por de la cama o algo
+
+[01:59:53.079] así para que si alguien entrara
+
+[01:59:54.280] directamente no vería el agujero.
+
+[01:59:56.440] Vale.
+
+[01:59:56.679] Eh, te lo digo por si acaso. Este
+
+[01:59:58.599] todavía este todavía le tengo visión. O
+
+[02:00:00.840] sea,
+
+[02:00:02.400] ¿qué
+
+[02:00:02.639] me aparece? Gris.
+
+[02:00:04.199] Sí, ya lo sé.
+
+[02:00:04.599] Sí, este se le ve negro, pero
+
+[02:00:06.599] eh
+
+[02:00:07.159] ya no como han desaparecido todo menos
+
+[02:00:08.639] ese, digo,
+
+[02:00:09.040] da igual, ¿eh? Vale, a ver, tendrías que
+
+[02:00:11.280] hacer un agujero, tendrías que hacer un
+
+[02:00:12.480] agujero grande,
+
+[02:00:14.719] pero tengo que empezar empezar desde
+
+[02:00:16.079] abajo de la tienda para que no empezar
+
+[02:00:17.360] ahí en mitad y empezar para abajo y
+
+[02:00:18.920] intentar que me lo cubra la cama, un
+
+[02:00:20.840] armarico o algo para que poder cortar
+
+[02:00:22.800] sin y si alguien entra poder simplemente
+
+[02:00:24.280] parar y que no vea directamente el
+
+[02:00:25.960] agujero y sabes no empezar.
+
+[02:00:27.719] Vale, pues haz una tirada de sigil.
+
+[02:00:32.599] Bien, se me dan muy bien esas tiradas.
+
+[02:00:35.599] Gracias
+
+[02:00:37.280] por si alguien había enterado.
+
+[02:00:41.280] Bueno, bueno, 10.
+
+[02:00:43.079] Vale. Y nada, pues empezáis a hacer ahí,
+
+[02:00:46.199] empezáis a rajar eso y mamá,
+
+[02:00:51.119] tú vas llegando hasta vas hablando hasta
+
+[02:00:54.320] aquí, ves que el señor, el hombre te va
+
+[02:00:55.639] diciendo, "Tírame otro dado de cuatro."
+
+[02:00:57.159] Y el señor te va diciendo, e, eh, pues
+
+[02:01:00.119] no se preocupe, señora, ahora hay una
+
+[02:01:01.639] vieja horrible, horrible, que la
+
+[02:01:03.360] queremos la queremos echar porque está
+
+[02:01:04.920] diciendo no sé qué de un huevo, pero
+
+[02:01:06.320] usted no se preocupe, que yo hablo con
+
+[02:01:07.960] el capitán y le resolvemos su problema y
+
+[02:01:10.920] ves que le empieza a sangrar sangre del
+
+[02:01:12.719] otro del otro.
+
+[02:01:15.760] Le [risas]
+
+[02:01:16.520] le está matando poco a poco la vieja
+
+[02:01:18.599] radioactiva.
+
+[02:01:19.400] Sí, sí. Yo no sé por qué os hacéis
+
+[02:01:22.199] amigos de la vieja.
+
+[02:01:24.159] Yo no me he hecho amigo de la vieja. la
+
+[02:01:25.400] intentando matarme.
+
+[02:01:26.639] Y mamá, llegarías y verías pues a Pinky
+
+[02:01:28.719] así colgada como diciendo, "A ver que
+
+[02:01:31.360] eso pues a ver es mío porque es mío
+
+[02:01:34.239] porque aquí todo es mío." Y está ahí
+
+[02:01:36.599] colgada. Y ves que los capitanes
+
+[02:01:38.719] los capitanes están diciendo, "Pero
+
+[02:01:40.280] queréis echarla ya de una [ __ ] vez y
+
+[02:01:42.239] por qué traéis a otra señora mayor
+
+[02:01:45.299] [risas]
+
+[02:01:45.360] y por qué no
+
+[02:01:48.599] le del siglo
+
+[02:01:51.840] usted no fan de las
+
+[02:01:53.639] ¿Qué dice mam?
+
+[02:01:57.760] No se te oye.
+
+[02:02:01.360] Eh, les decía una una disculpa la
+
+[02:02:05.119] interrupción. Eh, mira, eh, tuve un
+
+[02:02:08.440] pequeño inconveniente y y perdí algo muy
+
+[02:02:11.280] importante para mí.
+
+[02:02:15.159] ¿Ves que Pingui se gira, dice, "Ah,
+
+[02:02:19.119] hola, señora vieja."
+
+[02:02:21.400] Hola.
+
+[02:02:23.944] [resoplido] A ti también te han pillado,
+
+[02:02:26.960] ¿eh? No, para nada.
+
+[02:02:31.760] ¿Y qué has venido a hacer?
+
+[02:02:35.320] Me perdí.
+
+[02:02:38.960] Tírame decepción.
+
+[02:02:40.974] [risas]
+
+[02:02:43.639] Ay, no puede ser.
+
+[02:02:45.480] Pero tiene un señor con la respalda.
+
+[02:02:49.000] Sí, el señor que está sangrando por
+
+[02:02:50.400] todos los orificios de su cuerpo. Pero
+
+[02:02:52.000] oye,
+
+[02:02:52.480] uh, pues mira,
+
+[02:02:54.040] pues sí que me lo se lo cree y ves que
+
+[02:02:55.960] hace. Ah, bueno,
+
+[02:02:58.800] pues a mí me han pillado.
+
+[02:03:02.119] ¿Y qué quiere usted, señora? ¿Qué pasa?
+
+[02:03:04.560] E no, capitán, es que esta señora estaba
+
+[02:03:06.840] perdida en el bosque y era para
+
+[02:03:09.079] ayudarla. Eh, ¿tú te crees que somos una
+
+[02:03:11.800] ONG? Llevaos a esta señora y a la otra
+
+[02:03:13.599] de una [ __ ] vez fuera,
+
+[02:03:15.960] ¿eh? Pero señor,
+
+[02:03:16.639] ¿está abierta la puerta en su momento,
+
+[02:03:18.280] eh?
+
+[02:03:19.840] Ah, nada, nada, nada.
+
+[02:03:22.119] Iba a hacer una locura, pero pasó una.
+
+[02:03:24.719] A ver, voy a hacer lo siguiente.
+
+[02:03:26.159] Por loito, voy a empezar a llorar
+
+[02:03:28.639] amargamente
+
+[02:03:30.199] para poder llamar la atención de de pues
+
+[02:03:33.360] lo de los altos cargos
+
+[02:03:35.960] y este y crear una distracción con eso.
+
+[02:03:40.440] Vale, hazme una tirada de performance.
+
+[02:03:43.960] No [ __ ] A ver si ojalá salga.
+
+[02:03:46.520] Fácil.
+
+[02:03:47.679] Vamos, vamos, vamos, vamos, vamos,
+
+[02:03:49.000] vamos.
+
+[02:03:51.079] Mira.
+
+[02:03:51.320] Vale, pues vais que empezar a llorar y
+
+[02:03:53.559] que como el capitán se dice, "Pero
+
+[02:03:54.719] señora, no empecé a llorar." Pero
+
+[02:03:56.119] tranquila, tranquila, que pues el otro
+
+[02:03:58.239] capitán se vería acercando. Algunos que
+
+[02:03:59.960] están aquí como, "Hostia, ¿qué está
+
+[02:04:01.280] pasando?" Que empiezan a hablar entre
+
+[02:04:02.760] ellos. El perrito este empezaría a
+
+[02:04:04.800] ladrar, ¿sabes? Cuando un perro se
+
+[02:04:06.239] vuelve loco, pues empieza a ladrar y
+
+[02:04:08.520] nada, pues empiezas a llorar y bueno,
+
+[02:04:10.960] pues empieza a mirar, te empiezan a
+
+[02:04:13.119] mirar todo.
+
+[02:04:14.159] Pero señora, tranquilícese. La
+
+[02:04:15.559] llevaremos a vesme tirando de cuatro.
+
+[02:04:17.320] Entiende, no lo entiende. [risas] He
+
+[02:04:20.199] perdido algo muy valioso. Mis niños no
+
+[02:04:23.440] los encuentro. Los estoy buscando por
+
+[02:04:26.679] todas partes y no es posible porque
+
+[02:04:30.480] siempre se me fan y así. Yo sigo, lloro
+
+[02:04:33.480] y llor, llor,
+
+[02:04:34.400] ¿vale? Y nada, pues winscor, acabáis de
+
+[02:04:36.880] hacer ese agujero y veis el huevo.
+
+[02:04:40.040] Vale, pues yo lo mantengo abierto para
+
+[02:04:41.559] que nuestra pequeña pueda sacarlo
+
+[02:04:44.719] y me estoy como volando como una cosa
+
+[02:04:46.119] super grande que hoy estoy como
+
+[02:04:47.079] superfuerte
+
+[02:04:49.079] hacer
+
+[02:04:49.559] y salgo con él
+
+[02:04:50.520] hacer menos tres una tirada de sigilo.
+
+[02:04:54.159] Venga,
+
+[02:04:54.679] vamos aquí.
+
+[02:04:59.840] Me faltan más 10, ¿eh? A ver qué tengo.
+
+[02:05:02.320] A faltan más 10. Faltan más 10,
+
+[02:05:04.000] eh. 22.
+
+[02:05:06.159] Ajá.
+
+[02:05:07.960] Vale.
+
+[02:05:11.159] Uh.
+
+[02:05:12.199] Uf. 19.
+
+[02:05:14.280] Uh,
+
+[02:05:14.559] pues estáis sacando con el huevo. Tu
+
+[02:05:16.480] mamá estás llorando, así que ves que los
+
+[02:05:18.040] piratas vienen y
+
+[02:05:23.239] no sabe [risas] muy mal hacerlo, pero
+
+[02:05:24.520] así es el lore. ¿Veis que Pinky está así
+
+[02:05:26.840] y hace está mintiendo, os quieren robar
+
+[02:05:29.679] el huevo esos de allí y os señala a
+
+[02:05:31.400] vosotros?
+
+[02:05:33.000] Pero no ha visto si estamos dentro de la
+
+[02:05:34.199] tienda. [risas]
+
+[02:05:35.239] No, estáis saliendo, habéis hecho,
+
+[02:05:36.440] habéis hecho un agujero y estáis
+
+[02:05:37.440] saliendo con un huevo. Tengo 23. Claro,
+
+[02:05:40.599] pero para pero a ver, el huevo está
+
+[02:05:43.719] aquí.
+
+[02:05:44.440] Cuando la ala coge el huevo y el huevo
+
+[02:05:46.119] se mueve solo hacia aquí, la vieja os
+
+[02:05:48.840] ve.
+
+[02:05:49.000] Ah, pensaba que estaba cerrada la esta.
+
+[02:05:50.960] No, la puerta es momento.
+
+[02:05:53.159] Es momento.
+
+[02:05:53.599] Es que lo peor lo peor de todo es que
+
+[02:05:56.159] todos nos hemos quedado al límite de que
+
+[02:05:58.040] ella no nos pueda ver. Literalmente 23.
+
+[02:06:01.000] Sí,
+
+[02:06:01.440] claro. Es que tú 23, Blin 22, yo 19. Es
+
+[02:06:04.679] que literalmente por la mínima, por el
+
+[02:06:07.520] rabillo del ojo.
+
+[02:06:09.360] No se no se ha visto la [ __ ] señora
+
+[02:06:10.719] superpererosa.
+
+[02:06:11.639] La [ __ ]
+
+[02:06:12.119] maravillosos.
+
+[02:06:12.800] No, no super poderosa. Lo que pasa que
+
+[02:06:14.760] era una hija de [ __ ]
+
+[02:06:17.599] Me cago en es que me encantó
+
+[02:06:20.679] el plan perfecto y ya. Sí, sí,
+
+[02:06:24.159] claro.
+
+[02:06:26.000] A ver, quedaba una hora. Había que darle
+
+[02:06:27.880] vida a esto. Sí,
+
+[02:06:29.800] sí. No, pero pero así todo sería
+
+[02:06:32.920] perfecto de pronto la vieja. Ellos
+
+[02:06:37.159] est aquí, ¿eh? Para dar por culo o para
+
+[02:06:38.760] ayudar. Una de dos.
+
+[02:06:40.199] Yo estoy a nada. Estamos a nada de del
+
+[02:06:42.000] límite del mapa, gente. Estamos a nada.
+
+[02:06:44.159] A correr. [risas]
+
+[02:06:45.320] A correr. Exacto. Hacia la selva.
+
+[02:06:48.559] Vale, pues nada, pues veríéis que pasa
+
+[02:06:51.480] todo esto. Hay un momento de como todo
+
+[02:06:53.199] el mundo, ¿qué [ __ ] está pasando? ¿Os
+
+[02:06:54.599] imagino a vosotros saliendo con el huevo
+
+[02:06:55.760] haciendo un qué? ¿Sabes? Entiendo,
+
+[02:06:57.559] entiendo que todo el mundo tiene una
+
+[02:06:58.679] ronda de sorpresa, salvo la señora.
+
+[02:07:00.840] Exacto. O sea, haríamos [risas] toda la
+
+[02:07:02.760] ronda.
+
+[02:07:03.239] ¿Qué qué qué?
+
+[02:07:04.400] Y la señora estaría así colgada y rollo,
+
+[02:07:07.920] ¿sabes? Levantando las manitas.
+
+[02:07:08.960] Hacer algo. [risas]
+
+[02:07:10.400] No, no va a hacer nada. Simplemente se
+
+[02:07:11.599] ríe.
+
+[02:07:12.599] No, no digo, digo,
+
+[02:07:13.960] hacer algo. La señora hacer algo. Está
+
+[02:07:16.000] robando. [risas]
+
+[02:07:16.599] Están robando. Avilar
+
+[02:07:19.040] despertar.
+
+[02:07:20.559] Ellos, ellos sorprendidos porque nos
+
+[02:07:22.119] estamos robando. Nos hemos sorprendidos
+
+[02:07:23.280] porque nos ha visto una señora random.
+
+[02:07:25.248] [risas]
+
+[02:07:25.360] Nos miramos, miramos la señora,
+
+[02:07:28.760] eh.
+
+[02:07:30.199] Ah, y tirar el mundo cuatro.
+
+[02:07:33.040] Todo el mundo, eh, [risas]
+
+[02:07:36.239] todos,
+
+[02:07:36.679] hasta los perros, los perros, eh,
+
+[02:07:41.623] [risas]
+
+[02:07:43.199] vale. Pues nada, le toca después de esa
+
+[02:07:46.119] ronda de empanadas, le tocaría al
+
+[02:07:47.760] capitán, ¿sabes? Que vería y dice,
+
+[02:07:49.400] "Joder, que nos están robando." Pero
+
+[02:07:52.280] hacer algo, ir a por ellos. Y nada, pues
+
+[02:07:55.360] este se quedaría aquí como empezando a
+
+[02:07:57.559] cargar la pistola. Falta [risas]
+
+[02:08:00.440] si nosotros, si nosotros no íbamos,
+
+[02:08:02.840] nosotros nos vamos ya, ¿eh? Hasta luego.
+
+[02:08:04.960] Si no hace falta, si no íbamos.
+
+[02:08:07.679] Y nada, pues ves que este marino pues el
+
+[02:08:09.320] capitán que le han nombrado eso, va a
+
+[02:08:11.360] soltar a Pinky y se va a mover para acá.
+
+[02:08:14.960] Pinky, ¿tienes reacción?
+
+[02:08:18.440] Por cierto, tremendo temazal,
+
+[02:08:21.280] ¿verdad?
+
+[02:08:21.800] No tengo Warcaster, pero sí que tengo
+
+[02:08:23.320] esto. Ah, no, lo voy a usar, después lo
+
+[02:08:25.559] uso. Pues nada, ves que se va se va a ir
+
+[02:08:28.119] hacia hacia adentro.
+
+[02:08:31.079] Es se mantiene neutral de momento,
+
+[02:08:33.199] ¿eh? Sí. Y ves que el pirata pues va a
+
+[02:08:36.280] intentar pegar,
+
+[02:08:38.440] ¿eh?
+
+[02:08:42.440] Tienes que saltar para pegarme.
+
+[02:08:43.679] Ah, estás a 10. Vale, vale, pues tú.
+
+[02:08:45.880] Ajá.
+
+[02:08:47.000] Hemos [ __ ] el huevo, ¿entiendes?
+
+[02:08:48.000] Bueno, eh, como sea.
+
+[02:08:49.000] Sí, lo tiene blink, lo tiene blink
+
+[02:08:50.440] cogido. [risas]
+
+[02:08:53.019] [grito ahogado]
+
+[02:08:53.599] Oye, que me que van a romper huevo.
+
+[02:08:55.480] Intenta hacer así, dice, "Joder y pues
+
+[02:08:57.199] entonces
+
+[02:08:58.520] voy a atacar al huevo". Realmente nada
+
+[02:08:59.840] se lo impide.
+
+[02:09:01.400] Salvo la [ __ ] que le va a pegar el
+
+[02:09:02.360] capitán. A ver que el huevo no me lo
+
+[02:09:04.880] tocan.
+
+[02:09:10.719] No llega y te mete un tiro.
+
+[02:09:13.840] La clásica de
+
+[02:09:16.840] Uh,
+
+[02:09:17.599] pero y ese headshot
+
+[02:09:19.800] nada.
+
+[02:09:20.400] A ver, armadura 40 de vida. Soy un
+
+[02:09:23.679] Nada, le toca a este, ¿sabes que
+
+[02:09:25.360] empieza, [ __ ] sea, vamos? Y ves que
+
+[02:09:28.079] pues estos empezarían a moverse por aquí
+
+[02:09:30.199] y a meterse por aquí dentro hasta aquí.
+
+[02:09:32.599] Los huevos siempre van abajo. Esa es la
+
+[02:09:34.280] naturaleza.
+
+[02:09:36.159] Sí. [risas]
+
+[02:09:37.559] Nada, pues este también que se metería
+
+[02:09:39.440] por aquí. Entonces ahora pues estos son
+
+[02:09:42.280] 15. Pues, o sea, me quiero mover hasta
+
+[02:09:44.079] aquí, pues me muevo hasta aquí que esto
+
+[02:09:45.480] es terreno difícil. Y nada, ya os
+
+[02:09:47.559] empiezo a ver, así que voy a intentar
+
+[02:09:49.360] disparar.
+
+[02:09:51.239] Primer disparo.
+
+[02:09:55.559] Atarial, ¿ves que dispara?
+
+[02:09:59.400] Y la segunda acción de ataque recargo la
+
+[02:10:01.440] pistola esta que son de mechas así
+
+[02:10:02.920] raras,
+
+[02:10:04.599] ¿no? Vale,
+
+[02:10:05.880] por no tener un palo.
+
+[02:10:06.880] Sí,
+
+[02:10:08.040] mi pelo no [risas] se recarga.
+
+[02:10:09.760] Nada, le tocaría este pues que nada,
+
+[02:10:11.800] pues se metería para acá y se metería
+
+[02:10:14.239] hasta aquí y miraría. Creo que nos ve
+
+[02:10:16.440] aú, no, no os veo. Vale, pues blink, tu
+
+[02:10:20.119] turno.
+
+[02:10:21.599] Disengage.
+
+[02:10:23.119] No, está volando.
+
+[02:10:25.480] No, lo primero que voy a hacer, eh,
+
+[02:10:27.320] Paul. Cuando me hago invisible, lo que
+
+[02:10:29.079] llevo en mis manos está se hace
+
+[02:10:30.920] invisible.
+
+[02:10:32.760] Eh, no lo sé. Sí, no
+
+[02:10:35.920] creo que sí. Cre dice todo lo que ya has
+
+[02:10:37.559] puesto. No sé siaría.
+
+[02:10:39.960] Hombre, yo entiendo que si coges a otra
+
+[02:10:41.280] criatura y te haces invisible, no conta
+
+[02:10:42.679] como que esa persona se hace invisible,
+
+[02:10:44.000] ¿no?
+
+[02:10:44.360] Ahora el huevo se considera un ser vivo.
+
+[02:10:46.079] Sí.
+
+[02:10:47.320] Dice, "Anything the target is anything.
+
+[02:10:49.840] Det is wearing caring.
+
+[02:10:51.599] Pero tú tú cuando coges a tú cuando
+
+[02:10:53.639] coges a un colega, tú coges a un un a un
+
+[02:10:56.480] a un mediano y lo llevas así con un
+
+[02:10:57.960] semiorco y te haces invisible a que el
+
+[02:10:59.280] mediano no se hace invisible.
+
+[02:11:01.800] Depende lo que tú digas lo mismo,
+
+[02:11:03.040] ¿no?
+
+[02:11:03.800] Vale,
+
+[02:11:04.079] porque es criatura.
+
+[02:11:05.000] Bueno,
+
+[02:11:05.360] si fuera a ver también si fuera un
+
+[02:11:07.040] objeto pequeño, no sé qué, sí, pero al
+
+[02:11:08.320] ser un huevo tan grande
+
+[02:11:11.480] que está llevando a un enano en brazos
+
+[02:11:14.000] de forma ovaloide. Sea como sea, me voy
+
+[02:11:16.440] a castear el mayor,
+
+[02:11:19.800] ¿vale?
+
+[02:11:20.079] Porque veo mucha gente así con cara de
+
+[02:11:21.559] vicio cargando pistola y huele mucha
+
+[02:11:23.840] pólvora
+
+[02:11:25.679] y no y quiero dormir entera y me voy a
+
+[02:11:27.639] salir volando para arriba un poco. Esta
+
+[02:11:30.520] dirección
+
+[02:11:32.880] nos vamos para arriba.
+
+[02:11:33.440] No sé, no sé dónde estás. O sea, hombre,
+
+[02:11:35.400] el final del mapa está aquí. La idea es
+
+[02:11:36.840] subir. [risas]
+
+[02:11:38.679] Pues bueno, me subo para aquí ya porque
+
+[02:11:40.599] yo soy invisible.
+
+[02:11:42.239] Es que no sé dónde estás, o sea, que
+
+[02:11:43.079] tampoco puedo indicarte nada.
+
+[02:11:44.840] Vamos a ir como sigue hacia aquí. Va.
+
+[02:11:48.840] La auténtica cosa es que a mamá le hemos
+
+[02:11:51.320] dejado bastante turbovendida, ¿no?
+
+[02:11:53.960] Colisión.
+
+[02:11:54.760] Pero ellos no saben que que a mí que yo
+
+[02:11:57.960] soy la que [risas]
+
+[02:12:00.440] les han dicho que se está robando el
+
+[02:12:01.719] huevo.
+
+[02:12:02.760] Estamos nosotros ahí robando el huevo.
+
+[02:12:04.480] Ya si ellos saben atar cabo, no no
+
+[02:12:06.599] sabemos.
+
+[02:12:08.320] Vale,
+
+[02:12:09.239] vale.
+
+[02:12:11.000] Pues mamá,
+
+[02:12:11.719] es invisible. O sea, invisible. Un huevo
+
+[02:12:14.360] enorme colgando tus pies, ¿eh? O sea, sé
+
+[02:12:15.920] dónde estás.
+
+[02:12:16.320] Huevo volando, ¿no?
+
+[02:12:17.119] Claro.
+
+[02:12:19.719] Bueno, pero que no sabes.
+
+[02:12:20.520] Ay, Dios.
+
+[02:12:22.400] No, pero dispararé con desventaja.
+
+[02:12:25.040] Sí, porque no te ven.
+
+[02:12:25.960] Claro.
+
+[02:12:28.000] O sea, que
+
+[02:12:28.480] una duda duda dudosa.
+
+[02:12:30.440] Dime.
+
+[02:12:30.880] Sí, este, si me hice amiga del perrito,
+
+[02:12:34.320] ¿eh? Ay, no te lo he dicho. Hazme una
+
+[02:12:35.520] tirada de animal h.
+
+[02:12:38.040] Te iba a decir,
+
+[02:12:42.639] no sé por qué lo estoy señalando hasta
+
+[02:12:48.920] vale. Pues parece que el perro, el pr
+
+[02:12:50.679] está como
+
+[02:12:52.040] mirándote como así como cuando te has
+
+[02:12:54.520] empezado a llorar, pues te ha puesto
+
+[02:12:56.119] como a acariciar la pierna y eso.
+
+[02:12:59.000] Okay,
+
+[02:13:01.719] esto va a saber feo.
+
+[02:13:04.239] Le voy a indicar al perro que ataque a
+
+[02:13:06.800] este.
+
+[02:13:08.040] Pero no te metas tú en la refriga,
+
+[02:13:10.760] ¿eh?
+
+[02:13:12.199] Una cosa es que le caigas bien al perro
+
+[02:13:13.639] y otra cosa que el perro ataque a su
+
+[02:13:15.199] vaya.
+
+[02:13:17.400] ¿Te parece bien?
+
+[02:13:18.119] Eh,
+
+[02:13:19.199] le voy a decir que me cuide,
+
+[02:13:21.360] ¿eh? Sí, pero no va a atacar a los
+
+[02:13:22.679] marines ni va a impedir muchas cosas. O
+
+[02:13:25.119] sea, no estás controlando al perro. O
+
+[02:13:26.800] sea, el perro no te ataca y es tu amigo,
+
+[02:13:29.040] pero si tú atacas y pegas a algún
+
+[02:13:30.960] marino, quizá el perro te peg. Claro,
+
+[02:13:33.520] claro.
+
+[02:13:35.239] Pero mi amigo el perro llega a su sueño
+
+[02:13:37.000] y la apuñala siete veces [risas]
+
+[02:13:40.480] el perro.
+
+[02:13:41.520] Okay, me voy a mover y voy a intentar
+
+[02:13:43.400] charmear al
+
+[02:13:45.880] ahora el
+
+[02:13:48.079] Le das au puñal a su le das el puñal al
+
+[02:13:50.639] perro. Le dices, "Acaba tú."
+
+[02:13:52.357] [risas]
+
+[02:13:55.440] Vale, pues perfecto. ¿Ves que ves que el
+
+[02:13:57.639] otro también se queda como Pero señora
+
+[02:14:01.239] y se queda medio tontado,
+
+[02:14:03.040] me parece bien. Vamos bien, vamos bien.
+
+[02:14:04.920] Yo los distraigo, niños. Corran con mi
+
+[02:14:07.199] huevo. [risas]
+
+[02:14:08.440] Si
+
+[02:14:08.520] yo me iba a ir, estuviera bien o mal
+
+[02:14:12.520] después de casi matarme.
+
+[02:14:14.800] Vale, pues le tocaría al perro este que
+
+[02:14:16.960] no te va a atacar porque te has hecho de
+
+[02:14:18.400] esto, pero se va a quedar ahí y de
+
+[02:14:19.880] momento, como no has atacado nada y le
+
+[02:14:21.000] has acariciado, supongo, pues nada.
+
+[02:14:23.639] Vale, eh, tírame un D cu
+
+[02:14:27.073] [risas]
+
+[02:14:28.639] la radioactividad empieza a funcionar.
+
+[02:14:30.920] Otro cuatro le ha hecho ya [risas] 12 de
+
+[02:14:33.119] daño. Empieza a salir sangre de la
+
+[02:14:34.880] nariz.
+
+[02:14:36.440] Se está muriendo el pobre hombre. Y ves
+
+[02:14:38.639] que
+
+[02:14:40.079] Pero no tranquilizados, la señora no ha
+
+[02:14:42.599] hecho nada. Seguramente son esos de ahí.
+
+[02:14:45.000] A que sí, capitán. Sí, tío, son esos de
+
+[02:14:47.679] ahí. La señora es muy buena. [risas]
+
+[02:14:51.000] Y
+
+[02:14:55.238] [risas]
+
+[02:14:56.599] me toca, ¿no?
+
+[02:14:57.199] Sí,
+
+[02:14:58.040] sí.
+
+[02:14:59.079] Bueno, estos son 25 pies para arriba.
+
+[02:15:01.920] A correr.
+
+[02:15:03.400] Acción correr. Otro 25 pies para arriba.
+
+[02:15:05.320] No me queda mapa [risas] y empieza a
+
+[02:15:06.520] correr. Vale,
+
+[02:15:10.199] vale. Pues
+
+[02:15:12.239] capitán,
+
+[02:15:12.639] soy el más lento. Yo entiendo que mis
+
+[02:15:13.719] compañeros para alcanzarme.
+
+[02:15:15.119] Sí, también por aquí vais un poco más
+
+[02:15:16.920] lentos, pero sí
+
+[02:15:19.480] que es terreno difícil.
+
+[02:15:20.280] No se han llevado el juego, ¿verdad?
+
+[02:15:21.639] Lo lleva,
+
+[02:15:22.199] no tiene nada.
+
+[02:15:23.119] Vale, pues
+
+[02:15:24.079] le toca al capitán que dice, "Pero
+
+[02:15:26.480] queréis hacer algo y qué le has hecho
+
+[02:15:29.159] qué le has hecho, a Mike y nada, pues te
+
+[02:15:31.000] va a intentar pegar.
+
+[02:15:33.480] ¿Sabes
+
+[02:15:35.719] que ha casteado un hechizo? Esajo.
+
+[02:15:38.360] Bueno, le ha hecho así, no sé qué
+
+[02:15:39.559] guapito, no sé qué le ha visto como
+
+[02:15:43.199] ¿Quién te dice de que a Mike no porque a
+
+[02:15:45.719] Mike no le gusta el Mirth? Es que es la
+
+[02:15:47.760] autentico, claro. No, porque se No,
+
+[02:15:50.599] porque ellos dos son novios.
+
+[02:15:53.360] Ah,
+
+[02:15:55.639] claro, hay lor interno en la Marina.
+
+[02:15:57.960] Por eso, por eso, por eso que hay el
+
+[02:15:59.400] huevo grande, ¿entiendes?
+
+[02:16:00.400] Claro, hay mucho lord en la Marina, que
+
+[02:16:01.760] faltan muchas mujeres en la Marina.
+
+[02:16:04.013] [risas]
+
+[02:16:05.679] La noches son largas y el mar frío.
+
+[02:16:08.480] Claro. Pues nada, el perro este pues va
+
+[02:16:11.040] a mirar y va a ir pues hacia hacia donde
+
+[02:16:13.840] están hacia estáis vosotros, ¿sabes? Por
+
+[02:16:16.679] aquí
+
+[02:16:18.320] para
+
+[02:16:18.800] No es que sabes por qué? Porque a la
+
+[02:16:20.639] mamá ya se le empezaron a quitar las
+
+[02:16:21.960] arruguitas.
+
+[02:16:23.480] ¿Quién sabe?
+
+[02:16:24.800] Pregunto, me pregunto quién será. Me
+
+[02:16:26.360] pregunto por qué.
+
+[02:16:28.159] A quién sabe, [risas]
+
+[02:16:30.679] nada. Y y ves ves el la Pinky, ¿sabes?
+
+[02:16:33.840] Que dice, "Suéltame." Y ves que pues el
+
+[02:16:36.479] hombre este pues la acaba soltando,
+
+[02:16:38.240] ¿sabes? Y dice, "Jolvín,
+
+[02:16:41.479] hijos de [ __ ] mi huevo.
+
+[02:16:44.624] [risas]
+
+[02:16:45.800] ¿Qué huevo que niño muerto?
+
+[02:16:48.000] Todo el mundo quiere este huevo por
+
+[02:16:49.120] alguna razón.
+
+[02:16:50.439] Y nada,
+
+[02:16:50.880] ¿en qué líd
+
+[02:16:51.920] va a venir por aquí y dirá mi huevo,
+
+[02:16:53.479] cabrones?" Y voy a hacer pues lo de
+
+[02:16:55.760] siempre. Eso el nuevo el nuevo
+
+[02:16:58.359] desintegrar.
+
+[02:17:02.519] Uh.
+
+[02:17:07.120] Ah, bueno.
+
+[02:17:09.080] Pobre señor random que había en medio.
+
+[02:17:11.080] Y ves que le tiraón de detesto y ves que
+
+[02:17:13.639] lo chamusca un poco. ¿Sabes que el señor
+
+[02:17:15.519] pues se queda chamuscado,
+
+[02:17:17.800] te has liberado literal? Eh,
+
+[02:17:19.399] sí, sí. La tienda también se arde, ¿no?
+
+[02:17:21.920] Sí, sí. La tienda empieza a arder un
+
+[02:17:23.280] poco y y no tengo bonos aquí.
+
+[02:17:28.359] Ah, no. No tengo mi bichito aquí, no
+
+[02:17:30.559] puedo hacerlo. Bueno, nada. Y aparta
+
+[02:17:32.920] normal y nada, pues
+
+[02:17:34.559] Ariel diciendo gracias por le acabas de
+
+[02:17:37.679] prender fuego el tío
+
+[02:17:40.240] y nada pues este ve que pues que la
+
+[02:17:42.120] vieja esta loca pues empieza a disparar
+
+[02:17:43.920] a sus colegas y le va a disparar.
+
+[02:17:46.319] Primer ataque,
+
+[02:17:51.000] ¿eh? Le van a dar.
+
+[02:17:53.120] Uy, Pinky se va a enfadar.
+
+[02:17:55.559] Bu, se va a enfadar un huevo ahora.
+
+[02:17:57.319] Pinky,
+
+[02:17:58.280] vale, pues le va a dar que va a recibir
+
+[02:17:59.760] un un escopetazo en la cabeza, va a
+
+[02:18:01.960] recargar como la segunda acción, o sea,
+
+[02:18:04.880] el segundo ataque,
+
+[02:18:05.519] un escopetazo en la cabeza [risas]
+
+[02:18:07.960] y nada y este se va a volver aquí y
+
+[02:18:10.000] dice, "Pero, ¿usted quién es?" Y te va a
+
+[02:18:11.800] intentar pegar.
+
+[02:18:13.319] Ya sabía. Sí, no es que luego luego
+
+[02:18:15.840] contigo.
+
+[02:18:19.280] Vale, primer ataque. Ay, perdón, te
+
+[02:18:22.519] devuelvo el daño, no te preocupes.
+
+[02:18:25.120] Te tengo que devolver. Sí,
+
+[02:18:25.880] claro, pero es que tú no lo agua cuando
+
+[02:18:27.439] tú no lo sabes que este es el novio del
+
+[02:18:29.080] otro.
+
+[02:18:29.960] Claro, son novios. [risas]
+
+[02:18:32.439] Poligámico.
+
+[02:18:34.880] Realmente es una facción poligámica.
+
+[02:18:36.240] Claro, el mar se está muy solo en el
+
+[02:18:38.040] mar. pensarlo.
+
+[02:18:39.719] Tú hace mucho frío.
+
+[02:18:40.719] Lo que no entendemos es que realmente
+
+[02:18:42.399] esto no es un campamento de de la
+
+[02:18:44.840] Marina, es una zona de cruising de la
+
+[02:18:46.800] marina.
+
+[02:18:48.120] Pues tu turno. ¿Has visto como unas
+
+[02:18:51.040] llamas llegaban a tus ojos que quizás
+
+[02:18:52.599] las pestañitas se te han quemado un
+
+[02:18:53.920] poco?
+
+[02:18:54.319] Claro. A grito de adiós, me voy
+
+[02:18:58.960] corriendo.
+
+[02:19:01.479] O sea, bueno, es que creo que no me hace
+
+[02:19:03.399] falta ni
+
+[02:19:04.599] Vale. Y todavía me sobra. Vale,
+
+[02:19:07.599] dos fuera de combate.
+
+[02:19:08.880] Perfecto. De momento se va.
+
+[02:19:11.439] Qué cabrones.
+
+[02:19:12.160] Vaya héroes, ¿eh? Mamá, que te buscan.
+
+[02:19:14.639] Me ha dicho que recupere un huevo. He
+
+[02:19:15.800] recuperado el huevo.
+
+[02:19:18.359] Tírame
+
+[02:19:20.080] un de cuatro. Mama,
+
+[02:19:25.040] los voy a terminar matando este.
+
+[02:19:27.040] Sí, pero podemos estar aquí hasta
+
+[02:19:28.559] mañana, ¿eh?
+
+[02:19:30.200] Nada, tú tranquilo.
+
+[02:19:31.359] Y nada, se queda, dice, "Que no le
+
+[02:19:33.120] peguéis a la señora, que no le peguéis a
+
+[02:19:34.960] la señora, tranquilo." Y ves como coge a
+
+[02:19:36.439] su a su compañero, ¿sabes? Y como lo
+
+[02:19:38.000] intenta detener un poco.
+
+[02:19:40.359] Luis, de verdad que solamente es una
+
+[02:19:42.280] amiga. [risas]
+
+[02:19:43.359] Nada, este cagado, este cagado dice,
+
+[02:19:46.160] "Joder, pero pero señora, pero ¿qué
+
+[02:19:48.359] hace?" Y y ves que le va a intentar
+
+[02:19:49.760] pegar,
+
+[02:19:51.120] hombre. Después de la que pegado ella,
+
+[02:19:52.960] él
+
+[02:19:54.160] cagado.
+
+[02:19:54.600] Yo salía corriendo, la verdad. Te llega
+
+[02:19:56.359] una señora y me lanza y fuego de las
+
+[02:19:58.720] manos. Yo me tiro.
+
+[02:20:02.920] Espera, ahora lo vamos a hacer
+
+[02:20:05.640] porque ves que le da el segundo, el
+
+[02:20:08.720] primero ves que ha fallado, que era muy
+
+[02:20:09.920] baja y ves, pero el segundo ves que le
+
+[02:20:11.600] da y Pinky le va a mirar con muy mala
+
+[02:20:13.920] cara y va a decir, "Me voy corriendo." Y
+
+[02:20:16.840] se va a ir con vosotros. Vale.
+
+[02:20:18.000] No,
+
+[02:20:18.520] pero espérate, Pinky. Dale,
+
+[02:20:23.160] Bur.
+
+[02:20:24.640] No, no tengo el Warcaster. [ __ ] casi
+
+[02:20:26.800] crítico, ¿eh?
+
+[02:20:28.439] Uy, mira qué gracioso.
+
+[02:20:31.120] P y le da con el martillo, ¿sabes? Y
+
+[02:20:33.240] empieza a salir por aquí 20 y empieza a
+
+[02:20:36.640] correr, ¿sabes? Se va estar aquí de
+
+[02:20:37.800] momento y va a empezar a oír.
+
+[02:20:40.160] Qué cabrones.
+
+[02:20:41.520] Se viene con nosotros el
+
+[02:20:42.640] Sí, sí, se va a venir con vosotros. Lo
+
+[02:20:43.880] lleváis. [risas]
+
+[02:20:46.200] Lo llevamos a Sharu. Ya paso con este.
+
+[02:20:48.920] Hay hay que pensar un nombre.
+
+[02:20:51.880] Este por aquí pues va a mirar para allá
+
+[02:20:54.280] y vería el huevo. No, tú estás aquí.
+
+[02:20:57.160] Pues
+
+[02:20:58.600] con desventaja. Qué [ __ ] le dispar un
+
+[02:21:01.160] huevo.
+
+[02:21:01.640] El huevo loco.
+
+[02:21:03.520] Van a disparar ahí a lo loco.
+
+[02:21:06.800] Que te paso por culo la misión.
+
+[02:21:10.479] Buen buena tirada. Buena tirada.
+
+[02:21:11.960] Después recarga. El siguiente pues es el
+
+[02:21:14.439] de al dado que también se va a meter por
+
+[02:21:15.800] aquí, ¿sabes? Y también pues lo mismo,
+
+[02:21:17.720] te van a disparar con la pistola hacia
+
+[02:21:20.359] el huevo.
+
+[02:21:25.800] Sí.
+
+[02:21:27.080] Uh, este va a dar.
+
+[02:21:29.399] Uh,
+
+[02:21:30.880] hay que hay que rescatar al huevo.
+
+[02:21:34.359] Pues no, no va a dar, pero sales del Ah,
+
+[02:21:36.960] no, este es el el Tienes el de esto.
+
+[02:21:38.439] Vale. No,
+
+[02:21:39.319] sí, es el gritor. Vale, pues el
+
+[02:21:42.680] siguiente pues lo mismo. Este se va a
+
+[02:21:44.520] meter por aquí y a disparar al huevo.
+
+[02:21:49.160] Pero pueden dejar de disparar el huevo,
+
+[02:21:51.600] ¿no?
+
+[02:21:55.800] Le ha dado el huevo. Espérate que le da
+
+[02:21:57.399] el huevo. que Ah, he sacado en uno.
+
+[02:21:59.399] [ __ ] pues sí, le voy a dar el huevo.
+
+[02:22:02.760] Pues ya no hay rescate de huevo. [risas]
+
+[02:22:05.720] Rescate de huevo. ¿Qué
+
+[02:22:06.720] estás haciendo?
+
+[02:22:07.680] Los marines han empezado a atacar al
+
+[02:22:09.040] huevo. ¿Qué quieres que te diga?
+
+[02:22:10.399] Pam. Y ves que
+
+[02:22:12.640] y se empieza, ¿sabes? Le da como en el
+
+[02:22:14.840] lateral del huevo y blin escuchas un que
+
+[02:22:18.640] se empieza a respirar. Un dedo en el
+
+[02:22:19.560] agujero de la bala. Eso es. Y pongo un
+
+[02:22:21.040] dedo. ¿Qué haces?
+
+[02:22:21.680] Va a salir, va a salir tonto el que
+
+[02:22:22.880] cual. [risas]
+
+[02:22:24.640] Va a salir tonto, oye.
+
+[02:22:27.280] Va a salir como el amigo de piecito.
+
+[02:22:30.160] Y mamá, tu turno. [risas]
+
+[02:22:33.520] Okay. Ah,
+
+[02:22:34.640] saltado, ¿no?
+
+[02:22:36.560] E le he dado, o sea, le he dado al al
+
+[02:22:38.840] huevo y el huevo tiene un agujero ahora
+
+[02:22:40.280] y estaría como saliendo un poquito tipo
+
+[02:22:41.880] liquido.
+
+[02:22:42.160] Sí, pero pero mi turno es eso,
+
+[02:22:44.720] ¿no?
+
+[02:22:45.040] Ajá.
+
+[02:22:46.520] Es que saltaste blink.
+
+[02:22:47.120] Vale, vale, perdón. Vale,
+
+[02:22:48.640] claro, Blink tiene como que huir un
+
+[02:22:49.960] poquito. Eso
+
+[02:22:52.240] como que un poquito no más. Es que no
+
+[02:22:53.840] veo mamá, ¿sabes? Pero veo mucha gente,
+
+[02:22:55.439] entonces no sé qué hacer. Ella cre que
+
+[02:22:58.240] estos somos el huevo, entonces me voy a
+
+[02:22:59.359] alejar un poquito,
+
+[02:23:00.399] ¿vale?
+
+[02:23:01.000] Pero cogiendo un poquito de altura como
+
+[02:23:03.000] para aún estar escondido con la un
+
+[02:23:05.359] poquito la maleza, pero poder ver un
+
+[02:23:07.760] poquito más por encima de la de la
+
+[02:23:09.680] tienda. A ver si a ver si veo la
+
+[02:23:12.680] Es que no veo la putada.
+
+[02:23:14.880] Por eso te ha hecho el mapa.
+
+[02:23:15.920] Bueno, vale. Pues no podría llorar a
+
+[02:23:19.399] mamá desde aquí entonces tampoco. Pues
+
+[02:23:21.160] me voy a alejar más. Vale, mirando hacia
+
+[02:23:23.160] atrás y prepararé un conjuro.
+
+[02:23:26.359] Prepararé un conjuro. Pues si se acercan
+
+[02:23:28.640] más marinos hacia aquí, pues al primero
+
+[02:23:31.240] que se acerque como por aquí, pues le
+
+[02:23:32.800] voy a lanzar un conjuro. Le voy a
+
+[02:23:34.319] lanzar.
+
+[02:23:38.359] Cierto.
+
+[02:23:39.359] Técnicamente,
+
+[02:23:40.920] técnicamente nosotros no sabemos.
+
+[02:23:42.680] Claro,
+
+[02:23:42.960] nosotros no sabemos que ese está viendo.
+
+[02:23:45.000] Claro, vosotros estáis viendo que va
+
+[02:23:46.240] detrás vuestro.
+
+[02:23:47.640] Pues nada, le voy a lanzar
+
+[02:23:50.399] a le voy a lanzar un A ver.
+
+[02:23:53.840] Una [ __ ]
+
+[02:23:56.240] A ver si se queda para atrás.
+
+[02:23:59.600] Oh, voy a habich otra cosa. Bueno, es
+
+[02:24:00.720] igual. Ya, ya lo he hecho.
+
+[02:24:03.439] Pues se muere
+
+[02:24:06.279] aquí escondido entre entre las hojas
+
+[02:24:09.399] esperando a ver si
+
+[02:24:10.560] esconderte con un huevo gigante.
+
+[02:24:13.000] Está bien.
+
+[02:24:13.520] Bueno, bueno, es lo que es lo que
+
+[02:24:16.680] intento, quedarme así como por debajo de
+
+[02:24:17.920] una hoja y tal, ¿sabes? quitado arriba
+
+[02:24:19.880] una fruta.
+
+[02:24:20.840] Vale,
+
+[02:24:22.475] [risas]
+
+[02:24:22.479] vale. Pues
+
+[02:24:24.080] soy una fruta. Soy una fruta. Soy una
+
+[02:24:25.560] fruta.
+
+[02:24:26.240] El huevo es la fruta.
+
+[02:24:29.240] Llegó el momento del m step.
+
+[02:24:31.800] No, espérate.
+
+[02:24:33.399] Aún no. Aún no. Espérate.
+
+[02:24:35.880] No tiene que estarmeado todo la marina.
+
+[02:24:38.640] Claro. O sea, tiene que empezar su [ __ ]
+
+[02:24:41.040] poliamorosa homosexual. Marine,
+
+[02:24:43.080] espérate. Se desnuda. No
+
+[02:24:44.880] era aquí. [ __ ]
+
+[02:24:47.680] voy a recuperar mi vida. Voy a tocar al
+
+[02:24:49.720] al Marin
+
+[02:24:53.960] ese toque frío y y otra vez a pasarme a
+
+[02:24:57.640] pasarme vida.
+
+[02:24:59.279] Vale, ya te pasado.
+
+[02:25:00.840] ¿Cómo funciona? ¿Cómo funciona eso con
+
+[02:25:02.760] el charm?
+
+[02:25:04.600] Es una maldición que es una maldición
+
+[02:25:06.160] que tiene ella. No, pero no le ha dado
+
+[02:25:07.600] al charm, ¿eh? Le ha dado charm,
+
+[02:25:11.000] obviamente.
+
+[02:25:12.080] Ah. Ah. pensaba que el chat. No,
+
+[02:25:15.319] no, como no veo tengo una medio.
+
+[02:25:17.560] Obviamente voy a usar el M step
+
+[02:25:21.319] para irme.
+
+[02:25:22.920] Vete, vete para abajo.
+
+[02:25:26.560] En vez a donde tengas la salida abajo.
+
+[02:25:29.285] [risas]
+
+[02:25:29.560] Vete, vete para abajo y empieza a huir.
+
+[02:25:32.880] supuestamente hemos quedado
+
+[02:25:34.120] por aquí
+
+[02:25:35.920] y
+
+[02:25:37.520] bonus
+
+[02:25:39.120] 30 pies
+
+[02:25:40.760] y luego 30 y ellos
+
+[02:25:42.640] 30
+
+[02:25:43.040] están persiguiéndonos para arriba, nos
+
+[02:25:44.040] pueden persistir para abajo
+
+[02:25:46.359] que no esto sí
+
+[02:25:50.080] y
+
+[02:25:50.359] ya esos tienen esos tienen a dos charm
+
+[02:25:53.920] vale to
+
+[02:25:54.279] y el perrete no va al principio
+
+[02:25:55.880] le toca al perrito que nada pues ve como
+
+[02:25:57.800] se va mamá y empieza como a ladrar de
+
+[02:25:59.160] roll guow guau que tú entiendes que dice
+
+[02:26:00.520] adiós señora que vaya muy bien muchas
+
+[02:26:02.319] gracias por venir.
+
+[02:26:03.800] Pero que se puede mover
+
+[02:26:04.560] hacer movimiento. Claro, que hace
+
+[02:26:05.760] movimiento.
+
+[02:26:06.640] Sí, ella sí.
+
+[02:26:07.240] No, sí, pero usted ustedes sí gané.
+
+[02:26:09.160] No, tú.
+
+[02:26:10.160] Ah, bueno, no te quieres
+
+[02:26:12.760] m
+
+[02:26:13.439] Vale,
+
+[02:26:15.240] pues nada, pues los chans empiezan como
+
+[02:26:17.000] a decir, "Pero dejar a la señora, no no
+
+[02:26:18.760] la increpéis." Y empiezan como a parar a
+
+[02:26:20.600] sus compañeros.
+
+[02:26:23.200] Okay, ahí él va otro de cuo robo de la
+
+[02:26:25.840] historia.
+
+[02:26:26.640] Winscore sigue corriendo, supongo.
+
+[02:26:30.000] Okay.
+
+[02:26:30.720] Supuestamente era el plan.
+
+[02:26:32.720] Vale,
+
+[02:26:33.200] sí. No, no estamos siguiendo el plan. No
+
+[02:26:35.640] es el plan de unos héroes, pero el plan
+
+[02:26:38.359] eh le toca
+
+[02:26:39.040] en ningún momento dijimos que éramos
+
+[02:26:40.000] héroes,
+
+[02:26:40.479] pues le toca a este como que está
+
+[02:26:41.800] forcejeando con nosotros y dice, "Pero
+
+[02:26:43.439] queréis apartaros que está la señora ahí
+
+[02:26:45.200] y vaata a intentar atacar a mamá con la
+
+[02:26:47.160] pistola, pero como que tenía esos dos
+
+[02:26:48.479] tíos, pues te va a disparar con
+
+[02:26:49.720] desventaja.
+
+[02:26:52.000] No va a matar a su amante.
+
+[02:26:54.160] Ah, se ha puesto delante.
+
+[02:26:56.479] Uh, pues mira,
+
+[02:26:57.439] no puedo pues dispara bien, ¿eh?
+
+[02:26:59.359] Pues ves que te dis capitán por algo
+
+[02:27:02.399] y ves que te da pum como puede, ¿sabes?
+
+[02:27:04.200] Pero ves que te da ese balazo.
+
+[02:27:07.640] Los perritos. Pues nada, este perrito va
+
+[02:27:10.439] a salir corriendo a por vosotros.
+
+[02:27:14.279] El perro es más rápido que yo. O sea,
+
+[02:27:15.600] que
+
+[02:27:16.359] Vale, pues veis a Pinky, ¿sabes? Que
+
+[02:27:18.560] después de ese que ha visto que se ha
+
+[02:27:19.840] muerto, veis que se gira, se va para
+
+[02:27:22.560] fuera, ¿sabes? Y mira todos estos y
+
+[02:27:25.880] dice, "Hijos de puta." Y ves que junta
+
+[02:27:29.120] las manos. Vale, va a juntar las manos y
+
+[02:27:32.200] va a decir,
+
+[02:27:33.720] "Os han robado el huevo cuando yo iba a
+
+[02:27:35.240] negociar con vosotros por el huevo."
+
+[02:27:40.040] Uh,
+
+[02:27:41.240] nosotros hicimos un intercambio justo,
+
+[02:27:43.279] un huevo a cambio de nada.
+
+[02:27:45.240] Yo lo veo justo.
+
+[02:27:46.240] Vale. Y el fuego va a ir para para aquí
+
+[02:27:49.200] abajo.
+
+[02:27:50.840] ¡Uf!
+
+[02:27:54.640] Pues menos
+
+[02:27:55.399] el [ __ ]
+
+[02:27:57.560] Y empiezo a quemarlos todos. Y escucháis
+
+[02:28:00.160] una risa cruel.
+
+[02:28:00.920] Si esa si esa señora gana solo a todos
+
+[02:28:03.240] estos. [risas]
+
+[02:28:04.319] Escucháis la risa de Stitch. Pues así la
+
+[02:28:06.960] escucháis.
+
+[02:28:10.080] Vale, pues
+
+[02:28:12.399] nada, pues este cinco de ocho. Bueno,
+
+[02:28:14.680] tírame primero destreza.
+
+[02:28:17.520] Madre mía.
+
+[02:28:20.200] Oh, pues mira,
+
+[02:28:22.600] pues la mitad se va a llevar.
+
+[02:28:28.880] Pero Paul, por favor.
+
+[02:28:30.479] Nada, pues se empieza a quemar este
+
+[02:28:32.120] hombre. Pues nada, pues empezará a
+
+[02:28:34.000] correr, ¿sabes? Hacia hacia abajo y ir a
+
+[02:28:37.000] buscar a mamá. Hay hay un río. Hay un
+
+[02:28:39.240] río, señor. Salte al río. [risas]
+
+[02:28:41.800] Va a pasar por aquí para te va a
+
+[02:28:43.120] disparar. Mamá,
+
+[02:28:44.319] salte y ahóguese.
+
+[02:28:46.442] [risas]
+
+[02:28:47.000] ¿Estás seguro de que quieres saltar al
+
+[02:28:48.439] río de de
+
+[02:28:49.560] Mira? Falla. Es que es Lore porque está
+
+[02:28:51.120] quemando.
+
+[02:28:51.439] Hombre, se está arriendo,
+
+[02:28:53.720] ¿eh? Pero aquí muy gordo.
+
+[02:28:55.720] Segundo, pues el segundo tirón de
+
+[02:28:57.319] destreza.
+
+[02:29:00.640] [ __ ]
+
+[02:29:02.000] pero vamos, Paul.
+
+[02:29:03.479] No sé, dejarme.
+
+[02:29:05.120] Yo no quiero hacer eso. 21.
+
+[02:29:07.439] Mientras mientras lo hagan para
+
+[02:29:08.680] salvación, sino para pegarnos.
+
+[02:29:10.479] Si no, gástalos todos ahora.
+
+[02:29:12.399] Nada, este se quema, así que se va a ir,
+
+[02:29:14.200] bueno, hasta aquí. Se va a ir corriendo,
+
+[02:29:15.720] pues, a quemarse.
+
+[02:29:18.319] Tarial,
+
+[02:29:18.960] se va corriendo a quemarse.
+
+[02:29:20.319] Sí, tú sigues corriendo, ¿no? Supongo,
+
+[02:29:23.160] ¿eh? Yo me yo espero un poco agazapá
+
+[02:29:27.359] aprovechando todavía la ventaja del esto
+
+[02:29:29.439] por si acaso veo que Blin necesita ayuda
+
+[02:29:32.640] y ese perro la ataca o algo así para
+
+[02:29:35.120] ayudarla a salir pero
+
+[02:29:36.399] no la ves un huevo.
+
+[02:29:37.880] Bueno, pero veo un huevo, ¿no?
+
+[02:29:41.479] Que llegue a la abrir quebrado. parte de
+
+[02:29:43.680] todo.
+
+[02:29:43.880] Claro, si yo ve si yo veo de que ya
+
+[02:29:46.279] escondido entre la mareza, a lo a lo
+
+[02:29:48.080] lejos del bosque de la selva, digo, si
+
+[02:29:51.120] veo que Blin no se mueve, digo, habrá
+
+[02:29:54.080] que ir a por el huevo, que es el
+
+[02:29:55.319] objetivo del esto.
+
+[02:29:56.600] Vale, vale. Pues te preparas acción por
+
+[02:29:59.760] para defender a Blin.
+
+[02:30:01.680] Sí.
+
+[02:30:02.359] Eh, el capitán, tírame un D4.
+
+[02:30:06.880] Radioactividad.
+
+[02:30:10.640] Bueno, pues uno de daño, ¿sabes?
+
+[02:30:14.479] Se queda así,
+
+[02:30:15.080] la señora es malado. Esto sí que esto sí
+
+[02:30:16.880] que es una relación tóxica.
+
+[02:30:18.000] Claro, es toxísimo. Y ves que se gira el
+
+[02:30:20.160] señor a la vieja, ¿sabes? Y dice, "Dios
+
+[02:30:22.240] mío, se ha vuelto loca." Y y empieza
+
+[02:30:24.520] como se señora, yo le protegeré. Y va
+
+[02:30:27.600] dando vueltas al al muro de fuego para
+
+[02:30:29.240] ir a proteger a mamá.
+
+[02:30:33.120] Pero ni siquiera está haciendo nada el
+
+[02:30:34.359] cabrón. [risas]
+
+[02:30:35.720] No, pero
+
+[02:30:36.080] no pegarle un tiro a su novio.
+
+[02:30:37.399] Claro. Pues nada, estos van a ver que
+
+[02:30:39.439] empieza a arder todo esto y nada, pues
+
+[02:30:41.240] van a volver a ver qué está pasando. Ya
+
+[02:30:43.319] que tocan dos veces juntos.
+
+[02:30:46.120] Lo voy a, mira, voy a hacer esto. Va a
+
+[02:30:47.520] ser más fácil porque total os vais a
+
+[02:30:50.120] escapar ya.
+
+[02:30:53.439] Yo ya me escapado cerrado.
+
+[02:30:54.399] Por eso, eh, mamá, tú supongo que vas a
+
+[02:30:57.200] huir hacia hacia abajo, ¿vale?
+
+[02:30:59.760] Corriendo, ¿vale? Pues ves que irás
+
+[02:31:01.720] corriendo hacia abajo. Quizá escuchas la
+
+[02:31:03.720] voz de de un marino que dice, "Señora,
+
+[02:31:05.960] yo le protejo, tranquila." Y después
+
+[02:31:07.840] escuchas, "Ah, me quemo." ¿Sabes? Y
+
+[02:31:10.399] escucháis gritos,
+
+[02:31:11.560] "Me quemo, leche."
+
+[02:31:13.479] Y empezáis a escuchar gritos en el
+
+[02:31:14.800] campamento y cuando miráis hacia atrás
+
+[02:31:16.560] veis como una cortina de fuego ardiendo
+
+[02:31:19.560] y y una pequeña silueta riéndose entre
+
+[02:31:22.439] la cham.
+
+[02:31:23.279] Sí. Y vosotros, vosotros tres que vais
+
+[02:31:25.600] huyendo hacia el norte,
+
+[02:31:27.040] veríais quizá algún marine corriendo al
+
+[02:31:28.680] lado vuestro mirándos y el tío va sin
+
+[02:31:30.479] pelo, se le ha quemado el pelo con toda
+
+[02:31:31.960] la chaqueta quemada, ¿sabes? Ve haciendo
+
+[02:31:33.359] correr que viene la loca, ¿sabes?
+
+[02:31:36.600] Yo hago caso al Marín, ¿eh? [risas]
+
+[02:31:38.520] Yo también. Claro.
+
+[02:31:41.520] Y nada, pues seguiréis huyendo hasta
+
+[02:31:45.120] que, bueno, después de unas cuantas
+
+[02:31:47.520] horas huyendo.
+
+[02:31:51.040] ¿Dónde está? Los que estén a mi
+
+[02:31:51.800] alrededor tienen un maizo sigilo, o sea,
+
+[02:31:53.240] que [risas]
+
+[02:31:56.279] nada, pues empezaríais empezaríais a
+
+[02:32:00.979] [risas]
+
+[02:32:02.520] nada, después de unas cuantas horas
+
+[02:32:03.840] estaríais ya en un sitio que ya notáis
+
+[02:32:05.319] que ni os siguen. El el marine que os
+
+[02:32:07.520] iba iba con vosotros de repente se le ha
+
+[02:32:09.600] tragado la tierra. No preguntéis,
+
+[02:32:11.920] no sabemos qué pasó,
+
+[02:32:12.720] ¿no? Paco,
+
+[02:32:14.040] Paco no volvió
+
+[02:32:15.760] y nada, pues a cabo de unas cuantas
+
+[02:32:17.880] horas, pues me imagino que llegáis todos
+
+[02:32:19.279] de rollo. Ah. [suspiro][grito ahogado]
+
+[02:32:20.479] ¿Sabes?
+
+[02:32:22.160] Pues hay medio muertos y nada,
+
+[02:32:25.359] esto de correr no es muy fuerte, ¿eh?
+
+[02:32:27.560] El huevo,
+
+[02:32:29.200] bien,
+
+[02:32:30.120] todo bastante bien, pero mamá, esto
+
+[02:32:32.399] recibido un resguñito y que tengo un
+
+[02:32:34.640] dedo puesto un agujero de balas, ¿sabes?
+
+[02:32:36.319] Para que no salga.
+
+[02:32:37.040] Déjame, déjame intentar una cosa que voy
+
+[02:32:39.625] [risas] a intentar, voy a tirarle un
+
+[02:32:41.520] cure al huevo a ver qué pasa,
+
+[02:32:44.279] ¿eh? Ves que vas a tirarle, le tiras el
+
+[02:32:46.960] curewon al huevo, ves que como se
+
+[02:32:50.600] empieza como a brillar, que notáis como
+
+[02:32:53.200] esa figura en el interior y de repente
+
+[02:32:56.279] ves como p en el hueco, en el agujerito
+
+[02:32:59.640] que ese que empieza y se empieza a
+
+[02:33:01.399] romper cada vez más, como si alguien
+
+[02:33:03.920] estuviera golpeando desde fuera. Ahy,
+
+[02:33:05.520] desde dentro.
+
+[02:33:06.479] Ya, ya lo has roto. Ya lo has roto.
+
+[02:33:10.040] No, no, esto es bueno. Esto es bueno.
+
+[02:33:11.600] Así como nacen los pajaritos.
+
+[02:33:12.960] ¿Cómo? ¿Cómo va ese huevo si se está
+
+[02:33:14.359] rompiendo el huevo?
+
+[02:33:16.000] ¿Cómo sale el pájaro de dentro?
+
+[02:33:18.680] Que dentro no estoy natural.
+
+[02:33:22.319] Tranquilos,
+
+[02:33:23.640] tranquilos, por favor.
+
+[02:33:27.040] La mamá bien alterada. A ver,
+
+[02:33:28.399] tranquilos, tranquilos, por favor. Y
+
+[02:33:30.920] ella está más este nerviosa que que
+
+[02:33:32.640] todos ellos. Y se acerca el huevo a a a
+
+[02:33:36.160] este a palparlo. A ver, a ver, vamos a
+
+[02:33:39.399] ver. Eh, eh, eh, es que está bien, que
+
+[02:33:41.960] está bien. Pum.
+
+[02:33:43.200] Y ves que sale un pico de repente.
+
+[02:33:47.200] Qué bonito.
+
+[02:33:48.040] Ves, sí que era un pájaro, te lo dije.
+
+[02:33:50.960] La cosa es como después mamá le va a
+
+[02:33:52.439] enseñar a volar porque mamá
+
+[02:33:55.479] vuela lo mismo que un malecillo.
+
+[02:33:57.479] Eh, técnicamente los pájaros tienen un
+
+[02:33:59.080] instinto natural para saber saltar y
+
+[02:34:00.760] volar. Lo normalmente lo que hacen es
+
+[02:34:02.439] tirarlos desde el nido y si vuelan,
+
+[02:34:04.720] vuelan y si no, pues no vuelan. Y y ves
+
+[02:34:07.520] que y ahí se acaba de romper.
+
+[02:34:12.279] Pues ya me jodería descarcar el huevo
+
+[02:34:14.200] para que se contra el suelo.
+
+[02:34:15.920] Crack crack se empieza a abrir el huevo
+
+[02:34:18.319] y veis
+
+[02:34:21.040] un enorme pollo muy grande
+
+[02:34:25.359] que no un gran huevo.
+
+[02:34:28.040] Aquí
+
+[02:34:29.319] de un gran huevo salió un pollón.
+
+[02:34:31.520] Pero veis un pollo enorme,
+
+[02:34:33.600] ¿sabes? Se queda así.
+
+[02:34:34.840] Qué guapo el dibujo.
+
+[02:34:35.720] Mira.
+
+[02:34:41.040] y hace y hace y veo una cosa revolotear
+
+[02:34:44.960] por el cielo pequeña.
+
+[02:34:46.800] Ay, no, no, no.
+
+[02:34:50.080] Iba a ir a por a por Blink. [risas]
+
+[02:34:52.720] Un segundo que me voy a hacer grande.
+
+[02:34:53.800] Cuando hace esto, me voy a hacer un
+
+[02:34:55.880] poquito más grande.
+
+[02:34:58.560] Está como la imagen. ¿Quién sería la la
+
+[02:35:00.520] mariposa esa? [risas]
+
+[02:35:04.120] Me hago un poquito más grande, ¿vale? Y
+
+[02:35:06.000] lo veo así como como con hambre y
+
+[02:35:07.920] empiezo como a intentar cazar libélulas
+
+[02:35:10.279] o o mariposas un grande que vea y se y y
+
+[02:35:15.000] intento tirárselo la boca
+
+[02:35:18.080] empez a morder.
+
+[02:35:20.359] Intanto como me pongo a un rango un
+
+[02:35:22.840] poquito más como alejado que que no me
+
+[02:35:24.600] veo como presa, ¿sabes? No me muevo
+
+[02:35:26.399] mucho para que no se ponga así como que
+
+[02:35:28.359] no que reactiva un instinto de de
+
+[02:35:30.760] freddador. Y lo mismo a la que vea una
+
+[02:35:32.640] liberola la cojo y y voy recolectando
+
+[02:35:35.359] unas cuantas y se las doy a a mamá que
+
+[02:35:37.399] parece que es la experta
+
+[02:35:39.000] en animales.
+
+[02:35:41.520] Es pequeño el [ __ ] ¿no?
+
+[02:35:42.920] ¿Qué hacéis? Pues es bebé.
+
+[02:35:45.680] Ya, ya.
+
+[02:35:47.279] Pues
+
+[02:35:49.000] habrá que ponerlo un nombre, ¿no?
+
+[02:35:52.040] Pues creo que misión cumplida.
+
+[02:35:54.800] Bueno, ahora ya no es un huevo, ahora ya
+
+[02:35:56.439] es una cría, ahora tiene más cuidados.
+
+[02:36:00.880] Sí, habrá que poner, pero el nombre es
+
+[02:36:03.120] lo importante, que sin nombre es como si
+
+[02:36:04.760] no estuviese bautizado.
+
+[02:36:07.960] ¿Y cómo piensas esconder esto para que
+
+[02:36:09.279] la gente no lo vea?
+
+[02:36:10.760] ¿Quién dice que lo voy a esconder?
+
+[02:36:13.640] La lógica
+
+[02:36:15.600] que lo vas a llevar como como tu como
+
+[02:36:17.760] tuvante.
+
+[02:36:21.000] Llévame loco. Pero la gente va a tener
+
+[02:36:22.279] una o dos preguntas cuando vean esto.
+
+[02:36:25.080] No lo
+
+[02:36:25.439] tengo. Yo lo he visto.
+
+[02:36:27.568] [risas]
+
+[02:36:29.560] Me me acerco a a
+
+[02:36:30.800] mi pegazo.
+
+[02:36:33.040] Ándale, mi pegazo. Ya lo vio. No puede
+
+[02:36:36.560] ser. [risas]
+
+[02:36:39.800] me me le acerco y con las libélulas que
+
+[02:36:42.279] me dio Blink le le este se los acerco
+
+[02:36:45.399] así poquito a poquito y como estuve con
+
+[02:36:48.720] él durante toda su incubación,
+
+[02:36:51.560] obviamente le estuve cantando una que
+
+[02:36:53.359] otra nana por ahí. Oh.
+
+[02:36:55.240] Entonces se ha se ha de acordar
+
+[02:36:58.479] mm
+
+[02:36:59.439] este de de mi voz.
+
+[02:37:02.479] Vale.
+
+[02:37:05.000] Y ves que pues como te empieza a mirar,
+
+[02:37:07.279] ¿sabes? a ladear la cabeza y
+
+[02:37:11.600] en ese momento
+
+[02:37:13.720] escucháis un
+
+[02:37:16.760] tiro.
+
+[02:37:19.560] No, no, no, no, no.
+
+[02:37:21.680] Estoy sin wors.
+
+[02:37:23.640] Vale. Y
+
+[02:37:24.680] pero aquí aquí son cazadores.
+
+[02:37:26.680] Ves que te pasa por por el lado, mamá.
+
+[02:37:28.880] ¿Sabes cuando le estás dando le veo al
+
+[02:37:30.279] [ __ ] Es que te pasa por al lado y veis
+
+[02:37:32.600] como empieza a salir de de esa selva uno
+
+[02:37:36.640] de esos capitanes hecho polvo, ¿sabes?
+
+[02:37:38.960] Con las orejas pues sangrando, ¿sabes?
+
+[02:37:41.479] Medio así con la pistola y dice medio
+
+[02:37:43.680] quemado también el pobre, ¿sabes? Lo voy
+
+[02:37:45.640] a poner ahí
+
+[02:37:47.600] va medio quemada y malditos asquerosos
+
+[02:37:51.240] cabrones, levanta la pipa para disparar
+
+[02:37:54.200] y veis que el pollo hace
+
+[02:37:57.120] y va a atacar.
+
+[02:37:58.920] Así veis lo que voy a hacer hoy.
+
+[02:38:00.800] Más 300 de daño. ¿Cómo?
+
+[02:38:03.160] Venga, comida.
+
+[02:38:04.399] Pues ha fallado. Falla.
+
+[02:38:05.920] Pues intenter.
+
+[02:38:09.080] Es que esta bebé todavía no sabe cómo
+
+[02:38:11.520] comer. [risas]
+
+[02:38:13.319] A ver, yo tengo. Vamos a ver. Señor,
+
+[02:38:16.120] cálmese porque como lo tengamos que
+
+[02:38:18.040] calmar nosotros va a ser peor.
+
+[02:38:20.200] El ataque técnicamente no ha sido culpa
+
+[02:38:22.000] nuestra. Nosotros solamente hemos ido a
+
+[02:38:23.439] recuperar un huevo. Le
+
+[02:38:25.000] están vivos. Le están vivos. Intento
+
+[02:38:26.960] holdearla y mientras eh el ataque
+
+[02:38:29.000] también es mi compañera.
+
+[02:38:30.840] Uh, perfecto. Pues ves que el pollo el
+
+[02:38:33.359] pollo dice
+
+[02:38:36.604] [risas]
+
+[02:38:36.760] con ventaja. Uy, esta sí queda.
+
+[02:38:40.399] Y crítico.
+
+[02:38:41.000] Y es crítico.
+
+[02:38:42.840] El [ __ ]
+
+[02:38:44.760] Ves que [resoplido] lo lo lo revienta y
+
+[02:38:47.359] contra el suelo.
+
+[02:38:48.240] Venga, come, come.
+
+[02:38:50.120] Y empieza a comérselo. Empieza a
+
+[02:38:52.000] tragarse que [risas] le veis las
+
+[02:38:52.720] piernecitas que van cayendo para dentro.
+
+[02:38:54.920] No sé yo hasta qué punto es buena idea
+
+[02:38:56.359] alimentarlo con carne humana
+
+[02:38:58.600] mientras que no sea la mía.
+
+[02:39:00.840] Ay, mi niño te va a dar indigestión.
+
+[02:39:03.120] Pobrecito.
+
+[02:39:03.720] Como se acostumbre.
+
+[02:39:05.160] Yo soy humano. Tú [risas]
+
+[02:39:07.319] yo tampoco.
+
+[02:39:09.040] Y tú
+
+[02:39:09.760] sabes a qué me refiero. De verdad,
+
+[02:39:12.240] da igual. Piratas. Hay unos cuantos. Uno
+
+[02:39:15.680] a los más débiles para la cazuela.
+
+[02:39:19.720] Vale. [suspiro]
+
+[02:39:22.000] ¿Dónde queréis ir?
+
+[02:39:24.800] No,
+
+[02:39:25.359] me lo voy a llevar a la selva.
+
+[02:39:27.240] ¿A dónde? Cuapali.
+
+[02:39:29.680] Sí, no, el
+
+[02:39:30.760] no sé si en fin, por fin vais a ir a
+
+[02:39:32.939] [risas] la aldea.
+
+[02:39:34.680] Mamá, si te va si te queda en la cerva
+
+[02:39:37.000] un
+
+[02:39:38.760] bebé
+
+[02:39:40.279] durado telediarios.
+
+[02:39:43.080] Yo yo tengo un par de escondites, pero
+
+[02:39:44.560] no, eso sí cabe. No, no cabe.
+
+[02:39:46.279] A ver, a ver, mis niños, tengo un
+
+[02:39:47.920] problema muy grave. No puedo irme Sharu
+
+[02:39:51.840] C. [risas] No puedo irme a Sharu porque
+
+[02:39:54.399] me están buscando
+
+[02:39:56.359] y
+
+[02:39:57.160] creo que en Cuikapali no creo que me
+
+[02:39:59.120] acepten a este bebé.
+
+[02:40:02.319] Has preguntado. Si no preguntado se
+
+[02:40:04.600] sabe.
+
+[02:40:06.080] Puede que yo sepa un sitio al que podáis
+
+[02:40:07.720] ir.
+
+[02:40:08.399] ¿Has visto algún bebé así en Cuikapali?
+
+[02:40:12.840] No lo he visto fuera de Cuikapali. No he
+
+[02:40:14.560] visto ni Cuikapali.
+
+[02:40:16.640] Ah, qué bueno. Entonces, no no sabéis
+
+[02:40:19.680] también.
+
+[02:40:22.560] No sé si yo te digo que pregunta, pero
+
+[02:40:24.200] hagamos caso a Wilson que ha dicho que
+
+[02:40:26.200] sabe un sitio. Un sitio.
+
+[02:40:28.200] ¿Qué sitio?
+
+[02:40:29.359] ¿Qué sitio?
+
+[02:40:31.000] La cueva donde matamos a los señores
+
+[02:40:32.800] serpientes.
+
+[02:40:36.080] No estoy seguro, pero creo que es esa
+
+[02:40:38.200] ese tipo de cueva
+
+[02:40:40.520] no viene a hacer un sitio así muy
+
+[02:40:41.920] seguro.
+
+[02:40:43.000] Claro, pero este [ __ ] es bastante
+
+[02:40:44.279] buena,
+
+[02:40:46.120] había un había un campamento ahí
+
+[02:40:48.160] escondido,
+
+[02:40:49.800] ¿no? Sí.
+
+[02:40:51.399] Y la cosa es que señores serpientes
+
+[02:40:53.479] nunca escucha una historia de señores
+
+[02:40:55.760] serpientes que dice,
+
+[02:40:57.640] pues la verdad es que era eran muy majo
+
+[02:41:00.279] y todas estas cosas, ¿no? No pueden
+
+[02:41:01.680] pasar.
+
+[02:41:01.920] Claro, por eso mismo podemos ir ahí
+
+[02:41:03.080] porque están muertos.
+
+[02:41:04.520] Tampoco con las serpientes me llevo muy
+
+[02:41:06.040] Ah, pero tú estás hablando el de la hoja
+
+[02:41:07.800] del asesinato la última vez. Claro, yo
+
+[02:41:09.439] no lo
+
+[02:41:09.760] claro, claro. Mi última sesión
+
+[02:41:11.279] y eso está cerca de Cuikapali. Y
+
+[02:41:13.240] acordaos que dejasteis una casa en
+
+[02:41:14.720] llamas ahí dentro, una tienda. Sí,
+
+[02:41:17.200] claro, después de tres días habrá
+
+[02:41:19.000] pagado.
+
+[02:41:19.680] Sí, eso sí, pero mira,
+
+[02:41:20.600] sí, no, pero
+
+[02:41:21.760] eso tenes que ir.
+
+[02:41:22.560] Claro, claro. A ver, yo doy el único
+
+[02:41:25.760] sitio que conozco donde no te buscan.
+
+[02:41:28.600] A ver, todo es cuestión de llegar
+
+[02:41:31.800] blink y yo quicapali.
+
+[02:41:33.960] Yo a mí me parece bien que porque hay
+
+[02:41:36.520] que redos
+
+[02:41:39.040] Winson no sé qué piensa.
+
+[02:41:41.080] Ah, yo
+
+[02:41:43.160] salve su líder.
+
+[02:41:45.080] Pues entonces mira, Salvo Azulide que
+
+[02:41:48.319] pida como favor que le acepten al bebé.
+
+[02:41:53.680] Bueno, yo
+
+[02:41:54.120] hay alguien que sepa de de
+
+[02:41:55.319] adiestramiento de de criaturas grandes,
+
+[02:41:57.160] no sé. Es buen sitio. Ahí está muy
+
+[02:41:59.800] conectados con la naturaleza.
+
+[02:42:02.520] ¿Y qué es más natural que un vizo que se
+
+[02:42:04.439] acaba de comer otra persona? Eso es
+
+[02:42:06.359] natural.
+
+[02:42:08.600] Muy natural.
+
+[02:42:10.080] Es ciclo sin unos nacen y otros mueren.
+
+[02:42:15.399] Entonces, yo creo que sí me lo voy a
+
+[02:42:16.399] tener que llevar a Quick Poli. Siento
+
+[02:42:18.520] que va a estar más seguro ahí.
+
+[02:42:22.240] A ver si convences a la gente de que te
+
+[02:42:24.680] lo deje pasar.
+
+[02:42:26.479] Bueno, al menos estaré lo más cerca,
+
+[02:42:28.479] pero no tan lejos. Más
+
+[02:42:32.640] más salvo que en Ciaru que te están
+
+[02:42:34.279] buscando.
+
+[02:42:35.000] Exacto.
+
+[02:42:36.200] Mejor que en cualquier lugar es ese.
+
+[02:42:37.800] Noquéis que en Shar no está buscando
+
+[02:42:39.479] nadie.
+
+[02:42:40.800] Es lo que nos ha dicho ella.
+
+[02:42:41.920] A ver,
+
+[02:42:42.240] ella nos ha dicho que está buscando.
+
+[02:42:43.000] A mí me dijo Bonnie que no ni me pasara
+
+[02:42:45.240] por Sharu.
+
+[02:42:45.960] ¿Pero por qué?
+
+[02:42:48.640] Porque ahí estaban los marines.
+
+[02:42:51.160] Vale, o sea, no te está ayudando, que es
+
+[02:42:53.479] diferente.
+
+[02:42:54.800] Claro. O sea,
+
+[02:42:55.960] por eso
+
+[02:42:57.240] está diciendo no te quedes aquí porque
+
+[02:42:58.479] van a venir los marinés y si te v
+
+[02:42:59.960] Por eso no me voy a quedar en Shar ni
+
+[02:43:02.160] menos con este bebé.
+
+[02:43:03.359] Pero por eso no te busca. O sea, no te
+
+[02:43:05.279] busca nadie.
+
+[02:43:06.680] La Marina,
+
+[02:43:07.720] eso sí
+
+[02:43:09.000] es ella lo dijo. Ahí está. Ah,
+
+[02:43:14.240] por eso lo estoy Ella me lo dijo queando
+
+[02:43:17.680] entonces,
+
+[02:43:18.720] hombre, ellos saben que
+
+[02:43:20.720] cuando averigüen que ha muerto toda una
+
+[02:43:23.040] brigada que han mandado a precisamente a
+
+[02:43:25.800] ese sitio a a atacar, lo primero que
+
+[02:43:29.000] harán será mandar una brigada para
+
+[02:43:30.040] averiguar qué ha pasado
+
+[02:43:31.840] y el primer será
+
+[02:43:34.399] pirata.
+
+[02:43:35.960] Yo no quiero decir nada, pero como haya
+
+[02:43:37.520] uno que haya quedado así medio tonto,
+
+[02:43:39.680] todavía no reconoce.
+
+[02:43:42.359] Bueno, aquí tenemos a este bebé que se
+
+[02:43:43.760] lo va a comer.
+
+[02:43:44.680] A ver, a mí no me han visto muchos, ¿eh?
+
+[02:43:48.640] Paco, que desapareció de mitad de la
+
+[02:43:50.520] selva. Creo que solamente han visto este
+
+[02:43:53.160] capitán que se está comiendo este y
+
+[02:43:54.920] Paco. [risas]
+
+[02:43:57.479] Pobre Paco, desapareció.
+
+[02:43:59.560] Sí, esperemos que esté bien.
+
+[02:44:02.840] Bueno, me lo voy a llevar a Sharun. digo
+
+[02:44:04.359] a Sher, a este a Quikapali. ¡Cállate!
+
+[02:44:08.000] Yo te acompaño Pues seguro.
+
+[02:44:09.439] Supongo que vamos a Quickali. Sí,
+
+[02:44:10.600] supongo.
+
+[02:44:11.840] Yo sigo en que lo más seguro sería irse
+
+[02:44:14.359] a un sitio de apartado en el que nadie
+
+[02:44:15.880] tenga que intervenir ni nada.
+
+[02:44:17.399] Bueno, pero está cerca de Cuikapal ese
+
+[02:44:19.200] sitio o lo que sea, pilla de camino.
+
+[02:44:21.359] Pues entonces
+
+[02:44:23.160] si mamas no lo aceptan se quedó en la
+
+[02:44:24.880] cueva y nosotros como ciudadanos nos
+
+[02:44:27.439] quedamos en en Quicapali y le ayudamos
+
+[02:44:30.200] desde Quicapali.
+
+[02:44:32.319] Yo todavía eso de ayudar todavía no sé
+
+[02:44:33.600] por qué lo estoy haciendo después de la
+
+[02:44:34.920] puñalada, pero bueno. Venga, sigamos. Ya
+
+[02:44:37.359] he perdido el río.
+
+[02:44:40.399] Hablemos con propiedad. Te tranguló.
+
+[02:44:42.754] [risas]
+
+[02:44:42.760] Le di un beso. No sé cómo
+
+[02:44:44.359] me tocó.
+
+[02:44:48.479] Díselo al juez. Esta señora me tocó.
+
+[02:44:52.579] [risas]
+
+[02:44:55.439] Ven, amor, ven, ven, ven, ven.
+
+[02:44:58.160] Una una correa cogerle.
+
+[02:45:01.680] Vámonos, mi amor. Vente. Aquí ven.
+
+[02:45:06.319] Un momento.
+
+[02:45:06.960] No, no, no, no, no, no, no, mi amor. No,
+
+[02:45:09.960] no, no, no, no, no. Muerte que estaba
+
+[02:45:12.240] muriendo.
+
+[02:45:15.000] [ __ ]
+
+[02:45:15.880] atacado 10 pies, ¿eh? No os preocupéis.
+
+[02:45:19.439] Voy a hacer esto. Voy a intentar hablar
+
+[02:45:21.120] con el [ __ ]
+
+[02:45:22.880] Eh, no es un animal.
+
+[02:45:25.439] Es un dinosaurio, ¿eh? No es un dinal.
+
+[02:45:26.640] Ah, sí, es una best. Sí, sí, sí, perdón.
+
+[02:45:28.359] Vale,
+
+[02:45:28.600] claro, es un dinosaurio. [risas]
+
+[02:45:30.040] ¿Ves que el el el [ __ ] hace?
+
+[02:45:34.520] Es un bebé.
+
+[02:45:35.439] Sí. No sé qué esperaba.
+
+[02:45:38.120] Y ves que se se pierde con un moco. M.
+
+[02:45:41.704] [resoplido]
+
+[02:45:42.120] Bueno, [risas] eh, también el agujero de
+
+[02:45:45.279] bala no la ayudó.
+
+[02:45:46.399] ¿Y esto qué es, Blink? Hago la ilusión
+
+[02:45:48.920] de
+
+[02:45:50.520] un conejo, pongamos aquí comoando
+
+[02:45:53.720] y y corriendo para acá a ver si queda
+
+[02:45:55.920] algo de los cadáveres de antes, a ver si
+
+[02:45:58.040] queda algo de los dinosaures y tal, pero
+
+[02:46:00.120] para que coma huesos o lo que sea. Y
+
+[02:46:02.040] hasta aquí.
+
+[02:46:03.000] Ay, Dios. Transpadores.
+
+[02:46:04.720] Hay que hacer, hay que irlo llevando
+
+[02:46:06.560] poco a poco en plan,
+
+[02:46:08.840] pues nada, eh, ¿qué me han tirado?
+
+[02:46:11.399] [ __ ] me están tirando cartas.
+
+[02:46:13.720] Ay, ahora resulta, ya que estamos a nada
+
+[02:46:15.319] de terminar, tiran cartas. [ __ ] pues
+
+[02:46:18.240] mira, si me ha olvidado una de Kender,
+
+[02:46:19.680] no oigo nada, te la devuelvo en Kender.
+
+[02:46:23.760] Te vuelve carta.
+
+[02:46:25.240] ¿Qué estás haciendo?
+
+[02:46:26.920] Y te la quería tirar a ti, pero hace
+
+[02:46:29.479] mucho rato. ¿Y qué más? Esto.
+
+[02:46:33.600] Uh, ¿para quién? Uh, vale, pues esto,
+
+[02:46:37.080] Winc,
+
+[02:46:38.240] tírame un de 20.
+
+[02:46:40.160] [ __ ] [resoplido][risas]
+
+[02:46:43.240] no va a ser, no va a ser muy acertada
+
+[02:46:44.560] esta carta.
+
+[02:46:46.399] En teoría pierdes 15 de oro, pero t dos,
+
+[02:46:49.160] así que pierdes dos. [risas]
+
+[02:46:54.359] Vemos como el dinosaurio, vemos como el
+
+[02:46:56.439] dinosaurio se está tragando algo dorado
+
+[02:46:58.120] en plano.
+
+[02:46:59.680] ¿Alguien ha visto mi cartera?
+
+[02:47:01.615] [risas] Sí, mira, la tiene la la tiene
+
+[02:47:04.800] el bebé que seguimos sin ponerle nombre
+
+[02:47:06.720] y se la come, ¿no?
+
+[02:47:07.880] [ __ ]
+
+[02:47:08.840] tampoco me quedaba mucho.
+
+[02:47:10.120] Y nada, gente, pues iréis de camino
+
+[02:47:12.560] hacia Cuikapali y mientras ya tenéis ese
+
+[02:47:16.319] pollo andante, pues la cámara se irá
+
+[02:47:19.920] alejando de Choltacá.
+
+[02:47:22.560] Perfecto.
+
+[02:47:24.279] Le podéis decir adiós a a YouTube.

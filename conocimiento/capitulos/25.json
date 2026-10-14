@@ -1,0 +1,639 @@
+{
+  "capitulo": 25,
+  "estado_revision": "revisado",
+  "resumen": "Poncelot pierde su armadura durante el descanso y cuenta que estudió con Ione un mapa de destino incierto. Blink vuelve de Cuicapalli con un collar inquietante que mantiene oculto. Nox evita a Ione y trabaja con el diario y sus glifos. Luna experimenta como chamán y Tlachka vende elotes. De noche, hombres serpiente y bestias atacan las habitaciones, el toldo y el barco. Tlachka encuentra a una mujer serpiente sobre Poncelot, que lo confunde con un gigante hostil. La hechicera aumenta su miedo y exige el mapa. Nox utiliza la ilusión de una sierpe conocida de la cárcel para distraer a los atacantes; Luna los desvía con sonidos ilusorios y Blink se vuelve invisible. Los tres se reúnen en la taberna, donde Nox y Luna roban pergaminos y pintan a los durmientes. Poncelot y Tlachka combaten. La mujer serpiente muere y explota con daño necrótico, derribando al gnomo, que se recupera mediante la curación de la audiencia. Merlucilla III acude a ayudar. Una oleada de magia salvaje de Luna mata a dos bestias. Otros enemigos siguen la ilusión fuera del poblado. Poncelot mata al último adversario del combate. El mapa señala una parte de la jungla; el gnomo recuerda que Ione habló de una ciudad llamada Ezlat, de grafía provisional. Merlucilla trae una espina que se convierte en una lanza de tres cargas. Nox descifra órdenes en abisal que mencionan el pueblo pirata, el mapa y el collar. Al compartirlas, Blink revela el collar que oculta y que sisea. No parten hacia el destino ni destruyen el objeto.",
+  "misiones": [
+    "Defender Shiaru durante la noche: matan a varios atacantes y desvían a otros mediante una ilusión. Buscaban el mapa y el collar. Algunos abandonan vivos el poblado, por lo que no se elimina todo el peligro de la isla (25-005–25-018 y 25-021).",
+    "Investigar el mapa: Poncelot e Ione lo estudiaron antes. Nox no localiza el destino mediante cartografía. Ezlat es un nombre recordado por el gnomo y la expedición queda pendiente (25-001 y 25-019).",
+    "Investigar el collar de Blink: las órdenes lo reclaman y ella revela que lo tiene oculto. Piensa deshacerse de él, pero no lo hace (25-021)."
+  ],
+  "preguntas": [
+    "¿Quién ordenó el ataque y por qué necesita el mapa y el collar? Solo se conocen las palabras descifradas de las órdenes (25-021).",
+    "¿Dónde está Ezlat y qué contiene? La cartografía falla y el nombre procede del testimonio de Poncelot sobre Ione (25-019).",
+    "¿Qué es el collar de Blink y cómo se relaciona con los anteriores? La mesa rechaza identificarlo con el de cuatro gemas (25-021).",
+    "¿Qué hechizos contienen los dos pergaminos robados y cuáles son todos los efectos de la espina-lanza? Se conocen sus niveles o cargas, pero no todos los detalles (25-012, 25-018 y 25-020)."
+  ],
+  "contradicciones": [
+    "Poncelot confunde a Tlachka con un enemigo antes del hechizo, que aumenta su miedo después. Las instrucciones de la mujer son verbales y no confirman otra dominación (25-006, 25-009 y 25-010).",
+    "La invisibilidad no impide el rastreo por sonidos. Los personajes sospechan visión u olfato especiales, pero el director muestra un rastreo (25-008 y 25-014).",
+    "Nox afirma que elimina la amenaza de la aldea, aunque desvía a varios enemigos vivos hacia el sur (25-018–25-019).",
+    "La mesa permite utilizar Absorber elementos contra el veneno en esta escena y corrige la regla para la próxima ocasión. El daño ya resuelto se conserva (25-017).",
+    "La mujer serpiente explota con daño necrótico al morir; el último varón no explota. Los enemigos no tienen todos el mismo efecto (25-015 y 25-018)."
+  ],
+  "nombres_dudosos": [
+    "Ezlat es el destino del mapa que Poncelot recuerda al citar a Ione. Su grafía es provisional y no se identifica con otros lugares sin evidencias adicionales.",
+    "Tlachka/Tlatka/Tlaska/Lascaldecutli son lecturas del mismo nativo por la continuidad de sus turnos. Su nombre completo fonético no está asegurado.",
+    "Merlucilla III es la mosca de Poncelot, distinta de Merlucilla I, el dinosaurio, y Merlucilla II, el hipocampo.",
+    "Nox dice haber adoptado a un perro o coyote sin nombre. No puede identificarse con el personaje Coyote del contexto del usuario."
+  ],
+  "fuente_sha256": "3660159e27100e69d1300573ead91a1a2bf01c15a54e63a25989d8030f89e6c6",
+  "afirmaciones": [
+    {
+      "id": "25-001",
+      "titulo": "Mapa estudiado con Ione y armadura perdida",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Poncelot relata que por fin encontró a Ione y que estudiaron el mapa para visitar un lugar cuyo contenido desconocen. Preparaba un cubo como casco, pero la tirada de descanso le hace perder la armadura y quedar con catorce de clase de armadura. No obtiene una nueva armadura más uno al regatear con el director.",
+      "inicio": "00:00:00.000",
+      "fin": "00:03:05.000",
+      "cita": "localizar a la capetana Ione",
+      "evidencia_cue": {
+        "inicio": "00:00:21.800",
+        "fin": "00:00:24.470",
+        "texto": "Pues consiguió por fin después de un par de semanas localizar a la capetana Ione"
+      },
+      "entidades": [
+        "Sir Poncelot",
+        "Ione",
+        "Mapa de Poncelot (destino Ezlat provisional)"
+      ],
+      "ambito": "recapitulación y descanso",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": ""
+    },
+    {
+      "id": "25-002",
+      "titulo": "Blink conserva el amuleto y Nox evita a Ione",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Blink estuvo en Cuicapalli pensando dónde ocultar el amuleto. Lo lleva consigo porque no consideró seguro enterrarlo y vuelve a Shiaru. Tras el rescate, Nox evita a Ione por su reacción en el fuerte. Revisa el diario y los apuntes del tesoro y recoloca un glifo. Dice haber adoptado un perro que cree capaz de hablar. Durante la discusión lo llaman coyote, sin confirmar un nombre.",
+      "inicio": "00:03:00.000",
+      "fin": "00:06:05.000",
+      "cita": "recolocando uno de de sus glifos",
+      "evidencia_cue": {
+        "inicio": "00:04:38.880",
+        "fin": "00:04:41.909",
+        "texto": "y pues también recolocando uno de de sus glifos en ese libro. Y lo último que ha"
+      },
+      "entidades": [
+        "Blink / Blank",
+        "Cuicapalli",
+        "Shiaru",
+        "Nox",
+        "Ione",
+        "Collar de Blink",
+        "Coyote adoptado por Nox (sin nombre)"
+      ],
+      "ambito": "recapitulaciones separadas",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La palabra coyote no identifica al animal con Citlali o Coyote. Tampoco verifica las facultades del loro."
+    },
+    {
+      "id": "25-003",
+      "titulo": "Luna experimenta y Tlachka vende elotes",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Luna se presenta como una chamán en formación. Lleva hierbas, venenos y mezclas que no sabe identificar o preparar bien; el descanso le provoca retortijones. Tlachka prepara elotes con miel para el poblado. Gana tres monedas por la venta y diecinueve después durante una ronda adjudicada. Ambos sufren heridas de la tabla de descanso.",
+      "inicio": "00:06:00.000",
+      "fin": "00:13:40.000",
+      "cita": "chamán en construcción",
+      "evidencia_cue": {
+        "inicio": "00:06:48.680",
+        "fin": "00:06:52.390",
+        "texto": "porque tampoco las sabe hacer. Así que eh es una chamán en construcción. Tiene"
+      },
+      "entidades": [
+        "Lunaria / Luna",
+        "Tlachka / Tlacha / Tlaxka (grafía provisional)",
+        "Shiaru"
+      ],
+      "ambito": "descanso y venta",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La autodenominación de Luna no confirma un cambio de clase. Las veintidós monedas se adjudican en esta escena, sin establecer ingresos permanentes."
+    },
+    {
+      "id": "25-004",
+      "titulo": "Noche dispersa en Shiaru",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Poncelot duerme en el local de Liz y saluda a Merlucilla III, su mosca, que está fuera de la ventana. Tlachka hace una ronda. Blink duerme en un toldo y, tras una corrección, su fruta le da desventaja en sabiduría. Luna mezcla sustancias en el antiguo camarote de Nox, junto a Mamá y el huevo. Nox duerme en la barra junto a Pix; no encontró allí a Bonnie.",
+      "inicio": "00:09:00.000",
+      "fin": "00:18:05.000",
+      "cita": "antiguo camarote del",
+      "evidencia_cue": {
+        "inicio": "00:15:44.199",
+        "fin": "00:15:47.949",
+        "texto": "y entraríamos en el camarote, bueno, el antiguo camarote del señor Nox, que"
+      },
+      "entidades": [
+        "Sir Poncelot",
+        "Merlucilla III (mosca)",
+        "Liz",
+        "Tlachka / Tlacha / Tlaxka (grafía provisional)",
+        "Blink / Blank",
+        "Lunaria / Luna",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Huevo de Mamá",
+        "Nox",
+        "Pix",
+        "Happy Bonnie / Bonny (grafía provisional)"
+      ],
+      "ambito": "escenas nocturnas separadas",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La ausencia de Bonnie no acredita su destino o muerte. Mamá no despierta ni resulta herida en este pasaje."
+    },
+    {
+      "id": "25-005",
+      "titulo": "Tlachka descubre intrusos en su habitación",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Tlachka sigue una sombra que entra en el local de Liz. Encuentra a una mujer escamosa con cola de serpiente inclinada sobre Poncelot, y a una bestia que lo ataca desde un lado. El ruido despierta al gnomo.",
+      "inicio": "00:18:00.000",
+      "fin": "00:22:10.000",
+      "cita": "su parte inferior es una enorme cola",
+      "evidencia_cue": {
+        "inicio": "00:20:36.480",
+        "fin": "00:20:39.870",
+        "texto": "y a la que te fijas ves que su parte inferior es una enorme cola y vas a"
+      },
+      "entidades": [
+        "Tlachka / Tlacha / Tlaxka (grafía provisional)",
+        "Sir Poncelot",
+        "Mujer serpiente que exige mapa",
+        "Local de Liz"
+      ],
+      "ambito": "ataque observado",
+      "conocedores": [
+        "Tlachka / Tlacha / Tlaxka (grafía provisional)",
+        "Sir Poncelot"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": ""
+    },
+    {
+      "id": "25-006",
+      "titulo": "Ataques simultáneos a Blink, Nox y el barco",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Tres criaturas rodean el toldo de Blink y ella se eleva. Dos hombres serpiente se acercan a Nox en la barra. Luna oye a otras criaturas trepar por el barco y se esconde detrás de Mamá, dormida, y del huevo. Poncelot confunde a una bestia con el perro de una señora y a Tlachka con un gigante amenazante, pese a su advertencia.",
+      "inicio": "00:22:00.000",
+      "fin": "00:28:35.000",
+      "cita": "me escondo detrás de ella",
+      "evidencia_cue": {
+        "inicio": "00:26:59.240",
+        "fin": "00:27:00.230",
+        "texto": "Si escucho que viene algo, me escondo detrás de ella."
+      },
+      "entidades": [
+        "Blink / Blank",
+        "Nox",
+        "Lunaria / Luna",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Sir Poncelot",
+        "Tlachka / Tlacha / Tlaxka (grafía provisional)",
+        "Hombres serpiente de ataque a Shiaru"
+      ],
+      "ambito": "ataques en lugares separados",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Los ataques ocurren en varios lugares. Cada personaje no conoce automáticamente todas las posiciones."
+    },
+    {
+      "id": "25-007",
+      "titulo": "Ilusiones y evasión inicial",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Blink utiliza invisibilidad. Nox crea una imagen mayor semejante a la susurradora de la cárcel y se oculta tras la barra; después huye hacia el barco. Luna coloca luces danzantes para ver sin abandonar su escondite. Tlachka golpea a la bestia y bloquea la salida de la habitación.",
+      "inicio": "00:28:00.000",
+      "fin": "00:34:55.000",
+      "cita": "la susurradora que me encontré en la cárcel",
+      "evidencia_cue": {
+        "inicio": "00:30:25.600",
+        "fin": "00:30:27.549",
+        "texto": "cabeza es la susurradora que me encontré en la cárcel."
+      },
+      "entidades": [
+        "Blink / Blank",
+        "Nox",
+        "Susurradora de cárcel (sierpe recordada)",
+        "Lunaria / Luna",
+        "Tlachka / Tlacha / Tlaxka (grafía provisional)"
+      ],
+      "ambito": "defensas e ilusiones",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La imagen no implica la presencia física o la cooperación de la susurradora."
+    },
+    {
+      "id": "25-008",
+      "titulo": "Rastreo de Blink invisible",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Las bestias saltan al toldo y buscan a Blink, invisible. Una vocaliza en un idioma que parece abisal y las demás miran arriba; después siguen el sonido de sus alas. Blink sospecha que pueden verla u olerla y busca aliados hacia el barco. Poncelot intenta atacar a Tlachka, pero golpea a una bestia debido al espacio reducido.",
+      "inicio": "00:34:40.000",
+      "fin": "00:40:10.000",
+      "cita": "como un batir de alas",
+      "evidencia_cue": {
+        "inicio": "00:38:22.400",
+        "fin": "00:38:24.750",
+        "texto": "empieza a y ha escuchado como un como un batir de alas y empieza como a ir hacia"
+      },
+      "entidades": [
+        "Blink / Blank",
+        "Hombres serpiente de ataque a Shiaru",
+        "Sir Poncelot",
+        "Tlachka / Tlacha / Tlaxka (grafía provisional)"
+      ],
+      "ambito": "rastreo y percepción",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Se muestra un rastreo por sonido, no visión verdadera confirmada. El parecido con el idioma del collar no equivale a traducirlo."
+    },
+    {
+      "id": "25-009",
+      "titulo": "Miedo mágico y respeto a una ilusión",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Luna produce un sonido ilusorio de un arma golpeando una armadura al otro lado del barco. La mujer serpiente lanza un efecto que hace que Poncelot tema a Tlachka como a un monstruo. Un hombre serpiente reverencia la imagen de Nox y se marcha. Luna atrae a las criaturas hacia la borda.",
+      "inicio": "00:40:00.000",
+      "fin": "00:46:10.000",
+      "cita": "un miedo bastante real",
+      "evidencia_cue": {
+        "inicio": "00:43:07.440",
+        "fin": "00:43:11.270",
+        "texto": "sin Boncelot es que empiezas a tener un miedo bastante real y como ya estabas un"
+      },
+      "entidades": [
+        "Lunaria / Luna",
+        "Sir Poncelot",
+        "Tlachka / Tlacha / Tlaxka (grafía provisional)",
+        "Mujer serpiente que exige mapa",
+        "Nox"
+      ],
+      "ambito": "miedo e ilusiones",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Poncelot estaba confundido antes del hechizo. Este aumenta mágicamente su miedo."
+    },
+    {
+      "id": "25-010",
+      "titulo": "Nox encuentra a Luna y una mujer exige el mapa",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Nox busca a Ione para que defienda al grupo, pero no la encuentra. Localiza a Luna y se esconde debajo de una cama. Blink se oculta en el tejado de la taberna sin ver a sus aliados. Poncelot mata a la primera bestia con un ataque accidental. La mujer serpiente le pregunta en común dónde está el mapa; él responde que lo tiene protegido. Ella le pide que mate a Tlachka y después se lo entregue.",
+      "inicio": "00:46:00.000",
+      "fin": "00:54:55.000",
+      "cita": "dónde está el mapa",
+      "evidencia_cue": {
+        "inicio": "00:53:40.280",
+        "fin": "00:53:43.510",
+        "texto": "¿dónde está el mapa?"
+      },
+      "entidades": [
+        "Nox",
+        "Ione",
+        "Lunaria / Luna",
+        "Blink / Blank",
+        "Sir Poncelot",
+        "Mujer serpiente que exige mapa",
+        "Mapa de Poncelot (destino Ezlat provisional)"
+      ],
+      "ambito": "demanda y refugios",
+      "conocedores": [
+        "Sir Poncelot",
+        "Tlachka / Tlacha / Tlaxka (grafía provisional)"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "El director aclara después que la instrucción de matar es verbal; no adjudica una compulsión adicional."
+    },
+    {
+      "id": "25-011",
+      "titulo": "Los sonidos desvían a los enemigos y tres compañeros se reúnen",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Luna desplaza el sonido ilusorio de una armadura cayendo al agua y unas criaturas saltan para buscarlo. Otras olfatean una tela ofrecida por su controlador. Nox y Luna vuelven con sigilo a la taberna pese al ruido de un tablón. Blink los sigue todavía invisible y termina cerca de ellos, sin identificarse inmediatamente.",
+      "inicio": "00:54:30.000",
+      "fin": "01:07:55.000",
+      "cita": "un trozo de tela",
+      "evidencia_cue": {
+        "inicio": "00:57:46.200",
+        "fin": "00:57:47.309",
+        "texto": "empieza, saca algo que como un trozo de tela que se lo empieza a dar, que el"
+      },
+      "entidades": [
+        "Lunaria / Luna",
+        "Nox",
+        "Blink / Blank",
+        "Hombres serpiente de ataque a Shiaru"
+      ],
+      "ambito": "evasión y rastreo",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Algunas bestias desaparecen después bajo el agua. No se confirma su muerte ni la presencia del tiburón propuesto por el chat."
+    },
+    {
+      "id": "25-012",
+      "titulo": "Robo a Pix y Poncelot sujeto por la cola",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Luna pinta la cara de Pix mientras duerme. Nox le roba un pergamino mágico de nivel uno cuyo hechizo debe estudiar. La mujer sujeta a Poncelot con la cola. Blink oye voces bajo la barra y teme a la imagen, sin saber que es una ilusión de Nox. Luna intenta atraerla con sonidos y las voces permiten el encuentro.",
+      "inicio": "01:08:00.000",
+      "fin": "01:18:35.000",
+      "cita": "un pergamino de nivel uno",
+      "evidencia_cue": {
+        "inicio": "01:13:43.840",
+        "fin": "01:13:45.550",
+        "texto": "esto. Bueno, pues un pergamino de nivel uno es"
+      },
+      "entidades": [
+        "Lunaria / Luna",
+        "Pix",
+        "Nox",
+        "Pergamino robado a Pix (hechizo desconocido)",
+        "Sir Poncelot",
+        "Blink / Blank"
+      ],
+      "ambito": "robo y encuentros",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "El nivel no identifica el hechizo. El pergamino que roba Luna después procede de otro portador."
+    },
+    {
+      "id": "25-013",
+      "titulo": "Mapa reclamado y Hambre de Hadar",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "La mujer exige que devuelvan el mapa mientras combate con Tlachka. Nox explica a Luna que la sierpe es una ilusión y la mueve para indicar a un enemigo que busque fuera. Blink lanza Hambre de Hadar de forma sutil para cubrir la retaguardia. El área oscura causa daño y ceguera según la resolución de la mesa. Poncelot llama a Merlucilla.",
+      "inicio": "01:18:00.000",
+      "fin": "01:24:55.000",
+      "cita": "Devednos el mapa",
+      "evidencia_cue": {
+        "inicio": "01:19:06.719",
+        "fin": "01:19:11.510",
+        "texto": "pegarte, ¿sabes? Y dice, \"Acamaremos con vosotros. Devednos el mapa."
+      },
+      "entidades": [
+        "Mujer serpiente que exige mapa",
+        "Mapa de Poncelot (destino Ezlat provisional)",
+        "Tlachka / Tlacha / Tlaxka (grafía provisional)",
+        "Nox",
+        "Lunaria / Luna",
+        "Blink / Blank",
+        "Merlucilla III (mosca)"
+      ],
+      "ambito": "exigencia y magia",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": ""
+    },
+    {
+      "id": "25-014",
+      "titulo": "Invisibilidad conjunta y Merlucilla llega",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Luna sale de la barra y pinta la cara de otro pirata dormido. Tlachka continúa combatiendo y se oye la mosca fuera. Nox lleva a Blink en el bolsillo y dirige la ilusión hacia el sur, seguida por enemigos. Blink lanza Invisibilidad a nivel tres para incluir a ambos; pierde la concentración en Hambre de Hadar y avisa telepáticamente a Luna para que se esconda. Una bestia rastrea y señala su posición pese a la invisibilidad.",
+      "inicio": "01:24:40.000",
+      "fin": "01:38:30.000",
+      "cita": "Estoy invisible con Nox",
+      "evidencia_cue": {
+        "inicio": "01:37:56.880",
+        "fin": "01:37:59.550",
+        "texto": "escóndete que vienen más. Estoy invisible con Nox aquí en la esquina y"
+      },
+      "entidades": [
+        "Lunaria / Luna",
+        "Tlachka / Tlacha / Tlaxka (grafía provisional)",
+        "Merlucilla III (mosca)",
+        "Nox",
+        "Blink / Blank"
+      ],
+      "ambito": "defensa y enlace telepático",
+      "conocedores": [
+        "Blink / Blank",
+        "Nox",
+        "Lunaria / Luna"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Se utiliza Invisibilidad a nivel tres para dos objetivos. No se acredita el uso de Invisibilidad Mayor."
+    },
+    {
+      "id": "25-015",
+      "titulo": "Una mujer explota y Poncelot cae, pero se cura",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Poncelot mata a la mujer serpiente. Su pecho explota y salpica al gnomo y a Tlachka con daño necrótico, sin una salvación adjudicada. Poncelot cae a cero puntos. La audiencia cura ocho puntos a todos y él se recupera. No muere ni resucita.",
+      "inicio": "01:38:00.000",
+      "fin": "01:43:00.000",
+      "cita": "daño necrótico",
+      "evidencia_cue": {
+        "inicio": "01:40:51.840",
+        "fin": "01:40:56.830",
+        "texto": "esto y veis que os salpica a los dos con ese con ese daño necrótico."
+      },
+      "entidades": [
+        "Sir Poncelot",
+        "Mujer serpiente que exige mapa",
+        "Tlachka / Tlacha / Tlaxka (grafía provisional)"
+      ],
+      "ambito": "muerte de atacante y recuperación",
+      "conocedores": [
+        "Sir Poncelot",
+        "Tlachka / Tlacha / Tlaxka (grafía provisional)"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": ""
+    },
+    {
+      "id": "25-016",
+      "titulo": "Cierre de la taberna y cooperación forzada",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Nox cierra las puertas con sus herramientas y continúa dirigiendo la ilusión hacia fuera. Blink golpea psíquicamente a las bestias y pierde su invisibilidad. Pix intenta atacar con una daga en la cola, falla y queda clavado a la barra. Una bestia ataca a Blink. Poncelot bebe una poción y trepa a Tlachka contra su voluntad. Propone una tregua para atacar al enemigo junto a la mosca.",
+      "inicio": "01:43:00.000",
+      "fin": "01:52:55.000",
+      "cita": "se queda con la cola ahí",
+      "evidencia_cue": {
+        "inicio": "01:50:14.800",
+        "fin": "01:50:17.270",
+        "texto": "venga. Va. Pues se queda con la cola ahí. Y ves que se queda mirando y ve"
+      },
+      "entidades": [
+        "Nox",
+        "Blink / Blank",
+        "Pix",
+        "Sir Poncelot",
+        "Tlachka / Tlacha / Tlaxka (grafía provisional)",
+        "Merlucilla III (mosca)"
+      ],
+      "ambito": "combate y cooperación forzada",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": ""
+    },
+    {
+      "id": "25-017",
+      "titulo": "Luna mata a dos bestias mediante magia salvaje",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Luna intenta lanzar un hechizo de área que excluye a Blink y Nox, pero el enemigo resiste el encanto. Una oleada de magia salvaje adjudica cuatro D10 de daño a hasta tres criaturas elegidas. Selecciona dos bestias y las mata, causando diecisiete puntos a cada una. Tlachka, Poncelot y la mosca combaten contra otro hombre serpiente. La mesa permite reducir el veneno con Absorber elementos, pero corrige para la próxima ocasión que el conjuro no cubre ese daño. Nox registra las bestias sin encontrar documentos.",
+      "inicio": "01:52:30.000",
+      "fin": "02:01:10.000",
+      "cita": "tres criaturas que tú quieras",
+      "evidencia_cue": {
+        "inicio": "01:55:32.360",
+        "fin": "01:55:34.830",
+        "texto": "Vale, pues tres criaturas que tú quieras"
+      },
+      "entidades": [
+        "Lunaria / Luna",
+        "Blink / Blank",
+        "Nox",
+        "Tlachka / Tlacha / Tlaxka (grafía provisional)",
+        "Sir Poncelot",
+        "Merlucilla III (mosca)"
+      ],
+      "ambito": "magia y combate",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La mesa conserva la resolución puntual después de detectar el error. No demuestra una inmunidad permanente ni la regla oficial del conjuro."
+    },
+    {
+      "id": "25-018",
+      "titulo": "Último enemigo muerto y Pix enfadado",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Blink retira la daga de la cola de Pix. Él cae, recibe cuatro puntos de daño y la persigue enfadado, ignorando la comida de Luna. Luna toma otro pergamino de nivel uno de un pirata dormido. Nox abre una cerradura y comprueba que los enemigos siguieron la ilusión fuera. Poncelot mata al último hombre serpiente del combate con ayuda de Tlachka y la mosca; no explota. Pix intenta echar a Blink, falla y cae fuera.",
+      "inicio": "02:01:00.000",
+      "fin": "02:11:50.000",
+      "cita": "Este no explotan",
+      "evidencia_cue": {
+        "inicio": "02:11:38.639",
+        "fin": "02:11:39.990",
+        "texto": "Qué decepción. No explota esto, ¿no? Este no explotan. Estos no"
+      },
+      "entidades": [
+        "Blink / Blank",
+        "Pix",
+        "Lunaria / Luna",
+        "Pergamino robado por Luna (hechizo desconocido)",
+        "Nox",
+        "Sir Poncelot",
+        "Tlachka / Tlacha / Tlaxka (grafía provisional)",
+        "Merlucilla III (mosca)"
+      ],
+      "ambito": "cierre del combate",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No mueren todos los atacantes: al menos dos salen del poblado tras la ilusión y otros desaparecen en el agua sin un desenlace confirmado."
+    },
+    {
+      "id": "25-019",
+      "titulo": "El mapa señala un destino que Ione llamó Ezlat",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Tlachka rechaza que lo traten como montura y amenaza a Poncelot. Nox llega y afirma haber eliminado todo el peligro, exagerando el resultado de su evasión. Poncelot muestra el mapa que encontró en la guarida que llama de magos negros. El director describe una parte de la jungla de Xoltacan con una marca. Nox falla varias tiradas de cartografía. Poncelot recuerda que Ione lo interpretó y habló de una ciudad llamada Ezlat, de grafía provisional. Nox pide diez monedas a cambio de guardar silencio, pero lo reprenden recordando el enfado de Ione.",
+      "inicio": "02:11:30.000",
+      "fin": "02:20:30.000",
+      "cita": "Ezlat o algo así",
+      "evidencia_cue": {
+        "inicio": "02:18:01.479",
+        "fin": "02:18:03.230",
+        "texto": "Sube, sube. Ezlat o algo así."
+      },
+      "entidades": [
+        "Tlachka / Tlacha / Tlaxka (grafía provisional)",
+        "Sir Poncelot",
+        "Nox",
+        "Ione",
+        "Mapa de Poncelot (destino Ezlat provisional)",
+        "Ezlat (destino del mapa, grafía provisional)"
+      ],
+      "ambito": "mapa compartido y testimonio",
+      "conocedores": [
+        "Sir Poncelot",
+        "Nox",
+        "Tlachka / Tlacha / Tlaxka (grafía provisional)",
+        "Lunaria / Luna",
+        "Blink / Blank"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "El grupo no parte ni localiza exactamente la ciudad, y Nox no cobra el chantaje. La identificación del destino procede del testimonio de Poncelot sobre Ione."
+    },
+    {
+      "id": "25-020",
+      "titulo": "Espina-lanza y documentos abisales",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Merlucilla lleva una espina larga en la boca y Poncelot la interpreta como una lanza. El director adjudica tres cargas y su uso con una carga de caballero. Nox registra al hombre serpiente y encuentra escritos en abisal que el grupo no entiende. Intenta aprender gradualmente mediante caligrafía. Su primera tirada falla, pero una carta de crítico le permite descifrarlos.",
+      "inicio": "02:20:00.000",
+      "fin": "02:24:10.000",
+      "cita": "Literalmente es una espina",
+      "evidencia_cue": {
+        "inicio": "02:22:12.200",
+        "fin": "02:22:16.469",
+        "texto": "arrancas que parece bastante largo? Como una lanza. Literalmente es una espina."
+      },
+      "entidades": [
+        "Merlucilla III (mosca)",
+        "Sir Poncelot",
+        "Espina-lanza de Poncelot",
+        "Nox",
+        "Órdenes abisales de ataque a Shiaru"
+      ],
+      "ambito": "botín y escritura",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Las bromas sobre la futura muerte de la mosca no confirman su muerte ni la recuperación de la armadura. No se añaden efectos a las tres cargas."
+    },
+    {
+      "id": "25-021",
+      "titulo": "Las órdenes buscan el mapa y el collar de Blink",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Nox descifra palabras de las órdenes que mencionan el pueblo pirata, conseguir el mapa y el collar. Las comenta en voz alta y comparte su significado. Blink revela que tiene un collar oculto dentro de una fruta porque sisea y habla como una serpiente. Se sintió atacada al mirarlo y piensa deshacerse de él. Nox señala su presencia como otra posible causa del ataque. Poncelot susurra que cree que Blink es un espíritu maldito, sin confirmación. Terminan limpiando y conversando, sin destruir el collar ni seguir el mapa.",
+      "inicio": "02:24:00.000",
+      "fin": "02:28:40.000",
+      "cita": "pirata, conseguir",
+      "evidencia_cue": {
+        "inicio": "02:25:35.439",
+        "fin": "02:25:36.990",
+        "texto": "pirata, conseguir"
+      },
+      "entidades": [
+        "Nox",
+        "Órdenes abisales de ataque a Shiaru",
+        "Mapa de Poncelot (destino Ezlat provisional)",
+        "Blink / Blank",
+        "Collar de Blink",
+        "Sir Poncelot",
+        "Tlachka / Tlacha / Tlaxka (grafía provisional)",
+        "Lunaria / Luna"
+      ],
+      "ambito": "información compartida al cierre",
+      "conocedores": [
+        "Nox",
+        "Blink / Blank",
+        "Sir Poncelot",
+        "Tlachka / Tlacha / Tlaxka (grafía provisional)",
+        "Lunaria / Luna"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La mesa rechaza el recuerdo que identifica este collar con el de cuatro gemas. La carta permite traducir las órdenes, pero no demuestra un aprendizaje permanente del idioma."
+    }
+  ]
+}

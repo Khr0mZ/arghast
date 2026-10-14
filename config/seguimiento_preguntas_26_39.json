@@ -1,0 +1,824 @@
+{
+  "version": 1,
+  "revisado_hasta": 39,
+  "preguntas": [
+    {
+      "id": "P26-001",
+      "capitulo": 26,
+      "indice": 1,
+      "pregunta": "¿Qué lleva Nox en la espalda y quién quiere obtenerlo? La referencia al antiguo capitán y la respuesta del hombre serpiente no lo explican (26-017, 26-019 y 26-022).",
+      "estado": "pendiente",
+      "respuesta": "Durante la huida se aclara que las monedas no activaban las estatuas: el mecanismo responde cuando Nox las mira. Sus marcas siguen relacionadas con las molestias de la espalda y la reacción del lugar, pero no se explica su origen ni se identifica a quien necesita obtenerlas.",
+      "referencias": [
+        "28-011"
+      ],
+      "pendiente": "El origen y contenido de las marcas, su propósito completo y la identidad de quien busca lo que Nox lleva en la espalda.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P26-002",
+      "capitulo": 26,
+      "indice": 2,
+      "pregunta": "¿Qué ocurre si alguien se sienta realmente en el trono? La imagen engaña al anfitrión y los compañeros quedan amenazados, sin desenlace (26-023).",
+      "estado": "pendiente",
+      "respuesta": "La continuación confirma que Nox solo proyecta una ilusión y que el anfitrión se extraña porque el trono no reacciona. El grupo huye después del combate. Nadie ocupa realmente el asiento para comprobar sus efectos.",
+      "referencias": [
+        "28-001",
+        "28-002",
+        "28-014"
+      ],
+      "pendiente": "Los efectos de sentarse realmente en el trono.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P26-003",
+      "capitulo": 26,
+      "indice": 3,
+      "pregunta": "¿Quién controla al guardia de ojos rojos y a quién llaman nuestro Señor? La lectura mental no identifica a la entidad (26-021–26-022).",
+      "estado": "pendiente",
+      "respuesta": "No se identifica al controlador de los ojos rojos ni a la entidad llamada nuestro Señor. Las alusiones posteriores de otros hombres serpiente no prueban que todas designen al mismo ser.",
+      "referencias": [],
+      "pendiente": "La identidad del controlador y del Señor, y la relación entre ambos.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P26-004",
+      "capitulo": 26,
+      "indice": 4,
+      "pregunta": "¿Por qué Coyote suplantó a Ione y qué sabe del informe de Poncelot? La audiencia conoce la suplantación, pero los personajes no la resuelven en su conversación (26-001 y 26-003).",
+      "estado": "pendiente",
+      "respuesta": "Las apariciones posteriores confirman que Coyote cambia de forma, pero no explican el motivo de esa suplantación ni detallan cómo utiliza el informe recibido de Poncelot.",
+      "referencias": [
+        "31-001",
+        "39-020"
+      ],
+      "pendiente": "El motivo de la suplantación y el contenido o uso del informe que recibió.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P26-005",
+      "capitulo": 26,
+      "indice": 5,
+      "pregunta": "¿Qué decidirán los cinco piratas en su reunión? Se refiere la convocatoria, pero no se celebra aquí (26-006).",
+      "estado": "pendiente",
+      "respuesta": "Los capítulos posteriores muestran nuevos conflictos y preparativos militares, pero no una reunión de los cinco piratas ni sus decisiones.",
+      "referencias": [],
+      "pendiente": "La celebración de la reunión, sus asistentes y las decisiones adoptadas.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P27-001",
+      "capitulo": 27,
+      "indice": 1,
+      "pregunta": "¿Por qué los hombres de azul, cuyo jefe cita a Tórtola, atacan Cuicapalli? ¿Qué fuerzas quedan? No interrogan a un jefe vivo y el cierre confirma que no eliminaron a todos (27-014 y 27-018–27-021).",
+      "estado": "pendiente",
+      "respuesta": "En Aurora se habla de preparar los barcos para acabar con la piratería, y Tórtola ordena un ataque. Molly revela después una ruta de cañones y pólvora que la Marina transporta para atacar. Esto amplía el contexto militar, pero no proporciona una explicación directa del ataque a Cuicapalli ni un inventario de las fuerzas restantes.",
+      "referencias": [
+        "35-008",
+        "35-016",
+        "37-004"
+      ],
+      "pendiente": "El objetivo específico del ataque a Cuicapalli y la composición o ubicación de las fuerzas supervivientes.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P27-002",
+      "capitulo": 27,
+      "indice": 2,
+      "pregunta": "¿Qué ocultan el traje y el pico de Guayacán y quién lo sabe? Se ven dientes humanos y sus intentos de ocultarlos, pero no declara su identidad precisa (27-020–27-021).",
+      "estado": "pendiente",
+      "respuesta": "Guayacán vuelve a reparar su traje en una recapitulación posterior. No se declara su especie o identidad real ni se establece qué personajes conocen lo que oculta.",
+      "referencias": [
+        "30-001"
+      ],
+      "pendiente": "Su identidad precisa y quién conoce el secreto del traje y del pico.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P27-003",
+      "capitulo": 27,
+      "indice": 3,
+      "pregunta": "¿Puede Tlachka volver formalmente a Cuicapalli después de su destierro? Entrar sin reconocimiento no equivale a un indulto (27-002–27-004 y 27-020).",
+      "estado": "pendiente",
+      "respuesta": "Tlachka vuelve a participar en actividades relacionadas con Cuicapalli y, en el capítulo 39, trae guardias que ayudan a rescatar a Citlali y Etley. No se muestra una revocación formal del destierro.",
+      "referencias": [
+        "29-001",
+        "39-013"
+      ],
+      "pendiente": "Si el destierro ha sido revocado y con qué autorización puede permanecer en Cuicapalli.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P27-004",
+      "capitulo": 27,
+      "indice": 4,
+      "pregunta": "¿Dónde está la abuela que busca Cipo? El director confirma que no se han reencontrado desde su invocación (27-003).",
+      "estado": "pendiente",
+      "respuesta": "Pinky declara después que busca a Cipo y Ayoto le indica que estuvo en Cuicapalli. Ella parte hacia ese objetivo. Más adelante se la encuentra presa en un campamento de la Marina y en Aurora; tras una liberación, Tórtola la captura de nuevo. Cipo aparece por separado en las ruinas del lago. No se representa un reencuentro entre ambos.",
+      "referencias": [
+        "29-007",
+        "29-008",
+        "34-012",
+        "35-012",
+        "35-016",
+        "36-009"
+      ],
+      "pendiente": "La identificación explícita de la abuela del pasaje original y un reencuentro documentado con Cipo.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P28-001",
+      "capitulo": 28,
+      "indice": 1,
+      "pregunta": "¿Qué entidad formada por serpientes persigue al grupo y dónde queda después? No la matan y los siseos cesan tras la huida (28-009–28-015).",
+      "estado": "pendiente",
+      "respuesta": "La gran criatura queda atrás durante la huida, sin ser derrotada. Los capítulos posteriores no muestran su destino ni explican qué entidad concreta forman las serpientes.",
+      "referencias": [],
+      "pendiente": "La identidad de la criatura y su destino después de la huida.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P28-002",
+      "capitulo": 28,
+      "indice": 2,
+      "pregunta": "¿Quién es la serpiente alada de la visión y qué significa el ritual con la criatura de varias cabezas? La visión no confirma el futuro y la presencia de Nox en el altar sigue sin explicar (28-015).",
+      "estado": "pendiente",
+      "respuesta": "Nox recibe después otra visión de una serpiente alada que se transforma en humanoide sobre una pirámide. La nueva experiencia no identifica a la criatura de la visión anterior ni explica el ritual del altar.",
+      "referencias": [
+        "35-014",
+        "35-015"
+      ],
+      "pendiente": "La identidad de la serpiente alada, la relación entre ambas visiones y el significado del ritual.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P28-003",
+      "capitulo": 28,
+      "indice": 3,
+      "pregunta": "¿Qué consecuencias tendrá dejar el collar en el templo? No se destruye y su ubicación queda registrada para contrastarla después (28-010).",
+      "estado": "pendiente",
+      "respuesta": "No se documenta la recuperación, destrucción o uso posterior del collar dejado dentro de la fruta. Las lagunas de memoria de Blink no se atribuyen de forma confirmada a ese abandono.",
+      "referencias": [],
+      "pendiente": "Las consecuencias de abandonar el collar y quién lo conserva o utiliza después.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P28-004",
+      "capitulo": 28,
+      "indice": 4,
+      "pregunta": "¿Qué protege exactamente Bonnie y qué ocurrió con la anciana nativa? Su información está condicionada y el paradero sigue oculto (28-020–28-021).",
+      "estado": "parcial",
+      "respuesta": "Citlali relata que una pirata la liberó y que Bonnie le advirtió que evitara Shiaru. El director explica que la separación pretende protegerla de la Marina. Después se confirma que vive con la cría en una cueva cercana a Cuicapalli y que acaba en Iktan. Bonnie afirma que el ojo reacciona ante Citlali; Molly habla de algo despertado que ocultó a Tórtola. No se identifica de forma definitiva qué protegen.",
+      "referencias": [
+        "34-001",
+        "34-020",
+        "37-005",
+        "37-017",
+        "39-002",
+        "39-020"
+      ],
+      "pendiente": "La naturaleza exacta de lo protegido y la relación completa entre Citlali, sus marcas y lo despertado.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P28-005",
+      "capitulo": 28,
+      "indice": 5,
+      "pregunta": "¿Qué superiores llegaron a Fuerte Aurora y qué implica la alianza de Bonnie y Molly? Se dispone de un testimonio, sin inspeccionar su llegada (28-020).",
+      "estado": "parcial",
+      "respuesta": "Los episodios de Aurora identifican a Tórtola como la autoridad que ha tomado el mando y destituido a Molly. Nox libera a Molly, que vuelve a Shiaru y coopera con Bonnie aportando posiciones estratégicas y rutas de suministros. No se reconstruye una lista completa de los superiores llegados ni todo el acuerdo protector.",
+      "referencias": [
+        "35-009",
+        "35-013",
+        "35-018",
+        "35-019",
+        "36-004",
+        "37-004"
+      ],
+      "pendiente": "La lista completa de superiores y los términos o fines que no se han revelado de la alianza.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P29-001",
+      "capitulo": 29,
+      "indice": 1,
+      "pregunta": "¿Quiénes son los profundos y dónde y cómo hacen crecer al kraken mediante secuestros? Solo se dispone del relato de Maris; no se inspeccionan sus líderes o instalaciones (29-021–29-022).",
+      "estado": "pendiente",
+      "respuesta": "Coyote vuelve a la superficie con los asuntos de Perlasal sin resolver. No se exploran las instalaciones de los profundos ni se localiza o combate al kraken.",
+      "referencias": [
+        "31-001"
+      ],
+      "pendiente": "La identidad y organización de los profundos, el lugar y funcionamiento de los rituales y el destino de los secuestrados.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P29-002",
+      "capitulo": 29,
+      "indice": 2,
+      "pregunta": "¿Qué sirenas o sirenos pueden otorgar branquias y cuánto duran? Las conceden a los cuatro viajeros, sin una duración exacta transcrita (29-019).",
+      "estado": "pendiente",
+      "respuesta": "No se da después una duración exacta de las branquias ni una explicación completa de qué sirénidos pueden concederlas. El efecto observado en los viajeros no establece por sí solo una regla general.",
+      "referencias": [],
+      "pendiente": "La duración de las branquias y las condiciones o personas capaces de otorgarlas.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P29-003",
+      "capitulo": 29,
+      "indice": 3,
+      "pregunta": "¿Qué religión y deidad sigue Ivet y cómo pueden ganar su confianza? Visitan el templo con Maris, pero después niegan el acceso a Ayoto (29-020 y 29-025).",
+      "estado": "pendiente",
+      "respuesta": "Ayoto relata más adelante una negociación rechazada por los sirénidos y regresa a entrenar en Cuicapalli. No se identifica una deidad de Ivet ni se muestra que él obtenga su confianza o acceso al templo.",
+      "referencias": [
+        "39-001"
+      ],
+      "pendiente": "La religión y deidad de Ivet y los actos que permitirían ganar su confianza.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P29-004",
+      "capitulo": 29,
+      "indice": 4,
+      "pregunta": "¿Qué conoce Coyote sobre las amenazas a una familia y por qué no responde a la pregunta sobre su sacrificio? La conversación no revela un pasado específico (29-022).",
+      "estado": "pendiente",
+      "respuesta": "Los capítulos posteriores no aclaran a qué familia se refiere Coyote ni el posible sacrificio por el que preguntó Maris.",
+      "referencias": [],
+      "pendiente": "El pasado familiar aludido y la respuesta a la pregunta sobre el sacrificio.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P29-005",
+      "capitulo": 29,
+      "indice": 5,
+      "pregunta": "¿Qué queda de Erendriel y por qué está casi esquelético pese a la conservación del capítulo 16? El tigre se lleva sus restos, sin resolver los tiempos o efectos de conservación (29-003).",
+      "estado": "pendiente",
+      "respuesta": "Una conversación posterior recuerda que Merlucilla IV se llevó el cadáver del elfo, confirmando que sus restos ya no siguen exhibidos en la entrada de Shiaru. No se explica por qué estaban casi esqueléticos ni cómo encaja eso con la conservación anterior.",
+      "referencias": [
+        "34-005"
+      ],
+      "pendiente": "El destino final de los restos y la diferencia entre su deterioro y la conservación mencionada en el capítulo 16.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P30-001",
+      "capitulo": 30,
+      "indice": 1,
+      "pregunta": "¿Conseguirá Parroter un antídoto y sobrevivirá Eromov? La investigación comienza, pero la curación no se muestra (30-020 y 30-022).",
+      "estado": "pendiente",
+      "respuesta": "No se muestra después una cura administrada a Eromov ni se confirma el resultado de la investigación de Parroter. Las nuevas visitas a los alrededores de Cuicapalli no establecen su estado vital.",
+      "referencias": [],
+      "pendiente": "El resultado del antídoto y el estado de Eromov.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P30-002",
+      "capitulo": 30,
+      "indice": 2,
+      "pregunta": "¿Quién añadió el veneno a la comida y quiénes eran las dos visitantes? La infiltración de la Hoja Caída es una sospecha fundada, pero no se muestra la contaminación ni se obtiene una confesión (30-005, 30-006 y 30-009).",
+      "estado": "pendiente",
+      "respuesta": "No aparece un testimonio posterior que identifique a quien añadió el veneno. La preparación de la comida por Tacha y la infiltración de hombres serpiente no prueban por sí solas una autoría concreta.",
+      "referencias": [],
+      "pendiente": "El autor del envenenamiento y las identidades de las dos visitantes.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P30-003",
+      "capitulo": 30,
+      "indice": 3,
+      "pregunta": "¿Quedaban cautivos vivos tras la reja? La mayoría parecen muertos y solo se retira un cadáver; no se resuelve el estado de posibles supervivientes (30-017).",
+      "estado": "pendiente",
+      "respuesta": "No se regresa a la prisión ni se informa después de posibles cautivos supervivientes. El cadáver retirado no permite deducir el estado de todas las personas tras la reja.",
+      "referencias": [],
+      "pendiente": "Si quedaban cautivos vivos y qué ocurrió con ellos.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P30-004",
+      "capitulo": 30,
+      "indice": 4,
+      "pregunta": "¿Adónde envió Eromov a Naór y llegó ella a su destino? La transcripción recoge una expresión incierta, Naoritan, que no permite fijarlo (30-020).",
+      "estado": "parcial",
+      "respuesta": "Naór relata que se perdió, regresó a Cuicapalli y volvió a salir. Después identifica Iktan como su destino, llega allí y obtiene de Walulu una promesa de apoyo al concilio. Esto confirma una llegada posterior, pero no permite reconstruir con certeza la expresión del encargo de Eromov.",
+      "referencias": [
+        "31-001",
+        "31-005",
+        "31-019",
+        "31-027"
+      ],
+      "pendiente": "La formulación y destino exactos del encargo referido por Eromov.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P30-005",
+      "capitulo": 30,
+      "indice": 5,
+      "pregunta": "¿Qué otros grupos de hombres serpiente están despertando y qué aliados tienen? Los informes locales no describen toda su organización (30-020).",
+      "estado": "pendiente",
+      "respuesta": "Un grupo posterior de yuan-ti ataca a Citlali y Etley en una cueva próxima a Cuicapalli; dos refuerzos reclaman mentalmente la piel de Citlali como clave. Se documenta otra operación, pero no su jerarquía, aliados o vínculo preciso con Hoja Caída.",
+      "referencias": [
+        "39-005",
+        "39-010"
+      ],
+      "pendiente": "La organización de los grupos, sus aliados y las relaciones entre las distintas operaciones.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P31-001",
+      "capitulo": 31,
+      "indice": 1,
+      "pregunta": "¿Cuál es el nombre exacto del dragón verde y qué relación tiene con las ruinas? El nombre enviado al chat no puede recuperarse de los subtítulos y el guardia no identifica el color del dragón que destruyó las casas (31-015 y 31-021).",
+      "estado": "pendiente",
+      "respuesta": "En el capítulo 39 se presenta un dragón invisible como Clodidrax o Clotis, serpiente del bosque. Esa presentación no identifica inequívocamente al dragón verde del capítulo 31 ni demuestra que destruyera las casas de Iktan.",
+      "referencias": [
+        "39-016"
+      ],
+      "pendiente": "La grafía exacta del dragón verde y su relación demostrada con la destrucción de las ruinas.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P31-002",
+      "capitulo": 31,
+      "indice": 2,
+      "pregunta": "¿Cómo provoca el bosque las agresiones y cómo puede romperse esa influencia de forma permanente? El grupo logra escapar, pero no derrota al dragón (31-008–31-019).",
+      "estado": "pendiente",
+      "respuesta": "No se vuelve a derrotar al dragón ni se muestra una forma de eliminar permanentemente la influencia del bosque. La huida anterior no equivale a una cura o neutralización.",
+      "referencias": [],
+      "pendiente": "El mecanismo completo de la influencia y cómo romperla de forma permanente.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P31-003",
+      "capitulo": 31,
+      "indice": 3,
+      "pregunta": "¿Quiénes son los cinco héroes, qué fragmento escapó y quién abrió la puerta? La visión y el relato no proporcionan todas esas identidades ni una fecha (31-025–31-026).",
+      "estado": "pendiente",
+      "respuesta": "Los episodios posteriores no proporcionan los nombres de los cinco héroes ni identifican con certeza el fragmento o a quienes abrieron la prisión. Las otras visiones no permiten fusionar sus entidades por semejanza.",
+      "referencias": [],
+      "pendiente": "Las identidades de los héroes, el fragmento y los responsables de abrir la puerta, y una fecha verificable.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P31-004",
+      "capitulo": 31,
+      "indice": 4,
+      "pregunta": "¿Qué ocurrió con el padre de Walulu? Su hija menciona un altercado sin dar más detalles (31-024).",
+      "estado": "pendiente",
+      "respuesta": "No se amplía el relato de Walulu sobre el altercado en el que murió su padre.",
+      "referencias": [],
+      "pendiente": "Las circunstancias y los responsables de la muerte de su padre.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P31-005",
+      "capitulo": 31,
+      "indice": 5,
+      "pregunta": "¿Qué consecuencias tendría revelar otra vez la ruta a Iktan? ¿Quién asistirá al concilio? El permiso es condicional y la reunión sigue pendiente (31-027–31-028).",
+      "estado": "pendiente",
+      "respuesta": "Walulu admite después a otro grupo herido en Iktan y Coyote vuelve a recibir una reprimenda. No se atribuye esa llegada a la revelación de ruta por el grupo anterior, se ejecuta el castigo anunciado ni se celebra el concilio.",
+      "referencias": [
+        "39-017",
+        "39-019",
+        "39-020"
+      ],
+      "pendiente": "Las consecuencias concretas de revelar la ruta y la asistencia efectiva al concilio.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P31-006",
+      "capitulo": 31,
+      "indice": 6,
+      "pregunta": "¿Qué efecto tiene el tatuaje de Triel? Se conoce el pago, pero no se identifica la mejora elegida (31-003).",
+      "estado": "pendiente",
+      "respuesta": "No se especifica después qué mejora eligió Triel con el tatuaje pagado por Eldrat.",
+      "referencias": [],
+      "pendiente": "El efecto concreto del tatuaje de Triel.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P32-001",
+      "capitulo": 32,
+      "indice": 1,
+      "pregunta": "¿Cuál es el nombre de la escudera y el apellido de Eleanor? Las presentaciones se reconocen de forma inconsistente (32-002).",
+      "estado": "resuelta",
+      "respuesta": "La continuidad identifica a la escudera como Erandy, también reconocida como Erendy, Eri o Maya. Ella aclara que sirve a Lady Eleanor de la casa Roosevelt. Eleanor explica que Aragón es su reino; procedencia y casa son datos compatibles, aunque la grafía de la escudera conserva variantes de transcripción.",
+      "referencias": [
+        "33-007",
+        "36-003",
+        "38-001"
+      ],
+      "pendiente": "",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P32-002",
+      "capitulo": 32,
+      "indice": 2,
+      "pregunta": "¿Quién es el general aviar y volverá a atacar? Consigue escapar (32-013 y 32-015).",
+      "estado": "pendiente",
+      "respuesta": "No se identifica inequívocamente al general aviar que escapó. Tórtola ordena después nuevos ataques, pero estos episodios no prueban que sea el mismo individuo del asalto.",
+      "referencias": [
+        "35-016"
+      ],
+      "pendiente": "La identidad del general y si participa en un nuevo ataque.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P32-003",
+      "capitulo": 32,
+      "indice": 3,
+      "pregunta": "¿Cuáles eran los términos del acuerdo de Bonnie con la Marina y qué piensa hacer con Mamá? Solo se dispone de su declaración y de la escena reservada (32-018 y 32-020).",
+      "estado": "parcial",
+      "respuesta": "Bonnie y Molly confirman después un intercambio de información y rutas para mantener la seguridad. Citlali relata su liberación y la advertencia de evitar Shiaru; el director atribuye esa separación a la protección frente a la Marina. El pacto completo y el alcance del plan de Bonnie no se revelan.",
+      "referencias": [
+        "34-001",
+        "34-020",
+        "36-004"
+      ],
+      "pendiente": "Los términos completos del acuerdo con la Marina y el propósito íntegro del plan de Bonnie para Citlali.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P32-004",
+      "capitulo": 32,
+      "indice": 4,
+      "pregunta": "¿Dónde está Citlali y en qué estado se encuentra el huevo? Patata no la encuentra y Bonnie no lo sabe (32-019).",
+      "estado": "resuelta",
+      "respuesta": "Citlali reaparece y descubre que el huevo ya no está en el Zampaolas. Los piratas afirman que la Marina se lo llevó durante el ataque. El grupo lo recupera; tras un disparo y una curación, eclosiona una cría emplumada. En el capítulo 39, Citlali y Etley sobreviven al derrumbe de su refugio y llegan a Iktan, donde duermen en el templo.",
+      "referencias": [
+        "34-003",
+        "34-006",
+        "34-014",
+        "34-018",
+        "39-013",
+        "39-017",
+        "39-020"
+      ],
+      "pendiente": "",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P33-001",
+      "capitulo": 33,
+      "indice": 1,
+      "pregunta": "¿Qué le ocurrió a Axi durante la noche entre los cadáveres? Tiene amnesia y sospechas, sin confirmación (33-001).",
+      "estado": "pendiente",
+      "respuesta": "Axi no recibe después un diagnóstico ni explica lo ocurrido durante aquella noche. La amnesia y los animales muertos no confirman por sí solos licantropía u otra causa.",
+      "referencias": [],
+      "pendiente": "La causa de los cadáveres y de la amnesia de Axi.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P33-002",
+      "capitulo": 33,
+      "indice": 2,
+      "pregunta": "¿Quién entregó la piedra rota a los hipopótamos y dónde está? Según ellos, saltó por un acantilado (33-018).",
+      "estado": "pendiente",
+      "respuesta": "No se identifica después a quien entregó la piedra rota ni se localiza al individuo que saltó por el acantilado. Tampoco se establece la función del objeto.",
+      "referencias": [],
+      "pendiente": "La identidad y el paradero de quien entregó la piedra.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P33-003",
+      "capitulo": 33,
+      "indice": 3,
+      "pregunta": "¿Dónde esconde Nox a Citlali y qué peligro teme? No revela su ubicación en el encargo (33-006).",
+      "estado": "pendiente",
+      "respuesta": "Se aclara que Bonnie apartó a Citlali de Shiaru para evitar a la Marina. Tras recuperar a la cría, se propone una cueva yuan-ti cercana a Cuicapalli, donde vive en el capítulo 39 antes del ataque y el derrumbe. Acaba alojada en Iktan. Esto documenta refugios posteriores y el motivo de Bonnie, pero no revela el escondite inicial, la amenaza concreta que teme Nox ni que él organizara esos traslados.",
+      "referencias": [
+        "34-001",
+        "34-020",
+        "39-002",
+        "39-020"
+      ],
+      "pendiente": "La ubicación inicial ocultada por Nox, la amenaza concreta que teme y su participación en aquel traslado.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P33-004",
+      "capitulo": 33,
+      "indice": 4,
+      "pregunta": "¿Qué ocurre con Morris después de huir y cómo informarán de la muerte de Margaret? No se muestra el desenlace (33-012–33-014).",
+      "estado": "pendiente",
+      "respuesta": "Liz sabe después que murió una de sus trabajadoras, por lo que la noticia ya ha llegado a su entorno. No se muestra quién se la comunica ni se vuelve a localizar a Morris tras su huida.",
+      "referencias": [
+        "35-002"
+      ],
+      "pendiente": "El destino de Morris y cómo se transmitió la noticia de la muerte de Margaret.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P34-001",
+      "capitulo": 34,
+      "indice": 1,
+      "pregunta": "¿Qué causa las lagunas de memoria de Blink? No se explica (34-001).",
+      "estado": "pendiente",
+      "respuesta": "Blink vuelve a relatar que despierta en Shiaru pese a intentar viajar a Cuicapalli. El nuevo episodio confirma la repetición del problema, pero no identifica su causa.",
+      "referencias": [
+        "36-001"
+      ],
+      "pendiente": "La causa de las lagunas de memoria y de los retornos de Blink.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P34-002",
+      "capitulo": 34,
+      "indice": 2,
+      "pregunta": "¿Dónde están Triel, ausente una semana, y Nox, expulsado del barco? Se mencionan sin revelar sus paraderos (34-001 y 34-003).",
+      "estado": "parcial",
+      "respuesta": "Nox reaparece en Shiaru, prepara una infiltración en Aurora, regresa con Molly y más adelante parte de nuevo hacia el fuerte con el ojo. No se identifica el paradero de Triel después de la ausencia referida. Los dos elfos pálidos de Iktan no reciben nombres en el capítulo 39.",
+      "referencias": [
+        "35-001",
+        "35-006",
+        "35-018",
+        "37-018",
+        "39-018"
+      ],
+      "pendiente": "El paradero identificado de Triel tras su ausencia.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P34-003",
+      "capitulo": 34,
+      "indice": 3,
+      "pregunta": "¿En qué estado quedan el campamento y Pinky y qué causa la desaparición de Paco? Hay un incendio y una huida, sin un balance final (34-017).",
+      "estado": "parcial",
+      "respuesta": "Pinky aparece presa en Aurora y relata que la encarcelaron por el huevo y por matar marines. Nox la libera, pero Tórtola la recaptura durante la fuga. No se ofrece un balance final del campamento del huevo ni se explica por qué la tierra se tragó al marine referido como Paco.",
+      "referencias": [
+        "35-012",
+        "35-016"
+      ],
+      "pendiente": "El balance del campamento y la causa o destino de la desaparición de Paco.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P34-004",
+      "capitulo": 34,
+      "indice": 4,
+      "pregunta": "¿Cuál es el nombre y la especie de la cría? ¿La aceptarán en Cuicapalli? Queda pendiente (34-018–34-020).",
+      "estado": "parcial",
+      "respuesta": "La cría recibe en el capítulo 39 un nombre reconocido como Etley y variantes. Los guardias de Cuicapalli ayudan a rescatarla con Citlali del derrumbe. Después ambas llegan a Iktan y se alojan en el templo. No se fija la especie exacta ni se representa una decisión de aceptar su residencia en Cuicapalli.",
+      "referencias": [
+        "39-001",
+        "39-013",
+        "39-017",
+        "39-020"
+      ],
+      "pendiente": "La especie exacta de la cría y si Cuicapalli aceptaría alojarla.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P35-001",
+      "capitulo": 35,
+      "indice": 1,
+      "pregunta": "¿Quiénes son la criatura presa y la serpiente de la visión, y qué pirámide aparece? La influencia mental no termina con su liberación (35-014–35-015).",
+      "estado": "pendiente",
+      "respuesta": "No se identifican después la criatura presa, la serpiente alada de la visión ni la pirámide. Las conversaciones posteriores mencionan algo despertado, pero no establecen que sea la misma entidad.",
+      "referencias": [
+        "37-017"
+      ],
+      "pendiente": "Las identidades de las criaturas y la ubicación o significado de la pirámide de la visión.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P35-002",
+      "capitulo": 35,
+      "indice": 2,
+      "pregunta": "¿Qué dicen los informes de Molly y cuál será su situación oficial tras huir? ¿Qué contará a Nox? Queda pendiente (35-016 y 35-020).",
+      "estado": "parcial",
+      "respuesta": "Molly coopera con Bonnie y aporta la ubicación de unas ruinas estratégicas y una ruta de suministros que ella recomendó a la Marina. En una charla posterior con Nox y Bonnie dice que Tórtola está obsesionado con la isla y que le ocultó lo despertado. No se lee el contenido completo de sus informes ni se acredita su restitución oficial. Tampoco se muestra la conversación en el barco que habían acordado.",
+      "referencias": [
+        "36-004",
+        "37-004",
+        "37-005",
+        "37-017"
+      ],
+      "pendiente": "El contenido íntegro de los informes, la situación oficial de Molly y la charla prometida en el barco.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P35-003",
+      "capitulo": 35,
+      "indice": 3,
+      "pregunta": "¿Qué piratas anuncia Nox que están en camino y qué prepara el almirante? No se muestra su llegada (35-016).",
+      "estado": "parcial",
+      "respuesta": "Después se intercepta un convoy de cañones y pólvora que la Marina mueve hacia Aurora para atacar. Molly proporciona la ruta. No se documentan los nombres o la llegada de los piratas anunciados por Nox.",
+      "referencias": [
+        "37-004",
+        "37-007"
+      ],
+      "pendiente": "La identidad y llegada de los piratas anunciados y el resto de la estrategia del almirante.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P35-004",
+      "capitulo": 35,
+      "indice": 4,
+      "pregunta": "¿Los perseguidores siguen al grupo y qué ocurre con Smith y Pinky? Se ordena seguirlos y se confirma la recaptura de Pinky (35-010, 35-013 y 35-016).",
+      "estado": "pendiente",
+      "respuesta": "No se vuelve a mostrar a Smith ni se verifica el seguimiento ordenado contra los viajeros. La última captura confirmada de Pinky sigue siendo la del capítulo 35, sin una liberación o un destino posterior documentados.",
+      "referencias": [],
+      "pendiente": "El destino de Smith, la ejecución de la persecución y la evolución posterior del cautiverio de Pinky.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P36-001",
+      "capitulo": 36,
+      "indice": 1,
+      "pregunta": "¿Quién es el hombre lobo de ojos ámbar y qué relación tiene con la bestia de la escena final? No se dan sus nombres (36-014–36-015, 36-019).",
+      "estado": "pendiente",
+      "respuesta": "Ione relata después que ha perseguido al licántropo sin alcanzarlo. No se revela su nombre ni se identifica expresamente con la bestia de la escena final.",
+      "referencias": [
+        "38-001"
+      ],
+      "pendiente": "La identidad del hombre lobo y su relación con la bestia del cierre.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P36-002",
+      "capitulo": 36,
+      "indice": 2,
+      "pregunta": "¿Qué sabe el marine superviviente y qué hará Bonnie con él? Se entrega sin un interrogatorio narrado (36-017).",
+      "estado": "pendiente",
+      "respuesta": "No se muestra después el interrogatorio del marine ni se cuenta qué hace Bonnie con él.",
+      "referencias": [],
+      "pendiente": "La información del marine y su destino tras la entrega.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P36-003",
+      "capitulo": 36,
+      "indice": 3,
+      "pregunta": "¿Por qué Blink vuelve a Shiaru y sufre lagunas de memoria? ¿Dónde está Eleanor? Las recapitulaciones no lo resuelven (36-001).",
+      "estado": "parcial",
+      "respuesta": "Erandy relata que esperó a Eleanor en la taberna de Shiaru y finalmente se reencontró con ella entre sesiones. Esto sitúa el regreso de Eleanor a Shiaru, pero no explica por qué Blink vuelve allí ni por qué pierde recuerdos.",
+      "referencias": [
+        "38-001"
+      ],
+      "pendiente": "La causa de los retornos y de las lagunas de memoria de Blink.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P36-004",
+      "capitulo": 36,
+      "indice": 4,
+      "pregunta": "¿Se ocuparán las ruinas y se reparará a tiempo el Zampaolas? No se muestran una guarnición ni una nueva navegación (36-017–36-018).",
+      "estado": "pendiente",
+      "respuesta": "El grupo consigue desencajar el Zampaolas y Erandy aporta dinero para materiales. La proa sigue rota y no se acredita que el barco esté listo para navegar. No se muestra la ocupación de las ruinas por una guarnición.",
+      "referencias": [
+        "38-015",
+        "38-016"
+      ],
+      "pendiente": "La reparación completa y fecha de navegación del Zampaolas, y la ocupación de las ruinas.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P37-001",
+      "capitulo": 37,
+      "indice": 1,
+      "pregunta": "¿Qué han despertado y qué contiene el ojo? ¿Cómo reacciona ante Citlali? Hay testimonios y se propone un experimento reservado (37-005, 37-017).",
+      "estado": "pendiente",
+      "respuesta": "No se representa el experimento propuesto ni se identifica de forma definitiva lo despertado o el contenido del ojo. Las marcas de Citlali reciben atención posterior, pero no se prueba su mecanismo de interacción con el objeto.",
+      "referencias": [
+        "39-017",
+        "39-018"
+      ],
+      "pendiente": "La identidad de lo despertado, la función del ojo y el resultado de una prueba con Citlali.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P37-002",
+      "capitulo": 37,
+      "indice": 2,
+      "pregunta": "¿Llegará Nox a Aurora con el ojo y qué hará tras incumplir la condición? Parte sin informar (37-018).",
+      "estado": "pendiente",
+      "respuesta": "No se muestra una llegada posterior de Nox a Aurora ni el uso del ojo fuera de Shiaru. Tampoco se representan las consecuencias del incumplimiento.",
+      "referencias": [],
+      "pendiente": "La llegada de Nox, sus acciones con el ojo y las consecuencias de quebrantar el acuerdo.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P37-003",
+      "capitulo": 37,
+      "indice": 3,
+      "pregunta": "¿Logrará Eleanor contactar con su reino y aportar el oro? La alianza queda aplazada (37-003).",
+      "estado": "pendiente",
+      "respuesta": "El reencuentro de Eleanor con su escudera no acredita un contacto con Aragón ni la obtención del oro. La alianza sigue sin formalizarse.",
+      "referencias": [
+        "38-001"
+      ],
+      "pendiente": "El contacto con el reino, la financiación y el resultado de la propuesta de alianza.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P37-004",
+      "capitulo": 37,
+      "indice": 4,
+      "pregunta": "¿Cuál es el estado del tiranosaurio después del cañonazo? Hay un ataque y una referencia final, pero no se inspecciona el cadáver (37-014).",
+      "estado": "pendiente",
+      "respuesta": "No se inspecciona después el cuerpo del tiranosaurio ni se confirma su estado con una nueva escena.",
+      "referencias": [],
+      "pendiente": "El estado definitivo del tiranosaurio tras el cañonazo.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P38-001",
+      "capitulo": 38,
+      "indice": 1,
+      "pregunta": "¿Qué consecuencias tendrá la mordedura de Ilikar? La sensación y la tirada no confirman un contagio (38-014).",
+      "estado": "pendiente",
+      "respuesta": "El capítulo 39 no vuelve a mostrar a Ilikar ni aporta una consecuencia de la mordedura. La sensación previa no demuestra un contagio o una inmunidad.",
+      "referencias": [],
+      "pendiente": "Los efectos de la mordedura de Ione sobre Ilikar.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P38-002",
+      "capitulo": 38,
+      "indice": 2,
+      "pregunta": "¿Qué causó las heridas de Ilikar y cuál es su pasado tribal? Su llegada no proporciona una explicación completa (38-003).",
+      "estado": "pendiente",
+      "respuesta": "No se amplía después el pasado de Ilikar ni se explica quién le causó las heridas. La información sobre el origen de Ayoto no corresponde a Ilikar.",
+      "referencias": [],
+      "pendiente": "La causa de sus heridas y sus antecedentes tribales.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P38-003",
+      "capitulo": 38,
+      "indice": 3,
+      "pregunta": "¿Descubrirá Bonnie que han repartido su cofre y qué reclamará? La propiedad solo se revela al público (38-018).",
+      "estado": "pendiente",
+      "respuesta": "No se muestra que Bonnie descubra el reparto de su cofre ni que reclame los objetos o imponga consecuencias.",
+      "referencias": [],
+      "pendiente": "La reacción de Bonnie y cualquier reclamación por el cofre.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P38-004",
+      "capitulo": 38,
+      "indice": 4,
+      "pregunta": "¿Cuándo repararán la proa y podrá navegar el barco? Desencajarlo no equivale a repararlo (38-015).",
+      "estado": "pendiente",
+      "respuesta": "No se documenta después una reparación completa de la proa ni una navegación del Zampaolas.",
+      "referencias": [],
+      "pendiente": "La reparación de la proa y la fecha o primera navegación posterior.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P39-001",
+      "capitulo": 39,
+      "indice": 1,
+      "pregunta": "¿Por qué la piel o las marcas de Citlali son una clave y quién es el Señor mencionado por las serpientes? Las alusiones y la telepatía no lo resuelven (39-008, 39-010).",
+      "estado": "pendiente",
+      "respuesta": "Los yuan-ti reclaman la piel de Citlali como clave y su maldición cura a una abominación. La alusión a Nuestro Señor no identifica una deidad ni explica la función de las marcas. No hay episodios posteriores revisados.",
+      "referencias": [],
+      "pendiente": "La función de la piel y de las marcas, y la identidad del Señor.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P39-002",
+      "capitulo": 39,
+      "indice": 2,
+      "pregunta": "¿Es Nox el bebé que perdió Citlali o un recuerdo alterado por el alcohol? La hipótesis no se confirma (39-002).",
+      "estado": "pendiente",
+      "respuesta": "Citlali expresa una duda sobre su recuerdo y sobre la influencia del alcohol. El capítulo no confirma que Nox sea aquel bebé ni un parentesco. No hay una fuente posterior.",
+      "referencias": [],
+      "pendiente": "La identidad del bebé y la relación real entre Citlali y Nox.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P39-003",
+      "capitulo": 39,
+      "indice": 3,
+      "pregunta": "¿Quiénes son los elfos pálidos, qué enfermedad sufre ella y por qué el dragón no puede acercarse? No se establecen sus nombres ni la causa (39-016, 39-018, 39-020).",
+      "estado": "pendiente",
+      "respuesta": "El dragón pide información sobre dos elfos pálidos, y después se observa a una elfa enferma y a un elfo que la cuida. No se dan nombres, diagnóstico ni una explicación de la imposibilidad del dragón de acercarse.",
+      "referencias": [],
+      "pendiente": "Las identidades de los elfos, la enfermedad y el impedimento del dragón.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P39-004",
+      "capitulo": 39,
+      "indice": 4,
+      "pregunta": "¿Qué quiere saber Walulu de los tatuajes durante el té y qué problemas tiene Iktan? La conversación propuesta no se realiza (39-017–39-018).",
+      "estado": "pendiente",
+      "respuesta": "Walulu examina los tatuajes e invita a Citlali a conversar y tomar té al día siguiente. La conversación no se muestra antes de terminar el último episodio disponible.",
+      "referencias": [],
+      "pendiente": "El resultado de la conversación sobre las marcas y la explicación de los problemas de Iktan.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P39-005",
+      "capitulo": 39,
+      "indice": 5,
+      "pregunta": "¿Qué observa a la ciudad y qué ocurre con los yuan-ti sepultados? No se resuelve (39-011, 39-020).",
+      "estado": "pendiente",
+      "respuesta": "La escena sugiere una presencia que observa el entorno, sin identificarla. El rescate confirma que Citlali y Etley sobreviven, pero no informa del destino de los yuan-ti sepultados.",
+      "referencias": [],
+      "pendiente": "La identidad de lo que observa y el destino de los yuan-ti tras el derrumbe.",
+      "revisado_hasta": 39
+    }
+  ]
+}

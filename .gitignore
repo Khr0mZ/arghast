@@ -1,0 +1,17 @@
+# Entorno y cachés locales
+.venv/
+__pycache__/
+*.py[cod]
+.pruebas/
+
+# Paquetes reproducibles: el contenido y los constructores sí se versionan
+*.zip
+*.zip.tmp
+
+# Credenciales y configuración privada
+.env
+.env.*
+!.env.example
+.aws/
+*.pem
+*.key

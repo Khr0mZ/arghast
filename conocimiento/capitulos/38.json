@@ -1,0 +1,525 @@
+{
+  "capitulo": 38,
+  "estado_revision": "revisado",
+  "resumen": "Erandy se reúne con Eleanor entre sesiones. Ione cartografía la selva y persigue al hombre lobo sin alcanzarlo. Los hipopótamos preparan la extracción del Zampaolas. Erandy cura al goliat Ilikar, que llega herido a la playa. Él cree estar en el cielo, arroja a un ladrón al mar y conoce a Ione. Ambos empatan en un duelo amistoso y ella lo recluta a cambio de papel y pluma. El grupo intenta sacar el barco con cuerdas, viento y fuerza. Un pulpo gigante lo sujeta y arroja a Poncelot al agua. Ilikar hiere al tiburón que persigue al gnomo; Poncelot lo calma, lo cura y lo monta como Merlucilla V. El grupo mata al pulpo. Ione decide transformarse al ver heridos a sus compañeros; después ataca al tiburón y Erandy la calma. Ione muerde a Ilikar como gesto ritual. Él siente algo extraño, pero no se confirma una transformación ni un contagio. El grupo desencaja el barco, cuya proa sigue rota. Erandy aporta diez monedas de oro para repararlo. Un cofre hallado durante la extracción contiene un collar para Poncelot, un jade para Erandy, veintisiete monedas de oro para Ilikar y dieciocho para Ione. Ella explica que la mordedura expresa pertenencia y protección. Ilikar se decepciona porque habían acordado combatir con todos sus recursos y ella no se transformó durante el duelo. Ione asegura a Poncelot que no lo ha reemplazado. La emoción la transforma de nuevo y preparan una revancha. Al final, solo el público ve que el cofre descartado pertenece a Happy Bonnie.",
+  "misiones": [
+    "Liberar el Zampaolas: el grupo logra desencajarlo tras vencer al pulpo. La proa sigue rota y aún necesita materiales (38-006–38-012, 38-015–38-016).",
+    "Reclutar a Ilikar: Erandy lo cura, empata en el duelo con Ione y acepta incorporarse a cambio de papel y pluma. La mordedura ritual y la promesa de protección preceden a una revancha pendiente (38-003–38-005, 38-014, 38-017–38-018).",
+    "Rastrear al hombre lobo: Ione lo ve entre sesiones, pero no consigue alcanzarlo (38-001)."
+  ],
+  "preguntas": [
+    "¿Qué consecuencias tendrá la mordedura de Ilikar? La sensación y la tirada no confirman un contagio (38-014).",
+    "¿Qué causó las heridas de Ilikar y cuál es su pasado tribal? Su llegada no proporciona una explicación completa (38-003).",
+    "¿Descubrirá Bonnie que han repartido su cofre y qué reclamará? La propiedad solo se revela al público (38-018).",
+    "¿Cuándo repararán la proa y podrá navegar el barco? Desencajarlo no equivale a repararlo (38-015)."
+  ],
+  "contradicciones": [
+    "El pulpo es distinto del que mató al antiguo hipocampo y es mayor, según el director (38-007, 38-009).",
+    "Calmar emociones falló contra Ione en forma de loba en el capítulo 36, pero funciona en el 38. Se conserva la diferencia entre escenas (38-012).",
+    "Merlucilla V es un tiburón nuevo; la numeración no indica la muerte del tigre Merlucilla IV (38-009, 38-015).",
+    "Ilikar parece preocupado por la mordedura, pero explica que su decepción procede del duelo sin todos los recursos (38-014, 38-017).",
+    "Ione recibe dieciocho monedas del cofre y diez de Erandy, frente a las treinta aproximadas de la recapitulación (38-016).",
+    "El cofre parece un hallazgo; su placa revela la pertenencia a Bonnie solo al público en la escena final (38-016, 38-018)."
+  ],
+  "nombres_dudosos": [
+    "Ilikar/Ilicar/Icar es un nuevo goliat de una tribu sin nombre. Es distinto de Ayoto y Winscore.",
+    "Negociación son los puños americanos de Ione. La lanza o glaive de Ilikar regresa envuelta en hielo.",
+    "Mingo, Mango y Mungo se describen como mudo, ciego y sordo, pero no se asigna cada condición a un individuo."
+  ],
+  "fuente_sha256": "3f741d83508dfb1504507063ddb4ddd6dd65e372e13c8dfd7bda9c5eb47ef975",
+  "afirmaciones": [
+    {
+      "id": "38-001",
+      "titulo": "Reencuentro de la escudera y rastreo del licántropo",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Erandy se reencuentra con Eleanor y por fin duerme bien. Ione encarga a los hipopótamos reparar y sacar el barco, cartografía los alrededores para prever ataques y encuentra al licántropo que agredió a Blink. Lo persigue, incluso transformada, sin alcanzarlo. Poncelot explora, habla con Liz de un regalo y limpia las cloacas.",
+      "inicio": "00:00:00.000",
+      "fin": "00:05:55.000",
+      "cita": "finalmente se ha reencontrado",
+      "evidencia_cue": {
+        "inicio": "00:00:35.920",
+        "fin": "00:00:38.229",
+        "texto": "Pues por su lado finalmente se ha reencontrado con su"
+      },
+      "entidades": [
+        "Erandy / Eri / Maya (escudera kender, grafía provisional)",
+        "Eleanor de Aragón / Roosevelt (grafía e identidad nominal por aclarar)",
+        "Ione",
+        "Hombre lobo de ojos ámbar (sin nombre)",
+        "Sir Poncelot",
+        "Zampaolas"
+      ],
+      "ambito": "recapitulación",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": ""
+    },
+    {
+      "id": "38-002",
+      "titulo": "Regreso de Ione y hallazgo de un herido en la playa",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Ione vuelve de la jungla y habla con Poncelot; los incendios recientes han cesado. Una carta hace que un pirata entregue al gnomo una bolsa con trece monedas de oro al confundir al destinatario. Erandy intenta localizar el estandarte de Eleanor, pero ve a un hombre enorme, pálido, tatuado y herido junto a la playa. Un ladrón lo está registrando y ella se acerca.",
+      "inicio": "00:06:00.000",
+      "fin": "00:12:00.000",
+      "cita": "cuerpo de un enorme",
+      "evidencia_cue": {
+        "inicio": "00:11:54.600",
+        "fin": "00:12:00.350",
+        "texto": "como si agazapado y y a la que te fijas un poco ves el cuerpo de un enorme"
+      },
+      "entidades": [
+        "Ione",
+        "Sir Poncelot",
+        "Erandy / Eri / Maya (escudera kender, grafía provisional)",
+        "Ilikar / Ilicar (goliat, grafía provisional)",
+        "Shiaru"
+      ],
+      "ambito": "llegada",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La búsqueda del objeto no proporciona coordenadas confirmadas de Eleanor."
+    },
+    {
+      "id": "38-003",
+      "titulo": "La escudera salva a Ilikar",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Erandy cura al goliat moribundo, que tiene cortes en el lado derecho y un tajo en el ojo. Él despierta y cree que la escudera lo guía al cielo. El ladrón acusa falsamente a Erandy después de intentar robarle. Ilikar lo arroja al mar sin esfuerzo y sube a la kender a su hombro. Se presenta como Ilikar y le explican que sigue en el plano mortal.",
+      "inicio": "00:12:00.000",
+      "fin": "00:18:00.000",
+      "cita": "heridas empiezan a cerrarse",
+      "evidencia_cue": {
+        "inicio": "00:14:08.360",
+        "fin": "00:14:12.069",
+        "texto": "algunas de las heridas empiezan a cerrarse poco a poco."
+      },
+      "entidades": [
+        "Ilikar / Ilicar (goliat, grafía provisional)",
+        "Erandy / Eri / Maya (escudera kender, grafía provisional)",
+        "Pirata ladrón de Ilikar (sin nombre)"
+      ],
+      "ambito": "curación y presentación",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se produce una resurrección ni se esclarecen los agresores anteriores o la causa de su llegada."
+    },
+    {
+      "id": "38-004",
+      "titulo": "Duelo amistoso con resultado de empate",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Ione salta a golpear al goliat, que acepta el reto. Acuerdan luchar con todos sus recursos. Ilikar crece al enfadarse e intercambian golpes hasta terminar caídos y riendo, en empate. Poncelot y Pix habían apostado cinco monedas cada uno y recuperan sus apuestas. Una carta silencia a Ione durante un minuto, sin asfixiarla, y después el efecto termina.",
+      "inicio": "00:18:00.000",
+      "fin": "00:31:55.000",
+      "cita": "ha quedado empate",
+      "evidencia_cue": {
+        "inicio": "00:30:46.399",
+        "fin": "00:30:48.190",
+        "texto": "¿no? ¿Nos has escuchado? Sí, ¿no? Sí, sí. que ha quedado empate y el mono"
+      },
+      "entidades": [
+        "Ione",
+        "Ilikar / Ilicar (goliat, grafía provisional)",
+        "Sir Poncelot",
+        "Pix",
+        "Erandy / Eri / Maya (escudera kender, grafía provisional)"
+      ],
+      "ambito": "duelo y amistad",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Gólem y gigante de hielo son etiquetas de Poncelot. El director identifica a Ilikar como goliat."
+    },
+    {
+      "id": "38-005",
+      "titulo": "Ilikar se incorpora a la tripulación",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Ione ofrece a Ilikar unirse para explorar el mar y soportar golpes. Él acepta a cambio de una libreta y una pluma; ella le da el reverso de un mapa y una pluma. Visitan el Zampaolas y los hipopótamos lo reciben. Ione prohíbe tratar a los demás como esclavos o niños y repetir lo ocurrido con Nox, ya expulsado. Erandy participa como visitante, no como una recluta cautiva.",
+      "inicio": "00:32:00.000",
+      "fin": "00:41:55.000",
+      "cita": "Bienvenida a la tripulación",
+      "evidencia_cue": {
+        "inicio": "00:33:57.519",
+        "fin": "00:34:00.350",
+        "texto": "de que ya no usa y una pluma dice, \"Bienvenida a la tripulación.\""
+      },
+      "entidades": [
+        "Ione",
+        "Ilikar / Ilicar (goliat, grafía provisional)",
+        "Zampaolas",
+        "Mingo, Mango y Mungo (hipopótamos, grafía provisional)",
+        "Erandy / Eri / Maya (escudera kender, grafía provisional)",
+        "Nox"
+      ],
+      "ambito": "reclutamiento",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": ""
+    },
+    {
+      "id": "38-006",
+      "titulo": "Plan para sacar el barco",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Los hipopótamos preparan amarres y soportes para elevar el Zampaolas. Erandy mejora durante una hora la fuerza y capacidad de carga del goliat. Una carta vuelve sorda a Ione, que después recupera la audición. Ione e Ilikar tiran de las cuerdas desde las rocas. Poncelot y los hipopótamos sueltan los seguros y las velas invertidas aprovechan el viento. El barco comienza a moverse.",
+      "inicio": "00:42:00.000",
+      "fin": "00:54:55.000",
+      "cita": "los seguros",
+      "evidencia_cue": {
+        "inicio": "00:52:32.200",
+        "fin": "00:52:34.510",
+        "texto": "mover el garco porque aún están puestos los seguros, pero [risas]"
+      },
+      "entidades": [
+        "Zampaolas",
+        "Ione",
+        "Ilikar / Ilicar (goliat, grafía provisional)",
+        "Erandy / Eri / Maya (escudera kender, grafía provisional)",
+        "Sir Poncelot",
+        "Mingo, Mango y Mungo (hipopótamos, grafía provisional)"
+      ],
+      "ambito": "trabajo coordinado",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Después se aclara que Aumentar habilidad aplicado a Fuerza no concede ventaja en los ataques."
+    },
+    {
+      "id": "38-007",
+      "titulo": "Un pulpo gigante sujeta el barco",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Ione ve una sombra y deja de tirar para atacar al supuesto tiburón. Descubre un pulpo gigante cuyos tentáculos sujetan el barco y avisa al grupo. La sacudida hace caer a los hipopótamos sobre la cubierta y a Poncelot al agua. Erandy conserva el equilibrio. Ilikar suelta la cuerda y toma su arma con furia.",
+      "inicio": "00:54:00.000",
+      "fin": "01:01:55.000",
+      "cita": "un enorme pulpo gigante",
+      "evidencia_cue": {
+        "inicio": "00:57:32.520",
+        "fin": "00:57:36.349",
+        "texto": "Y ves un enorme pulpo gigante que empieza el mercillo"
+      },
+      "entidades": [
+        "Pulpo gigante atacante del Zampaolas",
+        "Ione",
+        "Ilikar / Ilicar (goliat, grafía provisional)",
+        "Sir Poncelot",
+        "Erandy / Eri / Maya (escudera kender, grafía provisional)",
+        "Zampaolas"
+      ],
+      "ambito": "ataque marino",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Es distinto del pulpo de Merlucilla II. Más adelante el director aclara que este es mayor."
+    },
+    {
+      "id": "38-008",
+      "titulo": "El pulpo agarra a Ione e Ilikar hiere a un tiburón",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Ione golpea al pulpo sin armas mientras se mueve por la cuerda, le quita las reacciones y sube a cubierta. Un tentáculo la sujeta y acerca al pico. No hay balas para los cañones. Un tiburón se aproxima a Poncelot e Ilikar lanza un arma imbuida de hielo, que vuelve a él después de herir al animal sin matarlo. Erandy lanza Rayos ardientes contra el pulpo.",
+      "inicio": "01:02:00.000",
+      "fin": "01:12:55.000",
+      "cita": "Está vivo",
+      "evidencia_cue": {
+        "inicio": "01:11:14.400",
+        "fin": "01:11:18.110",
+        "texto": "Vaya, yo quería tomar el Era. Está vivo. Era muerto."
+      },
+      "entidades": [
+        "Ione",
+        "Pulpo gigante atacante del Zampaolas",
+        "Ilikar / Ilicar (goliat, grafía provisional)",
+        "Tiburón Merlucilla V",
+        "Sir Poncelot",
+        "Erandy / Eri / Maya (escudera kender, grafía provisional)"
+      ],
+      "ambito": "combate",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Según el director, Ione aún no tiene Mobile: todavía no ha alcanzado el nivel ocho."
+    },
+    {
+      "id": "38-009",
+      "titulo": "Poncelot calma y cura al tiburón",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Poncelot cree que el tiburón es un hipocampo herido y lo calma mediante Trato con animales. Asustado por las lanzas de Ilikar, el tiburón se oculta junto al gnomo. Poncelot le da una poción y lo monta para rodear el barco bajo el agua. Ione no consigue soltarse y resiste la transformación. Ilikar salta a cubierta y golpea un tentáculo con el arma de hielo y su culata.",
+      "inicio": "01:12:00.000",
+      "fin": "01:20:55.000",
+      "cita": "una poción de estas",
+      "evidencia_cue": {
+        "inicio": "01:15:04.560",
+        "fin": "01:15:06.510",
+        "texto": "es es el personaje y le va a dar como bonus una poción de estas. Ojo ahí, ahí,"
+      },
+      "entidades": [
+        "Sir Poncelot",
+        "Tiburón Merlucilla V",
+        "Ione",
+        "Ilikar / Ilicar (goliat, grafía provisional)",
+        "Pulpo gigante atacante del Zampaolas"
+      ],
+      "ambito": "alianza con tiburón",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "El tiburón es distinto del antiguo hipocampo. La nueva montura no implica que haya muerto Merlucilla IV, el tigre."
+    },
+    {
+      "id": "38-010",
+      "titulo": "El pulpo derriba a los aliados e Ione se transforma",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Una acción legendaria del pulpo golpea la cubierta y derriba a Ilikar y Erandy. La escudera invoca guardianes y cura a varios compañeros. Un tentáculo agarra al goliat. Ione decide enfadarse por las heridas del grupo y pide fallar la salvación. Se transforma en mujer lobo y muerde y golpea el tentáculo. Crusher no se aplica a las garras porque causan daño cortante. El pulpo le muerde profundamente el hombro.",
+      "inicio": "01:21:00.000",
+      "fin": "01:29:55.000",
+      "cita": "Quieres transformarte ahora",
+      "evidencia_cue": {
+        "inicio": "01:26:45.880",
+        "fin": "01:26:47.830",
+        "texto": "quiero transformarte. ¿Quieres transformarte ahora? Antes no,"
+      },
+      "entidades": [
+        "Pulpo gigante atacante del Zampaolas",
+        "Ilikar / Ilicar (goliat, grafía provisional)",
+        "Erandy / Eri / Maya (escudera kender, grafía provisional)",
+        "Ione"
+      ],
+      "ambito": "transformación y combate",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La decisión inicial no demuestra un control consciente y estable de todas sus acciones en forma lupina."
+    },
+    {
+      "id": "38-011",
+      "titulo": "Ataque montado y liberación de Ilikar",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Los guardianes dañan al pulpo y los hipopótamos disparan una ballesta compartida. El tiburón lleva a Poncelot bajo el agua; el gnomo aguanta la respiración y salta para atacar. Ilikar se libera, cae al agua y corta al pulpo con hielo. Erandy cura a Ione, lanza más rayos y se aparta sin recibir daño del ataque de oportunidad final.",
+      "inicio": "01:30:00.000",
+      "fin": "01:39:55.000",
+      "cita": "te quitas el agarre",
+      "evidencia_cue": {
+        "inicio": "01:35:08.040",
+        "fin": "01:35:09.270",
+        "texto": "quitarías el agarre, imagino que estarías ahí, te quitas el agarre y"
+      },
+      "entidades": [
+        "Sir Poncelot",
+        "Tiburón Merlucilla V",
+        "Ilikar / Ilicar (goliat, grafía provisional)",
+        "Erandy / Eri / Maya (escudera kender, grafía provisional)",
+        "Ione",
+        "Mingo, Mango y Mungo (hipopótamos, grafía provisional)"
+      ],
+      "ambito": "defensa conjunta",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": ""
+    },
+    {
+      "id": "38-012",
+      "titulo": "Muere el pulpo e Ione ataca al tiburón",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Poncelot remata al pulpo, que cae flotando y suelta a Ione sobre la cubierta. Una curación de cartas se describe como vapor que regenera parte de sus heridas. Ione busca agresivamente a quien lo mató, salta hacia Poncelot y consigue un crítico al morder al tiburón. El mocho asqueroso le provoca vómito. Erandy recupera un espacio de conjuro y Calmar emociones funciona. Ione nada hacia el barco y lame a la escudera.",
+      "inicio": "01:39:00.000",
+      "fin": "01:46:55.000",
+      "cita": "te relajas",
+      "evidencia_cue": {
+        "inicio": "01:45:51.520",
+        "fin": "01:45:54.669",
+        "texto": "¿eh? Pues te relajas, ves que como esa"
+      },
+      "entidades": [
+        "Sir Poncelot",
+        "Pulpo gigante atacante del Zampaolas",
+        "Ione",
+        "Tiburón Merlucilla V",
+        "Erandy / Eri / Maya (escudera kender, grafía provisional)"
+      ],
+      "ambito": "fin combate y calma",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "El resultado del capítulo 36 no demuestra una inmunidad permanente: aquí la calma funciona. La descripción de la curación no acredita un nuevo rasgo de regeneración."
+    },
+    {
+      "id": "38-013",
+      "titulo": "Los antiguos tripulantes llegan después del combate",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Ilikar corta un tentáculo para comer y Ione ayuda a subirlo. Gustavo, Mugre, Baps y Jack aparecen disparando al pulpo ya muerto para salvar a su capitana. Ella los ignora bajo el efecto de la calma. Erandy pregunta por la raza de un hombre perro, que responde bulldocus serios. Poncelot alimenta al tiburón con el pulpo.",
+      "inicio": "01:46:00.000",
+      "fin": "01:51:30.000",
+      "cita": "Hemos venido a salvarla",
+      "evidencia_cue": {
+        "inicio": "01:48:34.760",
+        "fin": "01:48:36.790",
+        "texto": "con una ballesta y están como ahí encima y dice, \"Hemos venido a salvarla.\" y"
+      },
+      "entidades": [
+        "Ilikar / Ilicar (goliat, grafía provisional)",
+        "Ione",
+        "Gustavo (tripulante, identidad/grafía provisional)",
+        "Mugre (tripulante, grafía provisional)",
+        "Baps (tripulante, grafía provisional)",
+        "Jack / Jacki (grafía provisional)",
+        "Sir Poncelot",
+        "Tiburón Merlucilla V"
+      ],
+      "ambito": "ayuda tardía",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La narración los presenta como antigua tripulación, sin confirmar que los cuatro sean miembros actuales. La apariencia del hombre perro no lo identifica automáticamente como licántropo."
+    },
+    {
+      "id": "38-014",
+      "titulo": "Mordedura ritual de Ione a Ilikar",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "En forma de loba, Ione toma con cuidado el brazo de Ilikar y lo muerde apenas en la piel. Se pide una salvación de Constitución y él siente algo extraño, pero no se declara una transformación. Ella lame la herida y expulsa a los antiguos tripulantes con gruñidos. Ilikar mira su mano, serio y decepcionado. Un hipopótamo propone continuar la extracción con ayuda del goliat, la loba, el tiburón y la magia.",
+      "inicio": "01:51:00.000",
+      "fin": "01:58:55.000",
+      "cita": "algo extraño cuando te muerde",
+      "evidencia_cue": {
+        "inicio": "01:53:21.760",
+        "fin": "01:53:24.430",
+        "texto": "m notas como algo algo extraño cuando te muerde."
+      },
+      "entidades": [
+        "Ione",
+        "Ilikar / Ilicar (goliat, grafía provisional)",
+        "Mingo, Mango y Mungo (hipopótamos, grafía provisional)",
+        "Tiburón Merlucilla V"
+      ],
+      "ambito": "gesto ritual y estado desconocido",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La tirada y la sensación no confirman un contagio de licantropía ni una inmunidad."
+    },
+    {
+      "id": "38-015",
+      "titulo": "El Zampaolas queda desencajado",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Ione, aún loba, e Ilikar tiran desde las rocas. Erandy aporta ayuda a la fuerza y Poncelot y el tiburón colaboran. Las rampas y amarres de los hipopótamos permiten desencajar el barco de la taberna. Flota parcialmente elevado, pero la proa sigue destrozada y necesita reparación. Poncelot llama al tiburón Merlucilla quinto, guarda un tentáculo como cebo y lo deja marcharse cuando quiera.",
+      "inicio": "01:58:00.000",
+      "fin": "02:04:55.000",
+      "cita": "habéis desencajado el barco",
+      "evidencia_cue": {
+        "inicio": "02:02:30.639",
+        "fin": "02:02:37.109",
+        "texto": "destrozada que se tiene que arreglar, pero habéis desencajado el barco."
+      },
+      "entidades": [
+        "Zampaolas",
+        "Ione",
+        "Ilikar / Ilicar (goliat, grafía provisional)",
+        "Erandy / Eri / Maya (escudera kender, grafía provisional)",
+        "Sir Poncelot",
+        "Tiburón Merlucilla V",
+        "Mingo, Mango y Mungo (hipopótamos, grafía provisional)"
+      ],
+      "ambito": "extracción lograda",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se acredita que el barco esté reparado o pueda navegar ni que el tiburón permanezca encerrado."
+    },
+    {
+      "id": "38-016",
+      "titulo": "Aportación de oro y reparto del cofre",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Erandy aporta diez monedas de oro para materiales. Durante la extracción, un cofre cae de los cascotes de la bodega o la taberna. Los hipopótamos reparten un collar precioso a Poncelot, un jade a Erandy, veintisiete monedas de oro a Ilikar y dieciocho a Ione. Interpretan la conducta de Ione como un permiso y siguen reparando. La recapitulación aproxima su dinero a treinta, aunque recibe veintiocho al contar la aportación.",
+      "inicio": "02:04:00.000",
+      "fin": "02:11:30.000",
+      "cita": "27 monedas de oro",
+      "evidencia_cue": {
+        "inicio": "02:09:10.480",
+        "fin": "02:09:12.950",
+        "texto": "una bolsita con 27 monedas de oro que te"
+      },
+      "entidades": [
+        "Erandy / Eri / Maya (escudera kender, grafía provisional)",
+        "Cofre propiedad Happy Bonnie repartido en Zampaolas",
+        "Sir Poncelot",
+        "Ilikar / Ilicar (goliat, grafía provisional)",
+        "Ione",
+        "Zampaolas"
+      ],
+      "ambito": "recursos y premio",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Los personajes aún no conocen la propiedad del cofre, que solo se revela al público en la escena final."
+    },
+    {
+      "id": "38-017",
+      "titulo": "Significado de la mordedura y decepción de Ilikar",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Ione vuelve a ser humana y se cubre con un saco. Venda la herida de Ilikar y explica que la mordedura reconoce su pertenencia a la tripulación y la disposición a protegerlo. Promete luchar a su lado. Él dice que se siente engañado: pactaron combatir con todos sus recursos y ella no utilizó la transformación. No expresa rechazo a su condición lupina.",
+      "inicio": "02:12:00.000",
+      "fin": "02:17:30.000",
+      "cita": "El problema es la capitana me miente",
+      "evidencia_cue": {
+        "inicio": "02:17:17.319",
+        "fin": "02:17:20.070",
+        "texto": "El problema es la capitana me miente."
+      },
+      "entidades": [
+        "Ione",
+        "Ilikar / Ilicar (goliat, grafía provisional)",
+        "Sir Poncelot"
+      ],
+      "ambito": "vínculo y conflicto",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La explicación del ritual no concede el rango de segundo al mando ni demuestra un contagio."
+    },
+    {
+      "id": "38-018",
+      "titulo": "Ione tranquiliza a Poncelot y se revela la propiedad del cofre",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Ione quiere una revancha y pide a Poncelot que la enfade. Él teme que lo sustituyan, pero ella reafirma su confianza y le asegura que no será reemplazado. La emoción la transforma en loba; abraza y lame al gnomo y prepara el duelo con Ilikar, sin que se muestre el resultado. Erandy encuentra parecido el jade a otro anterior. En una escena reservada, un hipopótamo arroja al agua el cofre vacío y se ve una placa de propiedad de Happy Bonnie.",
+      "inicio": "02:17:00.000",
+      "fin": "02:22:55.000",
+      "cita": "propiedad de Happy Bonnie",
+      "evidencia_cue": {
+        "inicio": "02:22:07.840",
+        "fin": "02:22:12.830",
+        "texto": "se va acercando la cámara muy cerca, muy cerca y pone propiedad de Happy Bonnie."
+      },
+      "entidades": [
+        "Ione",
+        "Sir Poncelot",
+        "Ilikar / Ilicar (goliat, grafía provisional)",
+        "Erandy / Eri / Maya (escudera kender, grafía provisional)",
+        "Cofre propiedad Happy Bonnie repartido en Zampaolas",
+        "Happy Bonnie / Bonny (grafía provisional)"
+      ],
+      "ambito": "afecto y revelación reservada",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Según el director, los personajes no observan la placa porque están distraídos. No se acredita un robo intencional con conocimiento de la propietaria; las consecuencias quedan pendientes."
+    }
+  ]
+}

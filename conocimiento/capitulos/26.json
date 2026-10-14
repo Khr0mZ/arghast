@@ -1,0 +1,713 @@
+{
+  "capitulo": 26,
+  "estado_revision": "revisado",
+  "resumen": "Poncelot compra otra armadura y afirma que informó a Ione del ataque. El director aclara que habló con Coyote, que la suplantó en una escena escrita. Ione repara el barco y sale de la consulta médica tras comprar un tatuaje cuyo efecto no se especifica. Nox continúa aprendiendo abisal y conversa con Bonnie fuera de escena. Ione le reprocha haber visitado a Molly sin avisarla personalmente y haber necesitado un rescate. Él revela una convocatoria de los cinco y una disputa por un tesoro. Llegan a una reconciliación parcial y se presentan como capitana, segundo al mando y amigos; no confirman una relación romántica. Poncelot muestra el mapa y Blink acepta ayudar, aunque la ruta sea contraria a Cuicapalli. Tras varios días hacia el sur encuentran a Pinky seguida por un tigre. Ella mata a Merlucilla III de un disparo para alimentar al felino. Poncelot lo convierte en Merlucilla IV, retira los ojos y las alas de la mosca y entierra el resto. Pinky guía al grupo hacia una pirámide oculta y ofrece pociones de su nieta. Nox, Ione y el tigre reciben muestras; Ione cede la suya a Poncelot. En la entrada, las monedas y la mirada de Nox activan unas estatuas y causan picor en sus tatuajes. El collar de Blink vibra y amenaza su mente, pero ella resiste. Nox desactiva las trampas interiores con el mismo procedimiento, vierte sangre en el altar y oye una llamada familiar. Ione y Poncelot bloquean puertas con cuñas. Un guardia poseído invita a Nox y sus amigos y reconoce que llevan el collar. Ante el trono, un hombre serpiente afirma que alguien superior necesita lo que Nox lleva en la espalda. Blink lee su pensamiento sobre la llegada de su Señor. Nox utiliza Libertad de movimiento y finge sentarse mediante Imagen mayor. Los enemigos creen la ilusión y avanzan armados contra sus compañeros. El episodio termina antes del combate.",
+  "misiones": [
+    "Seguir el mapa: Ione, Nox, Poncelot y Blink viajan al sur. Pinky los conduce a una pirámide oculta. Nox abre la entrada y desactiva trampas; llegan al trono, con el combate pendiente. No se identifica formalmente el lugar como la ciudad Ezlat (26-008 y 26-013–26-023).",
+    "Investigar el collar y la espalda de Nox: el anfitrión reconoce el collar y afirma que necesitan a Nox por lo que lleva en la espalda. Su superior o controlador sigue sin identificar (26-019 y 26-021–26-023).",
+    "Reconciliar a Nox e Ione: comparten información reservada y aplazan sus conflictos ante la amenaza. Ione exige disculpas y le encarga limpiar el barco; no se muestra que lo haga (26-005–26-007)."
+  ],
+  "preguntas": [
+    "¿Qué lleva Nox en la espalda y quién quiere obtenerlo? La referencia al antiguo capitán y la respuesta del hombre serpiente no lo explican (26-017, 26-019 y 26-022).",
+    "¿Qué ocurre si alguien se sienta realmente en el trono? La imagen engaña al anfitrión y los compañeros quedan amenazados, sin desenlace (26-023).",
+    "¿Quién controla al guardia de ojos rojos y a quién llaman nuestro Señor? La lectura mental no identifica a la entidad (26-021–26-022).",
+    "¿Por qué Coyote suplantó a Ione y qué sabe del informe de Poncelot? La audiencia conoce la suplantación, pero los personajes no la resuelven en su conversación (26-001 y 26-003).",
+    "¿Qué decidirán los cinco piratas en su reunión? Se refiere la convocatoria, pero no se celebra aquí (26-006)."
+  ],
+  "contradicciones": [
+    "Poncelot cree haber informado a Ione y recibido su abrazo. El director identifica a Coyote como suplantador, pero los personajes no resuelven esa identidad al discutir (26-001 y 26-003).",
+    "El crítico del capítulo 25 permite traducir unas órdenes, sin dar fluidez en abisal a Nox. Continúa estudiando y mezclando palabras (26-002).",
+    "Nox e Ione se presentan como amigos, capitana y segundo al mando. No confirman el romance que otros infieren (26-007).",
+    "Ione pregunta si el collar procede de su conflicto con Bonnie, pero nadie confirma esa equivalencia. Poncelot explica que encontró el mapa en el cofre de un templo, no de la Marina (26-015).",
+    "Pinky mata a la mosca en este capítulo. Las bromas sobre su muerte en el capítulo 25 no habían ocurrido todavía (26-010–26-011).",
+    "Cuicapalli queda en dirección contraria a la ruta del sur. Los tres días se calculan desde Fuerte Aurora, no desde Shiaru (26-008)."
+  ],
+  "nombres_dudosos": [
+    "Nox presenta a Coyote como un compañero que compró como mascota. El director confirma su suplantación de Ione. No se establece aquí que sea Citlali.",
+    "Pinky/Pinki es la anciana cuya nieta fabrica las pociones. La nieta no tiene nombre en esta escena; la referencia no basta para identificarla con Arwen.",
+    "Jones y Tórtola aparecen en el relato político. Sus cargos requieren contrastar otros episodios.",
+    "La pirámide oculta del sur es el destino del viaje con el mapa, pero no se nombra inequívocamente como la ciudad Ezlat."
+  ],
+  "fuente_sha256": "ef99dbec222f2aeb3eb61184eaac38406e7552fdc29980f5b268c07968c51aa4",
+  "afirmaciones": [
+    {
+      "id": "26-001",
+      "titulo": "Compra de armadura y suplantación de Ione por Coyote",
+      "tipo": "explicacion_director",
+      "afirmacion": "Poncelot compra una armadura y conserva su cubo como casco, pues cree que unos demonios robaron la anterior. Relata que dio un informe a Ione esa mañana y recibió un abrazo. El director aclara a la jugadora que no era ella: Coyote suplantó a Ione en una escena escrita. Ione estuvo reparando el barco y quería visitar la consulta médica por sus nuevos servicios.",
+      "inicio": "00:00:00.000",
+      "fin": "00:03:15.000",
+      "cita": "era el coyote haciéndose pasar por ti",
+      "evidencia_cue": {
+        "inicio": "00:02:59.360",
+        "fin": "00:03:01.110",
+        "texto": "Es que se lo Sora no eras tú, era el coyote haciéndose pasar por ti."
+      },
+      "entidades": [
+        "Sir Poncelot",
+        "Ione",
+        "Coyote (suplantador de Ione)",
+        "Matasanos de Shiaru"
+      ],
+      "ambito": "recapitulación y aclaración para jugadores",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La audiencia conoce la suplantación, pero Ione y Poncelot discuten después sin resolverla. Los personajes no oyen automáticamente la aclaración del director."
+    },
+    {
+      "id": "26-002",
+      "titulo": "Abisal en aprendizaje y amuleto sin destino",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Nox trabaja con los símbolos del abisal y sus herramientas. Todavía mezcla palabras y le cuesta hablar; quiere dominar el idioma en el futuro. Vio a Bonnie concentrada en un mapa y mantuvo una conversación cuyo contenido no reproduce en la recapitulación. Blink prepara su regreso a Cuicapalli después del susto. Considera tirar el amuleto al mar o enterrarlo en un agujero, sin hacerlo.",
+      "inicio": "00:03:00.000",
+      "fin": "00:06:20.000",
+      "cita": "poder conseguir hablarlo en un futuro",
+      "evidencia_cue": {
+        "inicio": "00:04:25.720",
+        "fin": "00:04:27.909",
+        "texto": "idioma a la hora de de poder conseguir hablarlo en un futuro."
+      },
+      "entidades": [
+        "Nox",
+        "Happy Bonnie / Bonny (grafía provisional)",
+        "Blink / Blank",
+        "Collar de Blink",
+        "Cuicapalli"
+      ],
+      "ambito": "recapitulaciones",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "El crítico del capítulo 25 no supone que haya aprendido por completo el idioma."
+    },
+    {
+      "id": "26-003",
+      "titulo": "Ione sale de la consulta y niega haber recibido el informe",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Ione sale de la consulta médica incómoda y rascándose, tras comprar un tatuaje ofrecido por el director. Poncelot aparece con la armadura nueva. Insiste en que le dio un informe del ataque y recibió su abrazo, pero ella lo niega y afirma que reparaba el barco. Blink se reúne con ellos. No descubren al suplantador durante la charla.",
+      "inicio": "00:06:00.000",
+      "fin": "00:12:55.000",
+      "cita": "qué informe",
+      "evidencia_cue": {
+        "inicio": "00:08:27.599",
+        "fin": "00:08:32.190",
+        "texto": "informe. Se queda así y dice, eh, qué informe,"
+      },
+      "entidades": [
+        "Ione",
+        "Matasanos de Shiaru",
+        "Sir Poncelot",
+        "Blink / Blank"
+      ],
+      "ambito": "conversación pública",
+      "conocedores": [
+        "Ione",
+        "Sir Poncelot",
+        "Blink / Blank"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se especifica la habilidad del tatuaje. La armadura anterior se perdió por una tirada; la atribución a demonios es una creencia de Poncelot."
+    },
+    {
+      "id": "26-004",
+      "titulo": "Dados del capitán y acusación del loro",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Nox medita en el muelle lanzando cuatro dados, como hacía su antiguo capitán, a quien considera un padre. En la interpretación narrada obtiene dos veces cuatro unos. El loro que le devolvió el sombrero lo llama liante. Después Nox se acerca a Ione y le toca el hombro.",
+      "inicio": "00:12:00.000",
+      "fin": "00:14:55.000",
+      "cita": "considera su padre.",
+      "evidencia_cue": {
+        "inicio": "00:13:08.320",
+        "fin": "00:13:11.870",
+        "texto": "enseñó su su antiguo [música] capitán que prácticamente considera su padre."
+      },
+      "entidades": [
+        "Nox",
+        "Antiguo capitán de Nox (sin nombre aquí)",
+        "Loro de Shiaru",
+        "Ione"
+      ],
+      "ambito": "escena privada y encuentro",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La repetición de los resultados no demuestra una profecía ni una manipulación sobrenatural."
+    },
+    {
+      "id": "26-005",
+      "titulo": "Ione exige a Nox que la avise personalmente",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Ione reprocha a Nox haber visitado a Molly, a quien insulta, y haber sido capturado y colgado por la Marina sin que ella supiera dónde estaba hasta oír rumores. Él responde que dejó una carta a Patata y quería conocer las intenciones de Molly sin poner en peligro a Ione. Ella exige que la avise personalmente antes de ir y critica que la haya evitado después. Apartan a los espectadores para conversar en privado.",
+      "inicio": "00:14:00.000",
+      "fin": "00:20:55.000",
+      "cita": "dejé una carta a la patata",
+      "evidencia_cue": {
+        "inicio": "00:16:44.440",
+        "fin": "00:16:47.990",
+        "texto": "Pelosa, dejé una carta a la patata."
+      },
+      "entidades": [
+        "Ione",
+        "Nox",
+        "Patata / Patatamán (grafía provisional)",
+        "Molly / Moli (capitana de Marina, grafía provisional)",
+        "Marina"
+      ],
+      "ambito": "reproches y versión del rescate",
+      "conocedores": [
+        "Ione",
+        "Nox"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "El relato remite a la visita y al rescate anteriores. No reconstruye por sí solo su cronología exacta."
+    },
+    {
+      "id": "26-006",
+      "titulo": "Cinco convocados y tesoro disputado",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Nox cuenta a Ione que obtuvo información de Molly y del fuerte y que acaba de conversar con Bonnie. Afirma que Jones llega o está en camino, que habrá una reunión de los cinco y que las altas esferas están preocupadas. Según él, la llegada alteró el equilibrio y comenzó una disputa por un tesoro. Se declara del lado de Ione y dispuesto a utilizar a quien sea. Ella aplaza sus conflictos, pero exige disculpas después.",
+      "inicio": "00:20:00.000",
+      "fin": "00:24:55.000",
+      "cita": "una reunión de los cinco",
+      "evidencia_cue": {
+        "inicio": "00:21:32.840",
+        "fin": "00:21:37.710",
+        "texto": "se ha proclamado una reunión de los cinco y no tardarán"
+      },
+      "entidades": [
+        "Nox",
+        "Ione",
+        "Molly / Moli (capitana de Marina, grafía provisional)",
+        "Happy Bonnie / Bonny (grafía provisional)",
+        "Jones (figura mencionada en reunión de los cinco)",
+        "Cinco reyes piratas (grupo referido)",
+        "Tesoro buscado por Nox"
+      ],
+      "ambito": "conversación reservada",
+      "conocedores": [
+        "Nox",
+        "Ione"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se muestra la reunión ni el desembarco de Jones. Las referencias a Tórtola, Jones y Bonnie no constituyen una lista nueva y completa de asistentes."
+    },
+    {
+      "id": "26-007",
+      "titulo": "Nox entrega el licor y ambos declaran su amistad",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Nox entrega a Ione una botella de licor de la mujer a la que ambos insultan. Los jugadores aclaran que es su conocida del despacho, no Bonnie. Nox dice que compró una mascota llamada Coyote. Ione lo reconoce por la misión de Bonnie y lo considera peculiar. Le encarga a Nox limpiar durante una semana el serrín del barco. Ante Blink y Poncelot, ambos afirman que ella es la capitana, él el segundo al mando y que son amigos. Hablan de frustrar romances, sin admitir uno entre ellos.",
+      "inicio": "00:24:00.000",
+      "fin": "00:29:55.000",
+      "cita": "no es mi segundo al mando",
+      "evidencia_cue": {
+        "inicio": "00:28:12.760",
+        "fin": "00:28:15.750",
+        "texto": "mira a ti. Y te mira a ti. Dice, \"Eh, no es mi segundo al mando."
+      },
+      "entidades": [
+        "Nox",
+        "Ione",
+        "Molly / Moli (capitana de Marina, grafía provisional)",
+        "Coyote (suplantador de Ione)",
+        "Blink / Blank",
+        "Sir Poncelot"
+      ],
+      "ambito": "relaciones compartidas con grupo",
+      "conocedores": [
+        "Nox",
+        "Ione",
+        "Blink / Blank",
+        "Sir Poncelot"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "El ancla de la transcripción pierde el nombre Nox, pero el diálogo restante establece su cargo. No se identifica a Coyote como un perro sin condición humana ni con Citlali sin otras pruebas."
+    },
+    {
+      "id": "26-008",
+      "titulo": "Expedición hacia el sur pese a que el mapa indica otra dirección",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Poncelot muestra el mapa e Ione propone visitar su destino. Blink acepta ayudar, aunque Cuicapalli quede en dirección contraria. No acepta incorporarse a la tripulación. Reconoce como suyo el nido de la cofa que Ione confundía con uno de gaviotas y destruía al reparar. Ione, Nox, Blink y Poncelot parten con Merlucilla III. Viajan durante varios días: el destino está a unos tres días de Fuerte Aurora, no de Shiaru. Evitan pirañas y un enorme depredador de dinosaurios.",
+      "inicio": "00:28:20.000",
+      "fin": "00:35:20.000",
+      "cita": "unos tr días desde el fuerte Aurora",
+      "evidencia_cue": {
+        "inicio": "00:33:45.799",
+        "fin": "00:33:48.669",
+        "texto": "lugar está, pues eso, a unos tr días desde el fuerte Aurora,"
+      },
+      "entidades": [
+        "Ione",
+        "Nox",
+        "Blink / Blank",
+        "Sir Poncelot",
+        "Merlucilla III (mosca)",
+        "Mapa de Poncelot (destino Ezlat provisional)",
+        "Cuicapalli",
+        "Fuerte Aurora"
+      ],
+      "ambito": "viaje y decisión",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "El viaje total se describe como una semana y algo más. Las duraciones son aproximadas, sin fechas absolutas."
+    },
+    {
+      "id": "26-009",
+      "titulo": "Pinky recibe puñetazo por encuentro sorpresa",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Ione y Nox detectan movimiento y preparan ataques y escondites. Ione golpea a la criatura que aparece, que resulta ser Pinky. La anciana protesta, bebe una poción de su nieta y habla de forma extraña. Nox explica a Poncelot que es una anciana local con poderes arcanos, conocida de Ione y amistosa hasta cierto punto. Pinky muestra el tigre que la sigue y dice que busca plantas.",
+      "inicio": "00:35:00.000",
+      "fin": "00:42:55.000",
+      "cita": "Pinky tiene 23 de percepción pasiva",
+      "evidencia_cue": {
+        "inicio": "00:42:00.720",
+        "fin": "00:42:03.190",
+        "texto": "veis la tirada de sigilo del [ __ ] Pinky tiene 23 de percepción pasiva, así"
+      },
+      "entidades": [
+        "Ione",
+        "Nox",
+        "Pinky / Pinki (grafía provisional)",
+        "Sir Poncelot",
+        "Tigre Merlucilla IV"
+      ],
+      "ambito": "encuentro y presentación",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Nox presenta a la anciana como venerada para calmar al gnomo. No demuestra una autoridad religiosa oficial."
+    },
+    {
+      "id": "26-010",
+      "titulo": "Pinky mata a la mosca para atraer al tigre",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Poncelot intenta calmar al tigre y recibe un zarpazo. Pinky ofrece ayudar: dispara a Merlucilla III y utiliza su cuerpo como alimento para el felino. Poncelot llora, se contiene para no atacar a la anciana y coloca las riendas al tigre distraído, como posible nueva Merlucilla IV.",
+      "inicio": "00:42:00.000",
+      "fin": "00:48:55.000",
+      "cita": "dispara la mosca",
+      "evidencia_cue": {
+        "inicio": "00:46:05.119",
+        "fin": "00:46:07.030",
+        "texto": "hace, saca una pipa y hace y dispara la mosca."
+      },
+      "entidades": [
+        "Sir Poncelot",
+        "Pinky / Pinki (grafía provisional)",
+        "Merlucilla III (mosca)",
+        "Tigre Merlucilla IV"
+      ],
+      "ambito": "muerte y nueva montura",
+      "conocedores": [
+        "Sir Poncelot",
+        "Pinky / Pinki (grafía provisional)",
+        "Ione",
+        "Nox",
+        "Blink / Blank"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La narración confirma el disparo y la muerte. No es una broma sobre el futuro, como las del capítulo 25."
+    },
+    {
+      "id": "26-011",
+      "titulo": "Montura tigre y restos de mosca enterrados",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Ione reconoce a Pinky y observa la muerte de la mosca, que la anciana niega mientras sostiene la pistola humeante. Apuestan hierbas sobre si el tigre morderá al gnomo, sin resolver la apuesta. Poncelot retira los ojos y las alas de Merlucilla III para fabricar equipo después. Entierra el resto bajo hojas y palitos y monta al tigre, Merlucilla IV.",
+      "inicio": "00:48:00.000",
+      "fin": "00:56:20.000",
+      "cita": "ojos y y alas de mosca",
+      "evidencia_cue": {
+        "inicio": "00:55:22.440",
+        "fin": "00:55:23.510",
+        "texto": "Ah, vale, vale. Pues ojos y y alas de mosca. A ver si con las alas puedo hacer"
+      },
+      "entidades": [
+        "Ione",
+        "Pinky / Pinki (grafía provisional)",
+        "Sir Poncelot",
+        "Merlucilla III (mosca)",
+        "Tigre Merlucilla IV",
+        "Ojos y alas de Merlucilla III"
+      ],
+      "ambito": "despedida y botín corporal",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Todavía no fabrica una capa ni un equipo para visión oscura. Los comentarios sobre marihuana y orégano no constituyen un análisis botánico."
+    },
+    {
+      "id": "26-012",
+      "titulo": "La fruta agranda las orejas y Pinky acepta guiar",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "La fruta agranda las orejas de Poncelot, duplica su distancia de audición y permite planear según la adjudicación. Nox ofrece los documentos de las serpientes para que el tigre rastree su olor. Pinky se ofrece a guiar. Nox la provoca diciendo que no tiene valor para viajar al sur y ella acepta enseñarles un lugar peligroso con lagartos. Continúan con ella.",
+      "inicio": "00:55:50.000",
+      "fin": "01:02:50.000",
+      "cita": "Solo los grandes podemos sobrevivir ahí",
+      "evidencia_cue": {
+        "inicio": "01:02:04.319",
+        "fin": "01:02:07.470",
+        "texto": "peligroso. Solo los grandes podemos sobrevivir ahí. Os vais a [ __ ]"
+      },
+      "entidades": [
+        "Sir Poncelot",
+        "Tigre Merlucilla IV",
+        "Nox",
+        "Órdenes abisales de ataque a Shiaru",
+        "Pinky / Pinki (grafía provisional)"
+      ],
+      "ambito": "efecto temporal y guía",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "El tigre no encuentra por sí solo el destino. Una palabra mal reconocida sobre un lagarto no establece una relación con OsCAR."
+    },
+    {
+      "id": "26-013",
+      "titulo": "Pirámide oculta alcanzada por ruta extraña",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Durante la semana restante, Pinky guía al grupo por cuevas y entre montañas hasta un lugar oculto, con vegetación densa, antigua y desconocida. Muestra una plantación que afirma haber creado y una pirámide muy antigua cubierta de plantas, donde dice que viven lagartos. Ione encuentra huellas después de los intentos fallidos de Nox y Poncelot. Pinky no ha entrado y no cree la afirmación sobre cultivos hidropónicos en su interior.",
+      "inicio": "01:02:00.000",
+      "fin": "01:08:55.000",
+      "cita": "una pirámide muy antigua",
+      "evidencia_cue": {
+        "inicio": "01:05:31.720",
+        "fin": "01:05:34.630",
+        "texto": "¿sabes? Como un una pirámide muy antigua."
+      },
+      "entidades": [
+        "Pinky / Pinki (grafía provisional)",
+        "Nox",
+        "Ione",
+        "Sir Poncelot",
+        "Pirámide de hombres serpiente (expedición26)"
+      ],
+      "ambito": "llegada y reconocimiento",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se identifica explícitamente la pirámide con la ciudad Ezlat. El mapa orienta hacia el área, pero el nombre del destino continúa siendo provisional."
+    },
+    {
+      "id": "26-014",
+      "titulo": "Pociones de la nieta y cesión a Poncelot",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Pinky pide un pago por guiar y ofrece las pociones de su nieta a un precio elevado. Menciona cinco mil monedas durante la negociación, sin una venta concluida. Nox e Ione consiguen una primera muestra gratis y el tigre recibe otra. La anciana se la niega al gnomo porque la llama bruja. Ione cede discretamente su poción a Poncelot. Nox lleva antitoxina y comenta su utilidad contra el veneno.",
+      "inicio": "01:08:30.000",
+      "fin": "01:15:20.000",
+      "cita": "le doy mi poción al calvo",
+      "evidencia_cue": {
+        "inicio": "01:14:47.960",
+        "fin": "01:14:49.990",
+        "texto": "Nada, me voy sin que la señora me vea, ¿veres que le doy mi poción al calvo? Y"
+      },
+      "entidades": [
+        "Pinky / Pinki (grafía provisional)",
+        "Nieta de Pinky (sin nombre en pasaje)",
+        "Nox",
+        "Ione",
+        "Sir Poncelot",
+        "Tigre Merlucilla IV"
+      ],
+      "ambito": "pociones y transferencia",
+      "conocedores": [
+        "Ione",
+        "Sir Poncelot"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se identifican los efectos de las muestras. Colocar una dosis en las riendas del tigre no confirma que la ingiera."
+    },
+    {
+      "id": "26-015",
+      "titulo": "Historia del mapa y collar oculto en mango",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Nox explica que los atacantes reclamaban un collar. Ione pregunta si es el que causó su conflicto con Bonnie, sin obtener confirmación. Poncelot aclara que encontró el mapa en un cofre de piedra de un templo que llama de magos oscuros, con una arlequina blanca y negra, no de la Marina. Blink muestra el collar que oculta en un mango podrido. Sisea, le causó un impacto mental y ella quiere devolverlo allí. Nox recuerda que esas criaturas hablan directamente a la mente y recomienda que siga guardándolo.",
+      "inicio": "01:15:00.000",
+      "fin": "01:20:40.000",
+      "cita": "Estaba en un cofre de piedra",
+      "evidencia_cue": {
+        "inicio": "01:17:06.199",
+        "fin": "01:17:09.629",
+        "texto": "se pone también vieja. Así. [risas] Estaba en un cofre de piedra, en un"
+      },
+      "entidades": [
+        "Nox",
+        "Ione",
+        "Sir Poncelot",
+        "Mapa de Poncelot (destino Ezlat provisional)",
+        "Arlequina blanca y negra (sin nombre en pasaje)",
+        "Blink / Blank",
+        "Collar de Blink"
+      ],
+      "ambito": "antecedentes compartidos",
+      "conocedores": [
+        "Nox",
+        "Ione",
+        "Sir Poncelot",
+        "Blink / Blank"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La pregunta de Ione no identifica el objeto con el collar de cuatro gemas. El poseedor explica el origen del mapa."
+    },
+    {
+      "id": "26-016",
+      "titulo": "Estatuas de ojos vacíos y puerta sin cerradura",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Blink busca otra entrada por la cara cercana de la pirámide, sin encontrarla. Ione y Nox examinan unas estatuas serpentinas con los ojos huecos. Ione introduce el mango en uno de ellos sin reacción. La puerta es una pared de piedra con un marco serpentino, sin cerradura. Discuten si atacar o esperar a que alguien salga. Nox utiliza el manuscrito, caligrafía y Comprender lenguajes. Un crítico le permite reconocer la palabra ojos repetida en el manuscrito y el pedestal.",
+      "inicio": "01:20:00.000",
+      "fin": "01:31:55.000",
+      "cita": "la palabra en avisal de ojos",
+      "evidencia_cue": {
+        "inicio": "01:31:50.520",
+        "fin": "01:31:56.189",
+        "texto": "repite mucho esa palabra? Es la palabra en avisal de ojos."
+      },
+      "entidades": [
+        "Blink / Blank",
+        "Ione",
+        "Nox",
+        "Pirámide de hombres serpiente (expedición26)",
+        "Órdenes abisales de ataque a Shiaru"
+      ],
+      "ambito": "puzle de entrada",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La fruta no abre la puerta. Tampoco se demuestra que las monedas funcionen como un pago mágico específico."
+    },
+    {
+      "id": "26-017",
+      "titulo": "Nox activa las estatuas y siente picor en la espalda",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Nox coloca monedas en los huecos. Caen cuando la estatua le devuelve la mirada; los ojos se iluminan y él siente picor y molestias en la espalda. Repite el procedimiento ante otra estatua. Los cuatro ojos brillan y el marco serpentino se mueve y abre la puerta. Ione examina su espalda sin apreciar un cambio nuevo claro. Nox dice que los tatuajes son un recuerdo de su antiguo capitán. El grupo entra y la puerta se cierra detrás.",
+      "inicio": "01:31:00.000",
+      "fin": "01:37:40.000",
+      "cita": "los cuatro ojos están brillando",
+      "evidencia_cue": {
+        "inicio": "01:36:06.119",
+        "fin": "01:36:09.070",
+        "texto": "Y escucháis en ese momento cuando los dos los cuatro ojos están brillando,"
+      },
+      "entidades": [
+        "Nox",
+        "Ione",
+        "Tatuajes de espalda de Nox",
+        "Pirámide de hombres serpiente (expedición26)"
+      ],
+      "ambito": "activación y síntoma",
+      "conocedores": [
+        "Nox",
+        "Ione",
+        "Blink / Blank",
+        "Sir Poncelot",
+        "Pinky / Pinki (grafía provisional)"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Las monedas se recuperan después de caer. Nox no adquiere un tatuaje nuevo aquí ni se demuestra que el mecanismo dependa exclusivamente del oro."
+    },
+    {
+      "id": "26-018",
+      "titulo": "Altar, collar reactivo y pasos bajo estatuas",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "La sala tiene un altar con huesos, sangre y un cuchillo oxidado, además de antorchas recientes y estatuas. Blink resiste un efecto mental. El collar vibra y sisea dentro de la fruta, y continúa cuando se retira; no responde específicamente al aproximarlo a las estatuas. Ione tapa los ojos con su chaqueta y salta sobre las estructuras. Poncelot y el tigre pasan por debajo y Blink vuela. Nox lee las palabras ofrenda, gran señor y gran sierpe, sin reconstruir el texto completo.",
+      "inicio": "01:37:00.000",
+      "fin": "01:45:55.000",
+      "cita": "ofrenda",
+      "evidencia_cue": {
+        "inicio": "01:45:14.760",
+        "fin": "01:45:17.950",
+        "texto": "palabras sin avisal que puedes entender algunas, ¿sabes? Como ofrenda, eh, un"
+      },
+      "entidades": [
+        "Collar de Blink",
+        "Blink / Blank",
+        "Ione",
+        "Sir Poncelot",
+        "Tigre Merlucilla IV",
+        "Nox",
+        "Pirámide de hombres serpiente (expedición26)"
+      ],
+      "ambito": "altar y precauciones",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La función de las estatuas como trampas se confirma al desactivarlas después. El deseo de Blink de devolver el collar no implica que lo entregue."
+    },
+    {
+      "id": "26-019",
+      "titulo": "Trampas desactivadas y una voz tras verter sangre",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Nox repite el procedimiento de las miradas y las monedas ante las estatuas interiores. Sus ojos brillan, la espalda vuelve a molestarle y se oyen mecanismos. Pinky cruza sus miradas sin sufrir daño: las trampas están desactivadas. Nox avisa a Blink mediante Mensaje y ella se aproxima. Se corta la mano y vierte sangre en el altar. El collar amenaza la mente de Blink, pero ella resiste. Nox oye siseos en abisal que cree que pasan a común, reconociéndolo y llamándolo a acercarse. Cuenta a Blink que la sierpe cautiva del fuerte le habló como si lo conociera.",
+      "inicio": "01:46:00.000",
+      "fin": "01:53:55.000",
+      "cita": "Eres tú, ya estás aquí",
+      "evidencia_cue": {
+        "inicio": "01:52:43.599",
+        "fin": "01:52:45.510",
+        "texto": "y empieza a decirte, \"Eres tú, ya estás aquí,"
+      },
+      "entidades": [
+        "Nox",
+        "Blink / Blank",
+        "Pinky / Pinki (grafía provisional)",
+        "Tatuajes de espalda de Nox",
+        "Collar de Blink",
+        "Susurradora de cárcel (sierpe recordada)"
+      ],
+      "ambito": "mecanismos y llamada privada",
+      "conocedores": [
+        "Nox",
+        "Blink / Blank"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Blink supone que un dios venerado gana poder, pero no se confirma la divinidad o identidad de la voz. Sentir algo semejante no demuestra que todos los hablantes sean la misma entidad."
+    },
+    {
+      "id": "26-020",
+      "titulo": "Puertas cuñadas y corriente de aire",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Ione oye pasos y habla en abisal detrás de una puerta. Poncelot oye la respiración de alguien dormido y zarpas tras otra. Introducen antorchas apagadas bajo las puertas de piedra como cuñas para impedir que salgan sus ocupantes. Nox y Blink recorren otra ala para reunirse y detectan una corriente de aire en una pared con ayuda de una pluma. El suelo parece normal y no abren un paso oculto.",
+      "inicio": "01:54:00.000",
+      "fin": "02:01:55.000",
+      "cita": "una leve corriente de aire",
+      "evidencia_cue": {
+        "inicio": "02:01:37.920",
+        "fin": "02:01:39.669",
+        "texto": "haber algo. Hay una leve corriente de aire."
+      },
+      "entidades": [
+        "Ione",
+        "Sir Poncelot",
+        "Nox",
+        "Blink / Blank",
+        "Pirámide de hombres serpiente (expedición26)"
+      ],
+      "ambito": "exploración en dos grupos",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No inspeccionan completamente las habitaciones ni identifican a sus ocupantes por los sonidos. Las cuñas no garantizan un bloqueo permanente."
+    },
+    {
+      "id": "26-021",
+      "titulo": "El guardia poseído invita a Nox y reconoce el collar",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Nox ve una cabeza de serpiente en la pared y a dos guardias. Se presenta como Jim Hawkins y pide a Ione por Mensaje que permanezca quieta. Los ojos de un guardia cambian de verde a rojo y su cuerpo queda rígido como un títere. Afirma que sabe que llevan el collar e invita a entrar a Nox y sus amigos; después vuelve a la normalidad. El grupo llega ante un trono, charcos descritos como veneno y un hombre serpiente de ojos rojos. Nox pide a Ione que evacúe al grupo si es necesario, pero ella se niega a abandonarlo. El tigre queda fuera por su tamaño. Nox lanza Libertad de movimiento discretamente.",
+      "inicio": "02:02:00.000",
+      "fin": "02:08:55.000",
+      "cita": "Sé que también está aquí el collar",
+      "evidencia_cue": {
+        "inicio": "02:04:58.719",
+        "fin": "02:05:03.669",
+        "texto": "empieza a mover la boca. Sas empieza. Sé que también está aquí el collar."
+      },
+      "entidades": [
+        "Nox / Jim Hawkins",
+        "Ione",
+        "Blink / Blank",
+        "Sir Poncelot",
+        "Pinky / Pinki (grafía provisional)",
+        "Tigre Merlucilla IV",
+        "Guardia de ojos rojos (títere)",
+        "Hombre serpiente del trono",
+        "Collar de Blink"
+      ],
+      "ambito": "recepción y preparación",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Se observan los cambios de ojos y cuerpo, pero no se identifica al controlador."
+    },
+    {
+      "id": "26-022",
+      "titulo": "El anfitrión necesita lo que Nox lleva en la espalda",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "El hombre serpiente afirma que alguien más importante busca a Nox y necesita lo que lleva en la espalda, aunque él no había pisado la isla. Nox lo describe como un recuerdo de alguien a quien no ve desde hace años y sospecha un ritual. Ione no quiere perderlo. El anfitrión detiene a las bestias, hace una reverencia y lo invita a sentarse, llamándolo nuestro Señor. Blink lee un pensamiento superficial sobre la llegada de ese Señor, sin descubrir una trampa o finalidad.",
+      "inicio": "02:09:00.000",
+      "fin": "02:15:55.000",
+      "cita": "No sabes nada lo que tienes a tu espalda",
+      "evidencia_cue": {
+        "inicio": "02:10:48.920",
+        "fin": "02:10:51.950",
+        "texto": "No sabes nada lo que tienes a tu espalda."
+      },
+      "entidades": [
+        "Nox",
+        "Tatuajes de espalda de Nox",
+        "Hombre serpiente del trono",
+        "Ione",
+        "Blink / Blank"
+      ],
+      "ambito": "afirmaciones del anfitrión y lectura mental",
+      "conocedores": [
+        "Nox",
+        "Ione",
+        "Blink / Blank",
+        "Sir Poncelot",
+        "Pinky / Pinki (grafía provisional)"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Señor es el trato del anfitrión, no una coronación confirmada ni una identificación de Nox con un dios. La lectura verifica el pensamiento, no su verdad objetiva."
+    },
+    {
+      "id": "26-023",
+      "titulo": "Nox finge sentarse y se desencadena una agresión",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Nox apoya las manos en el trono y utiliza Imagen mayor para proyectarse sentado, coordinando los movimientos sin ocupar realmente el asiento. El anfitrión no descubre la ilusión y sonríe. Los hombres serpiente sacan sus armas y avanzan hacia Pinky y Blink; las bestias se dirigen a los otros compañeros. El episodio termina antes de resolver el combate o los efectos reales del trono.",
+      "inicio": "02:15:00.000",
+      "fin": "02:19:55.000",
+      "cita": "se cree que te has sentado",
+      "evidencia_cue": {
+        "inicio": "02:17:23.559",
+        "fin": "02:17:27.870",
+        "texto": "Pues no lo va a ver. Así que de momento se cree que te has sentado y sonríe. Y"
+      },
+      "entidades": [
+        "Nox",
+        "Hombre serpiente del trono",
+        "Ione",
+        "Blink / Blank",
+        "Pinky / Pinki (grafía provisional)",
+        "Sir Poncelot",
+        "Trono de pirámide (expedición26)"
+      ],
+      "ambito": "engaño y amenaza final",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "El cierre no confirma que se complete un ritual ni que Nox quede atrapado en el asiento."
+    }
+  ]
+}

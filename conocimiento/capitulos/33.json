@@ -1,0 +1,576 @@
+{
+  "capitulo": 33,
+  "estado_revision": "revisado",
+  "resumen": "Nox pide a Jack que reúna un grupo para buscar un refugio al que trasladar a Citlali, oculta en un lugar que no revela a Poncelot. Bonnie calma la disputa entre el gnomo y Eleanor mediante una ficción cortesana. Eleanor aclara después que procede de Aragón y cuenta a Nox que busca expandir su reino, objetivo que ocultó a Bonnie. La brújula guía al grupo a una cueva y cambia de rumbo según los deseos de Nox. Unas plantas atacan y matan a Margaret. Morris huye y los demás derrotan a las criaturas. Llegan a un campamento caníbal donde sedan a Poncelot y lo preparan como comida. Tres hipopótamos, Mingo, Mango y Mungo, resultan ser antiguos tripulantes de Nox que se convirtieron en líderes de los caníbales tras caer al mar. Nox negocia la liberación del gnomo y dirige a los caníbales hacia el cadáver de Margaret; Axi también termina atado como ofrenda. Consigue escapar de una hoguera y recuperan a Poncelot. Los hipopótamos tienen una piedra rota que recibieron de alguien que saltó por un acantilado para buscar comida. Eleanor guía el regreso. Pasan junto a los caníbales que han despiezado a Margaret. No seleccionan un refugio ni trasladan a Citlali.",
+  "misiones": [
+    "Buscar un refugio para Citlali: Nox encuentra una cueva peligrosa y a sus aliados hipopótamos. Parten hacia Shiaru sin elegir un refugio ni trasladarla (33-006, 33-009 y 33-019).",
+    "Rescatar a Poncelot y Axi: el gnomo sobrevive a la sedación y Axi escapa de su cautiverio. Margaret muere y es despedazada; Morris huye (33-012–33-019).",
+    "Expandir Aragón: Eleanor declara su objetivo a Nox y lo oculta a Bonnie. No ejecuta ninguna conquista (33-010)."
+  ],
+  "preguntas": [
+    "¿Qué le ocurrió a Axi durante la noche entre los cadáveres? Tiene amnesia y sospechas, sin confirmación (33-001).",
+    "¿Quién entregó la piedra rota a los hipopótamos y dónde está? Según ellos, saltó por un acantilado (33-018).",
+    "¿Dónde esconde Nox a Citlali y qué peligro teme? No revela su ubicación en el encargo (33-006).",
+    "¿Qué ocurre con Morris después de huir y cómo informarán de la muerte de Margaret? No se muestra el desenlace (33-012–33-014)."
+  ],
+  "contradicciones": [
+    "Bonnie inventa el reino de Móstoles. Eleanor aclara después que procede de Aragón (33-004 y 33-007).",
+    "Imagen mayor engaña inicialmente a las plantas, pero el director corrige que su visión ciega permite reconocer la ilusión (33-013–33-014).",
+    "La brújula cambia de rumbo cuando Nox desea ron. No señala un norte fijo ni exclusivamente un refugio (33-017).",
+    "Se mencionan hipopótamos mudos o sordos y después uno ciego. No se asignan esas condiciones a individuos concretos sin confirmación (33-018–33-019)."
+  ],
+  "nombres_dudosos": [
+    "Margaret/Marga es una trabajadora local y Margarita su supuesta hermana gemela. No se fusionan sin evidencias.",
+    "Morris es el pirata que duerme y después huye, distinto del reclutador Jack.",
+    "Eleanor confirma su procedencia de Aragón. Móstoles forma parte de una ficción.",
+    "Mingo, Mango y Mungo son las grafías provisionales de los tres hipopótamos tripulantes."
+  ],
+  "fuente_sha256": "162b6465be47db37d55297c47f22591bc374054cbcc7c8b7765a72a67b0b14a3",
+  "afirmaciones": [
+    {
+      "id": "33-001",
+      "titulo": "Axi despierta sin memoria entre cadáveres",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Axi cuenta que despertó en la jungla sin recordar la noche, rodeado de animales destrozados y parcialmente comidos que formaban un camino hasta él. Está preocupado y cree intuir la causa, pero no la confirma. Poncelot refiere que defendió el lugar que considera juzgados de Liz durante el ataque de quienes llama magos oscuros. Eleanor descansó después de la batalla y pierde cinco monedas de oro por la tabla.",
+      "inicio": "00:04:00.000",
+      "fin": "00:07:50.000",
+      "cita": "sin recuerdos de lo que pasó",
+      "evidencia_cue": {
+        "inicio": "00:05:00.400",
+        "fin": "00:05:02.070",
+        "texto": "sin sin recuerdos de lo que pasó en la noche con"
+      },
+      "entidades": [
+        "Axi / Chochi (identificación contextual provisional)",
+        "Sir Poncelot",
+        "Eleanor de Aragón / Roosevelt (grafía e identidad nominal por aclarar)",
+        "Liz"
+      ],
+      "ambito": "recapitulaciones",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Las sospechas no confirman licantropía ni la autoría de las matanzas."
+    },
+    {
+      "id": "33-002",
+      "titulo": "Jack recluta Poncelot en Zampaolas",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "La capitana Ione ha expulsado del Zampaolas a buena parte de quienes dormían allí. Pix sirve como vino la sangre de la cabeza de un marine. Jack, exmarine cercano a Nox, busca voluntarios para una expedición. Poncelot llama corcel a su tigre, Merlucilla IV.",
+      "inicio": "00:08:00.000",
+      "fin": "00:12:40.000",
+      "cita": "Merlucilla cuarto",
+      "evidencia_cue": {
+        "inicio": "00:11:30.240",
+        "fin": "00:11:33.990",
+        "texto": "en el establo con mi nombre es mi glorioso eh Merlucilla cuarto. Un corcel"
+      },
+      "entidades": [
+        "Zampaolas",
+        "Ione",
+        "Jack / Jacki (grafía provisional)",
+        "Nox",
+        "Pix",
+        "Sir Poncelot",
+        "Merlucilla IV (tigre)"
+      ],
+      "ambito": "reclutamiento",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": ""
+    },
+    {
+      "id": "33-003",
+      "titulo": "Reclutamiento y acusación a Eleanor",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Poncelot acusa a Eleanor de ser un caballero negro por su armadura. Ella niega pertenecer a una secta y afirma servir a la corona de un reino lejano. Jack dice haber perdido su familia y trabajo al dejar la Marina por Nox. Recluta a Axi, que acepta por la importancia de Nox. Axi compra flechas.",
+      "inicio": "00:12:30.000",
+      "fin": "00:21:50.000",
+      "cita": "Ha sido una persona muy importante para mí",
+      "evidencia_cue": {
+        "inicio": "00:20:26.320",
+        "fin": "00:20:28.950",
+        "texto": "podría negar a Nox. Ha sido una persona muy importante para mí."
+      },
+      "entidades": [
+        "Sir Poncelot",
+        "Eleanor de Aragón / Roosevelt (grafía e identidad nominal por aclarar)",
+        "Jack / Jacki (grafía provisional)",
+        "Axi / Chochi (identificación contextual provisional)",
+        "Nox"
+      ],
+      "ambito": "reclutamiento y opiniones",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La acusación de Poncelot no demuestra una afiliación de Eleanor como caballero oscuro."
+    },
+    {
+      "id": "33-004",
+      "titulo": "Bonnie sostiene ficción cortesana",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Bonnie calma la discusión presentando a Eleanor como enviada del reino de Móstoles, aliado de una reina ficticia nombrada entre bromas. Respalda a ambos como caballeros y Eleanor acepta seguir la ficción. Después Bonnie expulsa a Nox contra la pared y advierte que es la última vez.",
+      "inicio": "00:22:00.000",
+      "fin": "00:27:50.000",
+      "cita": "del reino de Móstoles",
+      "evidencia_cue": {
+        "inicio": "00:24:36.919",
+        "fin": "00:24:44.630",
+        "texto": "y ves que el de al lado le dice le dice Móstoles dice del reino de Móstoles."
+      },
+      "entidades": [
+        "Happy Bonnie / Bonny (grafía provisional)",
+        "Sir Poncelot",
+        "Eleanor de Aragón / Roosevelt (grafía e identidad nominal por aclarar)",
+        "Nox"
+      ],
+      "ambito": "ficción cortesana y expulsión",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Móstoles forma parte del engaño y las bromas, no de un reino confirmado. Después se aclara Aragón."
+    },
+    {
+      "id": "33-005",
+      "titulo": "Margaret y Morris se suman",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Nox revisa el equipo con Poncelot, Axi y Eleanor. Se suma Margaret/Marga, una trabajadora que quiere ganar dinero y ser pirata, junto a un pirata llamado después Morris. Jack recibe la instrucción de no llamar capitán a Nox. Ante una reclamación personal de Nox, Marga afirma tener una hermana gemela llamada Margarita.",
+      "inicio": "00:28:00.000",
+      "fin": "00:35:50.000",
+      "cita": "Lady Margaret",
+      "evidencia_cue": {
+        "inicio": "00:34:52.760",
+        "fin": "00:34:54.790",
+        "texto": "pecho. Voy aquí. Ay, Lady Margaret, hace tiempo que no te"
+      },
+      "entidades": [
+        "Nox",
+        "Margaret / Marga (trabajadora de Liz)",
+        "Margarita (hermana gemela declarada)",
+        "Morris (pirata, grafía provisional)",
+        "Jack / Jacki (grafía provisional)"
+      ],
+      "ambito": "formación del equipo",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La existencia de la gemela y la enfermedad comentada no reciben confirmación del narrador ni un diagnóstico."
+    },
+    {
+      "id": "33-006",
+      "titulo": "Buscar refugio para Citlali oculta",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Nox explica que Citlali está oculta y necesitan un lugar seguro para trasladarla. Ante Poncelot la presenta como reina de las hadas y el gnomo cree reconocer a Titania. Muestra una brújula recibida de cierta persona, que apunta a una guarida posiblemente hostil. Asigna tareas de cobertura, infiltración, combate y seducción.",
+      "inicio": "00:36:00.000",
+      "fin": "00:40:20.000",
+      "cita": "un sitio seguro para trasladar",
+      "evidencia_cue": {
+        "inicio": "00:38:36.720",
+        "fin": "00:38:41.670",
+        "texto": "Hay que buscar un sitio seguro para trasladar a la a la a la señora Cindali."
+      },
+      "entidades": [
+        "Nox",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Sir Poncelot",
+        "Brújula de deseos de Nox"
+      ],
+      "ambito": "encargo al grupo",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se confirma que Citlali sea Titania ni se revela dónde está."
+    },
+    {
+      "id": "33-007",
+      "titulo": "Se aclara Aragón y farsa de Titania",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Nox busca a Ione sin encontrarla. Morris duerme y Marga lo arrastra; Poncelot recoge al tigre. Nox explica a Eleanor que siguen las creencias del gnomo porque les resultan útiles. Ella aclara que su reino es Aragón y que Bonnie inventó Móstoles. Salen hacia la jungla.",
+      "inicio": "00:40:00.000",
+      "fin": "00:46:40.000",
+      "cita": "provengo de un reino llamado Aragón",
+      "evidencia_cue": {
+        "inicio": "00:46:26.200",
+        "fin": "00:46:30.109",
+        "texto": "pueda y si me permites corregir, provengo de un reino llamado Aragón."
+      },
+      "entidades": [
+        "Nox",
+        "Ione",
+        "Eleanor de Aragón / Roosevelt (grafía e identidad nominal por aclarar)",
+        "Sir Poncelot",
+        "Morris (pirata, grafía provisional)",
+        "Margaret / Marga (trabajadora de Liz)",
+        "Aragón"
+      ],
+      "ambito": "aclaración privada y partida",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": ""
+    },
+    {
+      "id": "33-008",
+      "titulo": "Frutas alteran exploradores",
+      "tipo": "explicacion_director",
+      "afirmacion": "Las frutas permiten a Marga hablar con plantas y a Poncelot utilizar Paso brumoso tres veces durante el día. Axi no deja huellas. Eleanor permanece invisible durante la partida, aunque los objetos que arroja pierden el efecto. Nox recibe un punto adicional de daño de cada fuente y revela la silueta de Eleanor utilizando líquido de una fruta.",
+      "inicio": "00:48:00.000",
+      "fin": "00:54:20.000",
+      "cita": "Tus pasos no dejan",
+      "evidencia_cue": {
+        "inicio": "00:49:33.599",
+        "fin": "00:49:36.309",
+        "texto": "Tus pasos no dejan cuellos."
+      },
+      "entidades": [
+        "Margaret / Marga (trabajadora de Liz)",
+        "Sir Poncelot",
+        "Axi / Chochi (identificación contextual provisional)",
+        "Eleanor de Aragón / Roosevelt (grafía e identidad nominal por aclarar)",
+        "Nox"
+      ],
+      "ambito": "efectos temporales de fruta",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Son efectos temporales, no habilidades permanentes ni nuevas clases."
+    },
+    {
+      "id": "33-009",
+      "titulo": "Cueva y exploración sin luz",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "La brújula cambia de rumbo cuando Nox termina la botella. Llegan a una montaña junto al mar y una cueva, dejando al tigre fuera. Nox envía a Poncelot y Axi, que como humano no puede ver en la oscuridad. Axi tropieza y hace ruido; unas cartas hacen resbalar al gnomo.",
+      "inicio": "00:54:00.000",
+      "fin": "01:05:50.000",
+      "cita": "No veo nada",
+      "evidencia_cue": {
+        "inicio": "01:04:26.119",
+        "fin": "01:04:28.109",
+        "texto": "sigilo? Sigilo. No veo nada."
+      },
+      "entidades": [
+        "Brújula de deseos de Nox",
+        "Cueva del campamento caníbal",
+        "Nox",
+        "Sir Poncelot",
+        "Axi / Chochi (identificación contextual provisional)",
+        "Merlucilla IV (tigre)"
+      ],
+      "ambito": "exploración",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": ""
+    },
+    {
+      "id": "33-010",
+      "titulo": "Eleanor revela expansión territorial",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Fuera de la cueva, Eleanor cuenta en privado a Nox que busca información para expandir su reino, conquistar lo que pueda y volver con más gente para el resto. No reveló ese propósito a Bonnie. Nox entra con una antorcha, seguido de Eleanor, Marga y Morris. Dice a Eleanor que Axi es el miembro más prescindible.",
+      "inicio": "01:06:00.000",
+      "fin": "01:10:40.000",
+      "cita": "Buscamos expandir el reino",
+      "evidencia_cue": {
+        "inicio": "01:06:39.359",
+        "fin": "01:06:41.990",
+        "texto": "Para que lo entiendas. Buscamos expandir el reino."
+      },
+      "entidades": [
+        "Eleanor de Aragón / Roosevelt (grafía e identidad nominal por aclarar)",
+        "Nox",
+        "Aragón",
+        "Happy Bonnie / Bonny (grafía provisional)"
+      ],
+      "ambito": "conversación reservada",
+      "conocedores": [
+        "Eleanor de Aragón / Roosevelt (grafía e identidad nominal por aclarar)",
+        "Nox"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Es un objetivo declarado de conquista, no una invasión lograda ni un ejército desembarcado."
+    },
+    {
+      "id": "33-011",
+      "titulo": "Plantas atacan al intentar hoguera",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Los exploradores descartan una enredadera común y una piedra como amenazas. En una sala con vegetación intentan encender una hoguera. Las enredaderas dañan y sujetan a Poncelot, pero fallan contra Axi. Una carta deja sordo a Nox durante un minuto. Cuando llegan a la sala, todos ven dos plantas enormes.",
+      "inicio": "01:10:00.000",
+      "fin": "01:24:50.000",
+      "cita": "unas enredaderas te van a intentar golpear",
+      "evidencia_cue": {
+        "inicio": "01:17:55.679",
+        "fin": "01:17:59.470",
+        "texto": "unas enredaderas te van a intentar golpear."
+      },
+      "entidades": [
+        "Sir Poncelot",
+        "Axi / Chochi (identificación contextual provisional)",
+        "Nox",
+        "Plantas de cueva caníbal"
+      ],
+      "ambito": "emboscada vegetal",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": ""
+    },
+    {
+      "id": "33-012",
+      "titulo": "Margaret muere y Morris despierta",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Marga intenta salvar a Poncelot, pero una planta la golpea y destroza hasta matarla. Eleanor lanza jabalinas invisible; después la agarran, aunque consigue liberarse. Nox despierta a Morris mediante una falsa orden de Bonnie de despejar la cueva. El pirata ataca y se acobarda. Axi utiliza su arco venenoso y Poncelot escapa de las raíces.",
+      "inicio": "01:24:00.000",
+      "fin": "01:34:50.000",
+      "cita": "la pobre mujer está como hecha caldo",
+      "evidencia_cue": {
+        "inicio": "01:25:37.960",
+        "fin": "01:25:40.229",
+        "texto": "dos vueltas que la pobre mujer está como hecha caldo."
+      },
+      "entidades": [
+        "Margaret / Marga (trabajadora de Liz)",
+        "Morris (pirata, grafía provisional)",
+        "Nox",
+        "Eleanor de Aragón / Roosevelt (grafía e identidad nominal por aclarar)",
+        "Sir Poncelot",
+        "Axi / Chochi (identificación contextual provisional)"
+      ],
+      "ambito": "muerte y combate",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "El cuerpo y su despedazamiento posterior corroboran la muerte de Margaret. No resucita."
+    },
+    {
+      "id": "33-013",
+      "titulo": "Ilusión de fuego, furia y primera planta muerta",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Nox crea una imagen mayor de fuego que inicialmente altera el comportamiento de las plantas. Nox cura a Poncelot. Axi invoca un pájaro espiritual. Una carta da al gnomo furia durante un turno y él utiliza Acción súbita. Eleanor detiene la retirada de una planta mediante Sentinel. Morris huye. Axi mata a la primera planta con una flecha crítica.",
+      "inicio": "01:34:00.000",
+      "fin": "01:49:50.000",
+      "cita": "un gran fuego",
+      "evidencia_cue": {
+        "inicio": "01:36:01.560",
+        "fin": "01:36:05.790",
+        "texto": "lo que me dices tú que qué podría ocupar. Quiero hacer un gran fuego."
+      },
+      "entidades": [
+        "Nox",
+        "Sir Poncelot",
+        "Axi / Chochi (identificación contextual provisional)",
+        "Eleanor de Aragón / Roosevelt (grafía e identidad nominal por aclarar)",
+        "Morris (pirata, grafía provisional)",
+        "Plantas de cueva caníbal"
+      ],
+      "ambito": "combate y huida",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "El fuego es ilusorio, no un incendio. La furia de la carta dura un turno."
+    },
+    {
+      "id": "33-014",
+      "titulo": "Segunda planta vencida y corrección de visión",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Poncelot hiere a la planta con su mocho sucio, cuyo daño se duplica por la vulnerabilidad al veneno. Eleanor cura y combate; Axi no consigue enredarla. Nox dispara, recarga y cura. El director corrige que la visión ciega permite reconocer la ilusión de fuego. Eleanor mata a la segunda planta. Margaret queda como un cadáver destrozado.",
+      "inicio": "01:50:00.000",
+      "fin": "02:05:00.000",
+      "cita": "sé que esto es una ilusión",
+      "evidencia_cue": {
+        "inicio": "01:57:10.800",
+        "fin": "01:57:13.470",
+        "texto": "tengo blinsight, sé que esto es una ilusión."
+      },
+      "entidades": [
+        "Sir Poncelot",
+        "Eleanor de Aragón / Roosevelt (grafía e identidad nominal por aclarar)",
+        "Axi / Chochi (identificación contextual provisional)",
+        "Nox",
+        "Margaret / Marga (trabajadora de Liz)",
+        "Plantas de cueva caníbal"
+      ],
+      "ambito": "combate y corrección",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Después de la corrección, la ilusión no sigue proporcionando una ventaja o cobertura eficaz."
+    },
+    {
+      "id": "33-015",
+      "titulo": "Campamento caníbal seda Poncelot",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "El grupo sigue la brújula y el sonido de tambores. Poncelot entra abiertamente en un campamento con carne asada, muchos caníbales armados y un líder tatuado. Un dardo de cerbatana lo duerme y lo arrastran para comérselo. Los demás permanecen ocultos y Eleanor invisible. Tres hipopótamos sentados en un trono ordenan que traigan comida y música.",
+      "inicio": "02:06:00.000",
+      "fin": "02:12:50.000",
+      "cita": "una cerbatana",
+      "evidencia_cue": {
+        "inicio": "02:10:33.520",
+        "fin": "02:10:37.549",
+        "texto": "y se te clava aquí como que han tirado con una cerbatana y"
+      },
+      "entidades": [
+        "Sir Poncelot",
+        "Campamento caníbal de la cueva",
+        "Caníbales de la cueva",
+        "Tres hipopótamos de Nox",
+        "Eleanor de Aragón / Roosevelt (grafía e identidad nominal por aclarar)"
+      ],
+      "ambito": "captura",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La interpretación de Poncelot no confirma que hayan encontrado El Dorado."
+    },
+    {
+      "id": "33-016",
+      "titulo": "Mingo, Mango y Mungo reconocen capitán",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Nox reconoce a Mingo, Mango y Mungo, tres hipopótamos de su tripulación que lo llaman capitán. Dicen que cayeron al mar antes de llegar a la isla y convencieron a los caníbales que querían comérselos, convirtiéndose en sus líderes. Nox detiene la preparación de Poncelot como comida. Envía a los caníbales a la cueva, ofreciendo el cadáver de Margaret como alimento y las plantas como especias.",
+      "inicio": "02:14:00.000",
+      "fin": "02:20:40.000",
+      "cita": "Mingo, mango y Mungo",
+      "evidencia_cue": {
+        "inicio": "02:15:05.000",
+        "fin": "02:15:08.510",
+        "texto": "hijos de la gran Mingo, mango y Mungo sabía que estaban"
+      },
+      "entidades": [
+        "Nox",
+        "Mingo, Mango y Mungo (hipopótamos, grafía provisional)",
+        "Sir Poncelot",
+        "Margaret / Marga (trabajadora de Liz)",
+        "Caníbales de la cueva"
+      ],
+      "ambito": "reencuentro y negociación",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La caída al mar y su ascenso proceden del relato de los hipopótamos, no de escenas presenciadas completas."
+    },
+    {
+      "id": "33-017",
+      "titulo": "Axi capturado y Poncelot despierto",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Axi observa mediante el pájaro, pero lo descubren y lo llevan atado como ofrenda. Nox pide especias para distraer a los caníbales y libera y carga a Poncelot. Un hipopótamo despierta al gnomo con una bofetada. Nox presenta a los aliados como servidores de Ione. La brújula apunta a Shiaru cuando desea ron.",
+      "inicio": "02:20:00.000",
+      "fin": "02:28:40.000",
+      "cita": "Lo que más desea es Ron",
+      "evidencia_cue": {
+        "inicio": "02:24:16.439",
+        "fin": "02:24:19.030",
+        "texto": "adentro del todo. Lo que más desea es Ron. Vale."
+      },
+      "entidades": [
+        "Axi / Chochi (identificación contextual provisional)",
+        "Nox",
+        "Sir Poncelot",
+        "Mingo, Mango y Mungo (hipopótamos, grafía provisional)",
+        "Brújula de deseos de Nox",
+        "Ione"
+      ],
+      "ambito": "cautiverio y rescate parcial",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Nox no se convierte en un alma invisible: la voz posterior corresponde a Eleanor. La brújula responde al deseo declarado, no a un norte fijo."
+    },
+    {
+      "id": "33-018",
+      "titulo": "Piedra rota y proveedor desaparecido",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Los hipopótamos dicen que alguien les entregó una piedra y saltó por un acantilado para buscar comida, sin regresar. La golpean y saltan tornillos. Nox la examina sin determinar su función. Quiere encontrar a cierta persona y volver a Shiaru. Pide que no lo llamen capitán para evitar el enfado de Ione.",
+      "inicio": "02:28:00.000",
+      "fin": "02:32:40.000",
+      "cita": "saltar tornillitos",
+      "evidencia_cue": {
+        "inicio": "02:29:51.080",
+        "fin": "02:29:53.309",
+        "texto": "le empieza a pegar al su. Pum, pum, pum. Que empieza a saltar tornillitos y dice,"
+      },
+      "entidades": [
+        "Mingo, Mango y Mungo (hipopótamos, grafía provisional)",
+        "Nox",
+        "Piedra con tornillos de proveedor desconocido",
+        "Proveedor de piedra (sin identificar)",
+        "Ione"
+      ],
+      "ambito": "objeto y testimonio",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se identifica al proveedor ni se demuestra que sea una piedra de enviar funcional."
+    },
+    {
+      "id": "33-019",
+      "titulo": "Hoguera y salida con hipopótamos",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Los hipopótamos cargan a Nox y Poncelot sin conocer el camino. Eleanor ata una cuerda a su mano para guiarlos mientras está invisible. Un cigarrillo prende una hoguera cerca de Axi, que sigue atado de manos. Él salta y escapa, y golpea a Nox mientras este finge dormir. Un hipopótamo descrito como ciego parece percibir o tocar a Eleanor. Pasan junto a los caníbales que han despiezado a Margaret y parten hacia Shiaru.",
+      "inicio": "02:32:00.000",
+      "fin": "02:38:55.000",
+      "cita": "paquetitos de carnicería",
+      "evidencia_cue": {
+        "inicio": "02:38:40.000",
+        "fin": "02:38:41.590",
+        "texto": "carnicería, pues vienen paquetitos de carnicería"
+      },
+      "entidades": [
+        "Eleanor de Aragón / Roosevelt (grafía e identidad nominal por aclarar)",
+        "Axi / Chochi (identificación contextual provisional)",
+        "Nox",
+        "Sir Poncelot",
+        "Mingo, Mango y Mungo (hipopótamos, grafía provisional)",
+        "Margaret / Marga (trabajadora de Liz)",
+        "Shiaru"
+      ],
+      "ambito": "escape y camino de regreso",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se muestra la llegada ni se completa el traslado de Citlali. Las condiciones sensoriales de los hipopótamos varían en el diálogo y su identificación individual es incierta."
+    },
+    {
+      "id": "33-020",
+      "titulo": "Nivel ocho desbloqueado",
+      "tipo": "explicacion_director",
+      "afirmacion": "Al cierre, el director anuncia el desbloqueo del nivel ocho y pide a Axi que elija un idioma. Se consideran gnomo y halfling, sin una elección clara en el pasaje.",
+      "inicio": "02:39:00.000",
+      "fin": "02:42:00.000",
+      "cita": "El nivel 8 está desbloqueado",
+      "evidencia_cue": {
+        "inicio": "02:40:14.560",
+        "fin": "02:40:17.349",
+        "texto": "Pues ya estará desbloqueado. El nivel 8 está desbloqueado ya."
+      },
+      "entidades": [
+        "Axi / Chochi (identificación contextual provisional)"
+      ],
+      "ambito": "progreso de campaña",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Desbloquear el límite de nivel no significa que todos los personajes alcancen inmediatamente el nivel ocho."
+    }
+  ]
+}

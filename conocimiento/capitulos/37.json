@@ -1,0 +1,536 @@
+{
+  "capitulo": 37,
+  "estado_revision": "revisado",
+  "resumen": "Eleanor investiga a los bandos y propone a Bonnie una alianza con su reino a cambio de oro que todavía no tiene. Tlachka vende cecina y frijoles; Luna practica transformaciones. Con ayuda de los gestos de Pix, Tlachka encuentra a Nox dormido bajo unas barcas. Molly y Bonnie encargan emboscar un convoy de cañones y pólvora que se dirige a Aurora. Tlachka lo lidera, pero Nox responderá de los fallos. En una conversación privada, Bonnie dice que el ojo también reacciona ante Citlali, ausente de Shiaru. El grupo prepara un glifo de Hold person, una liana, una red y disfraces. Llegan dos carretas. Una trampa captura a un marine, al que Nox mata. Un caballo provocado pisa a un perro y hiere a Eleanor. El glifo paraliza al capitán y el combate provoca varias bajas. Luna se transforma en dinosaurio. Un tiranosaurio devora a un fugitivo y amenaza el convoy. Nox lo hace retroceder, pero vuelve. Luna incendia una carreta, que explota y hiere gravemente al dinosaurio. El grupo huye en la otra y dispara un cañón al perseguidor. Entregan el carro conservado. Bonnie recompensa a Eleanor con una copa, a Tlachka con un collar, a Luna con un jade y a Nox con una moneda de oro después de descontar deudas. Presta a Nox el ojo con la condición de mantenerlo en Shiaru. Él aparenta aceptar, roba cuarenta y ocho monedas de oro y parte en bote hacia el fuerte. Luna roba pólvora y Eleanor declara al caballo propiedad de Poncelot sin una compra autorizada.",
+  "misiones": [
+    "Capturar el convoy: una de las dos carretas explota y la otra se entrega con recursos. Los cuatro aventureros sobreviven y reciben recompensas. Las deudas reducen el pago de Nox (37-004–37-016).",
+    "Alianza con Aragón: la propuesta de Eleanor depende del oro y del contacto con su reino. No se firma un tratado (37-003).",
+    "Estudiar el ojo: Bonnie lo entrega a Nox con la prohibición de sacarlo de Shiaru. Él aparenta aceptar y parte hacia el fuerte; las consecuencias siguen pendientes (37-017–37-018)."
+  ],
+  "preguntas": [
+    "¿Qué han despertado y qué contiene el ojo? ¿Cómo reacciona ante Citlali? Hay testimonios y se propone un experimento reservado (37-005, 37-017).",
+    "¿Llegará Nox a Aurora con el ojo y qué hará tras incumplir la condición? Parte sin informar (37-018).",
+    "¿Logrará Eleanor contactar con su reino y aportar el oro? La alianza queda aplazada (37-003).",
+    "¿Cuál es el estado del tiranosaurio después del cañonazo? Hay un ataque y una referencia final, pero no se inspecciona el cadáver (37-014)."
+  ],
+  "contradicciones": [
+    "Se observan dos carros, uno se destruye y el otro se conserva. Los chistes sobre recuperar el cien por cien o sobre un único carro no sustituyen lo ocurrido (37-007, 37-012–37-015).",
+    "Luna escucha la conversación inicial en forma de gata sin identificarse; no es un animal independiente (37-002, 37-005–37-006).",
+    "Eleanor declara al caballo propiedad de Poncelot aunque se indica que pertenece a Bonnie (37-018).",
+    "Nox acepta mantener el ojo en Shiaru, pero su intención y su partida muestran el incumplimiento. El permiso de estudiarlo no incluye llevarlo a Aurora (37-017–37-018)."
+  ],
+  "nombres_dudosos": [
+    "Tlachka/Tlatka/Trasca/Atlaska son grafías provisionales del nativo de Tutucan.",
+    "Ojo, piedra y esfera designan el mismo objeto en esta conversación y entrega. Esto no identifica todas las perlas u ojos de la campaña.",
+    "La copa de Eleanor es ritual. Santo Grial es una denominación del jugador, no una identidad confirmada."
+  ],
+  "fuente_sha256": "2a2fbc1101ee6d3c791e20707f15713bc468a96add863a0bc659f75e60e6dc07",
+  "afirmaciones": [
+    {
+      "id": "37-001",
+      "titulo": "Eleanor investiga y Luna cambia de forma",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Eleanor pregunta por la Marina sin decidir qué bando considera bueno. Recibe la versión pirata sobre su opresión y pierde cinco monedas de oro. Tlachka regresa de la expedición submarina, vende cecina de cocodrilo y frijoles, y adquiere cansancio. Luna practica transformaciones animales para asustar y también se cansa. El pozo contiene restos de pantera, cocodrilo y un esqueleto, pero no agua.",
+      "inicio": "00:00:00.000",
+      "fin": "00:07:55.000",
+      "cita": "transformarse en animales",
+      "evidencia_cue": {
+        "inicio": "00:03:29.840",
+        "fin": "00:03:31.390",
+        "texto": "ahora puede puede transformarse en animales, así ha"
+      },
+      "entidades": [
+        "Eleanor de Aragón / Roosevelt (grafía e identidad nominal por aclarar)",
+        "Tlachka / Tlatka (nativo, grafía provisional)",
+        "Lunaria / Luna",
+        "Shiaru",
+        "Pozo de Shiaru"
+      ],
+      "ambito": "recapitulaciones",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": ""
+    },
+    {
+      "id": "37-002",
+      "titulo": "Búsqueda de Nox y noticias de la escudera",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Un subordinado de Bonnie busca a Nox y convoca a Eleanor para hablar de su amiga. Tlachka pregunta a Pix, que imita a Nox y señala debajo de unas barcas. Allí encuentra al pirata dormido y lo arrastra. Luna recorre el barco en forma de gata, no ve las pertenencias de Nox, que ha sido expulsado, asusta a Pix y entra en la taberna.",
+      "inicio": "00:08:00.000",
+      "fin": "00:16:30.000",
+      "cita": "debajo de estas dos barcas",
+      "evidencia_cue": {
+        "inicio": "00:16:05.560",
+        "fin": "00:16:07.550",
+        "texto": "trabajo bien hecho y la verdad que debajo de estas dos barcas estaba de"
+      },
+      "entidades": [
+        "Nox",
+        "Tlachka / Tlatka (nativo, grafía provisional)",
+        "Pix",
+        "Lunaria / Luna",
+        "Eleanor de Aragón / Roosevelt (grafía e identidad nominal por aclarar)",
+        "Zampaolas"
+      ],
+      "ambito": "localización",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": ""
+    },
+    {
+      "id": "37-003",
+      "titulo": "La alianza de Eleanor depende del oro",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Bonnie informa a Eleanor de que su escudera la buscó y estuvo con Ione y Poncelot; no se acredita un cautiverio. Eleanor propone una alianza de su reino para expulsar a la Marina y obtener tierras. Bonnie prefiere una montaña de oro. Eleanor promete aportarlo cuando contacte con su reino y Bonnie aplaza la negociación hasta verlo.",
+      "inicio": "00:16:00.000",
+      "fin": "00:20:55.000",
+      "cita": "cuando vea esa montaña de dinero",
+      "evidencia_cue": {
+        "inicio": "00:20:11.400",
+        "fin": "00:20:15.190",
+        "texto": "Bien, pues cuando vea esa montaña de dinero podemos negociar, así que"
+      },
+      "entidades": [
+        "Eleanor de Aragón / Roosevelt (grafía e identidad nominal por aclarar)",
+        "Erandy / Eri / Maya (escudera kender, grafía provisional)",
+        "Happy Bonnie / Bonny (grafía provisional)",
+        "Aragón"
+      ],
+      "ambito": "negociación",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se firma una alianza ni se envía dinero; la promesa no se cumple todavía."
+    },
+    {
+      "id": "37-004",
+      "titulo": "Emboscada a los suministros con Tlachka al mando",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Molly conoce la ruta logística que recomendó entre los puntos de amarre del Garfio y Aurora. La Marina transporta cañones y pólvora para atacar. Bonnie encarga capturar el convoy. Nox propone a Tlachka como líder y Bonnie advierte que culpará a Nox si sale mal. Eleanor se suma por el ataque anterior. Luna escucha oculta en forma de gata.",
+      "inicio": "00:24:00.000",
+      "fin": "00:31:55.000",
+      "cita": "hacerles una pequeña emboscada",
+      "evidencia_cue": {
+        "inicio": "00:25:45.919",
+        "fin": "00:25:48.590",
+        "texto": "utilizan, podríamos hacerles una pequeña emboscada y conseguir esos recursos."
+      },
+      "entidades": [
+        "Molly (capitana de Marina)",
+        "Happy Bonnie / Bonny (grafía provisional)",
+        "Nox",
+        "Tlachka / Tlatka (nativo, grafía provisional)",
+        "Eleanor de Aragón / Roosevelt (grafía e identidad nominal por aclarar)",
+        "Lunaria / Luna",
+        "Ruta de convoy Marina del Garfio"
+      ],
+      "ambito": "misión",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Nox rechaza dirigir, pero participa. El encargo no garantiza un número de carros."
+    },
+    {
+      "id": "37-005",
+      "titulo": "La esfera reacciona ante Citlali",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Nox habla con Bonnie y Molly mientras Luna permanece como gata. Propone estudiar la esfera para anticipar sucesos mediante visiones. Bonnie dice que la ha probado con Citlali y que reacciona ante ella, aunque desconoce la relación. Citlali ya no está en Shiaru. Nox tiene una pista de un refugio y pide ocultar su ubicación para evitar que se revele en interrogatorios. Ellas exigen que avise antes de actuar de forma imprudente.",
+      "inicio": "00:32:00.000",
+      "fin": "00:35:55.000",
+      "cita": "sí reacciona con ella",
+      "evidencia_cue": {
+        "inicio": "00:34:32.359",
+        "fin": "00:34:34.470",
+        "texto": "La probé y parece que sí reacciona con ella."
+      },
+      "entidades": [
+        "Nox",
+        "Happy Bonnie / Bonny (grafía provisional)",
+        "Molly (capitana de Marina)",
+        "Lunaria / Luna",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Ojo / esfera custodiada por Bonnie"
+      ],
+      "ambito": "conversación reservada",
+      "conocedores": [
+        "Nox",
+        "Happy Bonnie / Bonny (grafía provisional)",
+        "Molly (capitana de Marina)",
+        "Lunaria / Luna"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Luna escucha como gata. Tlachka y Eleanor no presencian automáticamente la charla. La prueba se relata, pero no se repite en esta escena."
+    },
+    {
+      "id": "37-006",
+      "titulo": "Comida contra el cansancio y efectos de las frutas",
+      "tipo": "explicacion_director",
+      "afirmacion": "Luna abandona la forma de gata y se incorpora. Tlachka recuerda que procede de Tutucan, donde fue arrojado al río y quedó a la deriva. Nox relata una estancia allí durante un ataque anterior. Compra comida crujiente para Tlachka y Luna que elimina su cansancio. Las frutas conceden ventaja en las salvaciones a Tlachka, dos D6 en los críticos a Nox y un dinosaurio espiritual protector a Luna. La piel verde y brillante de Eleanor le causa desventaja en Sigilo.",
+      "inicio": "00:36:00.000",
+      "fin": "00:44:55.000",
+      "cita": "se te quita ese cansancio",
+      "evidencia_cue": {
+        "inicio": "00:41:21.079",
+        "fin": "00:41:23.069",
+        "texto": "crujientes cucarachas y se te quita ese cansancio."
+      },
+      "entidades": [
+        "Nox",
+        "Tlachka / Tlatka (nativo, grafía provisional)",
+        "Lunaria / Luna",
+        "Eleanor de Aragón / Roosevelt (grafía e identidad nominal por aclarar)",
+        "Tutucan"
+      ],
+      "ambito": "preparación y efectos temporales",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": ""
+    },
+    {
+      "id": "37-007",
+      "titulo": "Preparación de trampas y del glifo Parlamento",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Exploran la ruta, donde encuentran marcas de ruedas y grandes huellas antiguas. Nox dedica una hora a inscribir un glifo de Hold person de nivel tres para dos humanoides, con Parlamento como palabra de activación. Tlachka coloca una liana y Eleanor una red de cuerda, además de cubrir su brillo con barro. Nox se disfraza de nativo y Luna se oculta. Al anochecer llegan dos carretas con caballos, oficiales, marines y perros.",
+      "inicio": "00:45:00.000",
+      "fin": "00:58:55.000",
+      "cita": "palabra de activación sería parlamento",
+      "evidencia_cue": {
+        "inicio": "00:48:47.839",
+        "fin": "00:48:52.230",
+        "texto": "eh con el hold person y la palabra de activación sería parlamento."
+      },
+      "entidades": [
+        "Nox",
+        "Tlachka / Tlatka (nativo, grafía provisional)",
+        "Eleanor de Aragón / Roosevelt (grafía e identidad nominal por aclarar)",
+        "Lunaria / Luna",
+        "Convoy de cañones Marina",
+        "Glifo Parlamento de Nox"
+      ],
+      "ambito": "preparación",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": ""
+    },
+    {
+      "id": "37-008",
+      "titulo": "Una trampa captura a un marine y Nox lo mata",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "La liana enreda los pies del primer guardia sin neutralizarlo. Nox finge explicar el camino y los espíritus de la selva. Luna produce un rugido que desvía al perro; la red de Eleanor atrapa a otro marine. Nox apaga una antorcha, tapa la boca del cautivo, lo acuchilla y arrastra su cadáver. Eleanor manifiesta alas oscuras y miedo para apoyar el engaño. Cuando son descubiertos, comienza el combate.",
+      "inicio": "01:00:00.000",
+      "fin": "01:10:55.000",
+      "cita": "cojo el cadáver",
+      "evidencia_cue": {
+        "inicio": "01:07:43.440",
+        "fin": "01:07:46.069",
+        "texto": "Si si veo que se van acercando, cojo el cadáver y lo arrastro hasta aquí."
+      },
+      "entidades": [
+        "Nox",
+        "Eleanor de Aragón / Roosevelt (grafía e identidad nominal por aclarar)",
+        "Tlachka / Tlatka (nativo, grafía provisional)",
+        "Lunaria / Luna",
+        "Marina"
+      ],
+      "ambito": "emboscada revelada",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": ""
+    },
+    {
+      "id": "37-009",
+      "titulo": "El caballo provoca daños y el glifo paraliza al capitán",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Los marines disparan y combaten. Luna evita un crítico mediante magia. Nox hace que un caballo corra; el animal aplasta a un perro y hiere a Eleanor, a quien después cura. Activa el glifo cuando un oficial lo cruza: paraliza al humano, no al caballo. Luna se transforma en deinonicus y mata a un perro sin usar fuego al principio.",
+      "inicio": "01:11:00.000",
+      "fin": "01:21:55.000",
+      "cita": "El caballo no es un",
+      "evidencia_cue": {
+        "inicio": "01:20:01.760",
+        "fin": "01:20:04.350",
+        "texto": "No, pero el caballo no puedes, ¿eh? El caballo no es un Ah, claro, es"
+      },
+      "entidades": [
+        "Nox",
+        "Glifo Parlamento de Nox",
+        "Eleanor de Aragón / Roosevelt (grafía e identidad nominal por aclarar)",
+        "Lunaria / Luna",
+        "Capitán paralizado del convoy (sin nombre)",
+        "Convoy de cañones Marina"
+      ],
+      "ambito": "combate y fuego amigo",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "El director aclara expresamente que Hold person no afecta a una bestia."
+    },
+    {
+      "id": "37-010",
+      "titulo": "Muere el capitán y un marine huye",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Eleanor golpea al capitán paralizado y utiliza smite. Tlachka parte a otro marine por la mitad. Nox mantiene la concentración en el glifo, descarta la invisibilidad porque rompería el control y mata al capitán con ventaja y críticos. Luna sigue combatiendo como dinosaurio y Eleanor rodea a un adversario. Un marine asustado huye a la selva.",
+      "inicio": "01:22:00.000",
+      "fin": "01:33:55.000",
+      "cita": "Se muere",
+      "evidencia_cue": {
+        "inicio": "01:30:18.040",
+        "fin": "01:30:20.550",
+        "texto": "Crítico. Se muere."
+      },
+      "entidades": [
+        "Eleanor de Aragón / Roosevelt (grafía e identidad nominal por aclarar)",
+        "Tlachka / Tlatka (nativo, grafía provisional)",
+        "Nox",
+        "Lunaria / Luna",
+        "Capitán paralizado del convoy (sin nombre)"
+      ],
+      "ambito": "bajas del convoy",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": ""
+    },
+    {
+      "id": "37-011",
+      "titulo": "Un tiranosaurio irrumpe y retrocede ante los susurros",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Un grito y una mano despedida indican que el fugitivo ha sido devorado. Aparece un tiranosaurio con una pierna de marine en la boca. El capitán dispara al dinosaurio y Eleanor pide concentrar los ataques contra él. Nox utiliza Susurros disonantes imitando los siseos de sus visiones y lo hace retroceder hacia la jungla.",
+      "inicio": "01:34:00.000",
+      "fin": "01:39:55.000",
+      "cita": "esos siseos",
+      "evidencia_cue": {
+        "inicio": "01:38:27.480",
+        "fin": "01:38:30.950",
+        "texto": "Me voy a a subir al carro y con ese avisal y esos siseos que he"
+      },
+      "entidades": [
+        "Tiranosaurio del convoy",
+        "Nox",
+        "Marina",
+        "Eleanor de Aragón / Roosevelt (grafía e identidad nominal por aclarar)"
+      ],
+      "ambito": "amenaza externa",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se identifica con el tiranosaurio del capítulo 36 resucitado. El efecto no acredita un poder de lengua serpiente independiente del conjuro."
+    },
+    {
+      "id": "37-012",
+      "titulo": "Luna incendia una carreta de suministros",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Los golpes agotan la forma de dinosaurio de Luna y vuelve a ser kender. Lanza una bola de fuego pese al objetivo de conservar los recursos: mata a un caballo, vuelca una carreta y daña al capitán. La carreta arde. Eleanor mata a un adversario con una jabalina y sube al carro superviviente siguiendo a Nox.",
+      "inicio": "01:40:00.000",
+      "fin": "01:43:55.000",
+      "cita": "la carreta pues empieza a arder",
+      "evidencia_cue": {
+        "inicio": "01:42:37.800",
+        "fin": "01:42:42.550",
+        "texto": "veis que la carreta pues empieza a arder, o sea, empieza como a quemarse."
+      },
+      "entidades": [
+        "Lunaria / Luna",
+        "Convoy de cañones Marina",
+        "Eleanor de Aragón / Roosevelt (grafía e identidad nominal por aclarar)",
+        "Nox"
+      ],
+      "ambito": "destrucción de recursos",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": ""
+    },
+    {
+      "id": "37-013",
+      "titulo": "Huida en la carreta restante",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "El tiranosaurio regresa y agarra al capitán con la boca. Tlachka lo golpea y rodea para llegar al carro. Nox mata a un marine con susurros, monta a caballo, pone en marcha la carreta conservada y advierte de una explosión. Luna y Eleanor suben; Tlachka se une y lanzan jabalinas.",
+      "inicio": "01:44:00.000",
+      "fin": "01:49:55.000",
+      "cita": "subidos, va a explotar",
+      "evidencia_cue": {
+        "inicio": "01:46:45.400",
+        "fin": "01:46:49.589",
+        "texto": "Y cuando me subo al caballo nada, le grito al resto, subidos, va a explotar."
+      },
+      "entidades": [
+        "Tiranosaurio del convoy",
+        "Nox",
+        "Tlachka / Tlatka (nativo, grafía provisional)",
+        "Lunaria / Luna",
+        "Eleanor de Aragón / Roosevelt (grafía e identidad nominal por aclarar)",
+        "Convoy de cañones Marina"
+      ],
+      "ambito": "escape",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": ""
+    },
+    {
+      "id": "37-014",
+      "titulo": "Explosión y cañonazo contra el dinosaurio",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "La carreta incendiada explota y causa ochenta y cinco puntos de daño al capitán y al dinosaurio. La columna es visible desde Shiaru. El tiranosaurio los persigue con media cara quemada. Nox, Tlachka, Eleanor y Luna atacan con magia y jabalinas. Tlachka sujeta el cañón y Luna enciende la mecha. Una oleada de magia salvaje cambia sus ojos y le concede ventaja en Percepción; no hace explotar al grupo. El cañonazo alcanza al perseguidor y regresan a Shiaru.",
+      "inicio": "01:50:00.000",
+      "fin": "01:56:55.000",
+      "cita": "son 85 de daño",
+      "evidencia_cue": {
+        "inicio": "01:50:28.960",
+        "fin": "01:50:31.709",
+        "texto": "Eh, bueno, el carro explotaría, ¿vale? Este carro explotaría y son 85 de daño,"
+      },
+      "entidades": [
+        "Tiranosaurio del convoy",
+        "Convoy de cañones Marina",
+        "Lunaria / Luna",
+        "Tlachka / Tlatka (nativo, grafía provisional)",
+        "Nox",
+        "Eleanor de Aragón / Roosevelt (grafía e identidad nominal por aclarar)",
+        "Shiaru"
+      ],
+      "ambito": "explosión y disparo",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "El tiranosaurio recibe el disparo y al cierre se habla de matarlo, pero no se recupera su cadáver ni se entrega su cabeza. No se narra que el retroceso vuelque la carreta."
+    },
+    {
+      "id": "37-015",
+      "titulo": "Entrega de una carreta y recompensas",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Nox se oculta junto a una ventana mientras los otros tres informan. Bonnie inspecciona la carreta con cañones y pólvora y critica la explosión. No cree que Nox haya muerto. Entrega una copa ritual a Eleanor, un collar precioso a Tlachka y un jade a Luna. Retiene el pago de Nox hasta que se presente. La broma sobre un solo carro oculta que originalmente había dos.",
+      "inicio": "01:57:00.000",
+      "fin": "02:05:55.000",
+      "cita": "una copa dentro",
+      "evidencia_cue": {
+        "inicio": "02:03:14.159",
+        "fin": "02:03:16.669",
+        "texto": "aquí. Ti ti ti ti. Ahí pues ves que tiene una copa dentro."
+      },
+      "entidades": [
+        "Happy Bonnie / Bonny (grafía provisional)",
+        "Molly (capitana de Marina)",
+        "Eleanor de Aragón / Roosevelt (grafía e identidad nominal por aclarar)",
+        "Tlachka / Tlatka (nativo, grafía provisional)",
+        "Lunaria / Luna",
+        "Nox",
+        "Convoy de cañones Marina"
+      ],
+      "ambito": "resultado y recompensa",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "El apelativo de Eleanor no confirma que la copa sea el Santo Grial ni acredita propiedades nuevas."
+    },
+    {
+      "id": "37-016",
+      "titulo": "Nox recibe una moneda de oro tras descontar deudas",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Un subordinado encuentra a Nox, que salta por la ventana. Bonnie recuerda sus deudas por el barco, la taberna y la estancia de Mamá. Retiene la bolsa y entrega una moneda de oro, que Nox acepta con resignación. Él pide hablar en privado con Molly y Bonnie; los demás se apartan.",
+      "inicio": "02:06:00.000",
+      "fin": "02:08:55.000",
+      "cita": "una moneda de oro",
+      "evidencia_cue": {
+        "inicio": "02:07:41.840",
+        "fin": "02:07:45.470",
+        "texto": "Y ves que arrastrado una moneda de oro."
+      },
+      "entidades": [
+        "Nox",
+        "Happy Bonnie / Bonny (grafía provisional)",
+        "Molly (capitana de Marina)",
+        "Deudas de Nox"
+      ],
+      "ambito": "pago y deudas",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "El pago neto no demuestra que todas las deudas queden saldadas ni permite calcular un saldo completo."
+    },
+    {
+      "id": "37-017",
+      "titulo": "Bonnie presta el ojo con una condición que Nox planea incumplir",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Nox propone estudiar el ojo para anticipar acontecimientos. Molly dice que Tórtola está obsesionado con la isla y que no le contó lo que habían despertado ni dejó notas. Ambas aceptan prestarlo solo si permanece en Shiaru. Nox acepta, pero una tirada oculta su decepción y revela su intención de incumplir. Envuelve el ojo y, bajo la tela, roba una bolsa con cuarenta y ocho monedas de oro sin que ellas lo adviertan.",
+      "inicio": "02:09:00.000",
+      "fin": "02:13:55.000",
+      "cita": "El ojo no puede salir de Xaru",
+      "evidencia_cue": {
+        "inicio": "02:11:52.040",
+        "fin": "02:11:55.310",
+        "texto": "Sí, esperaba tus condiciones. El ojo no puede salir de Xaru."
+      },
+      "entidades": [
+        "Nox",
+        "Ojo / esfera custodiada por Bonnie",
+        "Molly (capitana de Marina)",
+        "Happy Bonnie / Bonny (grafía provisional)",
+        "Tórtola (almirante, grafía provisional)"
+      ],
+      "ambito": "acuerdo reservado y hurto",
+      "conocedores": [
+        "Nox",
+        "Molly (capitana de Marina)",
+        "Happy Bonnie / Bonny (grafía provisional)"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se recapitula aquí la identidad de lo despertado. Luna dice que escucha desde la barra, pero no se acredita que oiga todo el acuerdo."
+    },
+    {
+      "id": "37-018",
+      "titulo": "Luna roba pólvora y Nox parte hacia el fuerte",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Luna finge beber para escuchar y toma una pequeña bolsa de pólvora del carro. Eleanor consulta los precios del mercado y coloca al caballo un cartel que lo declara propiedad de Poncelot, aunque el director indica que pertenece a Bonnie. Nox mira al Zampaolas y a Ione, se despide en voz baja, sube a un bote y se aleja al mar sin llamar la atención. Su jugador aclara que va al fuerte, no a Puerto Espadas.",
+      "inicio": "02:14:00.000",
+      "fin": "02:19:55.000",
+      "cita": "camino al fuerte",
+      "evidencia_cue": {
+        "inicio": "02:19:26.080",
+        "fin": "02:19:27.549",
+        "texto": "camino, camino al fuerte,"
+      },
+      "entidades": [
+        "Lunaria / Luna",
+        "Eleanor de Aragón / Roosevelt (grafía e identidad nominal por aclarar)",
+        "Nox",
+        "Ione",
+        "Zampaolas",
+        "Sir Poncelot",
+        "Happy Bonnie / Bonny (grafía provisional)",
+        "Ojo / esfera custodiada por Bonnie",
+        "Fuerte Aurora"
+      ],
+      "ambito": "partida e incumplimiento",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Se declara un destino, pero no se muestra la llegada. Llevarse el ojo incumple la condición. El cartel no acredita una transferencia autorizada del caballo."
+    }
+  ]
+}

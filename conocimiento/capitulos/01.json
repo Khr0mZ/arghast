@@ -1,0 +1,810 @@
+{
+  "capitulo": 1,
+  "estado_revision": "revisado",
+  "fuente_sha256": "8bd1ffa8bb3296fed4d4507467caa76f26d66022415ba2b3210c266aa255503f",
+  "resumen": "El episodio presenta a cinco recién llegados o residentes nativos y a los piratas Nox e Ione. Los primeros convergen en Shiaru; la presentación de los piratas muestra el accidente de su barco contra una taberna. En la escena posterior, el director establece que trabajan para Bonnie por la deuda del accidente y que llevan meses con ella: no debe fecharse todo el capítulo como un único día. Bonnie les encarga sacar dinero a los visitantes. La reunión en la taberna da lugar a robos, intercambio de información y relatos sobre la isla. Una criatura ígnea provoca quemaduras y focos de fuego; Mamá consigue que salga. Se describen comercios y la Sirena Borracha. Nox ofrece alojamiento a Mamá y al guerrero nativo en el barco averiado. El cierre muestra luna llena y a Nox tomando cadenas y lanzándose hacia el mar; la relación con una petición privada de Ione queda como pista, sin explicación confirmada. La ficha recoge hechos relevantes tras leer el episodio completo; no es una extracción exhaustiva de cada broma o transacción.",
+  "afirmaciones": [
+    {
+      "id": "01-001",
+      "titulo": "Shiaru, punto de llegada",
+      "tipo": "explicacion_director",
+      "afirmacion": "El director presenta Shiaru como el primer pueblo pirata al que llegarán los personajes.",
+      "inicio": "00:00:23.000",
+      "fin": "00:00:37.000",
+      "cita": "el primer pueblo pirata, eh, Shiaru.",
+      "entidades": [
+        "Shiaru"
+      ],
+      "ambito": "presentación del director en la mesa",
+      "conocedores": [],
+      "confianza": "alta para el punto de llegada",
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "No se ha establecido el acceso de Madame Oghma a este pasaje."
+    },
+    {
+      "id": "01-002",
+      "titulo": "Proyecto agrícola de Patatamán",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "El personaje presentado como Patatamán relata que procede de Cartagena, que cultivaba en una granja del desierto y que busca tierras donde establecer otra granja.",
+      "inicio": "00:00:45.000",
+      "fin": "00:01:24.000",
+      "cita": "vivía en la granja, pero",
+      "entidades": [
+        "Patata / Patatamán (grafía provisional)",
+        "Cartagena"
+      ],
+      "ambito": "trasfondo presentado por el jugador",
+      "conocedores": [],
+      "confianza": "alta para el proyecto; nombre completo provisional",
+      "limitacion": "No se fija la ubicación de Cartagena ni se asume que sea la ciudad real. Soltacán es una variante pendiente de normalización.",
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "No se ha establecido el acceso de Madame Oghma a este pasaje."
+    },
+    {
+      "id": "01-003",
+      "titulo": "Proyecto de casino del visitante",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "El visitante nombrado con variantes Kilzer/Kilcer cuenta un pasado de robos y casinos y anuncia su intención de construir un gran negocio de casino. El término que podría referirse a un burdel está mal reconocido.",
+      "inicio": "00:01:39.000",
+      "fin": "00:03:50.000",
+      "cita": "Voy a construir el mayor",
+      "entidades": [
+        "Kilzer / Kilcer (grafía provisional)"
+      ],
+      "ambito": "trasfondo presentado por el jugador",
+      "conocedores": [],
+      "confianza": "alta para casino y robos; baja para el nombre y el otro negocio",
+      "limitacion": "Getafe y Mordor aparecen en una conversación humorística; no se incorporan como lugares confirmados de la campaña.",
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "No se ha establecido el acceso de Madame Oghma a este pasaje."
+    },
+    {
+      "id": "01-004",
+      "titulo": "Relato del sacrificio del guerrero",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "El guerrero nativo presentado como Tachka/Tlachka relata que, durante una ceremonia en la población reconocida como Cuikapali/Quicapali, un eclipse se interpretó como mal presagio y fue arrojado río abajo como sacrificio. Afirma haber sobrevivido herido y haber escuchado voces.",
+      "inicio": "00:04:08.000",
+      "fin": "00:05:44.000",
+      "cita": "ese día hubo un eclipse",
+      "entidades": [
+        "Guerrero nativo (Tlachka, grafía provisional)",
+        "Cuicapalli (identificación contextual provisional)"
+      ],
+      "ambito": "trasfondo presentado por el jugador",
+      "conocedores": [],
+      "confianza": "alta para el relato; media para topónimo",
+      "limitacion": "La supervivencia forma parte del trasfondo narrado; no demuestra intervención divina ni identifica las voces.",
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "No se ha establecido el acceso de Madame Oghma a este pasaje."
+    },
+    {
+      "id": "01-005",
+      "titulo": "Familia y viaje del elfo",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "El elfo presentado como Erendriel relata que viene de Puerto de Espadas, de una familia de exploradores dedicada a localizar artefactos y manuscritos. Una adversidad familiar no explicada y una tormenta durante el viaje forman parte de su relato.",
+      "inicio": "00:05:57.000",
+      "fin": "00:08:03.000",
+      "cita": "él viene de Puerto de Espadas,",
+      "entidades": [
+        "Erendriel (grafía provisional)",
+        "Puerto de Espadas"
+      ],
+      "ambito": "trasfondo presentado por el jugador",
+      "conocedores": [],
+      "confianza": "alta para el contenido; nombre provisional",
+      "limitacion": "No se explica la adversidad familiar ni se identifica Puerto de Espadas con otra ciudad de D&D.",
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "No se ha establecido el acceso de Madame Oghma a este pasaje."
+    },
+    {
+      "id": "01-006",
+      "titulo": "Huevo junto al cadáver de un dragón",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Erendriel relata que encontró un huevo junto al cadáver reciente de un dragón y decidió conservarlo.",
+      "inicio": "00:08:04.000",
+      "fin": "00:08:40.000",
+      "cita": "un cadáver muy muy grande y recién",
+      "entidades": [
+        "Erendriel (grafía provisional)",
+        "Dragón joven del elfo (nombre sin confirmar)"
+      ],
+      "ambito": "trasfondo presentado por el jugador",
+      "conocedores": [],
+      "confianza": "alta para el relato",
+      "limitacion": "El pasaje no determina especie, progenitor, causa de muerte ni fecha de eclosión.",
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "No se ha establecido el acceso de Madame Oghma a este pasaje."
+    },
+    {
+      "id": "01-007",
+      "titulo": "Historia de Mamá y sus hijos adoptivos",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "La nativa llamada Mamá relata ser originaria de Ictan, haber viajado recopilando saber sobre plantas y haber adoptado varios niños. Dice que sus hijos murieron antes que ella y que viaja buscando una explicación.",
+      "inicio": "00:09:23.000",
+      "fin": "00:11:44.000",
+      "cita": "sus hijos iban muriendo antes que ella.",
+      "entidades": [
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Iktan (identificación contextual provisional)"
+      ],
+      "ambito": "trasfondo presentado por la jugadora",
+      "conocedores": [],
+      "confianza": "alta para el relato; media para nombres",
+      "limitacion": "La causa de las muertes no se explica. Las bromas posteriores no prueban que Mamá mate por contacto.",
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "No se ha establecido el acceso de Madame Oghma a este pasaje."
+    },
+    {
+      "id": "01-008",
+      "titulo": "Accidente del barco pirata",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Nox e Ione intentan maniobrar para evitar un acantilado. El director narra que lo esquivan, pero el barco alcanza la zona de una taberna costera; la escena de llegada confirma el barco estampado contra ella.",
+      "inicio": "00:12:32.000",
+      "fin": "00:18:20.000",
+      "cita": "justo había una taberna muy pegada a la",
+      "entidades": [
+        "Nox",
+        "Ione",
+        "Barco Zampaolas (grafía provisional)",
+        "Taberna de Bonnie"
+      ],
+      "ambito": "escena de presentación de los piratas; temporalidad retrospectiva",
+      "conocedores": [
+        "Nox",
+        "Ione"
+      ],
+      "confianza": "alta para el accidente",
+      "limitacion": "La exposición posterior de los meses de servicio impide asumir que el accidente ocurre el mismo día que todas las llegadas.",
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "No se ha establecido el acceso de Madame Oghma a este pasaje."
+    },
+    {
+      "id": "01-009",
+      "titulo": "Convergencia de los recién llegados",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "El director sitúa en el poblado a Patatamán, Kilcer, Erendriel, el guerrero nativo y Mamá. Se encuentran y empiezan a buscar un lugar donde comer o beber.",
+      "inicio": "00:16:50.000",
+      "fin": "00:29:30.000",
+      "cita": "tenemos a Tlachka y a Mama, que también",
+      "entidades": [
+        "Shiaru",
+        "Patata / Patatamán (grafía provisional)",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Erendriel (grafía provisional)",
+        "Guerrero nativo (Tlachka, grafía provisional)",
+        "Mamá / Citlali (identificación contextual provisional)"
+      ],
+      "ambito": "escena de llegada y encuentro",
+      "conocedores": [],
+      "confianza": "alta para convergencia, sin identificación fiable de jugadores",
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "No se ha establecido el acceso de Madame Oghma a este pasaje."
+    },
+    {
+      "id": "01-010",
+      "titulo": "Corrección sobre la visibilidad del dragoncito",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "El director empieza describiendo una cabecita de dragoncito visible junto al elfo; el jugador corrige que está escondido y el director acepta la corrección.",
+      "inicio": "00:19:25.000",
+      "fin": "00:19:48.000",
+      "cita": "No, está está escondido. Está escondido.",
+      "entidades": [
+        "Erendriel (grafía provisional)",
+        "Dragón joven del elfo (nombre sin confirmar)"
+      ],
+      "ambito": "corrección explícita de la escena en la mesa",
+      "conocedores": [],
+      "confianza": "alta",
+      "limitacion": "No se da por conocido el dragoncito por los demás personajes en ese instante; más tarde se describen ojos visibles y sonidos.",
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "No se ha establecido el acceso de Madame Oghma a este pasaje."
+    },
+    {
+      "id": "01-011",
+      "titulo": "Deuda y servicio para Bonnie",
+      "tipo": "explicacion_director",
+      "afirmacion": "El director establece que Nox e Ione deben dinero a Bonnie por estampar el barco contra la taberna y que ahora trabajan para ella.",
+      "inicio": "00:31:03.000",
+      "fin": "00:31:25.000",
+      "cita": "pero bueno, trabajáis ahora para ella y",
+      "entidades": [
+        "Nox",
+        "Ione",
+        "Happy Bonnie / Bonny (grafía provisional)",
+        "Taberna de Bonnie"
+      ],
+      "ambito": "exposición del director sobre relación previa",
+      "conocedores": [
+        "Nox",
+        "Ione"
+      ],
+      "confianza": "alta",
+      "limitacion": "No se cuantifica la deuda total ni se confirma que sea impagable: el director usa seguramente.",
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "No se ha establecido el acceso de Madame Oghma a este pasaje."
+    },
+    {
+      "id": "01-012",
+      "titulo": "Encargo de obtener dinero de los visitantes",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Bonnie pide a Nox e Ione que consigan dinero de los recién llegados y menciona como métodos embaucarlos, timarlos o enviarlos a una misión. También pide que se lleven del pueblo a una anciana que le molesta.",
+      "inicio": "00:34:51.000",
+      "fin": "00:37:10.000",
+      "cita": "algo de dinerito? Ya sabéis, los",
+      "entidades": [
+        "Happy Bonnie / Bonny (grafía provisional)",
+        "Nox",
+        "Ione",
+        "Pinky"
+      ],
+      "ambito": "encargo entre Bonnie y los piratas",
+      "conocedores": [
+        "Nox",
+        "Ione",
+        "Happy Bonnie / Bonny (grafía provisional)"
+      ],
+      "confianza": "alta para el encargo; media para identificar a la anciana como Pinky",
+      "limitacion": "La identificación de la anciana se apoya en su posterior asociación con Cipo y los piratas, no en que Bonnie dé su nombre aquí.",
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "No se ha establecido el acceso de Madame Oghma a este pasaje."
+    },
+    {
+      "id": "01-013",
+      "titulo": "Intento de cobrar amarre",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Nox dice al recién llegado que amarrar el bote cuesta dos monedas de oro y después propone una. El visitante responde desamarrando su bote. No se documenta aquí una tasa oficial del poblado.",
+      "inicio": "00:41:20.000",
+      "fin": "00:44:04.000",
+      "cita": "amarrar el bote son dos monedas de oro.",
+      "entidades": [
+        "Nox",
+        "Kilzer / Kilcer (grafía provisional)"
+      ],
+      "ambito": "conversación entre Nox y el recién llegado",
+      "conocedores": [
+        "Nox",
+        "Kilzer / Kilcer (grafía provisional)"
+      ],
+      "confianza": "alta para la propuesta y respuesta",
+      "limitacion": "La supuesta autoridad de Bonnie sobre los muelles es afirmada por Nox durante el intento de cobro; no se convierte en estructura administrativa confirmada.",
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "No se ha establecido el acceso de Madame Oghma a este pasaje."
+    },
+    {
+      "id": "01-014",
+      "titulo": "Nombre de Mamá en la presentación social",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Mamá se presenta con el nombre que los subtítulos escriben Sitlali. Por el contexto y la referencia del usuario se registra como candidata a Citlali, sin identificarla todavía con Coyote.",
+      "inicio": "00:48:51.000",
+      "fin": "00:49:04.000",
+      "cita": "Ay, mi hijita, soy Sitlali, pero mucho",
+      "entidades": [
+        "Mamá / Citlali (identificación contextual provisional)"
+      ],
+      "ambito": "presentación dentro de la escena",
+      "conocedores": [],
+      "confianza": "media para la grafía Citlali",
+      "limitacion": "Nantlitlali, Cicitlali y Citrali son otras variantes presentes en el capítulo; no se han reemplazado globalmente.",
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "No se ha establecido el acceso de Madame Oghma a este pasaje."
+    },
+    {
+      "id": "01-015",
+      "titulo": "Autodescripción distinta de la apariencia",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "El visitante descrito por el director como tiefling se presenta ante Nox con una identidad y raza que los subtítulos recogen como Clementon/Clementa y sátiro de ubres azules.",
+      "inicio": "00:50:54.000",
+      "fin": "00:51:46.000",
+      "cita": "un sátiro de ubres azules.",
+      "entidades": [
+        "Kilzer / Kilcer (grafía provisional)",
+        "Nox"
+      ],
+      "ambito": "conversación entre personajes",
+      "conocedores": [
+        "Nox",
+        "Kilzer / Kilcer (grafía provisional)"
+      ],
+      "confianza": "alta para la discrepancia; baja para la formulación exacta del alias",
+      "limitacion": "Se conserva como autodescripción; no se usa para decidir su especie real ni corregir la palabra ubres por una conjetura.",
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "No se ha establecido el acceso de Madame Oghma a este pasaje."
+    },
+    {
+      "id": "01-016",
+      "titulo": "Pix atiende la taberna",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "El director describe a Pix como un mono que sirve bebidas en la taberna. Más tarde Mamá entiende sus palabras y media cuando el guerrero solicita agua.",
+      "inicio": "00:52:28.000",
+      "fin": "01:11:10.000",
+      "cita": "Ves que el mono te sirve,",
+      "entidades": [
+        "Pix",
+        "Taberna de Bonnie",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Guerrero nativo (Tlachka, grafía provisional)"
+      ],
+      "ambito": "escenas en la barra",
+      "conocedores": [],
+      "confianza": "alta",
+      "limitacion": "El intervalo agrupa varias escenas de servicio; no establece especie mecánica de Pix ni capacidad general de Mamá para hablar con toda criatura.",
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "No se ha establecido el acceso de Madame Oghma a este pasaje."
+    },
+    {
+      "id": "01-017",
+      "titulo": "Nox roba al recién llegado",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Una tirada resuelve que Nox sustrae tres monedas al visitante sin que este se entere en ese momento. Nox declara haber gastado una en la invitación y obtenido las dos que pretendía cobrar por el amarre. Pix hace gestos y después Nox muestra las monedas al visitante.",
+      "inicio": "00:53:15.000",
+      "fin": "00:55:44.000",
+      "cita": "tres moneditas, una en cada hueco, aquí",
+      "entidades": [
+        "Nox",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Pix"
+      ],
+      "ambito": "robo en la barra y revelación posterior",
+      "conocedores": [
+        "Nox",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Pix"
+      ],
+      "confianza": "alta",
+      "limitacion": "La ignorancia del perjudicado corresponde al momento del robo; la revelación es posterior. El balance monetario es el declarado por Nox, sin auditoría de inventario.",
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "No se ha establecido el acceso de Madame Oghma a este pasaje."
+    },
+    {
+      "id": "01-018",
+      "titulo": "Reliquia familiar por reparar",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "El elfo dice que necesita que alguien arregle una pequeña reliquia familiar. Posteriormente muestra una pistola ornamentada que conserva en una caja, pero no se confirma expresamente que sea esa misma reliquia.",
+      "inicio": "01:00:55.000",
+      "fin": "01:01:18.000",
+      "cita": "necesito arreglar una pequeña reliquia",
+      "entidades": [
+        "Erendriel (grafía provisional)",
+        "Reliquia familiar del elfo (sin identificar)"
+      ],
+      "ambito": "conversación con Ione",
+      "conocedores": [
+        "Erendriel (grafía provisional)",
+        "Ione"
+      ],
+      "confianza": "alta para la petición; identidad del objeto desconocida",
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "No se ha establecido el acceso de Madame Oghma a este pasaje."
+    },
+    {
+      "id": "01-019",
+      "titulo": "Petición privada de cadenas",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Ione baja el tono y pide a Nox que esa noche la encadene. Nox consulta un escrito y mira por la ventana antes de responder que es mejor que se quede.",
+      "inicio": "01:14:52.000",
+      "fin": "01:16:00.000",
+      "cita": "esta noche me vas a encadenar.",
+      "entidades": [
+        "Ione",
+        "Nox"
+      ],
+      "ambito": "conversación privada, en voz baja",
+      "conocedores": [
+        "Ione",
+        "Nox"
+      ],
+      "confianza": "alta para la petición",
+      "limitacion": "No se explica el motivo. Luna llena y cadenas no prueban licantropía ni otra condición. No se atribuye este conocimiento a quienes están en otras escenas.",
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "No se ha establecido el acceso de Madame Oghma a este pasaje."
+    },
+    {
+      "id": "01-020",
+      "titulo": "Pistola ornamentada y conocimiento limitado",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "El elfo abre una caja y muestra una pistola ornamentada con símbolos. En la mesa se aclara que los personajes nativos no saben que es un arma y la describen por su forma.",
+      "inicio": "01:20:44.000",
+      "fin": "01:22:04.000",
+      "cita": "Como nosotros no sabemos que es un arma,",
+      "entidades": [
+        "Erendriel (grafía provisional)",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Guerrero nativo (Tlachka, grafía provisional)",
+        "Pistola ornamentada del elfo"
+      ],
+      "ambito": "objeto mostrado en la escena y aclaración en la mesa",
+      "conocedores": [],
+      "confianza": "alta para el objeto; media para destinatarios de la aclaración",
+      "limitacion": "El nosotros se interpreta por el contexto de los nativos; no significa desconocimiento de todos los jugadores. El subtítulo de los símbolos es confuso.",
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "No se ha establecido el acceso de Madame Oghma a este pasaje."
+    },
+    {
+      "id": "01-021",
+      "titulo": "Leyenda de pirámides de oro",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Mamá relata una leyenda sobre pirámides hechas de oro que reflejan la luz solar. Aclara que hay que encontrarlas y que se dice la leyenda, pero no se sabe.",
+      "inicio": "01:24:53.000",
+      "fin": "01:25:25.000",
+      "cita": "se dice la leyenda, pero no se sabe.",
+      "entidades": [
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Nox",
+        "Pirámides de oro (leyenda)"
+      ],
+      "ambito": "relato de Mamá ante interlocutores de la mesa",
+      "conocedores": [
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Nox"
+      ],
+      "confianza": "alta para la existencia del relato; existencia de las pirámides sin confirmar",
+      "limitacion": "No hay ubicación ni exploración de las pirámides documentada aquí.",
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "No se ha establecido el acceso de Madame Oghma a este pasaje."
+    },
+    {
+      "id": "01-022",
+      "titulo": "Incidente con la criatura ígnea",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Una criatura ígnea con aspecto de salamandra entra en la taberna, quema al visitante y a Patata al pasar sobre ellos y deja focos de fuego. Ione y Nox intentan evitarla. El guerrero la saca, pero vuelve a entrar.",
+      "inicio": "01:30:03.000",
+      "fin": "01:45:22.000",
+      "cita": "empezáis a ver que va empezando a ver fuego por todos lados.",
+      "entidades": [
+        "Cipo (grafía provisional)",
+        "Ione",
+        "Nox",
+        "Patata / Patatamán (grafía provisional)",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Guerrero nativo (Tlachka, grafía provisional)",
+        "Taberna de Bonnie"
+      ],
+      "ambito": "incidente público en la taberna",
+      "conocedores": [],
+      "confianza": "alta para acciones; nombre provisional",
+      "limitacion": "El comentario de mesa elemental aparece a 01:43; no se asigna una ficha de monstruo ni una especie reglamentaria.",
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "No se ha establecido el acceso de Madame Oghma a este pasaje."
+    },
+    {
+      "id": "01-023",
+      "titulo": "Mamá hace salir a la criatura",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Mamá amenaza a la criatura con una sandalia. Tras una tirada de intimidación, el director narra que la criatura sale. Ione agradece a Mamá haberla salvado.",
+      "inicio": "01:45:27.000",
+      "fin": "01:48:10.000",
+      "cita": "sale y sale fuera y mira a Tlatka,",
+      "entidades": [
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Cipo (grafía provisional)",
+        "Ione"
+      ],
+      "ambito": "resolución del incidente en la taberna",
+      "conocedores": [
+        "Ione",
+        "Mamá / Citlali (identificación contextual provisional)"
+      ],
+      "confianza": "alta",
+      "limitacion": "No se confirma que todos los daños de la taberna estén reparados o todos los fuegos extinguidos.",
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "No se ha establecido el acceso de Madame Oghma a este pasaje."
+    },
+    {
+      "id": "01-024",
+      "titulo": "Comercios del poblado",
+      "tipo": "explicacion_director",
+      "afirmacion": "En el paseo de Patata y el otro visitante, el director describe carteles de la Consulta del Pulpo Enfermo, el Caldero y el Monocaco, A Toda Forja y la Sirena Borracha.",
+      "inicio": "01:49:08.000",
+      "fin": "01:50:36.000",
+      "cita": "llama la consulta del pulpo enfermo.",
+      "entidades": [
+        "Shiaru",
+        "Consulta del Pulpo Enfermo",
+        "El Caldero y el Monocaco (grafía provisional)",
+        "A Toda Forja",
+        "La Sirena Borracha"
+      ],
+      "ambito": "descripción de establecimientos durante un paseo",
+      "conocedores": [
+        "Patata / Patatamán (grafía provisional)",
+        "Kilzer / Kilcer (grafía provisional)"
+      ],
+      "confianza": "alta para los carteles; media para Monocaco",
+      "limitacion": "Los carteles no prueban quién regenta cada negocio ni todo lo que vende. No se atribuye el paseo a los personajes que permanecen en la taberna.",
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "No se ha establecido el acceso de Madame Oghma a este pasaje."
+    },
+    {
+      "id": "01-025",
+      "titulo": "Alojamiento y servicio de la Sirena Borracha",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "La encargada sin nombre confirmado ofrece camas y servicios sexuales en la Sirena Borracha. Patata solicita el servicio premium.",
+      "inicio": "01:53:43.000",
+      "fin": "01:56:56.000",
+      "cita": "bienvenidos a la sirena borracha.",
+      "entidades": [
+        "La Sirena Borracha",
+        "Encargada de la Sirena Borracha (sin nombre)",
+        "Patata / Patatamán (grafía provisional)",
+        "Dos goblins del servicio premium"
+      ],
+      "ambito": "servicio contratado y escena posterior en habitación",
+      "conocedores": [
+        "Patata / Patatamán (grafía provisional)",
+        "Kilzer / Kilcer (grafía provisional)"
+      ],
+      "confianza": "alta para oferta y revelación del director",
+      "limitacion": "La oferta del establecimiento es una declaración de su encargada. La revelación posterior del servicio figura por separado en 01-035.",
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "No se ha establecido el acceso de Madame Oghma a este pasaje."
+    },
+    {
+      "id": "01-026",
+      "titulo": "Robo exterior y excusa de cobro de deuda",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "El visitante intenta robar a un hombre desmayado. El director muestra al guerrero que una anciana también roba al visitante. El visitante justifica lo que hace como el cobro de una deuda para la Sirena Borracha, pero esa justificación no cuenta con un encargo previo confirmado.",
+      "inicio": "01:57:12.000",
+      "fin": "02:05:27.000",
+      "cita": "sacándole también dinerito del bolsillo.",
+      "entidades": [
+        "Kilzer / Kilcer (grafía provisional)",
+        "Pinky",
+        "Guerrero nativo (Tlachka, grafía provisional)",
+        "Hombre desmayado (sin nombre)"
+      ],
+      "ambito": "escena exterior observada por el guerrero",
+      "conocedores": [
+        "Guerrero nativo (Tlachka, grafía provisional)"
+      ],
+      "confianza": "alta para la adjudicación de robos; deuda sin confirmar",
+      "limitacion": "Pinky todavía no está nombrada al comienzo del encuentro; se identifica por continuidad de la escena posterior. No se fija cantidad sustraída.",
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "No se ha establecido el acceso de Madame Oghma a este pasaje."
+    },
+    {
+      "id": "01-027",
+      "titulo": "Pinky conoce a Cipo",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "La anciana luego identificada como Pinky llama Cipo a la criatura y dice que es su amigo porque le enciende las cosas que fuma.",
+      "inicio": "02:03:03.000",
+      "fin": "02:03:44.000",
+      "cita": "Sí, porque me encienden las cosas que me",
+      "entidades": [
+        "Pinky",
+        "Cipo (grafía provisional)"
+      ],
+      "ambito": "conversación exterior",
+      "conocedores": [
+        "Pinky",
+        "Guerrero nativo (Tlachka, grafía provisional)",
+        "Kilzer / Kilcer (grafía provisional)"
+      ],
+      "confianza": "alta para relación declarada; grafía Cipo provisional",
+      "limitacion": "No prueba un vínculo mecánico de familiar, invocación o propiedad.",
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "No se ha establecido el acceso de Madame Oghma a este pasaje."
+    },
+    {
+      "id": "01-035",
+      "titulo": "Revelación del servicio premium",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "El director muestra que el servicio premium solicitado por Patata consiste en dos goblins, uno encima del otro.",
+      "inicio": "02:08:04.000",
+      "fin": "02:08:54.000",
+      "cita": "Son son dos son dos son dos goblins uno",
+      "entidades": [
+        "La Sirena Borracha",
+        "Patata / Patatamán (grafía provisional)",
+        "Dos goblins del servicio premium"
+      ],
+      "ambito": "escena en habitación mostrada por el director",
+      "conocedores": [
+        "Patata / Patatamán (grafía provisional)"
+      ],
+      "confianza": "alta",
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "No se ha establecido el acceso de Madame Oghma a este pasaje.",
+      "limitacion": "No se deducen nombres, géneros o edades de los goblins. No se atribuye esta escena a quienes están en la taberna."
+    },
+    {
+      "id": "01-028",
+      "titulo": "Pequeño reptil de Mamá",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Mamá presenta un pequeño reptil de debajo de su capa como su pequeño Mico, según el subtítulo. La descripción oscila entre iguana y camaleón. Cuando Ione lo toca, el director narra que siente electricidad.",
+      "inicio": "02:09:17.000",
+      "fin": "02:10:46.000",
+      "cita": "electricidad recorrer todo tu cuerpo.",
+      "entidades": [
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Ione",
+        "Reptil de Mamá (nombre y especie pendientes)"
+      ],
+      "ambito": "presentación de criatura en la taberna",
+      "conocedores": [
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Ione"
+      ],
+      "confianza": "alta para presentación y descarga; baja para nombre y especie",
+      "limitacion": "No se normaliza Mico ni se asigna especie o estatuto de familiar. No se confunde con Cipo ni con el dragoncito del elfo.",
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "No se ha establecido el acceso de Madame Oghma a este pasaje."
+    },
+    {
+      "id": "01-029",
+      "titulo": "Segundo robo y bolsa para Bonnie",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Nox intenta robar al elfo y narra que hace caer las monedas o la bolsa y las envía hacia la mesa de Bonnie. El director confirma que un hombre de Bonnie recoge la bolsa. No se precisa aquí cuánto reduce la deuda.",
+      "inicio": "02:12:39.000",
+      "fin": "02:14:54.000",
+      "cita": "esa bolsita, ves que como lo típico,",
+      "entidades": [
+        "Nox",
+        "Erendriel (grafía provisional)",
+        "Happy Bonnie / Bonny (grafía provisional)"
+      ],
+      "ambito": "robo dentro de la taberna",
+      "conocedores": [
+        "Nox",
+        "Happy Bonnie / Bonny (grafía provisional)"
+      ],
+      "confianza": "alta para robo y recogida",
+      "limitacion": "El contexto dice que llevan algunos meses con Bonnie. Un cinco aislado no basta para fijar moneda, cantidad o saldo de deuda.",
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "No se ha establecido el acceso de Madame Oghma a este pasaje."
+    },
+    {
+      "id": "01-030",
+      "titulo": "Servicio de meses, desfase temporal",
+      "tipo": "explicacion_director",
+      "afirmacion": "El director dice que Nox e Ione llevan algunos meses con Bonnie, y compara su sonrisa con la del accidente del barco. La presentación del accidente es anterior a este presente de la aventura.",
+      "inicio": "02:14:29.000",
+      "fin": "02:14:51.000",
+      "cita": "como lleváis algunos meses",
+      "entidades": [
+        "Nox",
+        "Ione",
+        "Happy Bonnie / Bonny (grafía provisional)"
+      ],
+      "ambito": "explicación del director",
+      "conocedores": [
+        "Nox",
+        "Ione"
+      ],
+      "confianza": "alta para los meses; media para reconstrucción de la transición temporal",
+      "limitacion": "No hay fecha ni duración exacta. La relación retrospectiva es una inferencia explícita a partir de los meses y la comparación con el accidente.",
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "No se ha establecido el acceso de Madame Oghma a este pasaje."
+    },
+    {
+      "id": "01-031",
+      "titulo": "Pinky vende hierbas a Ione",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Pinky entrega hierbas a Ione a cambio de dos monedas y al irse dice que la ha timado dándole orégano. El director confirma que Ione la ha escuchado y esta huele la bolsa y reacciona.",
+      "inicio": "02:17:12.000",
+      "fin": "02:20:05.000",
+      "cita": "le he dado orégano.",
+      "entidades": [
+        "Pinky",
+        "Ione",
+        "Nox"
+      ],
+      "ambito": "transacción y revelación audible",
+      "conocedores": [
+        "Pinky",
+        "Ione"
+      ],
+      "confianza": "alta para transacción y conocimiento de Ione; contenido declarado por Pinky",
+      "limitacion": "La identificación como orégano procede de la confesión de Pinky; no se describe una comprobación botánica. No se deduce la sustancia que Ione esperaba.",
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "No se ha establecido el acceso de Madame Oghma a este pasaje."
+    },
+    {
+      "id": "01-032",
+      "titulo": "Propuesta de explorar la isla",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Nox propone a Mamá y al guerrero que le enseñen la isla y hacer una exploración próximamente. Mamá se muestra dispuesta a compartir lo que sabe y ambos advierten sobre los peligros.",
+      "inicio": "02:20:58.000",
+      "fin": "02:23:56.000",
+      "cita": "podamos hacer algún tipo de exploración",
+      "entidades": [
+        "Nox",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Guerrero nativo (Tlachka, grafía provisional)"
+      ],
+      "ambito": "conversación sobre futura exploración",
+      "conocedores": [
+        "Nox",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Guerrero nativo (Tlachka, grafía provisional)"
+      ],
+      "confianza": "alta para propuesta",
+      "limitacion": "No se fija destino ni se realiza una expedición en este episodio. Sacrificios y jaguares aparecen como advertencias de los personajes, no como sucesos recién presenciados.",
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "No se ha establecido el acceso de Madame Oghma a este pasaje."
+    },
+    {
+      "id": "01-033",
+      "titulo": "Alojamiento en el Zampaolas",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Nox ofrece cama y techo a Mamá y al guerrero. Los lleva al barco que llama Zampaolas, todavía estampado y averiado junto a la taberna, y les muestra dónde pueden dormir.",
+      "inicio": "02:24:03.000",
+      "fin": "02:28:14.000",
+      "cita": "aquí lo tenéis, el zampaolas.",
+      "entidades": [
+        "Nox",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Guerrero nativo (Tlachka, grafía provisional)",
+        "Barco Zampaolas (grafía provisional)",
+        "Taberna de Bonnie"
+      ],
+      "ambito": "oferta de alojamiento y traslado al barco",
+      "conocedores": [
+        "Nox",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Guerrero nativo (Tlachka, grafía provisional)"
+      ],
+      "confianza": "alta",
+      "limitacion": "El ofrecimiento no prueba que el barco pueda navegar ni que los huéspedes duerman finalmente allí.",
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "No se ha establecido el acceso de Madame Oghma a este pasaje."
+    },
+    {
+      "id": "01-034",
+      "titulo": "Luna llena, cadenas y salto al mar",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Al cierre, Nox consulta su cuaderno o mapa y observa símbolos que encajan con partes de la armadura del guerrero, según su narración. Se establece que sale la luna llena. Nox toma unas cadenas y se lanza hacia el mar con ayuda de un cabo.",
+      "inicio": "02:28:18.000",
+      "fin": "02:29:07.000",
+      "cita": "allá vamos. Cojo la cojo unas cadenas y",
+      "entidades": [
+        "Nox",
+        "Ione",
+        "Guerrero nativo (Tlachka, grafía provisional)"
+      ],
+      "ambito": "acción de cierre de Nox; escena de Ione fuera de plano",
+      "conocedores": [
+        "Nox"
+      ],
+      "confianza": "alta para acciones y luna; significado desconocido",
+      "limitacion": "No se muestra a Nox encadenando a Ione ni se explica el motivo. La relación con 01-019 es una pista interpretativa, no un resultado consumado.",
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "No se ha establecido el acceso de Madame Oghma a este pasaje."
+    }
+  ],
+  "misiones": [
+    "Encargo de Bonnie: conseguir dinero de visitantes y retirar del pueblo a la anciana (01-012). Hay robos y una bolsa recogida por un hombre de Bonnie (01-017, 01-029), pero no consta liquidación de la deuda ni aceptación formal del resultado. Pinky sigue circulando por el poblado: no se documenta su expulsión definitiva.",
+    "Objetivo personal del elfo: reparar una reliquia familiar y obtener información/ayuda (01-018). No se muestra reparación ni se confirma que la pistola ornamentada sea esa reliquia.",
+    "Objetivos declarados de Patata y del visitante: crear una granja y un casino (01-002, 01-003). No se muestra construcción ni concesión de terrenos.",
+    "Exploración de la isla propuesta, sin destino ni salida ejecutada (01-032).",
+    "Incidente de la criatura ígnea: Mamá logra que salga de la taberna (01-023). No se documenta la reparación de los daños ni una recompensa."
+  ],
+  "preguntas": [
+    "¿Por qué Ione pide cadenas esa noche? ¿Qué relación hay con la luna llena y la acción final de Nox? 01-019 y 01-034 no confirman licantropía.",
+    "¿Qué significan las coincidencias que Nox ve entre su mapa y la armadura del guerrero? 01-034.",
+    "¿Por qué murieron los hijos adoptivos de Mamá antes que ella? Su relato no da causa: 01-007.",
+    "¿Existen las pirámides de oro y dónde están? Se presenta como leyenda: 01-021.",
+    "¿Qué ocurrió con la familia del elfo, cuál es su reliquia y quién puede repararla? 01-005 y 01-018.",
+    "¿Cómo se llama el dragoncito? La mención Zari a 01:47:33–01:47:48 es una candidata, sin presentación inequívoca en la transcripción.",
+    "¿Cuánto deben los piratas a Bonnie y cuánto descuenta por lo obtenido? No consta saldo: 01-011 y 01-029.",
+    "¿Cuándo ocurre exactamente el accidente respecto a la llegada del resto? Solo se indican algunos meses de servicio: 01-030."
+  ],
+  "contradicciones": [
+    "Visibilidad del dragoncito: el director describe inicialmente una cabecita visible, el jugador indica que está escondido y el director acepta. Conservar ambas versiones y la corrección (01-010, 00:19:25–00:19:48).",
+    "Raza e identidad del visitante: el director lo describe como tiefling y él se presenta como sátiro de ubres azules con otro nombre. Se conserva como discrepancia entre narración y autodescripción (01-015), sin resolver su especie por una broma.",
+    "El reptil de Mamá se describe primero como iguana y luego como camaleón. Nombre y especie quedan pendientes de audio u otra presentación (01-028).",
+    "El montaje presenta el accidente al inicio, pero después el director dice que llevan meses con Bonnie. Se registra el salto temporal implícito (01-008 y 01-030); no se considera probado que todo transcurra el mismo día."
+  ],
+  "nombres_dudosos": [
+    "Patatamón/Patataman/Patata Man: se usa Patata / Patatamán como etiqueta provisional; no se fija grafía del nombre completo.",
+    "Kilzer/Kilcer/Kircer/Kilter: mismo visitante por continuidad de escenas; grafía por confirmar. Clementon/Clementa es una autodenominación distinta, no un reemplazo global.",
+    "Tachka/Tlachka/Tlaxka/Trasca y Trashcarlet Kutley (00:48:17): se conserva guerrero nativo como identidad provisional; no se inventa ortografía completa.",
+    "Erendriel/Erendil/Arendi: mismo elfo por continuidad; grafía completa pendiente.",
+    "Nantlitlali/Cicitlali/Sitlali/Citrali: identidad Mamá candidata a Citlali por presentación y referencia del usuario; Coyote no confirmado aquí.",
+    "Ictan → candidato Iktan; Cuikapali/Quicapali → candidato Cuicapalli. Las grafías aportadas por el usuario no sustituyen automáticamente todas las ocurrencias.",
+    "Jone/Eone/Oone/June → Ione en esta ficha por continuidad de interlocución y las menciones explícitas Ione (01:30:15 y otros pasajes); sin sustitución global de esos alias.",
+    "Bonnie/happy bonnie → Happy Bonnie / Bonny: nombre claramente identificable; ortografía Bonny frente a Bonnie pendiente.",
+    "Cipo/Tipo/cipo: criatura ígnea por continuidad de escena. Pix y Pinky son personajes diferentes: el mono de la barra y la anciana.",
+    "Mico y Zari: nombres de criaturas pendientes de confirmación, sin fusionar reptil de Mamá, dragoncito del elfo y Cipo.",
+    "Soltacán/Cholacón/Chaltacán/Choltacá y otras variantes de Xoltacan siguen literales en los derivados hasta revisar alias. Solo Choltacán y Choltacan tienen normalización automática aprobada."
+  ]
+}

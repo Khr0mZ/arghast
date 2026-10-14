@@ -1,0 +1,530 @@
+{
+  "revisado_hasta": 39,
+  "criterio": "Síntesis editorial por etapas a partir de los registros revisados. Los testimonios se atribuyen a quien los cuenta y no se cierran destinos ni identidades que las fuentes dejan abiertos.",
+  "personajes": {
+    "Axi": [
+      {
+        "titulo": "De Chochi a pirata",
+        "texto": "El arquero al que inicialmente llaman Chochi cuenta que su tribu fue destruida y que, después de vagar, encontró compañía en Ayoto, con quien comparte lengua y costumbres. Ambos ayudan a Ione a regresar a Shiaru tras encontrarla en la selva. El encuentro submarino con las sirenas casi le cuesta la vida: Ione, transformada en loba, lo muerde y Poncelot acaba reanimándolo. Axi interpreta aquella experiencia como el abandono de su dios y decide aferrarse a una nueva vida como pirata.",
+        "referencias": [
+          "02-021",
+          "06-030",
+          "06-036",
+          "06-038",
+          "09-004"
+        ]
+      },
+      {
+        "titulo": "Cautiverio y nuevas lealtades",
+        "texto": "La búsqueda del mono Pix lo lleva a Ruki Peten, donde los hombres lagarto lo derrotan y encierran junto a Patata y Blink. Una segunda expedición consigue liberarlos. Después vuelve a explorar templos y campamentos; Kilzer lo contrata para detectar tramposos en su futuro casino. En Ras Racor mata al gran cocodrilo que ha engullido a Naór y Triel y supera con sus compañeros la prueba de la arena. Continúa viaje junto a la princesa, que más adelante también lo rescata cuando cae ante una serpiente.",
+        "referencias": [
+          "10-027",
+          "11-027",
+          "17-002",
+          "17-017",
+          "20-015"
+        ]
+      },
+      {
+        "titulo": "La defensa de Cuicapalli y el regreso a la selva",
+        "texto": "En el festival de Cuicapalli una infiltrada consigue obligarlo mentalmente a dejar de seguirla. Axi vuelve al combate cuando se revela el ataque de los yuan-ti y obtiene un arco venenoso. También ayuda a defender el acceso sur de la ciudad frente a la Marina: agota sus flechas y necesita que su espíritu volador recupere algunas para seguir luchando. Su última expedición recogida lo reúne con Nox, Eleanor y Poncelot; los caníbales lo capturan como ofrenda, pero consigue escapar de la hoguera y regresar hacia Shiaru.",
+        "referencias": [
+          "22-010",
+          "22-018",
+          "27-014",
+          "27-017",
+          "33-017",
+          "33-019"
+        ]
+      }
+    ],
+    "Ayoto": [
+      {
+        "titulo": "Un devoto del Sol entre dos mundos",
+        "texto": "Ayoto es un goliat que combate con dos escudos semejantes a caparazones. Según su relato, llegó joven a Xoltacan, una tribu lo adoptó y después lo expulsó por su tamaño. Viaja con Chochi y ayuda a Ione a regresar a Shiaru. Su devoción por el Sol orienta muchas de sus decisiones, aunque también permite que Blink lo engañe haciéndose pasar por su dios mediante telepatía. En la expedición al templo del nawal ayuda a vencer a la criatura y se lleva su cuerpo, cuya desaparición intentará aclarar después.",
+        "referencias": [
+          "02-006",
+          "02-021",
+          "08-014",
+          "08-023",
+          "13-002"
+        ]
+      },
+      {
+        "titulo": "De explorador a defensor de Cuicapalli",
+        "texto": "La primera búsqueda de Pix termina mal: Ayoto logra retirarse de Ruki Peten, pero Patata, Blink y Axi quedan cautivos. Más tarde viaja con Baton y Nelli hasta Cuicapalli y empieza a vincularse a su comunidad. Entrena con sus habitantes, ayuda a investigar un templo ocupado por hombres serpiente y participa en la lucha contra las amenazas de la charca. Durante el festival gana el concurso de comer dinosaurio y recibe un caparazón; cuando llega la Marina, se suma a la defensa de la entrada sur y protege a sus compañeros.",
+        "referencias": [
+          "10-024",
+          "16-005",
+          "18-002",
+          "18-020",
+          "22-006",
+          "27-015"
+        ]
+      },
+      {
+        "titulo": "La expedición submarina y el rescate de Etley",
+        "texto": "Reclutado por Coyote, desciende hacia Perlasal para ayudar al pueblo de Maris. Sufre la magia de los merros y descubre que su interés religioso no basta para acceder al templo de Ivet. Después relata que una negociación con los sirénidos fracasó y vuelve a entrenar a los habitantes de Cuicapalli. Al encontrar a Citlali y Etley amenazados por los hombres serpiente, ocupa el lugar de ella en un agarre. Tras el derrumbe de la cueva excava para rescatarlos, ayuda a curar a la cría con una fruta y acompaña al grupo hasta Iktan.",
+        "referencias": [
+          "29-013",
+          "29-025",
+          "39-001",
+          "39-006",
+          "39-012",
+          "39-014",
+          "39-020"
+        ]
+      }
+    ],
+    "Blink": [
+      {
+        "titulo": "Un hada perdida y una libertad recuperada",
+        "texto": "Blink procede de un bosque donde, según cuenta, los árboles hablaban y vivían criaturas distintas de las de este mundo. Sus primeras escenas la muestran cautiva de dos piratas, hasta que Mamá interviene y la libera. Se une a las exploraciones de sus nuevos compañeros y utiliza su magia para contener a Ione cuando pierde el control de la transformación lupina. Su adaptación a la isla incluye engaños telepáticos, incursiones en ruinas y una larga búsqueda de sus captores y de su mondadientes.",
+        "referencias": [
+          "03-002",
+          "03-005",
+          "03-030",
+          "08-004",
+          "14-003"
+        ]
+      },
+      {
+        "titulo": "Cautiva otra vez; un refugio en Cuicapalli",
+        "texto": "En Ruki Peten intenta ayudar a Axi y Patata, pero termina capturada junto a ellos y encerrada en una botella. Mamá la recoge durante la expedición de rescate. Ya libre, participa en otras incursiones y llega a Cuicapalli, donde ayuda en las tareas del pueblo y dice sentirse más cómoda y menos agresiva. Eromov le confía además una responsabilidad: acompañar a Leona y enseñarle a actuar con más prudencia.",
+        "referencias": [
+          "10-023",
+          "10-027",
+          "11-027",
+          "19-001",
+          "19-017"
+        ]
+      },
+      {
+        "titulo": "El collar que no debía llevar consigo",
+        "texto": "Tras derrotar a un hombre serpiente, recoge un collar que sisea y le hace sentir una presencia poderosa dentro de la cabeza. Lo guarda en una fruta para evitar tocarlo. Más adelante, sobre un estanque de sangre, ella y Zarial sufren una visión paralizante; la causa no queda identificada por los personajes en ese momento. Cuando las órdenes de unos atacantes mencionan el mapa y el collar, Blink revela que lo conserva. Acaba abandonándolo durante la huida del templo serpentino, sin que eso establezca que la amenaza haya terminado.",
+        "referencias": [
+          "19-014",
+          "21-015",
+          "25-021",
+          "28-010"
+        ]
+      },
+      {
+        "titulo": "Al lado de Citlali y de Ione",
+        "texto": "Blink vuelve a ayudar a Citlali cuando desaparece el huevo: busca entre los piratas, entra en la tienda de la Marina y participa en su recuperación, poco antes de la eclosión. En otra expedición intercambia temporalmente su cuerpo con Poncelot y se enfrenta a un tiranosaurio. Cuando un segundo hombre lobo la ataca, Ione logra reconocer a sus aliados aun transformada y la protege. Ese encuentro deja pendiente la identidad y el propósito del otro licántropo.",
+        "referencias": [
+          "34-005",
+          "34-013",
+          "34-016",
+          "36-008",
+          "36-014",
+          "36-015"
+        ]
+      }
+    ],
+    "Citlali": [
+      {
+        "titulo": "Mamá y el huevo de las ruinas",
+        "texto": "La anciana conocida como Mamá se presenta como Citlali y pronto asume un papel protector: libera a Blink de sus captores, cuida de los viajeros e intenta mantener el equilibrio alrededor de Ione. Durante una expedición a un templo derrumbado recoge un huevo y decide criarlo. No participa en el acuerdo secreto con el que Nox promete a Bonnie entregar la futura criatura. El huevo se convierte en una responsabilidad persistente, mientras sus tatuajes y las visiones relacionadas con Nox siguen sin explicación completa.",
+        "referencias": [
+          "01-014",
+          "03-002",
+          "04-006",
+          "07-023",
+          "07-033",
+          "09-003"
+        ]
+      },
+      {
+        "titulo": "Una curación que roba vida",
+        "texto": "Al llegar a Cuicapalli recibe unas botas con signos semejantes a sus tatuajes y una advertencia enigmática sobre el tiempo. Sus intentos de curar empiezan a dañar a los compañeros y a reducir sus arrugas. Citlali oye cascabeles, oculta sus heridas y se distancia por miedo a causar más daño. Pese a ello continúa combatiendo a las criaturas serpentinas; durante el festival detecta a dos infiltradas y resiste influencias mentales. Los enemigos exigen un collar que, en realidad, lleva Blink.",
+        "referencias": [
+          "18-005",
+          "18-009",
+          "19-001",
+          "19-007",
+          "22-009",
+          "22-013"
+        ]
+      },
+      {
+        "titulo": "La búsqueda termina en un nacimiento",
+        "texto": "Tras una ausencia cuyo detalle no se reconstruye por completo, Citlali relata que una pirata la liberó y que Bonnie le advirtió que evitara Shiaru. Regresa para recoger sus pertenencias y descubre que la Marina se llevó el huevo. Con Blink, Zarial y Winscore sigue el rastro hasta un campamento y consigue recuperarlo. Un disparo perfora la cáscara durante la huida; al intentar curarla, el grupo presencia el nacimiento de una cría de dinosaurio emplumada que después será llamada Etley.",
+        "referencias": [
+          "34-001",
+          "34-003",
+          "34-006",
+          "34-013",
+          "34-016",
+          "34-018"
+        ]
+      },
+      {
+        "titulo": "Marcada y perseguida",
+        "texto": "Citlali cuida de Etley en una antigua cueva yuan-ti, pero los hombres serpiente vuelven a encontrarlos. En el combate su maldición cura a una abominación enemiga y oye que necesitan su piel como clave. Las explosiones derrumban el refugio y ambos quedan atrapados, vivos y heridos, hasta que sus compañeros y los guardias los rescatan. De camino a Iktan, el dragón invisible Clodidrax le ofrece paso a cambio de noticias de dos elfos pálidos. Walulu admite al grupo, cura a la cría y pide hablar sobre sus tatuajes. El significado de las marcas y el trato con el dragón permanecen abiertos.",
+        "referencias": [
+          "39-008",
+          "39-010",
+          "39-013",
+          "39-016",
+          "39-017",
+          "39-018"
+        ]
+      }
+    ],
+    "Ione": [
+      {
+        "titulo": "Una pirata endeudada y un secreto peligroso",
+        "texto": "Ione y Nox trabajan para Bonnie porque el Zampaolas acabó incrustado en su taberna. Las primeras ausencias de Ione y las cadenas rotas del camarote anticipan su condición de mujer lobo, que se manifiesta ante el grupo durante el ataque a una excavación de la Marina. Su fuerza la convierte en una amenaza también para sus aliados: Blink tiene que calmarla y ella llega a pedir que la dejen inconsciente para evitar otra transformación. Según la recapitulación de su jugadora, su pérdida de control acaba con la primera Merlucilla.",
+        "referencias": [
+          "01-011",
+          "02-007",
+          "03-024",
+          "03-030",
+          "04-003",
+          "04-012"
+        ]
+      },
+      {
+        "titulo": "Rescates, deudas y una tripulación que proteger",
+        "texto": "A pesar del riesgo, Ione sigue saliendo con el grupo: participa en el robo de los documentos de Bonnie, sobrevive a los disparos de la Marina y organiza el rescate de Pix y los aventureros capturados en Ruki Peten. Allí Poncelot consigue calmarla en forma de loba y dirigirla contra los enemigos. Cuando Nox cae preso en Aurora, ella vuelve a reunir compañeros para liberarlo. La relación con él alterna cooperación, reproches y exigencias de sinceridad, sin romper la lealtad que ambos declaran.",
+        "referencias": [
+          "05-019",
+          "11-001",
+          "11-020",
+          "23-001",
+          "23-009",
+          "26-005",
+          "26-007"
+        ]
+      },
+      {
+        "titulo": "Al frente del Zampaolas",
+        "texto": "Ione asume el cuidado del barco y de su gente, recluta nuevos compañeros y sanciona a Jack cuando descubre que fingió ser capitán. Durante la expedición al templo serpentino reconoce la falsa transformación de Nox y lo arrastra para que no se quede atrás; Poncelot la ayuda a escapar cuando una cola la atrapa. Más adelante los hipopótamos explican que ha expulsado a Nox del barco. Continúa reparando el Zampaolas y responde a los encargos de Bonnie y Molly mientras la guerra con la Marina se agrava.",
+        "referencias": [
+          "24-020",
+          "28-002",
+          "28-011",
+          "28-012",
+          "28-022",
+          "34-003",
+          "36-001",
+          "36-004"
+        ]
+      },
+      {
+        "titulo": "Aprender a ser loba sin perderse",
+        "texto": "En la expedición a las ruinas arrasadas, Ione vuelve a atacar a sus aliados, pero el apoyo de Poncelot le permite recuperar el control sin abandonar la forma lupina y proteger a Blink de otro hombre lobo. Después intenta rastrear a ese desconocido sin alcanzarlo. En Shiaru conoce a Ilikar, empata con él en un duelo y lo incorpora a la tripulación. Ambos ayudan a desencajar el barco mientras combaten a un pulpo gigante. Ione lo muerde como gesto de pertenencia y protección: él siente algo extraño, pero no se confirma un contagio. Su último encuentro deja preparada una revancha, ahora con la transformación sobre la mesa.",
+        "referencias": [
+          "36-013",
+          "36-015",
+          "38-001",
+          "38-004",
+          "38-014",
+          "38-015",
+          "38-017",
+          "38-018"
+        ]
+      }
+    ],
+    "Nox": [
+      {
+        "titulo": "Jim Hawkins, capitán con deudas",
+        "texto": "Nox se presenta también como Jim Hawkins. Su relación con Ione y el accidente del Zampaolas lo atan a Bonnie, para quien roba y cumple encargos. Captura al marine Jack durante una incursión y lo incorpora a su entorno. Cuando Bonnie necesita recuperar documentos de la Marina, Nox revela que tuvo una relación con Molly y que la dejó en una isla al descubrir que era capitana. Se infiltra en su buque, libera a Lunaria y recupera el contrato, aunque el incendio posterior aumenta los problemas y las deudas.",
+        "referencias": [
+          "01-011",
+          "03-029",
+          "05-009",
+          "05-015",
+          "05-024",
+          "05-031",
+          "07-009"
+        ]
+      },
+      {
+        "titulo": "Tratos, rescates y alianzas incómodas",
+        "texto": "Alterna las expediciones de saqueo con negocios: participa en el rescate de Pix, recupera una moneda vinculada a los cinco reyes piratas y propone a Kilzer un casino del que pretende recibir una parte. Su trato con los compañeros mezcla ayuda, robos y manipulaciones. Al visitar a Molly termina encadenado en Fuerte Aurora. Ione organiza un rescate, mientras él aprovecha herramientas ocultas para liberarse, roba documentación y escapa en una barca después de provocar varias distracciones.",
+        "referencias": [
+          "11-023",
+          "11-024",
+          "11-028",
+          "11-031",
+          "13-011",
+          "23-004",
+          "23-010",
+          "23-017"
+        ]
+      },
+      {
+        "titulo": "Lo que lleva en la espalda",
+        "texto": "La investigación de los glifos y de un mapa lo conduce a un templo donde un hombre serpiente afirma necesitar lo que Nox lleva en la espalda y lo trata como a alguien esperado. Nox finge una transformación para engañarlo, pero el intento desemboca en combate. Durante la huida arranca un ojo-orbe de una estatua: ve un portal tentacular, un ritual con él sobre un altar y una serpiente alada sobre la isla. Entrega el objeto a Bonnie e intenta obtener respuestas sobre una anciana tatuada. Ella condiciona su información a que averigüe por qué aparece en aquel altar.",
+        "referencias": [
+          "26-022",
+          "28-001",
+          "28-013",
+          "28-015",
+          "28-019",
+          "28-021"
+        ]
+      },
+      {
+        "titulo": "Entre Bonnie, Molly y la amenaza de Aurora",
+        "texto": "Busca un refugio para Citlali y en el camino reencuentra a Mingo, Mango y Mungo, antiguos tripulantes convertidos en líderes de caníbales. Más tarde entra en Aurora y libera a Molly, destituida y encarcelada. Una criatura cautiva le muestra una isla devastada y le pide libertad; Molly impide que abra la jaula. Tras regresar, Nox participa en la emboscada a un convoy de la Marina. Bonnie le presta el ojo con la condición de no sacarlo de Shiaru, pero una tirada revela su intención de incumplirla. Roba además una bolsa de oro y parte en bote hacia el fuerte. No se muestra el resultado de ese nuevo viaje.",
+        "referencias": [
+          "33-006",
+          "33-016",
+          "35-012",
+          "35-014",
+          "37-004",
+          "37-017",
+          "37-018"
+        ]
+      }
+    ],
+    "Kilzer": [
+      {
+        "titulo": "Un casino en una isla de piratas",
+        "texto": "Kilzer llega con un proyecto propio: construir un gran casino, después de un pasado de robos y negocios que él mismo relata. Sus primeras aventuras en Shiaru lo acercan a Nox e Ione y al reparto de tesoros, gemas y monedas. Nox termina proponiéndole un negocio conjunto; el reparto anunciado reserva la mitad para Kilzer y el resto para Bonnie y Nox. Las obras avanzan lentamente y Kilzer contrata a Axi para detectar tramposos, pero incluso en su última aparición el casino sigue cerrado.",
+        "referencias": [
+          "01-003",
+          "11-031",
+          "13-011",
+          "15-001",
+          "17-002",
+          "29-001"
+        ]
+      },
+      {
+        "titulo": "Financiar el sueño sobreviviendo a la jungla",
+        "texto": "Mientras prepara el local participa en expediciones: se enfrenta a las sirenas, investiga el templo del nawal y acompaña al rescate de los prisioneros de Ruki Peten. Los beneficios no llegan sin peligro. Las plantas lo atrapan en otro templo y Nox debe liberarlo; en el poblado caníbal cae herido y acaba envuelto en robos cruzados con Eldrat. También supera la prueba de la arena de Ras Racor y se infiltra disfrazado de marine durante el rescate de Nox.",
+        "referencias": [
+          "06-038",
+          "08-023",
+          "11-019",
+          "13-018",
+          "15-014",
+          "15-018",
+          "17-021",
+          "23-007"
+        ]
+      },
+      {
+        "titulo": "Un encargo de Coyote bajo el agua",
+        "texto": "Coyote le paga para ayudar al pueblo de Maris y lo incorpora a la expedición que llega a Perlasal. En el combate contra los merros, la magia enemiga lo paraliza y un rayo lo derriba; Coyote consigue darle una poción y recuperarlo. El grupo vence, recibe branquias para entrar en la ciudad y obtiene hospitalidad. Esa visita termina con la amenaza de los secuestros y del kraken aún pendiente, sin que se muestre la apertura del casino que Kilzer sigue intentando levantar.",
+        "referencias": [
+          "29-002",
+          "29-016",
+          "29-017",
+          "29-019",
+          "29-022",
+          "29-024"
+        ]
+      }
+    ],
+    "Patata": [
+      {
+        "titulo": "Cultivar una nueva vida",
+        "texto": "Patata, presentado también como Patatamán, cuenta que procede de Cartagena y que busca tierras mejores que las de su granja del desierto. En Shiaru empieza a talar y plantar, pero el proyecto queda ligado a Bonnie y a sus exigencias. Una gema utilizada para pagar alojamiento lo arrastra a las reclamaciones de la pirata. Aun así consigue trabajar un huerto cerca del poblado y negocia la posibilidad de abastecerlo de comida. Su vida de agricultor convive desde el principio con la magia de curación y las expediciones armadas.",
+        "referencias": [
+          "01-002",
+          "04-030",
+          "07-034",
+          "10-007",
+          "14-004",
+          "15-003"
+        ]
+      },
+      {
+        "titulo": "Cautiverio, maldición y pérdidas",
+        "texto": "En el intento de recuperar a Pix resiste rodeado de hombres lagarto hasta que cae prisionero con Blink y Axi. Sus compañeros lo liberan, aunque pierde parte del equipo. Más tarde una aparición le deja una marca negra y Bonnie lo expulsa de Shiaru hasta que resuelva el peligro. La búsqueda lo lleva al mercante de una tripulación muerta: la rotura del relicario hace desaparecer a los espectros, el veneno y su marca. Después trata de dar sepultura a Erendriel y conserva mágicamente su cadáver, pero Bonnie lo retiene como advertencia.",
+        "referencias": [
+          "10-023",
+          "10-027",
+          "11-027",
+          "13-003",
+          "14-010",
+          "14-024",
+          "14-025",
+          "16-004"
+        ]
+      },
+      {
+        "titulo": "El martillo y las dos ciudades",
+        "texto": "El director narra que su espada rota queda clavada en una patata y que, al recogerla, obtiene el Patata Hammer, capaz de reforzar curaciones o daño radiante. Viaja a Cuicapalli, ayuda a combatir a los yuan-ti y sigue intentando sostener a sus compañeros, aunque la curación de Citlali llega a dañarlo. También vuelve a Shiaru: combate junto a Ione contra los impostores marinos y ayuda a guiarla cuando se vuelve loba. Durante el asalto de la Marina defiende el poblado con Eleanor, Erandy y Lunaria. Más tarde se hace pasar por comerciante en Aurora para apoyar la misión que termina con la liberación de Molly.",
+        "referencias": [
+          "16-001",
+          "16-005",
+          "18-009",
+          "18-020",
+          "24-011",
+          "32-007",
+          "32-017",
+          "35-013",
+          "35-019"
+        ]
+      }
+    ],
+    "Sir Poncelot": [
+      {
+        "titulo": "Un caballero y muchas Merlucillas",
+        "texto": "Sir Poncelot es un gnomo que interpreta la isla según sus propios ideales de caballería. Cuando conoce al grupo intenta montar un dinosaurio al que toma por caballo y llama Merlucilla. La desaparición de esa montura se convierte para él en una búsqueda, aunque los demás cuentan que Ione se la comió. En las ruinas submarinas rescata un hipocampo y lo convierte en Merlucilla II. Más adelante cabalga una mosca gigante, después un tigre y finalmente un tiburón: comparten el nombre, pero son animales distintos.",
+        "referencias": [
+          "03-008",
+          "03-010",
+          "04-003",
+          "06-023",
+          "20-005",
+          "26-011",
+          "38-009"
+        ]
+      },
+      {
+        "titulo": "Rescatar, combatir y encontrar un mapa",
+        "texto": "Su ideal caballeresco lo lleva a aceptar el rescate de Pix y los cautivos. En Ruki Peten logra calmar a Ione y dirigirla en forma de loba. Participa también en las expediciones de Cuicapalli y en el rescate de Nox de Aurora, donde la mosca evacúa a parte del grupo. Al explorar un templo ocupado por la Marina encuentra un mapa con una X y el nombre provisional Slaz. El documento atrae después a hombres serpiente que atacan Shiaru para recuperarlo.",
+        "referencias": [
+          "11-007",
+          "11-020",
+          "18-014",
+          "20-014",
+          "23-016",
+          "25-013"
+        ]
+      },
+      {
+        "titulo": "El precio de seguir adelante",
+        "texto": "Pinky mata a Merlucilla III para utilizarla como cebo de un tigre; Poncelot llora, entierra sus restos y acaba montando al felino. En el templo serpentino mata al anfitrión, cae por su explosión y necesita ayuda. Aun así vuelve a intervenir para liberar a Ione durante la huida y lleva a Bonnie el ojo-orbe de la estatua. Más adelante Nox lo rescata de unos caníbales que lo preparaban como comida. Su trayectoria combina esas situaciones absurdas y peligrosas con una lealtad práctica hacia sus compañeros.",
+        "referencias": [
+          "26-010",
+          "26-011",
+          "28-008",
+          "28-012",
+          "28-019",
+          "33-015",
+          "33-017"
+        ]
+      },
+      {
+        "titulo": "Un vínculo con la capitana",
+        "texto": "La ayuda de Poncelot permite a Ione reconocer a sus aliados sin dejar de ser loba y proteger a Blink del segundo licántropo. Después se suma a la extracción del Zampaolas: cae al agua, calma y cura al tiburón que lo perseguía y lo incorpora como Merlucilla V. Cuando Ilikar entra en la tripulación, Ione le asegura al gnomo que no lo ha reemplazado. El barco queda por fin desencajado, aunque con la proa dañada y reparaciones pendientes.",
+        "referencias": [
+          "36-015",
+          "38-008",
+          "38-009",
+          "38-015",
+          "38-018"
+        ]
+      }
+    ],
+    "Tlachka": [
+      {
+        "titulo": "Las advertencias de un superviviente",
+        "texto": "Tlachka se presenta como un guerrero nativo que dejó su tierra porque la llegada de los piratas alteró la vida de la isla. Advierte que algunos tesoros es mejor no tocarlos y relaciona los relatos de criaturas negras con las leyendas de los nawals. Acompaña a Blink, Kilzer, Erendriel y Ayoto al templo donde una criatura humanoide se transforma en pantera y, al morir, vuelve a tener cuerpo de mujer. Su conocimiento local no convierte por sí solo las leyendas en explicaciones confirmadas.",
+        "referencias": [
+          "08-005",
+          "08-009",
+          "08-021",
+          "08-023"
+        ]
+      },
+      {
+        "titulo": "Defender el pueblo y ayudar bajo el mar",
+        "texto": "Entre sus expediciones vende elotes y otros alimentos. Durante un ataque nocturno descubre a una mujer serpiente en la habitación de Poncelot y combate para sobrevivir. Después se reúne con Ayoto, Axi, Guayacán y Cipo para defender Cuicapalli de la Marina. Relata haber sobrevivido a un sacrificio. Tras revisar las trampas de la defensa, acepta la petición de Coyote y participa en la expedición que llega a Perlasal para ayudar a Maris.",
+        "referencias": [
+          "25-003",
+          "25-005",
+          "27-004",
+          "27-012",
+          "29-001",
+          "29-004",
+          "29-019"
+        ]
+      },
+      {
+        "titulo": "Del convoy a las puertas de Iktan",
+        "texto": "Bonnie y Molly lo ponen al mando de una emboscada contra un convoy de suministros de la Marina. El grupo consigue entregar una de las carretas y recibe una recompensa. Después encuentra a Citlali cerca de Cuicapalli, ayuda a defender a Etley y, cuando se derrumba la cueva, va a buscar guardias para el rescate. Sobrevive al drenaje de vida de Citlali y la acompaña hacia el norte hasta Iktan. Al final busca alojamiento separado para evitar las molestias de Coyote.",
+        "referencias": [
+          "37-004",
+          "37-015",
+          "39-013",
+          "39-014",
+          "39-020"
+        ]
+      }
+    ],
+    "Lunaria": [
+      {
+        "titulo": "De prisionera de la Marina a exploradora",
+        "texto": "Nox encuentra a Lunaria cautiva a bordo de un buque de la Marina. La kender cuenta que lleva años navegando por la libertad del mar y cree ser la única superviviente de la captura de su barco. Acepta ayudarlo a recuperar los documentos de Bonnie y utiliza su magia para abrir candados y crear distracciones. Ya libre, participa en la expedición que descubre el huevo de Mamá y en otras exploraciones de templos, donde combina curiosidad, pequeños robos y una interpretación muy personal de lo que encuentra.",
+        "referencias": [
+          "05-015",
+          "05-016",
+          "05-020",
+          "07-005",
+          "07-024",
+          "13-005"
+        ]
+      },
+      {
+        "titulo": "Mapas, mezclas y una vocación de chamana",
+        "texto": "Encuentra un mapa que la lleva a buscar un templo junto a Triel, pero acaba extraviada y conoce a Naór. Tras llegar a Cuicapalli descubre que el documento ni siquiera corresponde a la zona. Allí se interesa por el trabajo del alquimista kenku, recoge ingredientes y manipula tubos sin identificar. Más adelante se presenta como capaz de curar maldiciones, aunque esa afirmación no demuestra una capacidad concreta. Durante la investigación de la Hoja Caída sus bolas de fuego ayudan a vencer, pero destruyen parte de las pruebas; después reconoce que necesita elegir mejor dónde apuntar.",
+        "referencias": [
+          "16-006",
+          "16-017",
+          "16-020",
+          "30-003",
+          "30-014",
+          "30-022"
+        ]
+      },
+      {
+        "titulo": "Fuego, pólvora y un rescate difícil",
+        "texto": "Luna ayuda a defender Shiaru durante el asalto de la Marina, aunque una bola de fuego también hiere a Patata. En Aurora provoca una explosión como parte de la distracción del grupo. Más tarde practica transformaciones y, durante la emboscada al convoy, se vuelve dinosaurio e incendia una carreta de pólvora. Su magia vuelve a cambiar el terreno cuando ayuda a defender a Citlali y Etley: dos explosiones derrumban la cueva, dejando a ambos atrapados. Luna adopta forma de oso y excava con Ayoto para rescatarlos. Viaja después a Iktan, donde Walulu cura discretamente a la cría mientras ella imita un ritual.",
+        "referencias": [
+          "32-010",
+          "35-010",
+          "37-012",
+          "39-006",
+          "39-011",
+          "39-012",
+          "39-017"
+        ]
+      }
+    ],
+    "Erendriel": [
+      {
+        "titulo": "Un explorador con un huevo de dragón",
+        "texto": "Erendriel cuenta que procede de una familia de exploradores de Puerto de Espadas dedicada a buscar artefactos y manuscritos. Su historia incluye una adversidad familiar que no explica y una tormenta durante el viaje. Conservó un huevo encontrado junto al cadáver de un dragón y llega acompañado por la cría. En Shiaru se interesa por mapas, ruinas y escrituras, y discute con Nox por el trato al pequeño animal. En la expedición al puente ambos caen heridos, pero reciben ayuda y sobreviven.",
+        "referencias": [
+          "01-005",
+          "01-006",
+          "07-009",
+          "07-017",
+          "07-019",
+          "07-020"
+        ]
+      },
+      {
+        "titulo": "El diario y la relación con Bonnie",
+        "texto": "Durante la investigación del templo del nawal pide ser llamado Salazor y se lleva un diario escrito en Terran. Su estudio acaba revelando una escritura cada vez menos verbal y más agresiva. En Ruki Peten lo capturan, pero logra salir de la jaula y retirarse con Ayoto, dejando pendiente el rescate de otros tres compañeros. Su relación con Bonnie empeora: relata que perdió parte de una oreja en una entrevista y queda sujeto a un plazo ligado al viaje de Jack a Puerto de Espadas.",
+        "referencias": [
+          "08-023",
+          "10-024",
+          "12-003",
+          "12-004",
+          "12-007",
+          "12-008"
+        ]
+      },
+      {
+        "titulo": "Un final confirmado después",
+        "texto": "Después de una expedición contra un poblado caníbal, Bonnie lo retiene por haber enviado tarde a Jack y ordena que dos piratas se lo lleven. La escena no muestra su muerte. Son las recapitulaciones y el cuerpo conservado en el capítulo siguiente los que confirman que ha muerto. Patata quiere enterrarlo y usa magia para preservar el cadáver, pero Bonnie lo mantiene como advertencia. El pequeño dragón queda separado de él; los registros no ofrecen un destino posterior completo para la criatura.",
+        "referencias": [
+          "15-021",
+          "15-022",
+          "16-002",
+          "16-004"
+        ]
+      }
+    ]
+  }
+}

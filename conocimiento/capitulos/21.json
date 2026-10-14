@@ -1,0 +1,493 @@
+{
+  "capitulo": 21,
+  "estado_revision": "revisado",
+  "resumen": "Poncelot intenta hablar con Ione sobre el mapa, sin encontrarla, y entrena a su mosca, llamada ahora Merlucilla III. Blink reside principalmente en Cuicapalli y vigila a Leona. Naór deja a Axi y vuelve a perderse mientras busca Iktan. Zarial busca contrincantes fuertes. Armin compra el jade y la obsidiana de Poncelot por ciento cincuenta monedas de oro. Triel roba licor del casino y se retira alegando que Eldrat la llama, aunque no se oye ninguna conversación. Zarial rescata al pirata del pozo. Los viajeros se reúnen en la jungla y beben un licor que provoca excitación y efectos temporales. Leona y Blink encuentran un campamento con rastros de tres criaturas arrastradas y al niño harengon Leo, escondido. Él cuenta que unos lobos se llevaron a sus padres. Blink toma dieciséis monedas de oro. Tras calmar las emociones de los demás, el grupo sigue el rastro con ayuda de los sentidos de la mosca. Llegan a una cueva donde unas esporas los duermen repetidamente y despertar les causa daño psíquico. Encuentran un estanque de sangre, restos y un humano que se transforma en un gran lobo; otros lobos tienen marcas lunares. Una melodía ralentiza a Naór, Leona y Poncelot. Durante el combate, Naór introduce el collar de plata de Leo en la boca del lobo grande y Zarial lo mata con smite. La carne alrededor de la plata aparece ennegrecida y el director adjudica una mayor vulnerabilidad a las armas. Encuentran cabezas de harengon atribuidas a los padres de Leo. Naór se proclama madre adoptiva del niño y disputa su custodia con Leona, a quien abate. Zarial cura a Leona y vuelve a abatirla cuando insiste en agredir. El collar serpiente que guarda Blink brilla sobre la sangre. Ella y Zarial ven una entidad paralizante; los demás solo observan su inmovilidad. Naór parte hacia Cuicapalli con el niño y los restos; los demás van hacia Shiaru. No se muestran las llegadas.",
+  "misiones": [
+    "Rescatar a los padres de Leo: encuentran tres rastros de criaturas arrastradas y al niño escondido. Matan a los lobos, pero hallan los restos de los padres en el estanque y no consiguen rescatarlos vivos. La tercera criatura sigue sin identificar (21-006–21-016).",
+    "Cuidar de Leo: Naór se proclama su madre adoptiva y quiere presentarlo a Eromov. Parte sola hacia Cuicapalli; no se muestra la llegada ni un reconocimiento legal de la adopción (21-014 y 21-016).",
+    "Investigar el collar serpiente del capítulo 19: vuelve a brillar sobre la sangre y provoca una visión a Blink y Zarial. Blink continúa guardándolo dentro de una fruta (21-015).",
+    "Investigar el mapa Slaz del capítulo 20: Poncelot intenta hablar con Ione, pero no la encuentra. No realiza nuevas investigaciones (21-001 y 21-016).",
+    "Vigilar a Leona: Blink la sigue durante el combate entre aliados y sus nuevas caídas. Después regresa con ella hacia Shiaru (21-004 y 21-014–21-016)."
+  ],
+  "preguntas": [
+    "¿Quién es la tercera criatura arrastrada del campamento y qué le ocurre? No se identifica (21-006–21-007).",
+    "¿El humano transformado en lobo, los lobos con marcas lunares y el estanque están vinculados al culto serpiente? El collar activa una visión, pero no se conoce un vínculo doctrinal (21-010 y 21-015).",
+    "¿Qué entidad se muestra a Blink y Zarial y habla al collar? Al final se describe como una mujer pez, sin nombre confirmado (21-015).",
+    "¿Aceptará Eromov la custodia de Leo y cómo afectará al niño lo sucedido? Queda pendiente (21-016)."
+  ],
+  "contradicciones": [
+    "Poncelot llama explícitamente Merlucilla III a la mosca B del capítulo 20. No se trata de un tercer animal aparte (21-001).",
+    "Se rastrean tres cautivos, pero el niño solo menciona a sus dos padres. No puede resolverse la diferencia inventando un familiar (21-006–21-007).",
+    "Los viajeros especulan que Eldrat es inventado, pese a su presencia real en capítulos anteriores. Que no se oiga su voz aquí no demuestra su inexistencia (21-003).",
+    "La búsqueda termina con los padres muertos, no con un rescate de Nox. La intención previa del director, comentada fuera de juego, no es información recibida por los personajes (21-006 y 21-014).",
+    "Dormir por las esporas no equivale a morir. Leona, abatida por dos aliadas, termina curada con un punto y decide seguir dormida (21-009, 21-014 y 21-016).",
+    "El collar de plata de Leo y el collar serpiente que Blink guarda dentro de una fruta son objetos distintos (21-013 y 21-015)."
+  ],
+  "nombres_dudosos": [
+    "Merlucilla tercera es el nombre explícito de la nueva mosca B del capítulo 20. Las monturas anteriores permanecen separadas.",
+    "Leo es el nombre elegido para el niño harengon en esta escena; no es Leona ni Naór.",
+    "Licor Fami es el nombre provisional de la botella robada del casino, que causa agotamiento y excitación.",
+    "La entidad de la visión final se describe como una mujer pez y emite siseos. No se confirma su nombre ni se la identifica con Marina o con una diosa concreta."
+  ],
+  "fuente_sha256": "e9cb36cd4a02f6785c070ca6a5e1d102ca20e7ca2c8886866b101cf0bcd7727b",
+  "afirmaciones": [
+    {
+      "id": "21-001",
+      "titulo": "Descansos, montura y pérdidas",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Poncelot busca a Ione sin éxito para hablar del mapa y entrena a la mosca con una fregona. La llama Merlucilla tercera y pierde cuatro monedas de oro. Blink hace nidos en Cuicapalli y visita Shiaru. Naór deja a Axi dormido tras la barbacoa y se pierde mientras busca Iktan. Leona se pierde siguiendo el olor de Shiaru. Zarial desconfía del mando de Triel y pierde las jabalinas robadas.",
+      "inicio": "00:00:00.000",
+      "fin": "00:05:55.000",
+      "cita": "Merlucilla tercera",
+      "evidencia_cue": {
+        "inicio": "00:00:39.920",
+        "fin": "00:00:43.229",
+        "texto": "iba haciendo era enseñarle truquitos a mi nueva montura Merlucilla tercera. A,"
+      },
+      "entidades": [
+        "Sir Poncelot",
+        "Mosca gigante B / Merlucilla III",
+        "Ione",
+        "Blink / Blank",
+        "Naór Tarcan (grafía provisional)",
+        "Axi / Chochi (identificación contextual provisional)",
+        "Leona (coneja, grafía provisional)",
+        "Zarial / Tarial (grafía provisional)"
+      ],
+      "ambito": "recapitulación",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": ""
+    },
+    {
+      "id": "21-002",
+      "titulo": "Venta y robo del casino",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Tras negociar, Armin compra el jade y la obsidiana de Poncelot por ciento cincuenta monedas de oro. El gnomo compra ropa relacionada con el trato con animales y diez jabalinas; pospone el tatuaje disponible en Cuicapalli. Triel abre el casino de Kilzer con ganzúas y toma una botella. Lo presenta como una invitación de un amigo, pero no se muestra su permiso.",
+      "inicio": "00:06:00.000",
+      "fin": "00:13:55.000",
+      "cita": "te subas 150",
+      "evidencia_cue": {
+        "inicio": "00:08:38.599",
+        "fin": "00:08:41.389",
+        "texto": "jade y te subas 150."
+      },
+      "entidades": [
+        "Armin (herrero de Shiaru, grafía provisional)",
+        "Sir Poncelot",
+        "Triel (elfa hermana, grafía provisional)",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Casino de Kilzer",
+        "Licor de Fami (grafía provisional)"
+      ],
+      "ambito": "comercio y apropiación",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La procedencia del jade se confirma en el capítulo 18, pero la de la obsidiana no se reconstruye aquí. La existencia del local no demuestra que el casino esté abierto al público."
+    },
+    {
+      "id": "21-003",
+      "titulo": "Pirata rescatado y Triel se retira",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Zarial saca con una cuerda al pirata que permanece en el pozo desde el capítulo 20. Lo sujeta por el cuello hasta que pierde el conocimiento y lo deja fuera, aparentemente vivo. Otros piratas lo roban y apuñalan después, sin que se confirme su muerte. Triel pide que la esperen en una roca al sur y vuelve al pueblo afirmando que Eldrat la reclama. Los demás no oyen ninguna voz y especulan que se ha inventado al hermano, aunque Poncelot lo ha visto.",
+      "inicio": "00:10:00.000",
+      "fin": "00:18:55.000",
+      "cita": "Yo no he escuchado nada",
+      "evidencia_cue": {
+        "inicio": "00:18:29.960",
+        "fin": "00:18:32.549",
+        "texto": "¿Cómo le he hablado? Yo no he escuchado nada. ¿Usted ha escuchado algo?"
+      },
+      "entidades": [
+        "Zarial / Tarial (grafía provisional)",
+        "Pirata borracho del pozo (sin nombre)",
+        "Triel (elfa hermana, grafía provisional)",
+        "Eldrat (elfo hermano, grafía provisional)",
+        "Sir Poncelot"
+      ],
+      "ambito": "separación y especulación",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se demuestra que Eldrat sea inexistente ni se explica un canal telepático."
+    },
+    {
+      "id": "21-004",
+      "titulo": "Encuentro entre Leona y Naór, y protección de la mosca",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Blink acompaña a Leona para cumplir la vigilancia encomendada. Encuentran a Naór después de que esta mate a un felino mientras juega. Entre la confusión, Naór y Leona distinguen sus nombres y especies. Leona intenta atacar a la mosca y Naór la bloquea con el hacha. Poncelot cree que la coneja es un oso. El grupo se reúne con Zarial.",
+      "inicio": "00:19:00.000",
+      "fin": "00:30:55.000",
+      "cita": "se llama Leona",
+      "evidencia_cue": {
+        "inicio": "00:22:49.279",
+        "fin": "00:22:53.230",
+        "texto": "Yo me llamo Leona. Eh, sí, se llama Leona."
+      },
+      "entidades": [
+        "Blink / Blank",
+        "Leona (coneja, grafía provisional)",
+        "Naór Tarcan (grafía provisional)",
+        "Sir Poncelot",
+        "Zarial / Tarial (grafía provisional)",
+        "Mosca gigante B / Merlucilla III"
+      ],
+      "ambito": "encuentro y protección",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Naór es una leonina y Leona una harengon. El oso es la interpretación de Poncelot, no una forma real de Leona."
+    },
+    {
+      "id": "21-005",
+      "titulo": "Las frutas y el licor afectan a la conducta",
+      "tipo": "explicacion_director",
+      "afirmacion": "Las frutas hacen que la sombra de Zarial grite sin sonido cuando ataca, que Poncelot hable un idioma desconocido y que Blink suelte flores. Leona recibe restauración menor. Durante una hora, el licor Fami provoca agotamiento y excitación, da ventaja en persuasión e interpretación y hace fallar la intimidación. Poncelot persuade a Zarial para que beba y comparte el licor con Naór. La mosca come una fruta y su sombra se retrasa.",
+      "inicio": "00:25:00.000",
+      "fin": "00:41:55.000",
+      "cita": "ganas un punto de exhaustios",
+      "evidencia_cue": {
+        "inicio": "00:33:54.720",
+        "fin": "00:33:58.789",
+        "texto": "¿Dónde está comida? Aquí lo han visto de Fami. Eh, ganas un punto de exhaustios,"
+      },
+      "entidades": [
+        "Zarial / Tarial (grafía provisional)",
+        "Sir Poncelot",
+        "Blink / Blank",
+        "Leona (coneja, grafía provisional)",
+        "Naór Tarcan (grafía provisional)",
+        "Licor de Fami (grafía provisional)",
+        "Mosca gigante B / Merlucilla III"
+      ],
+      "ambito": "efectos temporales",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Hay coqueteo y propuestas sexuales durante los efectos del licor, pero no se adjudica inequívocamente una relación duradera o un acto consumado."
+    },
+    {
+      "id": "21-006",
+      "titulo": "Campamento y cocodrilo muerto",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Leona oye quejidos y sigue el sonido con Blink hasta un campamento que parece vacío. Un cocodrilo sale del agua y atrapa su brazo. Las dos lo matan y Leona lo corta para cenar. Blink observa rastros de tres criaturas arrastradas desde las tiendas, además de comida y camas para cuatro. No encuentra huellas de quien pudo escapar.",
+      "inicio": "00:41:00.000",
+      "fin": "00:51:20.000",
+      "cita": "se han llevado a tres criaturas",
+      "evidencia_cue": {
+        "inicio": "00:51:07.680",
+        "fin": "00:51:09.630",
+        "texto": "que parece que se han llevado a tres criaturas,"
+      },
+      "entidades": [
+        "Leona (coneja, grafía provisional)",
+        "Blink / Blank",
+        "Campamento de familia de Leo",
+        "Cocodrilo de campamento de Leo"
+      ],
+      "ambito": "hallazgo y rastro",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La preparación del director sobre un posible rescate de Nox se comenta fuera de juego. No es una misión recibida por el grupo ni demuestra que Nox esté entre los cautivos."
+    },
+    {
+      "id": "21-007",
+      "titulo": "Leo, escondido, relata el secuestro",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "El niño harengon Leo golpea a Blink desde una tienda, asustado. Después cuenta que unos lobos extraños se llevaron a sus padres, que su madre le mandó esconderse y que había sangre. Leona se aproxima; el niño no quiere quedarse solo. Blink toma dieciséis monedas de oro del campamento, tras corregirse la cifra inicial de dieciocho. Los demás llegan en la mosca y Blink utiliza calma emociones para conseguir su ayuda. Naór no detecta magia en el niño y observa su collar de plata.",
+      "inicio": "00:51:00.000",
+      "fin": "01:03:55.000",
+      "cita": "se han llevado a a mis padres",
+      "evidencia_cue": {
+        "inicio": "00:53:52.799",
+        "fin": "00:53:57.430",
+        "texto": "bichos, eran como unos lobos muy raros y y se han llevado a a mis padres.\""
+      },
+      "entidades": [
+        "Leo (niño harengon)",
+        "Padres de Leo (sin nombres)",
+        "Blink / Blank",
+        "Leona (coneja, grafía provisional)",
+        "Naór Tarcan (grafía provisional)",
+        "Sir Poncelot",
+        "Zarial / Tarial (grafía provisional)",
+        "Collar de plata de Leo"
+      ],
+      "ambito": "testimonio y asistencia",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Hay tres rastros, pero solo se mencionan los padres. La tercera criatura arrastrada sigue sin identificar."
+    },
+    {
+      "id": "21-008",
+      "titulo": "La mosca rastrea hasta una cueva",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Leona comparte los sentidos de la mosca y Poncelot la eleva para buscar el rastro, que conduce hacia un bosque y una cueva. Leona lleva a Leo. Pol explica que, al terminar calma emociones, los demás saben que Blink redujo su excitación, sin que esto provoque una hostilidad automática.",
+      "inicio": "01:02:00.000",
+      "fin": "01:09:55.000",
+      "cita": "Seguidme. Sé dónde están",
+      "evidencia_cue": {
+        "inicio": "01:04:41.799",
+        "fin": "01:04:44.710",
+        "texto": "por ahí y señalo. Seguidme. Sé dónde están. Vale, antes de"
+      },
+      "entidades": [
+        "Leona (coneja, grafía provisional)",
+        "Sir Poncelot",
+        "Mosca gigante B / Merlucilla III",
+        "Leo (niño harengon)",
+        "Blink / Blank",
+        "Cueva del estanque de sangre"
+      ],
+      "ambito": "rastro y entrada",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": ""
+    },
+    {
+      "id": "21-009",
+      "titulo": "Las esporas provocan sueño y daño al despertar",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Unas plantas rojas emiten esporas que duermen a Leona cuando entra. Naór la saca y despertar causa daño psíquico a ambas. Blink prende una planta con una antorcha. El grupo se aproxima y Naór, Leona y Blink se duermen. Zarial aguanta la respiración y las evacúa; despertar también causa daño. Otros despiertan después de un minuto. Avanzan conteniendo la respiración, aunque Leona vuelve a dormirse repetidamente.",
+      "inicio": "01:08:00.000",
+      "fin": "01:23:55.000",
+      "cita": "esas esporas sean muy buenas",
+      "evidencia_cue": {
+        "inicio": "01:10:52.040",
+        "fin": "01:10:54.950",
+        "texto": "mente, ¿sabes? Que no parece que esas esporas sean muy buenas."
+      },
+      "entidades": [
+        "Leona (coneja, grafía provisional)",
+        "Naór Tarcan (grafía provisional)",
+        "Blink / Blank",
+        "Zarial / Tarial (grafía provisional)",
+        "Plantas de esporas del sueño",
+        "Cueva del estanque de sangre"
+      ],
+      "ambito": "trampa reiterada",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La planta ardiendo sigue activa hasta consumirse. El sueño no procede del chat ni equivale a quedar inconsciente por llegar a cero puntos de vida."
+    },
+    {
+      "id": "21-010",
+      "titulo": "Sangre, transformación y melodía ralentizadora",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "La sala contiene un estanque de sangre, cuerpos y huesos bajo la luz lunar. El humano que encuentran se transforma en un lobo grande y balbucea de forma incomprensible. Los lobos próximos tienen una luna brillante en la frente. Una melodía impone slow durante diez minutos a Poncelot, Leona y Naór. Un lobo muerde a la coneja dormida y la despierta. Naór avanza por la entrada y su furia invoca una pequeña criatura explosiva.",
+      "inicio": "01:24:00.000",
+      "fin": "01:35:55.000",
+      "cita": "marca en la frente como de una luna",
+      "evidencia_cue": {
+        "inicio": "01:27:22.400",
+        "fin": "01:27:26.229",
+        "texto": "normales, pero veis que tienen una marca en la frente como de una luna que está"
+      },
+      "entidades": [
+        "Cueva del estanque de sangre",
+        "Humano transformado en lobo de la cueva",
+        "Lobos de marca lunar",
+        "Sir Poncelot",
+        "Leona (coneja, grafía provisional)",
+        "Naór Tarcan (grafía provisional)"
+      ],
+      "ambito": "ritual aparente y combate",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Se especula con que sea un nawal o un licántropo, pero no se define el mecanismo de la transformación. No se interpretan palabras en su balbuceo."
+    },
+    {
+      "id": "21-011",
+      "titulo": "Lobos, hipnosis y resistencia a parálisis",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Blink utiliza patrón hipnótico y recupera un espacio con su mondadientes. Zarial mata al primer lobo con smite. Las esporas vuelven a dormir a Leona y a la mosca. Naór provoca miedo y despierta a un lobo al golpearlo. El lobo grande ataca tres veces a Zarial. Blink intenta paralizarlo como humano, sin conseguirlo. En vez de utilizar invisibilidad, despierta a Leona y causa trece puntos de daño a ambas.",
+      "inicio": "01:36:00.000",
+      "fin": "01:49:55.000",
+      "cita": "no tiene efecto sobre él",
+      "evidencia_cue": {
+        "inicio": "01:48:29.119",
+        "fin": "01:48:31.390",
+        "texto": "que el efecto no tiene, o sea, no tiene efecto sobre él."
+      },
+      "entidades": [
+        "Blink / Blank",
+        "Zarial / Tarial (grafía provisional)",
+        "Naór Tarcan (grafía provisional)",
+        "Leona (coneja, grafía provisional)",
+        "Mosca gigante B / Merlucilla III",
+        "Humano transformado en lobo de la cueva",
+        "Mondadientes de Blink"
+      ],
+      "ambito": "combate y efectos",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se explica suficientemente si el conjuro falla por el tipo de criatura o por una inmunidad. El fallo no demuestra su especie exacta."
+    },
+    {
+      "id": "21-012",
+      "titulo": "Leo entrega el collar de plata y Poncelot despierta",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "El combate cuerpo a cuerpo continúa y Poncelot duerme por las esporas. Naór pide a Leo su collar de plata y él se lo entrega durante su turno. Leona utiliza al gnomo como maza para golpear a un lobo y despertarlo, lo que causa el daño de despertar. Poncelot mata a un lobo al recuperarse. El humano transformado en lobo sigue atacando y la mosca continúa dormida.",
+      "inicio": "01:50:00.000",
+      "fin": "02:07:55.000",
+      "cita": "te da te da el collarnor",
+      "evidencia_cue": {
+        "inicio": "02:04:49.960",
+        "fin": "02:04:53.549",
+        "texto": "misión. Pues ves que llega el el Leo y te da te da el collarnor."
+      },
+      "entidades": [
+        "Naór Tarcan (grafía provisional)",
+        "Leo (niño harengon)",
+        "Collar de plata de Leo",
+        "Leona (coneja, grafía provisional)",
+        "Sir Poncelot",
+        "Humano transformado en lobo de la cueva"
+      ],
+      "ambito": "combate y objeto entregado",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": ""
+    },
+    {
+      "id": "21-013",
+      "titulo": "Plata en la boca y muerte del lobo grande",
+      "tipo": "explicacion_director",
+      "afirmacion": "Blink limita las opciones del enemigo con magia. El chat cura doce puntos a todos. Zarial se cura y utiliza escudo de fe, aunque después pierde la concentración. Naór introduce el collar de plata en la boca del lobo grande y utiliza Acción súbita. Él tose y sigue combatiendo. Zarial lo mata con un crítico y smite. La carne alrededor del collar aparece ennegrecida. El director explica que la plata aumentaba el daño de las armas, pero es el golpe de treinta y cuatro puntos el que lo mata.",
+      "inicio": "02:08:00.000",
+      "fin": "02:20:55.000",
+      "cita": "todo lo alrededor de su carne está como más ennegrecido",
+      "evidencia_cue": {
+        "inicio": "02:19:56.640",
+        "fin": "02:19:59.389",
+        "texto": "todo lo alrededor de su carne está como más ennegrecido. Y bueno, básicamente"
+      },
+      "entidades": [
+        "Blink / Blank",
+        "Naór Tarcan (grafía provisional)",
+        "Zarial / Tarial (grafía provisional)",
+        "Humano transformado en lobo de la cueva",
+        "Collar de plata de Leo"
+      ],
+      "ambito": "muerte y vulnerabilidad adjudicada",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No es el mismo efecto que el del collar serpiente, ni demuestra una eficacia universal de la plata contra los nawals. El collar no lo mata por asfixia."
+    },
+    {
+      "id": "21-014",
+      "titulo": "Restos de los padres y pelea por Leo",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Naór recupera el collar ensangrentado y se lo devuelve a Leo. Se proclama su madre adoptiva y busca a sus padres. El estanque contiene restos de animales y humanoides, comidos y destrozados, sin magia identificada. Zarial toma la cabeza del enemigo y Poncelot despierta a la mosca. Naór y Leona disputan la custodia del niño, traumatizado. Naór abate a Leona; Zarial la cura y vuelve a abatirla cuando insiste en agredir. Naór encuentra cabezas de harengon atribuidas a los padres.",
+      "inicio": "02:20:00.000",
+      "fin": "02:31:55.000",
+      "cita": "cabeza de algún",
+      "evidencia_cue": {
+        "inicio": "02:30:19.960",
+        "fin": "02:30:22.750",
+        "texto": "Eh, vas a ver que quizá hay alguna cabeza de algún"
+      },
+      "entidades": [
+        "Naór Tarcan (grafía provisional)",
+        "Leo (niño harengon)",
+        "Padres de Leo (sin nombres)",
+        "Leona (coneja, grafía provisional)",
+        "Zarial / Tarial (grafía provisional)",
+        "Sir Poncelot",
+        "Mosca gigante B / Merlucilla III"
+      ],
+      "ambito": "restos y conflicto",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Todavía no hay una adopción formal aceptada por las autoridades. La atribución de los restos se basa en la adjudicación y el tipo de criatura, no en nombres u objetos únicos."
+    },
+    {
+      "id": "21-015",
+      "titulo": "El collar serpiente provoca una visión a dos viajeras",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Cuando Blink pasa sobre el estanque, el collar serpiente que guarda dentro de una fruta brilla. Blink y Zarial quedan inmóviles durante cinco o seis segundos y ven una presencia que las paraliza de miedo, acompañada de siseos incomprensibles. Naór y Poncelot solo ven a sus compañeras inmóviles. El collar deja de brillar y las dos se recuperan. Según aclara al final el director, ninguno identifica la causa porque no ve el collar oculto.",
+      "inicio": "02:32:00.000",
+      "fin": "02:35:55.000",
+      "cita": "El collar que está dentro de esa fruta",
+      "evidencia_cue": {
+        "inicio": "02:34:42.600",
+        "fin": "02:34:44.750",
+        "texto": "5co o 6 segundos. Y veis qué pasa. El collar que está dentro de esa fruta como"
+      },
+      "entidades": [
+        "Blink / Blank",
+        "Zarial / Tarial (grafía provisional)",
+        "Naór Tarcan (grafía provisional)",
+        "Sir Poncelot",
+        "Collar serpiente de charca",
+        "Entidad de visión del collar"
+      ],
+      "ambito": "visión privilegiada de víctimas",
+      "conocedores": [
+        "Blink / Blank",
+        "Zarial / Tarial (grafía provisional)"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La audiencia oye la explicación causal del director, pero Naór y Poncelot no conocen automáticamente la entidad. Blink tampoco identifica su nombre, lenguaje o poder exacto."
+    },
+    {
+      "id": "21-016",
+      "titulo": "Leona curada y destinos separados",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Zarial da un punto de curación a Leona, que decide seguir dormida. El intento de curar las cabezas no revive a los padres. Naór quiere presentar a Leo como su hijo ante Eromov, en Cuicapalli. Pide a Blink que la guíe, pero ella va hacia Shiaru para vigilar a Leona. Poncelot también parte hacia Shiaru para buscar a Ione, al igual que Zarial. Naór sale sola con el niño. No se muestran las llegadas. El director menciona otras salas con botín que no se exploran.",
+      "inicio": "02:35:00.000",
+      "fin": "02:41:55.000",
+      "cita": "no se va a levantar",
+      "evidencia_cue": {
+        "inicio": "02:38:31.160",
+        "fin": "02:38:33.910",
+        "texto": "a ambos uno. No, no, no se va a levantar."
+      },
+      "entidades": [
+        "Zarial / Tarial (grafía provisional)",
+        "Leona (coneja, grafía provisional)",
+        "Naór Tarcan (grafía provisional)",
+        "Leo (niño harengon)",
+        "Eromov (líder de Cuicapalli, grafía provisional)",
+        "Blink / Blank",
+        "Sir Poncelot",
+        "Ione",
+        "Cuicapalli",
+        "Shiaru"
+      ],
+      "ambito": "evacuación y pendientes",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No hay resurrección ni abandono mortal de Leona. La explicación posterior del director no implica que se obtenga el botín de las salas sin explorar."
+    }
+  ]
+}

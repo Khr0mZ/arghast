@@ -1,0 +1,905 @@
+{
+  "version": 1,
+  "revisado_hasta": 39,
+  "preguntas": [
+    {
+      "id": "P13-001",
+      "capitulo": 13,
+      "indice": 1,
+      "pregunta": "¿Quién se llevó el cuerpo del nawal y por qué? La investigación de Ayoto no obtiene una respuesta (13-002).",
+      "estado": "pendiente",
+      "respuesta": "Ayoto acusa después a una mujer de Cuicapalli por su parecido con la nawal. El director aclara que se reutilizó una representación gráfica, sin confirmar una resurrección o que sea quien retiró el cuerpo.",
+      "referencias": [
+        "16-019",
+        "18-002"
+      ],
+      "pendiente": "Identificar a quien retiró el cadáver y explicar su motivo.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P13-002",
+      "capitulo": 13,
+      "indice": 2,
+      "pregunta": "¿Quién construyó el templo y a qué cultura o deidad pertenece? Las figuras rotas y los símbolos animales no proporcionan una identificación; las referencias al sol, la luna y la noche son interpretaciones (13-014 y 13-022–13-023).",
+      "estado": "pendiente",
+      "respuesta": "Hasta el capítulo 39 no se identifica a los constructores ni la cultura o deidad de este templo concreto. Los nombres de otros templos no permiten equipararlos.",
+      "referencias": [],
+      "pendiente": "Identificar a los constructores y la adscripción del templo de la danza.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P13-003",
+      "capitulo": 13,
+      "indice": 3,
+      "pregunta": "¿Podrán modificar el escudo o cultivar las semillas? Recogen materiales, pero no realizan los proyectos (13-021).",
+      "estado": "pendiente",
+      "respuesta": "No se documenta después que se cultiven estas semillas o que se utilicen para modificar el escudo. El caparazón obtenido por Ayoto en otra misión no demuestra que se ejecute este proyecto.",
+      "referencias": [],
+      "pendiente": "Mostrar la plantación o la modificación con los materiales recogidos.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P13-004",
+      "capitulo": 13,
+      "indice": 4,
+      "pregunta": "¿Cómo volverán a activar la plataforma y salir con el tesoro? Retirar el peso no la hace subir y el regreso no se narra (13-026).",
+      "estado": "parcial",
+      "respuesta": "Patata aparece después en Shiaru y vende el jade del sótano, lo que confirma que salió con ese botín. No se muestra el procedimiento de reactivación de la plataforma ni toda la salida del grupo.",
+      "referencias": [
+        "14-004"
+      ],
+      "pendiente": "Explicar cómo reactivaron la plataforma y completaron la salida.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P13-005",
+      "capitulo": 13,
+      "indice": 5,
+      "pregunta": "¿Qué resultado sustituye a las ocho monedas y qué obtiene Kilzer en el sótano? No se anuncian todos los resultados de forma inequívoca (13-025).",
+      "estado": "pendiente",
+      "respuesta": "Los capítulos posteriores no aclaran la nueva tirada que sustituyó a las ocho monedas ni el botín concreto de Kilzer en aquel sótano.",
+      "referencias": [],
+      "pendiente": "Precisar ambos resultados de la tabla de tesoro.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P13-006",
+      "capitulo": 13,
+      "indice": 6,
+      "pregunta": "¿Cuáles serán las cláusulas finales del casino? El nuevo reparto no explica cómo cambió el cinco por ciento negociado por Nox (13-011 y 11-031).",
+      "estado": "pendiente",
+      "respuesta": "Kilzer obtiene las llaves, prepara mobiliario y acuerda pagar a Axi dos monedas por cada tramposo descubierto. Son avances de funcionamiento, pero no se reproducen unas cláusulas finales del reparto entre Kilzer, Nox y Bonnie.",
+      "referencias": [
+        "17-001",
+        "17-002"
+      ],
+      "pendiente": "Conocer el acuerdo definitivo de propiedad, porcentajes y obligaciones.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P13-007",
+      "capitulo": 13,
+      "indice": 7,
+      "pregunta": "¿Recuperará Nox el sombrero que toma Ayoto? ¿Se recuperará Jack del golpe de botella? Ambos desenlaces quedan pendientes (13-008 y 13-012).",
+      "estado": "resuelta",
+      "respuesta": "El loro devuelve el sombrero a Nox durante la fuga de Aurora. Jack aparece vivo después del golpe: Bonnie confirma su partida y más adelante regresa de Puerto de Espadas. No se necesita atribuirle una muerte o un nuevo personaje.",
+      "referencias": [
+        "15-021",
+        "23-004",
+        "23-013"
+      ],
+      "pendiente": "",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P14-001",
+      "capitulo": 14,
+      "indice": 1,
+      "pregunta": "¿Qué entidad menciona el diario y qué precio exigió? No se lee un nombre ni el pacto completo (14-015).",
+      "estado": "pendiente",
+      "respuesta": "No se revela posteriormente el nombre de la entidad del diario ni el precio completo de su trato con el capitán. Las otras presencias serpentinas de la campaña no se identifican automáticamente con ella.",
+      "referencias": [],
+      "pendiente": "Identificar a la entidad y reconstruir el pacto del mercante.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P14-002",
+      "capitulo": 14,
+      "indice": 2,
+      "pregunta": "¿Por qué la hija afirma que no puede salir si la mujer del bote tiene su mismo rostro? Las manifestaciones no reciben una explicación (14-007–14-008 y 14-016).",
+      "estado": "pendiente",
+      "respuesta": "No aparece una explicación posterior de la coincidencia entre la mujer del bote y la hija espectral, ni de su afirmación de que no podía salir.",
+      "referencias": [],
+      "pendiente": "Explicar las dos apariciones y las restricciones de la hija.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P14-003",
+      "capitulo": 14,
+      "indice": 3,
+      "pregunta": "¿A quién llama traidor el marinero y por qué señala al capitán y a su hija? Los gestos no revelan toda la historia (14-015 y 14-019).",
+      "estado": "pendiente",
+      "respuesta": "No se amplía posteriormente el testimonio del marinero de la lengua enjaulada. Sus gestos no bastan para establecer a quién acusa o el motivo de la traición.",
+      "referencias": [],
+      "pendiente": "Precisar el destinatario y la causa de la acusación de traición.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P14-004",
+      "capitulo": 14,
+      "indice": 4,
+      "pregunta": "¿Qué ocurre con el mercante, la hija y las almas? No se muestra un retorno a la vida ni el hundimiento final (14-024–14-025).",
+      "estado": "pendiente",
+      "respuesta": "Después de la desaparición de la tripulación y el regreso del grupo a tierra no se confirma el destino del mercante, de la hija o de las almas.",
+      "referencias": [],
+      "pendiente": "Conocer el destino de la nave y de sus ocupantes.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P14-005",
+      "capitulo": 14,
+      "indice": 5,
+      "pregunta": "¿La moneda negra causa otra maldición a Eldrat? La frase del marinero no viene acompañada de una marca o un efecto confirmado (14-019).",
+      "estado": "pendiente",
+      "respuesta": "No se confirma posteriormente una marca o maldición nueva en Eldrat atribuida a la moneda negra. La frase del marinero sigue sin un efecto adjudicado.",
+      "referencias": [],
+      "pendiente": "Determinar si existió una maldición y cuáles fueron sus efectos.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P14-006",
+      "capitulo": 14,
+      "indice": 6,
+      "pregunta": "¿Qué quiere Bonnie de Patata y de los hermanos? ¿Habrá recompensa? Solo se muestra la convocatoria (14-025).",
+      "estado": "pendiente",
+      "respuesta": "En el capítulo 15, Bonnie encarga a Patata investigar el secuestro de dos piratas y eliminar la amenaza si se trata de caníbales. Después le paga cincuenta monedas. Esa misión y pago no reproducen la conversación pendiente del mercante ni prueban una recompensa específica por liberar el barco.",
+      "referencias": [
+        "15-004",
+        "15-020"
+      ],
+      "pendiente": "Conocer el contenido de aquella convocatoria y si hubo una recompensa por el mercante.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P14-007",
+      "capitulo": 14,
+      "indice": 7,
+      "pregunta": "¿De dónde proceden Eldrat y Triel y qué ocurrió con las dríadas? El pasado mostrado no ofrece nombres ni toda la historia (14-001 y 14-005).",
+      "estado": "pendiente",
+      "respuesta": "Triel afirma más adelante que consiguió su espada de un dragón que mató junto a Eldrat. Es un dato declarado de su pasado, pero no identifica su lugar de origen ni explica el episodio de las dríadas.",
+      "referencias": [
+        "31-022"
+      ],
+      "pendiente": "Identificar su procedencia y aclarar lo ocurrido con las dríadas.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P14-008",
+      "capitulo": 14,
+      "indice": 8,
+      "pregunta": "¿Recuperará Nox el sombrero del nido del loro? Ayoto lo entrega y no se recupera (14-006).",
+      "estado": "resuelta",
+      "respuesta": "Durante la fuga de Fuerte Aurora, el loro deja caer el sombrero y Nox lo recupera.",
+      "referencias": [
+        "23-013"
+      ],
+      "pendiente": "",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P15-001",
+      "capitulo": 15,
+      "indice": 1,
+      "pregunta": "¿Qué hará Bonnie con Erendriel por el retraso? Sus hombres se lo llevan sin mostrar el desenlace (15-021).",
+      "estado": "resuelta",
+      "respuesta": "El capítulo 16 confirma la muerte de Erendriel por las recapitulaciones y por el cuerpo que Bonnie mantiene exhibido como advertencia. Patata pide enterrarlo y aplica magia de conservación. La ejecución no se muestra completa, pero el desenlace de su detención ya no está pendiente.",
+      "referencias": [
+        "16-002",
+        "16-004"
+      ],
+      "pendiente": "",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P15-002",
+      "capitulo": 15,
+      "indice": 2,
+      "pregunta": "¿Llegará Jack a Puerto de las Espadas, cobrará la lista y se reunirá con Lucy? Bonnie solo confirma su partida (15-021).",
+      "estado": "parcial",
+      "respuesta": "Jack regresa en barco de Puerto de Espadas y busca a Nox. Esto confirma que llegó allí y volvió, pero no se informa del dinero cobrado a la lista ni de una reunión con Lucy.",
+      "referencias": [
+        "23-004"
+      ],
+      "pendiente": "Conocer los resultados del cobro y confirmar la visita a Lucy.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P15-003",
+      "capitulo": 15,
+      "indice": 3,
+      "pregunta": "¿Cómo se llama el poblado y por qué secuestraron a los piratas? No se explica su historia ni se lo identifica con la tribu del preso del capítulo 12 (15-010 y 15-019).",
+      "estado": "pendiente",
+      "respuesta": "No se proporciona después un nombre o una historia específica de ese poblado caníbal ni una explicación del secuestro. El campamento de los hipopótamos es otra expedición y no se identifica con este asentamiento.",
+      "referencias": [],
+      "pendiente": "Identificar el poblado y establecer el motivo del secuestro.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P15-004",
+      "capitulo": 15,
+      "indice": 4,
+      "pregunta": "¿Qué significa el tatuaje del combatiente que vuelve a levantarse? Se copia, pero no se descifra ni se le adjudica un poder (15-019).",
+      "estado": "pendiente",
+      "respuesta": "No se descifra después el tatuaje copiado del combatiente ni se confirma qué relación tenía con su recuperación. Los tatuajes de Nox y Citlali son pistas distintas.",
+      "referencias": [],
+      "pendiente": "Leer el tatuaje y determinar su función.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P15-005",
+      "capitulo": 15,
+      "indice": 5,
+      "pregunta": "¿Cuándo producirán el huerto y el casino? Los proyectos existen, pero no generan ingresos mostrados (15-001 y 15-003–15-004).",
+      "estado": "parcial",
+      "respuesta": "La granja sigue activa y produce una patata de la que surge el martillo de Patata; Bonnie también solicita cultivos. Kilzer consigue mobiliario, llaves y vigilancia para el casino, pero en el capítulo 29 todavía prepara su apertura. No se acredita una fecha de rentabilidad ni un balance de ingresos de ambos negocios.",
+      "referencias": [
+        "16-001",
+        "17-001",
+        "17-002",
+        "24-020",
+        "29-001"
+      ],
+      "pendiente": "Confirmar la apertura y los ingresos ordinarios del casino y del huerto.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P15-006",
+      "capitulo": 15,
+      "indice": 6,
+      "pregunta": "¿Es Tarin el nombre del dragón? La mención breve sigue siendo una candidata, sin confirmación clara (15-012).",
+      "estado": "pendiente",
+      "respuesta": "No se confirma posteriormente que Tarin sea el nombre del dragón de Erendriel. El nombre Etley corresponde a la cría del huevo de Mamá, no a este dragón.",
+      "referencias": [],
+      "pendiente": "Confirmar el nombre del dragón de Erendriel mediante una identificación directa.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P15-007",
+      "capitulo": 15,
+      "indice": 7,
+      "pregunta": "¿Qué enfermedad tiene Mamá y por qué Triel no puede curarla? La recapitulación no aporta un diagnóstico ni una escena completa (15-002).",
+      "estado": "pendiente",
+      "respuesta": "Se documenta que los intentos de curación de Mamá dañan a compañeros y la rejuvenecen. Después drena vida de Winscore y Tlachka, y el director confirma que su maldición cura a las serpientes. Walulu estudia sus tatuajes al llegar a Iktan, pero todavía no explica la causa ni por qué Triel no pudo curarla.",
+      "referencias": [
+        "18-009",
+        "19-007",
+        "34-009",
+        "39-008",
+        "39-014",
+        "39-017",
+        "39-018"
+      ],
+      "pendiente": "Obtener un diagnóstico, explicar el origen de la maldición y el fracaso de la curación de Triel.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P16-001",
+      "capitulo": 16,
+      "indice": 1,
+      "pregunta": "¿Quién mató a Erendriel, cómo y por qué incumplimiento concreto? La muerte se confirma, pero no se muestra la ejecución completa (16-002,16-004 y 15-021).",
+      "estado": "pendiente",
+      "respuesta": "Los episodios posteriores muestran los restos de Erendriel y el anillo en poder de Nox, pero no reconstruyen la ejecución ni especifican quién lo mató y cómo. La advertencia de Bonnie sobre el retraso no sustituye esa escena.",
+      "referencias": [],
+      "pendiente": "Identificar al ejecutor, el método y el incumplimiento concreto castigado.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P16-002",
+      "capitulo": 16,
+      "indice": 2,
+      "pregunta": "¿Dónde está el dragón y qué negocio quiere discutir Bonnie con Nox tras la muerte del elfo? La búsqueda y la propuesta no obtienen un resultado (16-002 y 16-004).",
+      "estado": "pendiente",
+      "respuesta": "No se confirma el paradero posterior del dragón de Erendriel ni se reproduce el negocio que Bonnie quería tratar con Nox por la vacante. El pacto anterior sobre la criatura de Mamá no identifica automáticamente ese negocio.",
+      "referencias": [],
+      "pendiente": "Localizar al dragón y conocer la propuesta de Bonnie.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P16-003",
+      "capitulo": 16,
+      "indice": 3,
+      "pregunta": "¿Qué despierta tras milenios y cómo se relaciona con los extranjeros y las serpientes? Las declaraciones no ofrecen una explicación confirmada (16-016–16-017).",
+      "estado": "parcial",
+      "respuesta": "Walulu afirma que unos extranjeros saquearon templos y abrieron una prisión prohibida. Muestra a Tesara y Eldrat una visión en la que un fragmento escapa de una criatura tentacular contenida por cinco héroes. Es información atribuida a Walulu y una visión, no una identificación definitiva de todo lo que despierta ni de su relación con los hombres serpiente.",
+      "referencias": [
+        "31-025",
+        "31-026"
+      ],
+      "pendiente": "Identificar a la entidad liberada y explicar su relación con las serpientes y la expansión extranjera.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P16-004",
+      "capitulo": 16,
+      "indice": 4,
+      "pregunta": "¿Se celebrará el concilio y quién asistirá? Eromov plantea condiciones y todavía quedan líderes por contactar (16-003 y 16-016).",
+      "estado": "parcial",
+      "respuesta": "Los dirigentes de Ras Racor prometen asistir. Naór llega finalmente a Iktan y transmite a Walulu la convocatoria para la noche anterior al próximo solsticio; ella promete apoyar a su padre. No se muestra la celebración del concilio ni una lista completa de asistentes.",
+      "referencias": [
+        "17-021",
+        "31-019",
+        "31-027"
+      ],
+      "pendiente": "Confirmar la celebración y la asistencia efectiva al concilio.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P16-005",
+      "capitulo": 16,
+      "indice": 5,
+      "pregunta": "¿Quién es el campeón solar y tiene relación con Ayoto? Naór relata la leyenda sin designarlo (16-017).",
+      "estado": "pendiente",
+      "respuesta": "No se designa posteriormente al campeón solar ni se identifica a Ayoto como tal. Sus símbolos y creencias no cumplen por sí solos la leyenda relatada por Naór.",
+      "referencias": [],
+      "pendiente": "Identificar al campeón y comprobar o descartar su relación con Ayoto.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P16-006",
+      "capitulo": 16,
+      "indice": 6,
+      "pregunta": "¿Quiénes son las dos visitantes de Eromov que desaparecen mediante plantas? Se describen sus apariencias, sin nombres (16-015).",
+      "estado": "pendiente",
+      "respuesta": "No se nombran de forma inequívoca las dos visitantes de aquella reunión. Las mujeres de la Hoja Caída de una reunión posterior no se equiparan automáticamente con la alada y la mediana de esta escena.",
+      "referencias": [],
+      "pendiente": "Identificar a ambas visitantes y el motivo de su presencia.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P16-007",
+      "capitulo": 16,
+      "indice": 7,
+      "pregunta": "¿Tiene la mujer de Cuicapalli relación con el nawal? Ayoto lo afirma por su parecido, pero ella niega conocerlo (16-019).",
+      "estado": "pendiente",
+      "respuesta": "El director aclara después que la semejanza proviene de una representación gráfica reutilizada. Esto explica el indicio visual de Ayoto, sin confirmar que la mujer sea la nawal muerta o tenga una relación narrativa con ella.",
+      "referencias": [
+        "18-002"
+      ],
+      "pendiente": "Determinar si existe algún vínculo real entre ambas personas, aparte de la imagen.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P16-008",
+      "capitulo": 16,
+      "indice": 8,
+      "pregunta": "¿Qué plantas necesita el kenku y qué contienen los tubos de Lunaria? El encargo y los objetos quedan sin identificar por completo (16-017 y 16-020).",
+      "estado": "pendiente",
+      "respuesta": "No se identifican después la especie de las plantas fucsias ni el contenido de los dos tubos que tomó Lunaria. Su experimentación posterior no confirma una entrega de este encargo.",
+      "referencias": [],
+      "pendiente": "Identificar las plantas y los contenidos, y comprobar si se cumplió el encargo.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P16-009",
+      "capitulo": 16,
+      "indice": 9,
+      "pregunta": "¿Adónde llegarán Triel y Lunaria? ¿Qué efecto tendrá el tatuaje de Naór? El cierre deja ambas cuestiones pendientes (16-021).",
+      "estado": "parcial",
+      "respuesta": "Eldrat relata que encontró a Triel después de cuatro días de búsqueda; ella tardó cinco y se perdió. Ambos aparecen juntos de nuevo en Shiaru. Lunaria también reaparece allí después. No se precisa el efecto elegido ni el pago del tatuaje festivo de Naór.",
+      "referencias": [
+        "17-001",
+        "20-002",
+        "25-003",
+        "25-004"
+      ],
+      "pendiente": "Precisar el efecto y el pago del tatuaje de Naór; no se reconstruye toda la ruta de Lunaria.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P17-001",
+      "capitulo": 17,
+      "indice": 1,
+      "pregunta": "¿Dónde está Atlan y cuál es su grafía correcta frente a Atlas? Nombre explícito de reino sin coordenadas (17-006 y 17-022).",
+      "estado": "parcial",
+      "respuesta": "Naór explica después que Atlan lleva cientos de años vigilando la frontera y la costa del sur. Esto concreta su función y su posición general, pero no proporciona coordenadas ni una grafía oficial que elimine las variantes del reconocimiento.",
+      "referencias": [
+        "31-027"
+      ],
+      "pendiente": "Fijar la ubicación precisa y la grafía oficial de Atlan.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P17-002",
+      "capitulo": 17,
+      "indice": 2,
+      "pregunta": "¿Quiénes son el rey, la reina y la figura enmascarada, y qué implica la alianza? Sin nombres personales ni tratado escrito (17-010 y 17-023).",
+      "estado": "pendiente",
+      "respuesta": "No se dan después los nombres del rey, la reina o la figura enmascarada de Ras Racor, ni se desarrolla un tratado concreto para aquella alianza.",
+      "referencias": [],
+      "pendiente": "Identificar a los tres dirigentes y los términos efectivos de la alianza.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P17-003",
+      "capitulo": 17,
+      "indice": 3,
+      "pregunta": "¿Se celebrará el concilio de Tutucan y llegará Naór a Iktan? Promesas e intención, no llegada (17-021–17-023).",
+      "estado": "parcial",
+      "respuesta": "Naór llega a Iktan y conversa con Walulu. Transmite la convocatoria de Tutucan para la noche anterior al próximo solsticio y obtiene su promesa de apoyo. La llegada sí se cumple, pero la reunión no se celebra en las fuentes disponibles.",
+      "referencias": [
+        "31-019",
+        "31-024",
+        "31-027"
+      ],
+      "pendiente": "Confirmar la celebración del concilio de Tutucan.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P17-004",
+      "capitulo": 17,
+      "indice": 4,
+      "pregunta": "¿Qué relación tienen hombres serpiente vistos al norte y crisis de Cuicapalli? Informe de la escolta sin investigación (17-007).",
+      "estado": "pendiente",
+      "respuesta": "Una investigación posterior encuentra hombres serpiente infiltrados en la Hoja Caída, al norte, y veneno asociado al envenenamiento de Eromov. Refuerza la existencia de actividad serpiente en la zona, pero no identifica expresamente a ese grupo con los individuos avistados por la escolta de Ras Racor.",
+      "referencias": [
+        "30-006",
+        "30-007",
+        "30-009",
+        "30-017",
+        "30-020"
+      ],
+      "pendiente": "Establecer una relación directa entre los avistamientos de la patrulla y la crisis de Cuicapalli.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P18-001",
+      "capitulo": 18,
+      "indice": 1,
+      "pregunta": "¿Qué significan la palabra «tiempo», las botas con símbolos y las heridas persistentes de Mamá? (18-005, 18-009)",
+      "estado": "pendiente",
+      "respuesta": "Se amplía la documentación del daño y rejuvenecimiento de Citlali: drena vida de Winscore y Tlachka, su maldición cura a un enemigo serpiente y los yuan-ti reclaman su piel como clave. Walulu examina sus tatuajes. No se explica la palabra tiempo ni el origen y vínculo de los símbolos de las botas.",
+      "referencias": [
+        "19-007",
+        "34-009",
+        "39-008",
+        "39-010",
+        "39-014",
+        "39-017",
+        "39-018"
+      ],
+      "pendiente": "Explicar tiempo, la procedencia y símbolos de las botas y la causa de las heridas y la maldición.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P18-002",
+      "capitulo": 18,
+      "indice": 2,
+      "pregunta": "¿Quiénes son las criaturas marinas asesinadas y qué ritual utiliza la sangre reciente? (18-012–18-013)",
+      "estado": "pendiente",
+      "respuesta": "No se identifican después las dos criaturas marinas del templo ni el ritual concreto alimentado con aquella sangre. Los rituales del kraken relatados en Perlasal no se vinculan expresamente a esta sala.",
+      "referencias": [],
+      "pendiente": "Identificar a las víctimas y el ritual de ese templo.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P18-003",
+      "capitulo": 18,
+      "indice": 3,
+      "pregunta": "¿Quién es el dios del templo, Lares/Larcamas, y qué vínculo tiene con Set nombrado en la bendición? Sin equivalencia establecida (18-007 y 18-017).",
+      "estado": "pendiente",
+      "respuesta": "No se aclara posteriormente la identidad del dios llamado Lares o Larcamas ni su equivalencia con Set. Compartir iconografía serpentina no permite fusionar ambos nombres.",
+      "referencias": [],
+      "pendiente": "Identificar la deidad del templo y determinar su relación con Set.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P18-004",
+      "capitulo": 18,
+      "indice": 4,
+      "pregunta": "¿Qué representa la sombra del cierre y qué conoce algún personaje de ella? No acceso demostrado (18-021).",
+      "estado": "pendiente",
+      "respuesta": "Las visiones posteriores contienen figuras serpentinas, pero no identifican de forma expresa la sombra del cierre de este capítulo. Tampoco se transmite a un personaje aquella perspectiva de cámara.",
+      "referencias": [],
+      "pendiente": "Identificar la sombra y cualquier acceso de los personajes a esa información.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P19-001",
+      "capitulo": 19,
+      "indice": 1,
+      "pregunta": "¿Qué presencia habla a través del collar y puede modificar/controlar criaturas? Solo percepción e hipótesis (19-014–19-016).",
+      "estado": "pendiente",
+      "respuesta": "El collar vuelve a causar una visión a Blink y Zarial, figura entre las órdenes del ataque a Shiaru y es reconocido por el guardia poseído de la pirámide. Estos hechos prueban su relevancia y efectos mentales, pero no identifican a la presencia ni demuestran que controle o modifique al dinosaurio de la charca.",
+      "referencias": [
+        "21-015",
+        "25-021",
+        "26-018",
+        "26-021"
+      ],
+      "pendiente": "Identificar la presencia del collar y verificar su capacidad de controlar o modificar criaturas.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P19-002",
+      "capitulo": 19,
+      "indice": 2,
+      "pregunta": "¿Por qué el intento de curación de Mamá causa daño y rejuvenecimiento? Blink conoce el fenómeno, no explicación (19-007).",
+      "estado": "pendiente",
+      "respuesta": "El drenaje de Citlali se confirma cuando roba dieciocho puntos de vida a Winscore para curarse. En el capítulo 39 el mismo poder cura a la abominación serpiente y después vuelve a drenar a Tlachka. Walulu empieza a estudiar las marcas, sin explicar todavía el origen o el funcionamiento completo de la maldición.",
+      "referencias": [
+        "34-009",
+        "39-008",
+        "39-014",
+        "39-017",
+        "39-018"
+      ],
+      "pendiente": "Explicar la causa del drenaje y rejuvenecimiento y cómo remediarlos.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P19-003",
+      "capitulo": 19,
+      "indice": 3,
+      "pregunta": "¿Se entrenará Leona y dónde custodiarán el collar? Pendientes (19-016–19-017).",
+      "estado": "parcial",
+      "respuesta": "Blink sigue acompañando a Leona por la vigilancia encomendada y continúa guardando el collar dentro de una fruta. Más adelante lo abandona en la sala de la pirámide durante la huida. No se muestra un programa de entrenamiento completado ni se confirma que dejarlo allí lo vuelva seguro.",
+      "referencias": [
+        "21-004",
+        "21-015",
+        "25-002",
+        "28-010"
+      ],
+      "pendiente": "Conocer los resultados del entrenamiento de Leona y las consecuencias de abandonar el collar.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P20-001",
+      "capitulo": 20,
+      "indice": 1,
+      "pregunta": "¿Quién es Arcan, la figura del templo de Zarial, y por qué ella busca fuerza? Solo se dispone de su relato introductorio (20-003).",
+      "estado": "pendiente",
+      "respuesta": "No se amplía después la biografía de Arcan ni se explica con nuevas fuentes el motivo de la búsqueda de fuerza de Zarial.",
+      "referencias": [],
+      "pendiente": "Identificar a Arcan y documentar la motivación y tradición de Zarial.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P20-002",
+      "capitulo": 20,
+      "indice": 2,
+      "pregunta": "¿Qué indica la X junto a Slaz en el mapa y cuándo compartirá Poncelot su contenido? (20-014).",
+      "estado": "parcial",
+      "respuesta": "Poncelot logra estudiar el mapa con Ione y después lo muestra al grupo. Lo siguen hacia el sur y Pinky los guía a la pirámide que el director llama provisionalmente Slaz. Se cumple la comunicación y la exploración, pero siguen inciertas la grafía y la identificación completa del lugar marcado.",
+      "referencias": [
+        "25-001",
+        "25-019",
+        "26-008",
+        "26-013",
+        "28-001"
+      ],
+      "pendiente": "Aclarar la identificación y el nombre exacto del destino marcado con la X.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P20-003",
+      "capitulo": 20,
+      "indice": 3,
+      "pregunta": "¿Cuál era el cometido del campamento, del gas y de la serpiente? ¿Dónde está Eldrat? No se averigua en este capítulo (20-008, 20-013 y 20-017).",
+      "estado": "parcial",
+      "respuesta": "Poncelot sabe después que Eldrat está en su cuarto y deja de considerar el mapa una pista de su desaparición. Los capítulos posteriores no explican el cometido específico del campamento atacado, del gas o de su serpiente.",
+      "referencias": [
+        "23-001"
+      ],
+      "pendiente": "Determinar la finalidad de aquel campamento, la trampa de gas y la serpiente.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P20-004",
+      "capitulo": 20,
+      "indice": 4,
+      "pregunta": "¿Existe la criatura de tres cabezas de la tradición leonina o aparece en otras fuentes? (20-006).",
+      "estado": "pendiente",
+      "respuesta": "No se encuentra ni identifica después a la criatura de la leyenda leonina que come moscas. Las serpientes de múltiples cabezas de otras escenas no se equiparan con ella por semejanza.",
+      "referencias": [],
+      "pendiente": "Corroborar la leyenda e identificar a su criatura.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P21-001",
+      "capitulo": 21,
+      "indice": 1,
+      "pregunta": "¿Quién es la tercera criatura arrastrada del campamento y qué le ocurre? No se identifica (21-006–21-007).",
+      "estado": "pendiente",
+      "respuesta": "No se identifica posteriormente a la tercera criatura arrastrada ni se cuenta su destino. La presencia de dos padres muertos no resuelve por sí sola el tercer rastro.",
+      "referencias": [],
+      "pendiente": "Identificar a la tercera criatura y su desenlace.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P21-002",
+      "capitulo": 21,
+      "indice": 2,
+      "pregunta": "¿El humano transformado en lobo, los lobos con marcas lunares y el estanque están vinculados al culto serpiente? El collar activa una visión, pero no se conoce un vínculo doctrinal (21-010 y 21-015).",
+      "estado": "pendiente",
+      "respuesta": "No se establece después un vínculo doctrinal o causal entre el humano-lobo, los lobos lunares y el culto serpiente. La reacción del collar es un indicio, no una explicación completa.",
+      "referencias": [],
+      "pendiente": "Comprobar la relación entre ese ritual, la transformación y el culto serpiente.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P21-003",
+      "capitulo": 21,
+      "indice": 3,
+      "pregunta": "¿Qué entidad se muestra a Blink y Zarial y habla al collar? Al final se describe como una mujer pez, sin nombre confirmado (21-015).",
+      "estado": "pendiente",
+      "respuesta": "No se da posteriormente un nombre o identificación inequívoca a la mujer pez de aquella visión. Maris y Marina no se identifican con ella por compartir rasgos acuáticos.",
+      "referencias": [],
+      "pendiente": "Identificar a la entidad de la visión de Blink y Zarial.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P21-004",
+      "capitulo": 21,
+      "indice": 4,
+      "pregunta": "¿Aceptará Eromov la custodia de Leo y cómo afectará al niño lo sucedido? Queda pendiente (21-016).",
+      "estado": "parcial",
+      "respuesta": "Naór continúa cuidando y entrenando a Leo, que la sigue para sobrevivir. Lo presenta como hijo y futuro príncipe, y después lo presenta a Walulu en Iktan. Leo también participa en el combate del bosque. No se muestra una aceptación formal de la custodia por Eromov ni una resolución del trauma.",
+      "referencias": [
+        "31-001",
+        "31-004",
+        "31-006",
+        "31-018",
+        "31-019",
+        "31-028"
+      ],
+      "pendiente": "Conocer el reconocimiento de la custodia y la evolución emocional de Leo.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P22-001",
+      "capitulo": 22,
+      "indice": 1,
+      "pregunta": "¿Cómo se infiltraron en la aldea y por qué preguntan a Mamá por el collar que tiene Blink? (22-011–22-018).",
+      "estado": "pendiente",
+      "respuesta": "La aparición posterior de hombres serpiente disfrazados confirma que esa infiltración es posible. Los yuan-ti reclaman después la piel marcada de Citlali como clave, lo que aporta contexto sobre su interés en ella. No explican cómo entraron al festival ni por qué le exigieron el collar que llevaba Blink.",
+      "referencias": [
+        "30-009",
+        "30-011",
+        "39-010"
+      ],
+      "pendiente": "Reconstruir la infiltración del festival y el motivo de preguntar a Mamá por el collar.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P22-002",
+      "capitulo": 22,
+      "indice": 2,
+      "pregunta": "¿Qué descubrirá Blink sobre la amenaza y recibirá el aviso? (22-018).",
+      "estado": "parcial",
+      "respuesta": "Blink sufre directamente el ataque a Shiaru. Al compartir Nox las órdenes sobre el mapa y el collar, revela que lo posee; después el grupo conversa sobre esa demanda y viaja a la pirámide. Conoce la amenaza, pero no se muestra la transmisión específica del aviso de Eromov.",
+      "referencias": [
+        "25-006",
+        "25-021",
+        "26-015"
+      ],
+      "pendiente": "Confirmar si recibió el aviso concreto de Cuicapalli y conocer la identidad y finalidad del atacante.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P22-003",
+      "capitulo": 22,
+      "indice": 3,
+      "pregunta": "¿Cuál es la especie y el linaje de Guayacán? ¿Va disfrazado de ave o es un aracocra? La fuente mantiene la ambigüedad (22-002 y 22-005).",
+      "estado": "pendiente",
+      "respuesta": "Una fisura en el pico de Guayacán deja ver dientes humanos y el personaje intenta ocultar el deterioro de su traje. Más adelante vuelve a repararlo. Son indicios sobre su apariencia, sin una declaración definitiva de su especie o una genealogía del linaje.",
+      "referencias": [
+        "27-020",
+        "27-021",
+        "30-001"
+      ],
+      "pendiente": "Confirmar su especie real y el linaje declarado.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P22-004",
+      "capitulo": 22,
+      "indice": 4,
+      "pregunta": "¿Cómo organizarán la expedición al norte y el concilio pendiente? (22-020).",
+      "estado": "parcial",
+      "respuesta": "Naór completa el contacto con Iktan y obtiene la promesa de apoyo de Walulu para el concilio previo al solsticio. Ayoto sigue entrenando a Cuicapalli y en el capítulo 39 propone ir a su pueblo del norte, pero no sabe dónde está. No se celebra el concilio ni se ejecuta una expedición organizada al pueblo de Ayoto.",
+      "referencias": [
+        "31-027",
+        "39-001",
+        "39-014"
+      ],
+      "pendiente": "Celebrar el concilio y localizar el destino de una expedición organizada al norte.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P23-001",
+      "capitulo": 23,
+      "indice": 1,
+      "pregunta": "¿Quién es la diosa anunciada por la serpiente del foso y cómo conoce esta a Hawkins? (23-011).",
+      "estado": "pendiente",
+      "respuesta": "En una visita posterior a la prisión de Aurora, una presencia muestra a Nox una serpiente alada que se convierte en humanoide y pide ser liberada. Nox y Molly resisten la influencia y no la liberan. La escena amplía la trama de la presencia cautiva, sin identificar a la diosa anunciada ni explicar cómo conocía a Hawkins.",
+      "referencias": [
+        "35-014",
+        "35-015"
+      ],
+      "pendiente": "Identificar a la diosa, corroborar la relación entre las apariciones y explicar el conocimiento de Hawkins.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P23-002",
+      "capitulo": 23,
+      "indice": 2,
+      "pregunta": "¿Qué ciudad buscan los documentos? ¿Coincide con el mapa Slaz? El nombre mostrado no se verbaliza (23-015).",
+      "estado": "pendiente",
+      "respuesta": "El mapa se comparte y conduce a una expedición a la pirámide que el director llama provisionalmente Slaz. Esto permite seguir su destino, pero no recupera el nombre no verbalizado de la ciudad de los documentos ni demuestra que ambas referencias sean idénticas.",
+      "referencias": [
+        "25-019",
+        "26-013",
+        "28-001"
+      ],
+      "pendiente": "Leer el nombre de la ciudad de los documentos y verificar su relación con el mapa.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P23-003",
+      "capitulo": 23,
+      "indice": 3,
+      "pregunta": "¿Qué símbolo espera Nox que Molly reconozca y quién es el alto cargo al que llama palomo? No se nombra literalmente a Tórtola en este capítulo (23-011 y 23-017).",
+      "estado": "pendiente",
+      "respuesta": "Tórtola aparece después como almirante aviar y nuevo mando de Aurora, que destituyó a Molly. Es un candidato contextual para el alto cargo temido, pero no se declara inequívocamente que sea aquel palomo. El símbolo que Nox esperaba que Molly reconociera tampoco se explica.",
+      "referencias": [
+        "35-009",
+        "35-010",
+        "35-013",
+        "35-016"
+      ],
+      "pendiente": "Confirmar la equivalencia del palomo con Tórtola y explicar el símbolo.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P23-004",
+      "capitulo": 23,
+      "indice": 4,
+      "pregunta": "¿Qué ocurre con el galeón a la deriva, los perros aliados y los otros presos? No se muestra su desenlace (23-010 y 23-016–23-017).",
+      "estado": "pendiente",
+      "respuesta": "No se da un desenlace posterior al galeón abandonado ni a los presos que Nox dejó sin liberar. La aparición de otros perros de Aurora no identifica individualmente a los aliados de aquella fuga.",
+      "referencias": [],
+      "pendiente": "Conocer los destinos del galeón, los perros aliados y los cautivos.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P24-001",
+      "capitulo": 24,
+      "indice": 1,
+      "pregunta": "¿Qué robaron los impostores, quiénes son y qué relación tienen con la concha o el culto serpiente? No se confirma su especie ni su objetivo completo (24-007 y 24-017).",
+      "estado": "pendiente",
+      "respuesta": "Maris explica en la expedición posterior que los merros encontrados cerca de Perlasal sirven a los profundos, que secuestran gente para rituales del kraken. Amplía el contexto de sus enemigos marinos, pero no identifica expresamente el objeto robado a Bonnie ni una relación con el culto serpiente o la identidad completa de los impostores de la costa.",
+      "referencias": [
+        "29-019",
+        "29-021",
+        "29-022"
+      ],
+      "pendiente": "Identificar el robo y a los impostores concretos, y establecer sus vínculos con los demás grupos.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P24-002",
+      "capitulo": 24,
+      "indice": 2,
+      "pregunta": "¿Adónde conducen las coordenadas de la perla y cómo podrían reparar la concha? No se muestra ninguna reparación (24-014–24-015).",
+      "estado": "parcial",
+      "respuesta": "Coyote utiliza la perla para comunicarse con Maris y orientarse desde el lago, por un túnel al mar, hasta ser recibido en Perlasal. No se leen los valores numéricos de las coordenadas ni se reparan los fragmentos de concha.",
+      "referencias": [
+        "29-005",
+        "29-009",
+        "29-019",
+        "29-020"
+      ],
+      "pendiente": "Conocer las coordenadas completas y si puede repararse la concha.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P24-003",
+      "capitulo": 24,
+      "indice": 3,
+      "pregunta": "¿Dónde está Sam y por qué Ione reacciona a su nombre? No se revela (24-016).",
+      "estado": "pendiente",
+      "respuesta": "Los capítulos posteriores no localizan a Sam ni explican la reacción de Ione a su nombre. El acuerdo de búsqueda con Bonnie no se muestra cumplido.",
+      "referencias": [],
+      "pendiente": "Localizar a Sam y explicar qué sabe o recuerda Ione.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P24-004",
+      "capitulo": 24,
+      "indice": 4,
+      "pregunta": "¿Coyote corresponde a una identidad anterior? Ser cambiaformas y compartir intérprete con Mamá no demuestra que sean la misma persona (24-005 y 24-019).",
+      "estado": "pendiente",
+      "respuesta": "El director identifica después a Coyote como quien suplantó a Ione y, más adelante, como changeling. En Iktan aparece junto a Citlali y reconoce al grupo. Se aclaran su especie y sus suplantaciones, pero no se revela una identidad anterior que permita equipararlo con Mamá.",
+      "referencias": [
+        "26-001",
+        "31-001",
+        "39-018",
+        "39-020"
+      ],
+      "pendiente": "Documentar una identidad anterior, si existe, y su historia sin deducirla de la intérprete.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P24-005",
+      "capitulo": 24,
+      "indice": 5,
+      "pregunta": "¿Qué máquinas y tinta lleva Gobs y cuándo se pondrán en servicio? (24-021).",
+      "estado": "resuelta",
+      "respuesta": "Después de la llegada del equipo, Ione sale de la consulta tras comprar un tatuaje. Triel también paga y recibe un tatuaje más adelante. Esto confirma que el servicio de tatuajes está funcionando; no permite atribuir un efecto específico a los dos tatuajes si no se describe.",
+      "referencias": [
+        "26-003",
+        "31-003"
+      ],
+      "pendiente": "",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P25-001",
+      "capitulo": 25,
+      "indice": 1,
+      "pregunta": "¿Quién ordenó el ataque y por qué necesita el mapa y el collar? Solo se conocen las palabras descifradas de las órdenes (25-021).",
+      "estado": "pendiente",
+      "respuesta": "En la pirámide, un guardia poseído reconoce que Nox y el collar han llegado. El anfitrión afirma que alguien superior necesita lo que Nox lleva en la espalda y lo llama Señor. Confirma que los objetos y Nox interesan a esa trama, pero no identifica al superior ni prueba quién impartió las órdenes del ataque a Shiaru.",
+      "referencias": [
+        "26-021",
+        "26-022"
+      ],
+      "pendiente": "Identificar al mandante y explicar la necesidad del mapa y del collar.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P25-002",
+      "capitulo": 25,
+      "indice": 2,
+      "pregunta": "¿Dónde está Ezlat y qué contiene? La cartografía falla y el nombre procede del testimonio de Poncelot sobre Ione (25-019).",
+      "estado": "parcial",
+      "respuesta": "El grupo sigue el mapa hacia el sur y Pinky lo guía a una pirámide oculta, llamada provisionalmente Slaz por el director. Encuentran estatuas, un altar, un trono y hombres serpiente, cuyo anfitrión se recompone en una criatura enorme tras morir. No se fija una ubicación cartográfica exacta ni la equivalencia nominal entre Ezlat y Slaz.",
+      "referencias": [
+        "26-008",
+        "26-013",
+        "26-016",
+        "26-021",
+        "28-001",
+        "28-009"
+      ],
+      "pendiente": "Confirmar el nombre y la ubicación exactos del destino y aclarar la identidad de la entidad del templo.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P25-003",
+      "capitulo": 25,
+      "indice": 3,
+      "pregunta": "¿Qué es el collar de Blink y cómo se relaciona con los anteriores? La mesa rechaza identificarlo con el de cuatro gemas (25-021).",
+      "estado": "pendiente",
+      "respuesta": "El collar de Blink reacciona mentalmente en la pirámide y un guardia poseído reconoce su presencia. Durante la huida, Blink deja la fruta que lo contiene en una sala. No se determina su naturaleza ni se establece una equivalencia con los collares de las misiones anteriores.",
+      "referencias": [
+        "26-018",
+        "26-021",
+        "28-010"
+      ],
+      "pendiente": "Identificar su naturaleza, vínculo con la presencia mental y relación con los demás collares.",
+      "revisado_hasta": 39
+    },
+    {
+      "id": "P25-004",
+      "capitulo": 25,
+      "indice": 4,
+      "pregunta": "¿Qué hechizos contienen los dos pergaminos robados y cuáles son todos los efectos de la espina-lanza? Se conocen sus niveles o cargas, pero no todos los detalles (25-012, 25-018 y 25-020).",
+      "estado": "pendiente",
+      "respuesta": "Los pergaminos robados no reciben una identificación posterior de sus conjuros. La espina-lanza se utiliza en combate, pero no se amplían de forma inequívoca todos sus efectos. No se asignan a ella las habilidades de clase de Poncelot.",
+      "referencias": [],
+      "pendiente": "Identificar ambos conjuros y la descripción completa de la espina-lanza.",
+      "revisado_hasta": 39
+    }
+  ]
+}

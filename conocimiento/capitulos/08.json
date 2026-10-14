@@ -1,0 +1,773 @@
+{
+  "capitulo": 8,
+  "estado_revision": "revisado",
+  "resumen": "Tlachka, Blink, Kilzer y Erendriel, que pide ser llamado Salazor, se reúnen en Shiaru. Un pirata herido dice que criaturas negras de ojos rojos y otra mayor acabaron con sus compañeros al intentar saquear un templo. Tlachka relaciona el relato con leyendas de nawals. Kilzer le roba diez monedas mientras lo atiende y Tlachka lo lleva al médico Gobs, que empieza a intervenirlo sin que se establezca su desenlace. El grupo sale a investigar y encuentra a Ayoto junto a un cadáver. Una carta altera el día a noche; Blink se hace pasar telepáticamente por el dios Sol para que Ayoto los ayude. Un loro pirata roba la bolsa del cadáver. Ayoto guía al grupo hacia un altar en una colina junto al río. Tras cruzar un puente, cinco panteras los emboscan y el grupo las mata. Encuentran un templo asociado por el director a una civilización antigua de nawals, con un pirata muerto colgado, utensilios y un diario en Terran más reciente que el edificio. Una criatura de forma humana se transforma ante ellos en pantera bípeda y los acusa de robar; combate, Blink la mata y queda el cadáver de una mujer. Salazor se lleva el libro y Ayoto el mortero y el cuerpo. Descansan ocho horas encerrados, pero al abrir sigue siendo noche por la alteración previa. Regresan tras enfrentamientos resumidos por el director. Pinky no reconoce el nawal y recibe el mortero. Los nativos cuelgan una pantera para secarla junto al pozo. Kilzer fracasa en recuperar el dinero del loro y descubre rota una espada tras el combate.",
+  "misiones": [
+    "Investigar el templo y las criaturas: parten tras el testimonio de un pirata (08-008–08-011), Ayoto guía al altar (08-015–08-016), derrotan cinco panteras y una criatura transformista (08-017 y 08-022–08-023). No verifican todos los supuestos muertos ni el origen de la mujer.",
+    "Consultar el libro y la criatura: Salazor conserva el diario sin traducción; Ayoto lleva el cuerpo y el mortero. Pinky no reconoce al nawal y recibe el mortero (08-024 y 08-026). La consulta a Mamá está pendiente y no se realiza porque está ausente.",
+    "Búsqueda de captores de Blink: huellas y relato personal sin localizarlos ni confirmar su destino (08-004).",
+    "Saquear y obtener dinero: Kilzer roba diez monedas al superviviente y obtiene una poción de un cadáver; consigue trozos de pantera sin venta. El loro conserva la bolsa robada y Kilzer termina con una espada rota (08-008, 08-014, 08-016, 08-019 y 08-027).",
+    "Retorno seguro: descanso de ocho horas y vuelta a Shiaru tras combates narrados en elipsis; los personajes están bien en términos mecánicos (08-025)."
+  ],
+  "preguntas": [
+    "¿Quién era la mujer del templo, de qué tribu y por qué vivía allí? La transformación y la muerte se ven, pero no se revela su identidad (08-022–08-024).",
+    "¿Qué dice el diario en Terran y quién lo escribió? Salazor lo conserva sin traducción (08-021 y 08-024).",
+    "¿Las plantas y el mortero explican la transformación de esta mujer? Civilización asociada a plantas y ascenso animal, sin prueba individual de su preparación o del mecanismo (08-020–08-024).",
+    "¿Qué ocurre con el pirata herido entregado a Gobs? Intervención iniciada sin desenlace mostrado (08-010).",
+    "¿Dónde están los captores de Blink y de quién eran las huellas? Sin identificación (08-004).",
+    "¿Qué objeto descrito como truco obtuvo el elfo de los cadáveres y qué utilidad tiene? Fuente no precisa (08-019).",
+    "¿Se reparará o sustituirá la espada de Kilzer? Recuerda otra guardada, sin cambio representado (08-027)."
+  ],
+  "contradicciones": [
+    "Salazor: el mismo elfo llamado Erendriel y variantes antes se presenta dos veces como Salazor. Conservar el nuevo nombre utilizado y variantes, sin decidir si son alias o correcciones del reconocimiento (08-007 y 08-011).",
+    "Descanso: parece haber amanecido al principio, pero el director corrige que es noche porque la carta alteró día/noche y han dormido durante el día (08-025).",
+    "Espada en ilustración de nawal: jugador intenta tomarla, director dice que no existe. No inventariar una espada ni botín por una imagen (08-024).",
+    "Abuela a consultar: se pretende hablar con Mamá o abuela, el director recuerda que no deben utilizarse personajes jugadores ausentes y el jugador aclara Pinky. Pinky no sabe de nawals; no atribuir consulta o traducción a Mamá (08-026).",
+    "Ayoto y Kilzer discrepan sobre intercambio protector de posición: Ayoto lo presenta como bendición, Kilzer como escudo humano. La mecánica sí da defensa adicional; conservar ambas interpretaciones (08-017).",
+    "Narrativa de vuelta maltrecha frente a estado mecánico bien: el director distingue expresamente ambos al resumir regreso; no sustraer puntos de golpe inventados (08-025)."
+  ],
+  "nombres_dudosos": [
+    "Salazor es nombre usado explícitamente por el elfo en 00:20 y 00:32; conserva continuidad con Erendriel sin normalización retrospectiva automática.",
+    "Nawal / nawals: fuente alterna Naulat, Naulal, Naals y nawals. Mantener grafía provisional, sin imponer taxonomía externa o reglas oficiales.",
+    "Gobs: nombre del médico según presentación del director; verificar grafía si aparece de nuevo.",
+    "Tlachka / Lachka / Trasca / chancla: variantes de reconocimiento y apodo de guerrero del capítulo 1. No es Ayoto ni Chochi.",
+    "Libro identificado como Terran; contenido no descifrado. Plano feérico aparece en comentario de trasfondo de Blink, sin geografía precisa.",
+    "Pantera y jaguar se alternan al secar cadáver animal; no imponer especie más exacta ni confundir con la mujer nawal."
+  ],
+  "fuente_sha256": "9a97ffafb271eb4d633070657d86e4eb8f9bc42853f7ebe220335139025ba269",
+  "afirmaciones": [
+    {
+      "id": "08-001",
+      "titulo": "Tlachka obtiene un collar local",
+      "tipo": "explicacion_director",
+      "afirmacion": "Tlachka relata que recogió frutas para Mamá y aprendió sobre cañones y artilugios. Su tirada de descanso le adjudica un collar precioso y lujoso cuyos dibujos y fabricación se reconocen como propios de las tribus de Xoltacan.",
+      "inicio": "00:00:00.000",
+      "fin": "00:02:20.000",
+      "cita": "tienes un collar precioso",
+      "evidencia_cue": {
+        "inicio": "00:01:49.119",
+        "fin": "00:01:51.510",
+        "texto": "inventario. Vale, pues tienes un collar precioso. Parece bastante"
+      },
+      "entidades": [
+        "Tlachka / Tlacha (grafía provisional)",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Collar de descanso de Tlachka"
+      ],
+      "ambito": "actividad entre sesiones y adjudicación de inventario",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No identificar este nuevo collar con el collar recuperado en capítulo 4. La sospecha de que un pirata lo robó no identifica procedencia exacta ni autor."
+    },
+    {
+      "id": "08-002",
+      "titulo": "Blink descansa mal en el mástil de Nox",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Blink relata vigilar a sus antiguos captores y dormir en el mástil de Nox, además de recorrer el poblado y el bosque. El director adjudica un punto de cansancio por movimiento, gritos y disparos nocturnos.",
+      "inicio": "00:02:10.000",
+      "fin": "00:04:00.000",
+      "cita": "tienes un puntito de cansancio",
+      "evidencia_cue": {
+        "inicio": "00:03:26.080",
+        "fin": "00:03:28.949",
+        "texto": "dejado dormir y tienes un puntito de cansancio"
+      },
+      "entidades": [
+        "Blink / Blank",
+        "Nox",
+        "Shiaru"
+      ],
+      "ambito": "recapitulación y descanso",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": ""
+    },
+    {
+      "id": "08-003",
+      "titulo": "Kilzer y el elfo pasan por el hospital",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Kilzer relata pasar bastante tiempo en el hospital por las heridas causadas por las sirenas y el tiburón y luego encerrarse evitando reptiles gigantes; pierde una moneda en la tirada. Erendriel relata acompañar a Mamá hasta el bar y acudir al hospital por las heridas del depredador volador. Su tirada no le quita dinero porque no tiene.",
+      "inicio": "00:04:00.000",
+      "fin": "00:07:15.000",
+      "cita": "Se ha pasó bastante tiempo en el",
+      "evidencia_cue": {
+        "inicio": "00:04:13.000",
+        "fin": "00:04:14.670",
+        "texto": "accidentada última aventura. Mm. Se ha pasó bastante tiempo en el"
+      },
+      "entidades": [
+        "Kilzer / Kilcer (grafía provisional)",
+        "Erendriel (grafía provisional)",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Hospital de Shiaru"
+      ],
+      "ambito": "recapitulaciones de los jugadores",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Bromas de deber dos monedas a Bonnie no constituyen deuda adjudicada."
+    },
+    {
+      "id": "08-004",
+      "titulo": "Blink sigue buscando a sus captores",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Blink dice que sigue las huellas desde cerca de su casa hasta el poblado buscando a los dos piratas que la capturaron. Cuenta que dejó de verlos hace aproximadamente una semana tras molestarlos. Kilzer promete avisar si encuentra el sombrero descrito.",
+      "inicio": "00:07:15.000",
+      "fin": "00:11:30.000",
+      "cita": "unas huellas de cerca de mi casa",
+      "evidencia_cue": {
+        "inicio": "00:09:10.680",
+        "fin": "00:09:12.470",
+        "texto": "sea, he visto unas huellas de cerca de mi casa y las estiendo hasta aquí y no"
+      },
+      "entidades": [
+        "Blink / Blank",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Dos piratas captores de Blink (sin nombres)"
+      ],
+      "ambito": "conversación al comenzar la jornada",
+      "conocedores": [
+        "Blink / Blank",
+        "Kilzer / Kilcer (grafía provisional)"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se confirma que las huellas sean de los captores ni su muerte o destino."
+    },
+    {
+      "id": "08-005",
+      "titulo": "Encuentro con Tlachka y advertencia sobre tesoros",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Kilzer y Blink conocen al guerrero que pide ser llamado Tlachka, con variantes fonéticas en los subtítulos. Él dice haber dejado su tierra porque todo va mal desde que llegaron los piratas y advierte que algunos tesoros es mejor no tocarlos. Blink se presenta como espíritu del bosque, de otro bosque.",
+      "inicio": "00:12:00.000",
+      "fin": "00:16:20.000",
+      "cita": "hay algunos tesoros que es mejor no tocarlos",
+      "evidencia_cue": {
+        "inicio": "00:16:15.959",
+        "fin": "00:16:18.949",
+        "texto": "vayas por problemas. Ya hay algunos tesoros que es mejor no tocarlos."
+      },
+      "entidades": [
+        "Tlachka / Tlacha (grafía provisional)",
+        "Blink / Blank",
+        "Kilzer / Kilcer (grafía provisional)"
+      ],
+      "ambito": "presentaciones y opiniones",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No convertir la explicación causal del guerrero en historia independiente confirmada de toda la isla."
+    },
+    {
+      "id": "08-006",
+      "titulo": "El elfo rechaza la amputación propuesta por el médico",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "El médico ofrece serrar y sustituir la pierna del elfo por una pata arrancada de una mesa, presentándola como producto nuevo. El elfo pide descanso, rechaza la intervención y sale. El médico se inyecta la jeringuilla que había preparado.",
+      "inicio": "00:16:00.000",
+      "fin": "00:20:00.000",
+      "cita": "Prefiero estar entero",
+      "evidencia_cue": {
+        "inicio": "00:17:54.760",
+        "fin": "00:17:57.950",
+        "texto": "Bueno, no enteros, pero bien. Prefiero estar entero y no estar bien."
+      },
+      "entidades": [
+        "Erendriel (grafía provisional)",
+        "Gobs (médico, grafía provisional)",
+        "Hospital de Shiaru"
+      ],
+      "ambito": "escena del hospital",
+      "conocedores": [
+        "Erendriel (grafía provisional)",
+        "Gobs (médico, grafía provisional)"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se realiza amputación al elfo. Kilzer recuerda una mala experiencia médica, sin nuevo diagnóstico."
+    },
+    {
+      "id": "08-007",
+      "titulo": "El elfo utiliza el nombre Salazor",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "El elfo pide que lo llamen Salazor y después dice que ese es su nombre. Vuelve a presentarse así a Blink más adelante.",
+      "inicio": "00:19:50.000",
+      "fin": "00:20:55.000",
+      "cita": "mi nombre es Salazor",
+      "evidencia_cue": {
+        "inicio": "00:20:24.039",
+        "fin": "00:20:27.950",
+        "texto": "Te llamo. Será mejor. No, mi nombre es Salazor."
+      },
+      "entidades": [
+        "Erendriel (grafía provisional)",
+        "Salazor (nombre usado por el elfo)"
+      ],
+      "ambito": "autopresentación",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Equivalencia de personaje en esta escena; conservar Erendriel y variantes anteriores como nombres de fuente. No determina si Salazor es nombre natal o alias."
+    },
+    {
+      "id": "08-008",
+      "titulo": "Un pirata describe el ataque en un templo",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Un pirata llega ensangrentado y dice que al intentar saquear un altar o templo aparecieron criaturas negras de ojos rojos y otra mayor que caminaba a dos patas. Afirma que mataron a todos sus compañeros y que lo siguieron por el bosque. Kilzer le roba diez monedas mientras lo sujeta y pregunta.",
+      "inicio": "00:20:35.000",
+      "fin": "00:23:25.000",
+      "cita": "criaturas negras con ojos rojos",
+      "evidencia_cue": {
+        "inicio": "00:22:31.200",
+        "fin": "00:22:34.110",
+        "texto": "venían eran criaturas negras con ojos rojos salían"
+      },
+      "entidades": [
+        "Pirata herido del templo (sin nombre)",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Templo de los nawals"
+      ],
+      "ambito": "testimonio de superviviente y robo representado",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "El grupo no presencia la primera matanza ni verifica número o ausencia de otros supervivientes. Al mirar atrás no ve perseguidor."
+    },
+    {
+      "id": "08-009",
+      "titulo": "Leyendas de nawals según conocimiento de Tlachka",
+      "tipo": "explicacion_director",
+      "afirmacion": "El director adjudica a Tlachka que la descripción recuerda panteras negras y las leyendas de habitantes de Xoltacan que conocieron animales durante su vida y aprendieron a transformarse, considerados espíritus del bosque y llamados nawals con variantes de reconocimiento.",
+      "inicio": "00:23:15.000",
+      "fin": "00:26:00.000",
+      "cita": "incluso poder transformarse en ellos",
+      "evidencia_cue": {
+        "inicio": "00:24:53.760",
+        "fin": "00:24:56.710",
+        "texto": "animales para incluso poder transformarse en ellos, nombrándose,"
+      },
+      "entidades": [
+        "Tlachka / Tlacha (grafía provisional)",
+        "Nawals (grafía provisional)"
+      ],
+      "ambito": "conocimiento adjudicado mediante tirada",
+      "conocedores": [
+        "Tlachka / Tlacha (grafía provisional)"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Conocimiento de leyenda en este momento; la criatura transformada se observa después. No equiparar automáticamente con la licantropía de Ione."
+    },
+    {
+      "id": "08-010",
+      "titulo": "Tlachka entrega al herido a Gobs",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Tlachka carga al pirata desmayado y lo deja en el hospital. El médico, identificado por el director como Gobs, lo arrastra hasta una mesa, lo considera fuente de productos y empieza a serrar, comentando dedos, hígado y riñones.",
+      "inicio": "00:25:50.000",
+      "fin": "00:28:45.000",
+      "cita": "a Gobs",
+      "evidencia_cue": {
+        "inicio": "00:27:38.520",
+        "fin": "00:27:41.149",
+        "texto": "a la al doctor y nada, ves a ese hombre, a Gobs, que está ahí como poniendo otra"
+      },
+      "entidades": [
+        "Tlachka / Tlacha (grafía provisional)",
+        "Pirata herido del templo (sin nombre)",
+        "Gobs (médico, grafía provisional)"
+      ],
+      "ambito": "entrega e intervención médica",
+      "conocedores": [
+        "Tlachka / Tlacha (grafía provisional)",
+        "Gobs (médico, grafía provisional)"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se muestra desenlace ni se declara aquí muerte del paciente. Comentarios de la mesa sobre conocer la muerte son especulación humorística."
+    },
+    {
+      "id": "08-011",
+      "titulo": "Deciden investigar; referencias al plano feérico",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Kilzer propone investigar y saquear cadáveres o conseguir un obsequio para Bonnie para mejorar su situación. Blink quiere conocer el peligro próximo a su hogar. El elfo confirma ser eladrín; Blink pregunta por estar lejos del plano, y el jugador y director aluden a problemas de Blink en el plano feérico. Salazor busca y reúne a su dragoncito antes de salir con los demás.",
+      "inicio": "00:28:30.000",
+      "fin": "00:34:45.000",
+      "cita": "en el planoférico",
+      "evidencia_cue": {
+        "inicio": "00:32:23.240",
+        "fin": "00:32:25.470",
+        "texto": "en en mi plano. Sí, en el planoférico he leído la"
+      },
+      "entidades": [
+        "Kilzer / Kilcer (grafía provisional)",
+        "Blink / Blank",
+        "Erendriel (grafía provisional)",
+        "Dragoncito de Erendriel (sin nombre)",
+        "Plano feérico"
+      ],
+      "ambito": "planes y contexto declarado",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Problemas y ubicación natal exactos no desarrollados. No transferir trasfondo oculto de Blink a personajes porque el director diga haber leído la historia."
+    },
+    {
+      "id": "08-012",
+      "titulo": "Encuentran a Ayoto y un cadáver",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "En la selva ven un cadáver pirata y a Ayoto, goliat indígena de dos escudos, examinándolo con un palo. El elfo, Blink y el dragón se esconden; Kilzer y Tlachka se acercan. Kilzer recuerda la apuesta en que lo trataron como moneda y el conflicto de Ayoto con Nox.",
+      "inicio": "00:35:30.000",
+      "fin": "00:39:20.000",
+      "cita": "un Goliat vestido",
+      "evidencia_cue": {
+        "inicio": "00:36:26.359",
+        "fin": "00:36:29.990",
+        "texto": "observándolo, hay un Goliat vestido así con ropajes"
+      },
+      "entidades": [
+        "Ayoto / Ayuto (grafía provisional)",
+        "Tlachka / Tlacha (grafía provisional)",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Blink / Blank",
+        "Erendriel (grafía provisional)",
+        "Cadáver pirata del camino (sin nombre)"
+      ],
+      "ambito": "encuentro en el camino",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La interpretación de Kilzer de haber sido moneda no demuestra propiedad válida de personas ni resuelve todas las disputas del capítulo 2."
+    },
+    {
+      "id": "08-013",
+      "titulo": "Día convertido en noche e interpretaciones del dios Sol",
+      "tipo": "explicacion_director",
+      "afirmacion": "El director hace que el sol se mueva muy rápido y pase a ser noche por una carta de audiencia, aclarado al cierre. Ayoto cree haber enfadado al dios Sol; Tlachka lo relaciona con su sacrificio en el río. Hablan de ofrecer gallina o soldados. Ayoto ofrece un adorno de madera con un sol sonriente.",
+      "inicio": "00:38:40.000",
+      "fin": "00:44:40.000",
+      "cita": "como si se moviera muy rápido",
+      "evidencia_cue": {
+        "inicio": "00:39:42.960",
+        "fin": "00:39:45.510",
+        "texto": "el sol que es como si se moviera muy rápido"
+      },
+      "entidades": [
+        "Ayoto / Ayuto (grafía provisional)",
+        "Tlachka / Tlacha (grafía provisional)",
+        "Dios Sol (creencia de Ayoto)"
+      ],
+      "ambito": "alteración de mesa y reacciones de personajes",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La carta es causa indicada por el director, no intervención divina demostrada. No se realiza sacrificio humano o de gallina en esta escena."
+    },
+    {
+      "id": "08-014",
+      "titulo": "El loro roba una bolsa y Blink finge ser el dios Sol",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Un loro con gorro pirata toma del cadáver una bolsa pesada y huye al bosque llamándolos pringados. Blink habla telepáticamente a Ayoto fingiendo ser el dios Sol y le ordena ayudar a los aventureros y especialmente a ella para que salga el sol. Ayoto acepta la voz; el jugador decide fallar la tirada. El elfo investiga el cadáver y no obtiene objetos del templo.",
+      "inicio": "00:47:20.000",
+      "fin": "00:52:20.000",
+      "cita": "Soy el sol",
+      "evidencia_cue": {
+        "inicio": "00:49:19.160",
+        "fin": "00:49:21.870",
+        "texto": "cabeza a este guerrero loco. Soy el sol."
+      },
+      "entidades": [
+        "Loro pirata (sin nombre)",
+        "Blink / Blank",
+        "Ayoto / Ayuto (grafía provisional)",
+        "Erendriel (grafía provisional)",
+        "Cadáver pirata del camino (sin nombre)"
+      ],
+      "ambito": "robo y engaño telepático privado",
+      "conocedores": [
+        "Blink / Blank",
+        "Ayoto / Ayuto (grafía provisional)"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No es mensaje verdadero de deidad. Los demás pueden ver conducta de Ayoto sin oír automáticamente el contenido telepático."
+    },
+    {
+      "id": "08-015",
+      "titulo": "Ayoto encuentra un camino por rastros",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Tlachka explica los altares de sacrificio de las ciudades principales de las tribus. Blink busca huellas mezcladas de animales y piratas sin seguir un rastro claro y su fruta da olor dulce y ventaja temporal con herbívoros. Ayoto rastrea oliendo y lamiendo el suelo, señala un camino y guía al grupo.",
+      "inicio": "00:52:00.000",
+      "fin": "01:00:35.000",
+      "cita": "os señalá un camino",
+      "evidencia_cue": {
+        "inicio": "00:59:12.240",
+        "fin": "00:59:14.789",
+        "texto": "este por ahí. Y nada, os señalá un camino, así que"
+      },
+      "entidades": [
+        "Tlachka / Tlacha (grafía provisional)",
+        "Blink / Blank",
+        "Ayoto / Ayuto (grafía provisional)"
+      ],
+      "ambito": "rastreo y conocimientos compartidos",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Bromas sobre hierba de Pinky no prueban consumo por Ayoto. Ayoto ve a Blink como espíritu; no confirma que ella haya sido invocada."
+    },
+    {
+      "id": "08-016",
+      "titulo": "Altar junto al río y dos piratas muertos",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Llegan a una colina escarpada junto al sonido de un río, con un templo o altar medio destruido y camino de subida tras un puente de madera con tablones faltantes. Lo cruzan sin caída. Encuentran dos cadáveres piratas con heridas de zarpas y sangre aún corriendo. Kilzer disimula el registro como examen médico y toma una poción de curación.",
+      "inicio": "01:00:00.000",
+      "fin": "01:04:00.000",
+      "cita": "una poción de de curación",
+      "evidencia_cue": {
+        "inicio": "01:03:36.000",
+        "fin": "01:03:40.069",
+        "texto": "pues una poción de de curación."
+      },
+      "entidades": [
+        "Templo de los nawals",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Dos cadáveres piratas ante el templo (sin nombres)"
+      ],
+      "ambito": "hallazgo y saqueo",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se identifican estos cuerpos con el pirata del camino ni con captores de Blink. La sorpresa que Kilzer atribuye al cadáver es su explicación de cobertura."
+    },
+    {
+      "id": "08-017",
+      "titulo": "Emboscada de cinco panteras derrotada",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Cinco panteras salen de la selva y sorprenden al grupo. Ayoto resiste varios intentos de derribo y usa sus escudos. Kilzer mata tres, el elfo mata una y su dragón otra. Una pantera que Ayoto intenta amedrentar vuelve a atacar tras un rugido lejano. Ayoto intercambia posición con Kilzer y le aumenta la defensa, pese a que este se queja de ser usado de escudo.",
+      "inicio": "01:04:00.000",
+      "fin": "01:29:40.000",
+      "cita": "acabáis con esas panteras",
+      "evidencia_cue": {
+        "inicio": "01:29:20.280",
+        "fin": "01:29:23.510",
+        "texto": "Digo, si no es Nick atack, o sea, y acabáis con esas panteras."
+      },
+      "entidades": [
+        "Ayoto / Ayuto (grafía provisional)",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Erendriel (grafía provisional)",
+        "Dragoncito de Erendriel (sin nombre)",
+        "Tlachka / Tlacha (grafía provisional)",
+        "Blink / Blank",
+        "Panteras del templo"
+      ],
+      "ambito": "combate completo",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La lectura permite contar cinco atacantes; no son siete o diecisiete por bromas de mesa. No hay muerte de un PJ adjudicada aquí."
+    },
+    {
+      "id": "08-018",
+      "titulo": "Criatura acuática intenta morder a Blink",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Cuando Blink se mueve sobre el agua, algo sale en una fracción de segundo e intenta morderla. Evita el ataque y se acerca al grupo sobre tierra. Lanza un conjuro mental a una pantera, que supera la salvación.",
+      "inicio": "01:21:30.000",
+      "fin": "01:23:20.000",
+      "cita": "algo hace, sale del agua",
+      "evidencia_cue": {
+        "inicio": "01:22:30.800",
+        "fin": "01:22:33.870",
+        "texto": "cuando te mueves hacia allí ves que de repente algo hace, sale del agua y hace"
+      },
+      "entidades": [
+        "Blink / Blank",
+        "Criatura acuática del río (sin identificar)"
+      ],
+      "ambito": "peligro adicional durante combate",
+      "conocedores": [
+        "Blink / Blank"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No fijar especie: la jugadora lo llama mega pescado sin identificación del director."
+    },
+    {
+      "id": "08-019",
+      "titulo": "Curación y objetos de los cadáveres",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Tlachka ayuda a Kilzer aplicando hojas medicinales; se habla también de una poción, sin adjudicar con claridad dos consumos separados. El elfo busca munición y encuentra un objeto descrito como truco o trinket, sin balas ni pistola en estos dos cuerpos. Kilzer intenta desollar una pantera con navaja sin herramientas apropiadas, obteniendo trozos de piel, carne y cola. Ayoto carga una pantera.",
+      "inicio": "01:29:40.000",
+      "fin": "01:34:40.000",
+      "cita": "estos piratas no tienen",
+      "evidencia_cue": {
+        "inicio": "01:32:47.800",
+        "fin": "01:32:49.149",
+        "texto": "Yo yo quería balas, ¿eh? No, estos piratas no tienen no"
+      },
+      "entidades": [
+        "Tlachka / Tlacha (grafía provisional)",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Erendriel (grafía provisional)",
+        "Ayoto / Ayuto (grafía provisional)",
+        "Panteras del templo"
+      ],
+      "ambito": "recuperación y botín",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Conservar objeto no identificado, sin darle utilidad mágica. No extender ausencia de pistola a todos los piratas de la isla."
+    },
+    {
+      "id": "08-020",
+      "titulo": "Templo asociado a una civilización de nawals",
+      "tipo": "explicacion_director",
+      "afirmacion": "Al examinar símbolos, Tlachka reconoce por adjudicación del director una construcción de una civilización perdida hace menos de mil años. Sus tribus eran dadas a tomar plantas y ascender a un estado animal, con sacrificios y violencia. Ayoto y el elfo poseen solo conocimiento vago de historias; el elfo lo anota para consultar. Tlachka distingue sus propios sacrificios para calmar a los dioses de los que atribuye a trascender por interés personal.",
+      "inicio": "01:34:20.000",
+      "fin": "01:40:00.000",
+      "cita": "se perdieron hace menos de 1000 años",
+      "evidencia_cue": {
+        "inicio": "01:36:39.960",
+        "fin": "01:36:42.830",
+        "texto": "Choltacán, ¿sabes? Estas parecen que se perdieron hace menos de 1000 años,"
+      },
+      "entidades": [
+        "Tlachka / Tlacha (grafía provisional)",
+        "Ayoto / Ayuto (grafía provisional)",
+        "Erendriel (grafía provisional)",
+        "Nawals (grafía provisional)",
+        "Templo de los nawals"
+      ],
+      "ambito": "conocimiento adjudicado y valoración de personaje",
+      "conocedores": [
+        "Tlachka / Tlacha (grafía provisional)"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La fecha es aproximación explícita, no fecha de construcción ni prueba de extinción de todos los nawals. Juicio moral de Tlachka no se presenta como descripción neutral del director."
+    },
+    {
+      "id": "08-021",
+      "titulo": "Interior con diario en Terran y muerto colgado",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Abren manualmente puertas de piedra correderas. Ven una fuente, un altar con un diario, utensilios de moler plantas, huesos, calaveras y una vela, y un pirata muerto colgado boca abajo de una columna rota. El libro y los utensilios son más recientes que el templo; algunas páginas del diario tienen escritura más reciente que otras. El idioma del libro se identifica como Terran. El elfo pregunta si puede llevárselo; Ayoto no lo reclama y Tlachka lo desaconseja.",
+      "inicio": "01:40:20.000",
+      "fin": "01:46:40.000",
+      "cita": "está en Terran",
+      "evidencia_cue": {
+        "inicio": "01:46:18.360",
+        "fin": "01:46:21.109",
+        "texto": "¿Cómo? No, está en Terran."
+      },
+      "entidades": [
+        "Templo de los nawals",
+        "Diario en Terran del templo",
+        "Mortero del templo",
+        "Pirata colgado en templo (sin nombre)",
+        "Erendriel (grafía provisional)",
+        "Ayoto / Ayuto (grafía provisional)",
+        "Tlachka / Tlacha (grafía provisional)"
+      ],
+      "ambito": "exploración del interior",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se descifra contenido ni se identifica autor. El elfo oye movimiento lateral antes de que aparezca la criatura."
+    },
+    {
+      "id": "08-022",
+      "titulo": "Una figura se transforma en pantera bípeda y ataca",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Una voz dice que tampoco robaría el libro y emite un rugido que asusta a Blink y el elfo. Sale una figura con un rostro humano que se transforma ante ellos en pantera de dos patas. Los amenaza con morir como los piratas por intentar robar, ataca a Ayoto y se vuelve translúcida temporalmente.",
+      "inicio": "01:46:20.000",
+      "fin": "01:50:45.000",
+      "cita": "una pantera a dos patas",
+      "evidencia_cue": {
+        "inicio": "01:49:23.960",
+        "fin": "01:49:30.030",
+        "texto": "acaba formando y aparece, veis, una pantera a dos patas delante vuestro,"
+      },
+      "entidades": [
+        "Nawal del templo (mujer sin nombre)",
+        "Ayoto / Ayuto (grafía provisional)",
+        "Blink / Blank",
+        "Erendriel (grafía provisional)",
+        "Templo de los nawals"
+      ],
+      "ambito": "transformación observada y comienzo de combate",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Acusación de robo y responsabilidad por piratas provienen de la criatura; el grupo no presenció la matanza inicial. No asignar nombre a la mujer."
+    },
+    {
+      "id": "08-023",
+      "titulo": "El combate termina con la muerte de la criatura y su reversión a mujer",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Ayoto provoca al nawal, el grupo lo ataca y Blink agranda a Ayoto mientras se aparta asustada. Una curación enviada por audiencia se representa como dios Sol cerrando parte de las heridas de Ayoto. La criatura se desplaza sin ataques de oportunidad hacia Kilzer y lo llama blandito. Ayoto la derriba; el dragón la muerde y Blink la remata con conjuro mental. Al caer, se disipa la forma de pantera y queda una mujer de tribu, muerta con heridas del combate.",
+      "inicio": "01:51:20.000",
+      "fin": "02:06:55.000",
+      "cita": "una mujer de alguna tribu",
+      "evidencia_cue": {
+        "inicio": "02:06:27.679",
+        "fin": "02:06:32.910",
+        "texto": "dime que esta chala, por favor. No veis a una mujer de alguna tribu y"
+      },
+      "entidades": [
+        "Nawal del templo (mujer sin nombre)",
+        "Ayoto / Ayuto (grafía provisional)",
+        "Blink / Blank",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Tlachka / Tlacha (grafía provisional)",
+        "Erendriel (grafía provisional)",
+        "Dragoncito de Erendriel (sin nombre)"
+      ],
+      "ambito": "combate y reversión adjudicada",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Muerte explícita de la mujer; no equivale a que toda caída previa fuese muerte. La curación de audiencia se describe en mesa como dios Sol, sin establecer naturaleza general de esa deidad."
+    },
+    {
+      "id": "08-024",
+      "titulo": "Libro, mortero y cuerpo para consulta posterior",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "La mujer no lleva ropa, espada ni objetos. El elfo se lleva el libro en Terran. Blink explora la habitación de la criatura y ve un lecho de hojas, huesos roídos y trozos de carne, sin otro objeto brillante. El director afirma que no hay tesoro. Ayoto se lleva un mortero normal para la abuela y el cuerpo de la mujer, que proponen cubrir con hojas; también transportan una pantera con ayuda de Tlachka.",
+      "inicio": "02:06:20.000",
+      "fin": "02:12:50.000",
+      "cita": "no hay ningún tesoro aquí",
+      "evidencia_cue": {
+        "inicio": "02:11:46.960",
+        "fin": "02:11:48.709",
+        "texto": "Os lo voy a decir, no hay ningún tesoro aquí, ¿vale? Porque si vais a estar"
+      },
+      "entidades": [
+        "Diario en Terran del templo",
+        "Mortero del templo",
+        "Nawal del templo (mujer sin nombre)",
+        "Erendriel (grafía provisional)",
+        "Ayoto / Ayuto (grafía provisional)",
+        "Tlachka / Tlacha (grafía provisional)",
+        "Blink / Blank"
+      ],
+      "ambito": "botín y exploración final",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Espada de la ilustración rechazada expresamente como objeto real por el director. Cadáver humano de nawal y pantera de emboscada son cuerpos distintos. Maleficio del libro es sospecha, no confirmado."
+    },
+    {
+      "id": "08-025",
+      "titulo": "Descanso de ocho horas y vuelta nocturna",
+      "tipo": "explicacion_director",
+      "afirmacion": "Tras una discusión, cierran las puertas de piedra y descansan ocho horas en el templo sin que cedan. Blink engaña sobre que faltan pocas horas para amanecer. Al abrir es noche: el director recuerda que una carta cambió día por noche y durmieron durante el día. Resume el regreso con ataques de panteras y dinosaurios, llegando maltrechos a Shiaru; aclara que mecánicamente están bien.",
+      "inicio": "02:12:40.000",
+      "fin": "02:20:50.000",
+      "cita": "habéis dormido por el día y ahora es de noche",
+      "evidencia_cue": {
+        "inicio": "02:19:15.639",
+        "fin": "02:19:22.429",
+        "texto": "han hecho el día noche, así que habéis dormido por el día y ahora es de noche."
+      },
+      "entidades": [
+        "Blink / Blank",
+        "Templo de los nawals",
+        "Shiaru",
+        "Ayoto / Ayuto (grafía provisional)",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Erendriel (grafía provisional)",
+        "Tlachka / Tlacha (grafía provisional)"
+      ],
+      "ambito": "descanso y elipsis de regreso",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La impresión inicial de amanecer es corregida explícitamente. No inventar horas exactas, bajas o botín de encuentros omitidos, ni nuevas heridas mecánicas."
+    },
+    {
+      "id": "08-026",
+      "titulo": "Pinky recibe el mortero, pero no reconoce al nawal",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "El grupo pretende consultar a una abuela y aclara que se refiere a Pinky, porque Mamá no participa en esta sesión. Ayoto enciende fuego, presenta el cuerpo como nawal y da el mortero. Pinky dice no saber qué es un nawal, registra el cuerpo sin objetos y acepta el mortero con gratitud para su hierba.",
+      "inicio": "02:20:30.000",
+      "fin": "02:24:45.000",
+      "cita": "No sé que es un nawal",
+      "evidencia_cue": {
+        "inicio": "02:22:58.000",
+        "fin": "02:22:59.469",
+        "texto": "criaturas, en pantera. Parece una chica. No sé que es un nawal,"
+      },
+      "entidades": [
+        "Pinky (grafía provisional)",
+        "Ayoto / Ayuto (grafía provisional)",
+        "Mortero del templo",
+        "Nawal del templo (mujer sin nombre)"
+      ],
+      "ambito": "consulta y entrega",
+      "conocedores": [
+        "Pinky (grafía provisional)",
+        "Ayoto / Ayuto (grafía provisional)"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se muestra traducción del libro por Pinky ni consulta a Mamá. No adjudicar a ninguna abuela conocimiento ilimitado por su apodo."
+    },
+    {
+      "id": "08-027",
+      "titulo": "Pantera al pozo, loro huido y espada rota",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "El elfo agradece a Tlachka haber protegido el regreso y este dice que era su trabajo devolver a la gente a la aldea. Ayoto cuelga una pantera junto al pozo para secarla al sol y los nativos tallan símbolos sagrados; Blink se deja ver con ellos como protección frente a capturas. Kilzer intenta recuperar la bolsa del loro, que escapa al mástil sin entregar dinero. El director adjudica que una espada corta de Kilzer se dobló y perdió trozos con el golpe crítico al nawal. Kilzer recuerda una espada robada guardada en su alojamiento para sustituirla.",
+      "inicio": "02:23:50.000",
+      "fin": "02:32:15.000",
+      "cita": "tu espada se ha doblado",
+      "evidencia_cue": {
+        "inicio": "02:29:14.600",
+        "fin": "02:29:16.269",
+        "texto": "destrozado casi ves que tu espada se ha doblado, incluso le faltan algunos"
+      },
+      "entidades": [
+        "Erendriel (grafía provisional)",
+        "Tlachka / Tlacha (grafía provisional)",
+        "Ayoto / Ayuto (grafía provisional)",
+        "Blink / Blank",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Loro pirata (sin nombre)",
+        "Pozo de Shiaru",
+        "Espada corta rota de Kilzer"
+      ],
+      "ambito": "cierre y consecuencias de combate",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "El objeto colgado para secar se describe como pantera/jaguar; no identificarlo con cuerpo humano de nawal. No se muestra venta de piel/carne ni compra de otra espada."
+    }
+  ]
+}

@@ -1,0 +1,598 @@
+{
+  "capitulo": 39,
+  "estado_revision": "revisado",
+  "resumen": "Ayoto vuelve a Cuicapalli después de una negociación fallida con los sirénidos y continúa entrenando. Citlali cuida a Etley en una cueva yuan-ti cercana, cuya agua es venenosa. Tlachka la encuentra recogiendo agua mientras lleva un tigre cazado. Ayoto se une y regresan a la cueva. Las huellas y los siseos alertan al grupo: tres hombres serpiente amenazan a la cría. Citlali ataca; Ayoto ocupa su lugar en un agarre y Tlachka y Luna, oculta como rana y después transformada en dinosaurio, ayudan. La maldición de Citlali cura a la abominación enemiga, que menciona a Nuestro Señor. Matan a los tres atacantes, pero llegan dos refuerzos y Citlali oye que necesitan su piel como clave. Dos bolas de fuego de Luna derrumban la cueva. Tres compañeros salen; Citlali y Etley quedan atrapados y heridos, pero vivos. Ayoto y Luna, en forma de oso, excavan. Tlachka trae guardias de Cuicapalli y consiguen rescatarlos. Citlali drena vida de Tlachka y se disculpa. Ayoto cura a la cría con una fruta. Siguen al norte, alejándose de la ciudad, y encuentran cadáveres, animales vigilantes y olores de viajeros anteriores. El dragón invisible Clodidrax/Clotis habla solo con Citlali, la llama marcada y ofrece paso a cambio de información sobre dos elfos pálidos a los que no puede visitar. Llegan a la ciudad oculta de Iktan. Walulu, la chamana enmascarada, los admite, los cura y estudia los tatuajes de Citlali. Coyote, un cambiaformas que conoce al grupo, los guía y después es expulsado de la taberna. En una habitación hay una elfa enferma y un elfo que la cuida, sin nombres establecidos. Citlali y Etley duermen en el templo; los demás buscan alojamiento en la taberna. El trato con el dragón y la investigación de las marcas siguen abiertos.",
+  "misiones": [
+    "Proteger a Etley: el grupo mata a los primeros invasores. Los refuerzos y el fuego provocan el derrumbe del refugio. Los guardias de Cuicapalli ayudan a rescatar a Citlali y a la cría con vida (39-004–39-013).",
+    "Buscar refugio: la ruta hacia el norte, elegida por Ayoto sin conocerla, lleva al grupo a Iktan. Son admitidos y curados. Citlali y Etley duermen en el templo; los demás buscan alojamiento en la taberna (39-014–39-020).",
+    "Trato con el dragón: Clotis ofrece paso a cambio de información sobre dos elfos pálidos. Citlali acepta investigar, pero aún no entrega información (39-016–39-018)."
+  ],
+  "preguntas": [
+    "¿Por qué la piel o las marcas de Citlali son una clave y quién es el Señor mencionado por las serpientes? Las alusiones y la telepatía no lo resuelven (39-008, 39-010).",
+    "¿Es Nox el bebé que perdió Citlali o un recuerdo alterado por el alcohol? La hipótesis no se confirma (39-002).",
+    "¿Quiénes son los elfos pálidos, qué enfermedad sufre ella y por qué el dragón no puede acercarse? No se establecen sus nombres ni la causa (39-016, 39-018, 39-020).",
+    "¿Qué quiere saber Walulu de los tatuajes durante el té y qué problemas tiene Iktan? La conversación propuesta no se realiza (39-017–39-018).",
+    "¿Qué observa a la ciudad y qué ocurre con los yuan-ti sepultados? No se resuelve (39-011, 39-020)."
+  ],
+  "contradicciones": [
+    "La cueva utilizada como refugio no tiene agua limpia y su anterior desocupación no garantiza seguridad. Los nuevos invasores la encuentran (39-002–39-005).",
+    "El drenaje de Citlali daña a sus aliados, pero cura a la abominación. El director confirma la interacción con las serpientes (39-008, 39-014).",
+    "Citlali y Etley quedan sepultados, pero no mueren. La escena interior y el rescate confirman que sobreviven (39-011–39-013).",
+    "El camino elegido por Ayoto no lleva a su pueblo natal. El director indica que el goliat no procede de Xoltacan y el grupo llega a Iktan (39-014, 39-017).",
+    "La rana era Luna. Su transformación no acredita la muerte de otro animal permanente del grupo (39-003, 39-006).",
+    "Luna imita un ritual de curación, pero Walulu cura discretamente a la cría. El efecto no se atribuye a Luna (39-017).",
+    "Citlali y Coyote aparecen como personajes distintos, aunque compartan jugador (39-017–39-020)."
+  ],
+  "nombres_dudosos": [
+    "Etley/Etle/Etil/Etsi/Ésil son variantes del nombre de la cría de Citlali. Su especie exacta aún no se establece.",
+    "Clodidrax/Cl de Drax/Clotis es un dragón invisible descrito como serpiente del bosque. La grafía es provisional; no se identifica como yuan-ti.",
+    "Walulu/Waluro/Gualulo designan a la chamana enmascarada de Iktan.",
+    "Iktan/Itan designan a la ciudad oculta. Al cierre se pronuncia Iktan.",
+    "Coyote es un cambiaformas distinto de Citlali. Angelique es una grafía provisional de una persona de la taberna.",
+    "El capítulo 39 no establece los nombres de los dos elfos pálidos de la habitación. Su identificación debe contrastarse con episodios anteriores."
+  ],
+  "fuente_sha256": "d3e8333c3225668e6dbac6e94dc114babf21aa24dbd2aaa6070fdfe7367892f7",
+  "afirmaciones": [
+    {
+      "id": "39-001",
+      "titulo": "Regreso de Ayoto y crianza de Etley",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Ayoto relata que los sirénidos rechazaron su negociación en favor de los habitantes de Cuicapalli y que ha vuelto a entrenarlos. Citlali cuida a Etley mientras aprende a cazar. Dice que se encontró con Nox, rechazó su intento de aprovecharse de ella y después despertó sin él. Tlachka caza para la cocina. El cambio de jugadores reorganiza la escena inicial cerca de Cuicapalli.",
+      "inicio": "00:00:00.000",
+      "fin": "00:03:55.000",
+      "cita": "Intentó negociar con con los sirénidos",
+      "evidencia_cue": {
+        "inicio": "00:00:33.320",
+        "fin": "00:00:36.030",
+        "texto": "realmente no ha estado haciendo mucho. Intentó negociar con con los sirénidos y"
+      },
+      "entidades": [
+        "Ayoto / Ayuto (grafía provisional)",
+        "Sirénidos (grupo negociado)",
+        "Cuicapalli",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Etley / Etle / Etil (cría dinosaurio, grafía provisional)",
+        "Nox",
+        "Tlachka / Tlatka (nativo, grafía provisional)"
+      ],
+      "ambito": "recapitulaciones",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se logra un acuerdo con los sirénidos. Nox no está presente en la escena principal del capítulo."
+    },
+    {
+      "id": "39-002",
+      "titulo": "Cueva refugio y recuerdo incierto de Nox",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Tlachka arrastra un tigre cazado para preparar tacos y ve a Citlali recogiendo agua. El director sitúa el refugio recomendado por un viajero en una antigua cueva yuan-ti, con veneno y sin agua potable. La cría está allí. Citlali se pregunta si el alcohol influyó en que creyera que Nox era el bebé que intentó salvar y perdió.",
+      "inicio": "00:04:00.000",
+      "fin": "00:08:55.000",
+      "cita": "una cueva de los Yanti",
+      "evidencia_cue": {
+        "inicio": "00:05:48.199",
+        "fin": "00:05:53.710",
+        "texto": "recomendó ese ese viajero era una cueva de los Yanti y la mayoría hay veneno y"
+      },
+      "entidades": [
+        "Tlachka / Tlatka (nativo, grafía provisional)",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Nox",
+        "Cueva yuan-ti refugio de Etley",
+        "Etley / Etle / Etil (cría dinosaurio, grafía provisional)",
+        "Tigre cazado por Tlachka"
+      ],
+      "ambito": "refugio y memoria incierta",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "El parentesco es una hipótesis de Citlali, no un hecho confirmado. No hay pruebas de que el tigre cazado sea Merlucilla IV."
+    },
+    {
+      "id": "39-003",
+      "titulo": "Ayoto se incorpora y una rana acompaña a Citlali",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Los pasos grandes alertan a Citlali y Tlachka hasta que reconocen a Ayoto con sus dos escudos. Hablan de los ataques anteriores y de la cría nacida del huevo; Ayoto entiende más tarde que no se trata de otro bebé. Unos babuinos intentan llevarse el tigre. Tlachka los intimida y les deja raciones. Citlali invita a sus compañeros y recoge una rana que la observaba, después identificada como Luna.",
+      "inicio": "00:09:00.000",
+      "fin": "00:15:55.000",
+      "cita": "me voy a llevar a la rana",
+      "evidencia_cue": {
+        "inicio": "00:15:52.279",
+        "fin": "00:15:55.509",
+        "texto": "Y me voy a llevar a la rana. [risas]"
+      },
+      "entidades": [
+        "Ayoto / Ayuto (grafía provisional)",
+        "Tlachka / Tlatka (nativo, grafía provisional)",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Lunaria / Luna",
+        "Tigre cazado por Tlachka"
+      ],
+      "ambito": "reencuentro y viaje",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": ""
+    },
+    {
+      "id": "39-004",
+      "titulo": "Los hombres serpiente amenazan a Etley",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Citlali y Ayoto detectan marcas en el suelo que conducen a la cueva. Etley no responde al silbido lejano y corren. Dentro responde débilmente y con miedo; el lugar huele a ácido y veneno. Citlali descubre a un hombre serpiente de espaldas, orientado hacia la cría, y dispara con el arco y ventaja para iniciar el rescate.",
+      "inicio": "00:16:00.000",
+      "fin": "00:23:55.000",
+      "cita": "saca tremendo pedazo de arco",
+      "evidencia_cue": {
+        "inicio": "00:23:47.120",
+        "fin": "00:23:50.526",
+        "texto": "venitlali que se mete la mano debajo de la falda y saca tremendo pedazo de arco"
+      },
+      "entidades": [
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Ayoto / Ayuto (grafía provisional)",
+        "Tlachka / Tlatka (nativo, grafía provisional)",
+        "Etley / Etle / Etil (cría dinosaurio, grafía provisional)",
+        "Hombres serpiente invasores de cueva",
+        "Cueva yuan-ti refugio de Etley"
+      ],
+      "ambito": "rescate armado",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": ""
+    },
+    {
+      "id": "39-005",
+      "titulo": "Dos hombres serpiente y una abominación",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Ven dos figuras serpiente similares y otra enorme. El director la compara con un encuentro anterior de Nox y Poncelot sin confirmar que sea la misma criatura. Citlali ataca con chanclas y flechas, pero falla al intentar empujar a un enemigo al ácido. Ayoto y Tlachka corren para protegerla. La cría intenta obedecer, aunque está asustada. Una serpiente daña el pecho de Ayoto mediante magia y otra sujeta a Citlali con la cola y una cimitarra. La abominación provoca un miedo que Tlachka resiste.",
+      "inicio": "00:24:00.000",
+      "fin": "00:33:55.000",
+      "cita": "te enrosca, mamá",
+      "evidencia_cue": {
+        "inicio": "00:32:27.360",
+        "fin": "00:32:30.750",
+        "texto": "hace una tirada. Ah, no ves que te esto y te enrosca, mamá. Y creo que estás, si"
+      },
+      "entidades": [
+        "Hombres serpiente invasores de cueva",
+        "Abominación serpiente de cueva",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Ayoto / Ayuto (grafía provisional)",
+        "Tlachka / Tlatka (nativo, grafía provisional)",
+        "Etley / Etle / Etil (cría dinosaurio, grafía provisional)"
+      ],
+      "ambito": "combate inicial",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Hay tres enemigos. La comparación no identifica a la abominación con la criatura cautiva de Aurora liberada."
+    },
+    {
+      "id": "39-006",
+      "titulo": "Ayoto libera a Citlali y Luna se revela",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Ayoto utiliza Bait and Switch para ocupar el lugar de Citlali dentro de la cola, donde queda restringido. Aumenta su defensa y agarra al enemigo con el escudo; algunas provocaciones son resistidas. Un enemigo cura a su compañero y Tlachka mata a otro. La rana es Luna, que seguía a Citlali desde el agua. Recupera su forma y después se transforma en deinonicus para combatir.",
+      "inicio": "00:34:00.000",
+      "fin": "00:41:55.000",
+      "cita": "has estado como una ranita",
+      "evidencia_cue": {
+        "inicio": "00:39:26.160",
+        "fin": "00:39:29.630",
+        "texto": "Pues Luna, has estado como una ranita que has"
+      },
+      "entidades": [
+        "Ayoto / Ayuto (grafía provisional)",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Tlachka / Tlatka (nativo, grafía provisional)",
+        "Lunaria / Luna",
+        "Hombres serpiente invasores de cueva"
+      ],
+      "ambito": "revelación y protección",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "El director adjudica la maniobra y el intercambio. No se presenta como una regla universal de Bait and Switch."
+    },
+    {
+      "id": "39-007",
+      "titulo": "Continúa el combate y la cría se acerca lentamente",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Luna ataca tres veces como dinosaurio. La abominación golpea a Ayoto y Tlachka y muerde a Citlali, que queda muy herida. Ayoto consigue provocar al enemigo y utiliza Acción súbita; Tlachka también emplea esa acción. Etley intenta acercarse, pero no vuela y corre poco. Aún no participa en el combate principal.",
+      "inicio": "00:42:00.000",
+      "fin": "00:49:55.000",
+      "cita": "bastante herida",
+      "evidencia_cue": {
+        "inicio": "00:45:06.240",
+        "fin": "00:45:08.950",
+        "texto": "bocado y te deja bastante bastante bastante herida."
+      },
+      "entidades": [
+        "Lunaria / Luna",
+        "Abominación serpiente de cueva",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Ayoto / Ayuto (grafía provisional)",
+        "Tlachka / Tlatka (nativo, grafía provisional)",
+        "Etley / Etle / Etil (cría dinosaurio, grafía provisional)"
+      ],
+      "ambito": "combate y limitaciones de la cría",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": ""
+    },
+    {
+      "id": "39-008",
+      "titulo": "La maldición de Citlali cura a la serpiente",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Citlali utiliza la curación de su maldición contra la abominación con la intención de drenarla. En cambio, nueve puntos cierran las heridas del enemigo. La serpiente sonríe y dice Nuestro Señor. El director confirma que el poder de la maldición cura a las serpientes.",
+      "inicio": "00:50:00.000",
+      "fin": "00:51:55.000",
+      "cita": "parece que cura a las serpientes",
+      "evidencia_cue": {
+        "inicio": "00:51:16.960",
+        "fin": "00:51:19.470",
+        "texto": "maldición pues parece que cura a las serpientes."
+      },
+      "entidades": [
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Abominación serpiente de cueva",
+        "Maldición de drenaje de Citlali"
+      ],
+      "ambito": "efecto confirmado y alusión",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Todavía no se establecen el nombre o naturaleza del Señor ni una relación causal con los tatuajes."
+    },
+    {
+      "id": "39-009",
+      "titulo": "Mueren la abominación y el último guardia",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "La serpiente sigue atacando. Según la adjudicación del director, la provocación de Ayoto no protege a Citlali, y su reacción Sentinel falla. Ayoto mata a la abominación, que no explota pese al temor del grupo. Etley picotea el cadáver. Los otros tres combatientes rodean a la última serpiente; Tlachka la mata y corta su cola para preparar tacos. Oyen siseos de refuerzos por el único túnel conocido y buscan otra salida sin encontrarla.",
+      "inicio": "00:52:00.000",
+      "fin": "01:04:55.000",
+      "cita": "no ha explotado",
+      "evidencia_cue": {
+        "inicio": "00:55:27.039",
+        "fin": "00:55:28.870",
+        "texto": "Vale, no, no explota esta, esta no ha explotado."
+      },
+      "entidades": [
+        "Abominación serpiente de cueva",
+        "Hombres serpiente invasores de cueva",
+        "Ayoto / Ayuto (grafía provisional)",
+        "Tlachka / Tlatka (nativo, grafía provisional)",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Lunaria / Luna",
+        "Etley / Etle / Etil (cría dinosaurio, grafía provisional)"
+      ],
+      "ambito": "enemigos iniciales vencidos",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": ""
+    },
+    {
+      "id": "39-010",
+      "titulo": "Los refuerzos buscan la piel de Citlali",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Citlali dispara contra los nuevos enemigos. Luna vuelve a ser kender y lanza una bola de fuego que hace caer rocas, sin derrumbar todavía la cueva. Dos yuan-ti avanzan con arco y cimitarra y atacan a Luna y Ayoto. Citlali oye mentalmente entre los siseos que necesitan su piel, que es la clave y que deben ir a por ella. Los demás no reciben automáticamente ese significado.",
+      "inicio": "01:05:00.000",
+      "fin": "01:12:55.000",
+      "cita": "Necesitamos su piel, es la clave",
+      "evidencia_cue": {
+        "inicio": "01:12:40.520",
+        "fin": "01:12:42.669",
+        "texto": "\"Necesitamos su piel, es la clave."
+      },
+      "entidades": [
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Hombres serpiente refuerzos de cueva",
+        "Lunaria / Luna",
+        "Ayoto / Ayuto (grafía provisional)",
+        "Marcas de Citlali"
+      ],
+      "ambito": "mensaje percibido por Citlali",
+      "conocedores": [
+        "Mamá / Citlali (identificación contextual provisional)"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se proporciona un ritual completo ni se precisa la función de la piel, la clave o la identidad del Señor."
+    },
+    {
+      "id": "39-011",
+      "titulo": "La segunda bola de fuego derrumba la cueva",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Luna lanza otra bola de fuego y la entrada se derrumba. Tlachka y Ayoto corren y salen; Luna sale después entre las rocas. Citlali y Etley no aparecen fuera y quedan sepultados. Tlachka considera regresar por ella, pero está demasiado lejos y pide ayuda en Cuicapalli. No se comprueban muertes.",
+      "inicio": "01:13:00.000",
+      "fin": "01:19:55.000",
+      "cita": "la cueva empieza a derrumbarse",
+      "evidencia_cue": {
+        "inicio": "01:16:17.080",
+        "fin": "01:16:18.950",
+        "texto": "rocas del techo y parece que la cueva empieza a derrumbarse,"
+      },
+      "entidades": [
+        "Lunaria / Luna",
+        "Cueva yuan-ti refugio de Etley",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Etley / Etle / Etil (cría dinosaurio, grafía provisional)",
+        "Tlachka / Tlatka (nativo, grafía provisional)",
+        "Ayoto / Ayuto (grafía provisional)"
+      ],
+      "ambito": "derrumbe y separación",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se afirma que todos los yuan-ti mueran en el derrumbe. Las bromas no acreditan la ejecución de Citlali."
+    },
+    {
+      "id": "39-012",
+      "titulo": "Citlali y Etley siguen vivos mientras comienza la excavación",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Ayoto mueve piedras y Luna, en forma de oso, ayuda mientras Tlachka busca a los guardias. Dentro, Citlali y Etley están heridos, pero conservan un hueco sin aplastar. La cría es demasiado grande para algunos pasos. Una fruta concede dos puntos de CA a Citlali y vuelve invisible a Etley temporalmente. Citlali come chocolate y aparta piedras pequeñas mientras protege a la cría. Todavía no consigue salir.",
+      "inicio": "01:20:00.000",
+      "fin": "01:26:55.000",
+      "cita": "atrapado",
+      "evidencia_cue": {
+        "inicio": "01:22:11.000",
+        "fin": "01:22:12.870",
+        "texto": "queil por muchos sitios no puede ir y te ves ahí atrapado."
+      },
+      "entidades": [
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Etley / Etle / Etil (cría dinosaurio, grafía provisional)",
+        "Ayoto / Ayuto (grafía provisional)",
+        "Lunaria / Luna",
+        "Cueva yuan-ti refugio de Etley"
+      ],
+      "ambito": "supervivencia y rescate",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": ""
+    },
+    {
+      "id": "39-013",
+      "titulo": "Los guardias ayudan a rescatar a Citlali y Etley",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Tlachka regresa con guardias de Cuicapalli. Excavan hasta oír a Citlali calmando a la cría y los sacan a ambos vivos y heridos. Luna, aún oso, carga con Etley, que está intimidado. Ayoto utiliza una vez la curación de su fruta y mejora las heridas. Cuando bromea con comerlo, Citlali lo golpea y explica que es la cría protegida del huevo, no un humano dentro.",
+      "inicio": "01:27:00.000",
+      "fin": "01:33:55.000",
+      "cita": "conseguís sacar a mamá",
+      "evidencia_cue": {
+        "inicio": "01:30:35.280",
+        "fin": "01:30:42.910",
+        "texto": "pequeño agujero para para mamá y conseguís sacar a mamá."
+      },
+      "entidades": [
+        "Tlachka / Tlatka (nativo, grafía provisional)",
+        "Guardias de Cuicapalli",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Etley / Etle / Etil (cría dinosaurio, grafía provisional)",
+        "Lunaria / Luna",
+        "Ayoto / Ayuto (grafía provisional)"
+      ],
+      "ambito": "rescate logrado",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La cría no es devorada ni muere. La invisibilidad tampoco implica que sobreviva sin heridas."
+    },
+    {
+      "id": "39-014",
+      "titulo": "Citlali drena a Tlachka y el grupo marcha al norte",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Citlali pide ayuda a Tlachka, se disculpa y drena un poco de su energía vital para cerrar sus propias heridas. Recuerda que hirió antes al enano. Propone viajar a Cuicapalli, pero sigue a Ayoto, que recomienda su pueblo natal al norte sin saber dónde está. El director indica que el goliat no procede de Xoltacan. Marchan al norte y se alejan de Cuicapalli con Etley sobre Luna.",
+      "inicio": "01:34:00.000",
+      "fin": "01:39:55.000",
+      "cita": "tu pueblo no está en Chultac",
+      "evidencia_cue": {
+        "inicio": "01:38:50.440",
+        "fin": "01:38:53.703",
+        "texto": "preocupes que tu pueblo no está en Chultac."
+      },
+      "entidades": [
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Tlachka / Tlatka (nativo, grafía provisional)",
+        "Ayoto / Ayuto (grafía provisional)",
+        "Lunaria / Luna",
+        "Etley / Etle / Etil (cría dinosaurio, grafía provisional)",
+        "Cuicapalli"
+      ],
+      "ambito": "recuperación y destino mal conocido",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No encuentran el pueblo natal ni Ayoto conoce realmente la ruta. El lugar al que llegan después es Iktan."
+    },
+    {
+      "id": "39-015",
+      "titulo": "Animales vigilantes y rastros de viajeros anteriores",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "En el bosque profundo, los animales pequeños observan al grupo y giran la cabeza a su paso. Un claro contiene cadáveres, carne y huesos con decapitaciones o cabezas reventadas. Luna, como oso, huele un veneno parecido al de la cueva y rastros de viajeros anteriores: uno grande, peludo y sudoroso, dos refinados semejantes a elfos y otro perfumado. Señala una dirección y siguen con los escudos preparados.",
+      "inicio": "01:40:00.000",
+      "fin": "01:49:55.000",
+      "cita": "la jungla os observa a vosotros",
+      "evidencia_cue": {
+        "inicio": "01:42:05.639",
+        "fin": "01:42:09.950",
+        "texto": "empezáis a observar que la jungla os observa a vosotros."
+      },
+      "entidades": [
+        "Bosque vigilante al norte de Cuicapalli",
+        "Lunaria / Luna",
+        "Ayoto / Ayuto (grafía provisional)",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Tlachka / Tlatka (nativo, grafía provisional)",
+        "Grupo previo olfateado en bosque (sin identificar)"
+      ],
+      "ambito": "rastreo y cadáveres",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Los olores no identifican con certeza a Ilikar, los hermanos, Nistra o Ione, aunque algunas pistas sean compatibles."
+    },
+    {
+      "id": "39-016",
+      "titulo": "Un dragón invisible ofrece un trato a Citlali",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Una presencia susurra a Citlali que lleva marcas, niega estar vinculada a las serpientes y ofrece paso al grupo a cambio de información sobre dos elfos pálidos. Dice que pasaron hace semanas y que no puede acercarse al lugar. Se presenta como Clodidrax, serpiente del bosque, apodado Clotis. El director confirma que es un dragón invisible. Citlali acepta hacer lo que pueda y dice que los elfos no le agradan. Los demás solo la ven conversar sin un interlocutor visible.",
+      "inicio": "01:50:00.000",
+      "fin": "01:54:55.000",
+      "cita": "la serpiente del bosque",
+      "evidencia_cue": {
+        "inicio": "01:52:58.199",
+        "fin": "01:53:02.069",
+        "texto": "pero se llama Cl de Drax, la serpiente del bosque."
+      },
+      "entidades": [
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Clodidrax / Clotis (dragón del bosque, grafía provisional)",
+        "Dos elfos pálidos de interés del dragón",
+        "Marcas de Citlali"
+      ],
+      "ambito": "trato reservado",
+      "conocedores": [
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Clodidrax / Clotis (dragón del bosque, grafía provisional)"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La transcripción no fija con certeza el nombre. El dragón niega un vínculo, pero su declaración no prueba que sea fiable ni que todas las serpientes formen una facción. No recibe información todavía."
+    },
+    {
+      "id": "39-017",
+      "titulo": "Iktan admite y cura a los viajeros",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "El bosque adquiere más color y los guardias rodean al grupo y rechazan a los desconocidos. Walulu, una mujer enmascarada, ve sus heridas, observa a Citlali y ordena dejarlos pasar para buscar respuestas a los problemas. Los conducen al templo, donde Coyote come pan detrás del altar y recibe una reprimenda. Luna deja la forma de oso y copia un ritual de la chamana. Walulu cura discretamente a la cría para que Luna crea haberlo conseguido. Después cura al grupo, examina los tatuajes de Citlali y les da la bienvenida a Iktan.",
+      "inicio": "01:55:00.000",
+      "fin": "02:04:05.000",
+      "cita": "a Itan",
+      "evidencia_cue": {
+        "inicio": "02:03:59.199",
+        "fin": "02:04:02.310",
+        "texto": "\"Sienvenidos a Itan."
+      },
+      "entidades": [
+        "Iktan",
+        "Walulu / Waluro / Gualulo (chamana enmascarada, grafía provisional)",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Coyote (cambiaformas)",
+        "Lunaria / Luna",
+        "Etley / Etle / Etil (cría dinosaurio, grafía provisional)",
+        "Guardias de Iktan"
+      ],
+      "ambito": "admisión y curación",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La curación no demuestra un poder ritual nuevo de Luna: la produce Walulu. Se normaliza Iktan por el contexto y la mención explícita del cierre."
+    },
+    {
+      "id": "39-018",
+      "titulo": "Hospitalidad de la ciudad oculta y una elfa enferma",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Walulu explica que la ciudad oculta rara vez recibe visitantes. Los invita a descansar en la taberna y hablar al día siguiente. Pide tomar té con Citlali para conversar sobre sus tatuajes. Cuando abre una habitación, ven a una elfa pálida acostada y a un elfo pálido que le sostiene la mano. La chamana entra y cierra la puerta. No se dan sus nombres. Coyote reconoce a los viajeros y los abraza; Walulu aconseja evitarlo.",
+      "inicio": "02:04:00.000",
+      "fin": "02:07:55.000",
+      "cita": "una ciudad que está oculta",
+      "evidencia_cue": {
+        "inicio": "02:04:22.360",
+        "fin": "02:04:25.270",
+        "texto": "es una ciudad que está oculta. Poco os"
+      },
+      "entidades": [
+        "Iktan",
+        "Walulu / Waluro / Gualulo (chamana enmascarada, grafía provisional)",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Elfa pálida enferma de Iktan (sin nombre en este pasaje)",
+        "Elfo pálido acompañante de Iktan (sin nombre en este pasaje)",
+        "Coyote (cambiaformas)"
+      ],
+      "ambito": "hospitalidad y observación",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La escena es una pista compatible con los elfos buscados por el dragón, pero no los identifica automáticamente. No se diagnostica la enfermedad."
+    },
+    {
+      "id": "39-019",
+      "titulo": "Luna prueba las ganzúas y Coyote recibe una reprimenda",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Ayoto busca dormir fuera de la taberna, junto al local cerrado del alquimista. Luna prueba sus ganzúas para demostrar que la cerradura es insegura. Un guardia se acerca, exige a Coyote que se lleve a su amiga y anuncia que informará a Walulu. Luna guarda las herramientas y ofrece mostrar otras cerraduras a cambio de botellas en la taberna. No roba en el local.",
+      "inicio": "02:08:00.000",
+      "fin": "02:11:55.000",
+      "cita": "empieza a forzar la puerta",
+      "evidencia_cue": {
+        "inicio": "02:09:17.440",
+        "fin": "02:09:19.310",
+        "texto": "y las empieza empieza a forzar la puerta. Cuando"
+      },
+      "entidades": [
+        "Ayoto / Ayuto (grafía provisional)",
+        "Lunaria / Luna",
+        "Coyote (cambiaformas)",
+        "Alquimista de Iktan (sin nombre)",
+        "Guardia de Iktan sin nombre firme"
+      ],
+      "ambito": "incidente urbano",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": ""
+    },
+    {
+      "id": "39-020",
+      "titulo": "Descanso en Iktan y expulsión de Coyote",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Citlali y Etley duermen en el templo. Ella oye en la habitación contigua a los elfos y a Walulu, que tratan la enfermedad de la elfa. Ayoto y Tlachka piden habitaciones individuales en la taberna para evitar a Coyote. El director confirma que es un cambiaformas. Coyote intenta obtener el amor de Angelique sin éxito; un guardia lo expulsa y duerme fuera, cerca del poste donde lo cuelgan. Se confirma la llegada a Iktan y se sugiere que algo observa el entorno, sin identificarlo.",
+      "inicio": "02:12:00.000",
+      "fin": "02:15:55.000",
+      "cita": "Coyote es un cambiaformas",
+      "evidencia_cue": {
+        "inicio": "02:14:14.559",
+        "fin": "02:14:16.030",
+        "texto": "¿Sabéis que sabéis que Coyote es un cambiaformas y os la va a colar con"
+      },
+      "entidades": [
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Etley / Etle / Etil (cría dinosaurio, grafía provisional)",
+        "Elfa pálida enferma de Iktan (sin nombre en este pasaje)",
+        "Walulu / Waluro / Gualulo (chamana enmascarada, grafía provisional)",
+        "Ayoto / Ayuto (grafía provisional)",
+        "Tlachka / Tlatka (nativo, grafía provisional)",
+        "Coyote (cambiaformas)",
+        "Angelique (persona de taberna Iktan, grafía provisional)",
+        "Iktan"
+      ],
+      "ambito": "cierre y identidades",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Coyote y Citlali son personajes distintos aunque compartan jugador. El alias aportado en el contexto no acredita una identidad única."
+    }
+  ]
+}

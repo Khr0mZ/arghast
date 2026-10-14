@@ -1,0 +1,49 @@
+# Relaciones documentadas
+
+Las relaciones se presentan según la evidencia de cada capítulo. Un vínculo anterior no garantiza que siga vigente, y compartir una escena no implica una alianza. Las grafías inciertas permanecen señaladas en las fichas.
+
+| Personas o grupos | Relación y evolución | Evidencia |
+|---|---|---|
+| Nox — Ione | Coinciden en el naufragio y en el servicio a Bonnie. Nox participa en el rescate y observa la transformación de Ione. Su proximidad no confirma una relación sentimental. | [01](capitulos/01.md), [03](capitulos/03.md), [11](capitulos/11.md) |
+| Ione — Kilzer | Acuerdan en privado repartir futuros beneficios al 50 %. Nox no presencia el acuerdo. | [04-022](capitulos/04.md) |
+| Nox — Molly | Nox relata un romance anterior y una hostilidad posterior; ese relato no establece la versión de Molly. El robo del contrato y el incendio del barco agravan el conflicto. | [05](capitulos/05.md) |
+| Nox — Jack | Nox captura a Jack en una excavación. Jack desea regresar con Lucy. Más adelante se plantea un viaje para cobrar dinero y obtener una libertad condicionada; Bonnie anuncia su partida en el capítulo 15. | [05](capitulos/05.md), [12](capitulos/12.md), [15-021](capitulos/15.md) |
+| Nox — Bonnie — Mamá | Nox y Bonnie pactan en secreto entregar la criatura que cría Mamá para venderla como combatiente. No se documenta que Mamá conozca o acepte el pacto. | [07](capitulos/07.md) |
+| Ione — Poncelot — Merlucilla | Poncelot cree que ha perdido a su primera montura. La jugadora de Ione relata que su personaje se la comió, pero no se acredita que Poncelot reciba esa información entonces. | [04](capitulos/04.md), [11](capitulos/11.md) |
+| Ione — Chochi/Axi | Se observa una mordedura de Ione en forma licántropa y un malestar posterior. El contagio no está confirmado. | [06](capitulos/06.md) |
+| Erendriel — Nox | Erendriel entrega a Nox el diario nawal escrito en Terran. La identificación del diario queda aclarada por el contexto del capítulo 12. | [08](capitulos/08.md), [11](capitulos/11.md), [12](capitulos/12.md) |
+| Erendriel — Bonnie — Patata | Bonnie retiene a Erendriel en el capítulo 15; su muerte se confirma en el 16. Patata quiere enterrarlo y preserva el cadáver, que Bonnie exhibe. No se identifican el responsable ni el método de la muerte. | [15-021](capitulos/15.md), [16-002 y 16-004](capitulos/16.md) |
+| Erendriel — dragoncito | Erendriel cuida el huevo y la criatura. Al separarlos, el dragón sale en busca de su abuela. La identidad de esta y el destino posterior de la criatura no quedan resueltos en los capítulos 15–16. | [01](capitulos/01.md), [15-022](capitulos/15.md), [16-002](capitulos/16.md) |
+| Eldrat — Triel | Son hermanos elfos. Se presenta su infancia al público y cooperan mediante comunicación mental. Eldrat busca a Triel cuando ella se marcha y teme por su seguridad en la arena. No se acredita parentesco con Erendriel. | [14-001 y 14-002](capitulos/14.md), [17-001 y 17-019](capitulos/17.md) |
+| Naór — Camar — hermano menor | Naór es hija del rey leonino Camar y recibe un encargo diplomático. Durante la despedida, su hermano menor recibe un collar como heredero mientras ella está ausente. El reino se llama Atlan en un capítulo posterior. | [16-003](capitulos/16.md), [17-006](capitulos/17.md) |
+| Naór — Baton | Se conocen desde la infancia y han compartido cacerías. Se reencuentran de forma amistosa, y Naór agradece a los viajeros que lo hayan rescatado. | [16-007](capitulos/16.md) |
+| Naór — Ayoto — Eromov | Mantienen una conversación diplomática privada. Eromov condiciona su asistencia a Tutucan a la resolución de los problemas locales; los visitantes ofrecen ayuda. La leyenda del campeón solar no confirma que Ayoto lo sea. | [16-015–16-017](capitulos/16.md) |
+| Naór — dirigentes de Ras Racor | Eldrat traduce la invitación de Naór. Tras las pruebas de la arena, los dirigentes prometen acudir al concilio. El director habla de una especie de alianza, pero no se firma un tratado ni se celebra la reunión. | [17-011, 17-021 y 17-023](capitulos/17.md) |
+| Kilzer — Axi | Acuerdan que Axi vigile el casino a cambio de dos monedas por cada tramposo detectado. No se muestran pagos al cierre del capítulo 17. | [17-002](capitulos/17.md) |
+| Naór — Axi | Naór paga quince monedas por un servicio nocturno, mencionado en términos de manicura, pedicura e interpretación posterior fuera del vídeo. El servicio no se muestra. | [17-022](capitulos/17.md) |
+
+Las referencias a capítulos completos abarcan varios pasajes. Cada ficha permite consultar las citas y sus minutos. Las relaciones de Madame Oghma y Jivirix aportadas en el [contexto del usuario](CONTEXTO_USUARIO.md) se distinguen de las documentadas en los vídeos.
+
+## Evolución y relaciones posteriores
+
+| Personas o grupos | Relación y evolución | Evidencia |
+|---|---|---|
+| Mamá/Citlali — Blink | Blink observa que las arrugas de Mamá desaparecen cuando daña a otra persona al intentar curarla. Guarda silencio por amistad. Su observación no establece la causa. | [19-007](capitulos/19.md) |
+| Mamá/Citlali — Etley | Citlali cría a la criatura cuyo huevo eclosiona en el capítulo 34. En el 39 viven en una cueva, quedan atrapados con vida y son rescatados. Llegan a Iktan y duermen en el templo. | [34](capitulos/34.md), [39-001–39-020](capitulos/39.md) |
+| Mamá/Citlali — Coyote | Son personajes distintos, presentes en el capítulo 39. Compartir intérprete o capacidad de cambiar de forma no acredita una identidad común. | [24-005](capitulos/24.md), [39-017–39-020](capitulos/39.md) |
+| Coyote — Bonnie — Ione/Nox | Bonnie encarga en secreto a Coyote que espíe al amigo de Ione, identificado con Nox por el contexto, a cambio de información verdadera. Ione no presencia el acuerdo. | [24-019](capitulos/24.md) |
+| Coyote — Maris | Tras el rescate, Maris entrega una perla que permite contactar con ella y contiene coordenadas. Después solicita ayuda, concede respiración acuática mediante un beso y paga el alojamiento del grupo. Ese mecanismo no confirma por sí solo una relación sentimental. | [24-012–24-015](capitulos/24.md), [29-005 y 29-019–29-024](capitulos/29.md) |
+| Ione — Nox | En el capítulo 26, después de varios reproches, se declaran capitana, segundo al mando y amigos. En el 34 se informa de la expulsión de Nox. La relación cambia a lo largo de la campaña. | [26](capitulos/26.md), [34](capitulos/34.md) |
+| Ione — Ilikar | La escudera cura a Ilikar. Después, Ione e Ilikar empatan en un duelo amistoso y ella lo recluta. Una mordedura ritual de pertenencia y protección provoca una sensación extraña, pero no confirma un contagio. | [38-003–38-005 y 38-014–38-017](capitulos/38.md) |
+| Ione — Poncelot | Poncelot ayuda a Ione a recuperar el control en forma de loba en el capítulo 36. En el 38 ella le asegura que Ilikar no lo sustituye. El nuevo reclutamiento no acredita una ruptura de su amistad. | [36](capitulos/36.md), [38-018](capitulos/38.md) |
+| Naór — Leo — Leona | Naór decide adoptar al niño Leo después de encontrar muertos a sus padres. Leona disputa esa decisión. Los tres son personajes distintos. | [21-006–21-016](capitulos/21.md) |
+| Bonnie — Molly | Bonnie declara que mantuvieron una alianza de cinco años para proteger la isla y que entraron en conflicto con los superiores de la Marina. Molly es destituida, encarcelada y liberada en el capítulo 35. A su regreso, ambas conversan y ríen. Su posible parentesco es una especulación de los jugadores. | [28](capitulos/28.md), [35-019](capitulos/35.md) |
+| Nox — Bonnie — ojo/orbe | Nox entrega el ojo a Poncelot y este a Bonnie en el capítulo 28. En el 37, Bonnie se lo devuelve con la condición de que no salga de Shiaru. Nox aparenta aceptar y parte hacia el fuerte con el objeto. | [28](capitulos/28.md), [37-005 y 37-017–37-018](capitulos/37.md) |
+| Eleanor — Nox — Bonnie | Eleanor revela a Nox su misión de expandir Aragón, que había ocultado a Bonnie. Más adelante propone una alianza a Bonnie a cambio de oro que todavía no tiene. | [33](capitulos/33.md), [37-003](capitulos/37.md) |
+| Nox — Mingo/Mango/Mungo | Nox encuentra a sus antiguos tripulantes hipopótamos como líderes de los caníbales. Negocia el rescate de cautivos. Después, ellos reorganizan el camarote del Zampaolas. No se identifican con tres marines anónimos. | [33](capitulos/33.md), [34](capitulos/34.md) |
+| Pinky — Cipo | En el capítulo 29, Pinky busca a Cipo y Ayoto la saluda como abuela. La edad no permite identificar con Mamá cualquier mención a una abuela. Cipo aparece después, pero eso no demuestra por sí solo que ambos se hayan reunido. | [29-007](capitulos/29.md), [36](capitulos/36.md) |
+| Eromov — Parroter — Hoja Caída | Eromov resulta envenenado después de reuniones y comidas. Parroter investiga una cura. Las visitantes de Hoja Caída y la cueva de hombres serpiente despiertan sospechas, pero no se obtiene una confesión que identifique a quien añadió el veneno. | [30-004–30-007 y 30-019–30-020](capitulos/30.md) |
+| Citlali — dragón Clodidrax/Clotis — elfos pálidos | El dragón invisible ofrece paso a cambio de información sobre dos elfos que no puede visitar. Solo Citlali oye la conversación. En Iktan ven a una elfa enferma y a un elfo que la cuida, sin que se den sus nombres. El trato sigue pendiente. | [39-016–39-018](capitulos/39.md) |
+| Citlali — Walulu | La chamana de Iktan admite al grupo, lo cura y examina los tatuajes de Citlali. Ese examen no proporciona un diagnóstico final. | [39-017–39-020](capitulos/39.md) |
+
+Los [misterios](MISTERIOS.md) y los documentos de continuidad recogen los asuntos pendientes. Las tablas indican cuándo se documenta cada relación.

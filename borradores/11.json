@@ -1,0 +1,705 @@
+{
+  "capitulo": 11,
+  "estado_revision": "revisado",
+  "resumen": "Ione organiza otra expedición para rescatar a Pix y a los cautivos junto a Mamá, Kilzer y Sir Poncelot. Nox se une en el pantano. Mamá relata una visión en la que deja a un bebé en un cofre y promete volver; también cuenta que hizo jurar a Nox que no le mentiría. Poncelot sigue buscando a su primera Merlucilla. Vende tres perlas y obsidiana y entrega catorce monedas a Kilzer. En Ruki Peten, una fruta vuelve invisible a Nox durante la sesión. Reconoce las jaulas y el altar, mientras los demás cruzan ocultos por el agua. El olor de la sangre provoca la transformación de Ione y rompe la infiltración. Nox mata a un guardia e incendia el puente y una choza. Poncelot calma a Ione, la monta y la dirige contra los enemigos. Nox paraliza y mata al combatiente grande. Recupera a Pix, todavía atado al altar, y le toma una moneda de plata con calavera que el director relaciona con los cinco reyes piratas. Liberan a Patata y Axi y Mamá recoge la botella de Blink. Recuperan parte del equipo y regresan mientras avanza el incendio. Ione recupera su forma habitual sin recordar claramente la pelea. Poncelot lleva a dos heridos al médico y Mamá cuida de Blink. Nox roba una gema a Kilzer y devuelve a Bonnie el mono, la moneda y la gema. Bonnie lo ve pese a su invisibilidad y acuerda reunirse con él a las nueve en el muelle. Nox propone un casino a Kilzer, pero la negociación queda pendiente de verificar la licencia. Al final obtiene una gema de Liz mediante inspiración. El recuento de gemas sigue siendo confuso. Pix y los tres cautivos quedan rescatados; las consecuencias del ataque al poblado siguen pendientes.",
+  "registros": [
+    [
+      "00:00:00",
+      "00:02:40",
+      "Ione organiza un rescate tras recibir información de Nox",
+      "declaracion_personaje",
+      "Ione relata que evitó la búsqueda de gemas mediante el alcohol, reparó el barco y entrenó. Dice que Nox le informó del rescate pendiente de Pix, de la captura de Chochi y de las actividades del elfo. Organiza un grupo porque nadie de su tripulación queda atrás. Una tirada de descanso le provoca un pequeño pinchazo o una puñalada.",
+      [
+        "Ione",
+        "Nox",
+        "Pix (mono de Bonnie)",
+        "Axi (identificación contextual con Chochi)",
+        "Barco Zampaolas (grafía provisional)"
+      ],
+      "con Ione nadie se queda atrás",
+      "recapitulación y preparación de misión",
+      [
+        "Ione"
+      ],
+      "desconocido",
+      "Recibe información de Nox, no presencia derrota anterior. No diagnóstico o autor de pinchazo confirmado."
+    ],
+    [
+      "00:02:30",
+      "00:04:35",
+      "Kilzer prepara la venta de carne como remedio",
+      "declaracion_personaje",
+      "Kilzer relata que prepara pequeños recipientes y ungüentos con carne de jaguar para venderlos como remedio para problemas sexuales, aunque él mismo duda de su eficacia. Oye un ruido extraño en la habitación de Patata. Una tirada de descanso le quita cuatro monedas.",
+      [
+        "Kilzer / Kilcer (grafía provisional)",
+        "Patata / Patatamán (grafía provisional)",
+        "Carne de pantera de Kilzer"
+      ],
+      "remedios para la disfunción",
+      "recapitulación de negocio propuesto",
+      [],
+      "desconocido",
+      "No venta ni eficacia medicinal confirmadas. Variantes jaguar/pantera de cadáver previo conservadas; no consejo sanitario real."
+    ],
+    [
+      "00:04:15",
+      "00:06:45",
+      "Visión del bebé y juramento de Nox según Mamá",
+      "declaracion_personaje",
+      "Mamá relata que sigue incubando el huevo y ha hablado más con Nox. Describe otra alucinación: se ve corriendo con un bebé, lo deja en un cofre y promete volver. Dice haber hecho jurar a Nox mediante una maldición que no le mentiría. Una tirada le hace perder un diente de oro, pero conserva el huevo en el barco.",
+      [
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Nox",
+        "Bebé de visión de Mamá (sin identificar)",
+        "Huevo grande del nido"
+      ],
+      "un pequeño bebé que había dejado en un cofre",
+      "recapitulación de visión y acuerdo entre sesiones",
+      [
+        "Mamá / Citlali (identificación contextual provisional)"
+      ],
+      "desconocido",
+      "Visión no demuestra aún hecho histórico literal ni identidad del bebé. Maldición procede de relato, no texto de hechizo o sanción ejecutada. Diente perdido era objeto de inventario, no extracción física adjudicada."
+    ],
+    [
+      "00:06:30",
+      "00:08:10",
+      "Poncelot sigue buscando a su primera montura",
+      "declaracion_personaje",
+      "Poncelot relata la pérdida de su segundo corcel y sigue buscando a la primera Merlucilla porque cree que escapó, y aún espera una audiencia con la reina, que cree que debe conceder quien él llama la jueza Liz. Una tirada le quita una moneda.",
+      [
+        "Sir Poncelot (grafía confirmada por jugador)",
+        "Merlucilla (montura de Poncelot)",
+        "Merlucilla II (hipocampo)",
+        "Liz / Lizy (encargada de la Sirena Borracha, grafía provisional)"
+      ],
+      "él sigue pensando que que se escapó",
+      "recapitulación de creencias y pérdidas",
+      [
+        "Sir Poncelot (grafía confirmada por jugador)"
+      ],
+      "desconocido",
+      "No conoce muerte de Merlucilla I por Ione. Segundo corcel no se nombra aquí: continuidad con hipocampo contextual, no reconstrucción audiovisual del pulpo."
+    ],
+    [
+      "00:08:00",
+      "00:12:50",
+      "Venta de tres perlas y obsidiana",
+      "hecho_confirmado",
+      "Poncelot regatea con el herrero, que usa gestos y amenaza con un hacha. Vende tres perlas del encuentro de sirenas a veinte monedas de oro cada una, con un total de sesenta; el director recuerda que el valor indicado era de cincuenta por perla. Vende obsidiana por ocho.",
+      [
+        "Sir Poncelot (grafía confirmada por jugador)",
+        "Herrero de Shiaru (sin nombre)",
+        "Tres perlas del tesoro de sirenas"
+      ],
+      "20 cada una",
+      "ventas de botín",
+      [],
+      "desconocido",
+      "La oferta de quince es sustituida por veinte; no sumar ambas. Precio indicado cincuenta no implica que tienda pague necesariamente todo valor."
+    ],
+    [
+      "00:12:40",
+      "00:16:35",
+      "Kilzer encuentra obsidiana; Ione recluta a Mamá",
+      "hecho_confirmado",
+      "Al no encontrar a Pix en la barra, Kilzer busca alcohol, pero las botellas de la pared están pintadas y otras contienen líquidos de aspecto dudoso. Encuentra obsidiana bajo la barra. Ione informa a Mamá que Axi fue capturado y le pide que ayude a rescatarlo; Mamá acepta pese a las advertencias anteriores sobre piratas.",
+      [
+        "Kilzer / Kilcer (grafía provisional)",
+        "Ione",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Axi (identificación contextual con Chochi)",
+        "Pix (mono de Bonnie)"
+      ],
+      "te he puesto una obsidiana",
+      "hallazgo y reclutamiento",
+      [
+        "Ione",
+        "Mamá / Citlali (identificación contextual provisional)"
+      ],
+      "desconocido",
+      "No alcohol consumido ni veneno elaborado por idea de jugador. Información transmitida a Mamá sí está representada."
+    ],
+    [
+      "00:16:00",
+      "00:21:50",
+      "Kilzer es obligado a participar y Poncelot acepta el rescate por su ideal caballeresco",
+      "hecho_confirmado",
+      "Ione intenta atraer a Kilzer con riqueza y alcohol y termina sujetándolo por la camisa y amenazando con el puño para que la acompañe. Recluta a Poncelot diciendo que han secuestrado al bufón de una reina y a un grupo de caballeros, incluido un cadete, y que rescatarlo facilitará conocer a la reina. Él acepta. Kilzer niega ser mascota o tripulante y protesta.",
+      [
+        "Ione",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Sir Poncelot (grafía confirmada por jugador)",
+        "Pix (mono de Bonnie)",
+        "Happy Bonnie / Bonny (grafía provisional)"
+      ],
+      "reina ha sido secuestrado",
+      "reclutamiento coercitivo y relato adaptado",
+      [],
+      "desconocido",
+      "Bufón, reina, cadete y caballeros son adaptación al marco de Poncelot, no cargos administrativos confirmados. No consentimiento libre de Kilzer ni ingreso formal en tripulación."
+    ],
+    [
+      "00:21:45",
+      "00:25:45",
+      "Reparto parcial del botín de las sirenas",
+      "hecho_confirmado",
+      "Kilzer reclama parte del tesoro. Poncelot ofrece quince alegando la venta de las perlas a quince y diez monedas adicionales; el director realiza tiradas y aclaran que las sesenta monedas de la venta real más diez, divididas entre cinco, dan catorce. Poncelot entrega catorce, reserva la decimoquinta por un posible acuerdo de escudero. No da a Kilzer parte de otro compañero, pese a la petición.",
+      [
+        "Sir Poncelot (grafía confirmada por jugador)",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Tres perlas del tesoro de sirenas",
+        "Ione"
+      ],
+      "le doy las 14 moneditas",
+      "reparto representado y cuentas discutidas",
+      [
+        "Sir Poncelot (grafía confirmada por jugador)",
+        "Kilzer / Kilcer (grafía provisional)"
+      ],
+      "desconocido",
+      "Diez monedas retomadas aquí frente a cinco al cierre del 6; conservar discrepancia. No distribución completa a los cinco ni aceptación de escudero mostradas."
+    ],
+    [
+      "00:26:00",
+      "00:31:25",
+      "Planes, huevo interpretado como Pegaso y salida al norte",
+      "declaracion_personaje",
+      "Ione insiste en rescatar a su camarada por su propio código, Kilzer quiere quedarse. Mamá explica a Poncelot que cuida un huevo de dinosaurio volador; él lo interpreta como un Pegaso y ella le permite visitar el lugar de incubación. Salen al norte a Uruki Peten y ven la barca de Shiaru atascada. Mamá compra flechas como preparación retrospectiva.",
+      [
+        "Ione",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Sir Poncelot (grafía confirmada por jugador)",
+        "Huevo grande del nido",
+        "Ruki Peten (grafía provisional)"
+      ],
+      "Uruki Peten",
+      "planes y llegada al pantano",
+      [],
+      "desconocido",
+      "Pegaso y palacio son interpretación de Poncelot, no identificación zoológica o título confirmado. Grafía Uruki amplía variante anterior Ruki; no otro pantano por omisión de sílaba."
+    ],
+    [
+      "00:31:20",
+      "00:42:40",
+      "Poncelot otea mientras Ione prueba el agua y recupera la barca",
+      "hecho_confirmado",
+      "Ione ve el agua en calma sin peligro cercano. Poncelot fracasa al trepar, come fruta que añade uno al daño recibido de todas las fuentes y sube con ayuda de Ione. Ve al norte humo y construcciones y cerca el cadáver de un cocodrilo devorado por criaturas rojizas de pelaje erizado. Ione salta, cae al agua que llega a las rodillas y acerca la barca para todos. Mamá fabrica un arco con ramas e hilos de su falda.",
+      [
+        "Ione",
+        "Sir Poncelot (grafía confirmada por jugador)",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Carroñeros rojizos del pantano (sin especie)",
+        "Barca de Shiaru en pantano"
+      ],
+      "No te cubre hasta las rodillas el agua",
+      "preparación y reconocimiento",
+      [],
+      "desconocido",
+      "Ornitorrinco y perros son interpretaciones del gnomo, no identificación exacta de especies. Agua calma observada no garantiza ausencia futura de cocodrilos."
+    ],
+    [
+      "00:43:30",
+      "00:49:20",
+      "Nox se une y dice leer Terran mediante un ritual",
+      "hecho_confirmado",
+      "Una carta de los espectadores quita diecisiete monedas a Poncelot. Ven a Nox entre hojas; Mamá le lanza una chancla sin darle. Él pide usar Comprender lenguajes como ritual e imitar la caligrafía para anotaciones en un libro escrito en Terran desde la salida del poblado; el director acepta el tiempo empleado y la posibilidad. Se reúne con el grupo.",
+      [
+        "Nox",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Sir Poncelot (grafía confirmada por jugador)",
+        "Libro de Nox preparado en Terran"
+      ],
+      "poder comprender el terran",
+      "incorporación y preparación de libro",
+      [
+        "Nox"
+      ],
+      "desconocido",
+      "No contenido del libro leído al espectador ni prueba de que sea diario del elfo del capítulo 8, ausente en esta expedición. No traducción completa publicada por estos comentarios."
+    ],
+    [
+      "00:49:15",
+      "00:53:25",
+      "Nox ofrece un negocio y resume el informe del elfo",
+      "declaracion_personaje",
+      "Nox habla a Kilzer de un futuro negocio relacionado con juegos de azar y promete explicarlo al volver. Resume que el elfo angustiado le dijo que entraron bruscamente en un poblado y fueron atacados por hombres escamosos; sitúa la prioridad de Bonnie en el dinero y el mono antes que los compañeros.",
+      [
+        "Nox",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Erendriel (grafía provisional)",
+        "Happy Bonnie / Bonny (grafía provisional)"
+      ],
+      "el elfo atormentado",
+      "información recibida y propuesta",
+      [
+        "Nox",
+        "Kilzer / Kilcer (grafía provisional)"
+      ],
+      "desconocido",
+      "Informe referido de escena entre sesiones, no nueva entrevista disponible. Prioridad expresada por Nox y compañeros no obligación moral del narrador."
+    ],
+    [
+      "00:52:30",
+      "00:58:55",
+      "Nox invisible y saber de Mamá sobre hombres lagarto",
+      "explicacion_director",
+      "Nox come fruta y se vuelve invisible con su ropa durante toda la sesión. El director atribuye a Mamá el conocimiento de que los hombres lagarto viven en pantanos de Xoltacan, son inteligentes y organizados, ritualistas y eficientes; comen a los caídos, incluso a los propios, sin ser por ello inherentemente malvados o crueles. Tienen un dirigente de poblado y un chamán y escalas de poder. Observan el poblado desde unos doscientos pies.",
+      [
+        "Nox",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Hombres lagarto del pantano",
+        "Frutas de Xoltacan"
+      ],
+      "No es que sean que sean malvados ni crueles",
+      "efecto temporal y conocimiento cultural adjudicado",
+      [
+        "Mamá / Citlali (identificación contextual provisional)"
+      ],
+      "desconocido",
+      "No identificar tribu específica o nombre de líder. Invisibilidad adjudicada como mayor posteriormente; no aplicación universal a todas frutas."
+    ],
+    [
+      "00:59:00",
+      "01:07:20",
+      "Infiltración planeada; ruido de armadura fuerza cambio de sitio",
+      "hecho_confirmado",
+      "Debaten fingir ser una deidad o un animal moribundo como distracción, sin ejecutar esos planes. Navegan evitando carroñeros y paran a unos cien pies. Poncelot intenta trepar para ver la disposición, cae haciendo ruido y se quita la armadura. Cambian de escondite hacia el noroeste. El director aclara que los objetos que Nox ya portaba son invisibles, pero los que toma nuevos se ven.",
+      [
+        "Sir Poncelot (grafía confirmada por jugador)",
+        "Nox",
+        "Ione",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Poblado de hombres lagarto del pantano"
+      ],
+      "cacerolas cayendo",
+      "cambio de escondite y límites de invisibilidad",
+      [],
+      "desconocido",
+      "No dios falso manifestado por planes de mesa ni armadura puesta durante combate posterior."
+    ],
+    [
+      "01:07:00",
+      "01:14:55",
+      "Nox informa de las jaulas y la pirámide; los otros se sumergen",
+      "hecho_confirmado",
+      "Nox avanza saltando por plantas, ve los daños de la batalla anterior, jaulas al norte y una pirámide de tres alturas con dos figuras arriba. Mediante Mensaje informa a Ione, no a todos automáticamente. Ione corta juncos para respirar y propone avanzar sumergidos en el agua turbia, que llega a las rodillas. Mamá la considera normalmente segura si no se mueven mucho. Ione se adelanta; los demás no saben aún qué le ocurre.",
+      [
+        "Nox",
+        "Ione",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Sir Poncelot (grafía confirmada por jugador)",
+        "Pirámide del poblado de hombres lagarto"
+      ],
+      "el mensaje es a uno",
+      "reconocimiento y coordinación reservada",
+      [
+        "Nox",
+        "Ione"
+      ],
+      "desconocido",
+      "No ve Pix inicialmente por perspectiva. Tirada fallida de Ione es conocimiento de mesa, no señal ya vista por los demás."
+    ],
+    [
+      "01:15:00",
+      "01:25:55",
+      "Camuflaje, cautivos vistos y lengua comprendida",
+      "hecho_confirmado",
+      "Poncelot se cubre con barro y hojas sin armadura; Kilzer utiliza un nenúfar e Ilusión menor como flor para camuflarse, y Mamá utiliza su falda y un nenúfar. Nox ve a Axi y Patata en jaulas y a Blink en una botella fuera de la jaula. Comprender lenguajes le permite oír a los guardias hablando en dracónico de la incursión anterior y de comerse a sus caídos, incluido Fred, sin poder hablar el idioma por ese conjuro.",
+      [
+        "Nox",
+        "Axi (identificación contextual con Chochi)",
+        "Patata / Patatamán (grafía provisional)",
+        "Blink / Blank",
+        "Sir Poncelot (grafía confirmada por jugador)",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Fred (caído mencionado por guardias)"
+      ],
+      "nos comimos a a Fred",
+      "infiltración y conversación escuchada",
+      [
+        "Nox"
+      ],
+      "desconocido",
+      "No identidad adicional de Fred ni causa individual de muerte. Declaración de guardias no significa que comieran cautivos vivos, que están visibles."
+    ],
+    [
+      "01:25:40",
+      "01:31:35",
+      "Ione se transforma por la sangre y Nox mata a un guardia",
+      "hecho_confirmado",
+      "El olor de la sangre del combate previo provoca la transformación de Ione; agazapada salta sobre un hombre lagarto. Mamá y Poncelot solo ven entonces una sombra que ataca; Nox también la ve. Nox aprovecha la distracción, se acerca invisible, corta la garganta a otro guardia y añade daño hasta matarlo. Comienza el combate.",
+      [
+        "Ione",
+        "Nox",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Sir Poncelot (grafía confirmada por jugador)",
+        "Guardias del poblado de hombres lagarto"
+      ],
+      "te has empezado a transformar",
+      "transformación y comienzo de batalla",
+      [],
+      "desconocido",
+      "No ataque aliado premeditado para atraer defensores: transformación ocurre por fallo y sangre, no por plan inicial. Ione no reconoce aliados en este estado hasta trato posterior."
+    ],
+    [
+      "01:31:15",
+      "01:40:50",
+      "Nox incendia el puente y los otros rodean el combate",
+      "hecho_confirmado",
+      "Ione combate con garras, mordidas y habilidades de monje; el director confirma la resistencia del lobo a golpes no mágicos. Nox toma una rama ardiente y prende el puente para distraer o impedir el paso, pero los hombres lagarto se tiran al agua y nadan. Mamá intenta ir a las jaulas, Poncelot y Kilzer rodean; Mamá es detectada por un guardia. Una carta hace perder un turno a Nox.",
+      [
+        "Nox",
+        "Ione",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Sir Poncelot (grafía confirmada por jugador)",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Puente incendiado del poblado"
+      ],
+      "prender fuego al puente",
+      "combate y fuego intencionado",
+      [],
+      "desconocido",
+      "Quemar puente no bloquea a nadadores; no todos los turnos omitidos prueban inacción del personaje sin carta. Resistencias son adjudicación de mesa."
+    ],
+    [
+      "01:43:20",
+      "01:54:50",
+      "Kilzer protege a Mamá y Nox incendia una choza",
+      "hecho_confirmado",
+      "Kilzer prepara un ataque contra quien se acerque a Mamá, mata al guardia cuando entra en su alcance y esconde el cadáver y a sí mismo. Mamá lo hiere antes con una chancla. Ione mata más guardias. Nox toma otra rama de fuego y la lanza a una choza cercana para atraer la atención. Poncelot falla su prueba de Sigilo y no consigue volver a ocultarse a la vista.",
+      [
+        "Kilzer / Kilcer (grafía provisional)",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Ione",
+        "Nox",
+        "Sir Poncelot (grafía confirmada por jugador)",
+        "Choza incendiada del poblado"
+      ],
+      "tirar la choza de paja esta",
+      "protección y segunda ignición",
+      [],
+      "desconocido",
+      "El fuego real lo causa Nox; no ilusionar incendio por analogía con barco del capítulo 5. No descifrado o efectos mágicos del arma Beso de sirena inferidos por interfaz."
+    ],
+    [
+      "01:54:40",
+      "02:03:25",
+      "Ione va contra Poncelot; él consigue calmarla",
+      "hecho_confirmado",
+      "Ione mata al rival más cercano y después se dirige hacia Poncelot porque no reconoce aliados. Nox ve figuras superiores alertadas por el fuego y observa a Pix atado en un altar con huesos y velas. Poncelot invoca caricias previas, supera Trato con animales e Ione lo acepta y permite rascarla; empieza a montarla. El chamán hace subir enredaderas desde el agua, que ambos superan.",
+      [
+        "Ione",
+        "Sir Poncelot (grafía confirmada por jugador)",
+        "Nox",
+        "Pix (mono de Bonnie)",
+        "Chamán del poblado de hombres lagarto (sin nombre)"
+      ],
+      "está atado en un altar",
+      "localización del mono y control de Ione",
+      [
+        "Nox"
+      ],
+      "desconocido",
+      "Posible sacrificio de Pix sugerido por altar, no realizado. Trato animal no cura licantropía ni devuelve forma humana todavía."
+    ],
+    [
+      "02:03:00",
+      "02:10:40",
+      "Los cocodrilos atacan y el grupo protege a Mamá",
+      "hecho_confirmado",
+      "Llegan guardias y cocodrilos. Kilzer mata a un caimán que amenaza a Mamá y vuelve a esconderse con éxito variable. Otro muerde a Poncelot y queda enredado por un efecto del chamán. Ione lo mata porque impide que sigan acariciándola. Mamá avanza hacia los prisioneros combatiendo.",
+      [
+        "Kilzer / Kilcer (grafía provisional)",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Sir Poncelot (grafía confirmada por jugador)",
+        "Ione",
+        "Cocodrilos defensores del poblado"
+      ],
+      "me sigan rascando",
+      "combate y coordinación parcial",
+      [],
+      "desconocido",
+      "No control de Ione por todos los aliados: sigue dirigido por trato y estímulo de Poncelot, con riesgos después."
+    ],
+    [
+      "02:10:20",
+      "02:24:30",
+      "Nox paraliza y mata al combatiente grande",
+      "hecho_confirmado",
+      "Nox acerca el libro preparado a la piel del reptil para activar Glifo custodio con Inmovilizar persona. El director permite resolverlo sin gastar un espacio de conjuro, aunque deja pendiente comprobar las reglas precisas. El rival queda paralizado, Nox lo hiere con críticos, lo empuja diez pies abajo y después lo mata. El chamán queda silenciado y un combatiente queda cegado por cartas de audiencia temporalmente.",
+      [
+        "Nox",
+        "Libro de Nox preparado en Terran",
+        "Combatiente del martillo del poblado (sin nombre)",
+        "Chamán del poblado de hombres lagarto (sin nombre)"
+      ],
+      "el grifo custodio",
+      "hechizo adjudicado y derrota del rival",
+      [
+        "Nox"
+      ],
+      "desconocido",
+      "No afirmar esta combinación legal según reglas oficiales. Glifo de guarda/custodio es grafía de habla reconocida; eficacia adjudicada en mesa, no receta reproducida sin restricciones."
+    ],
+    [
+      "02:24:10",
+      "02:41:30",
+      "Pix recogido y última resistencia abatida",
+      "hecho_confirmado",
+      "Ione y Poncelot combaten montados; Nox recoge a Pix todavía atado sin desatarlo y lo lleva visible mientras él es invisible. Kilzer y Mamá derrotan más defensores. Al no recibir una orden en el turno en el que Poncelot se cura, Ione vuelve a dirigirse al más cercano y ataca a Mamá; más tarde Poncelot vuelve a acariciarla y la calma. Los últimos enemigos de la escena quedan derrotados.",
+      [
+        "Pix (mono de Bonnie)",
+        "Nox",
+        "Ione",
+        "Sir Poncelot (grafía confirmada por jugador)",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Mamá / Citlali (identificación contextual provisional)"
+      ],
+      "muerdo la mamá",
+      "rescate de Pix y riesgo aliado",
+      [],
+      "desconocido",
+      "El ataque declarado no implica mordida acertada o contagio: se discuten fallos y Negociación con objetivo poco claro. No todos los habitantes exterminados; solo enemigos resueltos en escena."
+    ],
+    [
+      "02:41:20",
+      "02:45:20",
+      "Nox toma una moneda de los cinco reyes piratas",
+      "hecho_confirmado",
+      "Nox registra las ropas de Pix atado y amordazado y entre la basura saca una moneda plateada, más pesada y con textura distinta de una moneda común, con calavera. Una tirada de Historia con ventaja establece que Nox conoce que existen cinco y son monedas de los cinco reyes piratas, cuyo nombre se reconoce como Honk. Nox la guarda y vuelve al grupo.",
+      [
+        "Nox",
+        "Pix (mono de Bonnie)",
+        "Moneda plateada con calavera de Bonnie",
+        "Cinco reyes piratas (Honk, grafía provisional)"
+      ],
+      "las monedas de los cinco reyes",
+      "revelación individual por objeto",
+      [
+        "Nox"
+      ],
+      "desconocido",
+      "No se afirma ascenso de Nox al trono por broma de jugador. Los demás ven moneda flotante pero no reciben automáticamente historia que adjudican a Nox."
+    ],
+    [
+      "02:45:00",
+      "02:48:20",
+      "Jaulas abiertas pese a la rotura de una herramienta",
+      "hecho_confirmado",
+      "Mientras el fuego avanza, Nox abre la jaula de Patata con herramientas. Kilzer falla y rompe una herramienta, vuelve a intentar con otra y abre la otra celda, carga al cautivo y pretende robarle. El director aclara que los cautivos no tienen dinero ni equipo porque fueron registrados, y solo llevan ropa mínima. Mamá ya tiene la botella de Blink.",
+      [
+        "Nox",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Patata / Patatamán (grafía provisional)",
+        "Axi (identificación contextual con Chochi)",
+        "Blink / Blank",
+        "Mamá / Citlali (identificación contextual provisional)"
+      ],
+      "la del Sanñera Patata se abre",
+      "apertura de celdas y evacuación",
+      [],
+      "desconocido",
+      "Grafía de ancla es literal defectuosa, no nuevo personaje. No bolsa vacía interpretada como robo exitoso a cautivo ni herramientas infinitas."
+    ],
+    [
+      "02:47:50",
+      "02:52:45",
+      "Recuperación parcial de equipo y botín",
+      "hecho_confirmado",
+      "Poncelot encuentra obsidiana y veintitrés monedas de oro en un cuerpo. Ione, en forma de lobo, come el brazo de un muerto. Mamá busca armas tiradas, ve un arco y una espada corta y recoge el arco para Axi. Kilzer investiga una caja y encuentra solo parte del equipo de los compañeros, incluido un amuleto, que pretende cargar sobre Poncelot. No se recupera todo el dinero o equipo original.",
+      [
+        "Sir Poncelot (grafía confirmada por jugador)",
+        "Ione",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Axi (identificación contextual con Chochi)",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Equipo parcial de cautivos"
+      ],
+      "No está todo, pero hay partes",
+      "botín y restitución parcial",
+      [],
+      "desconocido",
+      "No identidad, dueño o función exacta de amuleto aquí. No devolución automática de armas del elfo ausente ni inventario completo restaurado."
+    ],
+    [
+      "02:52:20",
+      "02:56:50",
+      "Regreso, reversión de Ione y recuerdos limitados",
+      "hecho_confirmado",
+      "Regresan hacia Shiaru llevando tres rescatados y Pix. Poncelot calma a Ione durante el camino con caricias y ella recupera su forma humana, desnuda, mientras él sigue encima sin armadura. Ione pregunta qué pasó y si mordió a alguien; le responden que no a aliados, sí lagartos.",
+      [
+        "Ione",
+        "Sir Poncelot (grafía confirmada por jugador)",
+        "Nox",
+        "Pix (mono de Bonnie)",
+        "Patata / Patatamán (grafía provisional)",
+        "Axi (identificación contextual con Chochi)",
+        "Blink / Blank",
+        "Shiaru"
+      ],
+      "vas a volver a tu forma",
+      "retorno y reversión confirmada",
+      [],
+      "desconocido",
+      "Respuesta sobre aliados no borra ataque declarado a Mamá; no mordida aliada acertada inequívoca ni contagio confirmado. Ione no obtiene recuerdos completos automáticamente al revertir."
+    ],
+    [
+      "02:56:30",
+      "03:00:35",
+      "Nox roba obsidiana a Kilzer",
+      "hecho_confirmado",
+      "Nox, invisible, registra a Kilzer mientras está distraído con Poncelot buscando una gema por las cinco monedas de deuda que le reclama. Supera su percepción pasiva y se retira sigilosamente. El director confirma que toma una obsidiana y que Kilzer aún tiene otra, pese a que la interfaz muestra cero y solicita que se recargue.",
+      [
+        "Nox",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Gemas del collar antiguo"
+      ],
+      "tienes una obsidiana",
+      "robo entre compañeros y corrección de inventario",
+      [
+        "Nox"
+      ],
+      "desconocido",
+      "El capítulo luego llama gema al objeto entregado a Bonnie y cuenta gemas buscadas, pero objeto del robo descrito obsidiana. Conservar ambigüedad de clasificación y no reconstruir saldo por interfaz."
+    ],
+    [
+      "03:01:30",
+      "03:06:25",
+      "Bonnie ve a Nox invisible y recupera moneda y gema",
+      "hecho_confirmado",
+      "Nox entra solo en la taberna llevando a Pix visible. Bonnie lo mira a los ojos pese a su invisibilidad; los jugadores aluden a visión verdadera, sin habilidad confirmada por nombre. Bonnie lleva un anillo negro con dos espadas cruzadas, identificado verbalmente como Cuchillas Negras. Desata a Pix y busca la moneda mientras los hombres apuntan sus pistolas. Nox muestra una gema y la moneda, la llama reina pirata entre cinco grandes y pide una conversación; bajo la amenaza de la pistola entrega los objetos y consiguen una cita a las nueve en el muelle.",
+      [
+        "Nox",
+        "Happy Bonnie / Bonny (grafía provisional)",
+        "Pix (mono de Bonnie)",
+        "Moneda plateada con calavera de Bonnie",
+        "Gemas del collar antiguo",
+        "Cuchillas Negras (identificación de anillo)",
+        "Anillo negro de Bonnie"
+      ],
+      "las 9 en el muelle",
+      "entrega y revelación reservada",
+      [
+        "Nox",
+        "Happy Bonnie / Bonny (grafía provisional)"
+      ],
+      "desconocido",
+      "No cita realizada ni contenido futuro. Capacidad de percibir invisibilidad observada, no ficha de Visión verdadera establecida. Moneda y reacción apoyan condición atribuida a Bonnie, sin historia completa de los cinco ni afiliación formal probada solo por anillo."
+    ],
+    [
+      "03:06:00",
+      "03:10:20",
+      "Pago discutido y traslado de los heridos al médico",
+      "hecho_confirmado",
+      "Kilzer exige pago a Ione por el rescate obligado; ella lo liga a unirse a la tripulación y discuten amenazas, bebida y posible encuentro nocturno sin pago demostrado. Poncelot lleva a dos heridos al médico en viajes; Mamá lleva la botella de Blink al barco e intenta abrirla y reanimarla. El director aplaza la resolución de la reanimación.",
+      [
+        "Kilzer / Kilcer (grafía provisional)",
+        "Ione",
+        "Sir Poncelot (grafía confirmada por jugador)",
+        "Patata / Patatamán (grafía provisional)",
+        "Axi (identificación contextual con Chochi)",
+        "Blink / Blank",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Gobs (médico, grafía provisional)"
+      ],
+      "eso lo haremos",
+      "cuidados y disputa por remuneración",
+      [],
+      "desconocido",
+      "No consulta médica detallada ni alta de los dos, ni despertar de Blink mostrado. No cita de Ione/Kilzer consumada ni ingreso consentido."
+    ],
+    [
+      "03:09:40",
+      "03:14:50",
+      "Casino propuesto con licencia aún no comprobada",
+      "declaracion_personaje",
+      "Nox dice tener licencia para un local y propone un casino a Kilzer a cambio de cinco monedas de una apuesta pasada. Él alega que la trampa anula el honor entre ladrones; discuten hasta cuatro monedas y cinco por ciento de los ingresos, tras una propuesta de diez. Nox ofrece un papel invisible y Kilzer pide esperar a que se haga visible para comprobarlo antes de cerrar el trato.",
+      [
+        "Nox",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Licencia de local propuesta por Nox",
+        "Casino propuesto de Shiaru"
+      ],
+      "5 5% hecho",
+      "negociación aplazada y reclamación de deuda",
+      [
+        "Nox",
+        "Kilzer / Kilcer (grafía provisional)"
+      ],
+      "desconocido",
+      "No licencia leída, emisor o validez verificados; local no abierto ni beneficios. Cifras discutidas no pago o contrato ejecutado, dada reserva final de Kilzer."
+    ],
+    [
+      "03:14:40",
+      "03:17:15",
+      "Gema de Liz obtenida por inspiración; recuento ambiguo",
+      "explicacion_director",
+      "Nox gasta inspiración en colarse al local y robar una gema de Liz. El director permite la acción y primero dice que tiene tres gemas, luego dos porque otra se entregó en una escena entre sesiones y una ahora a Bonnie, y que queda una. Se mantiene el recuento hablado sin conciliación aritmética definitiva. El director cierra confirmando el rescate de los compañeros y del mono y que han destrozado el poblado de hombres lagarto, con consecuencias futuras pendientes.",
+      [
+        "Nox",
+        "Liz / Lizy (encargada de la Sirena Borracha, grafía provisional)",
+        "Gemas del collar antiguo",
+        "Poblado de hombres lagarto del pantano",
+        "Pix (mono de Bonnie)",
+        "Patata / Patatamán (grafía provisional)",
+        "Axi (identificación contextual con Chochi)",
+        "Blink / Blank"
+      ],
+      "tienes las tres gemas",
+      "adjudicación final y cierre de rescate",
+      [
+        "Nox"
+      ],
+      "desconocido",
+      "No asumir tres gemas simultáneamente retenidas ni deuda saldada. Entrega de rol externo solo referencia explícita, sin incorporar conversaciones ausentes. Destrozo no censo de muertos ni exterminio total demostrado."
+    ]
+  ],
+  "misiones": [
+    "Nox saca a Pix del altar todavía atado. Bonnie lo recibe y lo desata. Se cumple el rescate físico, sin fijar una remuneración (11-020,11-023 y 11-029).",
+    "Nox y Kilzer abren las celdas, y Mamá recoge la botella de Blink. Los tres cautivos regresan con parte de su equipo. Dos reciben atención médica y Blink queda al cuidado de Mamá; no se muestra su recuperación consciente (11-025–11-027 y 11-030).",
+    "La transformación de Ione interrumpe la infiltración. Poncelot consigue calmarla y dirigirla temporalmente; ella recupera su forma habitual durante el regreso. No obtiene una cura definitiva (11-017,11-020–11-023 y 11-027).",
+    "Nox roba una gema a Kilzer, entrega una a Bonnie y obtiene otra de Liz. Las cifras finales son contradictorias y no se confirma que la deuda quede saldada (11-028–11-029 y 11-032).",
+    "Nox y Kilzer negocian una licencia de casino, cuatro monedas y un cinco por ciento. Kilzer aplaza su confirmación hasta ver el documento. El casino no abre (11-031).",
+    "Bonnie cita a Nox a las nueve en el muelle tras recibir la moneda. La conversación todavía no se celebra (11-029).",
+    "Poncelot vende las perlas por sesenta monedas y la obsidiana por ocho, y entrega catorce a Kilzer. El reparto restante y la discrepancia del oro del capítulo 6 siguen pendientes (11-005 y 11-008)."
+  ],
+  "preguntas": [
+    "¿La visión del bebé corresponde al pasado de Mamá? ¿Quién es y dónde está el cofre? Solo se relata la visión (11-003).",
+    "¿Qué efectos tiene el juramento de Nox y qué ocurriría si mintiera? No se describe su mecánica ni se aplica una sanción (11-003).",
+    "¿Qué contiene el libro en Terran de Nox? Su relación con el diario de Erendriel todavía no queda inequívoca en este capítulo (11-011 y 11-022).",
+    "¿Qué poder o legitimidad confieren las monedas de los cinco reyes piratas? El director confirma la asociación, sin explicar las consecuencias de poseerlas (11-024).",
+    "¿Qué relación tiene Bonnie con las Cuchillas Negras y cómo ve a Nox invisible? Se observan su anillo y su mirada, sin una explicación completa (11-029).",
+    "¿Qué hablarán Bonnie y Nox en el muelle? Solo acuerdan la cita (11-029).",
+    "¿Cuántas gemas quedan y quién conserva la última? Las cifras y las entregas relatadas no permiten cerrar un inventario firme (11-028–11-029 y 11-032).",
+    "¿Se recuperará el resto del equipo de los cautivos? Solo recogen una caja con parte de los objetos y un arco (11-026).",
+    "¿Cuándo despertarán Blink, Patata y Axi y qué secuelas tendrán? Se inician el transporte y los cuidados, sin resolución médica (11-030).",
+    "¿Qué consecuencias tendrá el incendio y la muerte de los defensores del poblado? El director las deja pendientes (11-032).",
+    "¿Existe la licencia y abrirán el casino? Kilzer quiere verificar el papel antes de confirmar el trato (11-031)."
+  ],
+  "contradicciones": [
+    "Poncelot y el director usan diez monedas para el reparto, frente a las cinco mencionadas al final del capítulo 6. La entrega de catorce a Kilzer es una transacción nueva y no resuelve la discrepancia previa (11-008 y 06-037–06-038).",
+    "Poncelot cree que criarán un pegaso y que Mamá es Titania. Los tratamientos de reina y bufón son interpretaciones de los personajes, no identidades o cargos confirmados (11-007 y 11-009).",
+    "Ione deja de reconocer a sus aliados y declara ataques contra Poncelot y Mamá. Durante el regreso le dicen que no mordió a ningún compañero. No se confirma una mordedura acertada, aunque el riesgo estuvo presente (11-020,11-023 y 11-027).",
+    "El director corrige el coste de recoger a Pix: cogerlo es gratis; desatarlo requiere una acción. Nox lo lleva todavía atado (11-023).",
+    "Los objetos que Nox adquiere después permanecen visibles pese a su invisibilidad, según la adjudicación de la mesa (11-014,11-024 y 11-028).",
+    "La gema tomada de Kilzer recibe también el nombre de obsidiana. El director corrige el inventario de la interfaz. La clasificación sigue siendo ambigua (11-028–11-029).",
+    "El recuento final alterna entre tres, dos y una gema e incluye entregas relatadas fuera de la escena. No se suman los estados incompatibles ni se da por completada la devolución (11-032).",
+    "Kilzer reserva la confirmación del casino hasta ver la licencia. La negociación verbal no demuestra que se firme un contrato o se realice el pago (11-031).",
+    "La identidad entre el libro de Nox y el diario del nawal todavía no es inequívoca. Se conserva la incertidumbre de este capítulo hasta que aparezca una identificación posterior (11-011,08-024 y 10-002)."
+  ],
+  "nombres_dudosos": [
+    "Uruki Peten es una variante de Ruki Peten, el pantano al norte de Shiaru. No identifica una zona nueva.",
+    "El director relaciona cinco monedas con cinco reyes piratas. La moneda con calavera se asocia a Bonnie, sin importar equivalencias de otras ficciones.",
+    "El anillo negro de dos espadas cruzadas se identifica verbalmente con las Cuchillas Negras. No se explican su historia, sus miembros ni el rango de Bonnie.",
+    "Axi y Chochi vuelven a alternarse para el mismo cautivo, sin relatar la adopción del nombre.",
+    "Los guardias mencionan a Fred como alguien a quien han comido. No se identifica con otros piratas de la campaña.",
+    "Beso de sirena es el nombre usado para el arma de Kilzer. El diálogo no proporciona una ficha mecánica completa.",
+    "Glifo custodio y la abreviatura de Inmovilizar persona se refieren a los hechizos preparados en el libro de Nox, sujetos a las reservas de la mesa.",
+    "Negociación y Diálogo designan armas o ataques de Ione. Cada variación verbal no crea un arma nueva."
+  ]
+}

@@ -1,0 +1,807 @@
+{
+  "capitulo": 5,
+  "estado_revision": "revisado",
+  "resumen": "Nox relata haber llevado al marine cautivo al poblado, hablado con Bonnie y oído noticias de las gemas del collar. Ione ha estado ocultando sus rastros en la selva. Cuando llega un buque de la Marina, Bonnie revela un acuerdo por el que la capitana le permite permanecer en la isla a cambio de diezmo; ordena a Nox e Ione retirar los documentos firmados mientras ella recibe a la capitana. Nox confiesa a Ione que tuvo una relación con Molly, a quien dejó en una isla tras descubrir que era capitana de la Marina. Con el visitante y Erendriel, nadan hasta el buque camuflados en barriles. Allí Nox conoce a Lunaria, una kender prisionera que se suelta y acepta ayudarlo. Ione distrae a los marines, recibe dos disparos y acaba reuniéndose con el grupo bajo cubierta. Encuentran una armería, sabotean pistolas, toman objetos y documentos y Nox recupera el contrato firmado por Bonnie de un compartimento oculto, donde deja una nota. El regreso provoca un enfrentamiento; Nox amenaza con incendiar la pólvora y consigue la retirada de las armas. Lunaria crea fuego ilusorio, pero varios compañeros lo creen real. El visitante lanza una vela al buque al huir, provocando un incendio verdadero y una explosión posterior. Llegan a tierra y entregan los documentos a Bonnie, que anuncia un aumento de la deuda de los piratas y trabajos especiales para el visitante. Molly intenta acudir al buque incendiado. El capítulo termina con Ione y Lunaria persiguiendo al visitante y Nox interesado en los mapas y conocimientos del elfo.",
+  "registros": [
+    [
+      "00:00:00",
+      "00:02:25",
+      "Estado de Nox e Ione entre sesiones",
+      "declaracion_personaje",
+      "Nox recapitula que llevó al marine al poblado, lo presentó en la taberna y habló con Bonnie, a quien dio un mapa. Ione relata haber vuelto a la jungla para borrar huellas y otros rastros de sus transformaciones, intentando que se atribuyan a una leyenda del bosque.",
+      [
+        "Nox",
+        "Ione",
+        "Jack / Jackie (marine cautivo, variantes de apellido)",
+        "Happy Bonnie / Bonny (grafía provisional)"
+      ],
+      "borrando las huellas",
+      "recapitulación de los jugadores",
+      [],
+      "desconocido",
+      "No se prueba que toda huella haya sido eliminada ni que la población acepte la leyenda. El nombre del marine oscila entre Jack, Jacky, Jackson y Johnson."
+    ],
+    [
+      "00:02:05",
+      "00:04:10",
+      "Trampas de pieles y residencia del elfo",
+      "declaracion_personaje",
+      "El visitante cuenta que ha preparado trampas en el bosque para obtener pieles de reptiles y venderlas. Erendriel relata que duerme en copas de árboles, investiga los alrededores y busca un lugar adecuado donde alojarse.",
+      [
+        "Kilzer / Kilcer (grafía provisional)",
+        "Erendriel (grafía provisional)",
+        "Selva de Xoltacan"
+      ],
+      "preparar algunas trampichuelas",
+      "actividad entre sesiones",
+      [],
+      "desconocido",
+      "No se documenta captura, fabricación de bolsos, ventas o ingresos de esas trampas."
+    ],
+    [
+      "00:04:00",
+      "00:08:15",
+      "Jack quiere volver con Lucy",
+      "declaracion_personaje",
+      "Jack dice que no quiere participar en la vida pirata y que necesita volver con su esposa Lucy. Nox promete que el Zampaolas podrá devolverlo cuando lo reparen y paguen deudas y lo presenta como nuevo integrante y exmarine.",
+      [
+        "Nox",
+        "Jack / Jackie (marine cautivo, variantes de apellido)",
+        "Lucy (esposa declarada de Jack)",
+        "Barco Zampaolas (grafía provisional)"
+      ],
+      "tu mujer, Lucy",
+      "conversación en el poblado",
+      [
+        "Nox",
+        "Jack / Jackie (marine cautivo, variantes de apellido)"
+      ],
+      "desconocido",
+      "El reclutamiento es afirmado por Nox; Jack se opone a la situación. No se presume consentimiento ni una baja oficial de la Marina. Las afirmaciones de infidelidad de Lucy son provocaciones de piratas, sin prueba."
+    ],
+    [
+      "00:06:05",
+      "00:07:10",
+      "Corrección sobre la presencia en la mina",
+      "explicacion_director",
+      "El director empieza sugiriendo que el visitante recuerda al centinela de la mina, pero el jugador aclara que no estuvo allí y el director acepta la corrección. No se le atribuye ese recuerdo como conocimiento propio.",
+      [
+        "Kilzer / Kilcer (grafía provisional)",
+        "Jack / Jackie (marine cautivo, variantes de apellido)"
+      ],
+      "no estaba",
+      "corrección explícita en la mesa",
+      [],
+      "desconocido",
+      "Refuerza que el grupo del capítulo 3 y el del capítulo 4 tienen miembros diferentes. Ver la infiltración de 03-019–03-031."
+    ],
+    [
+      "00:07:40",
+      "00:13:35",
+      "Emblema y procedencia declarada del collar",
+      "declaracion_personaje",
+      "Erendriel reconoce en el emblema de Jack una posible relación con marines de una organización mercantil o cofradía de Puerto de Espadas. Jack declara que en las minas encontraron un collar. El visitante niega conocerlo; Nox cree la negación, mientras el elfo detecta dudas.",
+      [
+        "Erendriel (grafía provisional)",
+        "Jack / Jackie (marine cautivo, variantes de apellido)",
+        "Puerto de Espadas",
+        "Collar antiguo de oro con gemas",
+        "Nox",
+        "Kilzer / Kilcer (grafía provisional)"
+      ],
+      "encontramos un collar",
+      "conversación e identificación de emblema",
+      [
+        "Erendriel (grafía provisional)",
+        "Nox",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Jack / Jackie (marine cautivo, variantes de apellido)"
+      ],
+      "desconocido",
+      "La declaración vincula el collar a los trabajos de la mina, sin mostrar su extracción ni identificar yacimiento o civilización. No se fija nombre de la organización del emblema."
+    ],
+    [
+      "00:14:00",
+      "00:17:35",
+      "Ione se reúne con Nox y ve al cautivo",
+      "hecho_confirmado",
+      "Ione llega de la selva con ramas en el pelo y reconoce al marine tras hablar con Nox. El director aclara que él vio al lobo, pero no a Ione en sus distintas formas. Nox llama al marine salvoconducto para el parlamento y pide hablar de los asuntos pendientes.",
+      [
+        "Ione",
+        "Nox",
+        "Jack / Jackie (marine cautivo, variantes de apellido)",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Erendriel (grafía provisional)"
+      ],
+      "solo vi al lobo",
+      "reunión en el poblado",
+      [
+        "Ione",
+        "Nox",
+        "Jack / Jackie (marine cautivo, variantes de apellido)"
+      ],
+      "desconocido",
+      "Ver la forma de lobo no significa que Jack sepa que era Ione. Las intenciones de Nox de usarlo como salvoconducto no prueban que exista autorización legal."
+    ],
+    [
+      "00:17:00",
+      "00:21:40",
+      "Llega un buque y Bonnie aparta a Jack",
+      "hecho_confirmado",
+      "Un gran buque de la Marina se acerca. Jack cree que lo devolverán a casa. Bonnie llama a Nox e Ione y ordena al elfo y al visitante llevar a Jack hacia la jungla para retenerlo fuera de vista. El director aclara que quiere apartarlo, no que lo maten.",
+      [
+        "Marina",
+        "Buque de Molly (nombre de nave sin confirmar)",
+        "Jack / Jackie (marine cautivo, variantes de apellido)",
+        "Happy Bonnie / Bonny (grafía provisional)",
+        "Nox",
+        "Ione",
+        "Erendriel (grafía provisional)",
+        "Kilzer / Kilcer (grafía provisional)"
+      ],
+      "lo retengáis fuera",
+      "orden de ocultación del cautivo",
+      [
+        "Happy Bonnie / Bonny (grafía provisional)",
+        "Nox",
+        "Ione",
+        "Erendriel (grafía provisional)",
+        "Kilzer / Kilcer (grafía provisional)"
+      ],
+      "desconocido",
+      "La interpretación inicial de ejecutarlo se rechaza explícitamente. No se registra la muerte de Jack en este capítulo."
+    ],
+    [
+      "00:21:00",
+      "00:25:35",
+      "Contrato de Bonnie y encargo de sustraer documentos",
+      "declaracion_personaje",
+      "Bonnie explica que firmó con la capitana un contrato que le permite estar en la isla a cambio de pagar diezmo. Mientras la capitana venga a hablar con ella, Nox e Ione deben infiltrarse y tomar los papeles con su firma. Señala la marca del cartel de su taberna como modelo de firma y prohíbe causar más problemas.",
+      [
+        "Happy Bonnie / Bonny (grafía provisional)",
+        "Molly (capitana de la Marina)",
+        "Nox",
+        "Ione",
+        "Contrato de Bonnie con Molly",
+        "Taberna de Bonnie"
+      ],
+      "cierto diezmo",
+      "encargo privado ante la taberna",
+      [
+        "Happy Bonnie / Bonny (grafía provisional)",
+        "Nox",
+        "Ione"
+      ],
+      "desconocido",
+      "Las condiciones son explicadas por Bonnie; no se lee íntegramente el documento. Patente de corso es la analogía de Nox, no un título oficial confirmado. Sustraer una copia no prueba por sí solo anulación legal del acuerdo."
+    ],
+    [
+      "00:25:30",
+      "00:28:40",
+      "Nox revela su relación con Molly",
+      "declaracion_personaje",
+      "Nox relata a Ione una relación pasada con una mujer a la que conocía como Marina; durante un viaje descubrió por cartas que se llamaba Molly y era capitana de la Marina. Dice que la dejó en una isla con una pistola y se marchó.",
+      [
+        "Nox",
+        "Ione",
+        "Molly (capitana de la Marina)"
+      ],
+      "la dejé en una isla",
+      "confesión reservada entre piratas",
+      [
+        "Nox",
+        "Ione"
+      ],
+      "desconocido",
+      "No se muestra ese pasado ni se conoce la versión de Molly. La infidelidad, el abandono y sus motivos son narrados por Nox. No se considera Marina otra capitana distinta por la formulación humorística."
+    ],
+    [
+      "00:29:00",
+      "00:33:15",
+      "Anillo del elfo y discusión sobre el imperio",
+      "hecho_confirmado",
+      "Erendriel muestra su anillo familiar con círculo, X y gema roja al preguntar a Jack por la Marina. Jack defiende las exploraciones o minería por el bien del imperio, mientras el elfo critica que el imperio proteja a los suyos. Durante su enfado, su pelo cambia a verde y aparecen flores.",
+      [
+        "Erendriel (grafía provisional)",
+        "Jack / Jackie (marine cautivo, variantes de apellido)",
+        "Anillo familiar del elfo",
+        "Imperio (nombre sin determinar)",
+        "Marina"
+      ],
+      "una gema rojiza",
+      "discusión entre elfo y marine",
+      [
+        "Erendriel (grafía provisional)",
+        "Jack / Jackie (marine cautivo, variantes de apellido)",
+        "Nox",
+        "Ione",
+        "Kilzer / Kilcer (grafía provisional)"
+      ],
+      "desconocido",
+      "No se identifica nombre del imperio ni de la familia. El cambio de aspecto se observa; no basta para asignar por conocimiento externo una subraza o estación."
+    ],
+    [
+      "00:31:50",
+      "00:34:45",
+      "Ropa intercambiada y oferta de botín",
+      "hecho_confirmado",
+      "Nox intercambia su ropa con la del marine para disfrazarse. Ofrece al visitante oro y al elfo documentos de tesoros o ruinas si ayudan a infiltrarse. Jack se aparta vestido de pirata; los comentarios sobre que no sobrevivirá son predicciones, sin muerte representada.",
+      [
+        "Nox",
+        "Jack / Jackie (marine cautivo, variantes de apellido)",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Erendriel (grafía provisional)"
+      ],
+      "un buque que robar",
+      "preparación e invitación a compañeros",
+      [
+        "Nox",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Erendriel (grafía provisional)",
+        "Ione"
+      ],
+      "desconocido",
+      "El elfo y el visitante reciben una invitación general a robar, no todavía el contenido completo del encargo contractual de Bonnie."
+    ],
+    [
+      "00:34:35",
+      "00:38:45",
+      "Molly desembarca sin reconocer a Nox",
+      "hecho_confirmado",
+      "La capitana desembarca con soldados, gorro negro y casaca roja. Ione arrastra a Nox, que se oculta bajo una cesta simulando estar borracho; pasan delante de la capitana, que desprecia a los piratas y continúa hacia la taberna sin reconocerlo expresamente.",
+      [
+        "Molly (capitana de la Marina)",
+        "Nox",
+        "Ione",
+        "Marina",
+        "Shiaru"
+      ],
+      "asco de piratas",
+      "desembarco y ocultación",
+      [
+        "Nox",
+        "Ione",
+        "Erendriel (grafía provisional)",
+        "Kilzer / Kilcer (grafía provisional)"
+      ],
+      "desconocido",
+      "No se presume que Molly lo haya reconocido en secreto ni que el disfraz tenga éxito fuera de este pasaje."
+    ],
+    [
+      "00:38:35",
+      "00:47:35",
+      "Tortugas marinas: nadar ocultos en barriles",
+      "hecho_confirmado",
+      "Ione propone usar barriles y desperdicios flotantes para acercarse al buque sin parecer una barca de intrusos. Nox prueba el sistema; Ione mete al visitante en un barril y lo lanza al agua. Los cuatro nadan camuflados hasta la popa mientras oscurece.",
+      [
+        "Nox",
+        "Ione",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Erendriel (grafía provisional)",
+        "Buque de Molly (nombre de nave sin confirmar)"
+      ],
+      "vais los cuatro en el agua",
+      "aproximación marítima",
+      [
+        "Nox",
+        "Ione",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Erendriel (grafía provisional)"
+      ],
+      "desconocido",
+      "Las tortugas son el nombre del plan y una comparación, no monturas utilizadas. La conversación sobre peces peligrosos es ajena al objetivo y no acredita un ataque real."
+    ],
+    [
+      "00:47:35",
+      "00:54:50",
+      "Cubierta vigilada e Ione descubierta",
+      "hecho_confirmado",
+      "Nox observa marines y dormitorios por los huecos de cañones. El visitante sube con ayuda de Ione y señala cuatro vigías o soldados en cubierta. Ione intenta escalar con el barril y el ruido hace que un vigía la descubra; los demás aprovechan la distracción.",
+      [
+        "Nox",
+        "Ione",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Erendriel (grafía provisional)",
+        "Marina",
+        "Buque de Molly (nombre de nave sin confirmar)"
+      ],
+      "vas haciendo ruido",
+      "entrada dividida en el buque",
+      [
+        "Ione",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Nox"
+      ],
+      "desconocido",
+      "El número cuatro es el recuento del visitante de lo visible, no una dotación completa del buque."
+    ],
+    [
+      "00:54:30",
+      "01:02:50",
+      "Nox conoce y libera a Lunaria",
+      "hecho_confirmado",
+      "Nox encuentra a una persona pequeña atada, amordazada y dormida en cubierta. Ella se suelta de las cuerdas con facilidad y él le retira la mordaza. Se presenta como Lunaria, admite el nombre Luna y se identifica como kender. Recupera sus pertenencias dejadas cerca.",
+      [
+        "Nox",
+        "Lunaria / Luna",
+        "Buque de Molly (nombre de nave sin confirmar)"
+      ],
+      "Una Kender",
+      "encuentro y liberación",
+      [
+        "Nox",
+        "Lunaria / Luna"
+      ],
+      "desconocido",
+      "Nox la toma inicialmente por niña, pero ella responde que es pequeña, no niña. No se fija edad numérica ni se atribuye minoría de edad por su tamaño."
+    ],
+    [
+      "01:00:00",
+      "01:04:50",
+      "Lunaria relata la captura de su barco y acepta ayudar",
+      "declaracion_personaje",
+      "Lunaria cuenta que los marines encontraron su barco, que sus compañeros se resistieron al abordaje y que cree ser la única que queda. Dice llevar años navegando por la libertad del mar. Nox le ofrece comida y alojamiento si ayuda a recuperar documentos; ella acepta y fingen que él escolta a una prisionera.",
+      [
+        "Lunaria / Luna",
+        "Nox",
+        "Marina",
+        "Barco anterior de Lunaria (nombre sin identificar)"
+      ],
+      "mis compañeros no eran",
+      "relato personal y acuerdo de colaboración",
+      [
+        "Lunaria / Luna",
+        "Nox"
+      ],
+      "desconocido",
+      "No se confirman individualmente las muertes de sus compañeros ni nombre del barco. Comida y viaje gratis es su forma de presentar la cautividad, no consentimiento probado al abordaje."
+    ],
+    [
+      "01:02:35",
+      "01:19:55",
+      "La distracción permite bajar a los compañeros",
+      "hecho_confirmado",
+      "Los marines persiguen a Ione, que corre por cubierta dentro del barril. Nox y Lunaria bajan interpretando órdenes de la capitana; Erendriel y el visitante se cuelan también. Nox tranca una salida y buscan el camarote o documentos en pisos inferiores; el visitante no logra ver a sus compañeros ocultos.",
+      [
+        "Ione",
+        "Nox",
+        "Lunaria / Luna",
+        "Erendriel (grafía provisional)",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Marina"
+      ],
+      "Soy un barril",
+      "distracción y descenso bajo cubierta",
+      [
+        "Ione",
+        "Nox",
+        "Lunaria / Luna",
+        "Erendriel (grafía provisional)",
+        "Kilzer / Kilcer (grafía provisional)"
+      ],
+      "desconocido",
+      "Conocen sus propias acciones, no necesariamente la posición de todos. Ione no sabe inicialmente qué salida trancó Nox."
+    ],
+    [
+      "01:24:00",
+      "01:30:15",
+      "Alimentos, frutas y candados",
+      "hecho_confirmado",
+      "Nox y Lunaria llegan a una despensa y una puerta cerrada con cadenas y candados. Nox come fruta y aumenta su musculatura; Lunaria toma una calabaza. Al reunirse el visitante y el elfo, las frutas desfasan la sombra del primero y vuelven azul la sangre del segundo; el pequeño dragón recibe mejora de ataques.",
+      [
+        "Nox",
+        "Lunaria / Luna",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Erendriel (grafía provisional)",
+        "Dragón joven del elfo (nombre sin confirmar)",
+        "Frutas de la selva (efectos de sesión)"
+      ],
+      "tu sombra tiene un leve desfase",
+      "exploración y efectos adjudicados",
+      [],
+      "desconocido",
+      "El director dice que la sombra no tiene efecto mecánico directo y los otros cambios duran la partida. No se afirma conversión permanente del elfo en otra raza ni nueva propiedad habitual de su sangre."
+    ],
+    [
+      "01:30:10",
+      "01:38:55",
+      "Ione recibe dos disparos y entra por una tronera",
+      "hecho_confirmado",
+      "Para escapar de los perseguidores, Ione salta por la borda, deja caer el barril al agua y usa sus capacidades de monje para engancharse a un cañón y entrar por un hueco del piso inferior. Durante la maniobra recibe dos disparos. Evita al cocinero, reconoce la puerta de los baños y baja por las escaleras.",
+      [
+        "Ione",
+        "Marina",
+        "Buque de Molly (nombre de nave sin confirmar)"
+      ],
+      "te meten los dos tiros",
+      "huida individual de Ione",
+      [
+        "Ione"
+      ],
+      "desconocido",
+      "No mata al cocinero ni demuestra que los soldados crean indefinidamente que murió o cayó al mar."
+    ],
+    [
+      "01:38:30",
+      "01:44:30",
+      "Lunaria abre candados con magia",
+      "hecho_confirmado",
+      "Lunaria consigue abrir los pequeños candados con sus herramientas, pero se atasca en uno grande. Utiliza Prestidigitación y el director permite accionar el mecanismo conocido mientras no sea mágico. Abre otra puerta del mismo modo, haciendo ver que usa ganzúas, y se guarda los candados.",
+      [
+        "Lunaria / Luna",
+        "Nox",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Erendriel (grafía provisional)"
+      ],
+      "Mientras no sea mágico",
+      "apertura de puertas adjudicada por el director",
+      [
+        "Lunaria / Luna",
+        "Nox",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Erendriel (grafía provisional)"
+      ],
+      "desconocido",
+      "Es una adjudicación de esta mesa; no se presenta como permiso general de las reglas oficiales de D&D. El nombre del truco se reconoce de varias formas en la fuente."
+    ],
+    [
+      "01:41:40",
+      "01:50:30",
+      "Armería saqueada y sabotaje",
+      "hecho_confirmado",
+      "Tras la primera puerta encuentran balas de cañón, munición de pistola, escudos y armas. El visitante sabotea varias pistolas; Erendriel toma una antes del sabotaje. La siguiente sala contiene documentos, cartas de navegación, números y facturas; Lunaria prefiere llevarse plumas y pequeños objetos.",
+      [
+        "Kilzer / Kilcer (grafía provisional)",
+        "Erendriel (grafía provisional)",
+        "Lunaria / Luna",
+        "Marina",
+        "Armería del buque de Molly"
+      ],
+      "saboteando las pistolas",
+      "robo y sabotaje bajo cubierta",
+      [
+        "Kilzer / Kilcer (grafía provisional)",
+        "Erendriel (grafía provisional)",
+        "Lunaria / Luna",
+        "Nox",
+        "Ione"
+      ],
+      "desconocido",
+      "No se confirma número de armas dañadas ni que toda la dotación quede inutilizada. La presencia de documentos no implica que todos sus textos se lean."
+    ],
+    [
+      "01:44:30",
+      "01:51:50",
+      "Reencuentro y curación de Ione",
+      "hecho_confirmado",
+      "Nox vigila la escalera y prepara una nota. Al oír pasos apunta con su pistola a quien baja, que es Ione. Ella reacciona intentando golpearlo, falla y lo reconoce. Nox la cura y advierten que deben irse; Erendriel la toca con una mano de brillo cálido verdoso o morado.",
+      [
+        "Nox",
+        "Ione",
+        "Erendriel (grafía provisional)"
+      ],
+      "le curo un poco",
+      "reencuentro bajo cubierta",
+      [
+        "Nox",
+        "Ione",
+        "Erendriel (grafía provisional)"
+      ],
+      "desconocido",
+      "El gesto del elfo se registra como observado, sin asignarle un conjuro no nombrado en ese instante. Nox piensa en tomar el barco, pero no se demuestra que lo consiga."
+    ],
+    [
+      "01:52:30",
+      "01:59:50",
+      "Carteles y falsa pista de camarote",
+      "hecho_confirmado",
+      "El director aclara que Erendriel no conoce el objetivo concreto de Bonnie: Nox solo les dijo que iban a robar un barco. El elfo recoge carteles de búsqueda de Nox e Ione y referencias de Puerto de Espadas. El visitante abre una puerta sin cerrar pensando hallar riquezas y descubre una zona sucia de literas y letrina, probable lugar de presos.",
+      [
+        "Erendriel (grafía provisional)",
+        "Nox",
+        "Ione",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Cartel de búsqueda de Nox",
+        "Cartel de búsqueda de Ione",
+        "Puerto de Espadas"
+      ],
+      "No te hemos contado nada",
+      "búsqueda y aclaración de conocimiento en la mesa",
+      [
+        "Erendriel (grafía provisional)",
+        "Kilzer / Kilcer (grafía provisional)"
+      ],
+      "desconocido",
+      "No se leen en voz alta nombres completos, delitos ni importes exactos de carteles. El comentario de precio igual no sustituye esa información ausente."
+    ],
+    [
+      "02:03:00",
+      "02:07:05",
+      "Contrato encontrado y nota dejada",
+      "hecho_confirmado",
+      "Nox investiga bajo la mesa y descubre una palanca que abre un compartimento oculto. Localiza un documento con la firma de Bonnie y se lo guarda. Entrega los otros documentos a Erendriel, deja la nota que escribió en el compartimento y vuelve a cerrarlo.",
+      [
+        "Nox",
+        "Erendriel (grafía provisional)",
+        "Happy Bonnie / Bonny (grafía provisional)",
+        "Molly (capitana de la Marina)",
+        "Contrato de Bonnie con Molly",
+        "Nota de Nox para Molly (contenido sin leer)"
+      ],
+      "la firma de Bonnie",
+      "registro del compartimento oculto",
+      [
+        "Nox",
+        "Erendriel (grafía provisional)"
+      ],
+      "desconocido",
+      "El contenido completo del contrato y de la nota no se revela. El motivo romántico de la nota se aclara después; no se inventa lo escrito."
+    ],
+    [
+      "02:06:15",
+      "02:10:55",
+      "Pólvora como garantía y guardia golpeado",
+      "hecho_confirmado",
+      "Nox toma un barril de pólvora y va dejando un reguero hacia la armería mientras suben. Un marine los ve; Nox lo atrae fingiendo ayuda para amarrar polizones, lo amenaza con la pistola e Ione lo golpea con Diálogo para aturdirlo. Otros hombres descubren la escena y comienza el enfrentamiento.",
+      [
+        "Nox",
+        "Ione",
+        "Marina",
+        "Diálogo (bate de Ione)",
+        "Armería del buque de Molly"
+      ],
+      "echando pólvora por el suelo",
+      "preparación de amenaza y choque con un guardia",
+      [
+        "Nox",
+        "Ione",
+        "Erendriel (grafía provisional)",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Lunaria / Luna"
+      ],
+      "desconocido",
+      "El golpe deja al guardia aturdido, sin muerte confirmada. El reguero se representa como precaución o amenaza de Nox, no como fuego ya encendido."
+    ],
+    [
+      "02:11:00",
+      "02:18:45",
+      "Magia salvaje y nueva herida",
+      "hecho_confirmado",
+      "Lunaria intenta dormir a los marines, pero la tirada de Sueño no alcanza sus puntos de vida y no duerme a ninguno. Activa una oleada de magia salvaje; el director adjudica vulnerabilidad al daño punzante a criaturas cercanas durante un minuto, incluyendo compañeros. Lunaria recibe un disparo con ese daño aumentado. Ione llega a la salida que Nox había trancado y no puede usarla inmediatamente.",
+      [
+        "Lunaria / Luna",
+        "Ione",
+        "Nox",
+        "Marina",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Erendriel (grafía provisional)"
+      ],
+      "vulnerabilidad al daño",
+      "combate y efectos de magia salvaje",
+      [],
+      "desconocido",
+      "No se trata la vulnerabilidad temporal como rasgo permanente. La discusión de escalera y puerta corrige posición en el mapa, no un movimiento de salida efectivamente realizado."
+    ],
+    [
+      "02:19:45",
+      "02:26:45",
+      "La amenaza de explosión hace bajar las armas",
+      "hecho_confirmado",
+      "Nox entrega una vela al visitante y amenaza a los marines con disparar al reguero de pólvora. Tras las tiradas de intimidación, varios bajan armas y otros no actúan. El visitante refuerza la amenaza con la vela y el elfo cubre al grupo. Ione sale por una tronera para preparar una barca de escape.",
+      [
+        "Nox",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Erendriel (grafía provisional)",
+        "Ione",
+        "Lunaria / Luna",
+        "Marina"
+      ],
+      "No van a entregar el barco",
+      "retirada bajo amenaza",
+      [
+        "Nox",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Erendriel (grafía provisional)",
+        "Ione",
+        "Lunaria / Luna",
+        "Marina"
+      ],
+      "desconocido",
+      "El director aclara que están asustados por la explosión, pero no entregan el buque. No equivale a conquista del navío ni capitulación permanente de su tripulación."
+    ],
+    [
+      "02:29:55",
+      "02:36:30",
+      "Fuego ilusorio y salida del grupo",
+      "hecho_confirmado",
+      "Lunaria crea una ilusión menor de fuego junto al reguero para asustar a los marines y sale por una tronera. Las tiradas hacen que todos los compañeros salvo Erendriel crean que el incendio es real. El elfo refuerza la apariencia y teletransporta al visitante hacia la barca. Nox también sale, tras dejar el barril a un marine.",
+      [
+        "Lunaria / Luna",
+        "Nox",
+        "Ione",
+        "Erendriel (grafía provisional)",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Marina"
+      ],
+      "os creéis la ilusión",
+      "engaño perceptivo y evacuación",
+      [
+        "Lunaria / Luna",
+        "Erendriel (grafía provisional)"
+      ],
+      "desconocido",
+      "Solo creadora y elfo saben aquí que es ilusión; los otros reaccionan según una creencia equivocada. La llama ilusoria todavía no es el incendio verdadero posterior."
+    ],
+    [
+      "02:36:00",
+      "02:41:35",
+      "La vela lanzada provoca un incendio real",
+      "hecho_confirmado",
+      "Cuando están saliendo en la barca, el visitante lanza al buque la vela que tenía. La adjudicación determina que empieza un incendio auténtico. Ione rema con esfuerzo adicional y llegan al muelle; ven llamas y humo del barco. Nox increpa al visitante y Lunaria demuestra que su fuego anterior era una ilusión.",
+      [
+        "Kilzer / Kilcer (grafía provisional)",
+        "Nox",
+        "Ione",
+        "Lunaria / Luna",
+        "Erendriel (grafía provisional)",
+        "Buque de Molly (nombre de nave sin confirmar)"
+      ],
+      "ha empezado a arder el barco",
+      "huida y consecuencia del lanzamiento de vela",
+      [
+        "Kilzer / Kilcer (grafía provisional)",
+        "Nox",
+        "Ione",
+        "Lunaria / Luna",
+        "Erendriel (grafía provisional)"
+      ],
+      "desconocido",
+      "El visitante cree inicialmente que el fuego ya era real. Culpar a Cipo es una broma o excusa; no se muestra a Cipo provocando este incendio. No se calcula número de muertos o daño estructural no narrado."
+    ],
+    [
+      "02:42:00",
+      "02:46:15",
+      "Molly y Bonnie reaccionan al incendio",
+      "hecho_confirmado",
+      "Molly sale de hablar con Bonnie y ve el buque en llamas. Se vuelve hacia ella, que responde que ha estado reunida y que sus hombres están allí. Molly ordena a sus soldados acudir al barco; Nox evita que lo reconozca y entrega a Bonnie los documentos recuperados.",
+      [
+        "Molly (capitana de la Marina)",
+        "Happy Bonnie / Bonny (grafía provisional)",
+        "Nox",
+        "Ione",
+        "Marina",
+        "Contrato de Bonnie con Molly"
+      ],
+      "Misión cumplida",
+      "regreso y entrega del encargo",
+      [
+        "Molly (capitana de la Marina)",
+        "Happy Bonnie / Bonny (grafía provisional)",
+        "Nox",
+        "Ione",
+        "Lunaria / Luna",
+        "Erendriel (grafía provisional)",
+        "Kilzer / Kilcer (grafía provisional)"
+      ],
+      "desconocido",
+      "La entrega cumple la sustracción de documentos, pero el incendio incumple la instrucción de no causar más problemas. No se establece que Molly acepte la coartada de Bonnie como verdad."
+    ],
+    [
+      "02:45:30",
+      "02:50:20",
+      "Lunaria revela la vela y Bonnie impone consecuencias",
+      "hecho_confirmado",
+      "Lunaria reproduce con figuras ilusorias cómo ocurrió la huida y muestra al visitante lanzando la vela, pese a que él niega culpa. Bonnie anuncia que la deuda de Nox e Ione subirá bastante, agradece al hada la explicación y anuncia trabajos especiales para el visitante. Reprocha al elfo no haber impedido el lanzamiento cuando sabía que era ilusión.",
+      [
+        "Lunaria / Luna",
+        "Happy Bonnie / Bonny (grafía provisional)",
+        "Nox",
+        "Ione",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Erendriel (grafía provisional)"
+      ],
+      "trabajitos para ti especiales",
+      "rendición de cuentas ante Bonnie",
+      [
+        "Happy Bonnie / Bonny (grafía provisional)",
+        "Nox",
+        "Ione",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Lunaria / Luna",
+        "Erendriel (grafía provisional)"
+      ],
+      "desconocido",
+      "Lunaria es kender, no hada: el uso de niña o pequeña en el diálogo no cambia su especie. La cifra del aumento de deuda no se indica; los trabajos no se especifican aún."
+    ],
+    [
+      "02:50:25",
+      "02:52:50",
+      "Explosión y preocupación por la nota",
+      "hecho_confirmado",
+      "El director narra una explosión en el buque mientras Nox lo observa apenado. Nox dice que le preocupa que Molly no lea la nota, no la pérdida del barco. Ione le aconseja alejarse de mujeres que no le convienen; Nox propone aprovechar el pacto de Bonnie con Molly.",
+      [
+        "Buque de Molly (nombre de nave sin confirmar)",
+        "Nox",
+        "Ione",
+        "Molly (capitana de la Marina)",
+        "Nota de Nox para Molly (contenido sin leer)",
+        "Contrato de Bonnie con Molly"
+      ],
+      "explota el barco",
+      "consecuencia del incendio y diálogo posterior",
+      [
+        "Nox",
+        "Ione"
+      ],
+      "desconocido",
+      "La explosión no demuestra por sí sola hundimiento completo, muerte de toda la tripulación ni imposibilidad absoluta de leer la nota. No se muestra a Molly leyendo o rechazándola."
+    ],
+    [
+      "02:52:20",
+      "02:58:00",
+      "Persiguen al visitante y Nox se interesa por los mapas",
+      "hecho_confirmado",
+      "Ione y Lunaria siguen al visitante que se aleja, usando su sombra desfasada como pista. Nox quiere mantenerlo vivo para hablar y camina con Erendriel, que conserva dos mapas y otros documentos. El elfo dice que se le da bien localizar e investigar, aludiendo al oficio de su familia. Molly aparece acercándose en barca al buque y maldiciendo por lo ocurrido.",
+      [
+        "Ione",
+        "Lunaria / Luna",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Nox",
+        "Erendriel (grafía provisional)",
+        "Molly (capitana de la Marina)",
+        "Documentos y mapas del buque"
+      ],
+      "curiosos los mapas",
+      "cierre con grupos separados",
+      [
+        "Ione",
+        "Lunaria / Luna",
+        "Nox",
+        "Erendriel (grafía provisional)"
+      ],
+      "desconocido",
+      "La referencia exacta de dos mapas aparece antes en el regreso y se conserva como inventario de documentos, no contenido cartográfico reconstruido. La nueva forma en que el elfo pide que lo llamen al final está mal reconocida y no se fija como nombre confirmado."
+    ]
+  ],
+  "misiones": [
+    "Sustraer el contrato y los documentos firmados por Bonnie mientras la capitana la visita: encargo 05-008, hallazgo oculto 05-024 y entrega 05-030. Cumplida la recuperación documental; incendio y explosión provocan aumento de deuda y trabajos especiales anunciados, sin términos precisados (05-031).",
+    "Robar objetos del buque como incentivo a compañeros: sabotaje de varias pistolas, pistola tomada por el elfo, plumas/candados/munición/calabaza de Lunaria y vino del visitante; mapas y documentos conservados por Erendriel. No se reconstruye inventario cuantitativo de todos los objetos (05-018, 05-020–05-023, 05-024, 05-033).",
+    "Escapar de los marines: intimidación mediante pólvora logra cese de ataques y barca preparada por Ione (05-027). Ilusión permite evacuar, pero la vela lanzada provoca fuego real (05-028–05-029). Los cinco llegan a tierra; no se muestra muerte de integrante del grupo.",
+    "Lunaria busca nueva libertad/alojamiento: se libera y acepta colaborar con Nox (05-015–05-016), participa en huida y continúa con el grupo. No hay cama asignada ni ingreso definitivo en tripulación documentado.",
+    "Reunir a Jack con Lucy: deseo del marine y promesa de Nox, no cumplidos en este capítulo (05-003, 05-007 y 05-011).",
+    "Negocio de pieles del visitante y búsqueda de residencia de Erendriel: relatados al inicio sin ingresos o hogar establecido (05-002).",
+    "Nota de Nox para Molly: dejada en compartimento oculto; incendio hace temer que no la lea, sin lectura mostrada (05-024, 05-032)."
+  ],
+  "preguntas": [
+    "¿Qué condiciones exactas incluye el contrato de Bonnie y Molly? Se habla de diezmo y permiso, pero no se lee completo. ¿Hay otras copias? No se demuestra anulación legal por robarlo (05-008 y 05-024).",
+    "¿Qué escribió Nox en su nota? ¿Molly la encontrará o sobrevivió al incendio? Contenido y lectura desconocidos (05-024, 05-032).",
+    "¿Qué hará Molly tras el incendio y la explosión? ¿Quiénes sobrevivieron entre la tripulación del buque? El cierre muestra su barca acercándose, sin balance de víctimas (05-029–05-033).",
+    "¿Cuál será el nuevo saldo de deuda y qué trabajos dará Bonnie al visitante? Anuncio sin cifras ni tarea concreta (05-031).",
+    "¿Dónde queda Jack y logra volver con Lucy? Se lo aparta de la Marina y se aleja con ropa de pirata; no hay desenlace (05-007, 05-011).",
+    "¿Qué muestran los dos mapas y los otros documentos de Puerto de Espadas conservados por Erendriel? El texto no se lee (05-024, 05-033).",
+    "¿Qué ocurrió exactamente entre Nox y Molly en el pasado? Por ahora solo está su confesión de haberla abandonado tras descubrir su puesto (05-009).",
+    "¿Se identificarán nombre de familia y nombre preferido de Erendriel? Anillo y cambio de aspecto observados, palabras finales del nombre imprecisas (05-010, 05-033)."
+  ],
+  "contradicciones": [
+    "El director cree inicialmente que Kilzer estuvo en la mina del capítulo 3, pero el jugador corrige su ausencia y el director acepta (05-004). No atribuirle recuerdo del centinela capturado.",
+    "Bonnie pide apartar a Jack; la interpretación de matarlo es rechazada por el director (05-007).",
+    "Nox presenta a Jack como integrante y exmarine, mientras Jack rechaza participar y quiere volver con Lucy (05-003). No hay consentimiento acreditado ni baja formal documentada.",
+    "La kender Lunaria es confundida con una niña por varios interlocutores, pero ella se define pequeña y no niña (05-015). Tamaño no confirma edad.",
+    "El visitante había negado saber del collar pese al hallazgo y reparto del capítulo 4. Nox cree inicialmente su negativa y el elfo detecta dudas (05-005 frente a 04-020–04-022).",
+    "El encargo preciso solo lo conocen Bonnie y los dos piratas; el director corrige a Erendriel cuando presupone conocerlo (05-023). Estar en el grupo no transmite automáticamente el contenido del contrato.",
+    "Fuego inicial: ilusión de Lunaria creída real por los compañeros salvo el elfo (05-028). Fuego posterior: real, provocado por vela del visitante (05-029). No se fusionan las causas ni se culpa a Cipo por las bromas.",
+    "El visitante niega responsabilidad ante Bonnie, pero la narración de la vela y las figuras de Lunaria lo contradicen (05-029–05-031). Su creencia equivocada sobre la ilusión explica la acción sin borrar su autoría.",
+    "Misión documental cumplida frente a misión sin problemas incumplida: entrega del contrato y documentos, seguida de aumento de deuda por incendio (05-030–05-031). No declarar éxito sin consecuencias.",
+    "La apertura de candados mediante Prestidigitación es admitida por el director con condición de mecanismo conocido y no mágico; no se transforma en regla oficial externa (05-020)."
+  ],
+  "nombres_dudosos": [
+    "Jack, Jacky, Jack Jackson y Jackie Johnson: el marine de la mina del 3, presentado directamente como Jack en el 5. Apellido pendiente, sin desdoblar personajes.",
+    "Lucy: nombre dado por Nox para la esposa del marine; la relación también la declara Jack. Rumores de infidelidad no confirmados.",
+    "Molly: capitana desembarcada y nombrada expresamente al final; Nox dice haberla conocido bajo el nombre Marina. No separar automáticamente dos personas por ese juego de palabras.",
+    "Lunaria/Lunaría/Luna: nueva PJ que se presenta como kender y permite el apodo Luna. No confundir con Blink/Blank, hada del capítulo 3.",
+    "Nombre preferido que el elfo pide a 02:56 queda reconocido como llamarri y Nosi; insuficiente para corregir a Iri u otro nombre imaginado. Mantener Erendriel provisional hasta una evidencia más clara.",
+    "Marina Real e imperio aparecen como denominaciones genéricas de personajes; no hay nombre propio inequívoco del imperio ni cofradía mercantil del emblema.",
+    "Nley/Ionenley: variantes del nombre completo de Ione sin grafía confirmada en los subtítulos. Mantener Ione como nombre de referencia.",
+    "El barco de Molly no tiene nombre propio leído en esta sesión; el Zampaolas sigue siendo la nave averiada de Nox e Ione, distinta del buque incendiado."
+  ]
+}

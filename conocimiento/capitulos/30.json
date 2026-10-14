@@ -1,0 +1,657 @@
+{
+  "capitulo": 30,
+  "estado_revision": "revisado",
+  "resumen": "Leona y Guayacán regresan a Cuicapalli después de perderse mientras buscaban un alquimista que pudiera ayudar a Eromov. Luna estudia ingredientes sin conocer sus propiedades. Winscore llega desde Shiaru por recomendación de Patata. Eromov presenta manchas verdes y el kenku Parroter intenta tratarlo. Luna reconoce semejanzas con el veneno de los hombres serpiente; Winscore determina que fue ingerido. El deterioro comenzó tras unas reuniones con dirigentes de Tutucan y dos visitantes de la tribu de la Hoja Caída, que se había instalado en una cueva al norte. Eromov encarga investigar al grupo y pide a Leona que medie para evitar una guerra injustificada. En la cueva, Winscore detecta que una mujer disimula su sorpresa y que sus pupilas cambian. El grupo se infiltra y encuentra charcas venenosas conectadas entre sí. Luna recoge una muestra. Emboscan a la mujer y la matan antes de poder interrogarla. Dentro encuentran a otra mujer serpiente trabajando ante un caldero, guardias y criaturas que emergen de las charcas. Guayacán la sujeta, pero la influencia del miedo lo lleva a soltarla; después ella lo atrapa con la cola. Las bolas de fuego de Luna destruyen parte de la instalación. La muerte de la mujer provoca una explosión psíquica que derriba a Guayacán, al que Luna cura. Tras vencer, recogen veneno derramado, restos de plantas, colmillos, una glándula, cabezas y el cadáver de un cautivo envenenado. Los guardias de Cuicapalli exigen aislar las muestras, que quedan en la casa de Leona. Eromov manda a Parroter investigarlas; todavía no se ha obtenido una cura. Winscore vende un hacha de coral y una obsidiana por siete monedas, y compra un escudo más uno por veinte. El grupo descansa y Luna reconoce que el fuego ha destruido parte de las pruebas.",
+  "misiones": [
+    "Investigar la enfermedad de Eromov: se diagnostica un envenenamiento por ingestión. El grupo investiga la Hoja Caída, derrota a los hombres serpiente y entrega muestras y restos para que Parroter los estudie en la casa de Leona. La cura sigue pendiente (30-004–30-007 y 30-017–30-020).",
+    "Mediar en la investigación: Eromov pide a Leona que evite una guerra contra inocentes. El grupo descubre un disfraz y combate, pero no conserva prisioneros vivos para interrogarlos (30-007, 30-009 y 30-011–30-016).",
+    "Equipar a Winscore: vende un hacha de coral y una obsidiana por siete monedas, compra un escudo más uno por veinte y conserva dos monedas (30-021)."
+  ],
+  "preguntas": [
+    "¿Conseguirá Parroter un antídoto y sobrevivirá Eromov? La investigación comienza, pero la curación no se muestra (30-020 y 30-022).",
+    "¿Quién añadió el veneno a la comida y quiénes eran las dos visitantes? La infiltración de la Hoja Caída es una sospecha fundada, pero no se muestra la contaminación ni se obtiene una confesión (30-005, 30-006 y 30-009).",
+    "¿Quedaban cautivos vivos tras la reja? La mayoría parecen muertos y solo se retira un cadáver; no se resuelve el estado de posibles supervivientes (30-017).",
+    "¿Adónde envió Eromov a Naór y llegó ella a su destino? La transcripción recoge una expresión incierta, Naoritan, que no permite fijarlo (30-020).",
+    "¿Qué otros grupos de hombres serpiente están despertando y qué aliados tienen? Los informes locales no describen toda su organización (30-020)."
+  ],
+  "contradicciones": [
+    "Leona es una harengon y Naór una leonina del sur. Eromov expresa una posibilidad de liderazgo futuro para Leona; no realiza un nombramiento (30-001, 30-007 y 30-020).",
+    "El director sitúa el mapa de Luna en Kuroto; no es una guía de Cuicapalli ni identifica por sí solo todos sus mapas anteriores (30-004).",
+    "Eromov no participó en el combate previo. El diagnóstico es de veneno ingerido tras las reuniones, no de una herida de batalla (30-005).",
+    "La primera mujer muere sin que se declarara un ataque no letal. El grupo quería capturar a la segunda, pero Luna la mata. No se interroga a ninguna con vida ni se ejecuta Hablar con muertos (30-011, 30-015 y 30-018).",
+    "Guayacán decide soltar a la cautiva al interpretar su miedo; la condición no le impone automáticamente huir. Después, ella lo atrapa con la cola (30-013–30-014).",
+    "El token de la mujer se reactiva para resolver la explosión en la interfaz; eso no representa una resurrección dentro de la historia (30-015).",
+    "El director permite Bola de fuego y Palabra sanadora en el mismo turno mediante una regla de la mesa; no se presenta como regla oficial (30-015).",
+    "La victoria proporciona pruebas para investigar una cura. Eromov sigue enfermo, pese a las expresiones optimistas de Leona (30-020 y 30-022)."
+  ],
+  "nombres_dudosos": [
+    "Leona es una harengon bárbara que vive en Cuicapalli y tiene una casa allí. Es distinta de Naór.",
+    "Winscore, Winscor, Wiscor y Whiscor son variantes de la transcripción para el mismo viajero enano recomendado por Patata.",
+    "Eromov, Eremov y Herbov son grafías recogidas para el líder elefante de Cuicapalli.",
+    "Parroter o Para Rotter es el alquimista kenku que intenta tratar al líder. Su relación con el kenku de escenas anteriores debe apoyarse en la continuidad; no es Guayacán.",
+    "Naoritan aparece cuando Eromov habla del envío de Naór. Puede unir su nombre y un destino, pero no acredita un apellido nuevo.",
+    "Hoja Caída es el nombre de la tribu o aldea que envió una misiva. La expedición descubre hombres serpiente en su instalación."
+  ],
+  "fuente_sha256": "020f3248a36065c2fd11c7dc19216241baa6976a223cdb5fe8097a0c4cc8fd60",
+  "afirmaciones": [
+    {
+      "id": "30-001",
+      "titulo": "Leona harengon, Guayacán y Winscore en camino",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Leona, presentada como una harengon bárbara, buscó ayuda de un alquimista con su amigo Guayacán. Se perdieron y regresaron a Cuicapalli; pierden tres y cinco monedas, respectivamente. Guayacán repara su traje tras el ataque anterior y busca alimentos vegetales. Luna explora ingredientes sin conocer sus propiedades. Winscore, un enano, sale de Shiaru hacia Cuicapalli por recomendación de Patata, quien lo orienta.",
+      "inicio": "00:00:00.000",
+      "fin": "00:05:25.000",
+      "cita": "nuestra Harengon bárbaro",
+      "evidencia_cue": {
+        "inicio": "00:00:39.879",
+        "fin": "00:00:42.709",
+        "texto": "esto? Harengon, nuestra Harengon bárbaro, nuestra Leona que qué ha estado"
+      },
+      "entidades": [
+        "Leona (harengon bárbara)",
+        "Guayacán Epinayu (grafía provisional)",
+        "Lunaria / Luna",
+        "Winscore (enano, grafía provisional)",
+        "Patata / Patatamán (grafía provisional)",
+        "Cuicapalli"
+      ],
+      "ambito": "recapitulaciones",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Leona y Naór son personajes distintos. Naór se menciona después y no participa en este grupo."
+    },
+    {
+      "id": "30-002",
+      "titulo": "Winscore admitido bajo responsabilidad de Luna",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Los habitantes de Cuicapalli llevan recursos a la cabaña del jefe enfermo. El chamán lleva dos días intentando ayudarlo. Un guardia detiene a Winscore, al que identifica como extranjero, aunque no viste de azul, y no sabe interpretar su mapa. La referencia a Patata permite avanzar cuando Luna afirma conocerlo y se responsabiliza de avisar si hace algo extraño. Luna intenta pintar la cara del enano como si fuera una tradición, sin confirmación de los habitantes. Alfredo aparece únicamente en bromas de los jugadores.",
+      "inicio": "00:05:00.000",
+      "fin": "00:12:55.000",
+      "cita": "Tú ser extranjero",
+      "evidencia_cue": {
+        "inicio": "00:07:26.960",
+        "fin": "00:07:31.629",
+        "texto": "Es que saca así como el de estos que haces y dice, \"Tú ser extranjero.\""
+      },
+      "entidades": [
+        "Cuicapalli",
+        "Winscore (enano, grafía provisional)",
+        "Lunaria / Luna",
+        "Patata / Patatamán (grafía provisional)",
+        "Eromov (líder de Cuicapalli, grafía provisional)"
+      ],
+      "ambito": "llegada y vigilancia",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Las bromas sobre Alfredo o José no establecen nombres del canon ni un pasaporte formal."
+    },
+    {
+      "id": "30-003",
+      "titulo": "Luna es admitida como chamán e interfiere en el trabajo de Parroter",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Leona busca al chamán y Luna afirma que puede curar maldiciones, sin demostrar una capacidad concreta. Leona y Guayacán la llevan ante el jefe. Los guardias responsabilizan a Leona y permiten que Winscore acompañe al grupo. Parroter, un kenku, examina al elefante. Luna mete la cabeza en una bolsa para imitarlo, mientras él intenta apartarla. La imitación de sus palabras no constituye un ritual de ayuda.",
+      "inicio": "00:12:00.000",
+      "fin": "00:19:55.000",
+      "cita": "no molestéis a parroter",
+      "evidencia_cue": {
+        "inicio": "00:18:29.159",
+        "fin": "00:18:33.830",
+        "texto": "Venga, pasa. Pero no toquéis nada y no molestéis a parroter."
+      },
+      "entidades": [
+        "Leona (harengon bárbara)",
+        "Lunaria / Luna",
+        "Guayacán Epinayu (grafía provisional)",
+        "Winscore (enano, grafía provisional)",
+        "Parroter (alquimista kenku de Cuicapalli)",
+        "Eromov (líder de Cuicapalli, grafía provisional)"
+      ],
+      "ambito": "acceso y cuidados",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": ""
+    },
+    {
+      "id": "30-004",
+      "titulo": "Marcas verdes y veneno similar al de las serpientes",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Eromov está tumbado y atribuye su estado al cansancio, pero presenta manchas verdes alrededor de los ojos y por el cuerpo. Una tirada de Medicina permite a Luna reconocer semejanzas con el veneno de los hombres serpiente a los que se enfrentaron antes; no determina su composición. La tirada de Naturaleza solo sugiere una zona húmeda como posible procedencia. Luna muestra un mapa aleatorio de Kuroto, otra isla al oeste según el director, que no ofrece una ruta local. Proponen obtener veneno para preparar un antídoto.",
+      "inicio": "00:19:00.000",
+      "fin": "00:26:40.000",
+      "cita": "parecido a ese veneno",
+      "evidencia_cue": {
+        "inicio": "00:22:09.440",
+        "fin": "00:22:13.070",
+        "texto": "parecido a ese veneno que habías visto luchando"
+      },
+      "entidades": [
+        "Eromov (líder de Cuicapalli, grafía provisional)",
+        "Lunaria / Luna",
+        "Parroter (alquimista kenku de Cuicapalli)",
+        "Mapa de Kuroto mostrado por Luna",
+        "Hombres serpiente y veneno de Cuicapalli"
+      ],
+      "ambito": "diagnóstico preliminar",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se identifica el veneno exacto ni se fabrica una cura. Que este mapa sea de Kuroto no prueba que el del capítulo 16 fuera el mismo."
+    },
+    {
+      "id": "30-005",
+      "titulo": "Envenenamiento por ingestión tras una reunión",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Eromov dice que no participó en el combate anterior, pero sí en reuniones con dirigentes de tribus, algunos recién llegados. Un guardia sitúa su deterioro después de las reuniones con líderes de Tutucan y dos mujeres de una aldea nueva, con comida preparada por Tacha. Una tirada de Medicina de Winscore identifica veneno ingerido, no inyectado. Guayacán propone que los hombres serpiente cambiaran de apariencia, algo que el guardia no presenció. Winscore sospecha una infiltración o traición y pide avisar a los dirigentes de Tutucan por una posible exposición.",
+      "inicio": "00:26:00.000",
+      "fin": "00:31:55.000",
+      "cita": "ha sido ingerido",
+      "evidencia_cue": {
+        "inicio": "00:30:06.559",
+        "fin": "00:30:09.389",
+        "texto": "parecía que tenías la pista, ha sido ingerido, no ha sido una cosa inyectada,"
+      },
+      "entidades": [
+        "Eromov (líder de Cuicapalli, grafía provisional)",
+        "Winscore (enano, grafía provisional)",
+        "Guayacán Epinayu (grafía provisional)",
+        "Tacha (tabernero hiena, grafía provisional)",
+        "Tutucan",
+        "Dos mujeres de tribu Hoja Caída",
+        "Hombres serpiente y veneno de Cuicapalli"
+      ],
+      "ambito": "diagnóstico y sospechas",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Todavía no se identifica al culpable. Preparar la comida no demuestra que Tacha la envenenara. No se informa de otros enfermos ni se confirma que el aviso llegara a Tutucan."
+    },
+    {
+      "id": "30-006",
+      "titulo": "Autor del veneno todavía sin confesión",
+      "tipo": "especulacion_jugadores",
+      "afirmacion": "Winscore y Guayacán plantean que hubiera un invitado traidor o hombres serpiente disfrazados en la reunión. El diagnóstico de ingestión y la presencia de las visitantes justifican investigar la Hoja Caída. El disfraz descubierto después y la instalación de hombres serpiente refuerzan esa sospecha, pero no hay una confesión ni una escena que muestre quién añadió el veneno a la comida.",
+      "inicio": "00:27:00.000",
+      "fin": "00:34:40.000",
+      "cita": "Tal vez la tribu que dijeron que fue nueva",
+      "evidencia_cue": {
+        "inicio": "00:31:54.159",
+        "fin": "00:31:56.269",
+        "texto": "Tal vez la tribu que dijeron que fue nueva."
+      },
+      "entidades": [
+        "Winscore (enano, grafía provisional)",
+        "Guayacán Epinayu (grafía provisional)",
+        "Eromov (líder de Cuicapalli, grafía provisional)",
+        "Dos mujeres de tribu Hoja Caída",
+        "Tacha (tabernero hiena, grafía provisional)"
+      ],
+      "ambito": "hipótesis de envenenamiento",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La investigación no prueba la culpabilidad de Tacha ni identifica a estas visitantes con las dos mujeres del capítulo 16."
+    },
+    {
+      "id": "30-007",
+      "titulo": "Hoja Caída y encargo de mediación",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Eromov recibió semanas antes una misiva de la tribu de la Hoja Caída, asentada en una cueva al norte, junto al sendero anterior a los pantanos. Los exploradores vieron a cinco personas en una tienda interior; les dijeron que las demás estaban cazando. Estiman espacio para menos de veinte. Las dos mujeres se presentaron de forma agradable y colaboraron. Eromov pide a Leona que acompañe la investigación y medie para evitar una guerra injustificada; añade que quizá llegue a ser una gran líder. Ella se proclama líder por su cuenta y Guayacán se ofrece a protegerla.",
+      "inicio": "00:31:00.000",
+      "fin": "00:37:55.000",
+      "cita": "tú ser mediador, mediadora",
+      "evidencia_cue": {
+        "inicio": "00:35:42.800",
+        "fin": "00:35:47.270",
+        "texto": "a investigar esa nueva tribu, pero tú ser mediador, mediadora,"
+      },
+      "entidades": [
+        "Eromov (líder de Cuicapalli, grafía provisional)",
+        "Leona (harengon bárbara)",
+        "Guayacán Epinayu (grafía provisional)",
+        "Winscore (enano, grafía provisional)",
+        "Tribu de la Hoja Caída",
+        "Cueva de la Hoja Caída"
+      ],
+      "ambito": "informes y misión diplomática",
+      "conocedores": [
+        "Eromov (líder de Cuicapalli, grafía provisional)",
+        "Leona (harengon bárbara)",
+        "Guayacán Epinayu (grafía provisional)",
+        "Winscore (enano, grafía provisional)",
+        "Lunaria / Luna"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se realiza un nombramiento ni se confirma que la tribu tenga veinte miembros. La distancia de cuatro o cinco días corresponde al pantano; no fija todo el trayecto a la cueva."
+    },
+    {
+      "id": "30-008",
+      "titulo": "Frutas y ruinas con monos antes de la cueva",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Viajan al norte por la jungla sin detectar perseguidores. Las frutas dan a Leona una lengua que alcanza objetos pequeños a diez pies; aumentan un cincuenta por ciento el peso del equipo de Guayacán, sin ralentizarlo porque lleva poco; dan ventaja a Luna para agarrar, y añaden dos D6 a los críticos de Winscore. No encuentran huellas útiles: Guayacán identifica las de Luna. Winscore explora unas ruinas y encuentra dos monos, no una tarrasca como se bromea.",
+      "inicio": "00:37:00.000",
+      "fin": "00:46:55.000",
+      "cita": "Tus ataques críticos",
+      "evidencia_cue": {
+        "inicio": "00:41:22.359",
+        "fin": "00:41:23.630",
+        "texto": "wow. Está bueno. Tus ataques críticos [risas] se aplica"
+      },
+      "entidades": [
+        "Leona (harengon bárbara)",
+        "Guayacán Epinayu (grafía provisional)",
+        "Lunaria / Luna",
+        "Winscore (enano, grafía provisional)",
+        "Frutas de Xoltacan"
+      ],
+      "ambito": "viaje y efectos",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Los efectos corresponden al día o la sesión; no son mejoras permanentes. Las bromas sobre animales no representan ataques ocurridos."
+    },
+    {
+      "id": "30-009",
+      "titulo": "Recepción de la Hoja Caída y cambio de una pupila",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Leona anuncia la visita a voces. Una mujer sale agachada y reconoce al jefe de Cuicapalli. Leona se presenta como futura dirigente, aunque sus compañeros aclaran que no está decidido. Winscore explica el envenenamiento y detecta que la sorpresa de la mujer parece fingida, además de ver que sus pupilas se alargan. El grupo presume de poder matar a treinta soldados, una afirmación que resulta parcialmente persuasiva. La mujer los invita a entrar, pero Winscore pide que avise primero y propone esperar fuera. Cuando se marcha, advierte a sus compañeros de una posible emboscada de hombres serpiente.",
+      "inicio": "00:46:00.000",
+      "fin": "00:54:55.000",
+      "cita": "esa pupila de repente pues se cambia alargada",
+      "evidencia_cue": {
+        "inicio": "00:50:50.640",
+        "fin": "00:50:51.190",
+        "texto": "esa pupila de repente pues se cambia alargada."
+      },
+      "entidades": [
+        "Leona (harengon bárbara)",
+        "Winscore (enano, grafía provisional)",
+        "Guayacán Epinayu (grafía provisional)",
+        "Lunaria / Luna",
+        "Mujer disfrazada de Hoja Caída",
+        "Tribu de la Hoja Caída",
+        "Eromov (líder de Cuicapalli, grafía provisional)"
+      ],
+      "ambito": "indicio y precaución",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "El cambio de pupilas refuerza la sospecha de un disfraz. No demuestra por sí solo quién envenenó a Eromov."
+    },
+    {
+      "id": "30-010",
+      "titulo": "Charcas venenosas conectadas y muestra tomada",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Winscore utiliza magia que añade diez a las tiradas de sigilo de quienes están cerca, y entran por un lateral. Las charcas huelen a una mezcla alquímica; el director confirma que contienen un veneno de tipo desconocido. Leona está a punto de beber, pero desiste cuando emerge un cadáver parcialmente esquelético. Luna recoge una muestra en su cantimplora. Winscore oye un flujo que conecta las charcas con el interior, como otra posible entrada, aunque no las atraviesan. Se esconden y la mujer vuelve por el camino sin detectarlos; una corrección de la tirada mantiene su ocultación.",
+      "inicio": "00:54:00.000",
+      "fin": "01:03:55.000",
+      "cita": "Pero sí te puedo asegurar que es veneno",
+      "evidencia_cue": {
+        "inicio": "00:57:58.680",
+        "fin": "00:58:02.270",
+        "texto": "Ah, okay. Pero sí te puedo asegurar que es veneno."
+      },
+      "entidades": [
+        "Winscore (enano, grafía provisional)",
+        "Lunaria / Luna",
+        "Leona (harengon bárbara)",
+        "Guayacán Epinayu (grafía provisional)",
+        "Cueva de la Hoja Caída",
+        "Muestras de veneno de Hoja Caída"
+      ],
+      "ambito": "investigación y sigilo",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se establece que el líquido sea ácido por los términos usados en la mesa. Leona finalmente no lo bebe."
+    },
+    {
+      "id": "30-011",
+      "titulo": "Mujer disfrazada muere sin captura",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Leona embosca a la mujer con un hacha. Su disfraz empieza a deshacerse y la enemiga contraataca. Guayacán la golpea con el taburete y la mata; nadie había declarado a tiempo que el ataque fuera no letal. Winscore quería interrogarla. El monje oculta el cadáver en la jungla y el grupo continúa entrando en sigilo, sin obtener información de una prisionera viva.",
+      "inicio": "01:03:00.000",
+      "fin": "01:08:55.000",
+      "cita": "se muere. Yo dije",
+      "evidencia_cue": {
+        "inicio": "01:06:25.520",
+        "fin": "01:06:27.109",
+        "texto": "que por eso así que [risas] se muere. Yo dije, yo"
+      },
+      "entidades": [
+        "Leona (harengon bárbara)",
+        "Guayacán Epinayu (grafía provisional)",
+        "Taburete plegable mágico de Guayacán",
+        "Mujer disfrazada de Hoja Caída",
+        "Winscore (enano, grafía provisional)"
+      ],
+      "ambito": "emboscada mortal",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": ""
+    },
+    {
+      "id": "30-012",
+      "titulo": "Mujer del caldero capturada inicialmente",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Encuentran a una mujer serpiente ante un caldero, a un hombre junto a una reja en el suelo y ruidos procedentes de una tienda. Quieren capturar a la mujer porque su actividad sugiere que podría preparar el veneno. Luna crea una ilusión menor de una armadura para distraerla; la mujer detecta la anomalía y busca su causa. El grupo inicia un ataque sorpresa. Guayacán corre usando ki y la agarra, pero no puede arrastrarla porque se ancla al caldero con la cola. Luna dispara fuego al guardia, Leona se aproxima en furia y Winscore utiliza el arco.",
+      "inicio": "01:08:00.000",
+      "fin": "01:17:55.000",
+      "cita": "la cola la ataría",
+      "evidencia_cue": {
+        "inicio": "01:16:49.960",
+        "fin": "01:16:53.430",
+        "texto": "arrastrar y ves que era como la serpiente la cola la ataría en el en el"
+      },
+      "entidades": [
+        "Mujer serpiente del caldero de Hoja Caída",
+        "Guayacán Epinayu (grafía provisional)",
+        "Lunaria / Luna",
+        "Leona (harengon bárbara)",
+        "Winscore (enano, grafía provisional)",
+        "Cueva de la Hoja Caída"
+      ],
+      "ambito": "combate y intento captura",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se desplaza a la cautiva ni se obtiene una confesión. Su posible condición de alquimista se deduce de la actividad observada."
+    },
+    {
+      "id": "30-013",
+      "titulo": "Guayacán inmoviliza a la mujer y recibe terror psíquico",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Otro hombre serpiente sale de la tienda y dispara. Guayacán golpea y derriba a la mujer, dejándolos a ambos restringidos; utiliza la ventaja de Grappler después de una aclaración de la mesa. Ella le susurra palabras de terror y le causa daño psíquico. Guayacán ve una enorme serpiente de pesadilla, falla la salvación de Inteligencia y queda asustado. Las flechas enemigas alcanzan a Winscore, quien inicialmente mantiene la concentración.",
+      "inicio": "01:18:00.000",
+      "fin": "01:27:55.000",
+      "cita": "la serpiente de tus pesadillas",
+      "evidencia_cue": {
+        "inicio": "01:27:27.520",
+        "fin": "01:27:30.109",
+        "texto": "serpiente, ves una serpiente enorme, o sea, la serpiente de tus pesadillas,"
+      },
+      "entidades": [
+        "Guayacán Epinayu (grafía provisional)",
+        "Mujer serpiente del caldero de Hoja Caída",
+        "Winscore (enano, grafía provisional)",
+        "Hombres serpiente de Hoja Caída"
+      ],
+      "ambito": "terror e inmovilización",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "El miedo impide acercarse y dificulta ciertos ataques, pero no obliga automáticamente a huir. Guayacán decide soltarla después al interpretar ese estado."
+    },
+    {
+      "id": "30-014",
+      "titulo": "Bola de fuego y grupo paralizado",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Luna lanza Bola de fuego. Los enemigos superan las salvaciones, pero la tienda arde. Leona pierde la furia después de un turno sin atacar ni recibir daño; vuelve a golpear y pide que no maten a la mujer. Winscore esquiva y utiliza magia adicional. Guayacán suelta a la prisionera por el miedo y golpea a otro enemigo; cuando intenta alejarse, ella lo atrapa con la cola. La mujer lanza Inmovilizar persona sobre Leona y Winscore, que quedan paralizados. La reacción de Luna no consigue evitar que Leona sufra el efecto.",
+      "inicio": "01:27:00.000",
+      "fin": "01:37:55.000",
+      "cita": "H persones",
+      "evidencia_cue": {
+        "inicio": "01:36:11.719",
+        "fin": "01:36:17.189",
+        "texto": "imagina porque es mi mi cosa favorito. Y nada, pues voy a tirar un H persones."
+      },
+      "entidades": [
+        "Lunaria / Luna",
+        "Leona (harengon bárbara)",
+        "Winscore (enano, grafía provisional)",
+        "Guayacán Epinayu (grafía provisional)",
+        "Mujer serpiente del caldero de Hoja Caída"
+      ],
+      "ambito": "miedo, fuego y parálisis",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se muestran cultivos quemados fuera de la cueva. Los estados del monje son temporales; no indican una alteración permanente."
+    },
+    {
+      "id": "30-015",
+      "titulo": "La segunda explosión mata a la mujer y Luna cura al monje",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Luna lanza otra Bola de fuego para romper la concentración de la mujer, alcanzando también a aliados. Destruye la tienda, la mesa y las botellas. La mujer muere y explota, causando daño psíquico adicional a Guayacán y Leona. Guayacán cae; con la muerte de la enemiga terminan el miedo y el agarre de su cola. Luna utiliza Palabra sanadora de nivel dos como acción adicional y lo cura. El director permite los dos hechizos en ese turno mediante una regla de la mesa. Luna lo aleja hacia la cobertura de Winscore.",
+      "inicio": "01:37:00.000",
+      "fin": "01:41:55.000",
+      "cita": "No, no ha revivido",
+      "evidencia_cue": {
+        "inicio": "01:40:07.960",
+        "fin": "01:40:10.070",
+        "texto": "Ha revivido. Perfecto. No, no ha revivido. En verdad es como un"
+      },
+      "entidades": [
+        "Lunaria / Luna",
+        "Mujer serpiente del caldero de Hoja Caída",
+        "Guayacán Epinayu (grafía provisional)",
+        "Leona (harengon bárbara)",
+        "Winscore (enano, grafía provisional)"
+      ],
+      "ambito": "muerte enemiga y recuperación",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "El token se reactiva brevemente para resolver la explosión, no para representar una resurrección. Guayacán queda a cero puntos de vida y es curado; no muere."
+    },
+    {
+      "id": "30-016",
+      "titulo": "Criaturas de charcas muertas y victoria",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Una criatura emerge del agua venenosa y ataca a Winscore, cuya Esquiva ya no sigue activa tras la parálisis. Leona mata a dos enemigos con su hacha y ataques adicionales, y presume de su futuro liderazgo. Winscore ataca mientras cubre a Luna. Guayacán se levanta y mata al último adversario utilizando el taburete y una Ráfaga de golpes. Al acabar el combate no quedan enemigos vivos para interrogar.",
+      "inicio": "01:41:00.000",
+      "fin": "01:48:55.000",
+      "cita": "acabáis con esa serpiente",
+      "evidencia_cue": {
+        "inicio": "01:48:53.560",
+        "fin": "01:49:02.430",
+        "texto": "Vale, y acabáis con esa serpiente."
+      },
+      "entidades": [
+        "Winscore (enano, grafía provisional)",
+        "Leona (harengon bárbara)",
+        "Lunaria / Luna",
+        "Guayacán Epinayu (grafía provisional)",
+        "Hombres serpiente de Hoja Caída",
+        "Cueva de la Hoja Caída"
+      ],
+      "ambito": "fin del enfrentamiento",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": ""
+    },
+    {
+      "id": "30-017",
+      "titulo": "Veneno derramado y cadáveres en la reja",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "La mujer del caldero queda despedazada. La mesa y las pociones están destruidas; el caldero está deformado y volcado, con veneno derramado en el suelo. Winscore utiliza una daga para extraer colmillos y una glándula de los cadáveres; algunos dientes están dañados, pero conserva la mayoría. Tras la reja hay personas desnutridas con manchas verdes, de las que la mayoría parecen muertas. Leona supera una salvación de Constitución y se lleva el cadáver de una persona envenenada. Luna y otros recogen líquidos y las escasas hojas y hierbas que quedan tras el incendio.",
+      "inicio": "01:48:00.000",
+      "fin": "01:54:55.000",
+      "cita": "la mayoría están muertos",
+      "evidencia_cue": {
+        "inicio": "01:53:42.880",
+        "fin": "01:53:45.189",
+        "texto": "bastante desnutidos, incluso parecen que la mayoría están muertos."
+      },
+      "entidades": [
+        "Mujer serpiente del caldero de Hoja Caída",
+        "Winscore (enano, grafía provisional)",
+        "Leona (harengon bárbara)",
+        "Lunaria / Luna",
+        "Muestras de veneno de Hoja Caída",
+        "Cautivos envenenados de Hoja Caída",
+        "Colmillos y glándula de serpientes de Hoja Caída"
+      ],
+      "ambito": "evidencia y restos",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se confirma que todos los cautivos estén muertos ni se muestra el rescate de supervivientes. El cuerpo retirado es un cadáver. No se obtiene un antídoto específico de un caldero intacto."
+    },
+    {
+      "id": "30-018",
+      "titulo": "Cabezas para hablar con los muertos y evacuación por el humo",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Winscore pide a Leona que corte la cabeza de un cadáver de hombre serpiente y quiere llevar otra para una posible consulta mediante Hablar con muertos. El hechizo no se ejecuta. Guayacán carga con el cuerpo de la primera mujer, que había ocultado; Leona lleva al cautivo muerto. Luna utiliza magia para apartar el humo mientras recogen viales. Regresan juntos. Una carta de audiencia hace que el olor del cadáver cause seis puntos de daño psíquico a cada personaje; utilizan curación y sigilo para evitar más problemas.",
+      "inicio": "01:54:00.000",
+      "fin": "02:00:55.000",
+      "cita": "seis puntos de daño psíquico",
+      "evidencia_cue": {
+        "inicio": "01:59:49.239",
+        "fin": "01:59:52.229",
+        "texto": "pues vais a reír todos seis puntos de daño psíquico."
+      },
+      "entidades": [
+        "Winscore (enano, grafía provisional)",
+        "Leona (harengon bárbara)",
+        "Guayacán Epinayu (grafía provisional)",
+        "Lunaria / Luna",
+        "Cabezas de serpientes de Hoja Caída",
+        "Cautivos envenenados de Hoja Caída",
+        "Muestras de veneno de Hoja Caída"
+      ],
+      "ambito": "evidencias trasladadas",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Hablar con muertos es una propuesta, no un testimonio obtenido. El olor y el daño de la carta no prueban una infección o una epidemia."
+    },
+    {
+      "id": "30-019",
+      "titulo": "Muestras aisladas en casa de Leona",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Regresan a Cuicapalli con los cadáveres, las cabezas y los viales. Los guardias protestan por el olor y el posible riesgo, y no permiten llevarlos al centro. Buscan una cabaña vacía, pero todas están ocupadas. Deciden depositar y estudiar las muestras en la casa de Leona, que dice utilizarla poco. Se aíslan los restos, sin establecer una cuarentena completa para quienes los tocaron.",
+      "inicio": "02:00:00.000",
+      "fin": "02:04:55.000",
+      "cita": "es tu casa",
+      "evidencia_cue": {
+        "inicio": "02:02:59.719",
+        "fin": "02:03:02.580",
+        "texto": "mejor ahí.\" Y te señala aquí y te dice que es tu casa."
+      },
+      "entidades": [
+        "Cuicapalli",
+        "Leona (harengon bárbara)",
+        "Casa de Leona en Cuicapalli",
+        "Muestras de veneno de Hoja Caída",
+        "Cabezas de serpientes de Hoja Caída",
+        "Cautivos envenenados de Hoja Caída"
+      ],
+      "ambito": "depósito local",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "El temor de los guardias no demuestra una epidemia. Tampoco los comentarios de los jugadores garantizan una desinfección completa."
+    },
+    {
+      "id": "30-020",
+      "titulo": "Eromov envía a Parroter a investigar una cura",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "El grupo informa de que la Hoja Caída estaba formada por hombres serpiente y sospecha que fuera una avanzadilla o una estratagema para desplazar tribus. Eromov dice que los dormidos están despertando y que envió a Naór, hija de los leoninos del sur, aunque desconoce si llegó a su destino. La expresión Naoritan de la transcripción no permite fijar ese destino. Pide a Parroter que estudie las pruebas en la casa de Leona y ofrece descanso a los heridos. Eromov sigue enfermo; no se ha obtenido una cura.",
+      "inicio": "02:04:00.000",
+      "fin": "02:08:55.000",
+      "cita": "Enviaré a Parroter",
+      "evidencia_cue": {
+        "inicio": "02:06:56.599",
+        "fin": "02:06:59.390",
+        "texto": "de preguntarles a los cadáveres. Bueno, algo haremos. Enviaré a Parroter"
+      },
+      "entidades": [
+        "Eromov (líder de Cuicapalli, grafía provisional)",
+        "Parroter (alquimista kenku de Cuicapalli)",
+        "Leona (harengon bárbara)",
+        "Tribu de la Hoja Caída",
+        "Naór Tarcan (grafía provisional)",
+        "Cuicapalli"
+      ],
+      "ambito": "informe y respuesta",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Naór no es una harengon ni participa en este grupo. Naoritan puede unir su nombre y un lugar, pero no acredita un apellido. Tampoco se obtiene una confesión sobre quién añadió el veneno."
+    },
+    {
+      "id": "30-021",
+      "titulo": "Winscore compra escudo más uno",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Eromov indica dónde está la Forja del Águila de Sangre. Winscore encuentra a un herrero tabaxi musculoso. Busca un escudo normal, pero elige uno más uno que le ofrecen por veinte monedas. Tiene quince; vende una obsidiana por cinco y un hacha de coral por dos, reuniendo veintidós. Paga veinte, recibe el escudo y conserva dos monedas. Deja las cabezas y la glándula para la investigación; puede conservar los dientes para venderlos.",
+      "inicio": "02:08:00.000",
+      "fin": "02:12:55.000",
+      "cita": "quítate 20 de oro",
+      "evidencia_cue": {
+        "inicio": "02:12:18.719",
+        "fin": "02:12:20.470",
+        "texto": "es un escudo por uno, o sea, más uno. Eh, quítate 20 de oro y te pongo yo el"
+      },
+      "entidades": [
+        "Winscore (enano, grafía provisional)",
+        "Forja del Águila de Sangre",
+        "Herrero tabaxi de Cuicapalli (sin nombre)",
+        "Escudo más uno de Winscore",
+        "Hacha de coral de Winscore",
+        "Obsidiana de Winscore"
+      ],
+      "ambito": "comercio realizado",
+      "conocedores": [
+        "Winscore (enano, grafía provisional)"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Los precios y sus multiplicadores corresponden a lo adjudicado en la mesa; no establecen un valor universal del equipo."
+    },
+    {
+      "id": "30-022",
+      "titulo": "Descanso y reflexión de Luna sobre el exceso de fuego",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Tacha sirve comida. Guayacán pide fruta y sigue admirando a Leona, de la que quiere aprender mientras la protege. Luna reflexiona sobre sus nuevas bolas de fuego: destruyen demasiado y necesita elegir mejor dónde apuntar. El director cierra la sesión con la investigación de Parroter todavía en marcha, sin una cura para Eromov y con la amenaza sin resolver.",
+      "inicio": "02:12:00.000",
+      "fin": "02:15:55.000",
+      "cita": "habéis enviado a Parroter",
+      "evidencia_cue": {
+        "inicio": "02:15:41.040",
+        "fin": "02:15:42.870",
+        "texto": "problema del veneno, habéis enviado a Parroter ayudar a buscar esa cura a ver"
+      },
+      "entidades": [
+        "Tacha (tabernero hiena, grafía provisional)",
+        "Guayacán Epinayu (grafía provisional)",
+        "Leona (harengon bárbara)",
+        "Lunaria / Luna",
+        "Parroter (alquimista kenku de Cuicapalli)",
+        "Eromov (líder de Cuicapalli, grafía provisional)"
+      ],
+      "ambito": "descanso y tarea abierta",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Las expresiones sobre salvar al jefe reflejan esperanza o una valoración de la expedición; no representan una curación realizada."
+    }
+  ]
+}

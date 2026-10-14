@@ -1,0 +1,315 @@
+{
+  "criterio": "Agrupa etiquetas editoriales que ya designan una misma entidad en las fichas; no modifica citas o transcripciones. Referencias permiten revisar cada equivalencia.",
+  "grupos": [
+    {
+      "nombre": "Nox / Jim Hawkins",
+      "etiquetas": [
+        "Nox",
+        "Nox / Jim Hawkins",
+        "Jim Hawkins (identidad declarada de Nox)"
+      ],
+      "referencias": [
+        "07"
+      ],
+      "nota": "Nombre completo declarado en 7. Distinto de Naór."
+    },
+    {
+      "nombre": "Naór Tarcan (grafía provisional)",
+      "etiquetas": [
+        "Naór Tarcan (grafía provisional)"
+      ],
+      "referencias": [
+        "16",
+        "17"
+      ],
+      "nota": "Leonina hija de Camar. Tarcan/Tarcuan variantes fonéticas; no Nox. Grafía oficial no verificada."
+    },
+    {
+      "nombre": "Ayoto / Ayuto (grafía provisional)",
+      "etiquetas": [
+        "Ayoto (grafía provisional)",
+        "Ayoto / Ayuto (grafía provisional)"
+      ],
+      "referencias": [
+        "02",
+        "16"
+      ],
+      "nota": "Goliat de dos escudos, distinto de Axi/Chochi."
+    },
+    {
+      "nombre": "Axi / Chochi (identificación contextual)",
+      "etiquetas": [
+        "Chochi (grafía provisional)",
+        "Axi (identificación contextual con Chochi)",
+        "Axi / Chochi (identificación contextual provisional)",
+        "Axi / Chochi (identificación contextual)"
+      ],
+      "referencias": [
+        "02",
+        "06",
+        "09"
+      ],
+      "nota": "Identificación contextual por humano arquero y recuerdo de mordedura. No anuncio formal de cambio de nombre."
+    },
+    {
+      "nombre": "Tlachka / Tlacha / Tlaxka (grafía provisional)",
+      "etiquetas": [
+        "Guerrero nativo (Tlachka, grafía provisional)",
+        "Tlachka / Tlacha (grafía provisional)",
+        "Tlachka / Tlacha / Tlaxka (grafía provisional)",
+        "Tlachka / Tlatka (nativo, grafía provisional)"
+      ],
+      "referencias": [
+        "01",
+        "08"
+      ],
+      "nota": "Variantes del mismo guerrero en las fichas, sin fijar grafía oficial."
+    },
+    {
+      "nombre": "Sir Poncelot",
+      "etiquetas": [
+        "Sir Poncelot",
+        "Sir Poncelot (grafía confirmada por jugador)"
+      ],
+      "referencias": [
+        "03"
+      ],
+      "nota": "Gnomo. Sus monturas Merlucilla I, II, III y IV permanecen separadas."
+    },
+    {
+      "nombre": "Pinky / Pinki (grafía provisional)",
+      "etiquetas": [
+        "Pinky",
+        "Pinky (grafía provisional)",
+        "Pinky / Pinki (grafía provisional)"
+      ],
+      "referencias": [
+        "08",
+        "12"
+      ],
+      "nota": "Variantes editoriales de la druida, grafía provisional."
+    },
+    {
+      "nombre": "Pix (mono de Bonnie)",
+      "etiquetas": [
+        "Pix",
+        "Pix (mono de Bonnie)"
+      ],
+      "referencias": [
+        "10",
+        "11"
+      ],
+      "nota": "Rescate explícito del mono. No confundir con hada/pixi por sonido."
+    },
+    {
+      "nombre": "Molly / Moli (capitana de Marina, grafía provisional)",
+      "etiquetas": [
+        "Molly (capitana de la Marina)",
+        "Molly / Moli (capitana de Marina, grafía provisional)",
+        "Molly (capitana de Marina)"
+      ],
+      "referencias": [
+        "05",
+        "12"
+      ],
+      "nota": "Capitana, distinta de la sirena llamada Marina."
+    },
+    {
+      "nombre": "Liz / Lizy (encargada de la Sirena Borracha, grafía provisional)",
+      "etiquetas": [
+        "Liz",
+        "Liz / Lizy (encargada de Sirena Borracha, grafía provisional)",
+        "Liz / Lizy (encargada de la Sirena Borracha, grafía provisional)"
+      ],
+      "referencias": [
+        "01",
+        "04"
+      ],
+      "nota": "Encargada que negocia servicios y compras; grafía provisional."
+    },
+    {
+      "nombre": "Baton (nativo rescatado, grafía provisional)",
+      "etiquetas": [
+        "Baton (grafía provisional)",
+        "Baton (nativo rescatado, grafía provisional)"
+      ],
+      "referencias": [
+        "12",
+        "16"
+      ],
+      "nota": "Director identifica rescate de Marina; no pirata captor de Blink."
+    },
+    {
+      "nombre": "Nelli (nativa rescatada, grafía provisional)",
+      "etiquetas": [
+        "Nelli (grafía provisional)",
+        "Nelli (nativa rescatada, grafía provisional)"
+      ],
+      "referencias": [
+        "12",
+        "16"
+      ],
+      "nota": "Liberada de Marina según aclaración posterior; grafía provisional."
+    },
+    {
+      "nombre": "Cuicapalli",
+      "etiquetas": [
+        "Cuicapalli",
+        "Cuicapalli (identificación contextual provisional)"
+      ],
+      "referencias": [
+        "16",
+        "17"
+      ],
+      "nota": "Se usa grafía aportada por usuario como candidata contextual para Cuikapali y variantes. Bromas culo papi no lugares distintos."
+    },
+    {
+      "nombre": "Iktan",
+      "etiquetas": [
+        "Iktan",
+        "Iktan (identificación contextual provisional)"
+      ],
+      "referencias": [
+        "01",
+        "16",
+        "17"
+      ],
+      "nota": "Grafía del usuario como candidata. Destino de Naór no equivale a llegada."
+    },
+    {
+      "nombre": "Ras Racor (ciudad lagarto, grafía provisional)",
+      "etiquetas": [
+        "Ras Racor (ciudad lagarto, grafía provisional)",
+        "Ras Racor (grafía provisional)"
+      ],
+      "referencias": [
+        "17"
+      ],
+      "nota": "Ciudad central lagarto. Distinta del poblado destruido en 11 y de Cuicapalli."
+    },
+    {
+      "nombre": "Ruki Peten (pantano, grafía provisional)",
+      "etiquetas": [
+        "Ruki Peten (grafía provisional)",
+        "Ruki Peten (pantano, grafía provisional)"
+      ],
+      "referencias": [
+        "10",
+        "17"
+      ],
+      "nota": "Zona pantanosa al norte de Shiaru, grafía fonética provisional."
+    },
+    {
+      "nombre": "Puerto de Espadas",
+      "etiquetas": [
+        "Puerto de Espadas",
+        "Puerto de las Espadas"
+      ],
+      "referencias": [
+        "01",
+        "12",
+        "14"
+      ],
+      "nota": "Variación editorial del puerto mencionado; sin inferir coordenadas."
+    },
+    {
+      "nombre": "Fuerte Aurora (grafía provisional)",
+      "etiquetas": [
+        "Fuerte Aurora",
+        "Fuerte Aurora (grafía provisional)"
+      ],
+      "referencias": [
+        "12"
+      ],
+      "nota": "Nombre del fuerte, no todo campamento de Marina."
+    },
+    {
+      "nombre": "Atlan / Atlat (reino leonino, grafía provisional)",
+      "etiquetas": [
+        "Atlan (reino leonino, grafía provisional)",
+        "Atlan / Atlat (reino leonino, grafía provisional)"
+      ],
+      "referencias": [
+        "16",
+        "17"
+      ],
+      "nota": "Reino de Naór/Camar al sur; Atlas también en fuente, grafía sin verificar."
+    },
+    {
+      "nombre": "Cipo (grafía provisional)",
+      "etiquetas": [
+        "Cipo",
+        "Cipo (grafía provisional)",
+        "Cipo / Cibo (elemental de fuego, grafía provisional)",
+        "Cipo / Zipo (grafía provisional)"
+      ],
+      "referencias": [
+        "01",
+        "07",
+        "29",
+        "36"
+      ],
+      "nota": "Variantes editoriales del elemental de fuego. No toda persona llamada abuela es la misma ni la cercanía prueba propiedad."
+    },
+    {
+      "nombre": "Merlucilla I (dinosaurio de Poncelot)",
+      "etiquetas": [
+        "Merlucilla (dinosaurio, grafía provisional)",
+        "Merlucilla (montura de Poncelot)"
+      ],
+      "referencias": [
+        "03",
+        "04"
+      ],
+      "nota": "Primera montura, comida por Ione según recapitulación. No hipocampo, mosca o tigre posteriores."
+    },
+    {
+      "nombre": "Merlucilla II (hipocampo)",
+      "etiquetas": [
+        "Hipocampo Merlucilla II",
+        "Merlucilla II (hipocampo)"
+      ],
+      "referencias": [
+        "06"
+      ],
+      "nota": "Segunda montura salvada de tiburones. Etiquetas coinciden por especie y ordinal."
+    },
+    {
+      "nombre": "Merlucilla IV (tigre)",
+      "etiquetas": [
+        "Merlucilla IV (tigre)",
+        "Tigre Merlucilla IV"
+      ],
+      "referencias": [
+        "26"
+      ],
+      "nota": "Tigre adoptado tras muerte de mosca, no misma criatura transformada."
+    },
+    {
+      "nombre": "Eleanor (casa Roosevelt, reino Aragón)",
+      "etiquetas": [
+        "Eleanor de Aragón / Roosevelt (grafía e identidad nominal por aclarar)"
+      ],
+      "referencias": [
+        "32",
+        "33",
+        "36",
+        "38"
+      ],
+      "nota": "Aragón es reino y Roosevelt casa según aclaraciones posteriores; no nombres incompatibles ni dos personajes."
+    },
+    {
+      "nombre": "Erandy / Eri / Maya (escudera kender, grafía provisional)",
+      "etiquetas": [
+        "Eri / Maya (escudera kender, grafía provisional)",
+        "Erandy / Eri / Maya (escudera kender, grafía provisional)"
+      ],
+      "referencias": [
+        "32",
+        "36",
+        "38"
+      ],
+      "nota": "Misma escudera por presentación, casa/señora y reencuentro. Grafía oficial no verificada."
+    }
+  ]
+}

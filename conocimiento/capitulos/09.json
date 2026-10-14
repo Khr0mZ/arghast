@@ -1,0 +1,956 @@
+{
+  "capitulo": 9,
+  "estado_revision": "revisado",
+  "resumen": "Nox, Lunaria, Ione, Mamá y Axi se reúnen en el Zampaolas. Axi cuenta que decidió hacerse pirata después de sentirse abandonado por su dios. Ione relata su transformación y recuperación tras el encuentro con las sirenas. Mamá menciona una visión al tomar la mano de Nox, sin describirla. Un loro pierde su bolsa ante una criatura marina. Nox intercambia mapas con un aprendiz que admite haber robado uno durante una discusión entre piratas. Mamá guía al grupo hacia las ruinas señaladas y Pinky los acompaña. En un templo con símbolos serpentinos, Ione activa una trampa de veneno. Nox encuentra imágenes de un altar ensangrentado y convence a Mamá de que necesitan sangre nativa, aunque las imágenes no establecen esa condición. Ella se corta y abre el paso. El grupo derrota a una criatura reptiliana, quema una planta que atrapa a Nox y encuentra una copa de oro. Al tomarla, aparecen tres guardianes que los acusan de robar y llaman traidora a Mamá. Los derrotan y regresan con el botín y un cadáver. Pinky finge morir y Lunaria le roba cinco monedas. El director aclara que los nuevos tesoros pertenecen al grupo; las reclamaciones de Bonnie se limitan a la deuda de Nox e Ione y a las gemas del encargo. Venden el botín y compran ropa, pociones y herramientas. Mamá se retira molesta para cuidar el huevo. El significado de la visión y de los tatuajes sigue pendiente.",
+  "misiones": [
+    "Axi adopta un rumbo pirata y participa en la búsqueda de tesoros propuesta por Nox. Queda rezagado antes del jardín y del combate final, pero regresa con el grupo. No se documenta su entrada formal en otra organización (09-004,09-012,09-014,09-023 y 09-030).",
+    "El mapa obtenido del aprendiz conduce al templo de serpientes. El grupo recupera una copa, un collar y una cimitarra y los vende al final. No se muestra el contenido del mapa que Nox entrega al joven ni el resultado de su expedición (09-009,09-018 y 09-033).",
+    "El grupo abre el altar con sangre y derrota a las criaturas funerarias y a la planta. Las acusaciones de traición y la afirmación de que otros deben volver quedan sin explicar (09-019,09-021–09-024 y 09-028).",
+    "La visión de Mamá y la reacción de su tatuaje a la curación añaden pistas, pero no se descifran los símbolos ni su relación con los tatuajes de Nox (09-003,09-028 y 09-031).",
+    "Bonnie mantiene las reclamaciones por la deuda de Nox e Ione y las gemas del encargo. Liz conserva la gema de Patata. No se resuelve el saldo ni se entrega el nuevo botín a Bonnie (09-031–09-032).",
+    "Fracasan los intentos de capturar al loro y recuperar su bolsa, que acaba en una criatura marina (09-005 y 09-010).",
+    "Mamá vuelve a cuidar el huevo, que todavía no ha eclosionado. No lo vende ni lo entrega a Bonnie (09-008 y 09-033)."
+  ],
+  "preguntas": [
+    "¿Cuándo adoptó Chochi el nombre Axi? La continuidad es contextual, sin una explicación completa del cambio en este capítulo (09-004 y 09-020).",
+    "¿Qué vio Mamá al tomar la mano de Nox y qué significa? No se describe la imagen ni se confirma un origen divino (09-003).",
+    "¿Por qué le escuece el tatuaje a Mamá cuando Nox la cura? La relación entre sus tatuajes y los de Nox sigue sin resolverse (09-028 y 09-031).",
+    "¿Quiénes deben volver según los guardianes y por qué llaman traidora a Mamá? Sus declaraciones carecen de un contexto histórico verificado (09-026–09-028).",
+    "¿Qué mapa recibe el aprendiz y adónde conduce? No lo abre ni se muestra su expedición (09-009).",
+    "¿Qué efectos tendrán las hojas que guarda Ione? Solo se observa un mareo breve al olerlas; no las fuma en esta escena (09-024).",
+    "¿Quién tomó la hierba de Ione? Pinky muestra una bolsa con su nombre, pero no se representa el robo (09-002 y 09-017).",
+    "¿Cuánto dura la inmunidad de Lunaria al alcohol? Los 21 días del capítulo 7 y la semana aceptada aquí no se concilian expresamente (09-008).",
+    "¿Se contagió Axi con la mordedura de Ione? Hay reproches y temor, pero no un diagnóstico ni una transformación confirmada (09-007 y 09-020)."
+  ],
+  "contradicciones": [
+    "La duración de la inmunidad al alcohol de Lunaria cambia entre las adjudicaciones de los capítulos 7 y 9. No se calcula una fecha de expiración que reconcilie versiones incompatibles (07-014 y 09-008).",
+    "Nox afirma que el altar exige sangre nativa, aunque el director solo describe imágenes de sangre. La afirmación es un engaño del personaje, no un requisito confirmado (09-021).",
+    "Ione y Nox disputan la propiedad y la capitanía del barco. La apelación de Ione al código pirata no establece una regla jurídica universal (09-006).",
+    "Pinky finge morir mientras fuma. No ocurre una muerte ni una resurrección (09-027–09-029).",
+    "El director aclara que la ilustración femenina representa a Nox atrapado por una planta; no identifica a otra mujer (09-024).",
+    "El temor de los personajes a perder todo el botín ante Bonnie se corrige: sus reclamaciones afectan a la deuda y a las gemas, no a todos los tesoros nuevos (09-031).",
+    "La propuesta de vender la copa por 150 monedas y ropa se sustituye por 170 monedas para comprarla. Las ofertas no se suman (09-033).",
+    "Axi queda rezagado por una desconexión y luego regresa. Su participación en el episodio no demuestra que observe el jardín y la sala final (09-023 y 09-030)."
+  ],
+  "nombres_dudosos": [
+    "La continuidad entre Axi y Chochi se apoya en las heridas, la mordedura y los saludos. No debe confundirse con Ayoto.",
+    "Los tatuajes de Nox y los de Mamá pertenecen a portadores distintos, aunque se investiguen dentro de la misma trama.",
+    "La mención de Arwen en una pregunta de Pinky no permite atribuirle una identidad nueva ni identificarla con Ione.",
+    "El aprendiz del mapa menciona a Baps y Gustavo, pero no proporciona su propio nombre.",
+    "No se demuestra que el templo de serpientes sea el templo de los nawals del capítulo 8 o el del nido del capítulo 7.",
+    "Las criaturas y la planta carecen de una identificación taxonómica suficiente. No se les asignan tipos externos a la fuente.",
+    "Negociación es el nombre de un arma de Ione; Diálogo designa un bate. Las menciones no describen acciones sociales."
+  ],
+  "fuente_sha256": "c1fa8ef93f13498e50e02e058d94b5295e9f06dcc126cc7794b055e5aac405f3",
+  "afirmaciones": [
+    {
+      "id": "09-001",
+      "titulo": "Descanso y conversación entre sesiones de Nox",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Lunaria relata que ha revuelto y remodelado el barco y recibe cansancio por mal descanso. Nox relata que siguió a Axi hasta que tomó una decisión importante y regresó al barco y encontró su camarote modificado, con un huevo, un pájaro y espejos; dice haber hablado con Citlali. Su tirada determina que despierta con un pequeño pinchazo o puñalada.",
+      "inicio": "00:00:00.000",
+      "fin": "00:03:00.000",
+      "cita": "una conversación bastante interesante con Lali",
+      "evidencia_cue": {
+        "inicio": "00:02:24.080",
+        "fin": "00:02:27.550",
+        "texto": "y tuve una conversación bastante interesante con Lali."
+      },
+      "entidades": [
+        "Lunaria / Luna",
+        "Nox",
+        "Axi (identificación contextual con Chochi)",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Barco Zampaolas (grafía provisional)"
+      ],
+      "ambito": "recapitulación y sucesos de descanso",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se identifica atacante ni se confirma que Lunaria cause heridas. Espejos y conversación son relato entre sesiones, no contenido externo incorporado."
+    },
+    {
+      "id": "09-002",
+      "titulo": "Ione relata su recuperación tras el encuentro con las sirenas",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Ione dice que huyó transformada a la jungla tras casi ahogarse en el encuentro con las sirenas, tardó un día en volver a la normalidad y llegó destrozada, con costillas rotas y reposo en cama. Hoy se siente mejor. Su tirada le quita hierba para fumar.",
+      "inicio": "00:02:35.000",
+      "fin": "00:04:30.000",
+      "cita": "tardó un día entero en volver a la normalidad",
+      "evidencia_cue": {
+        "inicio": "00:03:16.720",
+        "fin": "00:03:18.830",
+        "texto": "a la jungla y se perdió allí. tardó un día entero en volver a la normalidad y"
+      },
+      "entidades": [
+        "Ione",
+        "Pinky (grafía provisional)"
+      ],
+      "ambito": "recapitulación de jugadora",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se representa el día de recuperación ni se adjudican nuevas secuelas permanentes. Se bromea sobre vieja ladrona; bolsa con nombre de Ione aparece después con Pinky, pero no muestra el robo inicial."
+    },
+    {
+      "id": "09-003",
+      "titulo": "Mamá relata una visión al tomar la mano de Nox",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Mamá relata inquietud por un niño que se vuelve pirata y por la influencia de otro; dice que tras una disculpa y al tomarle la mano, apareció una imagen extraña de Xoltacan. Busca entender la visión mientras cuida el huevo. La tirada le provoca un pinchazo durante el descanso en el barco.",
+      "inicio": "00:04:15.000",
+      "fin": "00:06:15.000",
+      "cita": "una imagen este muy extraña de Sholtacá",
+      "evidencia_cue": {
+        "inicio": "00:04:54.280",
+        "fin": "00:04:56.950",
+        "texto": "y pues salió una una imagen este muy extraña de Sholtacá este a la hora de"
+      },
+      "entidades": [
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Nox",
+        "Axi (identificación contextual con Chochi)",
+        "Huevo grande del nido"
+      ],
+      "ambito": "recapitulación y percepción individual",
+      "conocedores": [
+        "Mamá / Citlali (identificación contextual provisional)"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se describe contenido de la imagen ni se confirma origen divino; así lo interpreta Mamá."
+    },
+    {
+      "id": "09-004",
+      "titulo": "Axi relata el abandono de su fe y su decisión de ser pirata",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Axi dice que tras casi morir no vio nada después de la luz y sintió que su dios lo abandonó; encontró a Nox y se aferró a ser pirata. La tirada también le asigna una herida durante el descanso en el barco.",
+      "inicio": "00:05:35.000",
+      "fin": "00:07:10.000",
+      "cita": "Mi Dios me abandonó",
+      "evidencia_cue": {
+        "inicio": "00:06:05.000",
+        "fin": "00:06:07.070",
+        "texto": "Porque no vi nada después de la luz. Mi Dios me abandonó, entonces dije, \"Fucky,"
+      },
+      "entidades": [
+        "Axi (identificación contextual con Chochi)",
+        "Nox"
+      ],
+      "ambito": "recapitulación de cambio de rumbo",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Abandono del dios es interpretación del personaje. Saludo Chochi, casi muerte y contexto sugieren continuidad, sin declaración inequívoca de cambio de nombre en este tramo."
+    },
+    {
+      "id": "09-005",
+      "titulo": "El loro escapa y la bolsa termina en una criatura marina",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Nox trepa hacia el loro que lleva la bolsa y Lunaria intenta distraerlo con una red ilusoria, sin éxito. El loro deja caer la bolsa sobre el mar, Nox dispara sin acertar y una criatura sale del agua hacia la bolsa. No recuperan dinero.",
+      "inicio": "00:07:00.000",
+      "fin": "00:10:40.000",
+      "cita": "la bolsita cae al agua",
+      "evidencia_cue": {
+        "inicio": "00:10:25.880",
+        "fin": "00:10:27.870",
+        "texto": "ir y ves que la bolsita cae al agua y antes de que caiga al agua ves"
+      },
+      "entidades": [
+        "Nox",
+        "Lunaria / Luna",
+        "Loro pirata (sin nombre)",
+        "Criatura marina bajo Zampaolas (sin identificar)"
+      ],
+      "ambito": "intento de captura y pérdida de bolsa",
+      "conocedores": [
+        "Nox",
+        "Lunaria / Luna"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No determinar contenido o dueño inicial de bolsa ni especie de criatura marina."
+    },
+    {
+      "id": "09-006",
+      "titulo": "Ione encuentra armas y devuelve el estoque a Nox",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Ione busca en cajas y se pone ataduras de puño con pequeños metales de los restos del barco. Encuentra un estoque que devuelve a Nox, sugiriendo que lo perdió tras la visita de una mujer. El director aclara que son armas entregadas al nivel cinco: el estoque de Nox y el arma de Ione llamada Negociación. Ione se presenta ante Lunaria como capitana por haberse apropiado del barco, lo que Nox discute.",
+      "inicio": "00:10:30.000",
+      "fin": "00:19:05.000",
+      "cita": "el arma que os doy a nivel cinco",
+      "evidencia_cue": {
+        "inicio": "00:18:30.679",
+        "fin": "00:18:33.630",
+        "texto": "todos. Es es el arma que os doy a nivel cinco, así que el de Nox es este."
+      },
+      "entidades": [
+        "Ione",
+        "Nox",
+        "Lunaria / Luna",
+        "Negociación (arma de Ione)",
+        "Estoque de Nox",
+        "Barco Zampaolas (grafía provisional)"
+      ],
+      "ambito": "inventario y disputa de capitanía",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No fijar propiedad legal por código pirata que Ione enuncia ni pérdida del estoque durante encuentro sexual solo por broma. No asignar a Ione arma distinta de la explicada."
+    },
+    {
+      "id": "09-007",
+      "titulo": "Ione admite descontrol; Axi se disculpa por prejuicios",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Ione habla discretamente con Nox sobre los problemas que causó en forma de lobo y que no recuerda; acuerdan observar a Axi. Axi se disculpa ante Nox por prejuicios hacia piratas y dice no haber probado alcohol. Mamá observa con disgusto su acercamiento a la vida pirata.",
+      "inicio": "00:19:00.000",
+      "fin": "00:24:15.000",
+      "cita": "Mis prejuicios hacia ti y los piratas",
+      "evidencia_cue": {
+        "inicio": "00:22:17.039",
+        "fin": "00:22:19.510",
+        "texto": "nuca? Creo que te deo una disculpa. Mis prejuicios hacia ti y los piratas fueron"
+      },
+      "entidades": [
+        "Ione",
+        "Nox",
+        "Axi (identificación contextual con Chochi)",
+        "Mamá / Citlali (identificación contextual provisional)"
+      ],
+      "ambito": "conversaciones parcialmente reservadas",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se confirma contagio de Axi en esta escena; temor de Ione no es diagnóstico."
+    },
+    {
+      "id": "09-008",
+      "titulo": "El huevo sigue sin eclosionar y la inmunidad se recuerda como una semana",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Mamá tranquiliza a Lunaria: el huevo aún necesita cuidados y tiempo para nacer. Lunaria recuerda poder ganar apuestas de bebida. Se discute si el efecto de inmunidad duraba solo la partida, varios días o una semana, y el director acepta una semana.",
+      "inicio": "00:23:40.000",
+      "fin": "00:26:00.000",
+      "cita": "entonces una semana",
+      "evidencia_cue": {
+        "inicio": "00:25:48.840",
+        "fin": "00:25:50.750",
+        "texto": "varios días. Ah, pues entonces una semana. Pues"
+      },
+      "entidades": [
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Lunaria / Luna",
+        "Huevo grande del nido"
+      ],
+      "ambito": "cuidados y recuerdo mecánico",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Discrepancia con 21 días adjudicados en 07-014; conservar ambos sin calcular expiración inventada."
+    },
+    {
+      "id": "09-009",
+      "titulo": "El joven cambia el mapa robado por el mapa de Nox",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Un joven aprendiz llama a Nox y muestra un mapa con una X. Primero afirma haber dado una paliza a unos piratas y después admite esconderse mientras peleaban y robar el mapa, indicando que no eran de Bonnie. Intenta vendérselo; Nox le recuerda la deuda y termina cambiándolo por su propio mapa, más cuidado y con cintas. El joven no abre el mapa recibido y busca a sus compañeros, entre ellos Baps. Se menciona Gustavo asociado al joven.",
+      "inicio": "00:26:30.000",
+      "fin": "00:31:15.000",
+      "cita": "yo me escondí y les robé el mapa",
+      "evidencia_cue": {
+        "inicio": "00:29:17.640",
+        "fin": "00:29:20.149",
+        "texto": "estaban peleando entre ellos y yo me escondí y les robé el mapa."
+      },
+      "entidades": [
+        "Nox",
+        "Joven aprendiz pirata del mapa (sin nombre inequívoco)",
+        "Baps (grafía provisional)",
+        "Gustavo (acompañante, identidad pendiente)",
+        "Mapa del tesoro de serpientes",
+        "Mapa intercambiado por Nox"
+      ],
+      "ambito": "intercambio y relato del origen",
+      "conocedores": [
+        "Nox",
+        "Joven aprendiz pirata del mapa (sin nombre inequívoco)"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No identificar al hablante como Baps solo porque lo llama. Contenido de mapa entregado por Nox no abierto ni mostrado; no atribuir fraude específico sin ver su contenido."
+    },
+    {
+      "id": "09-010",
+      "titulo": "Lunaria ahuyenta al loro e Ione da una botella a Axi",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Ione mezcla restos de líquidos de botellas de basura y deja una botella a Axi antes de ir a comprar. Nox y Lunaria vuelven a intentar asustar al loro: una ilusión de fuego primero no lo ahuyenta; luego un ataque de fuego sí lo hace huir. Ven la pantera secándose junto al pozo, que Mamá interpreta como trabajo ritual de sus niños.",
+      "inicio": "00:30:45.000",
+      "fin": "00:35:40.000",
+      "cita": "líquido de basura",
+      "evidencia_cue": {
+        "inicio": "00:35:27.720",
+        "fin": "00:35:30.390",
+        "texto": "que ir a cenar, ¿vale? Y pero le dejo la botella de de líquido de basura. Ya me"
+      },
+      "entidades": [
+        "Ione",
+        "Axi (identificación contextual con Chochi)",
+        "Nox",
+        "Lunaria / Luna",
+        "Loro pirata (sin nombre)",
+        "Pozo de Shiaru"
+      ],
+      "ambito": "actividades en el poblado",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se adjudica consumo o intoxicación de Axi por botella. No imponer Fireball de nivel tres a cada expresión coloquial de bola de fuego."
+    },
+    {
+      "id": "09-011",
+      "titulo": "Mamá golpea a Nox por intentar robar la pantera",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Nox propone llevarse la pantera como alfombra del barco. Mamá le dice que no es suya y le golpea con una alpargata. Nox describe quedar noqueado, pero el director aclara después que solo está herido. Mamá sigue molesta por la conducta pirata.",
+      "inicio": "00:35:30.000",
+      "fin": "00:39:15.000",
+      "cita": "No te vas a robar nada",
+      "evidencia_cue": {
+        "inicio": "00:37:09.800",
+        "fin": "00:37:12.589",
+        "texto": "robamos. No te vas a robar nada."
+      },
+      "entidades": [
+        "Nox",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Pantera secándose en pozo"
+      ],
+      "ambito": "conflicto en el pozo",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se lleva pantera entera. La caída descriptiva de Nox no establece inconsciencia mecánica tras corrección."
+    },
+    {
+      "id": "09-012",
+      "titulo": "El mapa requiere un guía y Lunaria dibuja una copia",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Nox reconoce algunas partes del mapa pero no domina el camino; el director sugiere herramientas cartográficas. Lunaria dibuja una versión con figuras y loro ardiendo, sin garantizar que sea una copia fiel. Axi tampoco consigue orientarse. Nox propone buscar un tesoro como iniciación pirata.",
+      "inicio": "00:39:05.000",
+      "fin": "00:43:10.000",
+      "cita": "no conoces muy bien el camino",
+      "evidencia_cue": {
+        "inicio": "00:40:38.240",
+        "fin": "00:40:41.309",
+        "texto": "sí te suenan algunas partes, pero no conoces muy bien el camino."
+      },
+      "entidades": [
+        "Nox",
+        "Lunaria / Luna",
+        "Axi (identificación contextual con Chochi)",
+        "Mapa del tesoro de serpientes"
+      ],
+      "ambito": "preparación de ruta",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No confundir dibujo de Lunaria con mapa original ni guía ya verificada."
+    },
+    {
+      "id": "09-013",
+      "titulo": "El tendero orco expulsa a Ione",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "La jugadora y el director representan brevemente que Ione entra en una tienda atendida por el orco cuya mujer había golpeado antes y él la expulsa de patada al barro. La jugadora se ausenta a cenar y el personaje seguirá al grupo sin diálogos mientras tanto.",
+      "inicio": "00:42:30.000",
+      "fin": "00:44:15.000",
+      "cita": "le reventé los paletos a su mujer",
+      "evidencia_cue": {
+        "inicio": "00:43:33.839",
+        "fin": "00:43:35.750",
+        "texto": "ese ese orco que le di que cogí, le reventé los paletos a su mujer. Bueno,"
+      },
+      "entidades": [
+        "Ione",
+        "Tendero orco (sin nombre)",
+        "Mujer del tendero orco (sin nombre)"
+      ],
+      "ambito": "escena acordada en mesa",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Golpe previo a esposa es recapitulación, sin capítulo o escena identificados aquí. No inventar nombre o comercio exacto."
+    },
+    {
+      "id": "09-014",
+      "titulo": "Mamá descubre la mentira de Axi y guía la expedición",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Axi pide ayuda con el mapa fingiendo reconectar con el rey de su gente; Mamá detecta la mentira y exige la verdad. Él admite que Nox lo envía y no conoce el destino. Mamá reconoce una ruta distante de la jungla del Garfio, sospecha que buscan ruinas y acepta guiarlos. Nox intenta tomar la cola de la pantera ya ausente y termina con una oreja cortada y estropeada.",
+      "inicio": "00:44:00.000",
+      "fin": "00:51:40.000",
+      "cita": "reconoces la ruta",
+      "evidencia_cue": {
+        "inicio": "00:48:10.160",
+        "fin": "00:48:13.230",
+        "texto": "Eh, pues sí, ves que reconoces la ruta,"
+      },
+      "entidades": [
+        "Axi (identificación contextual con Chochi)",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Nox",
+        "Mapa del tesoro de serpientes",
+        "El Garfio (costa)"
+      ],
+      "ambito": "resolución de navegación y salida",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No fija distancia o coordenadas. Cola faltante concuerda con despiece de Kilzer en 08-019; no sumar nueva cola a Nox."
+    },
+    {
+      "id": "09-015",
+      "titulo": "Frutas cambian sombras y dan curación a Nox",
+      "tipo": "explicacion_director",
+      "afirmacion": "Mamá come fruta y su sombra grita sin sonido al atacar; Lunaria tiene la sombra desfasada. Nox obtiene dedos con savia curativa que curan un D6 por contacto durante la sesión y cura cinco puntos de vida a Axi. Axi obtiene espinas que dañan a los atacantes cuerpo a cuerpo y Nox recibe un punto al sujetarlo. Ione come fruta y su voz pasa a funcionar cantando.",
+      "inicio": "00:51:30.000",
+      "fin": "00:56:10.000",
+      "cita": "tus dedos resuman sabia",
+      "evidencia_cue": {
+        "inicio": "00:54:01.880",
+        "fin": "00:54:04.270",
+        "texto": "Está ofendidísima. ¿Tú qué crees? Ah, pues mira, tus dedos resuman sabia"
+      },
+      "entidades": [
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Lunaria / Luna",
+        "Nox",
+        "Axi (identificación contextual con Chochi)",
+        "Ione",
+        "Frutas de Xoltacan"
+      ],
+      "ambito": "efectos temporales adjudicados",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No nuevas capacidades permanentes ni indicio divino por sí solo. Se discute si Ione solo canta hechizos, pero adopta canto en toda voz durante sesión."
+    },
+    {
+      "id": "09-016",
+      "titulo": "Orangutanes ahuyentados por fuego; aparece Pinky",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Debido a una trampa enviada en una carta, orangutanes lanzan piedras al grupo. Ione fracasa en devolver una piedra con el bate. Lunaria crea una llama ilusoria para ahuyentarlos; una esfera de fuego mayor aparece y se mueve delante del grupo. Mamá ve a Pinky controlándola con un dedo: no procede enteramente de Lunaria.",
+      "inicio": "00:55:45.000",
+      "fin": "01:02:20.000",
+      "cita": "una señora sentada una piedrecita",
+      "evidencia_cue": {
+        "inicio": "01:01:34.280",
+        "fin": "01:01:36.829",
+        "texto": "pues ves a a una señora sentada una piedrecita, ¿sabes? Moviendo"
+      },
+      "entidades": [
+        "Orangutanes del camino",
+        "Lunaria / Luna",
+        "Ione",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Pinky (grafía provisional)"
+      ],
+      "ambito": "encuentro y magia de Pinky",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No narrar impacto inventado en taberna por bromas de Ione. Pinky se describe como halfling; se corrige confusión con kender."
+    },
+    {
+      "id": "09-017",
+      "titulo": "Chocolate por hierba; Pinky sigue al grupo",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Mamá reclama el acuerdo previo y entrega chocolate a Pinky a cambio de una bolsita de hierba. Pinky muestra primero una bolsa con el nombre de Ione y luego dice confundirse y da otra. Lunaria pregunta cómo crear un fuego grande y busca aprender o conseguir hierba; Pinky relaciona esa capacidad con fumar y ser mayor. Pinky sigue a la expedición.",
+      "inicio": "01:01:00.000",
+      "fin": "01:07:45.000",
+      "cita": "una bolsita de hierba que pone one",
+      "evidencia_cue": {
+        "inicio": "01:05:15.240",
+        "fin": "01:05:21.950",
+        "texto": "y ves que te da una bolsita de hierba que pone one."
+      },
+      "entidades": [
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Pinky (grafía provisional)",
+        "Ione",
+        "Lunaria / Luna"
+      ],
+      "ambito": "trueque y acompañamiento",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No receta funcional ni consumo de Lunaria mostrado. Bolsa de Ione indica posesión de Pinky, sin escena que pruebe cuándo o cómo la obtuvo."
+    },
+    {
+      "id": "09-018",
+      "titulo": "Llegan a ruinas serpentinas y entran",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Llegan al templo marcado con una X al caer la noche, también ligada a cartas. Mamá no reconoce símbolos de serpientes ni relación con los tatuajes de Nox. Axi rechaza abrir por temor a profanación o maldición. Nox e Ione abren e iluminan la sala con antorchas y luces danzantes: vegetación, columnas caídas, dos grandes cabezas serpentinas y un podio central con símbolos, vacío.",
+      "inicio": "01:07:30.000",
+      "fin": "01:15:45.000",
+      "cita": "dos enormes estatuas de unas cabezas de serpiente",
+      "evidencia_cue": {
+        "inicio": "01:14:49.800",
+        "fin": "01:14:53.550",
+        "texto": "veis en las esquinas dos enormes estatuas de unas cabezas de serpiente. Y"
+      },
+      "entidades": [
+        "Templo de serpientes del mapa",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Nox",
+        "Ione",
+        "Axi (identificación contextual con Chochi)",
+        "Lunaria / Luna",
+        "Tatuajes de la espalda de Nox"
+      ],
+      "ambito": "exploración inicial",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No identificar este templo como el del capítulo 8 o el nido del 7. Maldición que teme Axi aún sin diagnóstico."
+    },
+    {
+      "id": "09-019",
+      "titulo": "El agua no activa el altar e Ione desencadena la trampa de veneno",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Lunaria encuentra canales y líquido seco en el borde del altar y prueba verter agua, que llena el canal sin reacción. Cuando Ione pega la oreja a una puerta de piedra, los ojos de las cabezas serpentinas se iluminan y escupen veneno a Mamá, Axi, Nox y Lunaria, que hacen dos salvaciones cada uno. Mamá da una poción a Axi, que está herido.",
+      "inicio": "01:15:30.000",
+      "fin": "01:20:50.000",
+      "cita": "escupen un veneno",
+      "evidencia_cue": {
+        "inicio": "01:20:26.920",
+        "fin": "01:20:28.669",
+        "texto": "esos ojos de las serpientes y escupen un veneno que ves que le da a tus"
+      },
+      "entidades": [
+        "Lunaria / Luna",
+        "Ione",
+        "Nox",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Axi (identificación contextual con Chochi)",
+        "Altar de sangre del templo de serpientes"
+      ],
+      "ambito": "prueba y trampa activada",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Ione activa puerta sin proponerse dañar compañeros. No atribuir a agua activación del veneno ni calcular daño individual ausente de texto."
+    },
+    {
+      "id": "09-020",
+      "titulo": "Axi recuerda la mordedura e Ione exige silencio",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Ione da a Axi otra poción para usar si quiere. Él le reprocha casi arrancarle el pecho a mordidas; ella lo atrae y exige no hablar de lobo ni de la jaula, y él se aparta con miedo.",
+      "inicio": "01:20:35.000",
+      "fin": "01:23:30.000",
+      "cita": "que casi me arranques el pecho a mordidas.",
+      "evidencia_cue": {
+        "inicio": "01:22:25.880",
+        "fin": "01:22:27.910",
+        "texto": "que casi me arranques el pecho a mordidas."
+      },
+      "entidades": [
+        "Ione",
+        "Axi (identificación contextual con Chochi)"
+      ],
+      "ambito": "conversación sobre encuentro pasado",
+      "conocedores": [
+        "Ione",
+        "Axi (identificación contextual con Chochi)"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Corrobora contexto con Chochi mordido en 06-030, pero no establece enfermedad o transformación futura. No se describe consumo inequívoco de la segunda poción."
+    },
+    {
+      "id": "09-021",
+      "titulo": "Nox miente sobre la sangre nativa y Mamá abre el altar",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Nox descubre imágenes de hombres serpiente con navaja, herida y mano sobre altar. Dice a Mamá que requiere la sangre de un nativo. El director aclara que las imágenes no dicen eso, solo sangre; Nox insiste con tiradas y recursos de suerte e inspiración. Mamá se corta la mano con el estoque que él le presta, la sangre llena los canales y el altar baja y abre las puertas. Ella se venda con tela de falda y devuelve el arma.",
+      "inicio": "01:23:15.000",
+      "fin": "01:28:45.000",
+      "cita": "No pone ese exactamente",
+      "evidencia_cue": {
+        "inicio": "01:25:49.440",
+        "fin": "01:25:51.750",
+        "texto": "Porque es mentira. No pone ese exactamente."
+      },
+      "entidades": [
+        "Nox",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Altar de sangre del templo de serpientes",
+        "Estoque de Nox"
+      ],
+      "ambito": "engaño y activación comprobada",
+      "conocedores": [
+        "Nox",
+        "Mamá / Citlali (identificación contextual provisional)"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Sangre activa mecanismo; exclusividad nativa es mentira, no requisito confirmado. Un punto de daño adjudicado a corte, sin sacrificio mortal."
+    },
+    {
+      "id": "09-022",
+      "titulo": "La sala funeraria se cierra y emerge una criatura",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Al cruzar se cierran las puertas detrás del grupo. La sala contiene tumbas y representaciones de entierros; Ione, Mamá y Pinky oyen siseos. Axi investiga una pared mientras Ione y Mamá preparan ataques. Una criatura reptiliana sale de la tierra y ataca a Ione con zarpas y mordida.",
+      "inicio": "01:28:30.000",
+      "fin": "01:35:15.000",
+      "cita": "salta la tierra hacia arriba",
+      "evidencia_cue": {
+        "inicio": "01:34:57.440",
+        "fin": "01:35:00.470",
+        "texto": "un poco y de repente salta la tierra hacia arriba y veis como o sea una"
+      },
+      "entidades": [
+        "Templo de serpientes del mapa",
+        "Ione",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Axi (identificación contextual con Chochi)",
+        "Pinky (grafía provisional)",
+        "Criatura reptiliana de primera tumba"
+      ],
+      "ambito": "encierro y emboscada",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No son seis esqueletos ni cucaracha por bromas. Mantener descripción reptiliana sin nombre taxonómico externo."
+    },
+    {
+      "id": "09-023",
+      "titulo": "Ione mata al reptil y conserva el cadáver; Axi queda rezagado",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "El grupo combate contra la criatura, Ione la mata con el bate tras intentar aturdirla. Encuentra una poción y arrastra el cuerpo para venderlo. Nox interpreta las decoraciones como cadáveres colocados en las tumbas por hombres lagarto durante un ritual funerario, cura a Ione y abre paso a un jardín. Axi queda investigando, por desconexión de su jugador, y no participa en los combates siguientes.",
+      "inicio": "01:34:20.000",
+      "fin": "01:46:35.000",
+      "cita": "Axi se queda aquí",
+      "evidencia_cue": {
+        "inicio": "01:45:38.639",
+        "fin": "01:45:43.910",
+        "texto": "Eh, no pasa nada. Me me acaba de avisar. Pues Axi se queda aquí."
+      },
+      "entidades": [
+        "Ione",
+        "Nox",
+        "Criatura reptiliana de primera tumba",
+        "Axi (identificación contextual con Chochi)",
+        "Templo de serpientes del mapa"
+      ],
+      "ambito": "combate y separación de grupo",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No asumir que Axi presencia jardín o batalla final por compartir capítulo. La poción del cadáver no se declara utilizada de inmediato."
+    },
+    {
+      "id": "09-024",
+      "titulo": "Una planta atrae a Nox y sus compañeras lo liberan",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "En un jardín hundido o resguardado, un aroma dulce atrae involuntariamente a Nox hacia una planta que lo atonta con esporas, enreda y ciega. Ione lanza una antorcha, Lunaria utiliza fuego y Mamá lanza una chancla; Nox la hiere desde dentro y se cura. Lunaria acaba quemándola e Ione lo saca. Después Ione recoge hojas perfumadas, casi se marea al olerlas y las guarda.",
+      "inicio": "01:45:40.000",
+      "fin": "01:56:50.000",
+      "cita": "es una planta",
+      "evidencia_cue": {
+        "inicio": "01:56:03.800",
+        "fin": "01:56:05.910",
+        "texto": "¿no? No es una mujer planta, es una planta. Lo que hay el dibujito la mujer"
+      },
+      "entidades": [
+        "Nox",
+        "Ione",
+        "Lunaria / Luna",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Planta de esporas del jardín",
+        "Hojas de planta recogidas por Ione"
+      ],
+      "ambito": "combate y rescate",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Ilustración femenina no establece mujer transformada. No es hierba buscada por Lunaria. No fijar especie ni efectos de fumar las hojas sin fuente."
+    },
+    {
+      "id": "09-025",
+      "titulo": "Última sala: copa, sarcófago y cierre de puerta",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Abren una puerta decorada con serpientes, después de que Ione escuche sin detectar enemigos. La sala contiene un altar con velas encendidas, calaveras, una copa de oro, dos tumbas sin remover y un sarcófago decorado. Ponen el primer cadáver sobre una tumba a propuesta de Nox sin efecto inmediato. Pinky toca algo, se asusta y una puerta se cierra. Mamá reconoce una copa ritual con símbolos serpentinos, sin saber su uso exacto.",
+      "inicio": "01:56:30.000",
+      "fin": "02:04:30.000",
+      "cita": "he tocado algo",
+      "evidencia_cue": {
+        "inicio": "02:02:26.920",
+        "fin": "02:02:30.510",
+        "texto": "Y veis a una vieja que dice, \"Ay, perdón, he tocado algo."
+      },
+      "entidades": [
+        "Templo de serpientes del mapa",
+        "Copa de oro del templo de serpientes",
+        "Pinky (grafía provisional)",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Ione",
+        "Nox"
+      ],
+      "ambito": "exploración y nuevo encierro",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No sumar veneno por simple escucha aquí; no se activa la trampa anterior. Velas descritas encendidas pese a pregunta de jugador."
+    },
+    {
+      "id": "09-026",
+      "titulo": "Toma de la copa y aparición de tres guardianes de las tumbas",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Nox e Ione cogen la copa simultáneamente. Una voz los acusa de tocar lo ajeno y amenaza hacerles recordar quiénes son. Dos criaturas salen de las tumbas y otra serpiente medio descompuesta del sarcófago reclama el objeto: esto es para nosotros, ellos tienen que volver. Se vuelven agresivas. Ione entrega la copa a Nox y entra en combate.",
+      "inicio": "02:04:00.000",
+      "fin": "02:08:50.000",
+      "cita": "Ellos tienen que volver",
+      "evidencia_cue": {
+        "inicio": "02:07:38.679",
+        "fin": "02:07:44.549",
+        "texto": "esto es para nosotros. Ellos tienen que volver."
+      },
+      "entidades": [
+        "Nox",
+        "Ione",
+        "Copa de oro del templo de serpientes",
+        "Dos reptiles guardianes de tumbas",
+        "Hombre serpiente del sarcófago"
+      ],
+      "ambito": "aparición de guardianes y declaración enigmática",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se identifica quiénes son ellos ni retorno esperado. Aspecto medio muerto no confirma especie exacta, deidad o causa de conservación."
+    },
+    {
+      "id": "09-027",
+      "titulo": "Lunaria crece y recibe la copa; Pinky finge morir",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Combaten dos guardianes reptilianos y un hombre serpiente con cimitarra y cola. La magia de Lunaria no ciega a los dos primeros, pero surge un efecto salvaje que la agranda. Nox le da la copa. Pinky finge estar muerta para no participar y sigue fumando. Ione mata un reptil y se desplaza a proteger a Mamá. La criatura resiste la magia mental de Lunaria; el director adjudica resistencia a encantamiento e inmunidad a parálisis mágica a estas criaturas. El hombre serpiente acusa a Mamá: vosotros sois traidores.",
+      "inicio": "02:08:20.000",
+      "fin": "02:25:20.000",
+      "cita": "Vosotros sois traidores",
+      "evidencia_cue": {
+        "inicio": "02:25:05.840",
+        "fin": "02:25:10.230",
+        "texto": "dice, \"Vosotros sois traidores.\""
+      },
+      "entidades": [
+        "Lunaria / Luna",
+        "Nox",
+        "Ione",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Pinky (grafía provisional)",
+        "Dos reptiles guardianes de tumbas",
+        "Hombre serpiente del sarcófago",
+        "Copa de oro del templo de serpientes"
+      ],
+      "ambito": "batalla y acusación del guardián",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La acusación no prueba traición histórica de Mamá. Aplicación mecánica no se extrapola a toda criatura de serpiente en campaña. Pinky sigue viva."
+    },
+    {
+      "id": "09-028",
+      "titulo": "Curación, sombra y victoria sobre los guardianes",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Nox cura a Mamá; ella siente escozor en un tatuaje, y él imagina un brillo en sus ojos. Combaten hasta que Ione golpea al reptil y lo empuja contra una columna y Lunaria mata con fuego al último hombre serpiente, que vuelve a decir traidores. Mamá utiliza el efecto de la sombra provocado por la fruta con daño psíquico. No se declara la muerte de ningún personaje jugador.",
+      "inicio": "02:24:30.000",
+      "fin": "02:37:30.000",
+      "cita": "acaba matando la serpiente",
+      "evidencia_cue": {
+        "inicio": "02:36:55.279",
+        "fin": "02:36:57.269",
+        "texto": "nada, veis que esta última bola acaba matando la serpiente que que chilla y"
+      },
+      "entidades": [
+        "Nox",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Ione",
+        "Lunaria / Luna",
+        "Hombre serpiente del sarcófago",
+        "Tatuajes de Mamá / Citlali"
+      ],
+      "ambito": "final de batalla",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Tatuaje de Mamá reacciona en relato, distinto de los de espalda de Nox que buscan interpretar. Sombra gritando viene de fruta ya adjudicada, no entidad independiente confirmada."
+    },
+    {
+      "id": "09-029",
+      "titulo": "Monedas, cimitarra y robo a Pinky viva",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Ione obtiene ocho monedas de los cadáveres. Lunaria roba cinco monedas de oro a Pinky, que sigue fingiendo estar muerta y no se mueve por miedo. Nox toma una cimitarra básica oxidada con empuñadura de serpiente y nueve monedas del hombre serpiente. Ione cambia el cadáver transportado por el grande blanco. Nox intenta despertar a Pinky quitándole el cigarrillo; ella lo detiene con magia y se esconde tras ver a Lunaria grande. Después Lunaria recupera su tamaño normal.",
+      "inicio": "02:37:10.000",
+      "fin": "02:44:20.000",
+      "cita": "cinco monedas de oro",
+      "evidencia_cue": {
+        "inicio": "02:39:57.319",
+        "fin": "02:40:00.429",
+        "texto": "Qué buena. Pues te llevas cinco monedas de oro."
+      },
+      "entidades": [
+        "Ione",
+        "Lunaria / Luna",
+        "Pinky (grafía provisional)",
+        "Nox",
+        "Cimitarra del hombre serpiente",
+        "Cadáver grande blanco del templo"
+      ],
+      "ambito": "saqueo y fin de crecimiento temporal",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No tratar a Pinky como cadáver ni venta de persona por broma. Cimitarra no tiene inscripción ni poder mágico adjudicado; no consta retener dos cadáveres al final."
+    },
+    {
+      "id": "09-030",
+      "titulo": "Nox toma el collar sin ocultarlo y regresan con Axi",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Nox encuentra un collar precioso en el altar e intenta cogerlo sin ser visto, pero todos lo ven. Justifica tomarlo para pagar la estancia. Dejan el templo, recogen a Axi rezagado y regresan a Shiaru con un cadáver arrastrado por Ione. Ella propone esconder oro y tesoros de Bonnie.",
+      "inicio": "02:44:00.000",
+      "fin": "02:48:10.000",
+      "cita": "veis todos que roba algo",
+      "evidencia_cue": {
+        "inicio": "02:45:47.960",
+        "fin": "02:45:50.110",
+        "texto": "superdcarado. Pues veis todos que roba algo y él"
+      },
+      "entidades": [
+        "Nox",
+        "Ione",
+        "Axi (identificación contextual con Chochi)",
+        "Collar de altar de serpientes",
+        "Shiaru"
+      ],
+      "ambito": "botín y regreso",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Es nuevo collar, diferente del collar de Tlachka en descanso del 8 y del collar de gemas del 4. No inventar descubrimientos de Axi fuera de pantalla."
+    },
+    {
+      "id": "09-031",
+      "titulo": "El director aclara el tributo y los tatuajes siguen sin interpretar",
+      "tipo": "explicacion_director",
+      "afirmacion": "El director aclara que Bonnie no reclama todos los tesoros hallados: pueden venderlos, aunque Nox e Ione sí deben por reparar la taberna. Las gemas eran parte del objeto encargado para Bonnie. Nox e Ione deciden no informar esta vez; Lunaria conserva la copa. Mamá y Nox dicen no reconocer símbolos de su búsqueda; ella sigue tocándose el tatuaje que le escoció al ser curada y no encuentra explicación.",
+      "inicio": "02:47:40.000",
+      "fin": "02:51:55.000",
+      "cita": "Bonnie no quiere todos vuestros tesoros",
+      "evidencia_cue": {
+        "inicio": "02:48:21.960",
+        "fin": "02:48:24.389",
+        "texto": "claro. Bonnie no quiere todos vuestros tesoros,"
+      },
+      "entidades": [
+        "Happy Bonnie / Bonny (grafía provisional)",
+        "Nox",
+        "Ione",
+        "Lunaria / Luna",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Tatuajes de la espalda de Nox",
+        "Tatuajes de Mamá / Citlali",
+        "Gemas del collar antiguo"
+      ],
+      "ambito": "aclaración de mesa y percepción de Mamá",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Corrige extrapolación de tributo universal, sin borrar amenaza específica por huevo. No saldo definitivo ni deuda aplicada a todos los visitantes."
+    },
+    {
+      "id": "09-032",
+      "titulo": "Ione vende obsidiana y compra ropa a Nox",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "En la Sirena Borracha, Ione vende obsidiana por seis monedas de oro tras regatear sobre un valor indicado de diez y una oferta inicial de cinco. Nox vende el collar del altar por 27. Liz sigue llevando la gema entregada por Patata y dice que la devolverá si Bonnie hace una oferta importante. Ione compra ropa del catálogo de veinte monedas para Nox como compensación por problemas y gesto de amistad.",
+      "inicio": "02:51:30.000",
+      "fin": "02:58:40.000",
+      "cita": "te quito el obsidiana",
+      "evidencia_cue": {
+        "inicio": "02:54:15.359",
+        "fin": "02:54:16.790",
+        "texto": "Pues súmate seis de oro y te quito el obsidiana."
+      },
+      "entidades": [
+        "Ione",
+        "Nox",
+        "Liz / Lizy (encargada de la Sirena Borracha, grafía provisional)",
+        "Sirena Borracha (taberna)",
+        "Gemas del collar antiguo",
+        "Collar de altar de serpientes"
+      ],
+      "ambito": "ventas y regalo",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Obsidiana vendida no es gema del collar de Bonnie. Posesión de Liz confirma que esta gema aún no está recuperada; no compra de vuelta ni confiscación mostradas. Valor de venta no es precio universal."
+    },
+    {
+      "id": "09-033",
+      "titulo": "Ventas finales, pociones y herramientas; Mamá se retira",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Lunaria vende la copa tras regateo: el director acaba asignando 170 monedas de oro y que compre ropa aparte, tras una oferta de 150 más ropa. Compra dos pociones de curación por cien y pregunta al alquimista por hierba; él dice que siempre desaparece al día siguiente y sospecha de las ratas. Nox vende la cimitarra al herrero por veinte y compra herramientas de disfraz, cartografía y caligrafía, con cuentas discutidas sin saldo total firme. Ione entrega el cadáver a Gobs por una moneda, sin botón tras regateo fallido; no obtiene un frasco de venenos. Mamá se retira molesta a cuidar el huevo. Ione termina escondiendo hierba y monedas en el barco.",
+      "inicio": "02:58:10.000",
+      "fin": "03:12:45.000",
+      "cita": "añádete de 170",
+      "evidencia_cue": {
+        "inicio": "03:00:46.319",
+        "fin": "03:00:47.750",
+        "texto": "Meñ o 170 y compro la ropa. Ah, ya. Eso, añádete de 170,"
+      },
+      "entidades": [
+        "Lunaria / Luna",
+        "Nox",
+        "Ione",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Gobs (médico, grafía provisional)",
+        "Alquimista de Shiaru (sin nombre)",
+        "Herrero de Shiaru (sin nombre)",
+        "Copa de oro del templo de serpientes",
+        "Cimitarra del hombre serpiente",
+        "Cadáver grande blanco del templo",
+        "Huevo grande del nido"
+      ],
+      "ambito": "transacciones y cierre",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No consolidar saldo exacto por dinero en bolsa y cuentas de compras discutidas. Ratas del alquimista son sospecha, no causa probada. Petición de llevarse dientes no queda aceptada explícitamente."
+    }
+  ]
+}

@@ -1,0 +1,468 @@
+{
+  "criterio": "Revisión editorial de lugares, organizaciones y objetos. Las etiquetas son exactas y las referencias son IDs de afirmaciones existentes. No modifica transcripciones ni fusiona objetos por semejanza solamente.",
+  "grupos": [
+    {
+      "nombre": "Puerto de Espadas",
+      "etiquetas": [
+        "Puerto de Espadas",
+        "Puerto de las Espadas",
+        "Puerto Espadas"
+      ],
+      "referencias": [
+        "01-005",
+        "12-007",
+        "23-004",
+        "31-005"
+      ],
+      "nota": "Variantes editoriales del puerto exterior citado como procedencia y destino; no tres puertos distintos.",
+      "tipo": "lugar",
+      "descripcion": "Puerto exterior a Xoltacan, lugar de origen de Erendriel y destino propuesto para Jack."
+    },
+    {
+      "nombre": "Atlan",
+      "etiquetas": [
+        "Atlan (reino leonino)",
+        "Atlan (reino leonino, grafía provisional)",
+        "Atlan / Atlat (reino leonino, grafía provisional)"
+      ],
+      "referencias": [
+        "16-003",
+        "17-006",
+        "20-004",
+        "31-024"
+      ],
+      "nota": "Naór se presenta hija del mismo Camar y princesa de Atlan; Atlat es variante. No identifica el nombre de su capital ni fusiona reino y ciudad natal.",
+      "tipo": "lugar",
+      "descripcion": "Reino leonino de Camar Taruan al sur, del que procede Naór."
+    },
+    {
+      "nombre": "Cuicapalli",
+      "etiquetas": [
+        "Cuicapalli",
+        "Cuicapalli (identificación contextual provisional)"
+      ],
+      "referencias": [
+        "01-004",
+        "16-014",
+        "16-015"
+      ],
+      "nota": "Misma grafía normalizada contextual de Cuikapali; no certeza adicional sobre ortografía oficial.",
+      "tipo": "lugar",
+      "descripcion": "Ciudad nativa de distintas especies dirigida por Eromov."
+    },
+    {
+      "nombre": "Iktan",
+      "etiquetas": [
+        "Iktan",
+        "Iktan (identificación contextual provisional)"
+      ],
+      "referencias": [
+        "01-007",
+        "31-023"
+      ],
+      "nota": "Ictan e Iktan corresponden al topónimo normalizado en las fichas.",
+      "tipo": "lugar",
+      "descripcion": "Población de procedencia declarada de Mamá, visitada en el capítulo 31."
+    },
+    {
+      "nombre": "Ras Racor",
+      "etiquetas": [
+        "Ras Racor (ciudad lagarto, grafía provisional)",
+        "Ras Racor (grafía provisional)"
+      ],
+      "referencias": [
+        "17-006",
+        "17-010",
+        "20-001"
+      ],
+      "nota": "Dos rótulos editoriales para la misma ciudad; grafía fonética pendiente.",
+      "tipo": "lugar",
+      "descripcion": "Ciudad de hombres lagarto, con monarquía y arena ceremonial."
+    },
+    {
+      "nombre": "Ruki Peten",
+      "etiquetas": [
+        "Ruki Peten (grafía provisional)",
+        "Ruki Peten (pantano, grafía provisional)"
+      ],
+      "referencias": [
+        "10-009",
+        "11-009",
+        "17-004"
+      ],
+      "nota": "Variación de metadatos del mismo pantano; grafía provisional.",
+      "tipo": "lugar",
+      "descripcion": "Pantano al norte de Shiaru atravesado hacia el poblado de hombres lagarto."
+    },
+    {
+      "nombre": "El Garfio",
+      "etiquetas": [
+        "El Garfio",
+        "El Garfio (costa)",
+        "Garfio"
+      ],
+      "referencias": [
+        "04-001",
+        "07-010",
+        "09-014",
+        "20-007",
+        "23-004"
+      ],
+      "nota": "Topónimo costero recurrente. Sus campamentos, excavaciones y fuerte se mantienen como lugares subordinados distintos.",
+      "tipo": "lugar",
+      "descripcion": "Zona costera asociada a exploraciones y posiciones de la Marina."
+    },
+    {
+      "nombre": "Fuerte Aurora",
+      "etiquetas": [
+        "Fuerte Aurora",
+        "Fuerte Aurora (grafía provisional)"
+      ],
+      "referencias": [
+        "07-010",
+        "12-009",
+        "23-004"
+      ],
+      "nota": "Variación editorial del mismo fuerte; no absorbe la etiqueta genérica Fuerte de la Marina sin identificación específica.",
+      "tipo": "lugar",
+      "descripcion": "Fortaleza de la Marina, donde estuvo Molly y se ejecuta la infiltración del capítulo 23."
+    },
+    {
+      "nombre": "La Sirena Borracha",
+      "etiquetas": [
+        "La Sirena Borracha",
+        "Sirena Borracha (taberna)"
+      ],
+      "referencias": [
+        "01-024",
+        "04-030",
+        "09-032"
+      ],
+      "nota": "Mismo establecimiento con Liz como encargada. No fusiona Taberna de Bonnie ni Local de Liz por inferencia de proximidad.",
+      "tipo": "lugar",
+      "descripcion": "Posada de Shiaru con alojamiento, comercio y servicios, atendida por Liz."
+    },
+    {
+      "nombre": "Casino de Kilzer",
+      "etiquetas": [
+        "Casino de Kilzer",
+        "Casino propuesto de Shiaru"
+      ],
+      "referencias": [
+        "11-031",
+        "13-011",
+        "17-001",
+        "17-002",
+        "29-002"
+      ],
+      "nota": "Proyecto y negocio posterior son fases de la misma iniciativa de Kilzer y Nox. La fusión no implica que estuviera abierto desde el capítulo 11.",
+      "tipo": "lugar",
+      "descripcion": "Negocio de Kilzer en Shiaru, preparado tras negociar con Nox la licencia y el reparto."
+    },
+    {
+      "nombre": "Hospital de Shiaru",
+      "etiquetas": [
+        "Hospital de Shiaru",
+        "Hospital de campaña de Shiaru"
+      ],
+      "referencias": [
+        "08-003",
+        "08-006",
+        "24-021"
+      ],
+      "nota": "Dos denominaciones editoriales del establecimiento médico de Shiaru; sin asumir identidad de todos sus profesionales.",
+      "tipo": "lugar",
+      "descripcion": "Lugar de atención de heridos en Shiaru."
+    },
+    {
+      "nombre": "Zampaolas",
+      "etiquetas": [
+        "Barco Zampaolas (grafía provisional)",
+        "Zampaolas"
+      ],
+      "referencias": [
+        "01-033",
+        "33-002",
+        "38-006"
+      ],
+      "nota": "Mismo barco a través de capítulos. La tripulación Zampaolas se mantiene como organización separada del casco.",
+      "tipo": "objeto",
+      "descripcion": "Barco asociado a Nox e Ione; llega averiado y estampado junto a la taberna de Shiaru."
+    },
+    {
+      "nombre": "Tripulación del Zampaolas",
+      "etiquetas": [
+        "Zampaolas (tripulación)"
+      ],
+      "referencias": [
+        "03-015",
+        "06-005"
+      ],
+      "nota": "Colectivo de personas, distinto de la embarcación aunque comparta nombre.",
+      "tipo": "faccion",
+      "descripcion": "Grupo pirata al que Ione invita o incorpora compañeros."
+    },
+    {
+      "nombre": "Marina",
+      "etiquetas": [
+        "Marina"
+      ],
+      "referencias": [
+        "03-019",
+        "05-007",
+        "23-004"
+      ],
+      "nota": "Organización militar. Marina, la sirena liberada del capítulo 6, sigue como personaje separado.",
+      "tipo": "faccion",
+      "descripcion": "Organización extranjera con soldados, buques, excavaciones y fortificaciones en Xoltacan."
+    },
+    {
+      "nombre": "Anillo familiar de Erendriel",
+      "etiquetas": [
+        "Anillo familiar del elfo",
+        "Anillo familiar de Erendriel",
+        "Anillo de Erendriel en poder de Nox"
+      ],
+      "referencias": [
+        "05-010",
+        "12-007",
+        "28-019"
+      ],
+      "nota": "El anillo familiar mostrado por Erendriel reaparece citado por Nox como anillo del elfo muerto. No identifica familia o cargo y no lo confunde con anillo negro de Bonnie.",
+      "tipo": "objeto",
+      "descripcion": "Anillo con círculo, X y gema roja, mostrado por Erendriel a Jack; Nox dice llevarlo tras su muerte."
+    },
+    {
+      "nombre": "Diario Terran del nawal",
+      "etiquetas": [
+        "Diario en Terran del templo",
+        "Libro de Nox preparado en Terran",
+        "Diario Terran de nawal"
+      ],
+      "referencias": [
+        "08-021",
+        "08-024",
+        "11-011",
+        "12-004",
+        "12-008",
+        "35-009"
+      ],
+      "nota": "El director confirma en 12 que el libro dado por Erendriel es el diario recogido del nawal. No es el diario común del mercante maldito.",
+      "tipo": "objeto",
+      "descripcion": "Diario del templo de los nawals cuya escritura degenera; Nox lo utiliza para rituales y glifos."
+    },
+    {
+      "nombre": "Gemas del collar antiguo",
+      "etiquetas": [
+        "Gemas extraídas del collar",
+        "Gemas del collar antiguo"
+      ],
+      "referencias": [
+        "04-020",
+        "04-021",
+        "04-030",
+        "09-031",
+        "11-028"
+      ],
+      "nota": "Mismas gemas repartidas tras extraerlas del collar de misión de Bonnie. No fusiona otros collares ni otras gemas de tesoro.",
+      "tipo": "objeto",
+      "descripcion": "Gemas extraídas del collar encontrado con los piratas enviados por Bonnie y distribuidas entre compañeros."
+    },
+    {
+      "nombre": "Tatuajes de la espalda de Nox",
+      "etiquetas": [
+        "Tatuajes de la espalda de Nox",
+        "Tatuajes de espalda de Nox"
+      ],
+      "referencias": [
+        "07-025",
+        "26-017",
+        "26-019"
+      ],
+      "nota": "Dos formas editoriales del mismo conjunto de tatuajes. No son las marcas de Mamá ni los tatuajes comerciales de Cuicapalli.",
+      "tipo": "objeto",
+      "descripcion": "Tatuajes que Nox muestra a Mamá y que reaccionan durante la exploración de la pirámide serpiente."
+    },
+    {
+      "nombre": "Ojo-orbe recuperado por Nox",
+      "etiquetas": [
+        "Ojo-orbe de serpiente (recuperado28)",
+        "Ojo / esfera custodiada por Bonnie"
+      ],
+      "referencias": [
+        "28-013",
+        "28-019",
+        "37-005",
+        "37-017"
+      ],
+      "nota": "Objeto retirado por Nox, entregado a Bonnie y estudiado después. No fusiona ilusión de ojo ni entidades de las visiones.",
+      "tipo": "objeto",
+      "descripcion": "Ojo brillante de la serpiente convertido en objeto de estudio y custodiado en Shiaru."
+    },
+    {
+      "nombre": "Mocho de Sir Poncelot",
+      "etiquetas": [
+        "Mocho de Poncelot",
+        "Fregona de Poncelot"
+      ],
+      "referencias": [
+        "06-009",
+        "20-005"
+      ],
+      "nota": "Misma denominación doméstica y papel de lanza sagrada, con Liz como origen. No sustituye su espada o espina-lanza posterior.",
+      "tipo": "objeto",
+      "descripcion": "Utensilio de limpieza usado por Poncelot como arma y como señuelo para su mosca."
+    },
+    {
+      "nombre": "Negociación",
+      "etiquetas": [
+        "Negociación (arma de Ione)",
+        "Negociación (puños americanos de Ione)",
+        "Nudilleras de Ione"
+      ],
+      "referencias": [
+        "09-006",
+        "23-008",
+        "36-012"
+      ],
+      "nota": "El director nombra Negociación al otorgar los metales de puño a Ione; siguientes usos coinciden. No fusiona su bate Diálogo.",
+      "tipo": "objeto",
+      "descripcion": "Arma de puños de Ione, utilizada durante infiltraciones y combates."
+    },
+    {
+      "nombre": "Monedas antiguas de Ayoto",
+      "etiquetas": [
+        "Tres monedas antiguas de Ayoto",
+        "Monedas antiguas de Ayoto"
+      ],
+      "referencias": [
+        "13-025",
+        "27-009"
+      ],
+      "nota": "Botín antiguo recogido por Ayoto; entrega dos a babuinos después. No agrega monedas comunes ni monedas antiguas de otras excavaciones.",
+      "tipo": "objeto",
+      "descripcion": "Monedas recogidas por Ayoto en el sótano del templo de la danza."
+    },
+    {
+      "nombre": "Perla de comunicación de Coyote",
+      "etiquetas": [
+        "Perla marina de Coyote",
+        "Perla comunicadora de Coyote"
+      ],
+      "referencias": [
+        "24-012",
+        "24-014",
+        "29-005"
+      ],
+      "nota": "Continuidad del objeto marino de Coyote que permite conversar con la sirena en la orilla. No es perla de botín de Ayoto ni las de otras expediciones.",
+      "tipo": "objeto",
+      "descripcion": "Perla usada por Coyote para comunicarse con Maris y preparar su rescate."
+    },
+    {
+      "nombre": "Cinco reyes piratas",
+      "etiquetas": [
+        "Cinco reyes piratas (Honk, grafía provisional)",
+        "Cinco reyes piratas (grupo referido)"
+      ],
+      "referencias": [
+        "11-024",
+        "26-006"
+      ],
+      "nota": "Mismo colectivo referido por su número. Honk es reconocimiento incierto, no nombre canónico del colectivo ni un sexto miembro confirmado.",
+      "tipo": "faccion",
+      "descripcion": "Cinco dirigentes piratas asociados a monedas especiales; Nox refiere una reunión de los cinco."
+    },
+    {
+      "nombre": "Cuchillas Negras",
+      "etiquetas": [
+        "Cuchillas Negras (identificación de anillo)"
+      ],
+      "referencias": [
+        "11-029"
+      ],
+      "nota": "Nombre reconocido al ver anillo; vínculo concreto de Bonnie no se convierte en pertenencia confirmada.",
+      "tipo": "faccion",
+      "descripcion": "Organización o denominación reconocida por el símbolo de dos espadas del anillo negro de Bonnie."
+    }
+  ],
+  "exclusiones": [
+    {
+      "etiqueta": "Sucesos de descanso en Shiaru",
+      "razon": "Agrupador editorial de sucesos; no persona, lugar, objeto u organización."
+    },
+    {
+      "etiqueta": "Reglas caseras de combate",
+      "razon": "Explicación de reglas de juego; conservar el registro de fuente fuera del catálogo de entidades."
+    },
+    {
+      "etiqueta": "Heridas y rejuvenecimiento de Mamá",
+      "razon": "Estado y evolución de un personaje; deben aparecer dentro de Mamá, no como entidad nueva."
+    },
+    {
+      "etiqueta": "Deudas de Nox",
+      "razon": "Relación económica y trama del personaje, no entidad autónoma."
+    },
+    {
+      "etiqueta": "Juego ceremonial de pelota",
+      "razon": "Actividad narrada; no ficha de persona, lugar, objeto u organización."
+    },
+    {
+      "etiqueta": "Festival de Cuicapalli",
+      "razon": "Acontecimiento de cronología, no una segunda entidad de Cuicapalli."
+    },
+    {
+      "etiqueta": "Explosión de pólvora Aurora",
+      "razon": "Acontecimiento del fuerte, no lugar u objeto autónomo."
+    },
+    {
+      "etiqueta": "Visión de Mamá al registrar cadáver",
+      "razon": "Acontecimiento visionario con valor como evidencia, no entidad nueva."
+    },
+    {
+      "etiqueta": "Visión de portal tentacular (28)",
+      "razon": "Escena de visión. Conservar hechos e imágenes en registros y misterios sin crear ficha de visión como personaje."
+    },
+    {
+      "etiqueta": "Visión de ritual de eclipse (28)",
+      "razon": "Escena de visión, no persona, lugar u organización identificada."
+    },
+    {
+      "etiqueta": "Ilusión de ojo en isla (cierre28)",
+      "razon": "Aparición/efecto de escena, no segundo ojo físico ni entidad independiente."
+    },
+    {
+      "etiqueta": "Influencia mental del dragón verde de Iktan",
+      "razon": "Efecto del dragón, a documentar dentro de su historia, no personaje adicional."
+    },
+    {
+      "etiqueta": "Branquias temporales concedidas por sirenos",
+      "razon": "Efecto mágico temporal sobre viajeros, no objeto o criatura independiente."
+    },
+    {
+      "etiqueta": "Burbujas de respiración acuática",
+      "razon": "Efecto mágico temporal, no objeto permanente identificado."
+    },
+    {
+      "etiqueta": "Burbujas de respiración de la sirena",
+      "razon": "Efecto mágico temporal, no objeto o personaje independiente."
+    },
+    {
+      "etiqueta": "Maldición de drenaje de Citlali",
+      "razon": "Condición/trama de Citlali, no una entidad adicional."
+    },
+    {
+      "etiqueta": "Alias Yelber el Magnífico usado por Eldrat",
+      "razon": "Alias de personaje conocido; se consulta en Eldrat y en el registro que lo utiliza, no como otra persona."
+    }
+  ],
+  "no_fusionar": [
+    "Marina militar y Marina sirena son entidades diferentes.",
+    "Los campamentos de Marina de capítulos 12, 20, 34 y 36 no se identifican automáticamente entre sí.",
+    "Las copas de capítulos 9, 12 y 15 tienen fuentes distintas; no una única copa genérica.",
+    "Collares de misión de Bonnie, descanso de Tlachka, charca, Leo y Blink no equivalen por compartir tipo de objeto.",
+    "Moneda negra del mercante, moneda pirata de Bonnie y monedas antiguas de excavaciones no son iguales.",
+    "Mapas de Marina, tesoros, Kuroto, Poncelot y mapa aleatorio de Luna requieren continuidad individual; no fusionarlos por palabra mapa.",
+    "Hospital como lugar y Gobs como persona conservan fichas separadas.",
+    "Mocho y espina-lanza de Poncelot se conservan distintos."
+  ]
+}

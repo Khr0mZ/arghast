@@ -1,0 +1,209 @@
+{
+  "34": {
+    "resumen": "Citlali, ya liberada y alejada de Shiaru por la advertencia de Bonnie, vuelve al Zampaolas para recoger sus pertenencias y el huevo. Los hipopótamos han reorganizado el camarote y explican que Ione expulsó a Nox. El huevo ha desaparecido. Blink, Zarial y Winscore se suman a la búsqueda. Detectar pensamientos permite encontrar a piratas que afirman que la Marina lo robó durante el ataque. Citlali golpea accidentalmente a Tim con una chancla; él cae al agua y el director confirma su muerte. Siguen un rastro de arrastre hacia el sur. Un combate contra dinosaurios derriba a Winscore y Zarial; el drenaje de vida de Mamá agrava las heridas del enano. Se recuperan y descansan. Encuentran un campamento de la Marina donde Pinky reclama el huevo. La magia mejora su sigilo y Blink entra en la tienda mientras Winscore corta la tela y Mamá distrae a los oficiales. Sacan el huevo, pero Pinky los denuncia. Huyen mientras Mamá encanta a los marines y Pinky incendia el campamento. Un disparo perfora la cáscara. Cuando se reúnen, la curación desencadena la eclosión de una gran cría de dinosaurio emplumada. Esta mata y devora al capitán que los persigue. El grupo parte hacia Cuicapalli para buscar refugio al bebé, todavía sin nombre.",
+    "misiones": [
+      "Recuperar el huevo: siguen la pista de la Marina y el rastro de arrastre. Lo extraen mediante infiltración y una distracción, pero los descubren y huyen. El huevo recibe un disparo y eclosiona después de ser curado; la cría está viva (34-003–34-018).",
+      "Buscar refugio para Citlali y la cría: parten hacia Cuicapalli y proponen una cueva como alternativa. No se muestra la llegada ni obtienen permiso (34-020)."
+    ],
+    "preguntas": [
+      "¿Qué causa las lagunas de memoria de Blink? No se explica (34-001).",
+      "¿Dónde están Triel, ausente una semana, y Nox, expulsado del barco? Se mencionan sin revelar sus paraderos (34-001 y 34-003).",
+      "¿En qué estado quedan el campamento y Pinky y qué causa la desaparición de Paco? Hay un incendio y una huida, sin un balance final (34-017).",
+      "¿Cuál es el nombre y la especie de la cría? ¿La aceptarán en Cuicapalli? Queda pendiente (34-018–34-020)."
+    ],
+    "contradicciones": [
+      "El médico piensa en un huevo pequeño, no en el huevo de dinosaurio que buscan (34-005–34-006).",
+      "Que los hipopótamos tiraran el nido no demuestra que robaran el huevo. Los testigos señalan a la Marina (34-003 y 34-006).",
+      "Mamá no cura inicialmente al enano: le roba dieciocho puntos de vida y contribuye a su caída. Después aplica una curación normal de siete puntos y se disculpa (34-009–34-010).",
+      "La invisibilidad de Blink no incluye al huevo según la adjudicación de la mesa (34-014).",
+      "Citlali interpreta que la buscan o amenazan. El director aclara que Bonnie le advirtió que se alejara por el peligro de la Marina (34-020)."
+    ],
+    "nombres_dudosos": [
+      "Zarial/Azarial/Tarial/Sarial es la paladina, distinta de Eleanor.",
+      "Winscore/Winscor/Winson es el explorador enano, de grafía provisional.",
+      "Mike y Luis aparecen en bromas sobre los guardias y no identifican de forma fiable a los capitanes.",
+      "La cría se describe como un dinosaurio o pollo emplumado, sin nombre ni especie exacta."
+    ],
+    "registros": {
+      "34-001": {
+        "afirmacion": "Zarial ha pasado tiempo con su amiga Triel, ausente desde hace una semana, y pierde seis monedas de oro mientras duerme en Shiaru. Winscore explora los alrededores y viene de Cuicapalli. Citlali afirma que una pirata la liberó y habló con ella y Nox; evita Shiaru por la advertencia de Bonnie. Blink relata lagunas de memoria e intentos fallidos de marcharse.",
+        "limitacion": "No se confirma la causa de la amnesia de Blink ni que sea mágica. Citlali refiere su liberación, por lo que no sigue cautiva."
+      },
+      "34-002": {
+        "afirmacion": "Blink propone a Zarial viajar al día siguiente a Cuicapalli, pero ella quiere avisar a Triel. Winscore se presenta, describe los experimentos del médico y afirma que no frecuenta a los piratas. Hablan de abandonar el pueblo y de sus peligros."
+      },
+      "34-003": {
+        "afirmacion": "Citlali entra con sigilo en el Zampaolas y el camarote de Nox. Mingo, Mango y Mungo lo han reorganizado con plantas y una librería. Afirman que Ione expulsó a Nox. Citlali ofrece chocolate especial para pasar y recupera sus cosas, pero no el huevo ni el nido. Los hipopótamos dicen que encontraron paja y ropa sin huevo, las consideraron basura y tiraron el nido.",
+        "limitacion": "La expulsión procede del relato de los tripulantes. No demuestra que robaran el huevo, que según ellos ya faltaba. No se aplica un efecto del chocolate en la narración."
+      },
+      "34-004": {
+        "afirmacion": "Mamá se oculta cerca de la entrada y cuenta a Blink que el huevo ha desaparecido. Blink reúne a Zarial y Winscore y les presenta a Citlali. Consideran a la Marina, Bonnie y Nox como posibles responsables, sin pruebas iniciales. Una fruta reduce veinte centímetros la altura de Zarial y triplica la capacidad de carga de Blink."
+      },
+      "34-005": {
+        "afirmacion": "Citlali afirma que el huevo pertenece a un dinosaurio cuya madre mataron al defender a una persona atacada. Dice que lo cría para cumplir una promesa. Según la conversación, Merlucilla IV se llevó el cadáver del elfo. Blink utiliza detectar pensamientos mientras recorre el pueblo. Oye al médico pensar en un trozo de huevo y a unos piratas hablar de un huevo enorme.",
+        "limitacion": "El apodo Mamá no establece una maternidad literal de Citlali o Blink. Se refiere la retirada del cadáver, sin una escena de entierro."
+      },
+      "34-006": {
+        "afirmacion": "Blink comprueba que el médico tiene un huevo pequeño y un cadáver, no el huevo que buscan. Citlali increpa a los piratas del muelle. Dicen que la Marina se llevó el huevo durante el ataque y creen que lo llevaron al bosque. Ella golpea a Tim con una chancla; él cae al agua y desaparece. El director confirma su muerte y menciona un kraken previo, sin añadir detalles.",
+        "limitacion": "El médico no se comió el huevo de dinosaurio. La suposición del pirata tampoco confirma su destino exacto."
+      },
+      "34-007": {
+        "afirmacion": "Citlali encuentra un gran surco de arrastre, distinto de la paja del nido que desecharon los hipopótamos. Lo siguen al sur de Shiaru. Encuentran dos cadáveres de la Marina. Winscore identifica arañazos y mordeduras, sin balas o cortes, aunque su posición sugiere una refriega. Mamá y el enano detectan dinosaurios cerca."
+      },
+      "34-008": {
+        "afirmacion": "Los dinosaurios muerden y arañan al grupo y sorprenden a Zarial y Blink. Mamá mata a uno con las chanclas. Blink cura, utiliza susurros disonantes para provocar huidas y ataques aliados y desvía a una criatura con telequinesis. Zarial ataca y se coloca en posición; Winscore también combate. El grupo recibe varios golpes.",
+        "limitacion": "La grafía de la especie es incierta. Los nombres técnicos mal reconocidos no permiten identificar a cada criatura."
+      },
+      "34-009": {
+        "afirmacion": "Mamá toca el cuello de Winscore y le roba dieciocho puntos de vida para curarse y rejuvenecer. Los ataques posteriores derriban al enano y a Zarial. Blink lanza patrón hipnótico, que afecta a Mamá y a un dinosaurio. Baja para dar una poción de Arwen a Zarial, que recupera el conocimiento con ceceo. Blink termina la concentración para liberar a Mamá.",
+        "limitacion": "Mamá presenta el drenaje como una necesidad, no como una curación del enano. Las caídas no suponen muertes ni resurrecciones."
+      },
+      "34-010": {
+        "afirmacion": "Zarial se levanta y mata a dos dinosaurios; el grupo elimina la amenaza. Mamá da una poción a Winscore para recuperarlo, después le cura siete puntos de forma normal y se disculpa. Zarial utiliza treinta puntos de imposición de manos. Entre los cadáveres encuentran una perla y un pergamino de nivel uno cuyo conjuro desconocen. Descansan una hora pese a la urgencia de Mamá."
+      },
+      "34-011": {
+        "afirmacion": "Durante el descanso en la selva oyen movimiento. Blink y Zarial intentan ocultarse y Winscore prepara fuego. Mamá come una fruta que vuelve pegajosa su saliva. Zarial resiste un polen extraño. No identifican a un atacante y se marchan. Recuperan el surco del huevo hacia el sur y llegan al anochecer a las luces de un campamento junto al río.",
+        "limitacion": "No se demuestra que el polen proceda de Pinky o de otra criatura concreta."
+      },
+      "34-012": {
+        "afirmacion": "El grupo prefiere recuperar el huevo sin matar. Una magia mejora su sigilo en diez puntos mientras permanezcan cerca. En el campamento, dos capitanes discuten con una anciana sujeta por los marines: Pinky lleva dos días reclamando algo suyo. Su percepción pasiva le permite detectar a Blink y Winscore mientras bordean el campamento.",
+        "limitacion": "El director aclara que es un campamento distinto de Fuerte Aurora."
+      },
+      "34-013": {
+        "afirmacion": "Mamá intenta atraer a un perro con una piedra y hablar con animales. El ladrido alerta a un guardia, que la encuentra. Ella finge estar perdida y él la acompaña, sangrando por su cercanía a la maldición. Winscore, Blink y Zarial llegan a una tienda. Blink entra por debajo y encuentra el huevo. Winscore corta la tela y Zarial vigila mientras Mamá llora ante los oficiales para distraerlos."
+      },
+      "34-014": {
+        "afirmacion": "Gracias a la capacidad de carga triplicada, Blink vuela con el huevo a través del corte de la tienda. Pinky señala a los ladrones y denuncia la mentira de Mamá. Los marines atacan y disparan. Blink utiliza Invisibilidad Mayor, pero el huevo sigue visible según la adjudicación sobre su tamaño o condición de criatura. Winscore y Zarial huyen al norte.",
+        "limitacion": "El huevo no se vuelve invisible y los tres no vuelven a ser capturados."
+      },
+      "34-015": {
+        "afirmacion": "El perro acepta a Mamá y no la ataca, aunque la mesa no permite que lo controle para atacar a su dueño. Mamá encanta a unos marines, que defienden su inocencia. Pinky queda libre, reclama el huevo, lanza fuego contra un marine y una tienda, recibe disparos y huye. El drenaje de Mamá hace sangrar a los aliados encantados.",
+        "limitacion": "Las bromas sobre relaciones polígamas entre marines no demuestran una organización o afiliación."
+      },
+      "34-016": {
+        "afirmacion": "Un disparo dirigido al huevo perfora la cáscara y deja un agujero con líquido y respiración. Blink lo tapa con el dedo, continúa huyendo y prepara magia contra sus perseguidores. Mamá vuelve a drenar vida y utiliza Paso brumoso para huir al sur. Los marines encantados frenan a sus compañeros.",
+        "limitacion": "El disparo no confirma la muerte del embrión ni la discapacidad sugerida en las bromas."
+      },
+      "34-017": {
+        "afirmacion": "Pinky lanza un muro de fuego y ríe entre las llamas y los gritos de los marines. Los fugitivos se alejan durante horas hasta reunirse, sin perseguidores inmediatos. Un marine que corría junto a los tres desaparece tragado por la tierra, según el director, sin una explicación. El huevo conserva el agujero.",
+        "limitacion": "No se confirma la muerte de todos los marines ni se identifica la causa de la desaparición."
+      },
+      "34-018": {
+        "afirmacion": "Blink cura el huevo. La figura interior brilla y rompe la cáscara desde dentro. Sale una cría enorme, emplumada y con pico, descrita como un pollo. Blink aumenta su propio tamaño para no parecer una presa y recoge insectos para Mamá. Citlali intenta alimentar a la cría mientras le canta nanas.",
+        "limitacion": "El huevo ya no permanece intacto. No se determina la especie exacta ni las habilidades adultas de la cría."
+      },
+      "34-019": {
+        "afirmacion": "Un capitán quemado y sangrante sale de la jungla y dispara cerca de Mamá. La cría intenta atacarlo y falla al principio. La magia lo inmoviliza y el dinosaurio acierta con un crítico, lo mata y lo traga. El grupo cuestiona que se alimente de carne humana.",
+        "limitacion": "No se identifica con certeza cuál de los dos oficiales es ni se establece una domesticación completa."
+      },
+      "34-020": {
+        "afirmacion": "Winscore propone como refugio una cueva de hombres serpiente muertos cerca de Cuicapalli. Mamá prefiere la ciudad, aunque teme que no la acepten. El director aclara que Bonnie la apartó de Shiaru para evitar a la Marina, sin que eso implique que la persiga. Parten hacia Cuicapalli con la cueva como alternativa y guían al bebé mediante un conejo ilusorio. La cría come la cartera de Winscore con dos monedas de oro. Todavía no tiene nombre.",
+        "limitacion": "No llegan a la ciudad ni obtienen su aceptación. Tampoco se alojan aún en la cueva."
+      }
+    }
+  },
+  "35": {
+    "resumen": "Nox recluta a Patata, Luna y Poncelot para investigar por qué Molly dejó de contactar con Bonnie desde Fuerte Aurora. Engaña al herrero para comprar una armadura rebajada y toma el uniforme de Jack. Viajan durante varios días. Patata y Poncelot entran fingiendo ser mercader y guardaespaldas, acompañados de Luna como supuesta niña. Nox entra por el agua, evitando tiburones. Tórtola rechaza el alojamiento. Luna provoca una explosión de pólvora que mata a un marine. Cuando intentan salir, el almirante los retiene con un muro y compra información falsa sobre un asentamiento nativo. Los deja ir, pero ordena seguirlos en una escena reservada. Nox interroga y ata a un guardia, encuentra a Molly destituida y presa y la libera junto con Pinky, capturada por el huevo. Una criatura cautiva muestra a Nox una visión de Xoltacan devastada y una serpiente alada que se convierte en humanoide sobre una pirámide. Ofrece liberarlos si la sueltan. Resisten su influencia y no la liberan. Molly huye en un bote. Pinky incendia a los marines y Tórtola vuelve a capturarla. Nox propone por Mensaje negociar información y las cabezas de los piratas. Tórtola rechaza el trato y prepara un ataque. Nox, sus compañeros y Molly se reúnen y regresan a Shiaru. Bonnie y Molly conversan y ríen. Los tres ayudantes reciben recompensas, pero Nox no. Él pide hablar con Molly en el barco; la conversación queda pendiente.",
+    "misiones": [
+      "Investigar la situación de Molly: la encuentran destituida y presa, la liberan y la acompañan hasta Bonnie en Shiaru. Los tres ayudantes reciben recompensas, pero Nox queda excluido (35-005–35-019).",
+      "Liberar a Pinky: queda libre brevemente e incendia a los marines, pero Tórtola la recaptura. Sigue presa al cierre (35-012, 35-015–35-016).",
+      "Negociar con Tórtola: rechaza la oferta de Nox y prepara un ataque. No se establece un nuevo tratado (35-016)."
+    ],
+    "preguntas": [
+      "¿Quiénes son la criatura presa y la serpiente de la visión, y qué pirámide aparece? La influencia mental no termina con su liberación (35-014–35-015).",
+      "¿Qué dicen los informes de Molly y cuál será su situación oficial tras huir? ¿Qué contará a Nox? Queda pendiente (35-016 y 35-020).",
+      "¿Qué piratas anuncia Nox que están en camino y qué prepara el almirante? No se muestra su llegada (35-016).",
+      "¿Los perseguidores siguen al grupo y qué ocurre con Smith y Pinky? Se ordena seguirlos y se confirma la recaptura de Pinky (35-010, 35-013 y 35-016)."
+    ],
+    "contradicciones": [
+      "Smith afirma que Molly se jubiló y volvió a casa, pero el guardia interrogado dice que fue destituida y llevada a la torre. Encontrarla en una celda confirma el cautiverio (35-009–35-012).",
+      "El director confirma el nombre Armin para el herrero, frente a Pit utilizado por los jugadores (35-004).",
+      "Nox retira la promesa inicial de una recompensa al explicar el plan. Bonnie paga después a los tres ayudantes (35-005 y 35-019).",
+      "Tórtola permite salir al grupo, pero no cree el relato y ordena seguirlo en una escena reservada (35-013).",
+      "La serpiente libre es una Imagen mayor. La criatura sigue en la jaula (35-015).",
+      "El supuesto parentesco entre Bonnie y Molly es una especulación de los jugadores, no un hecho (35-019)."
+    ],
+    "nombres_dudosos": [
+      "Tórtola/Tórtora es el almirante aviar. No se lo identifica automáticamente con el general del capítulo 32.",
+      "Morti/Mortis es el alquimista del mono, de grafía provisional.",
+      "El director confirma Armin para el herrero; Pit es la denominación de los jugadores.",
+      "Baldur Puerta y Sir Merlino son los alias utilizados por Patata y Poncelot para engañar al almirante."
+    ],
+    "registros": {
+      "35-001": {
+        "afirmacion": "Poncelot ayudó a Ione a remodelar el barco y obtiene un casco de cubo con ojos de mosca que da un punto de clase de armadura. Nox refiere que Bonnie no consigue contactar con Molly. Desconoce la causa y prepara otra infiltración; pierde un foco y obtiene otro. Luna ha causado pequeños incendios y sufre daño. Patata pierde tres monedas de oro y Poncelot encuentra tres, sin una transferencia demostrada."
+      },
+      "35-002": {
+        "afirmacion": "Patata vende su jade a Liz por cincuenta y tres monedas de oro. Luna embellece el suyo con una ilusión y recibe sesenta por el jade y cinco más por la obsidiana. Liz sabe que murió una trabajadora. Poncelot intenta apagar un incendio, pero un ladrón aprovecha para robar botellas y el comerciante culpa al gnomo.",
+        "limitacion": "Las cinco monedas corresponden a la obsidiana. El jade no se vende por sesenta y cinco."
+      },
+      "35-003": {
+        "afirmacion": "Nox recorre el Zampaolas, reformado por los hipopótamos. Busca a Ione sin encontrarla y nota el espacio que ocupaba el huevo. Se une a los compañeros. Luna mata con fuego a un loro pirata y se presenta como chamán purgadora. No se identifica individualmente al ave ni las bromas confirman su inmortalidad."
+      },
+      "35-004": {
+        "afirmacion": "Nox vende una antitoxina y una poción de salud al alquimista Morti/Mortis por setenta y cinco monedas en total, tras negociar otras ofertas. Compra una armadura de cuero tachonado por treinta en vez de cuarenta y cinco, alegando un falso impuesto de Bonnie. El director confirma Armin como nombre del herrero, frente a Pit usado por los jugadores. Un intento posterior de robo falla y Nox recibe un objeto sin valor.",
+        "limitacion": "El engaño de Nox no confirma un impuesto real del diez por ciento."
+      },
+      "35-005": {
+        "afirmacion": "Luna regala una moneda antigua a Poncelot para su casco. Nox ofrece públicamente una gran recompensa por infiltrarse en Aurora, pero explica a los tres que no hay un pago prometido y que buscaba una distracción. Afirma que Molly y Bonnie compartían intereses, pero Molly dejó de informar. No sabe si está presa o si permanece allí. El grupo acepta investigar.",
+        "limitacion": "La interpretación de Poncelot no demuestra que Molly sea pirata o agente doble."
+      },
+      "35-006": {
+        "afirmacion": "Jack pierde parte de su aspecto, traje y bota. Luna le roba la bota izquierda, que no compensa la falta del pie derecho. Nox repara y toma el uniforme para disfrazarse; Jack decide no acompañarlos. Viajan durante días y noches, evitando dinosaurios en una elipsis. Las frutas dan ventaja en percepción a Nox, triplican el salto de Luna, proporcionan setenta pies de movimiento a Patata y permiten a Poncelot lanzar gratis su próximo conjuro.",
+        "limitacion": "La elipsis humorística no documenta una aventura extraplanar concreta ni un castigo de Bonnie a Jack por su apariencia."
+      },
+      "35-007": {
+        "afirmacion": "El plan presenta a Patata como mercader, Poncelot como guardaespaldas y Luna como una niña. Entrarán al anochecer y señalarán el hallazgo mediante un ave ilusoria. Patata crea comida para quince personas o caballos. Nox utiliza magia de movilidad y visión y una poción de respiración acuática. Detecta un tiburón, lo distrae con sangre de un animal y nada hacia el fuerte."
+      },
+      "35-008": {
+        "afirmacion": "Smith deja pasar a los viajeros porque Luna le parece su propia hija, pese a las órdenes de no admitirlos. El tigre queda en la entrada. Según el guardia, los barcos se preparan para acabar con la piratería. Nox atrae a un marine al muelle fingiendo tener un bote roto y le exige con el rapier que diga dónde está Molly.",
+        "limitacion": "Las bromas sobre una paternidad compartida con otro guardia no prueban un parentesco."
+      },
+      "35-009": {
+        "afirmacion": "El guardia revela que el capitán tomó el mando, destituyó a Molly y la envió a la torre. Inmovilizar persona del libro de Nox falla, pero una carta duerme al marine. Nox lo ata y amordaza con tela y lo oculta entre las plantas antes de volver al agua. El director aclara que no lo arroja al mar."
+      },
+      "35-010": {
+        "afirmacion": "Smith dice que Molly volvió a casa o se jubiló, contradiciendo al guardia interrogado. Tórtola lo reprende, manda a Johnson llevárselo y rechaza alojar a los viajeros. Después del regateo, Patata vende tortillas a otro oficial por dos monedas y media de plata cada una. Luna finge una necesidad corporal cerca del muelle y preparan una distracción con comida.",
+        "limitacion": "No se muestra el desenlace del castigo de Smith. La posterior celda contradice la supuesta jubilación de Molly."
+      },
+      "35-011": {
+        "afirmacion": "Mientras Patata ofrece comida, Luna lanza fuego a la pólvora. La explosión mata a un marine y fingir un ataque externo no los exculpa. Nox lleva un bote por el agua, escala utilizando inspiración y entra en la torre apagando antorchas. La explosión atrae a los vigilantes. Él finge ser un relevo autorizado por Tórtola y consigue que salgan los guardias."
+      },
+      "35-012": {
+        "afirmacion": "Los perros vigilan a Nox sin atacarlo. Molly está encadenada en una celda, reconoce su voz y lo culpa. Él abre la reja y las ataduras, la besa y recibe bofetadas; ella recoge sus pertenencias. Pinky está presa al lado y dice que la encerraron por el huevo y por matar marines. Nox la libera por ser una compañera con quien tiene negocios. Propone que Molly use el bote con Pinky mientras él ayuda a sus compañeros.",
+        "limitacion": "El beso y el rechazo no confirman una reconciliación sentimental."
+      },
+      "35-013": {
+        "afirmacion": "Cuando los tres viajeros intentan salir, Tórtola levanta un muro de fuerza y sospecha de la explosión. Patata utiliza el alias Baldus/Baldur Puerta y Poncelot el de Sir Merlino. El almirante exige saber dónde están los nativos. Señalan unas ruinas y Luna añade una falsa cascada al oeste como corrección. Él paga cinco monedas de oro y permite que salgan. En una escena reservada ordena seguirlos porque no cree el engaño.",
+        "limitacion": "No se confirma un poblado detrás de la cascada. Los personajes no oyen automáticamente la orden de seguimiento."
+      },
+      "35-014": {
+        "afirmacion": "Una presencia bajo una jaula paraliza a Nox y Molly. Nox ve Xoltacan con vegetación decaída y seres extraños que causan dolor al mirarlos. Sobre una pirámide montañosa al ocaso aparece una serpiente alada que se convierte en un humanoide gigante y le pide que la libere. Él intenta levantar los barrotes, pero Molly lo frena y afirma que debieron matar a la criatura antes.",
+        "limitacion": "Se confirma que Nox recibe la visión, no su realidad, época o identidad del gigante. Molly no ve automáticamente las mismas imágenes."
+      },
+      "35-015": {
+        "afirmacion": "La criatura promete liberar a ambos si la sueltan. Nox resiste mediante una carta de inspiración, mientras Molly quiere liberarla bajo su influencia. Nox crea una Imagen mayor de un hombre serpiente libre. Molly detecta el engaño, pero supera el control y lo sigue, abofeteándolo. Pinky quema a los perros con un muro y salen. Nox envía a Molly al bote y se disculpa por el pasado; vuelve con Pinky para ayudar a los demás.",
+        "limitacion": "La ilusión no libera realmente a la criatura. Nox pide perdón, pero Molly no lo acepta expresamente."
+      },
+      "35-016": {
+        "afirmacion": "Patata avisa mentalmente a Nox de que están saliendo y él responde. Pinky avanza quemando marines, pero Tórtola la inmoviliza y vuelve a capturarla. Nox, oculto, le envía un mensaje como Jim Hawkins, le reprocha implicar a Molly y ofrece información y las cabezas de Bonnie y otros cuatro a cambio de algo importante. Tórtola rechaza pactar, dice haber leído los informes de Molly sobre Nox y ordena preparar un ataque. Nox anuncia que otros piratas están en camino, sin que se muestre su llegada.",
+        "limitacion": "No se acepta un acuerdo, se entrega una cabeza o se informa automáticamente a Bonnie. La oferta podría ser estratégica o engañosa, sin demostrar una traición ejecutada."
+      },
+      "35-017": {
+        "afirmacion": "Nox sigue el río y encuentra el bote amarrado. Los compañeros lo confunden con un marine por el uniforme y Luna lo alcanza con fuego antes de reconocer su voz. Molly aparece y acepta regresar con ellos pese al disgusto. Reconoce a Poncelot del rescate anterior. Nox elige Shiaru en lugar de Cuicapalli por la recepción de Bonnie.",
+        "limitacion": "El fuego que daña a Nox procede de una compañera, no de un enemigo externo."
+      },
+      "35-018": {
+        "afirmacion": "Durante los días de regreso, Nox permanece callado y expresa preocupación porque sus acciones conectan los acontecimientos y dañan a otras personas. Poncelot aconseja que valore la oportunidad con Molly y evite repetir errores. Llegan a Shiaru. Ella agradece la ayuda al grupo y a Jim, aunque lo culpa antes de entrar en la taberna.",
+        "limitacion": "La elipsis humorística sobre Hospitalet u otro plano no corrobora una misión detallada."
+      },
+      "35-019": {
+        "afirmacion": "Molly entra y se impone al guardia de Bonnie. Las dos conversan en voz baja y después beben y ríen. Poncelot presenta el informe. Bonnie entrega jade al gnomo y collares a Luna y Patata, con valor estimado de cincuenta monedas cada uno. Nox no recibe recompensa. Los comentarios que las presentan como hermanas o primas son especulaciones fuera de la escena.",
+        "limitacion": "No se demuestra un parentesco. Mencionar los precios de ídolos o rubíes del catálogo no significa que los reciban."
+      },
+      "35-020": {
+        "afirmacion": "Nox sigue pensando en la visión y su culpa y acepta el consejo de Poncelot. Pide hablar con Molly cuando tenga tiempo y acuerdan encontrarse en el barco. Él y Luna se dirigen allí. Poncelot sigue bebiendo y Patata vuelve a la granja. No se muestra la conversación solicitada."
+      }
+    }
+  }
+}

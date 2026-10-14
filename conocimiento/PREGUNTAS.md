@@ -1,0 +1,232 @@
+# Preguntas
+
+Historial de preguntas planteadas en cada episodio. Algunas reciben respuesta después; consultar [estado de misterios](MISTERIOS.md) y [tramas](TRAMAS.md) antes de considerarlas pendientes al cierre.
+
+- Cap. 01: ¿Por qué Ione pide cadenas esa noche? ¿Qué relación hay con la luna llena y la acción final de Nox? 01-019 y 01-034 no confirman licantropía. ([ficha](capitulos/01.md)).
+- Cap. 01: ¿Qué significan las coincidencias que Nox ve entre su mapa y la armadura del guerrero? 01-034. ([ficha](capitulos/01.md)).
+- Cap. 01: ¿Por qué murieron los hijos adoptivos de Mamá antes que ella? Su relato no da causa: 01-007. ([ficha](capitulos/01.md)).
+- Cap. 01: ¿Existen las pirámides de oro y dónde están? Se presenta como leyenda: 01-021. ([ficha](capitulos/01.md)).
+- Cap. 01: ¿Qué ocurrió con la familia del elfo, cuál es su reliquia y quién puede repararla? 01-005 y 01-018. ([ficha](capitulos/01.md)).
+- Cap. 01: ¿Cómo se llama el dragoncito? La mención Zari a 01:47:33–01:47:48 es una candidata, sin presentación inequívoca en la transcripción. ([ficha](capitulos/01.md)).
+- Cap. 01: ¿Cuánto deben los piratas a Bonnie y cuánto descuenta por lo obtenido? No consta saldo: 01-011 y 01-029. ([ficha](capitulos/01.md)).
+- Cap. 01: ¿Cuándo ocurre exactamente el accidente respecto a la llegada del resto? Solo se indican algunos meses de servicio: 01-030. ([ficha](capitulos/01.md)).
+- Cap. 02: ¿Qué ocurrió en el camarote y por qué se rompieron las cadenas? ¿Cómo llegó Ione desnuda a la selva? 02-001, 02-003 y 02-007 añaden evidencias a 01-019 y 01-034, sin confirmar causa sobrenatural. ([ficha](capitulos/02.md)).
+- Cap. 02: ¿Quién provocó el zarpazo que Nox muestra y qué causó el enfado de Bonnie? No está confirmado: 02-004 y 02-019. ([ficha](capitulos/02.md)).
+- Cap. 02: ¿Qué tribu masacró la de Chochi, cuándo ocurrió y dónde vivían? 02-017 y 02-021 no dan nombres ni responsables. ([ficha](capitulos/02.md)).
+- Cap. 02: ¿Cuál es la tribu adoptiva de Ayoto y fue realmente expulsado por su tamaño? Relato no corroborado: 02-021. ([ficha](capitulos/02.md)).
+- Cap. 02: ¿Qué tribu concreta compone la emboscada y qué especie es el dinosaurio? No se identifican: 02-012 y 02-016. ([ficha](capitulos/02.md)).
+- Cap. 02: ¿Qué ayuda nocturna solicita Nox a Ayoto? Se relaciona temáticamente con las cadenas, pero no se confirma esa conexión: 02-023. ([ficha](capitulos/02.md)).
+- Cap. 02: ¿Se repetirá el pulso? ¿Quién conserva las monedas y se cumple algún reclutamiento? El cierre deja la apuesta disputada: 02-027–02-029. ([ficha](capitulos/02.md)).
+- Cap. 03: ¿Qué busca la Marina en la excavación? Se confirma que excava; el oro era solo una sospecha de los captores (03-003 y 03-019). ([ficha](capitulos/03.md)).
+- Cap. 03: ¿De dónde procede Blink/Blank y cómo llegó a este mundo? Relato de árboles parlantes y sensación de extrañeza, sin plano o portal identificado (03-005). ([ficha](capitulos/03.md)).
+- Cap. 03: ¿Por qué Ione es licántropa y cómo se controla? La forma de mujer lobo queda confirmada (03-024, 03-031), pero Poncelot y Mamá solo especulan sobre su origen (03-028). ([ficha](capitulos/03.md)).
+- Cap. 03: ¿Qué harán con el marine cautivo? Nox lo lleva encadenado, sin destino final ni interrogatorio mostrado (03-029, 03-031). ([ficha](capitulos/03.md)).
+- Cap. 03: ¿Cuál es la recompensa y acusación exacta del cartel de Nox? Lo reconocen por un cartel; el importe no queda inequívoco (03-022). ([ficha](capitulos/03.md)).
+- Cap. 03: ¿Ingresará Poncelot en la tripulación? Ione lo invita mediante una versión caballeresca engañosa; no hay juramento de tripulación explícito fuera de esa prueba presentada (03-015 y 03-020). ([ficha](capitulos/03.md)).
+- Cap. 03: ¿Qué especie de dinosaurio es Merlucilla y qué vínculos reales tiene con una madre? Solo Nox afirma que es una cría; no se ve su madre (03-011). ([ficha](capitulos/03.md)).
+- Cap. 04: ¿Qué pretende Bonnie al decir a Ione que no hable con Nox? ¿Qué sabe de sus asuntos y de las gemas? 04-029. ([ficha](capitulos/04.md)).
+- Cap. 04: ¿A qué civilización o tribu pertenece el collar antiguo y de dónde lo obtuvieron los hombres de Bonnie? Su antigüedad no resuelve su origen exacto (04-020). ([ficha](capitulos/04.md)).
+- Cap. 04: ¿Recuperarán las gemas de los compañeros y la entregada a la Sirena Borracha? Bonnie ordena buscarlas, pero no hay confiscación mostrada (04-029–04-030). ([ficha](capitulos/04.md)).
+- Cap. 04: ¿Qué criatura divina se manifiesta a Mamá? ¿Qué equilibrio propone preservar y por qué quiere que suelten más a Ione? No se da nombre: 04-024. ([ficha](capitulos/04.md)).
+- Cap. 04: ¿Qué ocurrió con el marine que Nox llevaba cautivo en el capítulo 3? No aparece su destino aquí. ([ficha](capitulos/04.md)).
+- Cap. 04: ¿Cómo reaccionará Poncelot a la muerte de Merlucilla? No participa en esta sesión: 04-003. ([ficha](capitulos/04.md)).
+- Cap. 04: ¿Qué conjuro contiene el pergamino mágico recuperado? Sin identificación: 04-015. ([ficha](capitulos/04.md)).
+- Cap. 04: ¿Se mantienen la segunda cola y los otros efectos de frutas fuera de esta partida? No consta persistencia: 04-010. ([ficha](capitulos/04.md)).
+- Cap. 05: ¿Qué condiciones exactas incluye el contrato de Bonnie y Molly? Se habla de diezmo y permiso, pero no se lee completo. ¿Hay otras copias? No se demuestra anulación legal por robarlo (05-008 y 05-024). ([ficha](capitulos/05.md)).
+- Cap. 05: ¿Qué escribió Nox en su nota? ¿Molly la encontrará o sobrevivió al incendio? Contenido y lectura desconocidos (05-024, 05-032). ([ficha](capitulos/05.md)).
+- Cap. 05: ¿Qué hará Molly tras el incendio y la explosión? ¿Quiénes sobrevivieron entre la tripulación del buque? El cierre muestra su barca acercándose, sin balance de víctimas (05-029–05-033). ([ficha](capitulos/05.md)).
+- Cap. 05: ¿Cuál será el nuevo saldo de deuda y qué trabajos dará Bonnie al visitante? Anuncio sin cifras ni tarea concreta (05-031). ([ficha](capitulos/05.md)).
+- Cap. 05: ¿Dónde queda Jack y logra volver con Lucy? Se lo aparta de la Marina y se aleja con ropa de pirata; no hay desenlace (05-007, 05-011). ([ficha](capitulos/05.md)).
+- Cap. 05: ¿Qué muestran los dos mapas y los otros documentos de Puerto de Espadas conservados por Erendriel? El texto no se lee (05-024, 05-033). ([ficha](capitulos/05.md)).
+- Cap. 05: ¿Qué ocurrió exactamente entre Nox y Molly en el pasado? Por ahora solo está su confesión de haberla abandonado tras descubrir su puesto (05-009). ([ficha](capitulos/05.md)).
+- Cap. 05: ¿Se identificarán nombre de familia y nombre preferido de Erendriel? Anillo y cambio de aspecto observados, palabras finales del nombre imprecisas (05-010, 05-033). ([ficha](capitulos/05.md)).
+- Cap. 06: ¿Está Chochi infectado por la mordedura de Ione? Mordisco, salvaciones de Constitución y malestar documentados, sin contagio explícitamente confirmado ni transformación mostrada (06-030). ([ficha](capitulos/06.md)).
+- Cap. 06: ¿Dónde está Ione y recuperará forma habitual? Salió del agua y huyó tras romperse su burbuja, Blink va a buscarla (06-032, 06-038). ([ficha](capitulos/06.md)).
+- Cap. 06: ¿Qué coste y tratamiento tendrán las heridas de Chochi y del visitante? Van a buscar al médico, consulta no representada (06-038). ([ficha](capitulos/06.md)).
+- Cap. 06: ¿El oro del huevo son diez o cinco monedas? Ambas cifras aparecen; tres perlas son consistentes. Reparto definitivo pendiente (06-037). ([ficha](capitulos/06.md)).
+- Cap. 06: ¿Qué pasó con los captores de Blink y con los piratas atados que Poncelot llevó al juzgado? No se identifican ni se muestra su destino (06-003 y 06-009). No fusionarlos con otras partidas de piratas. ([ficha](capitulos/06.md)).
+- Cap. 06: ¿Recuperará Ione las gemas que Bonnie reclama? Solo encargo recapitulativo, no devolución (06-004). ([ficha](capitulos/06.md)).
+- Cap. 06: ¿Quién es exactamente Elger Banana, qué flota manda y qué tesoro buscaban sus piratas? Relatos de sirena y reconocimiento de Ione, sin encuentro directo (06-016–06-018). ([ficha](capitulos/06.md)).
+- Cap. 06: ¿El crecimiento que dio la señora a Marina permanece y qué hechizo había sobre ella? Se observa restauración al llegar, sin identificación del conjuro original (06-025). ([ficha](capitulos/06.md)).
+- Cap. 06: ¿Sabe Poncelot que su primera Merlucilla murió? Su recapitulación sigue atribuyendo ausencia a fuga (06-009). ([ficha](capitulos/06.md)).
+- Cap. 07: ¿Cuál es el significado del mapa y de los tatuajes de Nox? Mamá no reconoce vínculo con ruinas y explica que vio los tatuajes en una escena escrita entre sesiones; no hay símbolos transcritos o solución (07-025). ([ficha](capitulos/07.md)).
+- Cap. 07: ¿Qué saldrá del huevo y cuánto vale? Ni especie ni precio confirmados. ¿Mamá sabrá del pacto secreto de Nox con Bonnie? 07-023, 07-033. ([ficha](capitulos/07.md)).
+- Cap. 07: ¿Qué hará Bonnie si no recibe la cría o si muere? Amenaza sin ejecución mostrada (07-033). ([ficha](capitulos/07.md)).
+- Cap. 07: ¿Quién es la pirata pequeña que huyó, a qué grupo pertenece y volverá? Imagen mostrada a Bonnie, sin nombre (07-021, 07-032). ([ficha](capitulos/07.md)).
+- Cap. 07: ¿Qué información dará el cautivo del nido y qué destino tendrá? Entregado, no interrogado en escena (07-016, 07-032). ([ficha](capitulos/07.md)).
+- Cap. 07: ¿A qué cultura pertenecen las ruinas y qué dicen los símbolos copiados por el elfo? Escritura no entendida ni traducida (07-026). ([ficha](capitulos/07.md)).
+- Cap. 07: ¿Quién sustrajo las herramientas de cocina de Patata y las monedas de los demás? Tiradas sin autoría demostrada (07-001–07-003). ([ficha](capitulos/07.md)).
+- Cap. 07: ¿La montura comida por el pulpo en recapitulación es Merlucilla II? Se habla de montura de Poncelot sin nombrarla inequívocamente; no fusionar antes de aclaración (07-004). ([ficha](capitulos/07.md)).
+- Cap. 07: ¿Por qué Nox usa el nombre Capitán Nox además de Jim Hawkins? Declara ambos, sin historia completa de identidad (07-009). ([ficha](capitulos/07.md)).
+- Cap. 08: ¿Quién era la mujer del templo, de qué tribu y por qué vivía allí? La transformación y la muerte se ven, pero no se revela su identidad (08-022–08-024). ([ficha](capitulos/08.md)).
+- Cap. 08: ¿Qué dice el diario en Terran y quién lo escribió? Salazor lo conserva sin traducción (08-021 y 08-024). ([ficha](capitulos/08.md)).
+- Cap. 08: ¿Las plantas y el mortero explican la transformación de esta mujer? Civilización asociada a plantas y ascenso animal, sin prueba individual de su preparación o del mecanismo (08-020–08-024). ([ficha](capitulos/08.md)).
+- Cap. 08: ¿Qué ocurre con el pirata herido entregado a Gobs? Intervención iniciada sin desenlace mostrado (08-010). ([ficha](capitulos/08.md)).
+- Cap. 08: ¿Dónde están los captores de Blink y de quién eran las huellas? Sin identificación (08-004). ([ficha](capitulos/08.md)).
+- Cap. 08: ¿Qué objeto descrito como truco obtuvo el elfo de los cadáveres y qué utilidad tiene? Fuente no precisa (08-019). ([ficha](capitulos/08.md)).
+- Cap. 08: ¿Se reparará o sustituirá la espada de Kilzer? Recuerda otra guardada, sin cambio representado (08-027). ([ficha](capitulos/08.md)).
+- Cap. 09: ¿Cuándo adoptó Chochi el nombre Axi? La continuidad es contextual, sin una explicación completa del cambio en este capítulo (09-004 y 09-020). ([ficha](capitulos/09.md)).
+- Cap. 09: ¿Qué vio Mamá al tomar la mano de Nox y qué significa? No se describe la imagen ni se confirma un origen divino (09-003). ([ficha](capitulos/09.md)).
+- Cap. 09: ¿Por qué le escuece el tatuaje a Mamá cuando Nox la cura? La relación entre sus tatuajes y los de Nox sigue sin resolverse (09-028 y 09-031). ([ficha](capitulos/09.md)).
+- Cap. 09: ¿Quiénes deben volver según los guardianes y por qué llaman traidora a Mamá? Sus declaraciones carecen de un contexto histórico verificado (09-026–09-028). ([ficha](capitulos/09.md)).
+- Cap. 09: ¿Qué mapa recibe el aprendiz y adónde conduce? No lo abre ni se muestra su expedición (09-009). ([ficha](capitulos/09.md)).
+- Cap. 09: ¿Qué efectos tendrán las hojas que guarda Ione? Solo se observa un mareo breve al olerlas; no las fuma en esta escena (09-024). ([ficha](capitulos/09.md)).
+- Cap. 09: ¿Quién tomó la hierba de Ione? Pinky muestra una bolsa con su nombre, pero no se representa el robo (09-002 y 09-017). ([ficha](capitulos/09.md)).
+- Cap. 09: ¿Cuánto dura la inmunidad de Lunaria al alcohol? Los 21 días del capítulo 7 y la semana aceptada aquí no se concilian expresamente (09-008). ([ficha](capitulos/09.md)).
+- Cap. 09: ¿Se contagió Axi con la mordedura de Ione? Hay reproches y temor, pero no un diagnóstico ni una transformación confirmada (09-007 y 09-020). ([ficha](capitulos/09.md)).
+- Cap. 10: ¿Dónde está Pix, quién lo capturó y por qué? El rastro conduce al poblado, pero el mono no aparece directamente (10-005 y 10-010–10-027). ([ficha](capitulos/10.md)).
+- Cap. 10: ¿Cómo se llama el poblado y qué organización o creencias tienen sus habitantes? Ayoto lo llama Ciudad de la Luna, sin confirmación del director (10-025). ([ficha](capitulos/10.md)).
+- Cap. 10: ¿Qué ocurrirá con Patata, Blink y Axi? Siguen vivos en jaulas; la posibilidad de sacrificios no se ejecuta (10-027). ([ficha](capitulos/10.md)).
+- Cap. 10: ¿Podrá Erendriel recuperar las armas que le retiraron? Escapa sin ellas (10-018 y 10-022). ([ficha](capitulos/10.md)).
+- Cap. 10: ¿Aceptarán Nox e Ione la nueva expedición? Bonnie ordena buscarlos, pero todavía no hablan con ellos (10-026). ([ficha](capitulos/10.md)).
+- Cap. 10: ¿Qué conjuro contiene el pergamino? Solo se identifica como un pergamino de truco (10-011). ([ficha](capitulos/10.md)).
+- Cap. 11: ¿La visión del bebé corresponde al pasado de Mamá? ¿Quién es y dónde está el cofre? Solo se relata la visión (11-003). ([ficha](capitulos/11.md)).
+- Cap. 11: ¿Qué efectos tiene el juramento de Nox y qué ocurriría si mintiera? No se describe su mecánica ni se aplica una sanción (11-003). ([ficha](capitulos/11.md)).
+- Cap. 11: ¿Qué contiene el libro en Terran de Nox? Su relación con el diario de Erendriel todavía no queda inequívoca en este capítulo (11-011 y 11-022). ([ficha](capitulos/11.md)).
+- Cap. 11: ¿Qué poder o legitimidad confieren las monedas de los cinco reyes piratas? El director confirma la asociación, sin explicar las consecuencias de poseerlas (11-024). ([ficha](capitulos/11.md)).
+- Cap. 11: ¿Qué relación tiene Bonnie con las Cuchillas Negras y cómo ve a Nox invisible? Se observan su anillo y su mirada, sin una explicación completa (11-029). ([ficha](capitulos/11.md)).
+- Cap. 11: ¿Qué hablarán Bonnie y Nox en el muelle? Solo acuerdan la cita (11-029). ([ficha](capitulos/11.md)).
+- Cap. 11: ¿Cuántas gemas quedan y quién conserva la última? Las cifras y las entregas relatadas no permiten cerrar un inventario firme (11-028–11-029 y 11-032). ([ficha](capitulos/11.md)).
+- Cap. 11: ¿Se recuperará el resto del equipo de los cautivos? Solo recogen una caja con parte de los objetos y un arco (11-026). ([ficha](capitulos/11.md)).
+- Cap. 11: ¿Cuándo despertarán Blink, Patata y Axi y qué secuelas tendrán? Se inician el transporte y los cuidados, sin resolución médica (11-030). ([ficha](capitulos/11.md)).
+- Cap. 11: ¿Qué consecuencias tendrá el incendio y la muerte de los defensores del poblado? El director las deja pendientes (11-032). ([ficha](capitulos/11.md)).
+- Cap. 11: ¿Existe la licencia y abrirán el casino? Kilzer quiere verificar el papel antes de confirmar el trato (11-031). ([ficha](capitulos/11.md)).
+- Cap. 12: ¿Qué compromiso asumió Erendriel con Bonnie para cumplir en una semana? Las amenazas sobre sus orejas no explican todos los detalles (12-003–12-007). ([ficha](capitulos/12.md)).
+- Cap. 12: ¿Dirige Molly Fuerte Aurora y por qué hay tantos lugares de interés? Nox lo cree, pero el mapa no revela el propósito completo (12-009 y 12-030). ([ficha](capitulos/12.md)).
+- Cap. 12: ¿Dónde están Mingo, Mango y el tercer pirata? Nox cree que viven, sin localizarles ni identificarles con los captores de Blink (12-009–12-010). ([ficha](capitulos/12.md)).
+- Cap. 12: ¿Quiénes son la mujer tatuada, el hombre tigre y el preso pintado? ¿Por qué los encerraron y qué ocurre con el cuarto preso? No se proporcionan nombres ni delitos (12-017 y 12-023–12-025). ([ficha](capitulos/12.md)).
+- Cap. 12: ¿Sobrevive o se recupera el pirata que cae bajo los disparos? No se muestra su salida ni su recuperación (12-024). ([ficha](capitulos/12.md)).
+- Cap. 12: ¿Leerán el capitán o Molly la carta de Nox y qué dice? La nota no se lee y el capitán queda inconsciente (12-030 y 12-032). ([ficha](capitulos/12.md)).
+- Cap. 12: ¿Qué investigan los marines en los lugares del mapa? Sus nombres y coordenadas no se transcriben (12-030). ([ficha](capitulos/12.md)).
+- Cap. 12: ¿Devolverá Pix el mondadientes de Blink? Se conoce quién lo tiene, pero la entrega sigue pendiente (12-005). ([ficha](capitulos/12.md)).
+- Cap. 12: ¿Cuándo recuperará Pinky su forma y terminarán las alucinaciones? Regresa como oveja; se adjudican cuatro horas de alucinación, sin mostrar la reversión (12-023 y 12-027–12-032). ([ficha](capitulos/12.md)).
+- Cap. 13: ¿Quién se llevó el cuerpo del nawal y por qué? La investigación de Ayoto no obtiene una respuesta (13-002). ([ficha](capitulos/13.md)).
+- Cap. 13: ¿Quién construyó el templo y a qué cultura o deidad pertenece? Las figuras rotas y los símbolos animales no proporcionan una identificación; las referencias al sol, la luna y la noche son interpretaciones (13-014 y 13-022–13-023). ([ficha](capitulos/13.md)).
+- Cap. 13: ¿Podrán modificar el escudo o cultivar las semillas? Recogen materiales, pero no realizan los proyectos (13-021). ([ficha](capitulos/13.md)).
+- Cap. 13: ¿Cómo volverán a activar la plataforma y salir con el tesoro? Retirar el peso no la hace subir y el regreso no se narra (13-026). ([ficha](capitulos/13.md)).
+- Cap. 13: ¿Qué resultado sustituye a las ocho monedas y qué obtiene Kilzer en el sótano? No se anuncian todos los resultados de forma inequívoca (13-025). ([ficha](capitulos/13.md)).
+- Cap. 13: ¿Cuáles serán las cláusulas finales del casino? El nuevo reparto no explica cómo cambió el cinco por ciento negociado por Nox (13-011 y 11-031). ([ficha](capitulos/13.md)).
+- Cap. 13: ¿Recuperará Nox el sombrero que toma Ayoto? ¿Se recuperará Jack del golpe de botella? Ambos desenlaces quedan pendientes (13-008 y 13-012). ([ficha](capitulos/13.md)).
+- Cap. 14: ¿Qué entidad menciona el diario y qué precio exigió? No se lee un nombre ni el pacto completo (14-015). ([ficha](capitulos/14.md)).
+- Cap. 14: ¿Por qué la hija afirma que no puede salir si la mujer del bote tiene su mismo rostro? Las manifestaciones no reciben una explicación (14-007–14-008 y 14-016). ([ficha](capitulos/14.md)).
+- Cap. 14: ¿A quién llama traidor el marinero y por qué señala al capitán y a su hija? Los gestos no revelan toda la historia (14-015 y 14-019). ([ficha](capitulos/14.md)).
+- Cap. 14: ¿Qué ocurre con el mercante, la hija y las almas? No se muestra un retorno a la vida ni el hundimiento final (14-024–14-025). ([ficha](capitulos/14.md)).
+- Cap. 14: ¿La moneda negra causa otra maldición a Eldrat? La frase del marinero no viene acompañada de una marca o un efecto confirmado (14-019). ([ficha](capitulos/14.md)).
+- Cap. 14: ¿Qué quiere Bonnie de Patata y de los hermanos? ¿Habrá recompensa? Solo se muestra la convocatoria (14-025). ([ficha](capitulos/14.md)).
+- Cap. 14: ¿De dónde proceden Eldrat y Triel y qué ocurrió con las dríadas? El pasado mostrado no ofrece nombres ni toda la historia (14-001 y 14-005). ([ficha](capitulos/14.md)).
+- Cap. 14: ¿Recuperará Nox el sombrero del nido del loro? Ayoto lo entrega y no se recupera (14-006). ([ficha](capitulos/14.md)).
+- Cap. 15: ¿Qué hará Bonnie con Erendriel por el retraso? Sus hombres se lo llevan sin mostrar el desenlace (15-021). ([ficha](capitulos/15.md)).
+- Cap. 15: ¿Llegará Jack a Puerto de las Espadas, cobrará la lista y se reunirá con Lucy? Bonnie solo confirma su partida (15-021). ([ficha](capitulos/15.md)).
+- Cap. 15: ¿Cómo se llama el poblado y por qué secuestraron a los piratas? No se explica su historia ni se lo identifica con la tribu del preso del capítulo 12 (15-010 y 15-019). ([ficha](capitulos/15.md)).
+- Cap. 15: ¿Qué significa el tatuaje del combatiente que vuelve a levantarse? Se copia, pero no se descifra ni se le adjudica un poder (15-019). ([ficha](capitulos/15.md)).
+- Cap. 15: ¿Cuándo producirán el huerto y el casino? Los proyectos existen, pero no generan ingresos mostrados (15-001 y 15-003–15-004). ([ficha](capitulos/15.md)).
+- Cap. 15: ¿Es Tarin el nombre del dragón? La mención breve sigue siendo una candidata, sin confirmación clara (15-012). ([ficha](capitulos/15.md)).
+- Cap. 15: ¿Qué enfermedad tiene Mamá y por qué Triel no puede curarla? La recapitulación no aporta un diagnóstico ni una escena completa (15-002). ([ficha](capitulos/15.md)).
+- Cap. 16: ¿Quién mató a Erendriel, cómo y por qué incumplimiento concreto? La muerte se confirma, pero no se muestra la ejecución completa (16-002,16-004 y 15-021). ([ficha](capitulos/16.md)).
+- Cap. 16: ¿Dónde está el dragón y qué negocio quiere discutir Bonnie con Nox tras la muerte del elfo? La búsqueda y la propuesta no obtienen un resultado (16-002 y 16-004). ([ficha](capitulos/16.md)).
+- Cap. 16: ¿Qué despierta tras milenios y cómo se relaciona con los extranjeros y las serpientes? Las declaraciones no ofrecen una explicación confirmada (16-016–16-017). ([ficha](capitulos/16.md)).
+- Cap. 16: ¿Se celebrará el concilio y quién asistirá? Eromov plantea condiciones y todavía quedan líderes por contactar (16-003 y 16-016). ([ficha](capitulos/16.md)).
+- Cap. 16: ¿Quién es el campeón solar y tiene relación con Ayoto? Naór relata la leyenda sin designarlo (16-017). ([ficha](capitulos/16.md)).
+- Cap. 16: ¿Quiénes son las dos visitantes de Eromov que desaparecen mediante plantas? Se describen sus apariencias, sin nombres (16-015). ([ficha](capitulos/16.md)).
+- Cap. 16: ¿Tiene la mujer de Cuicapalli relación con el nawal? Ayoto lo afirma por su parecido, pero ella niega conocerlo (16-019). ([ficha](capitulos/16.md)).
+- Cap. 16: ¿Qué plantas necesita el kenku y qué contienen los tubos de Lunaria? El encargo y los objetos quedan sin identificar por completo (16-017 y 16-020). ([ficha](capitulos/16.md)).
+- Cap. 16: ¿Adónde llegarán Triel y Lunaria? ¿Qué efecto tendrá el tatuaje de Naór? El cierre deja ambas cuestiones pendientes (16-021). ([ficha](capitulos/16.md)).
+- Cap. 17: ¿Dónde está Atlan y cuál es su grafía correcta frente a Atlas? Nombre explícito de reino sin coordenadas (17-006 y 17-022). ([ficha](capitulos/17.md)).
+- Cap. 17: ¿Quiénes son el rey, la reina y la figura enmascarada, y qué implica la alianza? Sin nombres personales ni tratado escrito (17-010 y 17-023). ([ficha](capitulos/17.md)).
+- Cap. 17: ¿Se celebrará el concilio de Tutucan y llegará Naór a Iktan? Promesas e intención, no llegada (17-021–17-023). ([ficha](capitulos/17.md)).
+- Cap. 17: ¿Qué relación tienen hombres serpiente vistos al norte y crisis de Cuicapalli? Informe de la escolta sin investigación (17-007). ([ficha](capitulos/17.md)).
+- Cap. 18: ¿Qué significan la palabra «tiempo», las botas con símbolos y las heridas persistentes de Mamá? (18-005, 18-009) ([ficha](capitulos/18.md)).
+- Cap. 18: ¿Quiénes son las criaturas marinas asesinadas y qué ritual utiliza la sangre reciente? (18-012–18-013) ([ficha](capitulos/18.md)).
+- Cap. 18: ¿Quién es el dios del templo, Lares/Larcamas, y qué vínculo tiene con Set nombrado en la bendición? Sin equivalencia establecida (18-007 y 18-017). ([ficha](capitulos/18.md)).
+- Cap. 18: ¿Qué representa la sombra del cierre y qué conoce algún personaje de ella? No acceso demostrado (18-021). ([ficha](capitulos/18.md)).
+- Cap. 19: ¿Qué presencia habla a través del collar y puede modificar/controlar criaturas? Solo percepción e hipótesis (19-014–19-016). ([ficha](capitulos/19.md)).
+- Cap. 19: ¿Por qué el intento de curación de Mamá causa daño y rejuvenecimiento? Blink conoce el fenómeno, no explicación (19-007). ([ficha](capitulos/19.md)).
+- Cap. 19: ¿Se entrenará Leona y dónde custodiarán el collar? Pendientes (19-016–19-017). ([ficha](capitulos/19.md)).
+- Cap. 20: ¿Quién es Arcan, la figura del templo de Zarial, y por qué ella busca fuerza? Solo se dispone de su relato introductorio (20-003). ([ficha](capitulos/20.md)).
+- Cap. 20: ¿Qué indica la X junto a Slaz en el mapa y cuándo compartirá Poncelot su contenido? (20-014). ([ficha](capitulos/20.md)).
+- Cap. 20: ¿Cuál era el cometido del campamento, del gas y de la serpiente? ¿Dónde está Eldrat? No se averigua en este capítulo (20-008, 20-013 y 20-017). ([ficha](capitulos/20.md)).
+- Cap. 20: ¿Existe la criatura de tres cabezas de la tradición leonina o aparece en otras fuentes? (20-006). ([ficha](capitulos/20.md)).
+- Cap. 21: ¿Quién es la tercera criatura arrastrada del campamento y qué le ocurre? No se identifica (21-006–21-007). ([ficha](capitulos/21.md)).
+- Cap. 21: ¿El humano transformado en lobo, los lobos con marcas lunares y el estanque están vinculados al culto serpiente? El collar activa una visión, pero no se conoce un vínculo doctrinal (21-010 y 21-015). ([ficha](capitulos/21.md)).
+- Cap. 21: ¿Qué entidad se muestra a Blink y Zarial y habla al collar? Al final se describe como una mujer pez, sin nombre confirmado (21-015). ([ficha](capitulos/21.md)).
+- Cap. 21: ¿Aceptará Eromov la custodia de Leo y cómo afectará al niño lo sucedido? Queda pendiente (21-016). ([ficha](capitulos/21.md)).
+- Cap. 22: ¿Cómo se infiltraron en la aldea y por qué preguntan a Mamá por el collar que tiene Blink? (22-011–22-018). ([ficha](capitulos/22.md)).
+- Cap. 22: ¿Qué descubrirá Blink sobre la amenaza y recibirá el aviso? (22-018). ([ficha](capitulos/22.md)).
+- Cap. 22: ¿Cuál es la especie y el linaje de Guayacán? ¿Va disfrazado de ave o es un aracocra? La fuente mantiene la ambigüedad (22-002 y 22-005). ([ficha](capitulos/22.md)).
+- Cap. 22: ¿Cómo organizarán la expedición al norte y el concilio pendiente? (22-020). ([ficha](capitulos/22.md)).
+- Cap. 23: ¿Quién es la diosa anunciada por la serpiente del foso y cómo conoce esta a Hawkins? (23-011). ([ficha](capitulos/23.md)).
+- Cap. 23: ¿Qué ciudad buscan los documentos? ¿Coincide con el mapa Slaz? El nombre mostrado no se verbaliza (23-015). ([ficha](capitulos/23.md)).
+- Cap. 23: ¿Qué símbolo espera Nox que Molly reconozca y quién es el alto cargo al que llama palomo? No se nombra literalmente a Tórtola en este capítulo (23-011 y 23-017). ([ficha](capitulos/23.md)).
+- Cap. 23: ¿Qué ocurre con el galeón a la deriva, los perros aliados y los otros presos? No se muestra su desenlace (23-010 y 23-016–23-017). ([ficha](capitulos/23.md)).
+- Cap. 24: ¿Qué robaron los impostores, quiénes son y qué relación tienen con la concha o el culto serpiente? No se confirma su especie ni su objetivo completo (24-007 y 24-017). ([ficha](capitulos/24.md)).
+- Cap. 24: ¿Adónde conducen las coordenadas de la perla y cómo podrían reparar la concha? No se muestra ninguna reparación (24-014–24-015). ([ficha](capitulos/24.md)).
+- Cap. 24: ¿Dónde está Sam y por qué Ione reacciona a su nombre? No se revela (24-016). ([ficha](capitulos/24.md)).
+- Cap. 24: ¿Coyote corresponde a una identidad anterior? Ser cambiaformas y compartir intérprete con Mamá no demuestra que sean la misma persona (24-005 y 24-019). ([ficha](capitulos/24.md)).
+- Cap. 24: ¿Qué máquinas y tinta lleva Gobs y cuándo se pondrán en servicio? (24-021). ([ficha](capitulos/24.md)).
+- Cap. 25: ¿Quién ordenó el ataque y por qué necesita el mapa y el collar? Solo se conocen las palabras descifradas de las órdenes (25-021). ([ficha](capitulos/25.md)).
+- Cap. 25: ¿Dónde está Ezlat y qué contiene? La cartografía falla y el nombre procede del testimonio de Poncelot sobre Ione (25-019). ([ficha](capitulos/25.md)).
+- Cap. 25: ¿Qué es el collar de Blink y cómo se relaciona con los anteriores? La mesa rechaza identificarlo con el de cuatro gemas (25-021). ([ficha](capitulos/25.md)).
+- Cap. 25: ¿Qué hechizos contienen los dos pergaminos robados y cuáles son todos los efectos de la espina-lanza? Se conocen sus niveles o cargas, pero no todos los detalles (25-012, 25-018 y 25-020). ([ficha](capitulos/25.md)).
+- Cap. 26: ¿Qué lleva Nox en la espalda y quién quiere obtenerlo? La referencia al antiguo capitán y la respuesta del hombre serpiente no lo explican (26-017, 26-019 y 26-022). ([ficha](capitulos/26.md)).
+- Cap. 26: ¿Qué ocurre si alguien se sienta realmente en el trono? La imagen engaña al anfitrión y los compañeros quedan amenazados, sin desenlace (26-023). ([ficha](capitulos/26.md)).
+- Cap. 26: ¿Quién controla al guardia de ojos rojos y a quién llaman nuestro Señor? La lectura mental no identifica a la entidad (26-021–26-022). ([ficha](capitulos/26.md)).
+- Cap. 26: ¿Por qué Coyote suplantó a Ione y qué sabe del informe de Poncelot? La audiencia conoce la suplantación, pero los personajes no la resuelven en su conversación (26-001 y 26-003). ([ficha](capitulos/26.md)).
+- Cap. 26: ¿Qué decidirán los cinco piratas en su reunión? Se refiere la convocatoria, pero no se celebra aquí (26-006). ([ficha](capitulos/26.md)).
+- Cap. 27: ¿Por qué los hombres de azul, cuyo jefe cita a Tórtola, atacan Cuicapalli? ¿Qué fuerzas quedan? No interrogan a un jefe vivo y el cierre confirma que no eliminaron a todos (27-014 y 27-018–27-021). ([ficha](capitulos/27.md)).
+- Cap. 27: ¿Qué ocultan el traje y el pico de Guayacán y quién lo sabe? Se ven dientes humanos y sus intentos de ocultarlos, pero no declara su identidad precisa (27-020–27-021). ([ficha](capitulos/27.md)).
+- Cap. 27: ¿Puede Tlachka volver formalmente a Cuicapalli después de su destierro? Entrar sin reconocimiento no equivale a un indulto (27-002–27-004 y 27-020). ([ficha](capitulos/27.md)).
+- Cap. 27: ¿Dónde está la abuela que busca Cipo? El director confirma que no se han reencontrado desde su invocación (27-003). ([ficha](capitulos/27.md)).
+- Cap. 28: ¿Qué entidad formada por serpientes persigue al grupo y dónde queda después? No la matan y los siseos cesan tras la huida (28-009–28-015). ([ficha](capitulos/28.md)).
+- Cap. 28: ¿Quién es la serpiente alada de la visión y qué significa el ritual con la criatura de varias cabezas? La visión no confirma el futuro y la presencia de Nox en el altar sigue sin explicar (28-015). ([ficha](capitulos/28.md)).
+- Cap. 28: ¿Qué consecuencias tendrá dejar el collar en el templo? No se destruye y su ubicación queda registrada para contrastarla después (28-010). ([ficha](capitulos/28.md)).
+- Cap. 28: ¿Qué protege exactamente Bonnie y qué ocurrió con la anciana nativa? Su información está condicionada y el paradero sigue oculto (28-020–28-021). ([ficha](capitulos/28.md)).
+- Cap. 28: ¿Qué superiores llegaron a Fuerte Aurora y qué implica la alianza de Bonnie y Molly? Se dispone de un testimonio, sin inspeccionar su llegada (28-020). ([ficha](capitulos/28.md)).
+- Cap. 29: ¿Quiénes son los profundos y dónde y cómo hacen crecer al kraken mediante secuestros? Solo se dispone del relato de Maris; no se inspeccionan sus líderes o instalaciones (29-021–29-022). ([ficha](capitulos/29.md)).
+- Cap. 29: ¿Qué sirenas o sirenos pueden otorgar branquias y cuánto duran? Las conceden a los cuatro viajeros, sin una duración exacta transcrita (29-019). ([ficha](capitulos/29.md)).
+- Cap. 29: ¿Qué religión y deidad sigue Ivet y cómo pueden ganar su confianza? Visitan el templo con Maris, pero después niegan el acceso a Ayoto (29-020 y 29-025). ([ficha](capitulos/29.md)).
+- Cap. 29: ¿Qué conoce Coyote sobre las amenazas a una familia y por qué no responde a la pregunta sobre su sacrificio? La conversación no revela un pasado específico (29-022). ([ficha](capitulos/29.md)).
+- Cap. 29: ¿Qué queda de Erendriel y por qué está casi esquelético pese a la conservación del capítulo 16? El tigre se lleva sus restos, sin resolver los tiempos o efectos de conservación (29-003). ([ficha](capitulos/29.md)).
+- Cap. 30: ¿Conseguirá Parroter un antídoto y sobrevivirá Eromov? La investigación comienza, pero la curación no se muestra (30-020 y 30-022). ([ficha](capitulos/30.md)).
+- Cap. 30: ¿Quién añadió el veneno a la comida y quiénes eran las dos visitantes? La infiltración de la Hoja Caída es una sospecha fundada, pero no se muestra la contaminación ni se obtiene una confesión (30-005, 30-006 y 30-009). ([ficha](capitulos/30.md)).
+- Cap. 30: ¿Quedaban cautivos vivos tras la reja? La mayoría parecen muertos y solo se retira un cadáver; no se resuelve el estado de posibles supervivientes (30-017). ([ficha](capitulos/30.md)).
+- Cap. 30: ¿Adónde envió Eromov a Naór y llegó ella a su destino? La transcripción recoge una expresión incierta, Naoritan, que no permite fijarlo (30-020). ([ficha](capitulos/30.md)).
+- Cap. 30: ¿Qué otros grupos de hombres serpiente están despertando y qué aliados tienen? Los informes locales no describen toda su organización (30-020). ([ficha](capitulos/30.md)).
+- Cap. 31: ¿Cuál es el nombre exacto del dragón verde y qué relación tiene con las ruinas? El nombre enviado al chat no puede recuperarse de los subtítulos y el guardia no identifica el color del dragón que destruyó las casas (31-015 y 31-021). ([ficha](capitulos/31.md)).
+- Cap. 31: ¿Cómo provoca el bosque las agresiones y cómo puede romperse esa influencia de forma permanente? El grupo logra escapar, pero no derrota al dragón (31-008–31-019). ([ficha](capitulos/31.md)).
+- Cap. 31: ¿Quiénes son los cinco héroes, qué fragmento escapó y quién abrió la puerta? La visión y el relato no proporcionan todas esas identidades ni una fecha (31-025–31-026). ([ficha](capitulos/31.md)).
+- Cap. 31: ¿Qué ocurrió con el padre de Walulu? Su hija menciona un altercado sin dar más detalles (31-024). ([ficha](capitulos/31.md)).
+- Cap. 31: ¿Qué consecuencias tendría revelar otra vez la ruta a Iktan? ¿Quién asistirá al concilio? El permiso es condicional y la reunión sigue pendiente (31-027–31-028). ([ficha](capitulos/31.md)).
+- Cap. 31: ¿Qué efecto tiene el tatuaje de Triel? Se conoce el pago, pero no se identifica la mejora elegida (31-003). ([ficha](capitulos/31.md)).
+- Cap. 32: ¿Cuál es el nombre de la escudera y el apellido de Eleanor? Las presentaciones se reconocen de forma inconsistente (32-002). ([ficha](capitulos/32.md)).
+- Cap. 32: ¿Quién es el general aviar y volverá a atacar? Consigue escapar (32-013 y 32-015). ([ficha](capitulos/32.md)).
+- Cap. 32: ¿Cuáles eran los términos del acuerdo de Bonnie con la Marina y qué piensa hacer con Mamá? Solo se dispone de su declaración y de la escena reservada (32-018 y 32-020). ([ficha](capitulos/32.md)).
+- Cap. 32: ¿Dónde está Citlali y en qué estado se encuentra el huevo? Patata no la encuentra y Bonnie no lo sabe (32-019). ([ficha](capitulos/32.md)).
+- Cap. 33: ¿Qué le ocurrió a Axi durante la noche entre los cadáveres? Tiene amnesia y sospechas, sin confirmación (33-001). ([ficha](capitulos/33.md)).
+- Cap. 33: ¿Quién entregó la piedra rota a los hipopótamos y dónde está? Según ellos, saltó por un acantilado (33-018). ([ficha](capitulos/33.md)).
+- Cap. 33: ¿Dónde esconde Nox a Citlali y qué peligro teme? No revela su ubicación en el encargo (33-006). ([ficha](capitulos/33.md)).
+- Cap. 33: ¿Qué ocurre con Morris después de huir y cómo informarán de la muerte de Margaret? No se muestra el desenlace (33-012–33-014). ([ficha](capitulos/33.md)).
+- Cap. 34: ¿Qué causa las lagunas de memoria de Blink? No se explica (34-001). ([ficha](capitulos/34.md)).
+- Cap. 34: ¿Dónde están Triel, ausente una semana, y Nox, expulsado del barco? Se mencionan sin revelar sus paraderos (34-001 y 34-003). ([ficha](capitulos/34.md)).
+- Cap. 34: ¿En qué estado quedan el campamento y Pinky y qué causa la desaparición de Paco? Hay un incendio y una huida, sin un balance final (34-017). ([ficha](capitulos/34.md)).
+- Cap. 34: ¿Cuál es el nombre y la especie de la cría? ¿La aceptarán en Cuicapalli? Queda pendiente (34-018–34-020). ([ficha](capitulos/34.md)).
+- Cap. 35: ¿Quiénes son la criatura presa y la serpiente de la visión, y qué pirámide aparece? La influencia mental no termina con su liberación (35-014–35-015). ([ficha](capitulos/35.md)).
+- Cap. 35: ¿Qué dicen los informes de Molly y cuál será su situación oficial tras huir? ¿Qué contará a Nox? Queda pendiente (35-016 y 35-020). ([ficha](capitulos/35.md)).
+- Cap. 35: ¿Qué piratas anuncia Nox que están en camino y qué prepara el almirante? No se muestra su llegada (35-016). ([ficha](capitulos/35.md)).
+- Cap. 35: ¿Los perseguidores siguen al grupo y qué ocurre con Smith y Pinky? Se ordena seguirlos y se confirma la recaptura de Pinky (35-010, 35-013 y 35-016). ([ficha](capitulos/35.md)).
+- Cap. 36: ¿Quién es el hombre lobo de ojos ámbar y qué relación tiene con la bestia de la escena final? No se dan sus nombres (36-014–36-015, 36-019). ([ficha](capitulos/36.md)).
+- Cap. 36: ¿Qué sabe el marine superviviente y qué hará Bonnie con él? Se entrega sin un interrogatorio narrado (36-017). ([ficha](capitulos/36.md)).
+- Cap. 36: ¿Por qué Blink vuelve a Shiaru y sufre lagunas de memoria? ¿Dónde está Eleanor? Las recapitulaciones no lo resuelven (36-001). ([ficha](capitulos/36.md)).
+- Cap. 36: ¿Se ocuparán las ruinas y se reparará a tiempo el Zampaolas? No se muestran una guarnición ni una nueva navegación (36-017–36-018). ([ficha](capitulos/36.md)).
+- Cap. 37: ¿Qué han despertado y qué contiene el ojo? ¿Cómo reacciona ante Citlali? Hay testimonios y se propone un experimento reservado (37-005, 37-017). ([ficha](capitulos/37.md)).
+- Cap. 37: ¿Llegará Nox a Aurora con el ojo y qué hará tras incumplir la condición? Parte sin informar (37-018). ([ficha](capitulos/37.md)).
+- Cap. 37: ¿Logrará Eleanor contactar con su reino y aportar el oro? La alianza queda aplazada (37-003). ([ficha](capitulos/37.md)).
+- Cap. 37: ¿Cuál es el estado del tiranosaurio después del cañonazo? Hay un ataque y una referencia final, pero no se inspecciona el cadáver (37-014). ([ficha](capitulos/37.md)).
+- Cap. 38: ¿Qué consecuencias tendrá la mordedura de Ilikar? La sensación y la tirada no confirman un contagio (38-014). ([ficha](capitulos/38.md)).
+- Cap. 38: ¿Qué causó las heridas de Ilikar y cuál es su pasado tribal? Su llegada no proporciona una explicación completa (38-003). ([ficha](capitulos/38.md)).
+- Cap. 38: ¿Descubrirá Bonnie que han repartido su cofre y qué reclamará? La propiedad solo se revela al público (38-018). ([ficha](capitulos/38.md)).
+- Cap. 38: ¿Cuándo repararán la proa y podrá navegar el barco? Desencajarlo no equivale a repararlo (38-015). ([ficha](capitulos/38.md)).
+- Cap. 39: ¿Por qué la piel o las marcas de Citlali son una clave y quién es el Señor mencionado por las serpientes? Las alusiones y la telepatía no lo resuelven (39-008, 39-010). ([ficha](capitulos/39.md)).
+- Cap. 39: ¿Es Nox el bebé que perdió Citlali o un recuerdo alterado por el alcohol? La hipótesis no se confirma (39-002). ([ficha](capitulos/39.md)).
+- Cap. 39: ¿Quiénes son los elfos pálidos, qué enfermedad sufre ella y por qué el dragón no puede acercarse? No se establecen sus nombres ni la causa (39-016, 39-018, 39-020). ([ficha](capitulos/39.md)).
+- Cap. 39: ¿Qué quiere saber Walulu de los tatuajes durante el té y qué problemas tiene Iktan? La conversación propuesta no se realiza (39-017–39-018). ([ficha](capitulos/39.md)).
+- Cap. 39: ¿Qué observa a la ciudad y qué ocurre con los yuan-ti sepultados? No se resuelve (39-011, 39-020). ([ficha](capitulos/39.md)).

@@ -1,0 +1,4461 @@
+# Entidades documentadas
+
+Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas de extracción sin identidad verificada no generan fichas automáticamente.
+
+## Angélica Thunder
+
+- Cap. 31, 02:34:00.000: Naór y Triel comen mientras Coyote habla con la tabernera ([31-022](capitulos/31.md)).
+- Cap. 31, 03:10:00.000: Confianza limitada y secreto de ruta ([31-028](capitulos/31.md)).
+
+## Anillo familiar de Erendriel
+
+- Cap. 05, 00:29:00.000: Anillo del elfo y discusión sobre el imperio ([05-010](capitulos/05.md)).
+- Cap. 12, 00:24:15.000: Jack debe ir a Puerto de Espadas y volver con ganancias ([12-007](capitulos/12.md)).
+- Cap. 28, 01:43:00.000: Orbe entregado y visiones enviadas a Bonnie ([28-019](capitulos/28.md)).
+
+## Arcan
+
+- Cap. 20, 00:11:00.000: Encuentro del grupo y tradición del templo ([20-003](capitulos/20.md)).
+
+## Armin
+
+- Cap. 07, 02:30:00.000: Mamá prepara la crianza y Patata compra un hacha ([07-031](capitulos/07.md)).
+- Cap. 09, 02:58:10.000: Ventas finales, pociones y herramientas; Mamá se retira ([09-033](capitulos/09.md)).
+- Cap. 11, 00:08:00.000: Venta de tres perlas y obsidiana ([11-005](capitulos/11.md)).
+- Cap. 12, 00:36:25.000: Arco comprado y palabra papaya para cambios de Ione ([12-011](capitulos/12.md)).
+- Cap. 13, 00:24:00.000: Patata compra ropa y Ayoto utiliza una piel como capa ([13-007](capitulos/13.md)).
+- Cap. 15, 00:18:40.000: El grupo se reúne y Axi compra flechas y armadura ([15-005](capitulos/15.md)).
+- Cap. 16, 00:10:25.000: Conservación del cuerpo del elfo pese al deseo de enterrarlo ([16-004](capitulos/16.md)).
+- Cap. 21, 00:06:00.000: Venta y robo del casino ([21-002](capitulos/21.md)).
+- Cap. 23, 00:21:00.000: Negociación fallida y herramientas ([23-003](capitulos/23.md)).
+- Cap. 35, 00:20:00.000: Negocios de Nox y nombre Armin ([35-004](capitulos/35.md)).
+
+## Atlan
+
+- Cap. 17, 00:27:20.000: La patrulla busca a quienes destruyeron el poblado ([17-006](capitulos/17.md)).
+- Cap. 17, 02:45:30.000: Trueque leonino y quince monedas a Axi ([17-022](capitulos/17.md)).
+- Cap. 20, 00:20:00.000: Una mujer acuática y una riña llevan a Poncelot al grupo ([20-004](capitulos/20.md)).
+- Cap. 31, 00:00:00.000: Coyote vuelve, los gemelos exploran y Naór cría a Leo ([31-001](capitulos/31.md)).
+- Cap. 31, 00:24:00.000: Naór, princesa de Atlan, y el objetivo de llegar a Iktan ([31-005](capitulos/31.md)).
+- Cap. 31, 02:21:00.000: Ciudad y ruinas de piedra derretida ([31-020](capitulos/31.md)).
+- Cap. 31, 02:49:00.000: Gualulu, amiga de la infancia de Naór, y la muerte de su padre ([31-024](capitulos/31.md)).
+- Cap. 31, 03:04:00.000: Naór convoca un concilio y Gualulu apoya al rey ([31-027](capitulos/31.md)).
+
+## Axi
+
+- Cap. 02, 00:20:30.000: Ayoto y Chochi en la selva ([02-006](capitulos/02.md)).
+- Cap. 02, 00:24:20.000: Hallazgo y despertar de Ione ([02-007](capitulos/02.md)).
+- Cap. 02, 00:31:40.000: Comida a cambio de regresar al poblado ([02-008](capitulos/02.md)).
+- Cap. 02, 00:44:00.000: Reencuentro y tensión con los nativos ([02-010](capitulos/02.md)).
+- Cap. 02, 00:50:50.000: Emboscada y veneno ([02-011](capitulos/02.md)).
+- Cap. 02, 01:03:30.000: Identificación de los atacantes ([02-012](capitulos/02.md)).
+- Cap. 02, 00:58:35.000: Victoria sobre los atacantes ([02-013](capitulos/02.md)).
+- Cap. 02, 01:30:00.000: Botín y cuidados tras el combate ([02-015](capitulos/02.md)).
+- Cap. 02, 01:32:15.000: Dinosaurio y huida a Shiaru ([02-016](capitulos/02.md)).
+- Cap. 02, 01:38:25.000: Chochi dice haber perdido su tribu ([02-017](capitulos/02.md)).
+- Cap. 02, 01:43:00.000: Pinky pide fuego y Ayoto lo prepara ([02-018](capitulos/02.md)).
+- Cap. 02, 02:10:00.000: Origen y expulsión de Ayoto ([02-021](capitulos/02.md)).
+- Cap. 02, 02:21:00.000: Ione protege a su tripulación ([02-024](capitulos/02.md)).
+- Cap. 02, 02:32:00.000: Apuesta de pulso ([02-026](capitulos/02.md)).
+- Cap. 02, 02:40:55.000: Bonnie detiene la disputa ([02-028](capitulos/02.md)).
+- Cap. 02, 02:44:00.000: Apuesta sin acuerdo final ([02-029](capitulos/02.md)).
+- Cap. 06, 00:02:15.000: Monedas perdidas y encontradas ([06-002](capitulos/06.md)).
+- Cap. 06, 00:08:00.000: Huida estudiada y pertenencia de Chochi ([06-005](capitulos/06.md)).
+- Cap. 06, 00:16:30.000: Nombre completo reservado de Chochi ([06-008](capitulos/06.md)).
+- Cap. 06, 00:34:30.000: Baño y entrenamiento presentado por Ione ([06-011](capitulos/06.md)).
+- Cap. 06, 00:40:00.000: El loro roba el monedero de Chochi ([06-012](capitulos/06.md)).
+- Cap. 06, 00:43:15.000: Rescate y reparto del monedero ([06-013](capitulos/06.md)).
+- Cap. 06, 00:51:00.000: Botella con sirena liberada por Chochi ([06-015](capitulos/06.md)).
+- Cap. 06, 01:08:30.000: Recompensa y opción de escolta ([06-017](capitulos/06.md)).
+- Cap. 06, 01:20:00.000: Salida en barca y burbujas para respirar ([06-019](capitulos/06.md)).
+- Cap. 06, 01:32:00.000: Tiburones sorprenden a los compañeros ([06-021](capitulos/06.md)).
+- Cap. 06, 01:45:30.000: Tiburones derrotados ([06-022](capitulos/06.md)).
+- Cap. 06, 01:58:30.000: Llegada al huevo y recuperación del tamaño de Marina ([06-025](capitulos/06.md)).
+- Cap. 06, 02:05:40.000: Recompensa como trampa y orden de matar al grupo ([06-026](capitulos/06.md)).
+- Cap. 06, 02:10:00.000: Ione se transforma al contacto de la sirena ([06-027](capitulos/06.md)).
+- Cap. 06, 02:13:50.000: Primera sirena abatida y aparición de una tercera atacante ([06-028](capitulos/06.md)).
+- Cap. 06, 02:29:30.000: Ione muerde y hiere a Chochi ([06-030](capitulos/06.md)).
+- Cap. 06, 02:48:30.000: Segunda baja y Chochi agoniza ([06-033](capitulos/06.md)).
+- Cap. 06, 02:59:45.000: El hipocampo rompe la concentración ([06-034](capitulos/06.md)).
+- Cap. 06, 03:02:40.000: Intento de estabilización y última sirena abatida ([06-035](capitulos/06.md)).
+- Cap. 06, 03:08:00.000: Poncelot salva a Chochi con una poción ([06-036](capitulos/06.md)).
+- Cap. 06, 03:10:00.000: Tesoro real y cantidad de oro discrepante ([06-037](capitulos/06.md)).
+- Cap. 06, 03:15:45.000: Regreso, médico y búsqueda de Ione ([06-038](capitulos/06.md)).
+- Cap. 09, 00:00:00.000: Descanso y conversación entre sesiones de Nox ([09-001](capitulos/09.md)).
+- Cap. 09, 00:04:15.000: Mamá relata una visión al tomar la mano de Nox ([09-003](capitulos/09.md)).
+- Cap. 09, 00:05:35.000: Axi relata el abandono de su fe y su decisión de ser pirata ([09-004](capitulos/09.md)).
+- Cap. 09, 00:19:00.000: Ione admite descontrol; Axi se disculpa por prejuicios ([09-007](capitulos/09.md)).
+- Cap. 09, 00:30:45.000: Lunaria ahuyenta al loro e Ione da una botella a Axi ([09-010](capitulos/09.md)).
+- Cap. 09, 00:39:05.000: El mapa requiere un guía y Lunaria dibuja una copia ([09-012](capitulos/09.md)).
+- Cap. 09, 00:44:00.000: Mamá descubre la mentira de Axi y guía la expedición ([09-014](capitulos/09.md)).
+- Cap. 09, 00:51:30.000: Frutas cambian sombras y dan curación a Nox ([09-015](capitulos/09.md)).
+- Cap. 09, 01:07:30.000: Llegan a ruinas serpentinas y entran ([09-018](capitulos/09.md)).
+- Cap. 09, 01:15:30.000: El agua no activa el altar e Ione desencadena la trampa de veneno ([09-019](capitulos/09.md)).
+- Cap. 09, 01:20:35.000: Axi recuerda la mordedura e Ione exige silencio ([09-020](capitulos/09.md)).
+- Cap. 09, 01:28:30.000: La sala funeraria se cierra y emerge una criatura ([09-022](capitulos/09.md)).
+- Cap. 09, 01:34:20.000: Ione mata al reptil y conserva el cadáver; Axi queda rezagado ([09-023](capitulos/09.md)).
+- Cap. 09, 02:44:00.000: Nox toma el collar sin ocultarlo y regresan con Axi ([09-030](capitulos/09.md)).
+- Cap. 10, 00:06:05.000: Axi pierde una poción y Ayoto está en el pozo ([10-004](capitulos/10.md)).
+- Cap. 10, 00:18:00.000: Bonnie impone el rescate de Pix vivo ([10-008](capitulos/10.md)).
+- Cap. 10, 00:22:20.000: Expedición en barca hasta Ruki Peten ([10-009](capitulos/10.md)).
+- Cap. 10, 00:34:15.000: Dos cocodrilos muertos y diente para Axi ([10-012](capitulos/10.md)).
+- Cap. 10, 00:45:15.000: El dragón guía la búsqueda y los guardias detectan a tres compañeros ([10-014](capitulos/10.md)).
+- Cap. 10, 00:50:45.000: Axi recibe una jabalina y sus insultos inician el combate ([10-015](capitulos/10.md)).
+- Cap. 10, 00:54:30.000: Patata combate al frente y llegan refuerzos ([10-016](capitulos/10.md)).
+- Cap. 10, 01:31:20.000: Axi cae y es arrastrado; Ayoto comienza la retirada ([10-019](capitulos/10.md)).
+- Cap. 10, 01:41:00.000: Calmar emociones no afecta a los cocodrilos y el elfo escapa ([10-020](capitulos/10.md)).
+- Cap. 10, 01:50:30.000: Una curación de los espectadores levanta a Axi y el dragón huye ([10-021](capitulos/10.md)).
+- Cap. 10, 02:01:30.000: Axi vuelve a caer ante el martillo y Blink intenta ayudar ([10-022](capitulos/10.md)).
+- Cap. 10, 02:15:00.000: Patata cae pese a curarse y Blink queda atrás ([10-023](capitulos/10.md)).
+- Cap. 10, 02:37:30.000: Patata, Blink y Axi están vivos y enjaulados ([10-027](capitulos/10.md)).
+- Cap. 11, 00:00:00.000: Ione organiza un rescate tras recibir información de Nox ([11-001](capitulos/11.md)).
+- Cap. 11, 00:12:40.000: Kilzer encuentra obsidiana; Ione recluta a Mamá ([11-006](capitulos/11.md)).
+- Cap. 11, 01:15:00.000: Camuflaje, cautivos vistos y lengua comprendida ([11-016](capitulos/11.md)).
+- Cap. 11, 02:45:00.000: Jaulas abiertas pese a la rotura de una herramienta ([11-025](capitulos/11.md)).
+- Cap. 11, 02:47:50.000: Recuperación parcial de equipo y botín ([11-026](capitulos/11.md)).
+- Cap. 11, 02:52:20.000: Regreso, reversión de Ione y recuerdos limitados ([11-027](capitulos/11.md)).
+- Cap. 11, 03:06:00.000: Pago discutido y traslado de los heridos al médico ([11-030](capitulos/11.md)).
+- Cap. 11, 03:14:40.000: Gema de Liz obtenida por inspiración; recuento ambiguo ([11-032](capitulos/11.md)).
+- Cap. 12, 00:02:25.000: Cita de Ione y despertar de Axi ([12-002](capitulos/12.md)).
+- Cap. 12, 00:48:30.000: Ione equipa a Axi, que fabrica un arco imperfecto ([12-014](capitulos/12.md)).
+- Cap. 12, 00:52:30.000: Se infiltran entre ruinas mientras Pinky distrae ([12-015](capitulos/12.md)).
+- Cap. 12, 01:19:00.000: Guardia reducido por Ione y Blink; otros no ven todo ([12-018](capitulos/12.md)).
+- Cap. 13, 00:00:00.000: Patata recupera parte de su equipo y Nox reparte las ganancias de una venta ([13-001](capitulos/13.md)).
+- Cap. 15, 00:00:00.000: Casino en construcción y los hermanos exploran el pueblo ([15-001](capitulos/15.md)).
+- Cap. 15, 00:18:40.000: El grupo se reúne y Axi compra flechas y armadura ([15-005](capitulos/15.md)).
+- Cap. 15, 00:36:00.000: Diosa de Patata y rastros hacia el sur ([15-007](capitulos/15.md)).
+- Cap. 15, 00:44:20.000: Frutas: obligación de decir la verdad, inmunidad a las armas y resistencias ([15-008](capitulos/15.md)).
+- Cap. 15, 00:50:30.000: Evitan un estegosauro y Triel obliga a Kilzer a arrodillarse ([15-009](capitulos/15.md)).
+- Cap. 15, 01:01:30.000: Restos de piratas y Triel infiltrada con disfraz ([15-010](capitulos/15.md)).
+- Cap. 15, 01:08:15.000: Un cebo permite eliminar a un defensor y el dragón alerta al otro flanco ([15-011](capitulos/15.md)).
+- Cap. 15, 01:28:20.000: Defensores y dinosaurios presionan a Patata ([15-013](capitulos/15.md)).
+- Cap. 15, 02:00:00.000: Refuerzos y jefe; Axi inmune pero envenenado ([15-015](capitulos/15.md)).
+- Cap. 15, 02:14:20.000: Triel lucha disfrazada y Axi le dispara por error ([15-016](capitulos/15.md)).
+- Cap. 15, 02:31:10.000: El rival se levanta y Eldrat lo remata ([15-017](capitulos/15.md)).
+- Cap. 15, 02:40:20.000: Botín y Eldrat roba veintitrés a Kilzer ([15-018](capitulos/15.md)).
+- Cap. 15, 02:46:20.000: Tatuajes copiados, miasma y pociones en un hoyo ([15-019](capitulos/15.md)).
+- Cap. 15, 02:56:30.000: Treinta monedas repartidas entre cuatro; el dragón busca a la abuela ([15-022](capitulos/15.md)).
+- Cap. 17, 00:00:00.000: Descanso, copa perdida y casino preparado ([17-001](capitulos/17.md)).
+- Cap. 17, 00:04:35.000: Axi contratado para detectar tramposos ([17-002](capitulos/17.md)).
+- Cap. 17, 00:06:30.000: Cuatro salen hacia Cuicapalli sin buena guía ([17-003](capitulos/17.md)).
+- Cap. 17, 00:17:30.000: Encuentro y frutas temporales ([17-005](capitulos/17.md)).
+- Cap. 17, 00:27:20.000: La patrulla busca a quienes destruyeron el poblado ([17-006](capitulos/17.md)).
+- Cap. 17, 00:43:30.000: Axi relata su cautiverio mediante una conexión mental ([17-008](capitulos/17.md)).
+- Cap. 17, 00:47:30.000: Costumbres, comida y amenazas interesadas ([17-009](capitulos/17.md)).
+- Cap. 17, 01:08:00.000: Axi y Kilzer señalados; cofres sujetos a prueba ([17-012](capitulos/17.md)).
+- Cap. 17, 01:16:00.000: Los cinco entran en una prueba contra bestias ([17-013](capitulos/17.md)).
+- Cap. 17, 01:24:30.000: Preparación y rugido que afecta a Axi ([17-014](capitulos/17.md)).
+- Cap. 17, 01:35:30.000: Mueren las primeras criaturas y Kilzer se transforma temporalmente en araña ([17-015](capitulos/17.md)).
+- Cap. 17, 01:51:20.000: Cocodrilo enorme y Naór convertida en oveja ([17-016](capitulos/17.md)).
+- Cap. 17, 02:03:00.000: Naór y Triel dentro del cocodrilo, Axi lo mata ([17-017](capitulos/17.md)).
+- Cap. 17, 02:17:20.000: La hidra de la prueba mata a un cuidador y escupe ácido ([17-018](capitulos/17.md)).
+- Cap. 17, 02:35:30.000: Explosión ácida de carta y victoria reconocida ([17-020](capitulos/17.md)).
+- Cap. 17, 02:39:30.000: Botín y promesa de los dirigentes de asistir al concilio ([17-021](capitulos/17.md)).
+- Cap. 17, 02:45:30.000: Trueque leonino y quince monedas a Axi ([17-022](capitulos/17.md)).
+- Cap. 17, 02:51:10.000: Separación: regreso y misión todavía sin Iktan ([17-023](capitulos/17.md)).
+- Cap. 18, 01:35:00.000: Sangre y trampas permanentemente activas ([18-013](capitulos/18.md)).
+- Cap. 20, 00:00:00.000: Equipo reparado y camino a Iktan ([20-001](capitulos/20.md)).
+- Cap. 20, 00:11:00.000: Encuentro del grupo y tradición del templo ([20-003](capitulos/20.md)).
+- Cap. 20, 00:33:00.000: Mosca domada con fregona ([20-005](capitulos/20.md)).
+- Cap. 20, 00:48:00.000: Desvío hacia el Garfio y alucinaciones ([20-007](capitulos/20.md)).
+- Cap. 20, 00:57:00.000: Marines avistados y ataque decidido ([20-008](capitulos/20.md)).
+- Cap. 20, 01:05:00.000: Dos perros muertos y bestia de Axi ([20-009](capitulos/20.md)).
+- Cap. 20, 01:18:00.000: Primer marine muerto y espíritu destruido ([20-010](capitulos/20.md)).
+- Cap. 20, 01:34:00.000: Curaciones, miedo y muerte de otros marines ([20-011](capitulos/20.md)).
+- Cap. 20, 02:00:00.000: Capitán muerto y puerta de piedra golpeada ([20-012](capitulos/20.md)).
+- Cap. 20, 02:10:00.000: El gas y la serpiente incapacitan a Axi ([20-013](capitulos/20.md)).
+- Cap. 20, 02:24:00.000: Naór evacúa a Axi y Poncelot monta a la serpiente ([20-015](capitulos/20.md)).
+- Cap. 20, 02:34:00.000: Serpiente muerta y colmillos recuperados ([20-016](capitulos/20.md)).
+- Cap. 20, 02:42:00.000: Separación, campamento y mapa pendiente ([20-017](capitulos/20.md)).
+- Cap. 21, 00:00:00.000: Descansos, montura y pérdidas ([21-001](capitulos/21.md)).
+- Cap. 22, 00:10:00.000: Descansos y daño de bienvenida ([22-001](capitulos/22.md)).
+- Cap. 22, 00:40:00.000: Axi llega y Guayacán come fresas ([22-005](capitulos/22.md)).
+- Cap. 22, 01:03:00.000: Frutas del festival ([22-007](capitulos/22.md)).
+- Cap. 22, 01:07:00.000: Guayacán gana una carrera con sabotajes ([22-008](capitulos/22.md)).
+- Cap. 22, 01:20:00.000: Mamá identifica dos sospechosas y vigila ([22-009](capitulos/22.md)).
+- Cap. 22, 01:32:00.000: Axi deja de seguir a la infiltrada y Mamá resiste ([22-010](capitulos/22.md)).
+- Cap. 22, 01:52:00.000: Arqueros y monstruosidades abaten a Axi ([22-012](capitulos/22.md)).
+- Cap. 22, 02:00:00.000: El jefe exige el collar y Mamá provoca miedo ([22-013](capitulos/22.md)).
+- Cap. 22, 02:15:00.000: Reagrupación y conjuro contra Mamá ([22-014](capitulos/22.md)).
+- Cap. 22, 02:42:00.000: Axi mata a una arquera y continúa la defensa ([22-016](capitulos/22.md)).
+- Cap. 22, 02:57:00.000: Pinky quema a un enemigo y Ayoto lo remata ([22-017](capitulos/22.md)).
+- Cap. 22, 03:07:00.000: Blink en peligro y arco venenoso ([22-018](capitulos/22.md)).
+- Cap. 27, 00:00:00.000: Descanso y preparación tras ataque a Cuicapalli ([27-001](capitulos/27.md)).
+- Cap. 27, 00:08:00.000: Tlachka entra sin reconocimiento y comparten ataques ([27-003](capitulos/27.md)).
+- Cap. 27, 00:11:00.000: Sacrificio de Tlachka y presentación de Guayacán ([27-004](capitulos/27.md)).
+- Cap. 27, 00:20:00.000: Las alarmas señalan a los hombres azules del sur ([27-005](capitulos/27.md)).
+- Cap. 27, 00:26:00.000: Primeras trampas y Axi atrapado por un cocodrilo ([27-006](capitulos/27.md)).
+- Cap. 27, 00:33:00.000: Muerte del cocodrilo después de liberar a Axi ([27-007](capitulos/27.md)).
+- Cap. 27, 00:45:00.000: Tronco, cocos, pinchos y flechas improvisadas ([27-008](capitulos/27.md)).
+- Cap. 27, 00:55:00.000: Dos babuinos reclutados por monedas ([27-009](capitulos/27.md)).
+- Cap. 27, 01:04:00.000: Frutas resbaladizas y salto fallido al río ([27-010](capitulos/27.md)).
+- Cap. 27, 01:14:00.000: Ayoto descubierto y primera oleada ([27-011](capitulos/27.md)).
+- Cap. 27, 01:26:00.000: Tlachka sale oculto y Cipo combate ([27-012](capitulos/27.md)).
+- Cap. 27, 01:51:00.000: Axi agota las flechas y el jefe menciona a Tórtola ([27-014](capitulos/27.md)).
+- Cap. 27, 02:00:00.000: Guayacán cae y los babuinos intervienen ([27-015](capitulos/27.md)).
+- Cap. 27, 02:10:00.000: Espíritu volador y cocos contra el jefe ([27-016](capitulos/27.md)).
+- Cap. 27, 02:18:00.000: Curación de Guayacán y recuperación de seis flechas ([27-017](capitulos/27.md)).
+- Cap. 27, 02:30:00.000: Babuino muerto y jefe rodeado ([27-018](capitulos/27.md)).
+- Cap. 27, 02:39:00.000: Ataque del sur repelido y botín limitado ([27-019](capitulos/27.md)).
+- Cap. 33, 00:04:00.000: Axi despierta sin memoria entre cadáveres ([33-001](capitulos/33.md)).
+- Cap. 33, 00:12:30.000: Reclutamiento y acusación a Eleanor ([33-003](capitulos/33.md)).
+- Cap. 33, 00:48:00.000: Frutas alteran exploradores ([33-008](capitulos/33.md)).
+- Cap. 33, 00:54:00.000: Cueva y exploración sin luz ([33-009](capitulos/33.md)).
+- Cap. 33, 01:10:00.000: Plantas atacan al intentar hoguera ([33-011](capitulos/33.md)).
+- Cap. 33, 01:24:00.000: Margaret muere y Morris despierta ([33-012](capitulos/33.md)).
+- Cap. 33, 01:34:00.000: Ilusión de fuego, furia y primera planta muerta ([33-013](capitulos/33.md)).
+- Cap. 33, 01:50:00.000: Segunda planta vencida y corrección de visión ([33-014](capitulos/33.md)).
+- Cap. 33, 02:20:00.000: Axi capturado y Poncelot despierto ([33-017](capitulos/33.md)).
+- Cap. 33, 02:32:00.000: Hoguera y salida con hipopótamos ([33-019](capitulos/33.md)).
+- Cap. 33, 02:39:00.000: Nivel ocho desbloqueado ([33-020](capitulos/33.md)).
+
+## Ayoto
+
+- Cap. 02, 00:20:30.000: Ayoto y Chochi en la selva ([02-006](capitulos/02.md)).
+- Cap. 02, 00:24:20.000: Hallazgo y despertar de Ione ([02-007](capitulos/02.md)).
+- Cap. 02, 00:31:40.000: Comida a cambio de regresar al poblado ([02-008](capitulos/02.md)).
+- Cap. 02, 00:44:00.000: Reencuentro y tensión con los nativos ([02-010](capitulos/02.md)).
+- Cap. 02, 00:50:50.000: Emboscada y veneno ([02-011](capitulos/02.md)).
+- Cap. 02, 01:03:30.000: Identificación de los atacantes ([02-012](capitulos/02.md)).
+- Cap. 02, 00:58:35.000: Victoria sobre los atacantes ([02-013](capitulos/02.md)).
+- Cap. 02, 01:30:00.000: Botín y cuidados tras el combate ([02-015](capitulos/02.md)).
+- Cap. 02, 01:32:15.000: Dinosaurio y huida a Shiaru ([02-016](capitulos/02.md)).
+- Cap. 02, 01:43:00.000: Pinky pide fuego y Ayoto lo prepara ([02-018](capitulos/02.md)).
+- Cap. 02, 02:08:00.000: Ayoto paga su deuda con fuego ([02-020](capitulos/02.md)).
+- Cap. 02, 02:10:00.000: Origen y expulsión de Ayoto ([02-021](capitulos/02.md)).
+- Cap. 02, 02:14:15.000: El visitante huyó de su mala reputación ([02-022](capitulos/02.md)).
+- Cap. 02, 02:19:00.000: Trato de ayuda nocturna por comida ([02-023](capitulos/02.md)).
+- Cap. 02, 02:21:00.000: Ione protege a su tripulación ([02-024](capitulos/02.md)).
+- Cap. 02, 02:24:15.000: Bebida adulterada de Pix ([02-025](capitulos/02.md)).
+- Cap. 02, 02:32:00.000: Apuesta de pulso ([02-026](capitulos/02.md)).
+- Cap. 02, 02:36:00.000: Nox induce a Ayoto a perder ([02-027](capitulos/02.md)).
+- Cap. 02, 02:40:55.000: Bonnie detiene la disputa ([02-028](capitulos/02.md)).
+- Cap. 02, 02:44:00.000: Apuesta sin acuerdo final ([02-029](capitulos/02.md)).
+- Cap. 04, 00:06:00.000: El visitante evita la apuesta anterior ([04-005](capitulos/04.md)).
+- Cap. 08, 00:35:30.000: Encuentran a Ayoto y un cadáver ([08-012](capitulos/08.md)).
+- Cap. 08, 00:38:40.000: Día convertido en noche e interpretaciones del dios Sol ([08-013](capitulos/08.md)).
+- Cap. 08, 00:47:20.000: El loro roba una bolsa y Blink finge ser el dios Sol ([08-014](capitulos/08.md)).
+- Cap. 08, 00:52:00.000: Ayoto encuentra un camino por rastros ([08-015](capitulos/08.md)).
+- Cap. 08, 01:04:00.000: Emboscada de cinco panteras derrotada ([08-017](capitulos/08.md)).
+- Cap. 08, 01:29:40.000: Curación y objetos de los cadáveres ([08-019](capitulos/08.md)).
+- Cap. 08, 01:34:20.000: Templo asociado a una civilización de nawals ([08-020](capitulos/08.md)).
+- Cap. 08, 01:40:20.000: Interior con diario en Terran y muerto colgado ([08-021](capitulos/08.md)).
+- Cap. 08, 01:46:20.000: Una figura se transforma en pantera bípeda y ataca ([08-022](capitulos/08.md)).
+- Cap. 08, 01:51:20.000: El combate termina con la muerte de la criatura y su reversión a mujer ([08-023](capitulos/08.md)).
+- Cap. 08, 02:06:20.000: Libro, mortero y cuerpo para consulta posterior ([08-024](capitulos/08.md)).
+- Cap. 08, 02:12:40.000: Descanso de ocho horas y vuelta nocturna ([08-025](capitulos/08.md)).
+- Cap. 08, 02:20:30.000: Pinky recibe el mortero, pero no reconoce al nawal ([08-026](capitulos/08.md)).
+- Cap. 08, 02:23:50.000: Pantera al pozo, loro huido y espada rota ([08-027](capitulos/08.md)).
+- Cap. 10, 00:06:05.000: Axi pierde una poción y Ayoto está en el pozo ([10-004](capitulos/10.md)).
+- Cap. 10, 00:18:00.000: Bonnie impone el rescate de Pix vivo ([10-008](capitulos/10.md)).
+- Cap. 10, 00:22:20.000: Expedición en barca hasta Ruki Peten ([10-009](capitulos/10.md)).
+- Cap. 10, 00:45:15.000: El dragón guía la búsqueda y los guardias detectan a tres compañeros ([10-014](capitulos/10.md)).
+- Cap. 10, 00:54:30.000: Patata combate al frente y llegan refuerzos ([10-016](capitulos/10.md)).
+- Cap. 10, 01:31:20.000: Axi cae y es arrastrado; Ayoto comienza la retirada ([10-019](capitulos/10.md)).
+- Cap. 10, 01:41:00.000: Calmar emociones no afecta a los cocodrilos y el elfo escapa ([10-020](capitulos/10.md)).
+- Cap. 10, 02:27:30.000: Ayoto y el elfo regresan sin sus compañeros ni Pix ([10-024](capitulos/10.md)).
+- Cap. 10, 02:31:00.000: Ayoto informa del fracaso a Bonnie ([10-025](capitulos/10.md)).
+- Cap. 10, 02:34:40.000: Bonnie exige una nueva expedición y mata a un pirata como ejemplo ([10-026](capitulos/10.md)).
+- Cap. 13, 00:03:00.000: Lunaria encuentra un mapa y Ayoto busca información ([13-002](capitulos/13.md)).
+- Cap. 13, 00:06:30.000: Pantera podrida y armadura de Patata no recuperada ([13-003](capitulos/13.md)).
+- Cap. 13, 00:10:00.000: Kilzer sordo y Patata roba a Ayoto ([13-004](capitulos/13.md)).
+- Cap. 13, 00:24:00.000: Patata compra ropa y Ayoto utiliza una piel como capa ([13-007](capitulos/13.md)).
+- Cap. 13, 00:29:30.000: Croquis de Jacki, botella y silencio de Kilzer ([13-008](capitulos/13.md)).
+- Cap. 13, 00:35:30.000: Ayoto entrega una capa a Pix y Bonnie lo despide ([13-009](capitulos/13.md)).
+- Cap. 13, 00:39:30.000: Puntos de interés, herramientas y ruta elegida por Ayoto ([13-010](capitulos/13.md)).
+- Cap. 13, 00:46:40.000: Nox dormido, dos robos y dado explosivo ([13-012](capitulos/13.md)).
+- Cap. 13, 00:53:30.000: Efectos de fruta: armas pesadas, veneno y teletransporte ([13-013](capitulos/13.md)).
+- Cap. 13, 00:56:00.000: Templo desconocido, engaño del sol y portón abierto ([13-014](capitulos/13.md)).
+- Cap. 13, 01:03:45.000: Luz en Ayoto y plantas que atraen al grupo ([13-015](capitulos/13.md)).
+- Cap. 13, 01:10:00.000: Daño ácido y ayuda condicionada a jurar al Sol ([13-016](capitulos/13.md)).
+- Cap. 13, 01:28:40.000: Kilzer queda atrapado y Nox lo libera de las raíces ([13-018](capitulos/13.md)).
+- Cap. 13, 01:35:30.000: Uso de un pergamino de fuego y Nox mata a otra planta ([13-019](capitulos/13.md)).
+- Cap. 13, 01:42:40.000: Ayoto agarrado y última planta abatida ([13-020](capitulos/13.md)).
+- Cap. 13, 01:48:00.000: Ayoto recoge lianas y dos semillas ([13-021](capitulos/13.md)).
+- Cap. 13, 01:52:10.000: Columnas de jaguar, águila y serpiente comprendidas ([13-022](capitulos/13.md)).
+- Cap. 13, 01:58:30.000: Águila en el techo y ritual con ojos iluminados ([13-023](capitulos/13.md)).
+- Cap. 13, 02:05:20.000: La danza activa la plataforma hacia el sótano ([13-024](capitulos/13.md)).
+- Cap. 13, 02:08:20.000: Tesoro de cajas: jade, obsidiana y monedas antiguas ([13-025](capitulos/13.md)).
+- Cap. 14, 00:30:00.000: Sombrero dado al loro y aviso a Bonnie ([14-006](capitulos/14.md)).
+- Cap. 14, 00:48:00.000: Ayoto protege a Patata y Blink conoce la leyenda ([14-009](capitulos/14.md)).
+- Cap. 14, 00:51:45.000: Navío visto y Bonnie expulsa al marcado ([14-010](capitulos/14.md)).
+- Cap. 14, 00:58:15.000: Barco deteriorado con tareas repetidas ([14-011](capitulos/14.md)).
+- Cap. 14, 01:24:15.000: Tres muertos de cajas derrotados ([14-014](capitulos/14.md)).
+- Cap. 14, 01:54:00.000: Brújula a cambio de bebida y envenenamiento ([14-017](capitulos/14.md)).
+- Cap. 14, 02:04:00.000: Camarero derrotado y brújula recogida ([14-018](capitulos/14.md)).
+- Cap. 14, 02:12:30.000: Campana ganada y moneda negra intercambiada ([14-019](capitulos/14.md)).
+- Cap. 14, 02:22:30.000: Portador abatido y campana recogida; runa vista ([14-020](capitulos/14.md)).
+- Cap. 14, 02:35:30.000: Primera forma del capitán derrotada ([14-022](capitulos/14.md)).
+- Cap. 14, 02:52:40.000: La rotura del relicario dispersa al capitán y los tripulantes ([14-024](capitulos/14.md)).
+- Cap. 14, 03:01:00.000: Desaparición de la marca y el veneno; Bonnie llama a los hermanos ([14-025](capitulos/14.md)).
+- Cap. 16, 00:12:00.000: Baton y Nelli guían a Cuicapalli ([16-005](capitulos/16.md)).
+- Cap. 16, 00:31:30.000: Naór reconoce a Baton y conoce al grupo ([16-007](capitulos/16.md)).
+- Cap. 16, 00:38:00.000: Mapa reparado y deidades discutidas ([16-008](capitulos/16.md)).
+- Cap. 16, 01:14:30.000: Blink agranda a Naór y muere el cocodrilo pequeño ([16-011](capitulos/16.md)).
+- Cap. 16, 01:24:30.000: El cocodrilo gigante atrapa a Patata y el grupo lo mata ([16-012](capitulos/16.md)).
+- Cap. 16, 01:38:30.000: Cadáver de regalo, estegosauros evitados y viaje de días ([16-013](capitulos/16.md)).
+- Cap. 16, 01:58:10.000: Aceptación del concilio de Tutucan condicionada a los problemas locales ([16-016](capitulos/16.md)).
+- Cap. 16, 02:02:20.000: Taberna tranquila, encargo fucsia y campeón del sol ([16-017](capitulos/16.md)).
+- Cap. 16, 02:13:30.000: Ayoto acusa a una mujer de ser una nawal resucitada ([16-019](capitulos/16.md)).
+- Cap. 16, 02:20:30.000: Luna y Triel parten mientras el resto celebra el banquete ([16-021](capitulos/16.md)).
+- Cap. 18, 00:04:00.000: Ayoto entrena y Poncelot encuentra oro ([18-002](capitulos/18.md)).
+- Cap. 18, 00:16:00.000: Llegada y presentación de Mamá ([18-004](capitulos/18.md)).
+- Cap. 18, 00:42:00.000: Chocolate y ruta de Baton ([18-008](capitulos/18.md)).
+- Cap. 18, 00:50:00.000: Guardianes muertos y curación dañina ([18-009](capitulos/18.md)).
+- Cap. 18, 01:13:00.000: Descubrimiento de la trampa de las miradas ([18-011](capitulos/18.md)).
+- Cap. 18, 01:24:00.000: Ataques de serpientes y cuerpos marinos ([18-012](capitulos/18.md)).
+- Cap. 18, 01:35:00.000: Sangre y trampas permanentemente activas ([18-013](capitulos/18.md)).
+- Cap. 18, 01:46:00.000: Emboscada y Cipo como montura ([18-014](capitulos/18.md)).
+- Cap. 18, 01:57:00.000: Humanoides que leen mentes y abaten a Poncelot ([18-015](capitulos/18.md)).
+- Cap. 18, 02:09:00.000: Mamá resiste la intrusión y muere el arquero ([18-016](capitulos/18.md)).
+- Cap. 18, 02:20:00.000: Bendición de Set y último enemigo muerto ([18-017](capitulos/18.md)).
+- Cap. 18, 02:25:00.000: Patata levantado y botín de Poncelot ([18-018](capitulos/18.md)).
+- Cap. 18, 02:33:00.000: Visión de Mamá y cabeza retirada ([18-019](capitulos/18.md)).
+- Cap. 18, 02:38:00.000: Prueba y recompensas en Cuicapalli ([18-020](capitulos/18.md)).
+- Cap. 19, 00:56:00.000: Pelea, esfera de fuego y llegada de Ayoto ([19-009](capitulos/19.md)).
+- Cap. 19, 01:08:00.000: Un triceratops alterado y una serpiente atacan ([19-010](capitulos/19.md)).
+- Cap. 19, 01:20:00.000: Mamá cae y Leona recibe asistencia ([19-011](capitulos/19.md)).
+- Cap. 19, 01:28:00.000: Muere el triceratops y Santuario bloquea los golpes ([19-012](capitulos/19.md)).
+- Cap. 19, 01:41:00.000: Chocolate, raíces y serpiente muerta ([19-013](capitulos/19.md)).
+- Cap. 19, 01:50:00.000: Collar con voz poderosa en fruta ([19-014](capitulos/19.md)).
+- Cap. 19, 01:55:00.000: Regreso con Pinky alucinando ([19-015](capitulos/19.md)).
+- Cap. 19, 02:02:00.000: Informe, collar y eruditos de otras ciudades ([19-016](capitulos/19.md)).
+- Cap. 19, 02:10:00.000: Encargo de entrenar a Leona y cena descartada ([19-017](capitulos/19.md)).
+- Cap. 22, 00:10:00.000: Descansos y daño de bienvenida ([22-001](capitulos/22.md)).
+- Cap. 22, 00:16:00.000: Festival y Guayacán presentado ([22-002](capitulos/22.md)).
+- Cap. 22, 00:26:00.000: Choque con Pinky y luces colocadas ([22-003](capitulos/22.md)).
+- Cap. 22, 00:36:00.000: Plantación y chocolate ritual ([22-004](capitulos/22.md)).
+- Cap. 22, 00:40:00.000: Axi llega y Guayacán come fresas ([22-005](capitulos/22.md)).
+- Cap. 22, 00:53:00.000: Ayoto gana el banquete y un caparazón ([22-006](capitulos/22.md)).
+- Cap. 22, 01:03:00.000: Frutas del festival ([22-007](capitulos/22.md)).
+- Cap. 22, 01:07:00.000: Guayacán gana una carrera con sabotajes ([22-008](capitulos/22.md)).
+- Cap. 22, 01:20:00.000: Mamá identifica dos sospechosas y vigila ([22-009](capitulos/22.md)).
+- Cap. 22, 01:52:00.000: Arqueros y monstruosidades abaten a Axi ([22-012](capitulos/22.md)).
+- Cap. 22, 02:00:00.000: El jefe exige el collar y Mamá provoca miedo ([22-013](capitulos/22.md)).
+- Cap. 22, 02:15:00.000: Reagrupación y conjuro contra Mamá ([22-014](capitulos/22.md)).
+- Cap. 22, 02:28:00.000: La explosión del jefe causa veneno ([22-015](capitulos/22.md)).
+- Cap. 22, 02:42:00.000: Axi mata a una arquera y continúa la defensa ([22-016](capitulos/22.md)).
+- Cap. 22, 02:57:00.000: Pinky quema a un enemigo y Ayoto lo remata ([22-017](capitulos/22.md)).
+- Cap. 22, 03:07:00.000: Blink en peligro y arco venenoso ([22-018](capitulos/22.md)).
+- Cap. 22, 03:11:00.000: Guayacán alucina aves por chocolate ([22-019](capitulos/22.md)).
+- Cap. 22, 03:15:00.000: Antigua enemistad y concilio pendiente ([22-020](capitulos/22.md)).
+- Cap. 27, 00:00:00.000: Descanso y preparación tras ataque a Cuicapalli ([27-001](capitulos/27.md)).
+- Cap. 27, 00:08:00.000: Tlachka entra sin reconocimiento y comparten ataques ([27-003](capitulos/27.md)).
+- Cap. 27, 00:11:00.000: Sacrificio de Tlachka y presentación de Guayacán ([27-004](capitulos/27.md)).
+- Cap. 27, 00:20:00.000: Las alarmas señalan a los hombres azules del sur ([27-005](capitulos/27.md)).
+- Cap. 27, 00:45:00.000: Tronco, cocos, pinchos y flechas improvisadas ([27-008](capitulos/27.md)).
+- Cap. 27, 00:55:00.000: Dos babuinos reclutados por monedas ([27-009](capitulos/27.md)).
+- Cap. 27, 01:04:00.000: Frutas resbaladizas y salto fallido al río ([27-010](capitulos/27.md)).
+- Cap. 27, 01:14:00.000: Ayoto descubierto y primera oleada ([27-011](capitulos/27.md)).
+- Cap. 27, 01:26:00.000: Tlachka sale oculto y Cipo combate ([27-012](capitulos/27.md)).
+- Cap. 27, 01:40:00.000: Refuerzos llegan y repliegue propuesto ([27-013](capitulos/27.md)).
+- Cap. 27, 01:51:00.000: Axi agota las flechas y el jefe menciona a Tórtola ([27-014](capitulos/27.md)).
+- Cap. 27, 02:00:00.000: Guayacán cae y los babuinos intervienen ([27-015](capitulos/27.md)).
+- Cap. 27, 02:10:00.000: Espíritu volador y cocos contra el jefe ([27-016](capitulos/27.md)).
+- Cap. 27, 02:18:00.000: Curación de Guayacán y recuperación de seis flechas ([27-017](capitulos/27.md)).
+- Cap. 27, 02:39:00.000: Ataque del sur repelido y botín limitado ([27-019](capitulos/27.md)).
+- Cap. 27, 02:44:00.000: Regreso herido y traje de Guayacán deteriorado ([27-020](capitulos/27.md)).
+- Cap. 29, 00:00:00.000: Trampas reforzadas y casino aún cerrado ([29-001](capitulos/29.md)).
+- Cap. 29, 00:09:00.000: El cadáver del elfo cae y el tigre se lo lleva ([29-003](capitulos/29.md)).
+- Cap. 29, 00:13:00.000: Los guerreros aceptan ayudar al pueblo de la sirena ([29-004](capitulos/29.md)).
+- Cap. 29, 00:23:00.000: Seta tóxica y efectos de fruta ([29-006](capitulos/29.md)).
+- Cap. 29, 00:27:00.000: Pinky busca a Cipo y hace crecer cáñamo ([29-007](capitulos/29.md)).
+- Cap. 29, 00:31:00.000: Burbujas de una hora y Coyote copia a Pinky ([29-008](capitulos/29.md)).
+- Cap. 29, 00:36:00.000: Un agujero del lago conecta con el mar ([29-009](capitulos/29.md)).
+- Cap. 29, 00:44:00.000: Ausencia de peces y figuras junto al coral ([29-010](capitulos/29.md)).
+- Cap. 29, 00:49:00.000: Cuatro merros detectan la arena levantada por los guerreros ([29-011](capitulos/29.md)).
+- Cap. 29, 00:55:00.000: Reglas subacuáticas y primeros golpes ([29-012](capitulos/29.md)).
+- Cap. 29, 01:04:00.000: Ayoto paralizado y copias que protegen al mago ([29-013](capitulos/29.md)).
+- Cap. 29, 01:15:00.000: Destrucción de las copias y Patrón hipnótico ([29-014](capitulos/29.md)).
+- Cap. 29, 01:24:00.000: Los golpes rompen el encantamiento y se forma una nube de arena ([29-015](capitulos/29.md)).
+- Cap. 29, 01:34:00.000: Kilzer paralizado y un rayo lo derriba ([29-016](capitulos/29.md)).
+- Cap. 29, 01:50:00.000: Cuatro atacantes muertos y perla de botín ([29-018](capitulos/29.md)).
+- Cap. 29, 01:59:00.000: Maris calma a los guardias y los besos conceden branquias ([29-019](capitulos/29.md)).
+- Cap. 29, 02:20:00.000: Secuestros y kraken que crece por rituales ([29-022](capitulos/29.md)).
+- Cap. 29, 02:26:00.000: Promesa pública y hospitalidad de la taberna ([29-023](capitulos/29.md)).
+- Cap. 29, 02:32:00.000: Habitación pagada y descanso local ([29-024](capitulos/29.md)).
+- Cap. 29, 02:36:00.000: Ayoto no obtiene acceso religioso sin actos ([29-025](capitulos/29.md)).
+- Cap. 39, 00:00:00.000: Regreso de Ayoto y crianza de Etley ([39-001](capitulos/39.md)).
+- Cap. 39, 00:09:00.000: Ayoto se incorpora y una rana acompaña a Citlali ([39-003](capitulos/39.md)).
+- Cap. 39, 00:16:00.000: Los hombres serpiente amenazan a Etley ([39-004](capitulos/39.md)).
+- Cap. 39, 00:24:00.000: Dos hombres serpiente y una abominación ([39-005](capitulos/39.md)).
+- Cap. 39, 00:34:00.000: Ayoto libera a Citlali y Luna se revela ([39-006](capitulos/39.md)).
+- Cap. 39, 00:42:00.000: Continúa el combate y la cría se acerca lentamente ([39-007](capitulos/39.md)).
+- Cap. 39, 00:52:00.000: Mueren la abominación y el último guardia ([39-009](capitulos/39.md)).
+- Cap. 39, 01:05:00.000: Los refuerzos buscan la piel de Citlali ([39-010](capitulos/39.md)).
+- Cap. 39, 01:13:00.000: La segunda bola de fuego derrumba la cueva ([39-011](capitulos/39.md)).
+- Cap. 39, 01:20:00.000: Citlali y Etley siguen vivos mientras comienza la excavación ([39-012](capitulos/39.md)).
+- Cap. 39, 01:27:00.000: Los guardias ayudan a rescatar a Citlali y Etley ([39-013](capitulos/39.md)).
+- Cap. 39, 01:34:00.000: Citlali drena a Tlachka y el grupo marcha al norte ([39-014](capitulos/39.md)).
+- Cap. 39, 01:40:00.000: Animales vigilantes y rastros de viajeros anteriores ([39-015](capitulos/39.md)).
+- Cap. 39, 02:08:00.000: Luna prueba las ganzúas y Coyote recibe una reprimenda ([39-019](capitulos/39.md)).
+- Cap. 39, 02:12:00.000: Descanso en Iktan y expulsión de Coyote ([39-020](capitulos/39.md)).
+
+## Baps
+
+- Cap. 02, 00:06:15.000: Tripulación y enfado de Bonnie ([02-004](capitulos/02.md)).
+- Cap. 07, 02:36:00.000: Cautivo y perla entregados a Bonnie ([07-032](capitulos/07.md)).
+- Cap. 09, 00:26:30.000: El joven cambia el mapa robado por el mapa de Nox ([09-009](capitulos/09.md)).
+- Cap. 13, 00:29:30.000: Croquis de Jacki, botella y silencio de Kilzer ([13-008](capitulos/13.md)).
+- Cap. 24, 00:16:00.000: Bonnie encarga matar a los supuestos ladrones ([24-003](capitulos/24.md)).
+- Cap. 38, 01:46:00.000: Los antiguos tripulantes llegan después del combate ([38-013](capitulos/38.md)).
+
+## Baton
+
+- Cap. 14, 00:12:10.000: Blink recupera su mondadientes ([14-003](capitulos/14.md)).
+- Cap. 16, 00:12:00.000: Baton y Nelli guían a Cuicapalli ([16-005](capitulos/16.md)).
+- Cap. 16, 00:31:30.000: Naór reconoce a Baton y conoce al grupo ([16-007](capitulos/16.md)).
+- Cap. 16, 00:45:15.000: Serpientes derrotadas y Naór libera a Patata ([16-009](capitulos/16.md)).
+- Cap. 16, 01:14:30.000: Blink agranda a Naór y muere el cocodrilo pequeño ([16-011](capitulos/16.md)).
+- Cap. 16, 01:46:25.000: Entrada a Cuicapalli y conversación en Primordial ([16-014](capitulos/16.md)).
+- Cap. 16, 01:50:20.000: Eromov ofrece hospitalidad y reconoce a Naór ([16-015](capitulos/16.md)).
+- Cap. 18, 00:42:00.000: Chocolate y ruta de Baton ([18-008](capitulos/18.md)).
+- Cap. 22, 00:16:00.000: Festival y Guayacán presentado ([22-002](capitulos/22.md)).
+- Cap. 22, 00:53:00.000: Ayoto gana el banquete y un caparazón ([22-006](capitulos/22.md)).
+- Cap. 22, 01:07:00.000: Guayacán gana una carrera con sabotajes ([22-008](capitulos/22.md)).
+
+## Blink
+
+- Cap. 03, 00:08:00.000: Hada cautiva de dos piratas ([03-002](capitulos/03.md)).
+- Cap. 03, 00:11:40.000: Noticia de la excavación de la Marina ([03-003](capitulos/03.md)).
+- Cap. 03, 00:13:30.000: Liberación del hada ([03-004](capitulos/03.md)).
+- Cap. 03, 00:17:45.000: Blink o Blank, hada perdida ([03-005](capitulos/03.md)).
+- Cap. 03, 00:28:30.000: Desayuno y plan de acompañar al hada ([03-007](capitulos/03.md)).
+- Cap. 03, 00:49:30.000: Frutas, idiomas y arbusto parlante ([03-012](capitulos/03.md)).
+- Cap. 03, 00:55:45.000: Grupo reunido y nombre de Merlucilla ([03-013](capitulos/03.md)).
+- Cap. 03, 01:14:00.000: Trampa del hada e Ione atrapada ([03-015](capitulos/03.md)).
+- Cap. 03, 01:24:15.000: Rescate de Ione de la trampa ([03-017](capitulos/03.md)).
+- Cap. 03, 01:48:00.000: Escondites y descubrimiento de Nox ([03-022](capitulos/03.md)).
+- Cap. 03, 01:54:00.000: Combate dentro de la excavación ([03-023](capitulos/03.md)).
+- Cap. 03, 02:10:00.000: Ione se transforma en mujer lobo ([03-024](capitulos/03.md)).
+- Cap. 03, 02:16:00.000: Retirada de Mamá y centinela atado ([03-025](capitulos/03.md)).
+- Cap. 03, 02:29:30.000: Tres marines abatidos ([03-026](capitulos/03.md)).
+- Cap. 03, 02:36:00.000: La bestia se lanza hacia sus compañeros ([03-027](capitulos/03.md)).
+- Cap. 03, 02:43:00.000: Blink encanta a Ione y guía la retirada ([03-030](capitulos/03.md)).
+- Cap. 03, 02:46:00.000: Regreso con el dinosaurio y el cautivo ([03-031](capitulos/03.md)).
+- Cap. 04, 00:03:25.000: Muerte de Merlucilla entre sesiones ([04-003](capitulos/04.md)).
+- Cap. 06, 00:00:00.000: Sucesos al dormir y valor de los tesoros ([06-001](capitulos/06.md)).
+- Cap. 06, 00:06:00.000: Blink busca a sus captores ([06-003](capitulos/06.md)).
+- Cap. 06, 00:10:00.000: Ione en el pozo y ayuda de Blink ([06-006](capitulos/06.md)).
+- Cap. 06, 00:23:45.000: Cubo retirado y rescate del pozo ([06-010](capitulos/06.md)).
+- Cap. 06, 00:34:30.000: Baño y entrenamiento presentado por Ione ([06-011](capitulos/06.md)).
+- Cap. 06, 00:48:20.000: Blink habla telepáticamente a Ione ([06-014](capitulos/06.md)).
+- Cap. 06, 00:51:00.000: Botella con sirena liberada por Chochi ([06-015](capitulos/06.md)).
+- Cap. 06, 01:03:40.000: Captura relatada y crecimiento temporal ([06-016](capitulos/06.md)).
+- Cap. 06, 01:08:30.000: Recompensa y opción de escolta ([06-017](capitulos/06.md)).
+- Cap. 06, 01:20:00.000: Salida en barca y burbujas para respirar ([06-019](capitulos/06.md)).
+- Cap. 06, 01:32:00.000: Tiburones sorprenden a los compañeros ([06-021](capitulos/06.md)).
+- Cap. 06, 01:55:30.000: Pasajeros del hipocampo ([06-024](capitulos/06.md)).
+- Cap. 06, 01:58:30.000: Llegada al huevo y recuperación del tamaño de Marina ([06-025](capitulos/06.md)).
+- Cap. 06, 02:05:40.000: Recompensa como trampa y orden de matar al grupo ([06-026](capitulos/06.md)).
+- Cap. 06, 02:10:00.000: Ione se transforma al contacto de la sirena ([06-027](capitulos/06.md)).
+- Cap. 06, 02:13:50.000: Primera sirena abatida y aparición de una tercera atacante ([06-028](capitulos/06.md)).
+- Cap. 06, 02:35:45.000: Blink convertida en pez ([06-031](capitulos/06.md)).
+- Cap. 06, 02:59:45.000: El hipocampo rompe la concentración ([06-034](capitulos/06.md)).
+- Cap. 06, 03:02:40.000: Intento de estabilización y última sirena abatida ([06-035](capitulos/06.md)).
+- Cap. 06, 03:10:00.000: Tesoro real y cantidad de oro discrepante ([06-037](capitulos/06.md)).
+- Cap. 06, 03:15:45.000: Regreso, médico y búsqueda de Ione ([06-038](capitulos/06.md)).
+- Cap. 08, 00:02:10.000: Blink descansa mal en el mástil de Nox ([08-002](capitulos/08.md)).
+- Cap. 08, 00:07:15.000: Blink sigue buscando a sus captores ([08-004](capitulos/08.md)).
+- Cap. 08, 00:12:00.000: Encuentro con Tlachka y advertencia sobre tesoros ([08-005](capitulos/08.md)).
+- Cap. 08, 00:28:30.000: Deciden investigar; referencias al plano feérico ([08-011](capitulos/08.md)).
+- Cap. 08, 00:35:30.000: Encuentran a Ayoto y un cadáver ([08-012](capitulos/08.md)).
+- Cap. 08, 00:47:20.000: El loro roba una bolsa y Blink finge ser el dios Sol ([08-014](capitulos/08.md)).
+- Cap. 08, 00:52:00.000: Ayoto encuentra un camino por rastros ([08-015](capitulos/08.md)).
+- Cap. 08, 01:04:00.000: Emboscada de cinco panteras derrotada ([08-017](capitulos/08.md)).
+- Cap. 08, 01:21:30.000: Criatura acuática intenta morder a Blink ([08-018](capitulos/08.md)).
+- Cap. 08, 01:46:20.000: Una figura se transforma en pantera bípeda y ataca ([08-022](capitulos/08.md)).
+- Cap. 08, 01:51:20.000: El combate termina con la muerte de la criatura y su reversión a mujer ([08-023](capitulos/08.md)).
+- Cap. 08, 02:06:20.000: Libro, mortero y cuerpo para consulta posterior ([08-024](capitulos/08.md)).
+- Cap. 08, 02:12:40.000: Descanso de ocho horas y vuelta nocturna ([08-025](capitulos/08.md)).
+- Cap. 08, 02:23:50.000: Pantera al pozo, loro huido y espada rota ([08-027](capitulos/08.md)).
+- Cap. 10, 00:04:00.000: Blink recoge una perla y calienta el huevo al dormir ([10-003](capitulos/10.md)).
+- Cap. 10, 00:08:30.000: Pix desaparece tras tirar basura al agua ([10-005](capitulos/10.md)).
+- Cap. 10, 00:11:25.000: Blink conoce la desaparición por el relato del elfo ([10-006](capitulos/10.md)).
+- Cap. 10, 00:18:00.000: Bonnie impone el rescate de Pix vivo ([10-008](capitulos/10.md)).
+- Cap. 10, 00:22:20.000: Expedición en barca hasta Ruki Peten ([10-009](capitulos/10.md)).
+- Cap. 10, 00:27:40.000: Rastro de varias criaturas con pelos de mono ([10-010](capitulos/10.md)).
+- Cap. 10, 00:41:15.000: Blink obtiene el mondadientes y el elfo es capturado ([10-013](capitulos/10.md)).
+- Cap. 10, 00:45:15.000: El dragón guía la búsqueda y los guardias detectan a tres compañeros ([10-014](capitulos/10.md)).
+- Cap. 10, 00:54:30.000: Patata combate al frente y llegan refuerzos ([10-016](capitulos/10.md)).
+- Cap. 10, 01:14:30.000: El elfo se desata, pero sigue encerrado ([10-017](capitulos/10.md)).
+- Cap. 10, 01:41:00.000: Calmar emociones no afecta a los cocodrilos y el elfo escapa ([10-020](capitulos/10.md)).
+- Cap. 10, 01:50:30.000: Una curación de los espectadores levanta a Axi y el dragón huye ([10-021](capitulos/10.md)).
+- Cap. 10, 02:01:30.000: Axi vuelve a caer ante el martillo y Blink intenta ayudar ([10-022](capitulos/10.md)).
+- Cap. 10, 02:15:00.000: Patata cae pese a curarse y Blink queda atrás ([10-023](capitulos/10.md)).
+- Cap. 10, 02:37:30.000: Patata, Blink y Axi están vivos y enjaulados ([10-027](capitulos/10.md)).
+- Cap. 11, 01:15:00.000: Camuflaje, cautivos vistos y lengua comprendida ([11-016](capitulos/11.md)).
+- Cap. 11, 02:45:00.000: Jaulas abiertas pese a la rotura de una herramienta ([11-025](capitulos/11.md)).
+- Cap. 11, 02:52:20.000: Regreso, reversión de Ione y recuerdos limitados ([11-027](capitulos/11.md)).
+- Cap. 11, 03:06:00.000: Pago discutido y traslado de los heridos al médico ([11-030](capitulos/11.md)).
+- Cap. 11, 03:14:40.000: Gema de Liz obtenida por inspiración; recuento ambiguo ([11-032](capitulos/11.md)).
+- Cap. 12, 00:00:00.000: Recuperación de Blink e inquietud de Nox por el fortín ([12-001](capitulos/12.md)).
+- Cap. 12, 00:08:00.000: Libro entregado por el elfo, oreja perdida y plazo de Bonnie ([12-004](capitulos/12.md)).
+- Cap. 12, 00:15:20.000: Pix tiene el mondadientes de Blink ([12-005](capitulos/12.md)).
+- Cap. 12, 00:31:45.000: Blink guía hacia un campamento que recuerda al sur de su árbol ([12-010](capitulos/12.md)).
+- Cap. 12, 00:41:00.000: Frutas dan curación, elasticidad y caída lenta ([12-012](capitulos/12.md)).
+- Cap. 12, 00:44:30.000: Pinky recibe hojas y se une ([12-013](capitulos/12.md)).
+- Cap. 12, 00:52:30.000: Se infiltran entre ruinas mientras Pinky distrae ([12-015](capitulos/12.md)).
+- Cap. 12, 01:19:00.000: Guardia reducido por Ione y Blink; otros no ven todo ([12-018](capitulos/12.md)).
+- Cap. 12, 01:38:00.000: Segundo agarre detectado e Inmovilizar persona ([12-020](capitulos/12.md)).
+- Cap. 12, 01:46:20.000: Nox paraliza al capitán y a un marine; Ione mata al perro ([12-021](capitulos/12.md)).
+- Cap. 12, 02:06:15.000: Mujer y pirata liberados; Pinky come chocolate ([12-023](capitulos/12.md)).
+- Cap. 12, 02:13:00.000: El pirata liberado es abatido y la mujer ayuda ([12-024](capitulos/12.md)).
+- Cap. 12, 02:24:00.000: Blink abre la jaula del hombre tigre y deja encerrado al preso feroz ([12-025](capitulos/12.md)).
+- Cap. 12, 02:56:10.000: Últimos enemigos abatidos y mujer auxiliada ([12-028](capitulos/12.md)).
+- Cap. 12, 03:08:30.000: Blink toma una perla y el elfo registra los cuerpos ([12-031](capitulos/12.md)).
+- Cap. 12, 03:10:00.000: El capitán queda con una carta y no es interrogado ([12-032](capitulos/12.md)).
+- Cap. 14, 00:12:10.000: Blink recupera su mondadientes ([14-003](capitulos/14.md)).
+- Cap. 14, 00:21:35.000: Los hermanos llegan y compran ropa negra ([14-005](capitulos/14.md)).
+- Cap. 14, 00:37:00.000: La mujer del bote pide ayuda para el mercante ([14-007](capitulos/14.md)).
+- Cap. 14, 00:43:30.000: La aparición se desvanece y deja una mancha negra ([14-008](capitulos/14.md)).
+- Cap. 14, 00:48:00.000: Ayoto protege a Patata y Blink conoce la leyenda ([14-009](capitulos/14.md)).
+- Cap. 14, 00:51:45.000: Navío visto y Bonnie expulsa al marcado ([14-010](capitulos/14.md)).
+- Cap. 14, 00:58:15.000: Barco deteriorado con tareas repetidas ([14-011](capitulos/14.md)).
+- Cap. 14, 01:17:00.000: Blink encuentra una lengua en una jaula y un guardia la ataca ([14-013](capitulos/14.md)).
+- Cap. 14, 01:39:00.000: Diario: hija enferma, entidad y tres objetos ([14-015](capitulos/14.md)).
+- Cap. 14, 01:46:15.000: La hija espectral guarda el relicario y niega que pueda salir ([14-016](capitulos/14.md)).
+- Cap. 14, 02:04:00.000: Camarero derrotado y brújula recogida ([14-018](capitulos/14.md)).
+- Cap. 14, 02:22:30.000: Portador abatido y campana recogida; runa vista ([14-020](capitulos/14.md)).
+- Cap. 14, 02:30:10.000: Cofre abierto y aparición del capitán al reunir los objetos ([14-021](capitulos/14.md)).
+- Cap. 14, 02:35:30.000: Primera forma del capitán derrotada ([14-022](capitulos/14.md)).
+- Cap. 14, 02:44:10.000: El capitán cambia de forma y ordena el hundimiento ([14-023](capitulos/14.md)).
+- Cap. 14, 02:52:40.000: La rotura del relicario dispersa al capitán y los tripulantes ([14-024](capitulos/14.md)).
+- Cap. 14, 03:01:00.000: Desaparición de la marca y el veneno; Bonnie llama a los hermanos ([14-025](capitulos/14.md)).
+- Cap. 16, 00:00:00.000: Mapa de la Marina perdido y Patata Hammer ([16-001](capitulos/16.md)).
+- Cap. 16, 00:12:00.000: Baton y Nelli guían a Cuicapalli ([16-005](capitulos/16.md)).
+- Cap. 16, 00:31:30.000: Naór reconoce a Baton y conoce al grupo ([16-007](capitulos/16.md)).
+- Cap. 16, 00:38:00.000: Mapa reparado y deidades discutidas ([16-008](capitulos/16.md)).
+- Cap. 16, 00:45:15.000: Serpientes derrotadas y Naór libera a Patata ([16-009](capitulos/16.md)).
+- Cap. 16, 01:06:20.000: Un cocodrilo muerde a Naór mientras se lava ([16-010](capitulos/16.md)).
+- Cap. 16, 01:14:30.000: Blink agranda a Naór y muere el cocodrilo pequeño ([16-011](capitulos/16.md)).
+- Cap. 16, 01:24:30.000: El cocodrilo gigante atrapa a Patata y el grupo lo mata ([16-012](capitulos/16.md)).
+- Cap. 16, 02:02:20.000: Taberna tranquila, encargo fucsia y campeón del sol ([16-017](capitulos/16.md)).
+- Cap. 16, 02:20:30.000: Luna y Triel parten mientras el resto celebra el banquete ([16-021](capitulos/16.md)).
+- Cap. 19, 00:00:00.000: Mamá teme causar daño y Blink encuentra un refugio ([19-001](capitulos/19.md)).
+- Cap. 19, 00:15:00.000: Investigar muertes de dinosaurios ([19-003](capitulos/19.md)).
+- Cap. 19, 00:18:00.000: Pinky drogada y conflicto entre aliadas ([19-004](capitulos/19.md)).
+- Cap. 19, 00:28:00.000: Frutas y espíritu insultante ([19-005](capitulos/19.md)).
+- Cap. 19, 00:34:00.000: Tres depredadores muertos y humo aliado ([19-006](capitulos/19.md)).
+- Cap. 19, 00:46:00.000: Curación de Mamá vuelve a dañar ([19-007](capitulos/19.md)).
+- Cap. 19, 00:49:00.000: Cadáveres corroídos y lago sin fauna ([19-008](capitulos/19.md)).
+- Cap. 19, 00:56:00.000: Pelea, esfera de fuego y llegada de Ayoto ([19-009](capitulos/19.md)).
+- Cap. 19, 01:08:00.000: Un triceratops alterado y una serpiente atacan ([19-010](capitulos/19.md)).
+- Cap. 19, 01:20:00.000: Mamá cae y Leona recibe asistencia ([19-011](capitulos/19.md)).
+- Cap. 19, 01:28:00.000: Muere el triceratops y Santuario bloquea los golpes ([19-012](capitulos/19.md)).
+- Cap. 19, 01:41:00.000: Chocolate, raíces y serpiente muerta ([19-013](capitulos/19.md)).
+- Cap. 19, 01:50:00.000: Collar con voz poderosa en fruta ([19-014](capitulos/19.md)).
+- Cap. 19, 01:55:00.000: Regreso con Pinky alucinando ([19-015](capitulos/19.md)).
+- Cap. 19, 02:02:00.000: Informe, collar y eruditos de otras ciudades ([19-016](capitulos/19.md)).
+- Cap. 19, 02:10:00.000: Encargo de entrenar a Leona y cena descartada ([19-017](capitulos/19.md)).
+- Cap. 21, 00:00:00.000: Descansos, montura y pérdidas ([21-001](capitulos/21.md)).
+- Cap. 21, 00:19:00.000: Encuentro entre Leona y Naór, y protección de la mosca ([21-004](capitulos/21.md)).
+- Cap. 21, 00:25:00.000: Las frutas y el licor afectan a la conducta ([21-005](capitulos/21.md)).
+- Cap. 21, 00:41:00.000: Campamento y cocodrilo muerto ([21-006](capitulos/21.md)).
+- Cap. 21, 00:51:00.000: Leo, escondido, relata el secuestro ([21-007](capitulos/21.md)).
+- Cap. 21, 01:02:00.000: La mosca rastrea hasta una cueva ([21-008](capitulos/21.md)).
+- Cap. 21, 01:08:00.000: Las esporas provocan sueño y daño al despertar ([21-009](capitulos/21.md)).
+- Cap. 21, 01:36:00.000: Lobos, hipnosis y resistencia a parálisis ([21-011](capitulos/21.md)).
+- Cap. 21, 02:08:00.000: Plata en la boca y muerte del lobo grande ([21-013](capitulos/21.md)).
+- Cap. 21, 02:32:00.000: El collar serpiente provoca una visión a dos viajeras ([21-015](capitulos/21.md)).
+- Cap. 21, 02:35:00.000: Leona curada y destinos separados ([21-016](capitulos/21.md)).
+- Cap. 22, 03:07:00.000: Blink en peligro y arco venenoso ([22-018](capitulos/22.md)).
+- Cap. 25, 00:03:00.000: Blink conserva el amuleto y Nox evita a Ione ([25-002](capitulos/25.md)).
+- Cap. 25, 00:09:00.000: Noche dispersa en Shiaru ([25-004](capitulos/25.md)).
+- Cap. 25, 00:22:00.000: Ataques simultáneos a Blink, Nox y el barco ([25-006](capitulos/25.md)).
+- Cap. 25, 00:28:00.000: Ilusiones y evasión inicial ([25-007](capitulos/25.md)).
+- Cap. 25, 00:34:40.000: Rastreo de Blink invisible ([25-008](capitulos/25.md)).
+- Cap. 25, 00:46:00.000: Nox encuentra a Luna y una mujer exige el mapa ([25-010](capitulos/25.md)).
+- Cap. 25, 00:54:30.000: Los sonidos desvían a los enemigos y tres compañeros se reúnen ([25-011](capitulos/25.md)).
+- Cap. 25, 01:08:00.000: Robo a Pix y Poncelot sujeto por la cola ([25-012](capitulos/25.md)).
+- Cap. 25, 01:18:00.000: Mapa reclamado y Hambre de Hadar ([25-013](capitulos/25.md)).
+- Cap. 25, 01:24:40.000: Invisibilidad conjunta y Merlucilla llega ([25-014](capitulos/25.md)).
+- Cap. 25, 01:43:00.000: Cierre de la taberna y cooperación forzada ([25-016](capitulos/25.md)).
+- Cap. 25, 01:52:30.000: Luna mata a dos bestias mediante magia salvaje ([25-017](capitulos/25.md)).
+- Cap. 25, 02:01:00.000: Último enemigo muerto y Pix enfadado ([25-018](capitulos/25.md)).
+- Cap. 25, 02:24:00.000: Las órdenes buscan el mapa y el collar de Blink ([25-021](capitulos/25.md)).
+- Cap. 26, 00:03:00.000: Abisal en aprendizaje y amuleto sin destino ([26-002](capitulos/26.md)).
+- Cap. 26, 00:06:00.000: Ione sale de la consulta y niega haber recibido el informe ([26-003](capitulos/26.md)).
+- Cap. 26, 00:24:00.000: Nox entrega el licor y ambos declaran su amistad ([26-007](capitulos/26.md)).
+- Cap. 26, 00:28:20.000: Expedición hacia el sur pese a que el mapa indica otra dirección ([26-008](capitulos/26.md)).
+- Cap. 26, 01:15:00.000: Historia del mapa y collar oculto en mango ([26-015](capitulos/26.md)).
+- Cap. 26, 01:20:00.000: Estatuas de ojos vacíos y puerta sin cerradura ([26-016](capitulos/26.md)).
+- Cap. 26, 01:37:00.000: Altar, collar reactivo y pasos bajo estatuas ([26-018](capitulos/26.md)).
+- Cap. 26, 01:46:00.000: Trampas desactivadas y una voz tras verter sangre ([26-019](capitulos/26.md)).
+- Cap. 26, 01:54:00.000: Puertas cuñadas y corriente de aire ([26-020](capitulos/26.md)).
+- Cap. 26, 02:02:00.000: El guardia poseído invita a Nox y reconoce el collar ([26-021](capitulos/26.md)).
+- Cap. 26, 02:09:00.000: El anfitrión necesita lo que Nox lleva en la espalda ([26-022](capitulos/26.md)).
+- Cap. 26, 02:15:00.000: Nox finge sentarse y se desencadena una agresión ([26-023](capitulos/26.md)).
+- Cap. 28, 00:04:00.000: Ione reconoce la ilusión y la serpiente ve la trampa ([28-002](capitulos/28.md)).
+- Cap. 28, 00:10:00.000: Blink se aparta y falla el intento de paralizar ([28-003](capitulos/28.md)).
+- Cap. 28, 00:24:00.000: Magia de Blink y Nox combate con estoque ([28-005](capitulos/28.md)).
+- Cap. 28, 00:47:00.000: Una poción quita la barba a Poncelot ([28-008](capitulos/28.md)).
+- Cap. 28, 00:58:00.000: Blink abandona el collar y las serpientes se unen ([28-010](capitulos/28.md)).
+- Cap. 28, 01:04:00.000: Una cola atrapa a Ione y Poncelot ayuda a cerrar la puerta ([28-012](capitulos/28.md)).
+- Cap. 28, 01:14:00.000: Hambre de Hadar retrasa a los perseguidores ([28-014](capitulos/28.md)).
+- Cap. 28, 01:34:00.000: Nox quiere volver a ver a Molly ([28-017](capitulos/28.md)).
+- Cap. 28, 02:03:00.000: Blink planea regreso e ilusión final del ojo ([28-023](capitulos/28.md)).
+- Cap. 34, 00:00:00.000: Recapitulaciones y libertad de Citlali ([34-001](capitulos/34.md)).
+- Cap. 34, 00:06:00.000: Planes de Cuicapalli y encuentro del enano ([34-002](capitulos/34.md)).
+- Cap. 34, 00:20:00.000: Mamá pide ayuda y frutas ([34-004](capitulos/34.md)).
+- Cap. 34, 00:30:00.000: Origen del huevo y barrido mental ([34-005](capitulos/34.md)).
+- Cap. 34, 00:37:00.000: Marina se llevó huevo y Tim muere ([34-006](capitulos/34.md)).
+- Cap. 34, 00:50:00.000: Dinosaurios emboscan y magia defensiva ([34-008](capitulos/34.md)).
+- Cap. 34, 01:11:00.000: Mamá drena Winscore y ambos aliados caen ([34-009](capitulos/34.md)).
+- Cap. 34, 01:42:00.000: Infiltración y Pinky retenida ([34-012](capitulos/34.md)).
+- Cap. 34, 01:50:00.000: Mamá distrae y Blink encuentra huevo ([34-013](capitulos/34.md)).
+- Cap. 34, 02:04:00.000: Pinky delata extracción e invisibilidad parcial ([34-014](capitulos/34.md)).
+- Cap. 34, 02:20:00.000: Disparo agujerea huevo y Mamá se zafa ([34-016](capitulos/34.md)).
+- Cap. 34, 02:26:00.000: Pinky incendia campamento y grupo se reúne ([34-017](capitulos/34.md)).
+- Cap. 34, 02:32:00.000: Eclosiona bebé dinosaurio ([34-018](capitulos/34.md)).
+- Cap. 34, 02:36:00.000: Cría mata y come capitán perseguidor ([34-019](capitulos/34.md)).
+- Cap. 36, 00:00:00.000: Ione repara el barco y Erandy busca a Eleanor ([36-001](capitulos/36.md)).
+- Cap. 36, 00:13:00.000: Blink conoce a la escudera ([36-003](capitulos/36.md)).
+- Cap. 36, 00:27:00.000: Reclutamiento de Blink y Erandy ([36-005](capitulos/36.md)).
+- Cap. 36, 00:36:00.000: Eclipse, frutas y orientación ([36-006](capitulos/36.md)).
+- Cap. 36, 00:54:00.000: Intercambio de cuerpos y ruinas arrasadas ([36-008](capitulos/36.md)).
+- Cap. 36, 01:10:00.000: Cipo se oculta entre las ruinas ([36-009](capitulos/36.md)).
+- Cap. 36, 01:18:00.000: Captura del marine superviviente ([36-010](capitulos/36.md)).
+- Cap. 36, 01:26:00.000: Aparece un tiranosaurio y Poncelot carga ([36-011](capitulos/36.md)).
+- Cap. 36, 01:35:00.000: Ione se transforma y muere el tiranosaurio ([36-012](capitulos/36.md)).
+- Cap. 36, 01:46:00.000: Ione ataca a sus aliados y los intentos de calmarla fallan ([36-013](capitulos/36.md)).
+- Cap. 36, 01:57:00.000: Otro hombre lobo observa y ataca a Blink ([36-014](capitulos/36.md)).
+- Cap. 36, 02:06:00.000: Ione recupera el control e intimida al otro lobo ([36-015](capitulos/36.md)).
+- Cap. 36, 02:26:00.000: Reparto de recompensas, fiesta y alojamiento ([36-018](capitulos/36.md)).
+
+## Bonnie
+
+- Cap. 01, 00:31:03.000: Deuda y servicio para Bonnie ([01-011](capitulos/01.md)).
+- Cap. 01, 00:34:51.000: Encargo de obtener dinero de los visitantes ([01-012](capitulos/01.md)).
+- Cap. 01, 02:12:39.000: Segundo robo y bolsa para Bonnie ([01-029](capitulos/01.md)).
+- Cap. 01, 02:14:29.000: Servicio de meses, desfase temporal ([01-030](capitulos/01.md)).
+- Cap. 02, 00:06:15.000: Tripulación y enfado de Bonnie ([02-004](capitulos/02.md)).
+- Cap. 02, 02:40:55.000: Bonnie detiene la disputa ([02-028](capitulos/02.md)).
+- Cap. 03, 00:08:00.000: Hada cautiva de dos piratas ([03-002](capitulos/03.md)).
+- Cap. 04, 00:00:40.000: El Garfio y el poblado de Bonnie ([04-001](capitulos/04.md)).
+- Cap. 04, 00:12:00.000: Encargo de Bonnie para recuperar lo perdido ([04-007](capitulos/04.md)).
+- Cap. 04, 00:38:00.000: Cipo indica la presencia de piratas ([04-011](capitulos/04.md)).
+- Cap. 04, 01:41:30.000: Advertencias y reparto de gemas ([04-021](capitulos/04.md)).
+- Cap. 04, 02:09:20.000: Bonnie recibe el collar y detecta la falta ([04-029](capitulos/04.md)).
+- Cap. 05, 00:00:00.000: Estado de Nox e Ione entre sesiones ([05-001](capitulos/05.md)).
+- Cap. 05, 00:17:00.000: Llega un buque y Bonnie aparta a Jack ([05-007](capitulos/05.md)).
+- Cap. 05, 00:21:00.000: Contrato de Bonnie y encargo de sustraer documentos ([05-008](capitulos/05.md)).
+- Cap. 05, 02:03:00.000: Contrato encontrado y nota dejada ([05-024](capitulos/05.md)).
+- Cap. 05, 02:42:00.000: Molly y Bonnie reaccionan al incendio ([05-030](capitulos/05.md)).
+- Cap. 05, 02:45:30.000: Lunaria revela la vela y Bonnie impone consecuencias ([05-031](capitulos/05.md)).
+- Cap. 06, 00:06:55.000: Bonnie localiza una gema y exige las demás ([06-004](capitulos/06.md)).
+- Cap. 06, 00:14:00.000: Gema de Liz y suministro del poblado ([06-007](capitulos/06.md)).
+- Cap. 06, 00:18:30.000: Poncelot cree que Merlucilla escapó ([06-009](capitulos/06.md)).
+- Cap. 07, 00:26:00.000: Nox descubre quién repartió las gemas ([07-008](capitulos/07.md)).
+- Cap. 07, 02:14:15.000: Cría, venta y huida por un ruido ([07-027](capitulos/07.md)).
+- Cap. 07, 02:22:00.000: Patata explica el reparto de las gemas y pide protección ([07-029](capitulos/07.md)).
+- Cap. 07, 02:36:00.000: Cautivo y perla entregados a Bonnie ([07-032](capitulos/07.md)).
+- Cap. 07, 02:41:35.000: Pacto secreto para vender la futura cría ([07-033](capitulos/07.md)).
+- Cap. 09, 02:47:40.000: El director aclara el tributo y los tatuajes siguen sin interpretar ([09-031](capitulos/09.md)).
+- Cap. 10, 00:11:25.000: Blink conoce la desaparición por el relato del elfo ([10-006](capitulos/10.md)).
+- Cap. 10, 00:14:10.000: Bonnie amenaza a Patata por la gema utilizada para pagar alojamiento ([10-007](capitulos/10.md)).
+- Cap. 10, 00:18:00.000: Bonnie impone el rescate de Pix vivo ([10-008](capitulos/10.md)).
+- Cap. 10, 02:27:30.000: Ayoto y el elfo regresan sin sus compañeros ni Pix ([10-024](capitulos/10.md)).
+- Cap. 10, 02:31:00.000: Ayoto informa del fracaso a Bonnie ([10-025](capitulos/10.md)).
+- Cap. 10, 02:34:40.000: Bonnie exige una nueva expedición y mata a un pirata como ejemplo ([10-026](capitulos/10.md)).
+- Cap. 11, 00:16:00.000: Kilzer es obligado a participar y Poncelot acepta el rescate por su ideal caballeresco ([11-007](capitulos/11.md)).
+- Cap. 11, 00:49:15.000: Nox ofrece un negocio y resume el informe del elfo ([11-012](capitulos/11.md)).
+- Cap. 11, 03:01:30.000: Bonnie ve a Nox invisible y recupera moneda y gema ([11-029](capitulos/11.md)).
+- Cap. 12, 00:05:00.000: El elfo recibe apoyo de Nox y relata su entrevista con Bonnie ([12-003](capitulos/12.md)).
+- Cap. 12, 00:08:00.000: Libro entregado por el elfo, oreja perdida y plazo de Bonnie ([12-004](capitulos/12.md)).
+- Cap. 12, 00:20:30.000: El elfo ofrece ocho monedas y Nox recuerda el diez por ciento ([12-006](capitulos/12.md)).
+- Cap. 12, 00:44:30.000: Pinky recibe hojas y se une ([12-013](capitulos/12.md)).
+- Cap. 13, 00:00:00.000: Patata recupera parte de su equipo y Nox reparte las ganancias de una venta ([13-001](capitulos/13.md)).
+- Cap. 13, 00:35:30.000: Ayoto entrega una capa a Pix y Bonnie lo despide ([13-009](capitulos/13.md)).
+- Cap. 13, 00:43:30.000: Nox anuncia un reparto del casino de 35/15/50 ([13-011](capitulos/13.md)).
+- Cap. 14, 00:30:00.000: Sombrero dado al loro y aviso a Bonnie ([14-006](capitulos/14.md)).
+- Cap. 14, 00:51:45.000: Navío visto y Bonnie expulsa al marcado ([14-010](capitulos/14.md)).
+- Cap. 14, 03:01:00.000: Desaparición de la marca y el veneno; Bonnie llama a los hermanos ([14-025](capitulos/14.md)).
+- Cap. 15, 00:07:00.000: Granja de Patata y dos piratas arrastrados ([15-003](capitulos/15.md)).
+- Cap. 15, 00:12:00.000: Patata paga cinco monedas y Bonnie encarga eliminar la amenaza ([15-004](capitulos/15.md)).
+- Cap. 15, 02:50:30.000: Bolsa recuperada y Bonnie paga cincuenta ([15-020](capitulos/15.md)).
+- Cap. 15, 02:54:30.000: Bonnie retiene al elfo por envío tardío ([15-021](capitulos/15.md)).
+- Cap. 16, 00:10:25.000: Conservación del cuerpo del elfo pese al deseo de enterrarlo ([16-004](capitulos/16.md)).
+- Cap. 24, 00:16:00.000: Bonnie encarga matar a los supuestos ladrones ([24-003](capitulos/24.md)).
+- Cap. 24, 02:17:00.000: Bonnie mata a un pirata y reduce el pago ([24-017](capitulos/24.md)).
+- Cap. 24, 02:20:00.000: Din acuerda buscar a Sam por cincuenta monedas ([24-018](capitulos/24.md)).
+- Cap. 24, 02:27:00.000: Bonnie recluta a Coyote como espía ([24-019](capitulos/24.md)).
+- Cap. 24, 02:32:00.000: Ropa, cultivo y reclutamiento ([24-020](capitulos/24.md)).
+- Cap. 25, 00:09:00.000: Noche dispersa en Shiaru ([25-004](capitulos/25.md)).
+- Cap. 26, 00:03:00.000: Abisal en aprendizaje y amuleto sin destino ([26-002](capitulos/26.md)).
+- Cap. 26, 00:20:00.000: Cinco convocados y tesoro disputado ([26-006](capitulos/26.md)).
+- Cap. 28, 01:38:00.000: Jack fingió ser capitán durante la ausencia ([28-018](capitulos/28.md)).
+- Cap. 28, 01:43:00.000: Orbe entregado y visiones enviadas a Bonnie ([28-019](capitulos/28.md)).
+- Cap. 28, 01:50:00.000: Bonnie declara una alianza con Molly para proteger la isla ([28-020](capitulos/28.md)).
+- Cap. 28, 01:53:00.000: Anciana nativa y pacto de intercambio de información ([28-021](capitulos/28.md)).
+- Cap. 28, 02:00:00.000: Ione castiga a Jack y Mugre detiene a Ojo Ausente ([28-022](capitulos/28.md)).
+- Cap. 32, 00:00:00.000: Granja, fuego y ausencia de Bonnie ([32-001](capitulos/32.md)).
+- Cap. 32, 01:26:00.000: Bonnie activa moneda y combate como rayo ([32-014](capitulos/32.md)).
+- Cap. 32, 01:31:00.000: Rayos de Bonnie y huida del general ([32-015](capitulos/32.md)).
+- Cap. 32, 01:58:00.000: Shiaru resiste invasión ([32-017](capitulos/32.md)).
+- Cap. 32, 02:04:00.000: Trato roto y control de Bonnie ([32-018](capitulos/32.md)).
+- Cap. 32, 02:08:00.000: Recompensas y paradero de Citlali ([32-019](capitulos/32.md)).
+- Cap. 32, 02:12:00.000: Bonnie devuelve moneda a Pix y sale ([32-020](capitulos/32.md)).
+- Cap. 33, 00:22:00.000: Bonnie sostiene ficción cortesana ([33-004](capitulos/33.md)).
+- Cap. 33, 01:06:00.000: Eleanor revela expansión territorial ([33-010](capitulos/33.md)).
+- Cap. 34, 00:00:00.000: Recapitulaciones y libertad de Citlali ([34-001](capitulos/34.md)).
+- Cap. 34, 02:39:00.000: Rumbo Cuicapalli con cría ([34-020](capitulos/34.md)).
+- Cap. 35, 00:00:00.000: Casco del gnomo y Molly incomunicada ([35-001](capitulos/35.md)).
+- Cap. 35, 00:20:00.000: Negocios de Nox y nombre Armin ([35-004](capitulos/35.md)).
+- Cap. 35, 00:30:00.000: Moneda antigua y búsqueda Molly ([35-005](capitulos/35.md)).
+- Cap. 35, 02:17:00.000: Pinky recapturada y amenaza a Tórtola ([35-016](capitulos/35.md)).
+- Cap. 35, 02:42:00.000: Bonnie y Molly reencuentran; recompensas ([35-019](capitulos/35.md)).
+- Cap. 36, 00:06:00.000: Botellas en los cañones y convocatoria de Bonnie ([36-002](capitulos/36.md)).
+- Cap. 36, 00:20:00.000: Molly informa de una posición estratégica ([36-004](capitulos/36.md)).
+- Cap. 36, 02:21:00.000: Entrega del cautivo e informe parcial ([36-017](capitulos/36.md)).
+- Cap. 37, 00:16:00.000: La alianza de Eleanor depende del oro ([37-003](capitulos/37.md)).
+- Cap. 37, 00:24:00.000: Emboscada a los suministros con Tlachka al mando ([37-004](capitulos/37.md)).
+- Cap. 37, 00:32:00.000: La esfera reacciona ante Citlali ([37-005](capitulos/37.md)).
+- Cap. 37, 01:57:00.000: Entrega de una carreta y recompensas ([37-015](capitulos/37.md)).
+- Cap. 37, 02:06:00.000: Nox recibe una moneda de oro tras descontar deudas ([37-016](capitulos/37.md)).
+- Cap. 37, 02:09:00.000: Bonnie presta el ojo con una condición que Nox planea incumplir ([37-017](capitulos/37.md)).
+- Cap. 37, 02:14:00.000: Luna roba pólvora y Nox parte hacia el fuerte ([37-018](capitulos/37.md)).
+- Cap. 38, 02:17:00.000: Ione tranquiliza a Poncelot y se revela la propiedad del cofre ([38-018](capitulos/38.md)).
+
+## Brújula de deseos de Nox
+
+- Cap. 33, 00:36:00.000: Buscar refugio para Citlali oculta ([33-006](capitulos/33.md)).
+- Cap. 33, 00:54:00.000: Cueva y exploración sin luz ([33-009](capitulos/33.md)).
+- Cap. 33, 02:20:00.000: Axi capturado y Poncelot despierto ([33-017](capitulos/33.md)).
+
+## Cabaña del Sueño
+
+- Cap. 16, 02:10:40.000: Comercios de Cuicapalli y tatuajes ([16-018](capitulos/16.md)).
+
+## Camar Taruan
+
+- Cap. 16, 00:04:30.000: El rey leonino encarga a Naór convocar un concilio ([16-003](capitulos/16.md)).
+- Cap. 16, 01:50:20.000: Eromov ofrece hospitalidad y reconoce a Naór ([16-015](capitulos/16.md)).
+- Cap. 16, 01:58:10.000: Aceptación del concilio de Tutucan condicionada a los problemas locales ([16-016](capitulos/16.md)).
+- Cap. 17, 00:27:20.000: La patrulla busca a quienes destruyeron el poblado ([17-006](capitulos/17.md)).
+- Cap. 20, 00:20:00.000: Una mujer acuática y una riña llevan a Poncelot al grupo ([20-004](capitulos/20.md)).
+- Cap. 31, 02:49:00.000: Gualulu, amiga de la infancia de Naór, y la muerte de su padre ([31-024](capitulos/31.md)).
+- Cap. 31, 03:04:00.000: Naór convoca un concilio y Gualulu apoya al rey ([31-027](capitulos/31.md)).
+
+## Casino de Kilzer
+
+- Cap. 11, 03:09:40.000: Casino propuesto con licencia aún no comprobada ([11-031](capitulos/11.md)).
+- Cap. 13, 00:43:30.000: Nox anuncia un reparto del casino de 35/15/50 ([13-011](capitulos/13.md)).
+- Cap. 15, 00:00:00.000: Casino en construcción y los hermanos exploran el pueblo ([15-001](capitulos/15.md)).
+- Cap. 17, 00:00:00.000: Descanso, copa perdida y casino preparado ([17-001](capitulos/17.md)).
+- Cap. 17, 00:04:35.000: Axi contratado para detectar tramposos ([17-002](capitulos/17.md)).
+- Cap. 21, 00:06:00.000: Venta y robo del casino ([21-002](capitulos/21.md)).
+- Cap. 23, 00:00:00.000: La carta de Nox impulsa el rescate ([23-001](capitulos/23.md)).
+- Cap. 29, 00:00:00.000: Trampas reforzadas y casino aún cerrado ([29-001](capitulos/29.md)).
+
+## Chalta
+
+- Cap. 19, 00:15:00.000: Investigar muertes de dinosaurios ([19-003](capitulos/19.md)).
+
+## Chimy
+
+- Cap. 10, 00:22:20.000: Expedición en barca hasta Ruki Peten ([10-009](capitulos/10.md)).
+
+## Cinco reyes piratas
+
+- Cap. 11, 02:41:20.000: Nox toma una moneda de los cinco reyes piratas ([11-024](capitulos/11.md)).
+- Cap. 26, 00:20:00.000: Cinco convocados y tesoro disputado ([26-006](capitulos/26.md)).
+
+## Cipo
+
+- Cap. 01, 01:30:03.000: Incidente con la criatura ígnea ([01-022](capitulos/01.md)).
+- Cap. 01, 01:45:27.000: Mamá hace salir a la criatura ([01-023](capitulos/01.md)).
+- Cap. 01, 02:03:03.000: Pinky conoce a Cipo ([01-027](capitulos/01.md)).
+- Cap. 02, 01:43:00.000: Pinky pide fuego y Ayoto lo prepara ([02-018](capitulos/02.md)).
+- Cap. 04, 00:38:00.000: Cipo indica la presencia de piratas ([04-011](capitulos/04.md)).
+- Cap. 04, 00:46:35.000: Grupo perdido y hallazgo de piratas ([04-013](capitulos/04.md)).
+- Cap. 04, 01:03:00.000: Emboscada y muerte del pirata auxiliado ([04-016](capitulos/04.md)).
+- Cap. 04, 01:11:00.000: Patata despierta a Ione y cura a Cipo ([04-017](capitulos/04.md)).
+- Cap. 04, 01:19:00.000: Victoria sobre los dinosaurios ([04-018](capitulos/04.md)).
+- Cap. 04, 01:55:00.000: Huida de un dinosaurio volador ([04-025](capitulos/04.md)).
+- Cap. 04, 02:00:55.000: Alojamiento y separación al regreso ([04-027](capitulos/04.md)).
+- Cap. 04, 02:04:00.000: Juego de pelota y Cipo ([04-028](capitulos/04.md)).
+- Cap. 07, 02:18:45.000: El ruido era Cipo, revelación al espectador ([07-028](capitulos/07.md)).
+- Cap. 18, 00:06:00.000: Cipo reúne a los viajeros y evitan un dinosaurio ([18-003](capitulos/18.md)).
+- Cap. 18, 00:16:00.000: Llegada y presentación de Mamá ([18-004](capitulos/18.md)).
+- Cap. 18, 00:50:00.000: Guardianes muertos y curación dañina ([18-009](capitulos/18.md)).
+- Cap. 18, 01:13:00.000: Descubrimiento de la trampa de las miradas ([18-011](capitulos/18.md)).
+- Cap. 18, 01:46:00.000: Emboscada y Cipo como montura ([18-014](capitulos/18.md)).
+- Cap. 18, 02:38:00.000: Prueba y recompensas en Cuicapalli ([18-020](capitulos/18.md)).
+- Cap. 23, 00:06:00.000: Equipo de rescate reunido ([23-002](capitulos/23.md)).
+- Cap. 27, 00:04:00.000: Cipo pide buscar abuela en Cuicapalli ([27-002](capitulos/27.md)).
+- Cap. 27, 00:08:00.000: Tlachka entra sin reconocimiento y comparten ataques ([27-003](capitulos/27.md)).
+- Cap. 27, 01:14:00.000: Ayoto descubierto y primera oleada ([27-011](capitulos/27.md)).
+- Cap. 27, 01:26:00.000: Tlachka sale oculto y Cipo combate ([27-012](capitulos/27.md)).
+- Cap. 27, 01:40:00.000: Refuerzos llegan y repliegue propuesto ([27-013](capitulos/27.md)).
+- Cap. 27, 01:51:00.000: Axi agota las flechas y el jefe menciona a Tórtola ([27-014](capitulos/27.md)).
+- Cap. 27, 02:00:00.000: Guayacán cae y los babuinos intervienen ([27-015](capitulos/27.md)).
+- Cap. 27, 02:10:00.000: Espíritu volador y cocos contra el jefe ([27-016](capitulos/27.md)).
+- Cap. 27, 02:18:00.000: Curación de Guayacán y recuperación de seis flechas ([27-017](capitulos/27.md)).
+- Cap. 27, 02:30:00.000: Babuino muerto y jefe rodeado ([27-018](capitulos/27.md)).
+- Cap. 29, 00:27:00.000: Pinky busca a Cipo y hace crecer cáñamo ([29-007](capitulos/29.md)).
+- Cap. 36, 01:10:00.000: Cipo se oculta entre las ruinas ([36-009](capitulos/36.md)).
+- Cap. 36, 01:26:00.000: Aparece un tiranosaurio y Poncelot carga ([36-011](capitulos/36.md)).
+- Cap. 36, 01:35:00.000: Ione se transforma y muere el tiranosaurio ([36-012](capitulos/36.md)).
+- Cap. 36, 02:21:00.000: Entrega del cautivo e informe parcial ([36-017](capitulos/36.md)).
+
+## Citlali
+
+- Cap. 01, 00:09:23.000: Historia de Mamá y sus hijos adoptivos ([01-007](capitulos/01.md)).
+- Cap. 01, 00:16:50.000: Convergencia de los recién llegados ([01-009](capitulos/01.md)).
+- Cap. 01, 00:48:51.000: Nombre de Mamá en la presentación social ([01-014](capitulos/01.md)).
+- Cap. 01, 00:52:28.000: Pix atiende la taberna ([01-016](capitulos/01.md)).
+- Cap. 01, 01:20:44.000: Pistola ornamentada y conocimiento limitado ([01-020](capitulos/01.md)).
+- Cap. 01, 01:24:53.000: Leyenda de pirámides de oro ([01-021](capitulos/01.md)).
+- Cap. 01, 01:45:27.000: Mamá hace salir a la criatura ([01-023](capitulos/01.md)).
+- Cap. 01, 02:09:17.000: Pequeño reptil de Mamá ([01-028](capitulos/01.md)).
+- Cap. 01, 02:20:58.000: Propuesta de explorar la isla ([01-032](capitulos/01.md)).
+- Cap. 01, 02:24:03.000: Alojamiento en el Zampaolas ([01-033](capitulos/01.md)).
+- Cap. 02, 00:00:00.000: Recapitulación de la noche anterior ([02-001](capitulos/02.md)).
+- Cap. 03, 00:00:00.000: Mamá sale del barco y despierta a los piratas ([03-001](capitulos/03.md)).
+- Cap. 03, 00:08:00.000: Hada cautiva de dos piratas ([03-002](capitulos/03.md)).
+- Cap. 03, 00:13:30.000: Liberación del hada ([03-004](capitulos/03.md)).
+- Cap. 03, 00:17:45.000: Blink o Blank, hada perdida ([03-005](capitulos/03.md)).
+- Cap. 03, 00:28:30.000: Desayuno y plan de acompañar al hada ([03-007](capitulos/03.md)).
+- Cap. 03, 00:49:30.000: Frutas, idiomas y arbusto parlante ([03-012](capitulos/03.md)).
+- Cap. 03, 00:55:45.000: Grupo reunido y nombre de Merlucilla ([03-013](capitulos/03.md)).
+- Cap. 03, 01:01:00.000: Mapa orientado y ocultado ([03-014](capitulos/03.md)).
+- Cap. 03, 01:17:45.000: Diez monedas encontradas por Mamá ([03-016](capitulos/03.md)).
+- Cap. 03, 01:24:15.000: Rescate de Ione de la trampa ([03-017](capitulos/03.md)).
+- Cap. 03, 01:34:00.000: Engaño caballeresco y plan de infiltración ([03-020](capitulos/03.md)).
+- Cap. 03, 01:48:00.000: Escondites y descubrimiento de Nox ([03-022](capitulos/03.md)).
+- Cap. 03, 01:54:00.000: Combate dentro de la excavación ([03-023](capitulos/03.md)).
+- Cap. 03, 02:10:00.000: Ione se transforma en mujer lobo ([03-024](capitulos/03.md)).
+- Cap. 03, 02:16:00.000: Retirada de Mamá y centinela atado ([03-025](capitulos/03.md)).
+- Cap. 03, 02:29:30.000: Tres marines abatidos ([03-026](capitulos/03.md)).
+- Cap. 03, 02:36:00.000: La bestia se lanza hacia sus compañeros ([03-027](capitulos/03.md)).
+- Cap. 03, 02:40:00.000: Interpretaciones sobre la condición de Ione ([03-028](capitulos/03.md)).
+- Cap. 03, 02:43:00.000: Blink encanta a Ione y guía la retirada ([03-030](capitulos/03.md)).
+- Cap. 03, 02:46:00.000: Regreso con el dinosaurio y el cautivo ([03-031](capitulos/03.md)).
+- Cap. 04, 00:04:35.000: Mamá y Pinky proyectan un negocio ([04-004](capitulos/04.md)).
+- Cap. 04, 00:08:40.000: Ione pide discreción a Mamá ([04-006](capitulos/04.md)).
+- Cap. 04, 00:12:00.000: Encargo de Bonnie para recuperar lo perdido ([04-007](capitulos/04.md)).
+- Cap. 04, 00:15:40.000: Se forma la expedición ([04-008](capitulos/04.md)).
+- Cap. 04, 00:30:00.000: Nuevos efectos de las frutas ([04-010](capitulos/04.md)).
+- Cap. 04, 00:46:35.000: Grupo perdido y hallazgo de piratas ([04-013](capitulos/04.md)).
+- Cap. 04, 00:52:00.000: Superviviente auxiliado y reconocimiento de garras ([04-014](capitulos/04.md)).
+- Cap. 04, 01:03:00.000: Emboscada y muerte del pirata auxiliado ([04-016](capitulos/04.md)).
+- Cap. 04, 01:19:00.000: Victoria sobre los dinosaurios ([04-018](capitulos/04.md)).
+- Cap. 04, 01:29:00.000: Aclaración del ataque y nueve monedas ([04-019](capitulos/04.md)).
+- Cap. 04, 01:34:20.000: Collar antiguo hallado en un cadáver ([04-020](capitulos/04.md)).
+- Cap. 04, 01:41:30.000: Advertencias y reparto de gemas ([04-021](capitulos/04.md)).
+- Cap. 04, 01:49:00.000: Cuidados y preocupación de los nativos ([04-023](capitulos/04.md)).
+- Cap. 04, 01:51:50.000: Encuentro de Mamá con una criatura divina ([04-024](capitulos/04.md)).
+- Cap. 04, 01:55:00.000: Huida de un dinosaurio volador ([04-025](capitulos/04.md)).
+- Cap. 04, 02:00:55.000: Alojamiento y separación al regreso ([04-027](capitulos/04.md)).
+- Cap. 04, 02:04:00.000: Juego de pelota y Cipo ([04-028](capitulos/04.md)).
+- Cap. 04, 02:16:35.000: Deciden buscar a Nox ([04-031](capitulos/04.md)).
+- Cap. 07, 00:02:10.000: Nox mantiene a Jack y cede su camarote a Mamá ([07-002](capitulos/07.md)).
+- Cap. 07, 00:04:35.000: Actividad de Lunaria y Erendriel ([07-003](capitulos/07.md)).
+- Cap. 07, 00:16:20.000: Mamá reconoce el puente y el antiguo templo ([07-006](capitulos/07.md)).
+- Cap. 07, 00:22:00.000: Se reúne el grupo con el dragón vivo ([07-007](capitulos/07.md)).
+- Cap. 07, 00:35:35.000: Duelo sin heridas y Mamá intenta detenerlo ([07-010](capitulos/07.md)).
+- Cap. 07, 00:42:00.000: Frutas de la expedición ([07-011](capitulos/07.md)).
+- Cap. 07, 00:47:00.000: Puente, nido y huellas ausentes ([07-012](capitulos/07.md)).
+- Cap. 07, 01:06:20.000: Mamá derriba al capitán y el elfo vuela ([07-015](capitulos/07.md)).
+- Cap. 07, 01:17:40.000: Nox captura vivo a un pirata ([07-016](capitulos/07.md)).
+- Cap. 07, 01:25:20.000: La criatura voladora derriba a Erendriel ([07-017](capitulos/07.md)).
+- Cap. 07, 01:34:20.000: El dragón cae, pero no muere ([07-019](capitulos/07.md)).
+- Cap. 07, 01:44:00.000: Criatura y piratas derrotados, una huye ([07-021](capitulos/07.md)).
+- Cap. 07, 01:50:15.000: Cautivo atado, plumas y anatomía ([07-022](capitulos/07.md)).
+- Cap. 07, 01:54:00.000: Mamá toma el huevo para criarlo ([07-023](capitulos/07.md)).
+- Cap. 07, 02:03:45.000: Tatuajes de Nox y ruinas sin relación reconocida ([07-025](capitulos/07.md)).
+- Cap. 07, 02:14:15.000: Cría, venta y huida por un ruido ([07-027](capitulos/07.md)).
+- Cap. 07, 02:18:45.000: El ruido era Cipo, revelación al espectador ([07-028](capitulos/07.md)).
+- Cap. 07, 02:22:00.000: Patata explica el reparto de las gemas y pide protección ([07-029](capitulos/07.md)).
+- Cap. 07, 02:30:00.000: Mamá prepara la crianza y Patata compra un hacha ([07-031](capitulos/07.md)).
+- Cap. 07, 02:41:35.000: Pacto secreto para vender la futura cría ([07-033](capitulos/07.md)).
+- Cap. 07, 02:46:10.000: Lunaria gana la apuesta y Patata corta árboles ([07-034](capitulos/07.md)).
+- Cap. 08, 00:00:00.000: Tlachka obtiene un collar local ([08-001](capitulos/08.md)).
+- Cap. 08, 00:04:00.000: Kilzer y el elfo pasan por el hospital ([08-003](capitulos/08.md)).
+- Cap. 09, 00:00:00.000: Descanso y conversación entre sesiones de Nox ([09-001](capitulos/09.md)).
+- Cap. 09, 00:04:15.000: Mamá relata una visión al tomar la mano de Nox ([09-003](capitulos/09.md)).
+- Cap. 09, 00:19:00.000: Ione admite descontrol; Axi se disculpa por prejuicios ([09-007](capitulos/09.md)).
+- Cap. 09, 00:23:40.000: El huevo sigue sin eclosionar y la inmunidad se recuerda como una semana ([09-008](capitulos/09.md)).
+- Cap. 09, 00:35:30.000: Mamá golpea a Nox por intentar robar la pantera ([09-011](capitulos/09.md)).
+- Cap. 09, 00:44:00.000: Mamá descubre la mentira de Axi y guía la expedición ([09-014](capitulos/09.md)).
+- Cap. 09, 00:51:30.000: Frutas cambian sombras y dan curación a Nox ([09-015](capitulos/09.md)).
+- Cap. 09, 00:55:45.000: Orangutanes ahuyentados por fuego; aparece Pinky ([09-016](capitulos/09.md)).
+- Cap. 09, 01:01:00.000: Chocolate por hierba; Pinky sigue al grupo ([09-017](capitulos/09.md)).
+- Cap. 09, 01:07:30.000: Llegan a ruinas serpentinas y entran ([09-018](capitulos/09.md)).
+- Cap. 09, 01:15:30.000: El agua no activa el altar e Ione desencadena la trampa de veneno ([09-019](capitulos/09.md)).
+- Cap. 09, 01:23:15.000: Nox miente sobre la sangre nativa y Mamá abre el altar ([09-021](capitulos/09.md)).
+- Cap. 09, 01:28:30.000: La sala funeraria se cierra y emerge una criatura ([09-022](capitulos/09.md)).
+- Cap. 09, 01:45:40.000: Una planta atrae a Nox y sus compañeras lo liberan ([09-024](capitulos/09.md)).
+- Cap. 09, 01:56:30.000: Última sala: copa, sarcófago y cierre de puerta ([09-025](capitulos/09.md)).
+- Cap. 09, 02:08:20.000: Lunaria crece y recibe la copa; Pinky finge morir ([09-027](capitulos/09.md)).
+- Cap. 09, 02:24:30.000: Curación, sombra y victoria sobre los guardianes ([09-028](capitulos/09.md)).
+- Cap. 09, 02:47:40.000: El director aclara el tributo y los tatuajes siguen sin interpretar ([09-031](capitulos/09.md)).
+- Cap. 09, 02:58:10.000: Ventas finales, pociones y herramientas; Mamá se retira ([09-033](capitulos/09.md)).
+- Cap. 10, 00:01:05.000: Patata prepara calor para el huevo y sigue talando ([10-001](capitulos/10.md)).
+- Cap. 11, 00:04:15.000: Visión del bebé y juramento de Nox según Mamá ([11-003](capitulos/11.md)).
+- Cap. 11, 00:12:40.000: Kilzer encuentra obsidiana; Ione recluta a Mamá ([11-006](capitulos/11.md)).
+- Cap. 11, 00:26:00.000: Planes, huevo interpretado como Pegaso y salida al norte ([11-009](capitulos/11.md)).
+- Cap. 11, 00:31:20.000: Poncelot otea mientras Ione prueba el agua y recupera la barca ([11-010](capitulos/11.md)).
+- Cap. 11, 00:43:30.000: Nox se une y dice leer Terran mediante un ritual ([11-011](capitulos/11.md)).
+- Cap. 11, 00:52:30.000: Nox invisible y saber de Mamá sobre hombres lagarto ([11-013](capitulos/11.md)).
+- Cap. 11, 00:59:00.000: Infiltración planeada; ruido de armadura fuerza cambio de sitio ([11-014](capitulos/11.md)).
+- Cap. 11, 01:07:00.000: Nox informa de las jaulas y la pirámide; los otros se sumergen ([11-015](capitulos/11.md)).
+- Cap. 11, 01:15:00.000: Camuflaje, cautivos vistos y lengua comprendida ([11-016](capitulos/11.md)).
+- Cap. 11, 01:25:40.000: Ione se transforma por la sangre y Nox mata a un guardia ([11-017](capitulos/11.md)).
+- Cap. 11, 01:31:15.000: Nox incendia el puente y los otros rodean el combate ([11-018](capitulos/11.md)).
+- Cap. 11, 01:43:20.000: Kilzer protege a Mamá y Nox incendia una choza ([11-019](capitulos/11.md)).
+- Cap. 11, 02:03:00.000: Los cocodrilos atacan y el grupo protege a Mamá ([11-021](capitulos/11.md)).
+- Cap. 11, 02:24:10.000: Pix recogido y última resistencia abatida ([11-023](capitulos/11.md)).
+- Cap. 11, 02:45:00.000: Jaulas abiertas pese a la rotura de una herramienta ([11-025](capitulos/11.md)).
+- Cap. 11, 02:47:50.000: Recuperación parcial de equipo y botín ([11-026](capitulos/11.md)).
+- Cap. 11, 03:06:00.000: Pago discutido y traslado de los heridos al médico ([11-030](capitulos/11.md)).
+- Cap. 12, 00:00:00.000: Recuperación de Blink e inquietud de Nox por el fortín ([12-001](capitulos/12.md)).
+- Cap. 15, 00:03:20.000: Triel quiere ser capitana y el elfo prepara el envío de Jack ([15-002](capitulos/15.md)).
+- Cap. 15, 02:56:30.000: Treinta monedas repartidas entre cuatro; el dragón busca a la abuela ([15-022](capitulos/15.md)).
+- Cap. 16, 00:02:20.000: Muerte del elfo referida y búsqueda de templo ([16-002](capitulos/16.md)).
+- Cap. 16, 00:18:30.000: Luna y Triel encuentran a una leonina que muerde el mapa ([16-006](capitulos/16.md)).
+- Cap. 16, 02:16:40.000: El mapa de Luna no pertenece a la zona y se toman unos tubos ([16-020](capitulos/16.md)).
+- Cap. 18, 00:00:00.000: Descansos y huevo encerrado ([18-001](capitulos/18.md)).
+- Cap. 18, 00:06:00.000: Cipo reúne a los viajeros y evitan un dinosaurio ([18-003](capitulos/18.md)).
+- Cap. 18, 00:16:00.000: Llegada y presentación de Mamá ([18-004](capitulos/18.md)).
+- Cap. 18, 00:26:00.000: Botas con símbolos y una advertencia sobre el tiempo ([18-005](capitulos/18.md)).
+- Cap. 18, 00:32:00.000: Eromov ordena una búsqueda por una noticia confusa ([18-006](capitulos/18.md)).
+- Cap. 18, 00:42:00.000: Chocolate y ruta de Baton ([18-008](capitulos/18.md)).
+- Cap. 18, 00:50:00.000: Guardianes muertos y curación dañina ([18-009](capitulos/18.md)).
+- Cap. 18, 01:05:00.000: Serpiente del altar y huellas recientes ([18-010](capitulos/18.md)).
+- Cap. 18, 01:13:00.000: Descubrimiento de la trampa de las miradas ([18-011](capitulos/18.md)).
+- Cap. 18, 01:24:00.000: Ataques de serpientes y cuerpos marinos ([18-012](capitulos/18.md)).
+- Cap. 18, 01:35:00.000: Sangre y trampas permanentemente activas ([18-013](capitulos/18.md)).
+- Cap. 18, 01:46:00.000: Emboscada y Cipo como montura ([18-014](capitulos/18.md)).
+- Cap. 18, 01:57:00.000: Humanoides que leen mentes y abaten a Poncelot ([18-015](capitulos/18.md)).
+- Cap. 18, 02:09:00.000: Mamá resiste la intrusión y muere el arquero ([18-016](capitulos/18.md)).
+- Cap. 18, 02:25:00.000: Patata levantado y botín de Poncelot ([18-018](capitulos/18.md)).
+- Cap. 18, 02:33:00.000: Visión de Mamá y cabeza retirada ([18-019](capitulos/18.md)).
+- Cap. 18, 02:38:00.000: Prueba y recompensas en Cuicapalli ([18-020](capitulos/18.md)).
+- Cap. 19, 00:00:00.000: Mamá teme causar daño y Blink encuentra un refugio ([19-001](capitulos/19.md)).
+- Cap. 19, 00:15:00.000: Investigar muertes de dinosaurios ([19-003](capitulos/19.md)).
+- Cap. 19, 00:18:00.000: Pinky drogada y conflicto entre aliadas ([19-004](capitulos/19.md)).
+- Cap. 19, 00:28:00.000: Frutas y espíritu insultante ([19-005](capitulos/19.md)).
+- Cap. 19, 00:34:00.000: Tres depredadores muertos y humo aliado ([19-006](capitulos/19.md)).
+- Cap. 19, 00:46:00.000: Curación de Mamá vuelve a dañar ([19-007](capitulos/19.md)).
+- Cap. 19, 00:49:00.000: Cadáveres corroídos y lago sin fauna ([19-008](capitulos/19.md)).
+- Cap. 19, 00:56:00.000: Pelea, esfera de fuego y llegada de Ayoto ([19-009](capitulos/19.md)).
+- Cap. 19, 01:08:00.000: Un triceratops alterado y una serpiente atacan ([19-010](capitulos/19.md)).
+- Cap. 19, 01:20:00.000: Mamá cae y Leona recibe asistencia ([19-011](capitulos/19.md)).
+- Cap. 19, 01:28:00.000: Muere el triceratops y Santuario bloquea los golpes ([19-012](capitulos/19.md)).
+- Cap. 19, 01:41:00.000: Chocolate, raíces y serpiente muerta ([19-013](capitulos/19.md)).
+- Cap. 19, 01:50:00.000: Collar con voz poderosa en fruta ([19-014](capitulos/19.md)).
+- Cap. 19, 01:55:00.000: Regreso con Pinky alucinando ([19-015](capitulos/19.md)).
+- Cap. 19, 02:02:00.000: Informe, collar y eruditos de otras ciudades ([19-016](capitulos/19.md)).
+- Cap. 22, 00:10:00.000: Descansos y daño de bienvenida ([22-001](capitulos/22.md)).
+- Cap. 22, 00:26:00.000: Choque con Pinky y luces colocadas ([22-003](capitulos/22.md)).
+- Cap. 22, 00:36:00.000: Plantación y chocolate ritual ([22-004](capitulos/22.md)).
+- Cap. 22, 00:40:00.000: Axi llega y Guayacán come fresas ([22-005](capitulos/22.md)).
+- Cap. 22, 01:03:00.000: Frutas del festival ([22-007](capitulos/22.md)).
+- Cap. 22, 01:20:00.000: Mamá identifica dos sospechosas y vigila ([22-009](capitulos/22.md)).
+- Cap. 22, 01:32:00.000: Axi deja de seguir a la infiltrada y Mamá resiste ([22-010](capitulos/22.md)).
+- Cap. 22, 01:43:00.000: Disfraz revelado y primer infiltrado muerto ([22-011](capitulos/22.md)).
+- Cap. 22, 01:52:00.000: Arqueros y monstruosidades abaten a Axi ([22-012](capitulos/22.md)).
+- Cap. 22, 02:00:00.000: El jefe exige el collar y Mamá provoca miedo ([22-013](capitulos/22.md)).
+- Cap. 22, 02:15:00.000: Reagrupación y conjuro contra Mamá ([22-014](capitulos/22.md)).
+- Cap. 22, 02:28:00.000: La explosión del jefe causa veneno ([22-015](capitulos/22.md)).
+- Cap. 22, 02:42:00.000: Axi mata a una arquera y continúa la defensa ([22-016](capitulos/22.md)).
+- Cap. 22, 02:57:00.000: Pinky quema a un enemigo y Ayoto lo remata ([22-017](capitulos/22.md)).
+- Cap. 22, 03:07:00.000: Blink en peligro y arco venenoso ([22-018](capitulos/22.md)).
+- Cap. 23, 00:00:00.000: La carta de Nox impulsa el rescate ([23-001](capitulos/23.md)).
+- Cap. 23, 00:06:00.000: Equipo de rescate reunido ([23-002](capitulos/23.md)).
+- Cap. 23, 00:21:00.000: Negociación fallida y herramientas ([23-003](capitulos/23.md)).
+- Cap. 23, 00:46:00.000: Chocolate y entrada despejada ([23-006](capitulos/23.md)).
+- Cap. 23, 01:00:00.000: Disfraz de Kilzer y amistad con los perros ([23-007](capitulos/23.md)).
+- Cap. 23, 01:17:00.000: Dos rutas de entrada ([23-008](capitulos/23.md)).
+- Cap. 23, 01:30:00.000: Recompensa por Ione y Mamá como supuesta informante ([23-009](capitulos/23.md)).
+- Cap. 23, 01:57:00.000: Molly sospecha y ofrece dinero ([23-012](capitulos/23.md)).
+- Cap. 23, 02:24:00.000: Despacho cerrado y puerta rota ([23-014](capitulos/23.md)).
+- Cap. 23, 02:37:00.000: Reencuentro y documentos sobre una ciudad ([23-015](capitulos/23.md)).
+- Cap. 23, 02:43:00.000: Perros frenan perseguidores y mosca evacúa ([23-016](capitulos/23.md)).
+- Cap. 24, 02:40:00.000: Camarotes llenos y el médico prepara máquinas ([24-021](capitulos/24.md)).
+- Cap. 25, 00:09:00.000: Noche dispersa en Shiaru ([25-004](capitulos/25.md)).
+- Cap. 25, 00:22:00.000: Ataques simultáneos a Blink, Nox y el barco ([25-006](capitulos/25.md)).
+- Cap. 28, 01:53:00.000: Anciana nativa y pacto de intercambio de información ([28-021](capitulos/28.md)).
+- Cap. 32, 02:08:00.000: Recompensas y paradero de Citlali ([32-019](capitulos/32.md)).
+- Cap. 32, 02:12:00.000: Bonnie devuelve moneda a Pix y sale ([32-020](capitulos/32.md)).
+- Cap. 33, 00:36:00.000: Buscar refugio para Citlali oculta ([33-006](capitulos/33.md)).
+- Cap. 34, 00:00:00.000: Recapitulaciones y libertad de Citlali ([34-001](capitulos/34.md)).
+- Cap. 34, 00:12:00.000: Nox expulsado y huevo desaparecido ([34-003](capitulos/34.md)).
+- Cap. 34, 00:20:00.000: Mamá pide ayuda y frutas ([34-004](capitulos/34.md)).
+- Cap. 34, 00:30:00.000: Origen del huevo y barrido mental ([34-005](capitulos/34.md)).
+- Cap. 34, 00:37:00.000: Marina se llevó huevo y Tim muere ([34-006](capitulos/34.md)).
+- Cap. 34, 00:45:00.000: Rastro al sur y cadáveres mordidos ([34-007](capitulos/34.md)).
+- Cap. 34, 00:50:00.000: Dinosaurios emboscan y magia defensiva ([34-008](capitulos/34.md)).
+- Cap. 34, 01:11:00.000: Mamá drena Winscore y ambos aliados caen ([34-009](capitulos/34.md)).
+- Cap. 34, 01:20:00.000: Combate resuelto y descanso corto ([34-010](capitulos/34.md)).
+- Cap. 34, 01:32:00.000: Polen resistido y rastro recuperado ([34-011](capitulos/34.md)).
+- Cap. 34, 01:42:00.000: Infiltración y Pinky retenida ([34-012](capitulos/34.md)).
+- Cap. 34, 01:50:00.000: Mamá distrae y Blink encuentra huevo ([34-013](capitulos/34.md)).
+- Cap. 34, 02:12:00.000: Mamá encanta y Pinky combate ([34-015](capitulos/34.md)).
+- Cap. 34, 02:20:00.000: Disparo agujerea huevo y Mamá se zafa ([34-016](capitulos/34.md)).
+- Cap. 34, 02:26:00.000: Pinky incendia campamento y grupo se reúne ([34-017](capitulos/34.md)).
+- Cap. 34, 02:32:00.000: Eclosiona bebé dinosaurio ([34-018](capitulos/34.md)).
+- Cap. 34, 02:36:00.000: Cría mata y come capitán perseguidor ([34-019](capitulos/34.md)).
+- Cap. 34, 02:39:00.000: Rumbo Cuicapalli con cría ([34-020](capitulos/34.md)).
+- Cap. 37, 00:32:00.000: La esfera reacciona ante Citlali ([37-005](capitulos/37.md)).
+- Cap. 39, 00:00:00.000: Regreso de Ayoto y crianza de Etley ([39-001](capitulos/39.md)).
+- Cap. 39, 00:04:00.000: Cueva refugio y recuerdo incierto de Nox ([39-002](capitulos/39.md)).
+- Cap. 39, 00:09:00.000: Ayoto se incorpora y una rana acompaña a Citlali ([39-003](capitulos/39.md)).
+- Cap. 39, 00:16:00.000: Los hombres serpiente amenazan a Etley ([39-004](capitulos/39.md)).
+- Cap. 39, 00:24:00.000: Dos hombres serpiente y una abominación ([39-005](capitulos/39.md)).
+- Cap. 39, 00:34:00.000: Ayoto libera a Citlali y Luna se revela ([39-006](capitulos/39.md)).
+- Cap. 39, 00:42:00.000: Continúa el combate y la cría se acerca lentamente ([39-007](capitulos/39.md)).
+- Cap. 39, 00:50:00.000: La maldición de Citlali cura a la serpiente ([39-008](capitulos/39.md)).
+- Cap. 39, 00:52:00.000: Mueren la abominación y el último guardia ([39-009](capitulos/39.md)).
+- Cap. 39, 01:05:00.000: Los refuerzos buscan la piel de Citlali ([39-010](capitulos/39.md)).
+- Cap. 39, 01:13:00.000: La segunda bola de fuego derrumba la cueva ([39-011](capitulos/39.md)).
+- Cap. 39, 01:20:00.000: Citlali y Etley siguen vivos mientras comienza la excavación ([39-012](capitulos/39.md)).
+- Cap. 39, 01:27:00.000: Los guardias ayudan a rescatar a Citlali y Etley ([39-013](capitulos/39.md)).
+- Cap. 39, 01:34:00.000: Citlali drena a Tlachka y el grupo marcha al norte ([39-014](capitulos/39.md)).
+- Cap. 39, 01:40:00.000: Animales vigilantes y rastros de viajeros anteriores ([39-015](capitulos/39.md)).
+- Cap. 39, 01:50:00.000: Un dragón invisible ofrece un trato a Citlali ([39-016](capitulos/39.md)).
+- Cap. 39, 01:55:00.000: Iktan admite y cura a los viajeros ([39-017](capitulos/39.md)).
+- Cap. 39, 02:04:00.000: Hospitalidad de la ciudad oculta y una elfa enferma ([39-018](capitulos/39.md)).
+- Cap. 39, 02:12:00.000: Descanso en Iktan y expulsión de Coyote ([39-020](capitulos/39.md)).
+
+## Clodidrax
+
+- Cap. 39, 01:50:00.000: Un dragón invisible ofrece un trato a Citlali ([39-016](capitulos/39.md)).
+
+## Collar antiguo de oro con gemas
+
+- Cap. 04, 01:34:20.000: Collar antiguo hallado en un cadáver ([04-020](capitulos/04.md)).
+- Cap. 04, 01:41:30.000: Advertencias y reparto de gemas ([04-021](capitulos/04.md)).
+- Cap. 04, 02:09:20.000: Bonnie recibe el collar y detecta la falta ([04-029](capitulos/04.md)).
+- Cap. 05, 00:07:40.000: Emblema y procedencia declarada del collar ([05-005](capitulos/05.md)).
+
+## Collar de Blink
+
+- Cap. 19, 01:50:00.000: Collar con voz poderosa en fruta ([19-014](capitulos/19.md)).
+- Cap. 19, 02:02:00.000: Informe, collar y eruditos de otras ciudades ([19-016](capitulos/19.md)).
+- Cap. 21, 02:32:00.000: El collar serpiente provoca una visión a dos viajeras ([21-015](capitulos/21.md)).
+- Cap. 22, 02:00:00.000: El jefe exige el collar y Mamá provoca miedo ([22-013](capitulos/22.md)).
+- Cap. 22, 03:07:00.000: Blink en peligro y arco venenoso ([22-018](capitulos/22.md)).
+- Cap. 25, 00:03:00.000: Blink conserva el amuleto y Nox evita a Ione ([25-002](capitulos/25.md)).
+- Cap. 25, 02:24:00.000: Las órdenes buscan el mapa y el collar de Blink ([25-021](capitulos/25.md)).
+- Cap. 26, 00:03:00.000: Abisal en aprendizaje y amuleto sin destino ([26-002](capitulos/26.md)).
+- Cap. 26, 01:15:00.000: Historia del mapa y collar oculto en mango ([26-015](capitulos/26.md)).
+- Cap. 26, 01:37:00.000: Altar, collar reactivo y pasos bajo estatuas ([26-018](capitulos/26.md)).
+- Cap. 26, 01:46:00.000: Trampas desactivadas y una voz tras verter sangre ([26-019](capitulos/26.md)).
+- Cap. 26, 02:02:00.000: El guardia poseído invita a Nox y reconoce el collar ([26-021](capitulos/26.md)).
+- Cap. 28, 00:58:00.000: Blink abandona el collar y las serpientes se unen ([28-010](capitulos/28.md)).
+
+## Collar de plata de Leo
+
+- Cap. 21, 00:51:00.000: Leo, escondido, relata el secuestro ([21-007](capitulos/21.md)).
+- Cap. 21, 01:50:00.000: Leo entrega el collar de plata y Poncelot despierta ([21-012](capitulos/21.md)).
+- Cap. 21, 02:08:00.000: Plata en la boca y muerte del lobo grande ([21-013](capitulos/21.md)).
+
+## Coyote
+
+- Cap. 24, 00:23:00.000: El grupo parte y recibe los efectos de las frutas ([24-004](capitulos/24.md)).
+- Cap. 24, 00:32:00.000: Coyote se presenta y se une ([24-005](capitulos/24.md)).
+- Cap. 24, 00:40:00.000: Gorilas evitados y sirena acosada ([24-006](capitulos/24.md)).
+- Cap. 24, 00:49:00.000: Cambiaformas y chillido aturdidor ([24-007](capitulos/24.md)).
+- Cap. 24, 01:06:00.000: Parálisis, refuerzos y Coyote protegido ([24-008](capitulos/24.md)).
+- Cap. 24, 01:20:00.000: Inspiración y enemigos muertos ([24-009](capitulos/24.md)).
+- Cap. 24, 01:32:00.000: Ione loba no reconoce aliados ([24-010](capitulos/24.md)).
+- Cap. 24, 01:36:00.000: El arma espiritual guía a la loba contra el último enemigo ([24-011](capitulos/24.md)).
+- Cap. 24, 01:42:00.000: La sirena entrega una perla para encontrarla ([24-012](capitulos/24.md)).
+- Cap. 24, 01:56:00.000: Perla con coordenadas y botín ([24-014](capitulos/24.md)).
+- Cap. 24, 02:02:00.000: Ione humana y fragmentos guardados ([24-015](capitulos/24.md)).
+- Cap. 24, 02:27:00.000: Bonnie recluta a Coyote como espía ([24-019](capitulos/24.md)).
+- Cap. 24, 02:32:00.000: Ropa, cultivo y reclutamiento ([24-020](capitulos/24.md)).
+- Cap. 26, 00:00:00.000: Compra de armadura y suplantación de Ione por Coyote ([26-001](capitulos/26.md)).
+- Cap. 26, 00:24:00.000: Nox entrega el licor y ambos declaran su amistad ([26-007](capitulos/26.md)).
+- Cap. 29, 00:00:00.000: Trampas reforzadas y casino aún cerrado ([29-001](capitulos/29.md)).
+- Cap. 29, 00:03:00.000: Coyote paga diez monedas de oro a Kilzer ([29-002](capitulos/29.md)).
+- Cap. 29, 00:13:00.000: Los guerreros aceptan ayudar al pueblo de la sirena ([29-004](capitulos/29.md)).
+- Cap. 29, 00:20:00.000: Maris comunica la petición mediante una perla ([29-005](capitulos/29.md)).
+- Cap. 29, 00:23:00.000: Seta tóxica y efectos de fruta ([29-006](capitulos/29.md)).
+- Cap. 29, 00:31:00.000: Burbujas de una hora y Coyote copia a Pinky ([29-008](capitulos/29.md)).
+- Cap. 29, 00:36:00.000: Un agujero del lago conecta con el mar ([29-009](capitulos/29.md)).
+- Cap. 29, 00:44:00.000: Ausencia de peces y figuras junto al coral ([29-010](capitulos/29.md)).
+- Cap. 29, 00:49:00.000: Cuatro merros detectan la arena levantada por los guerreros ([29-011](capitulos/29.md)).
+- Cap. 29, 00:55:00.000: Reglas subacuáticas y primeros golpes ([29-012](capitulos/29.md)).
+- Cap. 29, 01:04:00.000: Ayoto paralizado y copias que protegen al mago ([29-013](capitulos/29.md)).
+- Cap. 29, 01:15:00.000: Destrucción de las copias y Patrón hipnótico ([29-014](capitulos/29.md)).
+- Cap. 29, 01:24:00.000: Los golpes rompen el encantamiento y se forma una nube de arena ([29-015](capitulos/29.md)).
+- Cap. 29, 01:34:00.000: Kilzer paralizado y un rayo lo derriba ([29-016](capitulos/29.md)).
+- Cap. 29, 01:43:00.000: Un beso con poción permite recuperar a Kilzer ([29-017](capitulos/29.md)).
+- Cap. 29, 01:50:00.000: Cuatro atacantes muertos y perla de botín ([29-018](capitulos/29.md)).
+- Cap. 29, 01:59:00.000: Maris calma a los guardias y los besos conceden branquias ([29-019](capitulos/29.md)).
+- Cap. 29, 02:06:00.000: Llegada a Perlasal y desconfianza de Ivet ([29-020](capitulos/29.md)).
+- Cap. 29, 02:13:00.000: Maris asume la responsabilidad y los merros siguen siendo una amenaza ([29-021](capitulos/29.md)).
+- Cap. 29, 02:20:00.000: Secuestros y kraken que crece por rituales ([29-022](capitulos/29.md)).
+- Cap. 29, 02:26:00.000: Promesa pública y hospitalidad de la taberna ([29-023](capitulos/29.md)).
+- Cap. 29, 02:32:00.000: Habitación pagada y descanso local ([29-024](capitulos/29.md)).
+- Cap. 31, 00:00:00.000: Coyote vuelve, los gemelos exploran y Naór cría a Leo ([31-001](capitulos/31.md)).
+- Cap. 31, 00:04:00.000: Coyote y Triel arrancan la cola del caimán ([31-002](capitulos/31.md)).
+- Cap. 31, 00:10:00.000: Venta de perlas y tatuaje de Triel ([31-003](capitulos/31.md)).
+- Cap. 31, 00:31:00.000: Grupos confluyen y conflicto territorial ([31-006](capitulos/31.md)).
+- Cap. 31, 00:40:00.000: Tesa se presenta como historiadora y Coyote conoce Iktan ([31-007](capitulos/31.md)).
+- Cap. 31, 00:50:00.000: Siseos complacientes y raíces que atrapan a Coyote ([31-008](capitulos/31.md)).
+- Cap. 31, 00:56:00.000: La voz de Leo induce un golpe de Naór ([31-009](capitulos/31.md)).
+- Cap. 31, 01:01:00.000: Tesa exige la kusarigama y dispara a Eldrat ([31-010](capitulos/31.md)).
+- Cap. 31, 01:08:00.000: Ataques mutuos y Tesa inmovilizada temporalmente ([31-011](capitulos/31.md)).
+- Cap. 31, 01:17:00.000: Naór paralizada y Tesa detecta una criatura enorme ([31-012](capitulos/31.md)).
+- Cap. 31, 01:23:00.000: Una voz conoce intimidades y alza a los muertos con plantas ([31-013](capitulos/31.md)).
+- Cap. 31, 01:28:00.000: Combate y encantamiento que no controla a los muertos ([31-014](capitulos/31.md)).
+- Cap. 31, 01:36:00.000: Eldrat reconoce al dragón verde y el ácido daña al grupo ([31-015](capitulos/31.md)).
+- Cap. 31, 01:44:00.000: Tesa protege a Leo y se propone huir ([31-016](capitulos/31.md)).
+- Cap. 31, 01:54:00.000: Coyote y Naór caen y son recuperados ([31-017](capitulos/31.md)).
+- Cap. 31, 02:04:00.000: Leo queda envenenado y los compañeros se cubren ([31-018](capitulos/31.md)).
+- Cap. 31, 02:16:00.000: Leo mata al último zombi y los cuerpos se funden; llegada a Iktan ([31-019](capitulos/31.md)).
+- Cap. 31, 02:34:00.000: Naór y Triel comen mientras Coyote habla con la tabernera ([31-022](capitulos/31.md)).
+- Cap. 31, 02:42:00.000: La líder enmascarada exige saber quién guio a los extranjeros ([31-023](capitulos/31.md)).
+- Cap. 31, 02:49:00.000: Gualulu, amiga de la infancia de Naór, y la muerte de su padre ([31-024](capitulos/31.md)).
+- Cap. 31, 03:10:00.000: Confianza limitada y secreto de ruta ([31-028](capitulos/31.md)).
+- Cap. 32, 00:00:00.000: Granja, fuego y ausencia de Bonnie ([32-001](capitulos/32.md)).
+- Cap. 39, 01:55:00.000: Iktan admite y cura a los viajeros ([39-017](capitulos/39.md)).
+- Cap. 39, 02:04:00.000: Hospitalidad de la ciudad oculta y una elfa enferma ([39-018](capitulos/39.md)).
+- Cap. 39, 02:08:00.000: Luna prueba las ganzúas y Coyote recibe una reprimenda ([39-019](capitulos/39.md)).
+- Cap. 39, 02:12:00.000: Descanso en Iktan y expulsión de Coyote ([39-020](capitulos/39.md)).
+
+## Cuchillas Negras
+
+- Cap. 11, 03:01:30.000: Bonnie ve a Nox invisible y recupera moneda y gema ([11-029](capitulos/11.md)).
+
+## Cueva de la Hoja Caída
+
+- Cap. 30, 00:31:00.000: Hoja Caída y encargo de mediación ([30-007](capitulos/30.md)).
+- Cap. 30, 00:54:00.000: Charcas venenosas conectadas y muestra tomada ([30-010](capitulos/30.md)).
+- Cap. 30, 01:08:00.000: Mujer del caldero capturada inicialmente ([30-012](capitulos/30.md)).
+- Cap. 30, 01:41:00.000: Criaturas de charcas muertas y victoria ([30-016](capitulos/30.md)).
+
+## Cuicapalli
+
+- Cap. 01, 00:04:08.000: Relato del sacrificio del guerrero ([01-004](capitulos/01.md)).
+- Cap. 16, 00:04:30.000: El rey leonino encarga a Naór convocar un concilio ([16-003](capitulos/16.md)).
+- Cap. 16, 00:12:00.000: Baton y Nelli guían a Cuicapalli ([16-005](capitulos/16.md)).
+- Cap. 16, 01:38:30.000: Cadáver de regalo, estegosauros evitados y viaje de días ([16-013](capitulos/16.md)).
+- Cap. 16, 01:46:25.000: Entrada a Cuicapalli y conversación en Primordial ([16-014](capitulos/16.md)).
+- Cap. 16, 01:50:20.000: Eromov ofrece hospitalidad y reconoce a Naór ([16-015](capitulos/16.md)).
+- Cap. 16, 01:58:10.000: Aceptación del concilio de Tutucan condicionada a los problemas locales ([16-016](capitulos/16.md)).
+- Cap. 16, 02:10:40.000: Comercios de Cuicapalli y tatuajes ([16-018](capitulos/16.md)).
+- Cap. 16, 02:20:30.000: Luna y Triel parten mientras el resto celebra el banquete ([16-021](capitulos/16.md)).
+- Cap. 17, 00:06:30.000: Cuatro salen hacia Cuicapalli sin buena guía ([17-003](capitulos/17.md)).
+- Cap. 17, 00:12:50.000: Naór, perdida en Ruki Peten, caza un cocodrilo ([17-004](capitulos/17.md)).
+- Cap. 18, 00:00:00.000: Descansos y huevo encerrado ([18-001](capitulos/18.md)).
+- Cap. 18, 00:04:00.000: Ayoto entrena y Poncelot encuentra oro ([18-002](capitulos/18.md)).
+- Cap. 18, 00:06:00.000: Cipo reúne a los viajeros y evitan un dinosaurio ([18-003](capitulos/18.md)).
+- Cap. 18, 02:38:00.000: Prueba y recompensas en Cuicapalli ([18-020](capitulos/18.md)).
+- Cap. 19, 00:00:00.000: Mamá teme causar daño y Blink encuentra un refugio ([19-001](capitulos/19.md)).
+- Cap. 19, 01:55:00.000: Regreso con Pinky alucinando ([19-015](capitulos/19.md)).
+- Cap. 20, 00:00:00.000: Equipo reparado y camino a Iktan ([20-001](capitulos/20.md)).
+- Cap. 21, 02:35:00.000: Leona curada y destinos separados ([21-016](capitulos/21.md)).
+- Cap. 22, 00:10:00.000: Descansos y daño de bienvenida ([22-001](capitulos/22.md)).
+- Cap. 22, 03:15:00.000: Antigua enemistad y concilio pendiente ([22-020](capitulos/22.md)).
+- Cap. 24, 02:10:00.000: Regreso, Sam y pueblo alternativo ([24-016](capitulos/24.md)).
+- Cap. 25, 00:03:00.000: Blink conserva el amuleto y Nox evita a Ione ([25-002](capitulos/25.md)).
+- Cap. 26, 00:03:00.000: Abisal en aprendizaje y amuleto sin destino ([26-002](capitulos/26.md)).
+- Cap. 26, 00:28:20.000: Expedición hacia el sur pese a que el mapa indica otra dirección ([26-008](capitulos/26.md)).
+- Cap. 27, 00:00:00.000: Descanso y preparación tras ataque a Cuicapalli ([27-001](capitulos/27.md)).
+- Cap. 27, 00:04:00.000: Cipo pide buscar abuela en Cuicapalli ([27-002](capitulos/27.md)).
+- Cap. 27, 00:08:00.000: Tlachka entra sin reconocimiento y comparten ataques ([27-003](capitulos/27.md)).
+- Cap. 27, 00:20:00.000: Las alarmas señalan a los hombres azules del sur ([27-005](capitulos/27.md)).
+- Cap. 27, 02:39:00.000: Ataque del sur repelido y botín limitado ([27-019](capitulos/27.md)).
+- Cap. 27, 02:44:00.000: Regreso herido y traje de Guayacán deteriorado ([27-020](capitulos/27.md)).
+- Cap. 27, 02:49:00.000: Dientes humanos visibles y taburete mágico ([27-021](capitulos/27.md)).
+- Cap. 28, 01:34:00.000: Nox quiere volver a ver a Molly ([28-017](capitulos/28.md)).
+- Cap. 28, 02:03:00.000: Blink planea regreso e ilusión final del ojo ([28-023](capitulos/28.md)).
+- Cap. 29, 00:00:00.000: Trampas reforzadas y casino aún cerrado ([29-001](capitulos/29.md)).
+- Cap. 29, 00:27:00.000: Pinky busca a Cipo y hace crecer cáñamo ([29-007](capitulos/29.md)).
+- Cap. 30, 00:00:00.000: Leona harengon, Guayacán y Winscore en camino ([30-001](capitulos/30.md)).
+- Cap. 30, 00:05:00.000: Winscore admitido bajo responsabilidad de Luna ([30-002](capitulos/30.md)).
+- Cap. 30, 02:00:00.000: Muestras aisladas en casa de Leona ([30-019](capitulos/30.md)).
+- Cap. 30, 02:04:00.000: Eromov envía a Parroter a investigar una cura ([30-020](capitulos/30.md)).
+- Cap. 31, 00:00:00.000: Coyote vuelve, los gemelos exploran y Naór cría a Leo ([31-001](capitulos/31.md)).
+- Cap. 32, 00:14:00.000: Patata explica guerra y autoridades ([32-004](capitulos/32.md)).
+- Cap. 34, 00:06:00.000: Planes de Cuicapalli y encuentro del enano ([34-002](capitulos/34.md)).
+- Cap. 34, 02:39:00.000: Rumbo Cuicapalli con cría ([34-020](capitulos/34.md)).
+- Cap. 39, 00:00:00.000: Regreso de Ayoto y crianza de Etley ([39-001](capitulos/39.md)).
+- Cap. 39, 01:34:00.000: Citlali drena a Tlachka y el grupo marcha al norte ([39-014](capitulos/39.md)).
+
+## Diario Terran del nawal
+
+- Cap. 08, 01:40:20.000: Interior con diario en Terran y muerto colgado ([08-021](capitulos/08.md)).
+- Cap. 08, 02:06:20.000: Libro, mortero y cuerpo para consulta posterior ([08-024](capitulos/08.md)).
+- Cap. 10, 00:02:45.000: El elfo estudia el diario sin entenderlo ([10-002](capitulos/10.md)).
+- Cap. 11, 00:43:30.000: Nox se une y dice leer Terran mediante un ritual ([11-011](capitulos/11.md)).
+- Cap. 11, 02:10:20.000: Nox paraliza y mata al combatiente grande ([11-022](capitulos/11.md)).
+- Cap. 12, 00:08:00.000: Libro entregado por el elfo, oreja perdida y plazo de Bonnie ([12-004](capitulos/12.md)).
+- Cap. 12, 00:26:55.000: Contenido e identificación del diario del nawal ([12-008](capitulos/12.md)).
+- Cap. 12, 01:59:30.000: El elfo utiliza las coberturas y Nox el libro con el glifo ([12-022](capitulos/12.md)).
+- Cap. 35, 01:20:00.000: Molly destituida y guardia atado ([35-009](capitulos/35.md)).
+
+## Diario de capitán del mercante
+
+- Cap. 14, 01:39:00.000: Diario: hija enferma, entidad y tres objetos ([14-015](capitulos/14.md)).
+- Cap. 14, 01:46:15.000: La hija espectral guarda el relicario y niega que pueda salir ([14-016](capitulos/14.md)).
+
+## Din
+
+- Cap. 24, 00:09:00.000: Din busca a su hermano Sam y es estafado ([24-002](capitulos/24.md)).
+- Cap. 24, 00:23:00.000: El grupo parte y recibe los efectos de las frutas ([24-004](capitulos/24.md)).
+- Cap. 24, 00:32:00.000: Coyote se presenta y se une ([24-005](capitulos/24.md)).
+- Cap. 24, 00:49:00.000: Cambiaformas y chillido aturdidor ([24-007](capitulos/24.md)).
+- Cap. 24, 01:06:00.000: Parálisis, refuerzos y Coyote protegido ([24-008](capitulos/24.md)).
+- Cap. 24, 01:20:00.000: Inspiración y enemigos muertos ([24-009](capitulos/24.md)).
+- Cap. 24, 01:32:00.000: Ione loba no reconoce aliados ([24-010](capitulos/24.md)).
+- Cap. 24, 01:42:00.000: La sirena entrega una perla para encontrarla ([24-012](capitulos/24.md)).
+- Cap. 24, 01:47:00.000: Loba calmada y concha destruida ([24-013](capitulos/24.md)).
+- Cap. 24, 01:56:00.000: Perla con coordenadas y botín ([24-014](capitulos/24.md)).
+- Cap. 24, 02:02:00.000: Ione humana y fragmentos guardados ([24-015](capitulos/24.md)).
+- Cap. 24, 02:10:00.000: Regreso, Sam y pueblo alternativo ([24-016](capitulos/24.md)).
+- Cap. 24, 02:20:00.000: Din acuerda buscar a Sam por cincuenta monedas ([24-018](capitulos/24.md)).
+- Cap. 24, 02:32:00.000: Ropa, cultivo y reclutamiento ([24-020](capitulos/24.md)).
+- Cap. 24, 02:40:00.000: Camarotes llenos y el médico prepara máquinas ([24-021](capitulos/24.md)).
+
+## Diálogo
+
+- Cap. 03, 01:43:20.000: Centinela aturdido y disfraz de Nox ([03-021](capitulos/03.md)).
+- Cap. 04, 01:11:00.000: Patata despierta a Ione y cura a Cipo ([04-017](capitulos/04.md)).
+- Cap. 05, 02:06:15.000: Pólvora como garantía y guardia golpeado ([05-025](capitulos/05.md)).
+
+## Dragón de Erendriel
+
+- Cap. 01, 00:08:04.000: Huevo junto al cadáver de un dragón ([01-006](capitulos/01.md)).
+- Cap. 01, 00:19:25.000: Corrección sobre la visibilidad del dragoncito ([01-010](capitulos/01.md)).
+- Cap. 05, 01:24:00.000: Alimentos, frutas y candados ([05-018](capitulos/05.md)).
+- Cap. 07, 00:22:00.000: Se reúne el grupo con el dragón vivo ([07-007](capitulos/07.md)).
+- Cap. 07, 00:30:00.000: Nox se presenta como Jim Hawkins ([07-009](capitulos/07.md)).
+- Cap. 07, 00:42:00.000: Frutas de la expedición ([07-011](capitulos/07.md)).
+- Cap. 07, 01:06:20.000: Mamá derriba al capitán y el elfo vuela ([07-015](capitulos/07.md)).
+- Cap. 07, 01:17:40.000: Nox captura vivo a un pirata ([07-016](capitulos/07.md)).
+- Cap. 07, 01:34:20.000: El dragón cae, pero no muere ([07-019](capitulos/07.md)).
+- Cap. 07, 01:42:00.000: Nox recupera al dragón ([07-020](capitulos/07.md)).
+- Cap. 07, 02:26:00.000: Mapas de la Marina y alojamiento negociado ([07-030](capitulos/07.md)).
+- Cap. 08, 00:28:30.000: Deciden investigar; referencias al plano feérico ([08-011](capitulos/08.md)).
+- Cap. 08, 01:04:00.000: Emboscada de cinco panteras derrotada ([08-017](capitulos/08.md)).
+- Cap. 08, 01:51:20.000: El combate termina con la muerte de la criatura y su reversión a mujer ([08-023](capitulos/08.md)).
+- Cap. 10, 00:22:20.000: Expedición en barca hasta Ruki Peten ([10-009](capitulos/10.md)).
+- Cap. 10, 00:34:15.000: Dos cocodrilos muertos y diente para Axi ([10-012](capitulos/10.md)).
+- Cap. 10, 00:41:15.000: Blink obtiene el mondadientes y el elfo es capturado ([10-013](capitulos/10.md)).
+- Cap. 10, 00:45:15.000: El dragón guía la búsqueda y los guardias detectan a tres compañeros ([10-014](capitulos/10.md)).
+- Cap. 10, 00:50:45.000: Axi recibe una jabalina y sus insultos inician el combate ([10-015](capitulos/10.md)).
+- Cap. 10, 01:27:00.000: Jaula del elfo cerrada y armas retiradas ([10-018](capitulos/10.md)).
+- Cap. 10, 01:50:30.000: Una curación de los espectadores levanta a Axi y el dragón huye ([10-021](capitulos/10.md)).
+- Cap. 10, 02:27:30.000: Ayoto y el elfo regresan sin sus compañeros ni Pix ([10-024](capitulos/10.md)).
+- Cap. 12, 00:41:00.000: Frutas dan curación, elasticidad y caída lenta ([12-012](capitulos/12.md)).
+- Cap. 12, 00:52:30.000: Se infiltran entre ruinas mientras Pinky distrae ([12-015](capitulos/12.md)).
+- Cap. 12, 02:24:00.000: Blink abre la jaula del hombre tigre y deja encerrado al preso feroz ([12-025](capitulos/12.md)).
+- Cap. 15, 00:31:00.000: La espada de Triel tiene escamas de dragón azul ([15-006](capitulos/15.md)).
+- Cap. 15, 00:44:20.000: Frutas: obligación de decir la verdad, inmunidad a las armas y resistencias ([15-008](capitulos/15.md)).
+- Cap. 15, 01:08:15.000: Un cebo permite eliminar a un defensor y el dragón alerta al otro flanco ([15-011](capitulos/15.md)).
+- Cap. 15, 01:19:40.000: Crecimiento espinoso y Espíritus guardianes ([15-012](capitulos/15.md)).
+- Cap. 15, 01:28:20.000: Defensores y dinosaurios presionan a Patata ([15-013](capitulos/15.md)).
+- Cap. 15, 01:44:00.000: Kilzer es derribado y curado antes de auxiliar a Patata ([15-014](capitulos/15.md)).
+- Cap. 15, 02:14:20.000: Triel lucha disfrazada y Axi le dispara por error ([15-016](capitulos/15.md)).
+- Cap. 15, 02:54:30.000: Bonnie retiene al elfo por envío tardío ([15-021](capitulos/15.md)).
+- Cap. 15, 02:56:30.000: Treinta monedas repartidas entre cuatro; el dragón busca a la abuela ([15-022](capitulos/15.md)).
+- Cap. 16, 00:02:20.000: Muerte del elfo referida y búsqueda de templo ([16-002](capitulos/16.md)).
+
+## El Bocado del Jaguar
+
+- Cap. 16, 02:10:40.000: Comercios de Cuicapalli y tatuajes ([16-018](capitulos/16.md)).
+
+## El Garfio
+
+- Cap. 04, 00:00:40.000: El Garfio y el poblado de Bonnie ([04-001](capitulos/04.md)).
+- Cap. 07, 00:35:35.000: Duelo sin heridas y Mamá intenta detenerlo ([07-010](capitulos/07.md)).
+- Cap. 09, 00:44:00.000: Mamá descubre la mentira de Axi y guía la expedición ([09-014](capitulos/09.md)).
+- Cap. 20, 00:48:00.000: Desvío hacia el Garfio y alucinaciones ([20-007](capitulos/20.md)).
+- Cap. 23, 00:33:00.000: Jack regresa y Nox está encadenado ([23-004](capitulos/23.md)).
+
+## El Huevo Emplumado
+
+- Cap. 31, 02:21:00.000: Ciudad y ruinas de piedra derretida ([31-020](capitulos/31.md)).
+- Cap. 31, 02:34:00.000: Naór y Triel comen mientras Coyote habla con la tabernera ([31-022](capitulos/31.md)).
+
+## Eldrat
+
+- Cap. 14, 00:00:35.000: Pasado de los dos hermanos presentado al espectador ([14-001](capitulos/14.md)).
+- Cap. 14, 00:03:15.000: Cocodrilo alimentado y panteras derrotadas por los hermanos ([14-002](capitulos/14.md)).
+- Cap. 14, 00:21:35.000: Los hermanos llegan y compran ropa negra ([14-005](capitulos/14.md)).
+- Cap. 14, 00:30:00.000: Sombrero dado al loro y aviso a Bonnie ([14-006](capitulos/14.md)).
+- Cap. 14, 00:37:00.000: La mujer del bote pide ayuda para el mercante ([14-007](capitulos/14.md)).
+- Cap. 14, 00:51:45.000: Navío visto y Bonnie expulsa al marcado ([14-010](capitulos/14.md)).
+- Cap. 14, 00:58:15.000: Barco deteriorado con tareas repetidas ([14-011](capitulos/14.md)).
+- Cap. 14, 01:11:00.000: Los hermanos roban las llaves al marinero en el cepo ([14-012](capitulos/14.md)).
+- Cap. 14, 01:24:15.000: Tres muertos de cajas derrotados ([14-014](capitulos/14.md)).
+- Cap. 14, 01:54:00.000: Brújula a cambio de bebida y envenenamiento ([14-017](capitulos/14.md)).
+- Cap. 14, 02:04:00.000: Camarero derrotado y brújula recogida ([14-018](capitulos/14.md)).
+- Cap. 14, 02:12:30.000: Campana ganada y moneda negra intercambiada ([14-019](capitulos/14.md)).
+- Cap. 14, 02:35:30.000: Primera forma del capitán derrotada ([14-022](capitulos/14.md)).
+- Cap. 14, 02:44:10.000: El capitán cambia de forma y ordena el hundimiento ([14-023](capitulos/14.md)).
+- Cap. 14, 03:01:00.000: Desaparición de la marca y el veneno; Bonnie llama a los hermanos ([14-025](capitulos/14.md)).
+- Cap. 15, 00:00:00.000: Casino en construcción y los hermanos exploran el pueblo ([15-001](capitulos/15.md)).
+- Cap. 15, 00:18:40.000: El grupo se reúne y Axi compra flechas y armadura ([15-005](capitulos/15.md)).
+- Cap. 15, 00:31:00.000: La espada de Triel tiene escamas de dragón azul ([15-006](capitulos/15.md)).
+- Cap. 15, 00:36:00.000: Diosa de Patata y rastros hacia el sur ([15-007](capitulos/15.md)).
+- Cap. 15, 00:44:20.000: Frutas: obligación de decir la verdad, inmunidad a las armas y resistencias ([15-008](capitulos/15.md)).
+- Cap. 15, 00:50:30.000: Evitan un estegosauro y Triel obliga a Kilzer a arrodillarse ([15-009](capitulos/15.md)).
+- Cap. 15, 01:01:30.000: Restos de piratas y Triel infiltrada con disfraz ([15-010](capitulos/15.md)).
+- Cap. 15, 01:08:15.000: Un cebo permite eliminar a un defensor y el dragón alerta al otro flanco ([15-011](capitulos/15.md)).
+- Cap. 15, 01:19:40.000: Crecimiento espinoso y Espíritus guardianes ([15-012](capitulos/15.md)).
+- Cap. 15, 01:28:20.000: Defensores y dinosaurios presionan a Patata ([15-013](capitulos/15.md)).
+- Cap. 15, 01:44:00.000: Kilzer es derribado y curado antes de auxiliar a Patata ([15-014](capitulos/15.md)).
+- Cap. 15, 02:14:20.000: Triel lucha disfrazada y Axi le dispara por error ([15-016](capitulos/15.md)).
+- Cap. 15, 02:31:10.000: El rival se levanta y Eldrat lo remata ([15-017](capitulos/15.md)).
+- Cap. 15, 02:40:20.000: Botín y Eldrat roba veintitrés a Kilzer ([15-018](capitulos/15.md)).
+- Cap. 15, 02:50:30.000: Bolsa recuperada y Bonnie paga cincuenta ([15-020](capitulos/15.md)).
+- Cap. 15, 02:56:30.000: Treinta monedas repartidas entre cuatro; el dragón busca a la abuela ([15-022](capitulos/15.md)).
+- Cap. 16, 02:20:30.000: Luna y Triel parten mientras el resto celebra el banquete ([16-021](capitulos/16.md)).
+- Cap. 17, 00:00:00.000: Descanso, copa perdida y casino preparado ([17-001](capitulos/17.md)).
+- Cap. 17, 00:06:30.000: Cuatro salen hacia Cuicapalli sin buena guía ([17-003](capitulos/17.md)).
+- Cap. 17, 00:17:30.000: Encuentro y frutas temporales ([17-005](capitulos/17.md)).
+- Cap. 17, 00:27:20.000: La patrulla busca a quienes destruyeron el poblado ([17-006](capitulos/17.md)).
+- Cap. 17, 00:43:30.000: Axi relata su cautiverio mediante una conexión mental ([17-008](capitulos/17.md)).
+- Cap. 17, 00:47:30.000: Costumbres, comida y amenazas interesadas ([17-009](capitulos/17.md)).
+- Cap. 17, 01:05:20.000: Naór invita a los dirigentes a Tutucan ([17-011](capitulos/17.md)).
+- Cap. 17, 01:08:00.000: Axi y Kilzer señalados; cofres sujetos a prueba ([17-012](capitulos/17.md)).
+- Cap. 17, 01:16:00.000: Los cinco entran en una prueba contra bestias ([17-013](capitulos/17.md)).
+- Cap. 17, 01:24:30.000: Preparación y rugido que afecta a Axi ([17-014](capitulos/17.md)).
+- Cap. 17, 01:35:30.000: Mueren las primeras criaturas y Kilzer se transforma temporalmente en araña ([17-015](capitulos/17.md)).
+- Cap. 17, 01:51:20.000: Cocodrilo enorme y Naór convertida en oveja ([17-016](capitulos/17.md)).
+- Cap. 17, 02:03:00.000: Naór y Triel dentro del cocodrilo, Axi lo mata ([17-017](capitulos/17.md)).
+- Cap. 17, 02:17:20.000: La hidra de la prueba mata a un cuidador y escupe ácido ([17-018](capitulos/17.md)).
+- Cap. 17, 02:25:30.000: Naór derriba al monstruo y Eldrat lo mata para ayudar a su hermana ([17-019](capitulos/17.md)).
+- Cap. 17, 02:35:30.000: Explosión ácida de carta y victoria reconocida ([17-020](capitulos/17.md)).
+- Cap. 17, 02:39:30.000: Botín y promesa de los dirigentes de asistir al concilio ([17-021](capitulos/17.md)).
+- Cap. 17, 02:45:30.000: Trueque leonino y quince monedas a Axi ([17-022](capitulos/17.md)).
+- Cap. 17, 02:51:10.000: Separación: regreso y misión todavía sin Iktan ([17-023](capitulos/17.md)).
+- Cap. 20, 00:03:00.000: La recién llegada golpea al pirata y Triel lo engaña ([20-002](capitulos/20.md)).
+- Cap. 20, 02:00:00.000: Capitán muerto y puerta de piedra golpeada ([20-012](capitulos/20.md)).
+- Cap. 20, 02:21:00.000: Mapa Slaz encontrado en un cofre ([20-014](capitulos/20.md)).
+- Cap. 21, 00:10:00.000: Pirata rescatado y Triel se retira ([21-003](capitulos/21.md)).
+- Cap. 23, 00:00:00.000: La carta de Nox impulsa el rescate ([23-001](capitulos/23.md)).
+- Cap. 31, 00:00:00.000: Coyote vuelve, los gemelos exploran y Naór cría a Leo ([31-001](capitulos/31.md)).
+- Cap. 31, 00:04:00.000: Coyote y Triel arrancan la cola del caimán ([31-002](capitulos/31.md)).
+- Cap. 31, 00:10:00.000: Venta de perlas y tatuaje de Triel ([31-003](capitulos/31.md)).
+- Cap. 31, 00:31:00.000: Grupos confluyen y conflicto territorial ([31-006](capitulos/31.md)).
+- Cap. 31, 00:40:00.000: Tesa se presenta como historiadora y Coyote conoce Iktan ([31-007](capitulos/31.md)).
+- Cap. 31, 00:50:00.000: Siseos complacientes y raíces que atrapan a Coyote ([31-008](capitulos/31.md)).
+- Cap. 31, 01:01:00.000: Tesa exige la kusarigama y dispara a Eldrat ([31-010](capitulos/31.md)).
+- Cap. 31, 01:08:00.000: Ataques mutuos y Tesa inmovilizada temporalmente ([31-011](capitulos/31.md)).
+- Cap. 31, 01:23:00.000: Una voz conoce intimidades y alza a los muertos con plantas ([31-013](capitulos/31.md)).
+- Cap. 31, 01:28:00.000: Combate y encantamiento que no controla a los muertos ([31-014](capitulos/31.md)).
+- Cap. 31, 01:36:00.000: Eldrat reconoce al dragón verde y el ácido daña al grupo ([31-015](capitulos/31.md)).
+- Cap. 31, 01:44:00.000: Tesa protege a Leo y se propone huir ([31-016](capitulos/31.md)).
+- Cap. 31, 02:04:00.000: Leo queda envenenado y los compañeros se cubren ([31-018](capitulos/31.md)).
+- Cap. 31, 02:16:00.000: Leo mata al último zombi y los cuerpos se funden; llegada a Iktan ([31-019](capitulos/31.md)).
+- Cap. 31, 02:21:00.000: Ciudad y ruinas de piedra derretida ([31-020](capitulos/31.md)).
+- Cap. 31, 02:28:00.000: Según los antiguos, un dragón destruyó las casas ([31-021](capitulos/31.md)).
+- Cap. 31, 02:42:00.000: La líder enmascarada exige saber quién guio a los extranjeros ([31-023](capitulos/31.md)).
+- Cap. 31, 02:54:00.000: Gualulu afirma que el dragón revive a los muertos ([31-025](capitulos/31.md)).
+- Cap. 31, 02:58:00.000: Visión de cinco héroes y fragmento tentacular ([31-026](capitulos/31.md)).
+- Cap. 31, 03:10:00.000: Confianza limitada y secreto de ruta ([31-028](capitulos/31.md)).
+
+## Eleanor
+
+- Cap. 32, 00:04:30.000: Eleanor y escudera llegan ([32-002](capitulos/32.md)).
+- Cap. 32, 00:12:00.000: Eleanor reprende mendigo ([32-003](capitulos/32.md)).
+- Cap. 32, 00:22:00.000: Asalto de Marina y muerte del mendigo ([32-006](capitulos/32.md)).
+- Cap. 32, 00:34:00.000: Bola de fuego y defensa de Eleanor ([32-008](capitulos/32.md)).
+- Cap. 32, 00:40:00.000: Curación y rayos de escudera ([32-009](capitulos/32.md)).
+- Cap. 32, 00:48:00.000: Fuego amigo y nuevos refuerzos ([32-010](capitulos/32.md)).
+- Cap. 32, 01:06:00.000: Manifestación oscura de Eleanor ([32-012](capitulos/32.md)).
+- Cap. 32, 01:12:00.000: General aviar y desgaste ([32-013](capitulos/32.md)).
+- Cap. 32, 01:48:00.000: Eleanor cae y es curada ([32-016](capitulos/32.md)).
+- Cap. 32, 02:04:00.000: Trato roto y control de Bonnie ([32-018](capitulos/32.md)).
+- Cap. 32, 02:08:00.000: Recompensas y paradero de Citlali ([32-019](capitulos/32.md)).
+- Cap. 33, 00:04:00.000: Axi despierta sin memoria entre cadáveres ([33-001](capitulos/33.md)).
+- Cap. 33, 00:12:30.000: Reclutamiento y acusación a Eleanor ([33-003](capitulos/33.md)).
+- Cap. 33, 00:22:00.000: Bonnie sostiene ficción cortesana ([33-004](capitulos/33.md)).
+- Cap. 33, 00:40:00.000: Se aclara Aragón y farsa de Titania ([33-007](capitulos/33.md)).
+- Cap. 33, 00:48:00.000: Frutas alteran exploradores ([33-008](capitulos/33.md)).
+- Cap. 33, 01:06:00.000: Eleanor revela expansión territorial ([33-010](capitulos/33.md)).
+- Cap. 33, 01:24:00.000: Margaret muere y Morris despierta ([33-012](capitulos/33.md)).
+- Cap. 33, 01:34:00.000: Ilusión de fuego, furia y primera planta muerta ([33-013](capitulos/33.md)).
+- Cap. 33, 01:50:00.000: Segunda planta vencida y corrección de visión ([33-014](capitulos/33.md)).
+- Cap. 33, 02:06:00.000: Campamento caníbal seda Poncelot ([33-015](capitulos/33.md)).
+- Cap. 33, 02:32:00.000: Hoguera y salida con hipopótamos ([33-019](capitulos/33.md)).
+- Cap. 36, 00:00:00.000: Ione repara el barco y Erandy busca a Eleanor ([36-001](capitulos/36.md)).
+- Cap. 36, 00:13:00.000: Blink conoce a la escudera ([36-003](capitulos/36.md)).
+- Cap. 37, 00:00:00.000: Eleanor investiga y Luna cambia de forma ([37-001](capitulos/37.md)).
+- Cap. 37, 00:08:00.000: Búsqueda de Nox y noticias de la escudera ([37-002](capitulos/37.md)).
+- Cap. 37, 00:16:00.000: La alianza de Eleanor depende del oro ([37-003](capitulos/37.md)).
+- Cap. 37, 00:24:00.000: Emboscada a los suministros con Tlachka al mando ([37-004](capitulos/37.md)).
+- Cap. 37, 00:36:00.000: Comida contra el cansancio y efectos de las frutas ([37-006](capitulos/37.md)).
+- Cap. 37, 00:45:00.000: Preparación de trampas y del glifo Parlamento ([37-007](capitulos/37.md)).
+- Cap. 37, 01:00:00.000: Una trampa captura a un marine y Nox lo mata ([37-008](capitulos/37.md)).
+- Cap. 37, 01:11:00.000: El caballo provoca daños y el glifo paraliza al capitán ([37-009](capitulos/37.md)).
+- Cap. 37, 01:22:00.000: Muere el capitán y un marine huye ([37-010](capitulos/37.md)).
+- Cap. 37, 01:34:00.000: Un tiranosaurio irrumpe y retrocede ante los susurros ([37-011](capitulos/37.md)).
+- Cap. 37, 01:40:00.000: Luna incendia una carreta de suministros ([37-012](capitulos/37.md)).
+- Cap. 37, 01:44:00.000: Huida en la carreta restante ([37-013](capitulos/37.md)).
+- Cap. 37, 01:50:00.000: Explosión y cañonazo contra el dinosaurio ([37-014](capitulos/37.md)).
+- Cap. 37, 01:57:00.000: Entrega de una carreta y recompensas ([37-015](capitulos/37.md)).
+- Cap. 37, 02:14:00.000: Luna roba pólvora y Nox parte hacia el fuerte ([37-018](capitulos/37.md)).
+- Cap. 38, 00:00:00.000: Reencuentro de la escudera y rastreo del licántropo ([38-001](capitulos/38.md)).
+
+## Elger Banana
+
+- Cap. 06, 01:15:20.000: Ione identifica a Elger Banana ([06-018](capitulos/06.md)).
+
+## Erandy
+
+- Cap. 32, 00:04:30.000: Eleanor y escudera llegan ([32-002](capitulos/32.md)).
+- Cap. 32, 00:26:00.000: Patata y escudera despliegan protección ([32-007](capitulos/32.md)).
+- Cap. 32, 00:40:00.000: Curación y rayos de escudera ([32-009](capitulos/32.md)).
+- Cap. 32, 00:54:00.000: Intimidación provoca retirada parcial ([32-011](capitulos/32.md)).
+- Cap. 32, 01:12:00.000: General aviar y desgaste ([32-013](capitulos/32.md)).
+- Cap. 32, 01:48:00.000: Eleanor cae y es curada ([32-016](capitulos/32.md)).
+- Cap. 32, 01:58:00.000: Shiaru resiste invasión ([32-017](capitulos/32.md)).
+- Cap. 32, 02:04:00.000: Trato roto y control de Bonnie ([32-018](capitulos/32.md)).
+- Cap. 32, 02:08:00.000: Recompensas y paradero de Citlali ([32-019](capitulos/32.md)).
+- Cap. 36, 00:00:00.000: Ione repara el barco y Erandy busca a Eleanor ([36-001](capitulos/36.md)).
+- Cap. 36, 00:13:00.000: Blink conoce a la escudera ([36-003](capitulos/36.md)).
+- Cap. 36, 00:27:00.000: Reclutamiento de Blink y Erandy ([36-005](capitulos/36.md)).
+- Cap. 36, 00:36:00.000: Eclipse, frutas y orientación ([36-006](capitulos/36.md)).
+- Cap. 36, 00:54:00.000: Intercambio de cuerpos y ruinas arrasadas ([36-008](capitulos/36.md)).
+- Cap. 36, 01:10:00.000: Cipo se oculta entre las ruinas ([36-009](capitulos/36.md)).
+- Cap. 36, 01:18:00.000: Captura del marine superviviente ([36-010](capitulos/36.md)).
+- Cap. 36, 01:26:00.000: Aparece un tiranosaurio y Poncelot carga ([36-011](capitulos/36.md)).
+- Cap. 36, 01:35:00.000: Ione se transforma y muere el tiranosaurio ([36-012](capitulos/36.md)).
+- Cap. 36, 01:46:00.000: Ione ataca a sus aliados y los intentos de calmarla fallan ([36-013](capitulos/36.md)).
+- Cap. 36, 01:57:00.000: Otro hombre lobo observa y ataca a Blink ([36-014](capitulos/36.md)).
+- Cap. 36, 02:06:00.000: Ione recupera el control e intimida al otro lobo ([36-015](capitulos/36.md)).
+- Cap. 36, 02:12:00.000: Curación del tigre y regreso a la forma humana ([36-016](capitulos/36.md)).
+- Cap. 36, 02:26:00.000: Reparto de recompensas, fiesta y alojamiento ([36-018](capitulos/36.md)).
+- Cap. 37, 00:16:00.000: La alianza de Eleanor depende del oro ([37-003](capitulos/37.md)).
+- Cap. 38, 00:00:00.000: Reencuentro de la escudera y rastreo del licántropo ([38-001](capitulos/38.md)).
+- Cap. 38, 00:06:00.000: Regreso de Ione y hallazgo de un herido en la playa ([38-002](capitulos/38.md)).
+- Cap. 38, 00:12:00.000: La escudera salva a Ilikar ([38-003](capitulos/38.md)).
+- Cap. 38, 00:18:00.000: Duelo amistoso con resultado de empate ([38-004](capitulos/38.md)).
+- Cap. 38, 00:32:00.000: Ilikar se incorpora a la tripulación ([38-005](capitulos/38.md)).
+- Cap. 38, 00:42:00.000: Plan para sacar el barco ([38-006](capitulos/38.md)).
+- Cap. 38, 00:54:00.000: Un pulpo gigante sujeta el barco ([38-007](capitulos/38.md)).
+- Cap. 38, 01:02:00.000: El pulpo agarra a Ione e Ilikar hiere a un tiburón ([38-008](capitulos/38.md)).
+- Cap. 38, 01:21:00.000: El pulpo derriba a los aliados e Ione se transforma ([38-010](capitulos/38.md)).
+- Cap. 38, 01:30:00.000: Ataque montado y liberación de Ilikar ([38-011](capitulos/38.md)).
+- Cap. 38, 01:39:00.000: Muere el pulpo e Ione ataca al tiburón ([38-012](capitulos/38.md)).
+- Cap. 38, 01:58:00.000: El Zampaolas queda desencajado ([38-015](capitulos/38.md)).
+- Cap. 38, 02:04:00.000: Aportación de oro y reparto del cofre ([38-016](capitulos/38.md)).
+- Cap. 38, 02:17:00.000: Ione tranquiliza a Poncelot y se revela la propiedad del cofre ([38-018](capitulos/38.md)).
+
+## Erendriel
+
+- Cap. 01, 00:05:57.000: Familia y viaje del elfo ([01-005](capitulos/01.md)).
+- Cap. 01, 00:08:04.000: Huevo junto al cadáver de un dragón ([01-006](capitulos/01.md)).
+- Cap. 01, 00:16:50.000: Convergencia de los recién llegados ([01-009](capitulos/01.md)).
+- Cap. 01, 00:19:25.000: Corrección sobre la visibilidad del dragoncito ([01-010](capitulos/01.md)).
+- Cap. 01, 01:00:55.000: Reliquia familiar por reparar ([01-018](capitulos/01.md)).
+- Cap. 01, 01:20:44.000: Pistola ornamentada y conocimiento limitado ([01-020](capitulos/01.md)).
+- Cap. 01, 02:12:39.000: Segundo robo y bolsa para Bonnie ([01-029](capitulos/01.md)).
+- Cap. 05, 00:02:05.000: Trampas de pieles y residencia del elfo ([05-002](capitulos/05.md)).
+- Cap. 05, 00:07:40.000: Emblema y procedencia declarada del collar ([05-005](capitulos/05.md)).
+- Cap. 05, 00:14:00.000: Ione se reúne con Nox y ve al cautivo ([05-006](capitulos/05.md)).
+- Cap. 05, 00:17:00.000: Llega un buque y Bonnie aparta a Jack ([05-007](capitulos/05.md)).
+- Cap. 05, 00:29:00.000: Anillo del elfo y discusión sobre el imperio ([05-010](capitulos/05.md)).
+- Cap. 05, 00:31:50.000: Ropa intercambiada y oferta de botín ([05-011](capitulos/05.md)).
+- Cap. 05, 00:38:35.000: Tortugas marinas: nadar ocultos en barriles ([05-013](capitulos/05.md)).
+- Cap. 05, 00:47:35.000: Cubierta vigilada e Ione descubierta ([05-014](capitulos/05.md)).
+- Cap. 05, 01:02:35.000: La distracción permite bajar a los compañeros ([05-017](capitulos/05.md)).
+- Cap. 05, 01:24:00.000: Alimentos, frutas y candados ([05-018](capitulos/05.md)).
+- Cap. 05, 01:38:30.000: Lunaria abre candados con magia ([05-020](capitulos/05.md)).
+- Cap. 05, 01:41:40.000: Armería saqueada y sabotaje ([05-021](capitulos/05.md)).
+- Cap. 05, 01:44:30.000: Reencuentro y curación de Ione ([05-022](capitulos/05.md)).
+- Cap. 05, 01:52:30.000: Carteles y falsa pista de camarote ([05-023](capitulos/05.md)).
+- Cap. 05, 02:03:00.000: Contrato encontrado y nota dejada ([05-024](capitulos/05.md)).
+- Cap. 05, 02:11:00.000: Magia salvaje y nueva herida ([05-026](capitulos/05.md)).
+- Cap. 05, 02:19:45.000: La amenaza de explosión hace bajar las armas ([05-027](capitulos/05.md)).
+- Cap. 05, 02:29:55.000: Fuego ilusorio y salida del grupo ([05-028](capitulos/05.md)).
+- Cap. 05, 02:36:00.000: La vela lanzada provoca un incendio real ([05-029](capitulos/05.md)).
+- Cap. 05, 02:45:30.000: Lunaria revela la vela y Bonnie impone consecuencias ([05-031](capitulos/05.md)).
+- Cap. 05, 02:52:20.000: Persiguen al visitante y Nox se interesa por los mapas ([05-033](capitulos/05.md)).
+- Cap. 07, 00:04:35.000: Actividad de Lunaria y Erendriel ([07-003](capitulos/07.md)).
+- Cap. 07, 00:22:00.000: Se reúne el grupo con el dragón vivo ([07-007](capitulos/07.md)).
+- Cap. 07, 00:30:00.000: Nox se presenta como Jim Hawkins ([07-009](capitulos/07.md)).
+- Cap. 07, 00:35:35.000: Duelo sin heridas y Mamá intenta detenerlo ([07-010](capitulos/07.md)).
+- Cap. 07, 00:42:00.000: Frutas de la expedición ([07-011](capitulos/07.md)).
+- Cap. 07, 00:47:00.000: Puente, nido y huellas ausentes ([07-012](capitulos/07.md)).
+- Cap. 07, 01:06:20.000: Mamá derriba al capitán y el elfo vuela ([07-015](capitulos/07.md)).
+- Cap. 07, 01:25:20.000: La criatura voladora derriba a Erendriel ([07-017](capitulos/07.md)).
+- Cap. 07, 01:30:10.000: Mapa, siete monedas y rescate del elfo ([07-018](capitulos/07.md)).
+- Cap. 07, 01:34:20.000: El dragón cae, pero no muere ([07-019](capitulos/07.md)).
+- Cap. 07, 01:44:00.000: Criatura y piratas derrotados, una huye ([07-021](capitulos/07.md)).
+- Cap. 07, 01:50:15.000: Cautivo atado, plumas y anatomía ([07-022](capitulos/07.md)).
+- Cap. 07, 02:06:45.000: Perla y copia de escrituras desconocidas ([07-026](capitulos/07.md)).
+- Cap. 07, 02:14:15.000: Cría, venta y huida por un ruido ([07-027](capitulos/07.md)).
+- Cap. 07, 02:18:45.000: El ruido era Cipo, revelación al espectador ([07-028](capitulos/07.md)).
+- Cap. 07, 02:26:00.000: Mapas de la Marina y alojamiento negociado ([07-030](capitulos/07.md)).
+- Cap. 07, 02:30:00.000: Mamá prepara la crianza y Patata compra un hacha ([07-031](capitulos/07.md)).
+- Cap. 07, 02:46:10.000: Lunaria gana la apuesta y Patata corta árboles ([07-034](capitulos/07.md)).
+- Cap. 08, 00:04:00.000: Kilzer y el elfo pasan por el hospital ([08-003](capitulos/08.md)).
+- Cap. 08, 00:16:00.000: El elfo rechaza la amputación propuesta por el médico ([08-006](capitulos/08.md)).
+- Cap. 08, 00:19:50.000: El elfo utiliza el nombre Salazor ([08-007](capitulos/08.md)).
+- Cap. 08, 00:28:30.000: Deciden investigar; referencias al plano feérico ([08-011](capitulos/08.md)).
+- Cap. 08, 00:35:30.000: Encuentran a Ayoto y un cadáver ([08-012](capitulos/08.md)).
+- Cap. 08, 00:47:20.000: El loro roba una bolsa y Blink finge ser el dios Sol ([08-014](capitulos/08.md)).
+- Cap. 08, 01:04:00.000: Emboscada de cinco panteras derrotada ([08-017](capitulos/08.md)).
+- Cap. 08, 01:29:40.000: Curación y objetos de los cadáveres ([08-019](capitulos/08.md)).
+- Cap. 08, 01:34:20.000: Templo asociado a una civilización de nawals ([08-020](capitulos/08.md)).
+- Cap. 08, 01:40:20.000: Interior con diario en Terran y muerto colgado ([08-021](capitulos/08.md)).
+- Cap. 08, 01:46:20.000: Una figura se transforma en pantera bípeda y ataca ([08-022](capitulos/08.md)).
+- Cap. 08, 01:51:20.000: El combate termina con la muerte de la criatura y su reversión a mujer ([08-023](capitulos/08.md)).
+- Cap. 08, 02:06:20.000: Libro, mortero y cuerpo para consulta posterior ([08-024](capitulos/08.md)).
+- Cap. 08, 02:12:40.000: Descanso de ocho horas y vuelta nocturna ([08-025](capitulos/08.md)).
+- Cap. 08, 02:23:50.000: Pantera al pozo, loro huido y espada rota ([08-027](capitulos/08.md)).
+- Cap. 10, 00:02:45.000: El elfo estudia el diario sin entenderlo ([10-002](capitulos/10.md)).
+- Cap. 10, 00:08:30.000: Pix desaparece tras tirar basura al agua ([10-005](capitulos/10.md)).
+- Cap. 10, 00:11:25.000: Blink conoce la desaparición por el relato del elfo ([10-006](capitulos/10.md)).
+- Cap. 10, 00:18:00.000: Bonnie impone el rescate de Pix vivo ([10-008](capitulos/10.md)).
+- Cap. 10, 00:22:20.000: Expedición en barca hasta Ruki Peten ([10-009](capitulos/10.md)).
+- Cap. 10, 00:30:00.000: Objeto del capítulo 8 aclarado como pergamino de truco ([10-011](capitulos/10.md)).
+- Cap. 10, 00:34:15.000: Dos cocodrilos muertos y diente para Axi ([10-012](capitulos/10.md)).
+- Cap. 10, 00:41:15.000: Blink obtiene el mondadientes y el elfo es capturado ([10-013](capitulos/10.md)).
+- Cap. 10, 00:54:30.000: Patata combate al frente y llegan refuerzos ([10-016](capitulos/10.md)).
+- Cap. 10, 01:14:30.000: El elfo se desata, pero sigue encerrado ([10-017](capitulos/10.md)).
+- Cap. 10, 01:27:00.000: Jaula del elfo cerrada y armas retiradas ([10-018](capitulos/10.md)).
+- Cap. 10, 01:41:00.000: Calmar emociones no afecta a los cocodrilos y el elfo escapa ([10-020](capitulos/10.md)).
+- Cap. 10, 01:50:30.000: Una curación de los espectadores levanta a Axi y el dragón huye ([10-021](capitulos/10.md)).
+- Cap. 10, 02:01:30.000: Axi vuelve a caer ante el martillo y Blink intenta ayudar ([10-022](capitulos/10.md)).
+- Cap. 10, 02:27:30.000: Ayoto y el elfo regresan sin sus compañeros ni Pix ([10-024](capitulos/10.md)).
+- Cap. 10, 02:31:00.000: Ayoto informa del fracaso a Bonnie ([10-025](capitulos/10.md)).
+- Cap. 10, 02:34:40.000: Bonnie exige una nueva expedición y mata a un pirata como ejemplo ([10-026](capitulos/10.md)).
+- Cap. 11, 00:49:15.000: Nox ofrece un negocio y resume el informe del elfo ([11-012](capitulos/11.md)).
+- Cap. 12, 00:05:00.000: El elfo recibe apoyo de Nox y relata su entrevista con Bonnie ([12-003](capitulos/12.md)).
+- Cap. 12, 00:08:00.000: Libro entregado por el elfo, oreja perdida y plazo de Bonnie ([12-004](capitulos/12.md)).
+- Cap. 12, 00:15:20.000: Pix tiene el mondadientes de Blink ([12-005](capitulos/12.md)).
+- Cap. 12, 00:20:30.000: El elfo ofrece ocho monedas y Nox recuerda el diez por ciento ([12-006](capitulos/12.md)).
+- Cap. 12, 00:24:15.000: Jack debe ir a Puerto de Espadas y volver con ganancias ([12-007](capitulos/12.md)).
+- Cap. 12, 00:26:55.000: Contenido e identificación del diario del nawal ([12-008](capitulos/12.md)).
+- Cap. 12, 00:31:45.000: Blink guía hacia un campamento que recuerda al sur de su árbol ([12-010](capitulos/12.md)).
+- Cap. 12, 00:36:25.000: Arco comprado y palabra papaya para cambios de Ione ([12-011](capitulos/12.md)).
+- Cap. 12, 00:41:00.000: Frutas dan curación, elasticidad y caída lenta ([12-012](capitulos/12.md)).
+- Cap. 12, 00:48:30.000: Ione equipa a Axi, que fabrica un arco imperfecto ([12-014](capitulos/12.md)).
+- Cap. 12, 00:52:30.000: Se infiltran entre ruinas mientras Pinky distrae ([12-015](capitulos/12.md)).
+- Cap. 12, 01:19:00.000: Guardia reducido por Ione y Blink; otros no ven todo ([12-018](capitulos/12.md)).
+- Cap. 12, 01:59:30.000: El elfo utiliza las coberturas y Nox el libro con el glifo ([12-022](capitulos/12.md)).
+- Cap. 12, 02:24:00.000: Blink abre la jaula del hombre tigre y deja encerrado al preso feroz ([12-025](capitulos/12.md)).
+- Cap. 12, 02:46:00.000: Ione devuelve una bala y Nox deja al capitán vivo e inconsciente ([12-027](capitulos/12.md)).
+- Cap. 12, 02:56:10.000: Últimos enemigos abatidos y mujer auxiliada ([12-028](capitulos/12.md)).
+- Cap. 12, 03:08:30.000: Blink toma una perla y el elfo registra los cuerpos ([12-031](capitulos/12.md)).
+- Cap. 12, 03:10:00.000: El capitán queda con una carta y no es interrogado ([12-032](capitulos/12.md)).
+- Cap. 15, 00:03:20.000: Triel quiere ser capitana y el elfo prepara el envío de Jack ([15-002](capitulos/15.md)).
+- Cap. 15, 00:18:40.000: El grupo se reúne y Axi compra flechas y armadura ([15-005](capitulos/15.md)).
+- Cap. 15, 00:31:00.000: La espada de Triel tiene escamas de dragón azul ([15-006](capitulos/15.md)).
+- Cap. 15, 00:44:20.000: Frutas: obligación de decir la verdad, inmunidad a las armas y resistencias ([15-008](capitulos/15.md)).
+- Cap. 15, 01:08:15.000: Un cebo permite eliminar a un defensor y el dragón alerta al otro flanco ([15-011](capitulos/15.md)).
+- Cap. 15, 01:19:40.000: Crecimiento espinoso y Espíritus guardianes ([15-012](capitulos/15.md)).
+- Cap. 15, 01:28:20.000: Defensores y dinosaurios presionan a Patata ([15-013](capitulos/15.md)).
+- Cap. 15, 01:44:00.000: Kilzer es derribado y curado antes de auxiliar a Patata ([15-014](capitulos/15.md)).
+- Cap. 15, 02:00:00.000: Refuerzos y jefe; Axi inmune pero envenenado ([15-015](capitulos/15.md)).
+- Cap. 15, 02:31:10.000: El rival se levanta y Eldrat lo remata ([15-017](capitulos/15.md)).
+- Cap. 15, 02:46:20.000: Tatuajes copiados, miasma y pociones en un hoyo ([15-019](capitulos/15.md)).
+- Cap. 15, 02:54:30.000: Bonnie retiene al elfo por envío tardío ([15-021](capitulos/15.md)).
+- Cap. 15, 02:56:30.000: Treinta monedas repartidas entre cuatro; el dragón busca a la abuela ([15-022](capitulos/15.md)).
+- Cap. 16, 00:02:20.000: Muerte del elfo referida y búsqueda de templo ([16-002](capitulos/16.md)).
+- Cap. 16, 00:10:25.000: Conservación del cuerpo del elfo pese al deseo de enterrarlo ([16-004](capitulos/16.md)).
+- Cap. 17, 00:04:35.000: Axi contratado para detectar tramposos ([17-002](capitulos/17.md)).
+- Cap. 29, 00:09:00.000: El cadáver del elfo cae y el tigre se lo lleva ([29-003](capitulos/29.md)).
+- Cap. 34, 00:30:00.000: Origen del huevo y barrido mental ([34-005](capitulos/34.md)).
+
+## Eromov
+
+- Cap. 16, 01:50:20.000: Eromov ofrece hospitalidad y reconoce a Naór ([16-015](capitulos/16.md)).
+- Cap. 16, 01:58:10.000: Aceptación del concilio de Tutucan condicionada a los problemas locales ([16-016](capitulos/16.md)).
+- Cap. 16, 02:02:20.000: Taberna tranquila, encargo fucsia y campeón del sol ([16-017](capitulos/16.md)).
+- Cap. 18, 00:32:00.000: Eromov ordena una búsqueda por una noticia confusa ([18-006](capitulos/18.md)).
+- Cap. 18, 00:36:00.000: Encargo de investigar yuan-ti ([18-007](capitulos/18.md)).
+- Cap. 18, 02:38:00.000: Prueba y recompensas en Cuicapalli ([18-020](capitulos/18.md)).
+- Cap. 18, 02:43:00.000: Reunión contemplada y sombra final ([18-021](capitulos/18.md)).
+- Cap. 19, 00:07:00.000: Leona castigada por agresividad ([19-002](capitulos/19.md)).
+- Cap. 19, 00:15:00.000: Investigar muertes de dinosaurios ([19-003](capitulos/19.md)).
+- Cap. 19, 02:02:00.000: Informe, collar y eruditos de otras ciudades ([19-016](capitulos/19.md)).
+- Cap. 19, 02:10:00.000: Encargo de entrenar a Leona y cena descartada ([19-017](capitulos/19.md)).
+- Cap. 21, 02:35:00.000: Leona curada y destinos separados ([21-016](capitulos/21.md)).
+- Cap. 22, 00:53:00.000: Ayoto gana el banquete y un caparazón ([22-006](capitulos/22.md)).
+- Cap. 22, 02:57:00.000: Pinky quema a un enemigo y Ayoto lo remata ([22-017](capitulos/22.md)).
+- Cap. 22, 03:07:00.000: Blink en peligro y arco venenoso ([22-018](capitulos/22.md)).
+- Cap. 22, 03:15:00.000: Antigua enemistad y concilio pendiente ([22-020](capitulos/22.md)).
+- Cap. 30, 00:05:00.000: Winscore admitido bajo responsabilidad de Luna ([30-002](capitulos/30.md)).
+- Cap. 30, 00:12:00.000: Luna es admitida como chamán e interfiere en el trabajo de Parroter ([30-003](capitulos/30.md)).
+- Cap. 30, 00:19:00.000: Marcas verdes y veneno similar al de las serpientes ([30-004](capitulos/30.md)).
+- Cap. 30, 00:26:00.000: Envenenamiento por ingestión tras una reunión ([30-005](capitulos/30.md)).
+- Cap. 30, 00:27:00.000: Autor del veneno todavía sin confesión ([30-006](capitulos/30.md)).
+- Cap. 30, 00:31:00.000: Hoja Caída y encargo de mediación ([30-007](capitulos/30.md)).
+- Cap. 30, 00:46:00.000: Recepción de la Hoja Caída y cambio de una pupila ([30-009](capitulos/30.md)).
+- Cap. 30, 02:04:00.000: Eromov envía a Parroter a investigar una cura ([30-020](capitulos/30.md)).
+- Cap. 30, 02:12:00.000: Descanso y reflexión de Luna sobre el exceso de fuego ([30-022](capitulos/30.md)).
+
+## Espada azul de escamas de Triel
+
+- Cap. 14, 00:03:15.000: Cocodrilo alimentado y panteras derrotadas por los hermanos ([14-002](capitulos/14.md)).
+- Cap. 15, 00:31:00.000: La espada de Triel tiene escamas de dragón azul ([15-006](capitulos/15.md)).
+
+## Etley
+
+- Cap. 34, 02:32:00.000: Eclosiona bebé dinosaurio ([34-018](capitulos/34.md)).
+- Cap. 34, 02:36:00.000: Cría mata y come capitán perseguidor ([34-019](capitulos/34.md)).
+- Cap. 34, 02:39:00.000: Rumbo Cuicapalli con cría ([34-020](capitulos/34.md)).
+- Cap. 39, 00:00:00.000: Regreso de Ayoto y crianza de Etley ([39-001](capitulos/39.md)).
+- Cap. 39, 00:04:00.000: Cueva refugio y recuerdo incierto de Nox ([39-002](capitulos/39.md)).
+- Cap. 39, 00:16:00.000: Los hombres serpiente amenazan a Etley ([39-004](capitulos/39.md)).
+- Cap. 39, 00:24:00.000: Dos hombres serpiente y una abominación ([39-005](capitulos/39.md)).
+- Cap. 39, 00:42:00.000: Continúa el combate y la cría se acerca lentamente ([39-007](capitulos/39.md)).
+- Cap. 39, 00:52:00.000: Mueren la abominación y el último guardia ([39-009](capitulos/39.md)).
+- Cap. 39, 01:13:00.000: La segunda bola de fuego derrumba la cueva ([39-011](capitulos/39.md)).
+- Cap. 39, 01:20:00.000: Citlali y Etley siguen vivos mientras comienza la excavación ([39-012](capitulos/39.md)).
+- Cap. 39, 01:27:00.000: Los guardias ayudan a rescatar a Citlali y Etley ([39-013](capitulos/39.md)).
+- Cap. 39, 01:34:00.000: Citlali drena a Tlachka y el grupo marcha al norte ([39-014](capitulos/39.md)).
+- Cap. 39, 01:55:00.000: Iktan admite y cura a los viajeros ([39-017](capitulos/39.md)).
+- Cap. 39, 02:12:00.000: Descanso en Iktan y expulsión de Coyote ([39-020](capitulos/39.md)).
+
+## Forja del Águila de Sangre
+
+- Cap. 16, 02:10:40.000: Comercios de Cuicapalli y tatuajes ([16-018](capitulos/16.md)).
+- Cap. 30, 02:08:00.000: Winscore compra escudo más uno ([30-021](capitulos/30.md)).
+
+## Fred
+
+- Cap. 11, 01:15:00.000: Camuflaje, cautivos vistos y lengua comprendida ([11-016](capitulos/11.md)).
+
+## Fuerte Aurora
+
+- Cap. 07, 00:35:35.000: Duelo sin heridas y Mamá intenta detenerlo ([07-010](capitulos/07.md)).
+- Cap. 07, 02:26:00.000: Mapas de la Marina y alojamiento negociado ([07-030](capitulos/07.md)).
+- Cap. 12, 00:00:00.000: Recuperación de Blink e inquietud de Nox por el fortín ([12-001](capitulos/12.md)).
+- Cap. 12, 00:28:50.000: Jack informa de Fuerte Aurora; Nox busca tres compañeros ([12-009](capitulos/12.md)).
+- Cap. 12, 01:07:15.000: Nox se hace pasar por Jack Jackson ante el capitán ([12-016](capitulos/12.md)).
+- Cap. 23, 00:33:00.000: Jack regresa y Nox está encadenado ([23-004](capitulos/23.md)).
+- Cap. 26, 00:28:20.000: Expedición hacia el sur pese a que el mapa indica otra dirección ([26-008](capitulos/26.md)).
+- Cap. 28, 01:50:00.000: Bonnie declara una alianza con Molly para proteger la isla ([28-020](capitulos/28.md)).
+- Cap. 35, 00:30:00.000: Moneda antigua y búsqueda Molly ([35-005](capitulos/35.md)).
+- Cap. 35, 00:40:00.000: Uniforme Jack y viaje al fuerte ([35-006](capitulos/35.md)).
+- Cap. 35, 00:53:00.000: Mercader, distracción y entrada submarina ([35-007](capitulos/35.md)).
+- Cap. 35, 01:08:00.000: Smith admite viajeros y Nox interroga guardia ([35-008](capitulos/35.md)).
+- Cap. 35, 01:33:00.000: Explosión de pólvora y torre infiltrada ([35-011](capitulos/35.md)).
+- Cap. 35, 01:44:00.000: Nox libera Molly y Pinky ([35-012](capitulos/35.md)).
+- Cap. 37, 02:14:00.000: Luna roba pólvora y Nox parte hacia el fuerte ([37-018](capitulos/37.md)).
+
+## Gemas del collar antiguo
+
+- Cap. 04, 02:13:00.000: Patata paga con una gema ([04-030](capitulos/04.md)).
+- Cap. 06, 00:06:55.000: Bonnie localiza una gema y exige las demás ([06-004](capitulos/06.md)).
+- Cap. 06, 00:14:00.000: Gema de Liz y suministro del poblado ([06-007](capitulos/06.md)).
+- Cap. 07, 00:26:00.000: Nox descubre quién repartió las gemas ([07-008](capitulos/07.md)).
+- Cap. 07, 02:22:00.000: Patata explica el reparto de las gemas y pide protección ([07-029](capitulos/07.md)).
+- Cap. 09, 02:47:40.000: El director aclara el tributo y los tatuajes siguen sin interpretar ([09-031](capitulos/09.md)).
+- Cap. 09, 02:51:30.000: Ione vende obsidiana y compra ropa a Nox ([09-032](capitulos/09.md)).
+- Cap. 10, 00:14:10.000: Bonnie amenaza a Patata por la gema utilizada para pagar alojamiento ([10-007](capitulos/10.md)).
+- Cap. 11, 02:56:30.000: Nox roba obsidiana a Kilzer ([11-028](capitulos/11.md)).
+- Cap. 11, 03:01:30.000: Bonnie ve a Nox invisible y recupera moneda y gema ([11-029](capitulos/11.md)).
+- Cap. 11, 03:14:40.000: Gema de Liz obtenida por inspiración; recuento ambiguo ([11-032](capitulos/11.md)).
+
+## Gobs
+
+- Cap. 08, 00:16:00.000: El elfo rechaza la amputación propuesta por el médico ([08-006](capitulos/08.md)).
+- Cap. 08, 00:25:50.000: Tlachka entrega al herido a Gobs ([08-010](capitulos/08.md)).
+- Cap. 09, 02:58:10.000: Ventas finales, pociones y herramientas; Mamá se retira ([09-033](capitulos/09.md)).
+- Cap. 10, 00:02:45.000: El elfo estudia el diario sin entenderlo ([10-002](capitulos/10.md)).
+- Cap. 11, 03:06:00.000: Pago discutido y traslado de los heridos al médico ([11-030](capitulos/11.md)).
+- Cap. 24, 02:40:00.000: Camarotes llenos y el médico prepara máquinas ([24-021](capitulos/24.md)).
+- Cap. 26, 00:00:00.000: Compra de armadura y suplantación de Ione por Coyote ([26-001](capitulos/26.md)).
+- Cap. 26, 00:06:00.000: Ione sale de la consulta y niega haber recibido el informe ([26-003](capitulos/26.md)).
+
+## Granja de Patata
+
+- Cap. 15, 00:07:00.000: Granja de Patata y dos piratas arrastrados ([15-003](capitulos/15.md)).
+- Cap. 15, 00:36:00.000: Diosa de Patata y rastros hacia el sur ([15-007](capitulos/15.md)).
+- Cap. 16, 00:00:00.000: Mapa de la Marina perdido y Patata Hammer ([16-001](capitulos/16.md)).
+
+## Guayacán
+
+- Cap. 22, 00:16:00.000: Festival y Guayacán presentado ([22-002](capitulos/22.md)).
+- Cap. 22, 00:26:00.000: Choque con Pinky y luces colocadas ([22-003](capitulos/22.md)).
+- Cap. 22, 00:40:00.000: Axi llega y Guayacán come fresas ([22-005](capitulos/22.md)).
+- Cap. 22, 01:03:00.000: Frutas del festival ([22-007](capitulos/22.md)).
+- Cap. 22, 01:07:00.000: Guayacán gana una carrera con sabotajes ([22-008](capitulos/22.md)).
+- Cap. 22, 01:20:00.000: Mamá identifica dos sospechosas y vigila ([22-009](capitulos/22.md)).
+- Cap. 22, 01:32:00.000: Axi deja de seguir a la infiltrada y Mamá resiste ([22-010](capitulos/22.md)).
+- Cap. 22, 01:43:00.000: Disfraz revelado y primer infiltrado muerto ([22-011](capitulos/22.md)).
+- Cap. 22, 02:00:00.000: El jefe exige el collar y Mamá provoca miedo ([22-013](capitulos/22.md)).
+- Cap. 22, 02:15:00.000: Reagrupación y conjuro contra Mamá ([22-014](capitulos/22.md)).
+- Cap. 22, 02:28:00.000: La explosión del jefe causa veneno ([22-015](capitulos/22.md)).
+- Cap. 22, 02:42:00.000: Axi mata a una arquera y continúa la defensa ([22-016](capitulos/22.md)).
+- Cap. 22, 02:57:00.000: Pinky quema a un enemigo y Ayoto lo remata ([22-017](capitulos/22.md)).
+- Cap. 22, 03:07:00.000: Blink en peligro y arco venenoso ([22-018](capitulos/22.md)).
+- Cap. 22, 03:11:00.000: Guayacán alucina aves por chocolate ([22-019](capitulos/22.md)).
+- Cap. 27, 00:00:00.000: Descanso y preparación tras ataque a Cuicapalli ([27-001](capitulos/27.md)).
+- Cap. 27, 00:08:00.000: Tlachka entra sin reconocimiento y comparten ataques ([27-003](capitulos/27.md)).
+- Cap. 27, 00:11:00.000: Sacrificio de Tlachka y presentación de Guayacán ([27-004](capitulos/27.md)).
+- Cap. 27, 00:20:00.000: Las alarmas señalan a los hombres azules del sur ([27-005](capitulos/27.md)).
+- Cap. 27, 00:26:00.000: Primeras trampas y Axi atrapado por un cocodrilo ([27-006](capitulos/27.md)).
+- Cap. 27, 00:33:00.000: Muerte del cocodrilo después de liberar a Axi ([27-007](capitulos/27.md)).
+- Cap. 27, 00:45:00.000: Tronco, cocos, pinchos y flechas improvisadas ([27-008](capitulos/27.md)).
+- Cap. 27, 01:04:00.000: Frutas resbaladizas y salto fallido al río ([27-010](capitulos/27.md)).
+- Cap. 27, 01:14:00.000: Ayoto descubierto y primera oleada ([27-011](capitulos/27.md)).
+- Cap. 27, 01:26:00.000: Tlachka sale oculto y Cipo combate ([27-012](capitulos/27.md)).
+- Cap. 27, 01:40:00.000: Refuerzos llegan y repliegue propuesto ([27-013](capitulos/27.md)).
+- Cap. 27, 02:00:00.000: Guayacán cae y los babuinos intervienen ([27-015](capitulos/27.md)).
+- Cap. 27, 02:10:00.000: Espíritu volador y cocos contra el jefe ([27-016](capitulos/27.md)).
+- Cap. 27, 02:18:00.000: Curación de Guayacán y recuperación de seis flechas ([27-017](capitulos/27.md)).
+- Cap. 27, 02:30:00.000: Babuino muerto y jefe rodeado ([27-018](capitulos/27.md)).
+- Cap. 27, 02:39:00.000: Ataque del sur repelido y botín limitado ([27-019](capitulos/27.md)).
+- Cap. 27, 02:44:00.000: Regreso herido y traje de Guayacán deteriorado ([27-020](capitulos/27.md)).
+- Cap. 27, 02:49:00.000: Dientes humanos visibles y taburete mágico ([27-021](capitulos/27.md)).
+- Cap. 30, 00:00:00.000: Leona harengon, Guayacán y Winscore en camino ([30-001](capitulos/30.md)).
+- Cap. 30, 00:12:00.000: Luna es admitida como chamán e interfiere en el trabajo de Parroter ([30-003](capitulos/30.md)).
+- Cap. 30, 00:26:00.000: Envenenamiento por ingestión tras una reunión ([30-005](capitulos/30.md)).
+- Cap. 30, 00:27:00.000: Autor del veneno todavía sin confesión ([30-006](capitulos/30.md)).
+- Cap. 30, 00:31:00.000: Hoja Caída y encargo de mediación ([30-007](capitulos/30.md)).
+- Cap. 30, 00:37:00.000: Frutas y ruinas con monos antes de la cueva ([30-008](capitulos/30.md)).
+- Cap. 30, 00:46:00.000: Recepción de la Hoja Caída y cambio de una pupila ([30-009](capitulos/30.md)).
+- Cap. 30, 00:54:00.000: Charcas venenosas conectadas y muestra tomada ([30-010](capitulos/30.md)).
+- Cap. 30, 01:03:00.000: Mujer disfrazada muere sin captura ([30-011](capitulos/30.md)).
+- Cap. 30, 01:08:00.000: Mujer del caldero capturada inicialmente ([30-012](capitulos/30.md)).
+- Cap. 30, 01:18:00.000: Guayacán inmoviliza a la mujer y recibe terror psíquico ([30-013](capitulos/30.md)).
+- Cap. 30, 01:27:00.000: Bola de fuego y grupo paralizado ([30-014](capitulos/30.md)).
+- Cap. 30, 01:37:00.000: La segunda explosión mata a la mujer y Luna cura al monje ([30-015](capitulos/30.md)).
+- Cap. 30, 01:41:00.000: Criaturas de charcas muertas y victoria ([30-016](capitulos/30.md)).
+- Cap. 30, 01:54:00.000: Cabezas para hablar con los muertos y evacuación por el humo ([30-018](capitulos/30.md)).
+- Cap. 30, 02:12:00.000: Descanso y reflexión de Luna sobre el exceso de fuego ([30-022](capitulos/30.md)).
+
+## Gustavo
+
+- Cap. 02, 00:06:15.000: Tripulación y enfado de Bonnie ([02-004](capitulos/02.md)).
+- Cap. 09, 00:26:30.000: El joven cambia el mapa robado por el mapa de Nox ([09-009](capitulos/09.md)).
+- Cap. 38, 01:46:00.000: Los antiguos tripulantes llegan después del combate ([38-013](capitulos/38.md)).
+
+## Hospital de Shiaru
+
+- Cap. 08, 00:04:00.000: Kilzer y el elfo pasan por el hospital ([08-003](capitulos/08.md)).
+- Cap. 08, 00:16:00.000: El elfo rechaza la amputación propuesta por el médico ([08-006](capitulos/08.md)).
+- Cap. 24, 02:40:00.000: Camarotes llenos y el médico prepara máquinas ([24-021](capitulos/24.md)).
+
+## Humo del Paso de los Muertos
+
+- Cap. 16, 02:10:40.000: Comercios de Cuicapalli y tatuajes ([16-018](capitulos/16.md)).
+
+## Iktan
+
+- Cap. 01, 00:09:23.000: Historia de Mamá y sus hijos adoptivos ([01-007](capitulos/01.md)).
+- Cap. 17, 00:12:50.000: Naór, perdida en Ruki Peten, caza un cocodrilo ([17-004](capitulos/17.md)).
+- Cap. 17, 02:51:10.000: Separación: regreso y misión todavía sin Iktan ([17-023](capitulos/17.md)).
+- Cap. 19, 02:02:00.000: Informe, collar y eruditos de otras ciudades ([19-016](capitulos/19.md)).
+- Cap. 20, 00:00:00.000: Equipo reparado y camino a Iktan ([20-001](capitulos/20.md)).
+- Cap. 31, 00:24:00.000: Naór, princesa de Atlan, y el objetivo de llegar a Iktan ([31-005](capitulos/31.md)).
+- Cap. 31, 00:40:00.000: Tesa se presenta como historiadora y Coyote conoce Iktan ([31-007](capitulos/31.md)).
+- Cap. 31, 02:16:00.000: Leo mata al último zombi y los cuerpos se funden; llegada a Iktan ([31-019](capitulos/31.md)).
+- Cap. 31, 02:21:00.000: Ciudad y ruinas de piedra derretida ([31-020](capitulos/31.md)).
+- Cap. 31, 02:28:00.000: Según los antiguos, un dragón destruyó las casas ([31-021](capitulos/31.md)).
+- Cap. 31, 02:42:00.000: La líder enmascarada exige saber quién guio a los extranjeros ([31-023](capitulos/31.md)).
+- Cap. 31, 02:49:00.000: Gualulu, amiga de la infancia de Naór, y la muerte de su padre ([31-024](capitulos/31.md)).
+- Cap. 31, 03:10:00.000: Confianza limitada y secreto de ruta ([31-028](capitulos/31.md)).
+- Cap. 39, 01:55:00.000: Iktan admite y cura a los viajeros ([39-017](capitulos/39.md)).
+- Cap. 39, 02:04:00.000: Hospitalidad de la ciudad oculta y una elfa enferma ([39-018](capitulos/39.md)).
+- Cap. 39, 02:12:00.000: Descanso en Iktan y expulsión de Coyote ([39-020](capitulos/39.md)).
+
+## Ilikar
+
+- Cap. 38, 00:06:00.000: Regreso de Ione y hallazgo de un herido en la playa ([38-002](capitulos/38.md)).
+- Cap. 38, 00:12:00.000: La escudera salva a Ilikar ([38-003](capitulos/38.md)).
+- Cap. 38, 00:18:00.000: Duelo amistoso con resultado de empate ([38-004](capitulos/38.md)).
+- Cap. 38, 00:32:00.000: Ilikar se incorpora a la tripulación ([38-005](capitulos/38.md)).
+- Cap. 38, 00:42:00.000: Plan para sacar el barco ([38-006](capitulos/38.md)).
+- Cap. 38, 00:54:00.000: Un pulpo gigante sujeta el barco ([38-007](capitulos/38.md)).
+- Cap. 38, 01:02:00.000: El pulpo agarra a Ione e Ilikar hiere a un tiburón ([38-008](capitulos/38.md)).
+- Cap. 38, 01:12:00.000: Poncelot calma y cura al tiburón ([38-009](capitulos/38.md)).
+- Cap. 38, 01:21:00.000: El pulpo derriba a los aliados e Ione se transforma ([38-010](capitulos/38.md)).
+- Cap. 38, 01:30:00.000: Ataque montado y liberación de Ilikar ([38-011](capitulos/38.md)).
+- Cap. 38, 01:46:00.000: Los antiguos tripulantes llegan después del combate ([38-013](capitulos/38.md)).
+- Cap. 38, 01:51:00.000: Mordedura ritual de Ione a Ilikar ([38-014](capitulos/38.md)).
+- Cap. 38, 01:58:00.000: El Zampaolas queda desencajado ([38-015](capitulos/38.md)).
+- Cap. 38, 02:04:00.000: Aportación de oro y reparto del cofre ([38-016](capitulos/38.md)).
+- Cap. 38, 02:12:00.000: Significado de la mordedura y decepción de Ilikar ([38-017](capitulos/38.md)).
+- Cap. 38, 02:17:00.000: Ione tranquiliza a Poncelot y se revela la propiedad del cofre ([38-018](capitulos/38.md)).
+
+## Ione
+
+- Cap. 01, 00:12:32.000: Accidente del barco pirata ([01-008](capitulos/01.md)).
+- Cap. 01, 00:31:03.000: Deuda y servicio para Bonnie ([01-011](capitulos/01.md)).
+- Cap. 01, 00:34:51.000: Encargo de obtener dinero de los visitantes ([01-012](capitulos/01.md)).
+- Cap. 01, 01:14:52.000: Petición privada de cadenas ([01-019](capitulos/01.md)).
+- Cap. 01, 01:30:03.000: Incidente con la criatura ígnea ([01-022](capitulos/01.md)).
+- Cap. 01, 01:45:27.000: Mamá hace salir a la criatura ([01-023](capitulos/01.md)).
+- Cap. 01, 02:09:17.000: Pequeño reptil de Mamá ([01-028](capitulos/01.md)).
+- Cap. 01, 02:14:29.000: Servicio de meses, desfase temporal ([01-030](capitulos/01.md)).
+- Cap. 01, 02:17:12.000: Pinky vende hierbas a Ione ([01-031](capitulos/01.md)).
+- Cap. 01, 02:28:18.000: Luna llena, cadenas y salto al mar ([01-034](capitulos/01.md)).
+- Cap. 02, 00:00:00.000: Recapitulación de la noche anterior ([02-001](capitulos/02.md)).
+- Cap. 02, 00:04:20.000: Camarote vacío y cadenas rotas ([02-003](capitulos/02.md)).
+- Cap. 02, 00:12:00.000: Nox contrata ayuda para buscar a Ione ([02-005](capitulos/02.md)).
+- Cap. 02, 00:24:20.000: Hallazgo y despertar de Ione ([02-007](capitulos/02.md)).
+- Cap. 02, 00:31:40.000: Comida a cambio de regresar al poblado ([02-008](capitulos/02.md)).
+- Cap. 02, 00:36:00.000: Mono con el sombrero de la capitana ([02-009](capitulos/02.md)).
+- Cap. 02, 00:44:00.000: Reencuentro y tensión con los nativos ([02-010](capitulos/02.md)).
+- Cap. 02, 00:50:50.000: Emboscada y veneno ([02-011](capitulos/02.md)).
+- Cap. 02, 00:58:35.000: Victoria sobre los atacantes ([02-013](capitulos/02.md)).
+- Cap. 02, 01:16:00.000: Nox confunde una cerbatana con un escupitajo ([02-014](capitulos/02.md)).
+- Cap. 02, 01:30:00.000: Botín y cuidados tras el combate ([02-015](capitulos/02.md)).
+- Cap. 02, 01:32:15.000: Dinosaurio y huida a Shiaru ([02-016](capitulos/02.md)).
+- Cap. 02, 01:54:00.000: Nox e Ione hablan del incidente nocturno ([02-019](capitulos/02.md)).
+- Cap. 02, 02:10:00.000: Origen y expulsión de Ayoto ([02-021](capitulos/02.md)).
+- Cap. 02, 02:14:15.000: El visitante huyó de su mala reputación ([02-022](capitulos/02.md)).
+- Cap. 02, 02:19:00.000: Trato de ayuda nocturna por comida ([02-023](capitulos/02.md)).
+- Cap. 02, 02:21:00.000: Ione protege a su tripulación ([02-024](capitulos/02.md)).
+- Cap. 02, 02:24:15.000: Bebida adulterada de Pix ([02-025](capitulos/02.md)).
+- Cap. 02, 02:32:00.000: Apuesta de pulso ([02-026](capitulos/02.md)).
+- Cap. 02, 02:36:00.000: Nox induce a Ayoto a perder ([02-027](capitulos/02.md)).
+- Cap. 02, 02:40:55.000: Bonnie detiene la disputa ([02-028](capitulos/02.md)).
+- Cap. 02, 02:44:00.000: Apuesta sin acuerdo final ([02-029](capitulos/02.md)).
+- Cap. 03, 00:00:00.000: Mamá sale del barco y despierta a los piratas ([03-001](capitulos/03.md)).
+- Cap. 03, 00:28:30.000: Desayuno y plan de acompañar al hada ([03-007](capitulos/03.md)).
+- Cap. 03, 00:49:30.000: Frutas, idiomas y arbusto parlante ([03-012](capitulos/03.md)).
+- Cap. 03, 00:55:45.000: Grupo reunido y nombre de Merlucilla ([03-013](capitulos/03.md)).
+- Cap. 03, 01:01:00.000: Mapa orientado y ocultado ([03-014](capitulos/03.md)).
+- Cap. 03, 01:14:00.000: Trampa del hada e Ione atrapada ([03-015](capitulos/03.md)).
+- Cap. 03, 01:17:45.000: Diez monedas encontradas por Mamá ([03-016](capitulos/03.md)).
+- Cap. 03, 01:24:15.000: Rescate de Ione de la trampa ([03-017](capitulos/03.md)).
+- Cap. 03, 01:28:20.000: Excavación de la Marina localizada ([03-019](capitulos/03.md)).
+- Cap. 03, 01:34:00.000: Engaño caballeresco y plan de infiltración ([03-020](capitulos/03.md)).
+- Cap. 03, 01:43:20.000: Centinela aturdido y disfraz de Nox ([03-021](capitulos/03.md)).
+- Cap. 03, 01:48:00.000: Escondites y descubrimiento de Nox ([03-022](capitulos/03.md)).
+- Cap. 03, 01:54:00.000: Combate dentro de la excavación ([03-023](capitulos/03.md)).
+- Cap. 03, 02:10:00.000: Ione se transforma en mujer lobo ([03-024](capitulos/03.md)).
+- Cap. 03, 02:29:30.000: Tres marines abatidos ([03-026](capitulos/03.md)).
+- Cap. 03, 02:36:00.000: La bestia se lanza hacia sus compañeros ([03-027](capitulos/03.md)).
+- Cap. 03, 02:40:00.000: Interpretaciones sobre la condición de Ione ([03-028](capitulos/03.md)).
+- Cap. 03, 02:41:40.000: Nox se lleva al marine cautivo ([03-029](capitulos/03.md)).
+- Cap. 03, 02:43:00.000: Blink encanta a Ione y guía la retirada ([03-030](capitulos/03.md)).
+- Cap. 03, 02:46:00.000: Regreso con el dinosaurio y el cautivo ([03-031](capitulos/03.md)).
+- Cap. 04, 00:03:25.000: Muerte de Merlucilla entre sesiones ([04-003](capitulos/04.md)).
+- Cap. 04, 00:06:00.000: El visitante evita la apuesta anterior ([04-005](capitulos/04.md)).
+- Cap. 04, 00:08:40.000: Ione pide discreción a Mamá ([04-006](capitulos/04.md)).
+- Cap. 04, 00:12:00.000: Encargo de Bonnie para recuperar lo perdido ([04-007](capitulos/04.md)).
+- Cap. 04, 00:15:40.000: Se forma la expedición ([04-008](capitulos/04.md)).
+- Cap. 04, 00:23:40.000: Dinosaurio destrozado y cuerpo expulsado ([04-009](capitulos/04.md)).
+- Cap. 04, 00:30:00.000: Nuevos efectos de las frutas ([04-010](capitulos/04.md)).
+- Cap. 04, 00:38:00.000: Cipo indica la presencia de piratas ([04-011](capitulos/04.md)).
+- Cap. 04, 00:42:20.000: Ione pide quedar inconsciente ([04-012](capitulos/04.md)).
+- Cap. 04, 00:46:35.000: Grupo perdido y hallazgo de piratas ([04-013](capitulos/04.md)).
+- Cap. 04, 01:11:00.000: Patata despierta a Ione y cura a Cipo ([04-017](capitulos/04.md)).
+- Cap. 04, 01:19:00.000: Victoria sobre los dinosaurios ([04-018](capitulos/04.md)).
+- Cap. 04, 01:29:00.000: Aclaración del ataque y nueve monedas ([04-019](capitulos/04.md)).
+- Cap. 04, 01:34:20.000: Collar antiguo hallado en un cadáver ([04-020](capitulos/04.md)).
+- Cap. 04, 01:41:30.000: Advertencias y reparto de gemas ([04-021](capitulos/04.md)).
+- Cap. 04, 01:45:30.000: Lectura de pensamientos y pacto de tesoros ([04-022](capitulos/04.md)).
+- Cap. 04, 01:51:50.000: Encuentro de Mamá con una criatura divina ([04-024](capitulos/04.md)).
+- Cap. 04, 01:55:00.000: Huida de un dinosaurio volador ([04-025](capitulos/04.md)).
+- Cap. 04, 02:00:55.000: Alojamiento y separación al regreso ([04-027](capitulos/04.md)).
+- Cap. 04, 02:09:20.000: Bonnie recibe el collar y detecta la falta ([04-029](capitulos/04.md)).
+- Cap. 04, 02:16:35.000: Deciden buscar a Nox ([04-031](capitulos/04.md)).
+- Cap. 05, 00:00:00.000: Estado de Nox e Ione entre sesiones ([05-001](capitulos/05.md)).
+- Cap. 05, 00:14:00.000: Ione se reúne con Nox y ve al cautivo ([05-006](capitulos/05.md)).
+- Cap. 05, 00:17:00.000: Llega un buque y Bonnie aparta a Jack ([05-007](capitulos/05.md)).
+- Cap. 05, 00:21:00.000: Contrato de Bonnie y encargo de sustraer documentos ([05-008](capitulos/05.md)).
+- Cap. 05, 00:25:30.000: Nox revela su relación con Molly ([05-009](capitulos/05.md)).
+- Cap. 05, 00:34:35.000: Molly desembarca sin reconocer a Nox ([05-012](capitulos/05.md)).
+- Cap. 05, 00:38:35.000: Tortugas marinas: nadar ocultos en barriles ([05-013](capitulos/05.md)).
+- Cap. 05, 00:47:35.000: Cubierta vigilada e Ione descubierta ([05-014](capitulos/05.md)).
+- Cap. 05, 01:02:35.000: La distracción permite bajar a los compañeros ([05-017](capitulos/05.md)).
+- Cap. 05, 01:30:10.000: Ione recibe dos disparos y entra por una tronera ([05-019](capitulos/05.md)).
+- Cap. 05, 01:44:30.000: Reencuentro y curación de Ione ([05-022](capitulos/05.md)).
+- Cap. 05, 01:52:30.000: Carteles y falsa pista de camarote ([05-023](capitulos/05.md)).
+- Cap. 05, 02:06:15.000: Pólvora como garantía y guardia golpeado ([05-025](capitulos/05.md)).
+- Cap. 05, 02:11:00.000: Magia salvaje y nueva herida ([05-026](capitulos/05.md)).
+- Cap. 05, 02:19:45.000: La amenaza de explosión hace bajar las armas ([05-027](capitulos/05.md)).
+- Cap. 05, 02:29:55.000: Fuego ilusorio y salida del grupo ([05-028](capitulos/05.md)).
+- Cap. 05, 02:36:00.000: La vela lanzada provoca un incendio real ([05-029](capitulos/05.md)).
+- Cap. 05, 02:42:00.000: Molly y Bonnie reaccionan al incendio ([05-030](capitulos/05.md)).
+- Cap. 05, 02:45:30.000: Lunaria revela la vela y Bonnie impone consecuencias ([05-031](capitulos/05.md)).
+- Cap. 05, 02:50:25.000: Explosión y preocupación por la nota ([05-032](capitulos/05.md)).
+- Cap. 05, 02:52:20.000: Persiguen al visitante y Nox se interesa por los mapas ([05-033](capitulos/05.md)).
+- Cap. 06, 00:02:15.000: Monedas perdidas y encontradas ([06-002](capitulos/06.md)).
+- Cap. 06, 00:06:55.000: Bonnie localiza una gema y exige las demás ([06-004](capitulos/06.md)).
+- Cap. 06, 00:08:00.000: Huida estudiada y pertenencia de Chochi ([06-005](capitulos/06.md)).
+- Cap. 06, 00:10:00.000: Ione en el pozo y ayuda de Blink ([06-006](capitulos/06.md)).
+- Cap. 06, 00:23:45.000: Cubo retirado y rescate del pozo ([06-010](capitulos/06.md)).
+- Cap. 06, 00:34:30.000: Baño y entrenamiento presentado por Ione ([06-011](capitulos/06.md)).
+- Cap. 06, 00:40:00.000: El loro roba el monedero de Chochi ([06-012](capitulos/06.md)).
+- Cap. 06, 00:43:15.000: Rescate y reparto del monedero ([06-013](capitulos/06.md)).
+- Cap. 06, 00:48:20.000: Blink habla telepáticamente a Ione ([06-014](capitulos/06.md)).
+- Cap. 06, 01:15:20.000: Ione identifica a Elger Banana ([06-018](capitulos/06.md)).
+- Cap. 06, 01:20:00.000: Salida en barca y burbujas para respirar ([06-019](capitulos/06.md)).
+- Cap. 06, 01:26:10.000: Ruinas submarinas y supuesto caballo ([06-020](capitulos/06.md)).
+- Cap. 06, 01:32:00.000: Tiburones sorprenden a los compañeros ([06-021](capitulos/06.md)).
+- Cap. 06, 01:45:30.000: Tiburones derrotados ([06-022](capitulos/06.md)).
+- Cap. 06, 01:51:45.000: Merlucilla II y tiburón Princesa ([06-023](capitulos/06.md)).
+- Cap. 06, 01:58:30.000: Llegada al huevo y recuperación del tamaño de Marina ([06-025](capitulos/06.md)).
+- Cap. 06, 02:05:40.000: Recompensa como trampa y orden de matar al grupo ([06-026](capitulos/06.md)).
+- Cap. 06, 02:10:00.000: Ione se transforma al contacto de la sirena ([06-027](capitulos/06.md)).
+- Cap. 06, 02:22:00.000: Invisibilidad interrumpida y mocho contra Ione ([06-029](capitulos/06.md)).
+- Cap. 06, 02:29:30.000: Ione muerde y hiere a Chochi ([06-030](capitulos/06.md)).
+- Cap. 06, 02:42:20.000: Rotura de la burbuja y huida de Ione ([06-032](capitulos/06.md)).
+- Cap. 06, 03:15:45.000: Regreso, médico y búsqueda de Ione ([06-038](capitulos/06.md)).
+- Cap. 07, 00:26:00.000: Nox descubre quién repartió las gemas ([07-008](capitulos/07.md)).
+- Cap. 07, 02:22:00.000: Patata explica el reparto de las gemas y pide protección ([07-029](capitulos/07.md)).
+- Cap. 09, 00:02:35.000: Ione relata su recuperación tras el encuentro con las sirenas ([09-002](capitulos/09.md)).
+- Cap. 09, 00:10:30.000: Ione encuentra armas y devuelve el estoque a Nox ([09-006](capitulos/09.md)).
+- Cap. 09, 00:19:00.000: Ione admite descontrol; Axi se disculpa por prejuicios ([09-007](capitulos/09.md)).
+- Cap. 09, 00:30:45.000: Lunaria ahuyenta al loro e Ione da una botella a Axi ([09-010](capitulos/09.md)).
+- Cap. 09, 00:42:30.000: El tendero orco expulsa a Ione ([09-013](capitulos/09.md)).
+- Cap. 09, 00:51:30.000: Frutas cambian sombras y dan curación a Nox ([09-015](capitulos/09.md)).
+- Cap. 09, 00:55:45.000: Orangutanes ahuyentados por fuego; aparece Pinky ([09-016](capitulos/09.md)).
+- Cap. 09, 01:01:00.000: Chocolate por hierba; Pinky sigue al grupo ([09-017](capitulos/09.md)).
+- Cap. 09, 01:07:30.000: Llegan a ruinas serpentinas y entran ([09-018](capitulos/09.md)).
+- Cap. 09, 01:15:30.000: El agua no activa el altar e Ione desencadena la trampa de veneno ([09-019](capitulos/09.md)).
+- Cap. 09, 01:20:35.000: Axi recuerda la mordedura e Ione exige silencio ([09-020](capitulos/09.md)).
+- Cap. 09, 01:28:30.000: La sala funeraria se cierra y emerge una criatura ([09-022](capitulos/09.md)).
+- Cap. 09, 01:34:20.000: Ione mata al reptil y conserva el cadáver; Axi queda rezagado ([09-023](capitulos/09.md)).
+- Cap. 09, 01:45:40.000: Una planta atrae a Nox y sus compañeras lo liberan ([09-024](capitulos/09.md)).
+- Cap. 09, 01:56:30.000: Última sala: copa, sarcófago y cierre de puerta ([09-025](capitulos/09.md)).
+- Cap. 09, 02:04:00.000: Toma de la copa y aparición de tres guardianes de las tumbas ([09-026](capitulos/09.md)).
+- Cap. 09, 02:08:20.000: Lunaria crece y recibe la copa; Pinky finge morir ([09-027](capitulos/09.md)).
+- Cap. 09, 02:24:30.000: Curación, sombra y victoria sobre los guardianes ([09-028](capitulos/09.md)).
+- Cap. 09, 02:37:10.000: Monedas, cimitarra y robo a Pinky viva ([09-029](capitulos/09.md)).
+- Cap. 09, 02:44:00.000: Nox toma el collar sin ocultarlo y regresan con Axi ([09-030](capitulos/09.md)).
+- Cap. 09, 02:47:40.000: El director aclara el tributo y los tatuajes siguen sin interpretar ([09-031](capitulos/09.md)).
+- Cap. 09, 02:51:30.000: Ione vende obsidiana y compra ropa a Nox ([09-032](capitulos/09.md)).
+- Cap. 09, 02:58:10.000: Ventas finales, pociones y herramientas; Mamá se retira ([09-033](capitulos/09.md)).
+- Cap. 10, 00:14:10.000: Bonnie amenaza a Patata por la gema utilizada para pagar alojamiento ([10-007](capitulos/10.md)).
+- Cap. 10, 02:34:40.000: Bonnie exige una nueva expedición y mata a un pirata como ejemplo ([10-026](capitulos/10.md)).
+- Cap. 11, 00:00:00.000: Ione organiza un rescate tras recibir información de Nox ([11-001](capitulos/11.md)).
+- Cap. 11, 00:12:40.000: Kilzer encuentra obsidiana; Ione recluta a Mamá ([11-006](capitulos/11.md)).
+- Cap. 11, 00:16:00.000: Kilzer es obligado a participar y Poncelot acepta el rescate por su ideal caballeresco ([11-007](capitulos/11.md)).
+- Cap. 11, 00:21:45.000: Reparto parcial del botín de las sirenas ([11-008](capitulos/11.md)).
+- Cap. 11, 00:26:00.000: Planes, huevo interpretado como Pegaso y salida al norte ([11-009](capitulos/11.md)).
+- Cap. 11, 00:31:20.000: Poncelot otea mientras Ione prueba el agua y recupera la barca ([11-010](capitulos/11.md)).
+- Cap. 11, 00:59:00.000: Infiltración planeada; ruido de armadura fuerza cambio de sitio ([11-014](capitulos/11.md)).
+- Cap. 11, 01:07:00.000: Nox informa de las jaulas y la pirámide; los otros se sumergen ([11-015](capitulos/11.md)).
+- Cap. 11, 01:25:40.000: Ione se transforma por la sangre y Nox mata a un guardia ([11-017](capitulos/11.md)).
+- Cap. 11, 01:31:15.000: Nox incendia el puente y los otros rodean el combate ([11-018](capitulos/11.md)).
+- Cap. 11, 01:43:20.000: Kilzer protege a Mamá y Nox incendia una choza ([11-019](capitulos/11.md)).
+- Cap. 11, 01:54:40.000: Ione va contra Poncelot; él consigue calmarla ([11-020](capitulos/11.md)).
+- Cap. 11, 02:03:00.000: Los cocodrilos atacan y el grupo protege a Mamá ([11-021](capitulos/11.md)).
+- Cap. 11, 02:24:10.000: Pix recogido y última resistencia abatida ([11-023](capitulos/11.md)).
+- Cap. 11, 02:47:50.000: Recuperación parcial de equipo y botín ([11-026](capitulos/11.md)).
+- Cap. 11, 02:52:20.000: Regreso, reversión de Ione y recuerdos limitados ([11-027](capitulos/11.md)).
+- Cap. 11, 03:06:00.000: Pago discutido y traslado de los heridos al médico ([11-030](capitulos/11.md)).
+- Cap. 12, 00:02:25.000: Cita de Ione y despertar de Axi ([12-002](capitulos/12.md)).
+- Cap. 12, 00:15:20.000: Pix tiene el mondadientes de Blink ([12-005](capitulos/12.md)).
+- Cap. 12, 00:31:45.000: Blink guía hacia un campamento que recuerda al sur de su árbol ([12-010](capitulos/12.md)).
+- Cap. 12, 00:36:25.000: Arco comprado y palabra papaya para cambios de Ione ([12-011](capitulos/12.md)).
+- Cap. 12, 00:41:00.000: Frutas dan curación, elasticidad y caída lenta ([12-012](capitulos/12.md)).
+- Cap. 12, 00:44:30.000: Pinky recibe hojas y se une ([12-013](capitulos/12.md)).
+- Cap. 12, 00:48:30.000: Ione equipa a Axi, que fabrica un arco imperfecto ([12-014](capitulos/12.md)).
+- Cap. 12, 00:52:30.000: Se infiltran entre ruinas mientras Pinky distrae ([12-015](capitulos/12.md)).
+- Cap. 12, 01:19:00.000: Guardia reducido por Ione y Blink; otros no ven todo ([12-018](capitulos/12.md)).
+- Cap. 12, 01:38:00.000: Segundo agarre detectado e Inmovilizar persona ([12-020](capitulos/12.md)).
+- Cap. 12, 01:46:20.000: Nox paraliza al capitán y a un marine; Ione mata al perro ([12-021](capitulos/12.md)).
+- Cap. 12, 02:06:15.000: Mujer y pirata liberados; Pinky come chocolate ([12-023](capitulos/12.md)).
+- Cap. 12, 02:13:00.000: El pirata liberado es abatido y la mujer ayuda ([12-024](capitulos/12.md)).
+- Cap. 12, 02:35:00.000: Pinky quema al capitán y también a Nox ([12-026](capitulos/12.md)).
+- Cap. 12, 02:46:00.000: Ione devuelve una bala y Nox deja al capitán vivo e inconsciente ([12-027](capitulos/12.md)).
+- Cap. 12, 02:56:10.000: Últimos enemigos abatidos y mujer auxiliada ([12-028](capitulos/12.md)).
+- Cap. 12, 03:10:00.000: El capitán queda con una carta y no es interrogado ([12-032](capitulos/12.md)).
+- Cap. 13, 00:00:00.000: Patata recupera parte de su equipo y Nox reparte las ganancias de una venta ([13-001](capitulos/13.md)).
+- Cap. 15, 00:03:20.000: Triel quiere ser capitana y el elfo prepara el envío de Jack ([15-002](capitulos/15.md)).
+- Cap. 20, 00:57:00.000: Marines avistados y ataque decidido ([20-008](capitulos/20.md)).
+- Cap. 21, 00:00:00.000: Descansos, montura y pérdidas ([21-001](capitulos/21.md)).
+- Cap. 21, 02:35:00.000: Leona curada y destinos separados ([21-016](capitulos/21.md)).
+- Cap. 23, 00:00:00.000: La carta de Nox impulsa el rescate ([23-001](capitulos/23.md)).
+- Cap. 23, 00:06:00.000: Equipo de rescate reunido ([23-002](capitulos/23.md)).
+- Cap. 23, 00:21:00.000: Negociación fallida y herramientas ([23-003](capitulos/23.md)).
+- Cap. 23, 00:46:00.000: Chocolate y entrada despejada ([23-006](capitulos/23.md)).
+- Cap. 23, 01:00:00.000: Disfraz de Kilzer y amistad con los perros ([23-007](capitulos/23.md)).
+- Cap. 23, 01:17:00.000: Dos rutas de entrada ([23-008](capitulos/23.md)).
+- Cap. 23, 01:30:00.000: Recompensa por Ione y Mamá como supuesta informante ([23-009](capitulos/23.md)).
+- Cap. 23, 01:43:00.000: Nox se libera con herramientas ocultas ([23-010](capitulos/23.md)).
+- Cap. 23, 01:57:00.000: Molly sospecha y ofrece dinero ([23-012](capitulos/23.md)).
+- Cap. 23, 02:24:00.000: Despacho cerrado y puerta rota ([23-014](capitulos/23.md)).
+- Cap. 23, 02:37:00.000: Reencuentro y documentos sobre una ciudad ([23-015](capitulos/23.md)).
+- Cap. 23, 02:43:00.000: Perros frenan perseguidores y mosca evacúa ([23-016](capitulos/23.md)).
+- Cap. 24, 00:00:00.000: Descansos y Winscor explorador ([24-001](capitulos/24.md)).
+- Cap. 24, 00:16:00.000: Bonnie encarga matar a los supuestos ladrones ([24-003](capitulos/24.md)).
+- Cap. 24, 00:23:00.000: El grupo parte y recibe los efectos de las frutas ([24-004](capitulos/24.md)).
+- Cap. 24, 00:32:00.000: Coyote se presenta y se une ([24-005](capitulos/24.md)).
+- Cap. 24, 00:40:00.000: Gorilas evitados y sirena acosada ([24-006](capitulos/24.md)).
+- Cap. 24, 00:49:00.000: Cambiaformas y chillido aturdidor ([24-007](capitulos/24.md)).
+- Cap. 24, 01:06:00.000: Parálisis, refuerzos y Coyote protegido ([24-008](capitulos/24.md)).
+- Cap. 24, 01:20:00.000: Inspiración y enemigos muertos ([24-009](capitulos/24.md)).
+- Cap. 24, 01:32:00.000: Ione loba no reconoce aliados ([24-010](capitulos/24.md)).
+- Cap. 24, 01:36:00.000: El arma espiritual guía a la loba contra el último enemigo ([24-011](capitulos/24.md)).
+- Cap. 24, 01:47:00.000: Loba calmada y concha destruida ([24-013](capitulos/24.md)).
+- Cap. 24, 02:02:00.000: Ione humana y fragmentos guardados ([24-015](capitulos/24.md)).
+- Cap. 24, 02:10:00.000: Regreso, Sam y pueblo alternativo ([24-016](capitulos/24.md)).
+- Cap. 24, 02:17:00.000: Bonnie mata a un pirata y reduce el pago ([24-017](capitulos/24.md)).
+- Cap. 24, 02:27:00.000: Bonnie recluta a Coyote como espía ([24-019](capitulos/24.md)).
+- Cap. 24, 02:32:00.000: Ropa, cultivo y reclutamiento ([24-020](capitulos/24.md)).
+- Cap. 24, 02:40:00.000: Camarotes llenos y el médico prepara máquinas ([24-021](capitulos/24.md)).
+- Cap. 25, 00:00:00.000: Mapa estudiado con Ione y armadura perdida ([25-001](capitulos/25.md)).
+- Cap. 25, 00:03:00.000: Blink conserva el amuleto y Nox evita a Ione ([25-002](capitulos/25.md)).
+- Cap. 25, 00:46:00.000: Nox encuentra a Luna y una mujer exige el mapa ([25-010](capitulos/25.md)).
+- Cap. 25, 02:11:30.000: El mapa señala un destino que Ione llamó Ezlat ([25-019](capitulos/25.md)).
+- Cap. 26, 00:00:00.000: Compra de armadura y suplantación de Ione por Coyote ([26-001](capitulos/26.md)).
+- Cap. 26, 00:06:00.000: Ione sale de la consulta y niega haber recibido el informe ([26-003](capitulos/26.md)).
+- Cap. 26, 00:12:00.000: Dados del capitán y acusación del loro ([26-004](capitulos/26.md)).
+- Cap. 26, 00:14:00.000: Ione exige a Nox que la avise personalmente ([26-005](capitulos/26.md)).
+- Cap. 26, 00:20:00.000: Cinco convocados y tesoro disputado ([26-006](capitulos/26.md)).
+- Cap. 26, 00:24:00.000: Nox entrega el licor y ambos declaran su amistad ([26-007](capitulos/26.md)).
+- Cap. 26, 00:28:20.000: Expedición hacia el sur pese a que el mapa indica otra dirección ([26-008](capitulos/26.md)).
+- Cap. 26, 00:35:00.000: Pinky recibe puñetazo por encuentro sorpresa ([26-009](capitulos/26.md)).
+- Cap. 26, 00:48:00.000: Montura tigre y restos de mosca enterrados ([26-011](capitulos/26.md)).
+- Cap. 26, 01:02:00.000: Pirámide oculta alcanzada por ruta extraña ([26-013](capitulos/26.md)).
+- Cap. 26, 01:08:30.000: Pociones de la nieta y cesión a Poncelot ([26-014](capitulos/26.md)).
+- Cap. 26, 01:15:00.000: Historia del mapa y collar oculto en mango ([26-015](capitulos/26.md)).
+- Cap. 26, 01:20:00.000: Estatuas de ojos vacíos y puerta sin cerradura ([26-016](capitulos/26.md)).
+- Cap. 26, 01:31:00.000: Nox activa las estatuas y siente picor en la espalda ([26-017](capitulos/26.md)).
+- Cap. 26, 01:37:00.000: Altar, collar reactivo y pasos bajo estatuas ([26-018](capitulos/26.md)).
+- Cap. 26, 01:54:00.000: Puertas cuñadas y corriente de aire ([26-020](capitulos/26.md)).
+- Cap. 26, 02:02:00.000: El guardia poseído invita a Nox y reconoce el collar ([26-021](capitulos/26.md)).
+- Cap. 26, 02:09:00.000: El anfitrión necesita lo que Nox lleva en la espalda ([26-022](capitulos/26.md)).
+- Cap. 26, 02:15:00.000: Nox finge sentarse y se desencadena una agresión ([26-023](capitulos/26.md)).
+- Cap. 28, 00:04:00.000: Ione reconoce la ilusión y la serpiente ve la trampa ([28-002](capitulos/28.md)).
+- Cap. 28, 00:15:00.000: Ione aturde al enemigo y Poncelot lo monta ([28-004](capitulos/28.md)).
+- Cap. 28, 00:24:00.000: Magia de Blink y Nox combate con estoque ([28-005](capitulos/28.md)).
+- Cap. 28, 00:40:00.000: Explosión psíquica del anfitrión y curación de Poncelot ([28-007](capitulos/28.md)).
+- Cap. 28, 00:47:00.000: Una poción quita la barba a Poncelot ([28-008](capitulos/28.md)).
+- Cap. 28, 00:54:00.000: Restos serpentinos devoran cadáveres ([28-009](capitulos/28.md)).
+- Cap. 28, 00:58:00.000: Blink abandona el collar y las serpientes se unen ([28-010](capitulos/28.md)).
+- Cap. 28, 01:01:00.000: Monedas no bastan y Ione arrastra a Nox ([28-011](capitulos/28.md)).
+- Cap. 28, 01:04:00.000: Una cola atrapa a Ione y Poncelot ayuda a cerrar la puerta ([28-012](capitulos/28.md)).
+- Cap. 28, 01:10:00.000: Ojo-orbe arrancado de una estatua ([28-013](capitulos/28.md)).
+- Cap. 28, 01:14:00.000: Hambre de Hadar retrasa a los perseguidores ([28-014](capitulos/28.md)).
+- Cap. 28, 01:22:00.000: Visiones del orbe y custodia de Poncelot ([28-015](capitulos/28.md)).
+- Cap. 28, 01:29:00.000: Pinky enreda al tigre para que la bajen ([28-016](capitulos/28.md)).
+- Cap. 28, 01:34:00.000: Nox quiere volver a ver a Molly ([28-017](capitulos/28.md)).
+- Cap. 28, 01:38:00.000: Jack fingió ser capitán durante la ausencia ([28-018](capitulos/28.md)).
+- Cap. 28, 02:00:00.000: Ione castiga a Jack y Mugre detiene a Ojo Ausente ([28-022](capitulos/28.md)).
+- Cap. 29, 02:20:00.000: Secuestros y kraken que crece por rituales ([29-022](capitulos/29.md)).
+- Cap. 33, 00:08:00.000: Jack recluta Poncelot en Zampaolas ([33-002](capitulos/33.md)).
+- Cap. 33, 00:40:00.000: Se aclara Aragón y farsa de Titania ([33-007](capitulos/33.md)).
+- Cap. 33, 02:20:00.000: Axi capturado y Poncelot despierto ([33-017](capitulos/33.md)).
+- Cap. 33, 02:28:00.000: Piedra rota y proveedor desaparecido ([33-018](capitulos/33.md)).
+- Cap. 34, 00:12:00.000: Nox expulsado y huevo desaparecido ([34-003](capitulos/34.md)).
+- Cap. 35, 00:00:00.000: Casco del gnomo y Molly incomunicada ([35-001](capitulos/35.md)).
+- Cap. 35, 00:12:00.000: Nox no encuentra Ione y Luna mata loro ([35-003](capitulos/35.md)).
+- Cap. 36, 00:00:00.000: Ione repara el barco y Erandy busca a Eleanor ([36-001](capitulos/36.md)).
+- Cap. 36, 00:06:00.000: Botellas en los cañones y convocatoria de Bonnie ([36-002](capitulos/36.md)).
+- Cap. 36, 00:20:00.000: Molly informa de una posición estratégica ([36-004](capitulos/36.md)).
+- Cap. 36, 00:27:00.000: Reclutamiento de Blink y Erandy ([36-005](capitulos/36.md)).
+- Cap. 36, 00:36:00.000: Eclipse, frutas y orientación ([36-006](capitulos/36.md)).
+- Cap. 36, 00:43:00.000: Dinosaurio devorado y rumbo recuperado ([36-007](capitulos/36.md)).
+- Cap. 36, 00:54:00.000: Intercambio de cuerpos y ruinas arrasadas ([36-008](capitulos/36.md)).
+- Cap. 36, 01:18:00.000: Captura del marine superviviente ([36-010](capitulos/36.md)).
+- Cap. 36, 01:26:00.000: Aparece un tiranosaurio y Poncelot carga ([36-011](capitulos/36.md)).
+- Cap. 36, 01:35:00.000: Ione se transforma y muere el tiranosaurio ([36-012](capitulos/36.md)).
+- Cap. 36, 01:46:00.000: Ione ataca a sus aliados y los intentos de calmarla fallan ([36-013](capitulos/36.md)).
+- Cap. 36, 01:57:00.000: Otro hombre lobo observa y ataca a Blink ([36-014](capitulos/36.md)).
+- Cap. 36, 02:06:00.000: Ione recupera el control e intimida al otro lobo ([36-015](capitulos/36.md)).
+- Cap. 36, 02:12:00.000: Curación del tigre y regreso a la forma humana ([36-016](capitulos/36.md)).
+- Cap. 36, 02:21:00.000: Entrega del cautivo e informe parcial ([36-017](capitulos/36.md)).
+- Cap. 36, 02:26:00.000: Reparto de recompensas, fiesta y alojamiento ([36-018](capitulos/36.md)).
+- Cap. 37, 02:14:00.000: Luna roba pólvora y Nox parte hacia el fuerte ([37-018](capitulos/37.md)).
+- Cap. 38, 00:00:00.000: Reencuentro de la escudera y rastreo del licántropo ([38-001](capitulos/38.md)).
+- Cap. 38, 00:06:00.000: Regreso de Ione y hallazgo de un herido en la playa ([38-002](capitulos/38.md)).
+- Cap. 38, 00:18:00.000: Duelo amistoso con resultado de empate ([38-004](capitulos/38.md)).
+- Cap. 38, 00:32:00.000: Ilikar se incorpora a la tripulación ([38-005](capitulos/38.md)).
+- Cap. 38, 00:42:00.000: Plan para sacar el barco ([38-006](capitulos/38.md)).
+- Cap. 38, 00:54:00.000: Un pulpo gigante sujeta el barco ([38-007](capitulos/38.md)).
+- Cap. 38, 01:02:00.000: El pulpo agarra a Ione e Ilikar hiere a un tiburón ([38-008](capitulos/38.md)).
+- Cap. 38, 01:12:00.000: Poncelot calma y cura al tiburón ([38-009](capitulos/38.md)).
+- Cap. 38, 01:21:00.000: El pulpo derriba a los aliados e Ione se transforma ([38-010](capitulos/38.md)).
+- Cap. 38, 01:30:00.000: Ataque montado y liberación de Ilikar ([38-011](capitulos/38.md)).
+- Cap. 38, 01:39:00.000: Muere el pulpo e Ione ataca al tiburón ([38-012](capitulos/38.md)).
+- Cap. 38, 01:46:00.000: Los antiguos tripulantes llegan después del combate ([38-013](capitulos/38.md)).
+- Cap. 38, 01:51:00.000: Mordedura ritual de Ione a Ilikar ([38-014](capitulos/38.md)).
+- Cap. 38, 01:58:00.000: El Zampaolas queda desencajado ([38-015](capitulos/38.md)).
+- Cap. 38, 02:04:00.000: Aportación de oro y reparto del cofre ([38-016](capitulos/38.md)).
+- Cap. 38, 02:12:00.000: Significado de la mordedura y decepción de Ilikar ([38-017](capitulos/38.md)).
+- Cap. 38, 02:17:00.000: Ione tranquiliza a Poncelot y se revela la propiedad del cofre ([38-018](capitulos/38.md)).
+
+## Ivet
+
+- Cap. 29, 02:06:00.000: Llegada a Perlasal y desconfianza de Ivet ([29-020](capitulos/29.md)).
+- Cap. 29, 02:13:00.000: Maris asume la responsabilidad y los merros siguen siendo una amenaza ([29-021](capitulos/29.md)).
+- Cap. 29, 02:26:00.000: Promesa pública y hospitalidad de la taberna ([29-023](capitulos/29.md)).
+- Cap. 29, 02:36:00.000: Ayoto no obtiene acceso religioso sin actos ([29-025](capitulos/29.md)).
+
+## Jack
+
+- Cap. 03, 01:28:20.000: Excavación de la Marina localizada ([03-019](capitulos/03.md)).
+- Cap. 03, 01:43:20.000: Centinela aturdido y disfraz de Nox ([03-021](capitulos/03.md)).
+- Cap. 03, 02:16:00.000: Retirada de Mamá y centinela atado ([03-025](capitulos/03.md)).
+- Cap. 03, 02:29:30.000: Tres marines abatidos ([03-026](capitulos/03.md)).
+- Cap. 03, 02:41:40.000: Nox se lleva al marine cautivo ([03-029](capitulos/03.md)).
+- Cap. 03, 02:46:00.000: Regreso con el dinosaurio y el cautivo ([03-031](capitulos/03.md)).
+- Cap. 05, 00:00:00.000: Estado de Nox e Ione entre sesiones ([05-001](capitulos/05.md)).
+- Cap. 05, 00:04:00.000: Jack quiere volver con Lucy ([05-003](capitulos/05.md)).
+- Cap. 05, 00:06:05.000: Corrección sobre la presencia en la mina ([05-004](capitulos/05.md)).
+- Cap. 05, 00:07:40.000: Emblema y procedencia declarada del collar ([05-005](capitulos/05.md)).
+- Cap. 05, 00:14:00.000: Ione se reúne con Nox y ve al cautivo ([05-006](capitulos/05.md)).
+- Cap. 05, 00:17:00.000: Llega un buque y Bonnie aparta a Jack ([05-007](capitulos/05.md)).
+- Cap. 05, 00:29:00.000: Anillo del elfo y discusión sobre el imperio ([05-010](capitulos/05.md)).
+- Cap. 05, 00:31:50.000: Ropa intercambiada y oferta de botín ([05-011](capitulos/05.md)).
+- Cap. 07, 00:02:10.000: Nox mantiene a Jack y cede su camarote a Mamá ([07-002](capitulos/07.md)).
+- Cap. 07, 02:36:00.000: Cautivo y perla entregados a Bonnie ([07-032](capitulos/07.md)).
+- Cap. 12, 00:20:30.000: El elfo ofrece ocho monedas y Nox recuerda el diez por ciento ([12-006](capitulos/12.md)).
+- Cap. 12, 00:24:15.000: Jack debe ir a Puerto de Espadas y volver con ganancias ([12-007](capitulos/12.md)).
+- Cap. 12, 00:26:55.000: Contenido e identificación del diario del nawal ([12-008](capitulos/12.md)).
+- Cap. 12, 00:28:50.000: Jack informa de Fuerte Aurora; Nox busca tres compañeros ([12-009](capitulos/12.md)).
+- Cap. 12, 01:07:15.000: Nox se hace pasar por Jack Jackson ante el capitán ([12-016](capitulos/12.md)).
+- Cap. 13, 00:19:40.000: Licencia visible y reacción de Lunaria al sentirse insultada ([13-006](capitulos/13.md)).
+- Cap. 13, 00:29:30.000: Croquis de Jacki, botella y silencio de Kilzer ([13-008](capitulos/13.md)).
+- Cap. 15, 00:03:20.000: Triel quiere ser capitana y el elfo prepara el envío de Jack ([15-002](capitulos/15.md)).
+- Cap. 15, 02:54:30.000: Bonnie retiene al elfo por envío tardío ([15-021](capitulos/15.md)).
+- Cap. 23, 00:33:00.000: Jack regresa y Nox está encadenado ([23-004](capitulos/23.md)).
+- Cap. 24, 00:16:00.000: Bonnie encarga matar a los supuestos ladrones ([24-003](capitulos/24.md)).
+- Cap. 24, 02:32:00.000: Ropa, cultivo y reclutamiento ([24-020](capitulos/24.md)).
+- Cap. 28, 01:38:00.000: Jack fingió ser capitán durante la ausencia ([28-018](capitulos/28.md)).
+- Cap. 28, 02:00:00.000: Ione castiga a Jack y Mugre detiene a Ojo Ausente ([28-022](capitulos/28.md)).
+- Cap. 33, 00:08:00.000: Jack recluta Poncelot en Zampaolas ([33-002](capitulos/33.md)).
+- Cap. 33, 00:12:30.000: Reclutamiento y acusación a Eleanor ([33-003](capitulos/33.md)).
+- Cap. 33, 00:28:00.000: Margaret y Morris se suman ([33-005](capitulos/33.md)).
+- Cap. 35, 00:40:00.000: Uniforme Jack y viaje al fuerte ([35-006](capitulos/35.md)).
+- Cap. 38, 01:46:00.000: Los antiguos tripulantes llegan después del combate ([38-013](capitulos/38.md)).
+
+## Johnson
+
+- Cap. 35, 01:24:00.000: Tórtola rechaza alojamiento y tortillas vendidas ([35-010](capitulos/35.md)).
+
+## Jones
+
+- Cap. 26, 00:20:00.000: Cinco convocados y tesoro disputado ([26-006](capitulos/26.md)).
+
+## Juana
+
+- Cap. 14, 00:16:00.000: Patata vende jade a Liz por cincuenta ([14-004](capitulos/14.md)).
+
+## Kilzer
+
+- Cap. 01, 00:01:39.000: Proyecto de casino del visitante ([01-003](capitulos/01.md)).
+- Cap. 01, 00:16:50.000: Convergencia de los recién llegados ([01-009](capitulos/01.md)).
+- Cap. 01, 00:41:20.000: Intento de cobrar amarre ([01-013](capitulos/01.md)).
+- Cap. 01, 00:50:54.000: Autodescripción distinta de la apariencia ([01-015](capitulos/01.md)).
+- Cap. 01, 00:53:15.000: Nox roba al recién llegado ([01-017](capitulos/01.md)).
+- Cap. 01, 01:30:03.000: Incidente con la criatura ígnea ([01-022](capitulos/01.md)).
+- Cap. 01, 01:57:12.000: Robo exterior y excusa de cobro de deuda ([01-026](capitulos/01.md)).
+- Cap. 02, 00:02:20.000: Juegos de azar del visitante ([02-002](capitulos/02.md)).
+- Cap. 02, 00:12:00.000: Nox contrata ayuda para buscar a Ione ([02-005](capitulos/02.md)).
+- Cap. 02, 00:36:00.000: Mono con el sombrero de la capitana ([02-009](capitulos/02.md)).
+- Cap. 02, 00:44:00.000: Reencuentro y tensión con los nativos ([02-010](capitulos/02.md)).
+- Cap. 02, 00:50:50.000: Emboscada y veneno ([02-011](capitulos/02.md)).
+- Cap. 02, 00:58:35.000: Victoria sobre los atacantes ([02-013](capitulos/02.md)).
+- Cap. 02, 01:30:00.000: Botín y cuidados tras el combate ([02-015](capitulos/02.md)).
+- Cap. 02, 01:32:15.000: Dinosaurio y huida a Shiaru ([02-016](capitulos/02.md)).
+- Cap. 02, 01:54:00.000: Nox e Ione hablan del incidente nocturno ([02-019](capitulos/02.md)).
+- Cap. 02, 02:10:00.000: Origen y expulsión de Ayoto ([02-021](capitulos/02.md)).
+- Cap. 02, 02:14:15.000: El visitante huyó de su mala reputación ([02-022](capitulos/02.md)).
+- Cap. 02, 02:21:00.000: Ione protege a su tripulación ([02-024](capitulos/02.md)).
+- Cap. 02, 02:24:15.000: Bebida adulterada de Pix ([02-025](capitulos/02.md)).
+- Cap. 02, 02:32:00.000: Apuesta de pulso ([02-026](capitulos/02.md)).
+- Cap. 02, 02:36:00.000: Nox induce a Ayoto a perder ([02-027](capitulos/02.md)).
+- Cap. 02, 02:40:55.000: Bonnie detiene la disputa ([02-028](capitulos/02.md)).
+- Cap. 02, 02:44:00.000: Apuesta sin acuerdo final ([02-029](capitulos/02.md)).
+- Cap. 04, 00:06:00.000: El visitante evita la apuesta anterior ([04-005](capitulos/04.md)).
+- Cap. 04, 00:15:40.000: Se forma la expedición ([04-008](capitulos/04.md)).
+- Cap. 04, 00:23:40.000: Dinosaurio destrozado y cuerpo expulsado ([04-009](capitulos/04.md)).
+- Cap. 04, 00:30:00.000: Nuevos efectos de las frutas ([04-010](capitulos/04.md)).
+- Cap. 04, 00:42:20.000: Ione pide quedar inconsciente ([04-012](capitulos/04.md)).
+- Cap. 04, 00:46:35.000: Grupo perdido y hallazgo de piratas ([04-013](capitulos/04.md)).
+- Cap. 04, 00:57:30.000: Pergamino mágico recuperado ([04-015](capitulos/04.md)).
+- Cap. 04, 01:03:00.000: Emboscada y muerte del pirata auxiliado ([04-016](capitulos/04.md)).
+- Cap. 04, 01:19:00.000: Victoria sobre los dinosaurios ([04-018](capitulos/04.md)).
+- Cap. 04, 01:34:20.000: Collar antiguo hallado en un cadáver ([04-020](capitulos/04.md)).
+- Cap. 04, 01:41:30.000: Advertencias y reparto de gemas ([04-021](capitulos/04.md)).
+- Cap. 04, 01:45:30.000: Lectura de pensamientos y pacto de tesoros ([04-022](capitulos/04.md)).
+- Cap. 04, 01:55:00.000: Huida de un dinosaurio volador ([04-025](capitulos/04.md)).
+- Cap. 04, 02:00:55.000: Alojamiento y separación al regreso ([04-027](capitulos/04.md)).
+- Cap. 04, 02:04:00.000: Juego de pelota y Cipo ([04-028](capitulos/04.md)).
+- Cap. 04, 02:16:35.000: Deciden buscar a Nox ([04-031](capitulos/04.md)).
+- Cap. 05, 00:02:05.000: Trampas de pieles y residencia del elfo ([05-002](capitulos/05.md)).
+- Cap. 05, 00:06:05.000: Corrección sobre la presencia en la mina ([05-004](capitulos/05.md)).
+- Cap. 05, 00:07:40.000: Emblema y procedencia declarada del collar ([05-005](capitulos/05.md)).
+- Cap. 05, 00:14:00.000: Ione se reúne con Nox y ve al cautivo ([05-006](capitulos/05.md)).
+- Cap. 05, 00:17:00.000: Llega un buque y Bonnie aparta a Jack ([05-007](capitulos/05.md)).
+- Cap. 05, 00:31:50.000: Ropa intercambiada y oferta de botín ([05-011](capitulos/05.md)).
+- Cap. 05, 00:38:35.000: Tortugas marinas: nadar ocultos en barriles ([05-013](capitulos/05.md)).
+- Cap. 05, 00:47:35.000: Cubierta vigilada e Ione descubierta ([05-014](capitulos/05.md)).
+- Cap. 05, 01:02:35.000: La distracción permite bajar a los compañeros ([05-017](capitulos/05.md)).
+- Cap. 05, 01:24:00.000: Alimentos, frutas y candados ([05-018](capitulos/05.md)).
+- Cap. 05, 01:38:30.000: Lunaria abre candados con magia ([05-020](capitulos/05.md)).
+- Cap. 05, 01:41:40.000: Armería saqueada y sabotaje ([05-021](capitulos/05.md)).
+- Cap. 05, 01:52:30.000: Carteles y falsa pista de camarote ([05-023](capitulos/05.md)).
+- Cap. 05, 02:11:00.000: Magia salvaje y nueva herida ([05-026](capitulos/05.md)).
+- Cap. 05, 02:19:45.000: La amenaza de explosión hace bajar las armas ([05-027](capitulos/05.md)).
+- Cap. 05, 02:29:55.000: Fuego ilusorio y salida del grupo ([05-028](capitulos/05.md)).
+- Cap. 05, 02:36:00.000: La vela lanzada provoca un incendio real ([05-029](capitulos/05.md)).
+- Cap. 05, 02:45:30.000: Lunaria revela la vela y Bonnie impone consecuencias ([05-031](capitulos/05.md)).
+- Cap. 05, 02:52:20.000: Persiguen al visitante y Nox se interesa por los mapas ([05-033](capitulos/05.md)).
+- Cap. 06, 00:02:15.000: Monedas perdidas y encontradas ([06-002](capitulos/06.md)).
+- Cap. 06, 00:08:00.000: Huida estudiada y pertenencia de Chochi ([06-005](capitulos/06.md)).
+- Cap. 06, 00:14:00.000: Gema de Liz y suministro del poblado ([06-007](capitulos/06.md)).
+- Cap. 06, 00:16:30.000: Nombre completo reservado de Chochi ([06-008](capitulos/06.md)).
+- Cap. 06, 00:23:45.000: Cubo retirado y rescate del pozo ([06-010](capitulos/06.md)).
+- Cap. 06, 00:34:30.000: Baño y entrenamiento presentado por Ione ([06-011](capitulos/06.md)).
+- Cap. 06, 00:40:00.000: El loro roba el monedero de Chochi ([06-012](capitulos/06.md)).
+- Cap. 06, 00:43:15.000: Rescate y reparto del monedero ([06-013](capitulos/06.md)).
+- Cap. 06, 00:51:00.000: Botella con sirena liberada por Chochi ([06-015](capitulos/06.md)).
+- Cap. 06, 01:08:30.000: Recompensa y opción de escolta ([06-017](capitulos/06.md)).
+- Cap. 06, 01:20:00.000: Salida en barca y burbujas para respirar ([06-019](capitulos/06.md)).
+- Cap. 06, 01:32:00.000: Tiburones sorprenden a los compañeros ([06-021](capitulos/06.md)).
+- Cap. 06, 01:45:30.000: Tiburones derrotados ([06-022](capitulos/06.md)).
+- Cap. 06, 01:55:30.000: Pasajeros del hipocampo ([06-024](capitulos/06.md)).
+- Cap. 06, 01:58:30.000: Llegada al huevo y recuperación del tamaño de Marina ([06-025](capitulos/06.md)).
+- Cap. 06, 02:05:40.000: Recompensa como trampa y orden de matar al grupo ([06-026](capitulos/06.md)).
+- Cap. 06, 02:10:00.000: Ione se transforma al contacto de la sirena ([06-027](capitulos/06.md)).
+- Cap. 06, 02:13:50.000: Primera sirena abatida y aparición de una tercera atacante ([06-028](capitulos/06.md)).
+- Cap. 06, 02:29:30.000: Ione muerde y hiere a Chochi ([06-030](capitulos/06.md)).
+- Cap. 06, 02:48:30.000: Segunda baja y Chochi agoniza ([06-033](capitulos/06.md)).
+- Cap. 06, 02:59:45.000: El hipocampo rompe la concentración ([06-034](capitulos/06.md)).
+- Cap. 06, 03:02:40.000: Intento de estabilización y última sirena abatida ([06-035](capitulos/06.md)).
+- Cap. 06, 03:08:00.000: Poncelot salva a Chochi con una poción ([06-036](capitulos/06.md)).
+- Cap. 06, 03:10:00.000: Tesoro real y cantidad de oro discrepante ([06-037](capitulos/06.md)).
+- Cap. 06, 03:15:45.000: Regreso, médico y búsqueda de Ione ([06-038](capitulos/06.md)).
+- Cap. 07, 02:22:00.000: Patata explica el reparto de las gemas y pide protección ([07-029](capitulos/07.md)).
+- Cap. 08, 00:04:00.000: Kilzer y el elfo pasan por el hospital ([08-003](capitulos/08.md)).
+- Cap. 08, 00:07:15.000: Blink sigue buscando a sus captores ([08-004](capitulos/08.md)).
+- Cap. 08, 00:12:00.000: Encuentro con Tlachka y advertencia sobre tesoros ([08-005](capitulos/08.md)).
+- Cap. 08, 00:20:35.000: Un pirata describe el ataque en un templo ([08-008](capitulos/08.md)).
+- Cap. 08, 00:28:30.000: Deciden investigar; referencias al plano feérico ([08-011](capitulos/08.md)).
+- Cap. 08, 00:35:30.000: Encuentran a Ayoto y un cadáver ([08-012](capitulos/08.md)).
+- Cap. 08, 01:00:00.000: Altar junto al río y dos piratas muertos ([08-016](capitulos/08.md)).
+- Cap. 08, 01:04:00.000: Emboscada de cinco panteras derrotada ([08-017](capitulos/08.md)).
+- Cap. 08, 01:29:40.000: Curación y objetos de los cadáveres ([08-019](capitulos/08.md)).
+- Cap. 08, 01:51:20.000: El combate termina con la muerte de la criatura y su reversión a mujer ([08-023](capitulos/08.md)).
+- Cap. 08, 02:12:40.000: Descanso de ocho horas y vuelta nocturna ([08-025](capitulos/08.md)).
+- Cap. 08, 02:23:50.000: Pantera al pozo, loro huido y espada rota ([08-027](capitulos/08.md)).
+- Cap. 11, 00:02:30.000: Kilzer prepara la venta de carne como remedio ([11-002](capitulos/11.md)).
+- Cap. 11, 00:12:40.000: Kilzer encuentra obsidiana; Ione recluta a Mamá ([11-006](capitulos/11.md)).
+- Cap. 11, 00:16:00.000: Kilzer es obligado a participar y Poncelot acepta el rescate por su ideal caballeresco ([11-007](capitulos/11.md)).
+- Cap. 11, 00:21:45.000: Reparto parcial del botín de las sirenas ([11-008](capitulos/11.md)).
+- Cap. 11, 00:26:00.000: Planes, huevo interpretado como Pegaso y salida al norte ([11-009](capitulos/11.md)).
+- Cap. 11, 00:49:15.000: Nox ofrece un negocio y resume el informe del elfo ([11-012](capitulos/11.md)).
+- Cap. 11, 00:59:00.000: Infiltración planeada; ruido de armadura fuerza cambio de sitio ([11-014](capitulos/11.md)).
+- Cap. 11, 01:07:00.000: Nox informa de las jaulas y la pirámide; los otros se sumergen ([11-015](capitulos/11.md)).
+- Cap. 11, 01:15:00.000: Camuflaje, cautivos vistos y lengua comprendida ([11-016](capitulos/11.md)).
+- Cap. 11, 01:31:15.000: Nox incendia el puente y los otros rodean el combate ([11-018](capitulos/11.md)).
+- Cap. 11, 01:43:20.000: Kilzer protege a Mamá y Nox incendia una choza ([11-019](capitulos/11.md)).
+- Cap. 11, 02:03:00.000: Los cocodrilos atacan y el grupo protege a Mamá ([11-021](capitulos/11.md)).
+- Cap. 11, 02:24:10.000: Pix recogido y última resistencia abatida ([11-023](capitulos/11.md)).
+- Cap. 11, 02:45:00.000: Jaulas abiertas pese a la rotura de una herramienta ([11-025](capitulos/11.md)).
+- Cap. 11, 02:47:50.000: Recuperación parcial de equipo y botín ([11-026](capitulos/11.md)).
+- Cap. 11, 02:56:30.000: Nox roba obsidiana a Kilzer ([11-028](capitulos/11.md)).
+- Cap. 11, 03:06:00.000: Pago discutido y traslado de los heridos al médico ([11-030](capitulos/11.md)).
+- Cap. 11, 03:09:40.000: Casino propuesto con licencia aún no comprobada ([11-031](capitulos/11.md)).
+- Cap. 12, 00:02:25.000: Cita de Ione y despertar de Axi ([12-002](capitulos/12.md)).
+- Cap. 13, 00:00:00.000: Patata recupera parte de su equipo y Nox reparte las ganancias de una venta ([13-001](capitulos/13.md)).
+- Cap. 13, 00:10:00.000: Kilzer sordo y Patata roba a Ayoto ([13-004](capitulos/13.md)).
+- Cap. 13, 00:15:00.000: Lunaria roba una cola y termina la sordera de Kilzer ([13-005](capitulos/13.md)).
+- Cap. 13, 00:19:40.000: Licencia visible y reacción de Lunaria al sentirse insultada ([13-006](capitulos/13.md)).
+- Cap. 13, 00:24:00.000: Patata compra ropa y Ayoto utiliza una piel como capa ([13-007](capitulos/13.md)).
+- Cap. 13, 00:29:30.000: Croquis de Jacki, botella y silencio de Kilzer ([13-008](capitulos/13.md)).
+- Cap. 13, 00:35:30.000: Ayoto entrega una capa a Pix y Bonnie lo despide ([13-009](capitulos/13.md)).
+- Cap. 13, 00:39:30.000: Puntos de interés, herramientas y ruta elegida por Ayoto ([13-010](capitulos/13.md)).
+- Cap. 13, 00:43:30.000: Nox anuncia un reparto del casino de 35/15/50 ([13-011](capitulos/13.md)).
+- Cap. 13, 00:46:40.000: Nox dormido, dos robos y dado explosivo ([13-012](capitulos/13.md)).
+- Cap. 13, 00:53:30.000: Efectos de fruta: armas pesadas, veneno y teletransporte ([13-013](capitulos/13.md)).
+- Cap. 13, 00:56:00.000: Templo desconocido, engaño del sol y portón abierto ([13-014](capitulos/13.md)).
+- Cap. 13, 01:03:45.000: Luz en Ayoto y plantas que atraen al grupo ([13-015](capitulos/13.md)).
+- Cap. 13, 01:19:00.000: Aparece una criatura de raíces y Patata destruye la planta que lo aprisiona ([13-017](capitulos/13.md)).
+- Cap. 13, 01:28:40.000: Kilzer queda atrapado y Nox lo libera de las raíces ([13-018](capitulos/13.md)).
+- Cap. 13, 01:35:30.000: Uso de un pergamino de fuego y Nox mata a otra planta ([13-019](capitulos/13.md)).
+- Cap. 13, 01:42:40.000: Ayoto agarrado y última planta abatida ([13-020](capitulos/13.md)).
+- Cap. 13, 01:48:00.000: Ayoto recoge lianas y dos semillas ([13-021](capitulos/13.md)).
+- Cap. 13, 01:58:30.000: Águila en el techo y ritual con ojos iluminados ([13-023](capitulos/13.md)).
+- Cap. 13, 02:05:20.000: La danza activa la plataforma hacia el sótano ([13-024](capitulos/13.md)).
+- Cap. 13, 02:08:20.000: Tesoro de cajas: jade, obsidiana y monedas antiguas ([13-025](capitulos/13.md)).
+- Cap. 15, 00:00:00.000: Casino en construcción y los hermanos exploran el pueblo ([15-001](capitulos/15.md)).
+- Cap. 15, 00:18:40.000: El grupo se reúne y Axi compra flechas y armadura ([15-005](capitulos/15.md)).
+- Cap. 15, 00:44:20.000: Frutas: obligación de decir la verdad, inmunidad a las armas y resistencias ([15-008](capitulos/15.md)).
+- Cap. 15, 00:50:30.000: Evitan un estegosauro y Triel obliga a Kilzer a arrodillarse ([15-009](capitulos/15.md)).
+- Cap. 15, 01:01:30.000: Restos de piratas y Triel infiltrada con disfraz ([15-010](capitulos/15.md)).
+- Cap. 15, 01:08:15.000: Un cebo permite eliminar a un defensor y el dragón alerta al otro flanco ([15-011](capitulos/15.md)).
+- Cap. 15, 01:28:20.000: Defensores y dinosaurios presionan a Patata ([15-013](capitulos/15.md)).
+- Cap. 15, 01:44:00.000: Kilzer es derribado y curado antes de auxiliar a Patata ([15-014](capitulos/15.md)).
+- Cap. 15, 02:00:00.000: Refuerzos y jefe; Axi inmune pero envenenado ([15-015](capitulos/15.md)).
+- Cap. 15, 02:14:20.000: Triel lucha disfrazada y Axi le dispara por error ([15-016](capitulos/15.md)).
+- Cap. 15, 02:31:10.000: El rival se levanta y Eldrat lo remata ([15-017](capitulos/15.md)).
+- Cap. 15, 02:40:20.000: Botín y Eldrat roba veintitrés a Kilzer ([15-018](capitulos/15.md)).
+- Cap. 15, 02:50:30.000: Bolsa recuperada y Bonnie paga cincuenta ([15-020](capitulos/15.md)).
+- Cap. 15, 02:56:30.000: Treinta monedas repartidas entre cuatro; el dragón busca a la abuela ([15-022](capitulos/15.md)).
+- Cap. 17, 00:00:00.000: Descanso, copa perdida y casino preparado ([17-001](capitulos/17.md)).
+- Cap. 17, 00:04:35.000: Axi contratado para detectar tramposos ([17-002](capitulos/17.md)).
+- Cap. 17, 00:06:30.000: Cuatro salen hacia Cuicapalli sin buena guía ([17-003](capitulos/17.md)).
+- Cap. 17, 00:17:30.000: Encuentro y frutas temporales ([17-005](capitulos/17.md)).
+- Cap. 17, 00:43:30.000: Axi relata su cautiverio mediante una conexión mental ([17-008](capitulos/17.md)).
+- Cap. 17, 00:47:30.000: Costumbres, comida y amenazas interesadas ([17-009](capitulos/17.md)).
+- Cap. 17, 01:08:00.000: Axi y Kilzer señalados; cofres sujetos a prueba ([17-012](capitulos/17.md)).
+- Cap. 17, 01:16:00.000: Los cinco entran en una prueba contra bestias ([17-013](capitulos/17.md)).
+- Cap. 17, 01:24:30.000: Preparación y rugido que afecta a Axi ([17-014](capitulos/17.md)).
+- Cap. 17, 01:35:30.000: Mueren las primeras criaturas y Kilzer se transforma temporalmente en araña ([17-015](capitulos/17.md)).
+- Cap. 17, 01:51:20.000: Cocodrilo enorme y Naór convertida en oveja ([17-016](capitulos/17.md)).
+- Cap. 17, 02:03:00.000: Naór y Triel dentro del cocodrilo, Axi lo mata ([17-017](capitulos/17.md)).
+- Cap. 17, 02:17:20.000: La hidra de la prueba mata a un cuidador y escupe ácido ([17-018](capitulos/17.md)).
+- Cap. 17, 02:25:30.000: Naór derriba al monstruo y Eldrat lo mata para ayudar a su hermana ([17-019](capitulos/17.md)).
+- Cap. 17, 02:35:30.000: Explosión ácida de carta y victoria reconocida ([17-020](capitulos/17.md)).
+- Cap. 17, 02:39:30.000: Botín y promesa de los dirigentes de asistir al concilio ([17-021](capitulos/17.md)).
+- Cap. 17, 02:45:30.000: Trueque leonino y quince monedas a Axi ([17-022](capitulos/17.md)).
+- Cap. 17, 02:51:10.000: Separación: regreso y misión todavía sin Iktan ([17-023](capitulos/17.md)).
+- Cap. 21, 00:06:00.000: Venta y robo del casino ([21-002](capitulos/21.md)).
+- Cap. 23, 00:00:00.000: La carta de Nox impulsa el rescate ([23-001](capitulos/23.md)).
+- Cap. 23, 00:06:00.000: Equipo de rescate reunido ([23-002](capitulos/23.md)).
+- Cap. 23, 00:21:00.000: Negociación fallida y herramientas ([23-003](capitulos/23.md)).
+- Cap. 23, 00:46:00.000: Chocolate y entrada despejada ([23-006](capitulos/23.md)).
+- Cap. 23, 01:00:00.000: Disfraz de Kilzer y amistad con los perros ([23-007](capitulos/23.md)).
+- Cap. 23, 01:17:00.000: Dos rutas de entrada ([23-008](capitulos/23.md)).
+- Cap. 23, 01:30:00.000: Recompensa por Ione y Mamá como supuesta informante ([23-009](capitulos/23.md)).
+- Cap. 23, 01:57:00.000: Molly sospecha y ofrece dinero ([23-012](capitulos/23.md)).
+- Cap. 23, 02:15:00.000: Sombrero, dos caídas y explosión ([23-013](capitulos/23.md)).
+- Cap. 23, 02:37:00.000: Reencuentro y documentos sobre una ciudad ([23-015](capitulos/23.md)).
+- Cap. 23, 02:43:00.000: Perros frenan perseguidores y mosca evacúa ([23-016](capitulos/23.md)).
+- Cap. 29, 00:00:00.000: Trampas reforzadas y casino aún cerrado ([29-001](capitulos/29.md)).
+- Cap. 29, 00:03:00.000: Coyote paga diez monedas de oro a Kilzer ([29-002](capitulos/29.md)).
+- Cap. 29, 00:13:00.000: Los guerreros aceptan ayudar al pueblo de la sirena ([29-004](capitulos/29.md)).
+- Cap. 29, 00:23:00.000: Seta tóxica y efectos de fruta ([29-006](capitulos/29.md)).
+- Cap. 29, 00:27:00.000: Pinky busca a Cipo y hace crecer cáñamo ([29-007](capitulos/29.md)).
+- Cap. 29, 00:31:00.000: Burbujas de una hora y Coyote copia a Pinky ([29-008](capitulos/29.md)).
+- Cap. 29, 00:36:00.000: Un agujero del lago conecta con el mar ([29-009](capitulos/29.md)).
+- Cap. 29, 00:44:00.000: Ausencia de peces y figuras junto al coral ([29-010](capitulos/29.md)).
+- Cap. 29, 00:49:00.000: Cuatro merros detectan la arena levantada por los guerreros ([29-011](capitulos/29.md)).
+- Cap. 29, 00:55:00.000: Reglas subacuáticas y primeros golpes ([29-012](capitulos/29.md)).
+- Cap. 29, 01:04:00.000: Ayoto paralizado y copias que protegen al mago ([29-013](capitulos/29.md)).
+- Cap. 29, 01:15:00.000: Destrucción de las copias y Patrón hipnótico ([29-014](capitulos/29.md)).
+- Cap. 29, 01:24:00.000: Los golpes rompen el encantamiento y se forma una nube de arena ([29-015](capitulos/29.md)).
+- Cap. 29, 01:34:00.000: Kilzer paralizado y un rayo lo derriba ([29-016](capitulos/29.md)).
+- Cap. 29, 01:43:00.000: Un beso con poción permite recuperar a Kilzer ([29-017](capitulos/29.md)).
+- Cap. 29, 01:50:00.000: Cuatro atacantes muertos y perla de botín ([29-018](capitulos/29.md)).
+- Cap. 29, 01:59:00.000: Maris calma a los guardias y los besos conceden branquias ([29-019](capitulos/29.md)).
+- Cap. 29, 02:20:00.000: Secuestros y kraken que crece por rituales ([29-022](capitulos/29.md)).
+- Cap. 29, 02:32:00.000: Habitación pagada y descanso local ([29-024](capitulos/29.md)).
+- Cap. 32, 00:14:00.000: Patata explica guerra y autoridades ([32-004](capitulos/32.md)).
+
+## La Madriguera
+
+- Cap. 16, 02:10:40.000: Comercios de Cuicapalli y tatuajes ([16-018](capitulos/16.md)).
+
+## La Sirena Borracha
+
+- Cap. 01, 01:49:08.000: Comercios del poblado ([01-024](capitulos/01.md)).
+- Cap. 01, 01:53:43.000: Alojamiento y servicio de la Sirena Borracha ([01-025](capitulos/01.md)).
+- Cap. 01, 02:08:04.000: Revelación del servicio premium ([01-035](capitulos/01.md)).
+- Cap. 04, 02:00:55.000: Alojamiento y separación al regreso ([04-027](capitulos/04.md)).
+- Cap. 04, 02:13:00.000: Patata paga con una gema ([04-030](capitulos/04.md)).
+- Cap. 06, 00:14:00.000: Gema de Liz y suministro del poblado ([06-007](capitulos/06.md)).
+- Cap. 06, 00:18:30.000: Poncelot cree que Merlucilla escapó ([06-009](capitulos/06.md)).
+- Cap. 09, 02:51:30.000: Ione vende obsidiana y compra ropa a Nox ([09-032](capitulos/09.md)).
+
+## Leo
+
+- Cap. 21, 00:51:00.000: Leo, escondido, relata el secuestro ([21-007](capitulos/21.md)).
+- Cap. 21, 01:02:00.000: La mosca rastrea hasta una cueva ([21-008](capitulos/21.md)).
+- Cap. 21, 01:50:00.000: Leo entrega el collar de plata y Poncelot despierta ([21-012](capitulos/21.md)).
+- Cap. 21, 02:20:00.000: Restos de los padres y pelea por Leo ([21-014](capitulos/21.md)).
+- Cap. 21, 02:35:00.000: Leona curada y destinos separados ([21-016](capitulos/21.md)).
+- Cap. 31, 00:00:00.000: Coyote vuelve, los gemelos exploran y Naór cría a Leo ([31-001](capitulos/31.md)).
+- Cap. 31, 00:18:00.000: Tesara observa el entrenamiento de Leo ([31-004](capitulos/31.md)).
+- Cap. 31, 00:24:00.000: Naór, princesa de Atlan, y el objetivo de llegar a Iktan ([31-005](capitulos/31.md)).
+- Cap. 31, 00:31:00.000: Grupos confluyen y conflicto territorial ([31-006](capitulos/31.md)).
+- Cap. 31, 00:56:00.000: La voz de Leo induce un golpe de Naór ([31-009](capitulos/31.md)).
+- Cap. 31, 01:17:00.000: Naór paralizada y Tesa detecta una criatura enorme ([31-012](capitulos/31.md)).
+- Cap. 31, 01:23:00.000: Una voz conoce intimidades y alza a los muertos con plantas ([31-013](capitulos/31.md)).
+- Cap. 31, 01:36:00.000: Eldrat reconoce al dragón verde y el ácido daña al grupo ([31-015](capitulos/31.md)).
+- Cap. 31, 01:44:00.000: Tesa protege a Leo y se propone huir ([31-016](capitulos/31.md)).
+- Cap. 31, 02:04:00.000: Leo queda envenenado y los compañeros se cubren ([31-018](capitulos/31.md)).
+- Cap. 31, 02:16:00.000: Leo mata al último zombi y los cuerpos se funden; llegada a Iktan ([31-019](capitulos/31.md)).
+- Cap. 31, 02:21:00.000: Ciudad y ruinas de piedra derretida ([31-020](capitulos/31.md)).
+- Cap. 31, 02:34:00.000: Naór y Triel comen mientras Coyote habla con la tabernera ([31-022](capitulos/31.md)).
+- Cap. 31, 03:10:00.000: Confianza limitada y secreto de ruta ([31-028](capitulos/31.md)).
+
+## Leona
+
+- Cap. 19, 00:07:00.000: Leona castigada por agresividad ([19-002](capitulos/19.md)).
+- Cap. 19, 00:15:00.000: Investigar muertes de dinosaurios ([19-003](capitulos/19.md)).
+- Cap. 19, 00:18:00.000: Pinky drogada y conflicto entre aliadas ([19-004](capitulos/19.md)).
+- Cap. 19, 00:28:00.000: Frutas y espíritu insultante ([19-005](capitulos/19.md)).
+- Cap. 19, 00:34:00.000: Tres depredadores muertos y humo aliado ([19-006](capitulos/19.md)).
+- Cap. 19, 00:46:00.000: Curación de Mamá vuelve a dañar ([19-007](capitulos/19.md)).
+- Cap. 19, 00:49:00.000: Cadáveres corroídos y lago sin fauna ([19-008](capitulos/19.md)).
+- Cap. 19, 00:56:00.000: Pelea, esfera de fuego y llegada de Ayoto ([19-009](capitulos/19.md)).
+- Cap. 19, 01:08:00.000: Un triceratops alterado y una serpiente atacan ([19-010](capitulos/19.md)).
+- Cap. 19, 01:20:00.000: Mamá cae y Leona recibe asistencia ([19-011](capitulos/19.md)).
+- Cap. 19, 01:28:00.000: Muere el triceratops y Santuario bloquea los golpes ([19-012](capitulos/19.md)).
+- Cap. 19, 01:41:00.000: Chocolate, raíces y serpiente muerta ([19-013](capitulos/19.md)).
+- Cap. 19, 01:50:00.000: Collar con voz poderosa en fruta ([19-014](capitulos/19.md)).
+- Cap. 19, 01:55:00.000: Regreso con Pinky alucinando ([19-015](capitulos/19.md)).
+- Cap. 19, 02:10:00.000: Encargo de entrenar a Leona y cena descartada ([19-017](capitulos/19.md)).
+- Cap. 21, 00:00:00.000: Descansos, montura y pérdidas ([21-001](capitulos/21.md)).
+- Cap. 21, 00:19:00.000: Encuentro entre Leona y Naór, y protección de la mosca ([21-004](capitulos/21.md)).
+- Cap. 21, 00:25:00.000: Las frutas y el licor afectan a la conducta ([21-005](capitulos/21.md)).
+- Cap. 21, 00:41:00.000: Campamento y cocodrilo muerto ([21-006](capitulos/21.md)).
+- Cap. 21, 00:51:00.000: Leo, escondido, relata el secuestro ([21-007](capitulos/21.md)).
+- Cap. 21, 01:02:00.000: La mosca rastrea hasta una cueva ([21-008](capitulos/21.md)).
+- Cap. 21, 01:08:00.000: Las esporas provocan sueño y daño al despertar ([21-009](capitulos/21.md)).
+- Cap. 21, 01:24:00.000: Sangre, transformación y melodía ralentizadora ([21-010](capitulos/21.md)).
+- Cap. 21, 01:36:00.000: Lobos, hipnosis y resistencia a parálisis ([21-011](capitulos/21.md)).
+- Cap. 21, 01:50:00.000: Leo entrega el collar de plata y Poncelot despierta ([21-012](capitulos/21.md)).
+- Cap. 21, 02:20:00.000: Restos de los padres y pelea por Leo ([21-014](capitulos/21.md)).
+- Cap. 21, 02:35:00.000: Leona curada y destinos separados ([21-016](capitulos/21.md)).
+- Cap. 30, 00:00:00.000: Leona harengon, Guayacán y Winscore en camino ([30-001](capitulos/30.md)).
+- Cap. 30, 00:12:00.000: Luna es admitida como chamán e interfiere en el trabajo de Parroter ([30-003](capitulos/30.md)).
+- Cap. 30, 00:31:00.000: Hoja Caída y encargo de mediación ([30-007](capitulos/30.md)).
+- Cap. 30, 00:37:00.000: Frutas y ruinas con monos antes de la cueva ([30-008](capitulos/30.md)).
+- Cap. 30, 00:46:00.000: Recepción de la Hoja Caída y cambio de una pupila ([30-009](capitulos/30.md)).
+- Cap. 30, 00:54:00.000: Charcas venenosas conectadas y muestra tomada ([30-010](capitulos/30.md)).
+- Cap. 30, 01:03:00.000: Mujer disfrazada muere sin captura ([30-011](capitulos/30.md)).
+- Cap. 30, 01:08:00.000: Mujer del caldero capturada inicialmente ([30-012](capitulos/30.md)).
+- Cap. 30, 01:27:00.000: Bola de fuego y grupo paralizado ([30-014](capitulos/30.md)).
+- Cap. 30, 01:37:00.000: La segunda explosión mata a la mujer y Luna cura al monje ([30-015](capitulos/30.md)).
+- Cap. 30, 01:41:00.000: Criaturas de charcas muertas y victoria ([30-016](capitulos/30.md)).
+- Cap. 30, 01:48:00.000: Veneno derramado y cadáveres en la reja ([30-017](capitulos/30.md)).
+- Cap. 30, 01:54:00.000: Cabezas para hablar con los muertos y evacuación por el humo ([30-018](capitulos/30.md)).
+- Cap. 30, 02:00:00.000: Muestras aisladas en casa de Leona ([30-019](capitulos/30.md)).
+- Cap. 30, 02:04:00.000: Eromov envía a Parroter a investigar una cura ([30-020](capitulos/30.md)).
+- Cap. 30, 02:12:00.000: Descanso y reflexión de Luna sobre el exceso de fuego ([30-022](capitulos/30.md)).
+
+## Liz
+
+- Cap. 01, 01:53:43.000: Alojamiento y servicio de la Sirena Borracha ([01-025](capitulos/01.md)).
+- Cap. 04, 02:13:00.000: Patata paga con una gema ([04-030](capitulos/04.md)).
+- Cap. 06, 00:06:55.000: Bonnie localiza una gema y exige las demás ([06-004](capitulos/06.md)).
+- Cap. 06, 00:14:00.000: Gema de Liz y suministro del poblado ([06-007](capitulos/06.md)).
+- Cap. 06, 00:18:30.000: Poncelot cree que Merlucilla escapó ([06-009](capitulos/06.md)).
+- Cap. 07, 02:22:00.000: Patata explica el reparto de las gemas y pide protección ([07-029](capitulos/07.md)).
+- Cap. 09, 02:51:30.000: Ione vende obsidiana y compra ropa a Nox ([09-032](capitulos/09.md)).
+- Cap. 10, 00:14:10.000: Bonnie amenaza a Patata por la gema utilizada para pagar alojamiento ([10-007](capitulos/10.md)).
+- Cap. 11, 00:06:30.000: Poncelot sigue buscando a su primera montura ([11-004](capitulos/11.md)).
+- Cap. 11, 03:14:40.000: Gema de Liz obtenida por inspiración; recuento ambiguo ([11-032](capitulos/11.md)).
+- Cap. 13, 00:00:00.000: Patata recupera parte de su equipo y Nox reparte las ganancias de una venta ([13-001](capitulos/13.md)).
+- Cap. 13, 00:43:30.000: Nox anuncia un reparto del casino de 35/15/50 ([13-011](capitulos/13.md)).
+- Cap. 14, 00:16:00.000: Patata vende jade a Liz por cincuenta ([14-004](capitulos/14.md)).
+- Cap. 14, 00:21:35.000: Los hermanos llegan y compran ropa negra ([14-005](capitulos/14.md)).
+- Cap. 20, 00:33:00.000: Mosca domada con fregona ([20-005](capitulos/20.md)).
+- Cap. 25, 00:09:00.000: Noche dispersa en Shiaru ([25-004](capitulos/25.md)).
+- Cap. 31, 00:10:00.000: Venta de perlas y tatuaje de Triel ([31-003](capitulos/31.md)).
+- Cap. 33, 00:04:00.000: Axi despierta sin memoria entre cadáveres ([33-001](capitulos/33.md)).
+- Cap. 35, 00:06:00.000: Venta de jade y patrulla engañada ([35-002](capitulos/35.md)).
+
+## Lucy
+
+- Cap. 05, 00:04:00.000: Jack quiere volver con Lucy ([05-003](capitulos/05.md)).
+- Cap. 12, 00:24:15.000: Jack debe ir a Puerto de Espadas y volver con ganancias ([12-007](capitulos/12.md)).
+
+## Lunaria
+
+- Cap. 05, 00:54:30.000: Nox conoce y libera a Lunaria ([05-015](capitulos/05.md)).
+- Cap. 05, 01:00:00.000: Lunaria relata la captura de su barco y acepta ayudar ([05-016](capitulos/05.md)).
+- Cap. 05, 01:02:35.000: La distracción permite bajar a los compañeros ([05-017](capitulos/05.md)).
+- Cap. 05, 01:24:00.000: Alimentos, frutas y candados ([05-018](capitulos/05.md)).
+- Cap. 05, 01:38:30.000: Lunaria abre candados con magia ([05-020](capitulos/05.md)).
+- Cap. 05, 01:41:40.000: Armería saqueada y sabotaje ([05-021](capitulos/05.md)).
+- Cap. 05, 02:11:00.000: Magia salvaje y nueva herida ([05-026](capitulos/05.md)).
+- Cap. 05, 02:19:45.000: La amenaza de explosión hace bajar las armas ([05-027](capitulos/05.md)).
+- Cap. 05, 02:29:55.000: Fuego ilusorio y salida del grupo ([05-028](capitulos/05.md)).
+- Cap. 05, 02:36:00.000: La vela lanzada provoca un incendio real ([05-029](capitulos/05.md)).
+- Cap. 05, 02:45:30.000: Lunaria revela la vela y Bonnie impone consecuencias ([05-031](capitulos/05.md)).
+- Cap. 05, 02:52:20.000: Persiguen al visitante y Nox se interesa por los mapas ([05-033](capitulos/05.md)).
+- Cap. 07, 00:04:35.000: Actividad de Lunaria y Erendriel ([07-003](capitulos/07.md)).
+- Cap. 07, 00:10:10.000: Rumor del huevo anotado por Lunaria ([07-005](capitulos/07.md)).
+- Cap. 07, 00:22:00.000: Se reúne el grupo con el dragón vivo ([07-007](capitulos/07.md)).
+- Cap. 07, 00:42:00.000: Frutas de la expedición ([07-011](capitulos/07.md)).
+- Cap. 07, 00:47:00.000: Puente, nido y huellas ausentes ([07-012](capitulos/07.md)).
+- Cap. 07, 00:54:50.000: Piratas intentan capturar a Patata ([07-013](capitulos/07.md)).
+- Cap. 07, 01:02:30.000: Ceguera y nueva inmunidad al alcohol de Lunaria ([07-014](capitulos/07.md)).
+- Cap. 07, 01:50:15.000: Cautivo atado, plumas y anatomía ([07-022](capitulos/07.md)).
+- Cap. 07, 01:56:20.000: Moneda antigua hallada por Lunaria ([07-024](capitulos/07.md)).
+- Cap. 07, 02:06:45.000: Perla y copia de escrituras desconocidas ([07-026](capitulos/07.md)).
+- Cap. 07, 02:14:15.000: Cría, venta y huida por un ruido ([07-027](capitulos/07.md)).
+- Cap. 07, 02:18:45.000: El ruido era Cipo, revelación al espectador ([07-028](capitulos/07.md)).
+- Cap. 07, 02:36:00.000: Cautivo y perla entregados a Bonnie ([07-032](capitulos/07.md)).
+- Cap. 07, 02:41:35.000: Pacto secreto para vender la futura cría ([07-033](capitulos/07.md)).
+- Cap. 07, 02:46:10.000: Lunaria gana la apuesta y Patata corta árboles ([07-034](capitulos/07.md)).
+- Cap. 09, 00:00:00.000: Descanso y conversación entre sesiones de Nox ([09-001](capitulos/09.md)).
+- Cap. 09, 00:07:00.000: El loro escapa y la bolsa termina en una criatura marina ([09-005](capitulos/09.md)).
+- Cap. 09, 00:10:30.000: Ione encuentra armas y devuelve el estoque a Nox ([09-006](capitulos/09.md)).
+- Cap. 09, 00:23:40.000: El huevo sigue sin eclosionar y la inmunidad se recuerda como una semana ([09-008](capitulos/09.md)).
+- Cap. 09, 00:30:45.000: Lunaria ahuyenta al loro e Ione da una botella a Axi ([09-010](capitulos/09.md)).
+- Cap. 09, 00:39:05.000: El mapa requiere un guía y Lunaria dibuja una copia ([09-012](capitulos/09.md)).
+- Cap. 09, 00:51:30.000: Frutas cambian sombras y dan curación a Nox ([09-015](capitulos/09.md)).
+- Cap. 09, 00:55:45.000: Orangutanes ahuyentados por fuego; aparece Pinky ([09-016](capitulos/09.md)).
+- Cap. 09, 01:01:00.000: Chocolate por hierba; Pinky sigue al grupo ([09-017](capitulos/09.md)).
+- Cap. 09, 01:07:30.000: Llegan a ruinas serpentinas y entran ([09-018](capitulos/09.md)).
+- Cap. 09, 01:15:30.000: El agua no activa el altar e Ione desencadena la trampa de veneno ([09-019](capitulos/09.md)).
+- Cap. 09, 01:45:40.000: Una planta atrae a Nox y sus compañeras lo liberan ([09-024](capitulos/09.md)).
+- Cap. 09, 02:08:20.000: Lunaria crece y recibe la copa; Pinky finge morir ([09-027](capitulos/09.md)).
+- Cap. 09, 02:24:30.000: Curación, sombra y victoria sobre los guardianes ([09-028](capitulos/09.md)).
+- Cap. 09, 02:37:10.000: Monedas, cimitarra y robo a Pinky viva ([09-029](capitulos/09.md)).
+- Cap. 09, 02:47:40.000: El director aclara el tributo y los tatuajes siguen sin interpretar ([09-031](capitulos/09.md)).
+- Cap. 09, 02:58:10.000: Ventas finales, pociones y herramientas; Mamá se retira ([09-033](capitulos/09.md)).
+- Cap. 10, 00:01:05.000: Patata prepara calor para el huevo y sigue talando ([10-001](capitulos/10.md)).
+- Cap. 13, 00:03:00.000: Lunaria encuentra un mapa y Ayoto busca información ([13-002](capitulos/13.md)).
+- Cap. 13, 00:15:00.000: Lunaria roba una cola y termina la sordera de Kilzer ([13-005](capitulos/13.md)).
+- Cap. 13, 00:19:40.000: Licencia visible y reacción de Lunaria al sentirse insultada ([13-006](capitulos/13.md)).
+- Cap. 13, 00:24:00.000: Patata compra ropa y Ayoto utiliza una piel como capa ([13-007](capitulos/13.md)).
+- Cap. 13, 00:29:30.000: Croquis de Jacki, botella y silencio de Kilzer ([13-008](capitulos/13.md)).
+- Cap. 13, 00:39:30.000: Puntos de interés, herramientas y ruta elegida por Ayoto ([13-010](capitulos/13.md)).
+- Cap. 13, 00:46:40.000: Nox dormido, dos robos y dado explosivo ([13-012](capitulos/13.md)).
+- Cap. 13, 00:53:30.000: Efectos de fruta: armas pesadas, veneno y teletransporte ([13-013](capitulos/13.md)).
+- Cap. 13, 00:56:00.000: Templo desconocido, engaño del sol y portón abierto ([13-014](capitulos/13.md)).
+- Cap. 13, 01:10:00.000: Daño ácido y ayuda condicionada a jurar al Sol ([13-016](capitulos/13.md)).
+- Cap. 13, 01:19:00.000: Aparece una criatura de raíces y Patata destruye la planta que lo aprisiona ([13-017](capitulos/13.md)).
+- Cap. 13, 01:28:40.000: Kilzer queda atrapado y Nox lo libera de las raíces ([13-018](capitulos/13.md)).
+- Cap. 13, 01:35:30.000: Uso de un pergamino de fuego y Nox mata a otra planta ([13-019](capitulos/13.md)).
+- Cap. 13, 01:48:00.000: Ayoto recoge lianas y dos semillas ([13-021](capitulos/13.md)).
+- Cap. 13, 01:52:10.000: Columnas de jaguar, águila y serpiente comprendidas ([13-022](capitulos/13.md)).
+- Cap. 13, 01:58:30.000: Águila en el techo y ritual con ojos iluminados ([13-023](capitulos/13.md)).
+- Cap. 13, 02:05:20.000: La danza activa la plataforma hacia el sótano ([13-024](capitulos/13.md)).
+- Cap. 13, 02:08:20.000: Tesoro de cajas: jade, obsidiana y monedas antiguas ([13-025](capitulos/13.md)).
+- Cap. 13, 02:13:15.000: Lunaria sale mediante Paso brumoso y la plataforma no sube ([13-026](capitulos/13.md)).
+- Cap. 16, 00:02:20.000: Muerte del elfo referida y búsqueda de templo ([16-002](capitulos/16.md)).
+- Cap. 16, 00:18:30.000: Luna y Triel encuentran a una leonina que muerde el mapa ([16-006](capitulos/16.md)).
+- Cap. 16, 00:38:00.000: Mapa reparado y deidades discutidas ([16-008](capitulos/16.md)).
+- Cap. 16, 00:45:15.000: Serpientes derrotadas y Naór libera a Patata ([16-009](capitulos/16.md)).
+- Cap. 16, 01:24:30.000: El cocodrilo gigante atrapa a Patata y el grupo lo mata ([16-012](capitulos/16.md)).
+- Cap. 16, 02:02:20.000: Taberna tranquila, encargo fucsia y campeón del sol ([16-017](capitulos/16.md)).
+- Cap. 16, 02:16:40.000: El mapa de Luna no pertenece a la zona y se toman unos tubos ([16-020](capitulos/16.md)).
+- Cap. 16, 02:20:30.000: Luna y Triel parten mientras el resto celebra el banquete ([16-021](capitulos/16.md)).
+- Cap. 22, 02:28:00.000: La explosión del jefe causa veneno ([22-015](capitulos/22.md)).
+- Cap. 25, 00:06:00.000: Luna experimenta y Tlachka vende elotes ([25-003](capitulos/25.md)).
+- Cap. 25, 00:09:00.000: Noche dispersa en Shiaru ([25-004](capitulos/25.md)).
+- Cap. 25, 00:22:00.000: Ataques simultáneos a Blink, Nox y el barco ([25-006](capitulos/25.md)).
+- Cap. 25, 00:28:00.000: Ilusiones y evasión inicial ([25-007](capitulos/25.md)).
+- Cap. 25, 00:40:00.000: Miedo mágico y respeto a una ilusión ([25-009](capitulos/25.md)).
+- Cap. 25, 00:46:00.000: Nox encuentra a Luna y una mujer exige el mapa ([25-010](capitulos/25.md)).
+- Cap. 25, 00:54:30.000: Los sonidos desvían a los enemigos y tres compañeros se reúnen ([25-011](capitulos/25.md)).
+- Cap. 25, 01:08:00.000: Robo a Pix y Poncelot sujeto por la cola ([25-012](capitulos/25.md)).
+- Cap. 25, 01:18:00.000: Mapa reclamado y Hambre de Hadar ([25-013](capitulos/25.md)).
+- Cap. 25, 01:24:40.000: Invisibilidad conjunta y Merlucilla llega ([25-014](capitulos/25.md)).
+- Cap. 25, 01:52:30.000: Luna mata a dos bestias mediante magia salvaje ([25-017](capitulos/25.md)).
+- Cap. 25, 02:01:00.000: Último enemigo muerto y Pix enfadado ([25-018](capitulos/25.md)).
+- Cap. 25, 02:24:00.000: Las órdenes buscan el mapa y el collar de Blink ([25-021](capitulos/25.md)).
+- Cap. 30, 00:00:00.000: Leona harengon, Guayacán y Winscore en camino ([30-001](capitulos/30.md)).
+- Cap. 30, 00:05:00.000: Winscore admitido bajo responsabilidad de Luna ([30-002](capitulos/30.md)).
+- Cap. 30, 00:12:00.000: Luna es admitida como chamán e interfiere en el trabajo de Parroter ([30-003](capitulos/30.md)).
+- Cap. 30, 00:19:00.000: Marcas verdes y veneno similar al de las serpientes ([30-004](capitulos/30.md)).
+- Cap. 30, 00:37:00.000: Frutas y ruinas con monos antes de la cueva ([30-008](capitulos/30.md)).
+- Cap. 30, 00:46:00.000: Recepción de la Hoja Caída y cambio de una pupila ([30-009](capitulos/30.md)).
+- Cap. 30, 00:54:00.000: Charcas venenosas conectadas y muestra tomada ([30-010](capitulos/30.md)).
+- Cap. 30, 01:08:00.000: Mujer del caldero capturada inicialmente ([30-012](capitulos/30.md)).
+- Cap. 30, 01:27:00.000: Bola de fuego y grupo paralizado ([30-014](capitulos/30.md)).
+- Cap. 30, 01:37:00.000: La segunda explosión mata a la mujer y Luna cura al monje ([30-015](capitulos/30.md)).
+- Cap. 30, 01:41:00.000: Criaturas de charcas muertas y victoria ([30-016](capitulos/30.md)).
+- Cap. 30, 01:48:00.000: Veneno derramado y cadáveres en la reja ([30-017](capitulos/30.md)).
+- Cap. 30, 01:54:00.000: Cabezas para hablar con los muertos y evacuación por el humo ([30-018](capitulos/30.md)).
+- Cap. 30, 02:12:00.000: Descanso y reflexión de Luna sobre el exceso de fuego ([30-022](capitulos/30.md)).
+- Cap. 32, 00:00:00.000: Granja, fuego y ausencia de Bonnie ([32-001](capitulos/32.md)).
+- Cap. 32, 00:04:30.000: Eleanor y escudera llegan ([32-002](capitulos/32.md)).
+- Cap. 32, 00:20:00.000: Luna quema restos del caimán ([32-005](capitulos/32.md)).
+- Cap. 32, 00:34:00.000: Bola de fuego y defensa de Eleanor ([32-008](capitulos/32.md)).
+- Cap. 32, 00:48:00.000: Fuego amigo y nuevos refuerzos ([32-010](capitulos/32.md)).
+- Cap. 32, 00:54:00.000: Intimidación provoca retirada parcial ([32-011](capitulos/32.md)).
+- Cap. 32, 01:12:00.000: General aviar y desgaste ([32-013](capitulos/32.md)).
+- Cap. 32, 01:58:00.000: Shiaru resiste invasión ([32-017](capitulos/32.md)).
+- Cap. 32, 02:08:00.000: Recompensas y paradero de Citlali ([32-019](capitulos/32.md)).
+- Cap. 35, 00:00:00.000: Casco del gnomo y Molly incomunicada ([35-001](capitulos/35.md)).
+- Cap. 35, 00:06:00.000: Venta de jade y patrulla engañada ([35-002](capitulos/35.md)).
+- Cap. 35, 00:12:00.000: Nox no encuentra Ione y Luna mata loro ([35-003](capitulos/35.md)).
+- Cap. 35, 00:30:00.000: Moneda antigua y búsqueda Molly ([35-005](capitulos/35.md)).
+- Cap. 35, 00:40:00.000: Uniforme Jack y viaje al fuerte ([35-006](capitulos/35.md)).
+- Cap. 35, 00:53:00.000: Mercader, distracción y entrada submarina ([35-007](capitulos/35.md)).
+- Cap. 35, 01:24:00.000: Tórtola rechaza alojamiento y tortillas vendidas ([35-010](capitulos/35.md)).
+- Cap. 35, 01:33:00.000: Explosión de pólvora y torre infiltrada ([35-011](capitulos/35.md)).
+- Cap. 35, 01:52:00.000: Tórtola retiene viajeros y compra mentira ([35-013](capitulos/35.md)).
+- Cap. 35, 02:26:00.000: Reencuentro y Molly vuelve con grupo ([35-017](capitulos/35.md)).
+- Cap. 35, 02:42:00.000: Bonnie y Molly reencuentran; recompensas ([35-019](capitulos/35.md)).
+- Cap. 35, 02:51:00.000: Nox pide conversación con Molly ([35-020](capitulos/35.md)).
+- Cap. 37, 00:00:00.000: Eleanor investiga y Luna cambia de forma ([37-001](capitulos/37.md)).
+- Cap. 37, 00:08:00.000: Búsqueda de Nox y noticias de la escudera ([37-002](capitulos/37.md)).
+- Cap. 37, 00:24:00.000: Emboscada a los suministros con Tlachka al mando ([37-004](capitulos/37.md)).
+- Cap. 37, 00:32:00.000: La esfera reacciona ante Citlali ([37-005](capitulos/37.md)).
+- Cap. 37, 00:36:00.000: Comida contra el cansancio y efectos de las frutas ([37-006](capitulos/37.md)).
+- Cap. 37, 00:45:00.000: Preparación de trampas y del glifo Parlamento ([37-007](capitulos/37.md)).
+- Cap. 37, 01:00:00.000: Una trampa captura a un marine y Nox lo mata ([37-008](capitulos/37.md)).
+- Cap. 37, 01:11:00.000: El caballo provoca daños y el glifo paraliza al capitán ([37-009](capitulos/37.md)).
+- Cap. 37, 01:22:00.000: Muere el capitán y un marine huye ([37-010](capitulos/37.md)).
+- Cap. 37, 01:40:00.000: Luna incendia una carreta de suministros ([37-012](capitulos/37.md)).
+- Cap. 37, 01:44:00.000: Huida en la carreta restante ([37-013](capitulos/37.md)).
+- Cap. 37, 01:50:00.000: Explosión y cañonazo contra el dinosaurio ([37-014](capitulos/37.md)).
+- Cap. 37, 01:57:00.000: Entrega de una carreta y recompensas ([37-015](capitulos/37.md)).
+- Cap. 37, 02:14:00.000: Luna roba pólvora y Nox parte hacia el fuerte ([37-018](capitulos/37.md)).
+- Cap. 39, 00:09:00.000: Ayoto se incorpora y una rana acompaña a Citlali ([39-003](capitulos/39.md)).
+- Cap. 39, 00:34:00.000: Ayoto libera a Citlali y Luna se revela ([39-006](capitulos/39.md)).
+- Cap. 39, 00:42:00.000: Continúa el combate y la cría se acerca lentamente ([39-007](capitulos/39.md)).
+- Cap. 39, 00:52:00.000: Mueren la abominación y el último guardia ([39-009](capitulos/39.md)).
+- Cap. 39, 01:05:00.000: Los refuerzos buscan la piel de Citlali ([39-010](capitulos/39.md)).
+- Cap. 39, 01:13:00.000: La segunda bola de fuego derrumba la cueva ([39-011](capitulos/39.md)).
+- Cap. 39, 01:20:00.000: Citlali y Etley siguen vivos mientras comienza la excavación ([39-012](capitulos/39.md)).
+- Cap. 39, 01:27:00.000: Los guardias ayudan a rescatar a Citlali y Etley ([39-013](capitulos/39.md)).
+- Cap. 39, 01:34:00.000: Citlali drena a Tlachka y el grupo marcha al norte ([39-014](capitulos/39.md)).
+- Cap. 39, 01:40:00.000: Animales vigilantes y rastros de viajeros anteriores ([39-015](capitulos/39.md)).
+- Cap. 39, 01:55:00.000: Iktan admite y cura a los viajeros ([39-017](capitulos/39.md)).
+- Cap. 39, 02:08:00.000: Luna prueba las ganzúas y Coyote recibe una reprimenda ([39-019](capitulos/39.md)).
+
+## Mango
+
+- Cap. 12, 00:28:50.000: Jack informa de Fuerte Aurora; Nox busca tres compañeros ([12-009](capitulos/12.md)).
+
+## Mapa de Poncelot
+
+- Cap. 20, 02:21:00.000: Mapa Slaz encontrado en un cofre ([20-014](capitulos/20.md)).
+- Cap. 20, 02:42:00.000: Separación, campamento y mapa pendiente ([20-017](capitulos/20.md)).
+- Cap. 23, 00:00:00.000: La carta de Nox impulsa el rescate ([23-001](capitulos/23.md)).
+- Cap. 25, 00:00:00.000: Mapa estudiado con Ione y armadura perdida ([25-001](capitulos/25.md)).
+- Cap. 25, 00:46:00.000: Nox encuentra a Luna y una mujer exige el mapa ([25-010](capitulos/25.md)).
+- Cap. 25, 01:18:00.000: Mapa reclamado y Hambre de Hadar ([25-013](capitulos/25.md)).
+- Cap. 25, 02:11:30.000: El mapa señala un destino que Ione llamó Ezlat ([25-019](capitulos/25.md)).
+- Cap. 25, 02:24:00.000: Las órdenes buscan el mapa y el collar de Blink ([25-021](capitulos/25.md)).
+- Cap. 26, 00:28:20.000: Expedición hacia el sur pese a que el mapa indica otra dirección ([26-008](capitulos/26.md)).
+- Cap. 26, 01:15:00.000: Historia del mapa y collar oculto en mango ([26-015](capitulos/26.md)).
+
+## Marga
+
+- Cap. 33, 00:28:00.000: Margaret y Morris se suman ([33-005](capitulos/33.md)).
+- Cap. 33, 00:40:00.000: Se aclara Aragón y farsa de Titania ([33-007](capitulos/33.md)).
+- Cap. 33, 00:48:00.000: Frutas alteran exploradores ([33-008](capitulos/33.md)).
+- Cap. 33, 01:24:00.000: Margaret muere y Morris despierta ([33-012](capitulos/33.md)).
+- Cap. 33, 01:50:00.000: Segunda planta vencida y corrección de visión ([33-014](capitulos/33.md)).
+- Cap. 33, 02:14:00.000: Mingo, Mango y Mungo reconocen capitán ([33-016](capitulos/33.md)).
+- Cap. 33, 02:32:00.000: Hoguera y salida con hipopótamos ([33-019](capitulos/33.md)).
+- Cap. 35, 00:06:00.000: Venta de jade y patrulla engañada ([35-002](capitulos/35.md)).
+
+## Margarita
+
+- Cap. 33, 00:28:00.000: Margaret y Morris se suman ([33-005](capitulos/33.md)).
+
+## Marina
+
+- Cap. 03, 00:11:40.000: Noticia de la excavación de la Marina ([03-003](capitulos/03.md)).
+- Cap. 03, 00:24:20.000: Nox recupera un croquis ([03-006](capitulos/03.md)).
+- Cap. 03, 01:28:20.000: Excavación de la Marina localizada ([03-019](capitulos/03.md)).
+- Cap. 03, 01:34:00.000: Engaño caballeresco y plan de infiltración ([03-020](capitulos/03.md)).
+- Cap. 03, 01:43:20.000: Centinela aturdido y disfraz de Nox ([03-021](capitulos/03.md)).
+- Cap. 03, 01:48:00.000: Escondites y descubrimiento de Nox ([03-022](capitulos/03.md)).
+- Cap. 03, 01:54:00.000: Combate dentro de la excavación ([03-023](capitulos/03.md)).
+- Cap. 03, 02:10:00.000: Ione se transforma en mujer lobo ([03-024](capitulos/03.md)).
+- Cap. 03, 02:29:30.000: Tres marines abatidos ([03-026](capitulos/03.md)).
+- Cap. 04, 01:41:30.000: Advertencias y reparto de gemas ([04-021](capitulos/04.md)).
+- Cap. 05, 00:17:00.000: Llega un buque y Bonnie aparta a Jack ([05-007](capitulos/05.md)).
+- Cap. 05, 00:29:00.000: Anillo del elfo y discusión sobre el imperio ([05-010](capitulos/05.md)).
+- Cap. 05, 00:34:35.000: Molly desembarca sin reconocer a Nox ([05-012](capitulos/05.md)).
+- Cap. 05, 00:47:35.000: Cubierta vigilada e Ione descubierta ([05-014](capitulos/05.md)).
+- Cap. 05, 01:00:00.000: Lunaria relata la captura de su barco y acepta ayudar ([05-016](capitulos/05.md)).
+- Cap. 05, 01:02:35.000: La distracción permite bajar a los compañeros ([05-017](capitulos/05.md)).
+- Cap. 05, 01:30:10.000: Ione recibe dos disparos y entra por una tronera ([05-019](capitulos/05.md)).
+- Cap. 05, 01:41:40.000: Armería saqueada y sabotaje ([05-021](capitulos/05.md)).
+- Cap. 05, 02:06:15.000: Pólvora como garantía y guardia golpeado ([05-025](capitulos/05.md)).
+- Cap. 05, 02:11:00.000: Magia salvaje y nueva herida ([05-026](capitulos/05.md)).
+- Cap. 05, 02:19:45.000: La amenaza de explosión hace bajar las armas ([05-027](capitulos/05.md)).
+- Cap. 05, 02:29:55.000: Fuego ilusorio y salida del grupo ([05-028](capitulos/05.md)).
+- Cap. 05, 02:42:00.000: Molly y Bonnie reaccionan al incendio ([05-030](capitulos/05.md)).
+- Cap. 20, 00:57:00.000: Marines avistados y ataque decidido ([20-008](capitulos/20.md)).
+- Cap. 23, 02:37:00.000: Reencuentro y documentos sobre una ciudad ([23-015](capitulos/23.md)).
+- Cap. 26, 00:14:00.000: Ione exige a Nox que la avise personalmente ([26-005](capitulos/26.md)).
+- Cap. 28, 01:50:00.000: Bonnie declara una alianza con Molly para proteger la isla ([28-020](capitulos/28.md)).
+- Cap. 32, 00:14:00.000: Patata explica guerra y autoridades ([32-004](capitulos/32.md)).
+- Cap. 32, 00:22:00.000: Asalto de Marina y muerte del mendigo ([32-006](capitulos/32.md)).
+- Cap. 32, 00:26:00.000: Patata y escudera despliegan protección ([32-007](capitulos/32.md)).
+- Cap. 32, 00:48:00.000: Fuego amigo y nuevos refuerzos ([32-010](capitulos/32.md)).
+- Cap. 32, 00:54:00.000: Intimidación provoca retirada parcial ([32-011](capitulos/32.md)).
+- Cap. 32, 01:12:00.000: General aviar y desgaste ([32-013](capitulos/32.md)).
+- Cap. 32, 01:31:00.000: Rayos de Bonnie y huida del general ([32-015](capitulos/32.md)).
+- Cap. 32, 01:58:00.000: Shiaru resiste invasión ([32-017](capitulos/32.md)).
+- Cap. 32, 02:04:00.000: Trato roto y control de Bonnie ([32-018](capitulos/32.md)).
+- Cap. 34, 00:37:00.000: Marina se llevó huevo y Tim muere ([34-006](capitulos/34.md)).
+- Cap. 34, 00:45:00.000: Rastro al sur y cadáveres mordidos ([34-007](capitulos/34.md)).
+- Cap. 34, 01:42:00.000: Infiltración y Pinky retenida ([34-012](capitulos/34.md)).
+- Cap. 34, 02:04:00.000: Pinky delata extracción e invisibilidad parcial ([34-014](capitulos/34.md)).
+- Cap. 34, 02:12:00.000: Mamá encanta y Pinky combate ([34-015](capitulos/34.md)).
+- Cap. 34, 02:20:00.000: Disparo agujerea huevo y Mamá se zafa ([34-016](capitulos/34.md)).
+- Cap. 35, 01:08:00.000: Smith admite viajeros y Nox interroga guardia ([35-008](capitulos/35.md)).
+- Cap. 35, 01:33:00.000: Explosión de pólvora y torre infiltrada ([35-011](capitulos/35.md)).
+- Cap. 35, 01:52:00.000: Tórtola retiene viajeros y compra mentira ([35-013](capitulos/35.md)).
+- Cap. 37, 01:00:00.000: Una trampa captura a un marine y Nox lo mata ([37-008](capitulos/37.md)).
+- Cap. 37, 01:34:00.000: Un tiranosaurio irrumpe y retrocede ante los susurros ([37-011](capitulos/37.md)).
+
+## Marina, la sirena
+
+- Cap. 06, 00:51:00.000: Botella con sirena liberada por Chochi ([06-015](capitulos/06.md)).
+- Cap. 06, 01:03:40.000: Captura relatada y crecimiento temporal ([06-016](capitulos/06.md)).
+- Cap. 06, 01:08:30.000: Recompensa y opción de escolta ([06-017](capitulos/06.md)).
+- Cap. 06, 01:20:00.000: Salida en barca y burbujas para respirar ([06-019](capitulos/06.md)).
+- Cap. 06, 01:32:00.000: Tiburones sorprenden a los compañeros ([06-021](capitulos/06.md)).
+- Cap. 06, 01:45:30.000: Tiburones derrotados ([06-022](capitulos/06.md)).
+- Cap. 06, 01:58:30.000: Llegada al huevo y recuperación del tamaño de Marina ([06-025](capitulos/06.md)).
+- Cap. 06, 02:05:40.000: Recompensa como trampa y orden de matar al grupo ([06-026](capitulos/06.md)).
+- Cap. 06, 02:10:00.000: Ione se transforma al contacto de la sirena ([06-027](capitulos/06.md)).
+
+## Maris
+
+- Cap. 24, 00:40:00.000: Gorilas evitados y sirena acosada ([24-006](capitulos/24.md)).
+- Cap. 24, 00:49:00.000: Cambiaformas y chillido aturdidor ([24-007](capitulos/24.md)).
+- Cap. 24, 01:06:00.000: Parálisis, refuerzos y Coyote protegido ([24-008](capitulos/24.md)).
+- Cap. 24, 01:32:00.000: Ione loba no reconoce aliados ([24-010](capitulos/24.md)).
+- Cap. 24, 01:42:00.000: La sirena entrega una perla para encontrarla ([24-012](capitulos/24.md)).
+- Cap. 24, 01:47:00.000: Loba calmada y concha destruida ([24-013](capitulos/24.md)).
+- Cap. 24, 01:56:00.000: Perla con coordenadas y botín ([24-014](capitulos/24.md)).
+- Cap. 24, 02:17:00.000: Bonnie mata a un pirata y reduce el pago ([24-017](capitulos/24.md)).
+- Cap. 29, 00:03:00.000: Coyote paga diez monedas de oro a Kilzer ([29-002](capitulos/29.md)).
+- Cap. 29, 00:13:00.000: Los guerreros aceptan ayudar al pueblo de la sirena ([29-004](capitulos/29.md)).
+- Cap. 29, 00:20:00.000: Maris comunica la petición mediante una perla ([29-005](capitulos/29.md)).
+- Cap. 29, 01:59:00.000: Maris calma a los guardias y los besos conceden branquias ([29-019](capitulos/29.md)).
+- Cap. 29, 02:06:00.000: Llegada a Perlasal y desconfianza de Ivet ([29-020](capitulos/29.md)).
+- Cap. 29, 02:13:00.000: Maris asume la responsabilidad y los merros siguen siendo una amenaza ([29-021](capitulos/29.md)).
+- Cap. 29, 02:20:00.000: Secuestros y kraken que crece por rituales ([29-022](capitulos/29.md)).
+- Cap. 29, 02:26:00.000: Promesa pública y hospitalidad de la taberna ([29-023](capitulos/29.md)).
+- Cap. 29, 02:32:00.000: Habitación pagada y descanso local ([29-024](capitulos/29.md)).
+- Cap. 31, 00:00:00.000: Coyote vuelve, los gemelos exploran y Naór cría a Leo ([31-001](capitulos/31.md)).
+
+## Melisa
+
+- Cap. 14, 00:16:00.000: Patata vende jade a Liz por cincuenta ([14-004](capitulos/14.md)).
+
+## Merlucilla I
+
+- Cap. 03, 00:33:15.000: Poncelot y el supuesto corcel ([03-008](capitulos/03.md)).
+- Cap. 03, 00:40:00.000: Montura y presentación de Poncelot ([03-010](capitulos/03.md)).
+- Cap. 03, 00:46:00.000: Especie y origen disputados por los interlocutores ([03-011](capitulos/03.md)).
+- Cap. 03, 00:55:45.000: Grupo reunido y nombre de Merlucilla ([03-013](capitulos/03.md)).
+- Cap. 03, 01:24:15.000: Rescate de Ione de la trampa ([03-017](capitulos/03.md)).
+- Cap. 03, 02:46:00.000: Regreso con el dinosaurio y el cautivo ([03-031](capitulos/03.md)).
+- Cap. 04, 00:03:25.000: Muerte de Merlucilla entre sesiones ([04-003](capitulos/04.md)).
+- Cap. 04, 00:23:40.000: Dinosaurio destrozado y cuerpo expulsado ([04-009](capitulos/04.md)).
+- Cap. 06, 00:18:30.000: Poncelot cree que Merlucilla escapó ([06-009](capitulos/06.md)).
+- Cap. 11, 00:06:30.000: Poncelot sigue buscando a su primera montura ([11-004](capitulos/11.md)).
+
+## Merlucilla II
+
+- Cap. 06, 01:26:10.000: Ruinas submarinas y supuesto caballo ([06-020](capitulos/06.md)).
+- Cap. 06, 01:32:00.000: Tiburones sorprenden a los compañeros ([06-021](capitulos/06.md)).
+- Cap. 06, 01:51:45.000: Merlucilla II y tiburón Princesa ([06-023](capitulos/06.md)).
+- Cap. 06, 01:55:30.000: Pasajeros del hipocampo ([06-024](capitulos/06.md)).
+- Cap. 06, 02:13:50.000: Primera sirena abatida y aparición de una tercera atacante ([06-028](capitulos/06.md)).
+- Cap. 06, 02:42:20.000: Rotura de la burbuja y huida de Ione ([06-032](capitulos/06.md)).
+- Cap. 06, 02:59:45.000: El hipocampo rompe la concentración ([06-034](capitulos/06.md)).
+- Cap. 06, 03:10:00.000: Tesoro real y cantidad de oro discrepante ([06-037](capitulos/06.md)).
+- Cap. 07, 00:07:55.000: Otra montura comida según recapitulación ([07-004](capitulos/07.md)).
+- Cap. 11, 00:06:30.000: Poncelot sigue buscando a su primera montura ([11-004](capitulos/11.md)).
+
+## Merlucilla III
+
+- Cap. 20, 00:33:00.000: Mosca domada con fregona ([20-005](capitulos/20.md)).
+- Cap. 20, 01:18:00.000: Primer marine muerto y espíritu destruido ([20-010](capitulos/20.md)).
+- Cap. 20, 02:42:00.000: Separación, campamento y mapa pendiente ([20-017](capitulos/20.md)).
+- Cap. 21, 00:00:00.000: Descansos, montura y pérdidas ([21-001](capitulos/21.md)).
+- Cap. 21, 00:19:00.000: Encuentro entre Leona y Naór, y protección de la mosca ([21-004](capitulos/21.md)).
+- Cap. 21, 00:25:00.000: Las frutas y el licor afectan a la conducta ([21-005](capitulos/21.md)).
+- Cap. 21, 01:02:00.000: La mosca rastrea hasta una cueva ([21-008](capitulos/21.md)).
+- Cap. 21, 01:36:00.000: Lobos, hipnosis y resistencia a parálisis ([21-011](capitulos/21.md)).
+- Cap. 21, 02:20:00.000: Restos de los padres y pelea por Leo ([21-014](capitulos/21.md)).
+- Cap. 23, 02:43:00.000: Perros frenan perseguidores y mosca evacúa ([23-016](capitulos/23.md)).
+- Cap. 25, 00:09:00.000: Noche dispersa en Shiaru ([25-004](capitulos/25.md)).
+- Cap. 25, 01:18:00.000: Mapa reclamado y Hambre de Hadar ([25-013](capitulos/25.md)).
+- Cap. 25, 01:24:40.000: Invisibilidad conjunta y Merlucilla llega ([25-014](capitulos/25.md)).
+- Cap. 25, 01:43:00.000: Cierre de la taberna y cooperación forzada ([25-016](capitulos/25.md)).
+- Cap. 25, 01:52:30.000: Luna mata a dos bestias mediante magia salvaje ([25-017](capitulos/25.md)).
+- Cap. 25, 02:01:00.000: Último enemigo muerto y Pix enfadado ([25-018](capitulos/25.md)).
+- Cap. 25, 02:20:00.000: Espina-lanza y documentos abisales ([25-020](capitulos/25.md)).
+- Cap. 26, 00:28:20.000: Expedición hacia el sur pese a que el mapa indica otra dirección ([26-008](capitulos/26.md)).
+- Cap. 26, 00:42:00.000: Pinky mata a la mosca para atraer al tigre ([26-010](capitulos/26.md)).
+- Cap. 26, 00:48:00.000: Montura tigre y restos de mosca enterrados ([26-011](capitulos/26.md)).
+
+## Merlucilla IV
+
+- Cap. 26, 00:35:00.000: Pinky recibe puñetazo por encuentro sorpresa ([26-009](capitulos/26.md)).
+- Cap. 26, 00:42:00.000: Pinky mata a la mosca para atraer al tigre ([26-010](capitulos/26.md)).
+- Cap. 26, 00:48:00.000: Montura tigre y restos de mosca enterrados ([26-011](capitulos/26.md)).
+- Cap. 26, 00:55:50.000: La fruta agranda las orejas y Pinky acepta guiar ([26-012](capitulos/26.md)).
+- Cap. 26, 01:08:30.000: Pociones de la nieta y cesión a Poncelot ([26-014](capitulos/26.md)).
+- Cap. 26, 01:37:00.000: Altar, collar reactivo y pasos bajo estatuas ([26-018](capitulos/26.md)).
+- Cap. 26, 02:02:00.000: El guardia poseído invita a Nox y reconoce el collar ([26-021](capitulos/26.md)).
+- Cap. 28, 00:34:00.000: El tigre combate fuera y Pinky queda calva ([28-006](capitulos/28.md)).
+- Cap. 28, 00:47:00.000: Una poción quita la barba a Poncelot ([28-008](capitulos/28.md)).
+- Cap. 28, 00:54:00.000: Restos serpentinos devoran cadáveres ([28-009](capitulos/28.md)).
+- Cap. 28, 01:10:00.000: Ojo-orbe arrancado de una estatua ([28-013](capitulos/28.md)).
+- Cap. 28, 01:14:00.000: Hambre de Hadar retrasa a los perseguidores ([28-014](capitulos/28.md)).
+- Cap. 28, 01:29:00.000: Pinky enreda al tigre para que la bajen ([28-016](capitulos/28.md)).
+- Cap. 28, 01:34:00.000: Nox quiere volver a ver a Molly ([28-017](capitulos/28.md)).
+- Cap. 29, 00:09:00.000: El cadáver del elfo cae y el tigre se lo lleva ([29-003](capitulos/29.md)).
+- Cap. 33, 00:08:00.000: Jack recluta Poncelot en Zampaolas ([33-002](capitulos/33.md)).
+- Cap. 33, 00:54:00.000: Cueva y exploración sin luz ([33-009](capitulos/33.md)).
+- Cap. 34, 00:30:00.000: Origen del huevo y barrido mental ([34-005](capitulos/34.md)).
+- Cap. 35, 01:08:00.000: Smith admite viajeros y Nox interroga guardia ([35-008](capitulos/35.md)).
+- Cap. 36, 00:00:00.000: Ione repara el barco y Erandy busca a Eleanor ([36-001](capitulos/36.md)).
+- Cap. 36, 00:27:00.000: Reclutamiento de Blink y Erandy ([36-005](capitulos/36.md)).
+- Cap. 36, 00:43:00.000: Dinosaurio devorado y rumbo recuperado ([36-007](capitulos/36.md)).
+- Cap. 36, 00:54:00.000: Intercambio de cuerpos y ruinas arrasadas ([36-008](capitulos/36.md)).
+- Cap. 36, 01:18:00.000: Captura del marine superviviente ([36-010](capitulos/36.md)).
+- Cap. 36, 01:26:00.000: Aparece un tiranosaurio y Poncelot carga ([36-011](capitulos/36.md)).
+- Cap. 36, 01:46:00.000: Ione ataca a sus aliados y los intentos de calmarla fallan ([36-013](capitulos/36.md)).
+- Cap. 36, 02:12:00.000: Curación del tigre y regreso a la forma humana ([36-016](capitulos/36.md)).
+- Cap. 36, 02:26:00.000: Reparto de recompensas, fiesta y alojamiento ([36-018](capitulos/36.md)).
+
+## Merlucilla V
+
+- Cap. 38, 01:02:00.000: El pulpo agarra a Ione e Ilikar hiere a un tiburón ([38-008](capitulos/38.md)).
+- Cap. 38, 01:12:00.000: Poncelot calma y cura al tiburón ([38-009](capitulos/38.md)).
+- Cap. 38, 01:30:00.000: Ataque montado y liberación de Ilikar ([38-011](capitulos/38.md)).
+- Cap. 38, 01:39:00.000: Muere el pulpo e Ione ataca al tiburón ([38-012](capitulos/38.md)).
+- Cap. 38, 01:46:00.000: Los antiguos tripulantes llegan después del combate ([38-013](capitulos/38.md)).
+- Cap. 38, 01:51:00.000: Mordedura ritual de Ione a Ilikar ([38-014](capitulos/38.md)).
+- Cap. 38, 01:58:00.000: El Zampaolas queda desencajado ([38-015](capitulos/38.md)).
+
+## Mingo
+
+- Cap. 12, 00:28:50.000: Jack informa de Fuerte Aurora; Nox busca tres compañeros ([12-009](capitulos/12.md)).
+
+## Mocho de Sir Poncelot
+
+- Cap. 06, 00:18:30.000: Poncelot cree que Merlucilla escapó ([06-009](capitulos/06.md)).
+- Cap. 06, 02:22:00.000: Invisibilidad interrumpida y mocho contra Ione ([06-029](capitulos/06.md)).
+- Cap. 06, 02:42:20.000: Rotura de la burbuja y huida de Ione ([06-032](capitulos/06.md)).
+- Cap. 20, 00:33:00.000: Mosca domada con fregona ([20-005](capitulos/20.md)).
+
+## Molly
+
+- Cap. 05, 00:21:00.000: Contrato de Bonnie y encargo de sustraer documentos ([05-008](capitulos/05.md)).
+- Cap. 05, 00:25:30.000: Nox revela su relación con Molly ([05-009](capitulos/05.md)).
+- Cap. 05, 00:34:35.000: Molly desembarca sin reconocer a Nox ([05-012](capitulos/05.md)).
+- Cap. 05, 02:03:00.000: Contrato encontrado y nota dejada ([05-024](capitulos/05.md)).
+- Cap. 05, 02:42:00.000: Molly y Bonnie reaccionan al incendio ([05-030](capitulos/05.md)).
+- Cap. 05, 02:50:25.000: Explosión y preocupación por la nota ([05-032](capitulos/05.md)).
+- Cap. 05, 02:52:20.000: Persiguen al visitante y Nox se interesa por los mapas ([05-033](capitulos/05.md)).
+- Cap. 12, 00:28:50.000: Jack informa de Fuerte Aurora; Nox busca tres compañeros ([12-009](capitulos/12.md)).
+- Cap. 12, 00:44:30.000: Pinky recibe hojas y se une ([12-013](capitulos/12.md)).
+- Cap. 12, 01:07:15.000: Nox se hace pasar por Jack Jackson ante el capitán ([12-016](capitulos/12.md)).
+- Cap. 12, 03:06:30.000: Nox recupera su pago y un mapa de la actividad de la Marina ([12-030](capitulos/12.md)).
+- Cap. 23, 00:00:00.000: La carta de Nox impulsa el rescate ([23-001](capitulos/23.md)).
+- Cap. 23, 01:30:00.000: Recompensa por Ione y Mamá como supuesta informante ([23-009](capitulos/23.md)).
+- Cap. 23, 01:50:00.000: Serpiente del foso conoce Hawkins ([23-011](capitulos/23.md)).
+- Cap. 23, 01:57:00.000: Molly sospecha y ofrece dinero ([23-012](capitulos/23.md)).
+- Cap. 23, 02:24:00.000: Despacho cerrado y puerta rota ([23-014](capitulos/23.md)).
+- Cap. 23, 02:43:00.000: Perros frenan perseguidores y mosca evacúa ([23-016](capitulos/23.md)).
+- Cap. 23, 02:48:00.000: Galeón distractor y fuga en barca ([23-017](capitulos/23.md)).
+- Cap. 26, 00:14:00.000: Ione exige a Nox que la avise personalmente ([26-005](capitulos/26.md)).
+- Cap. 26, 00:20:00.000: Cinco convocados y tesoro disputado ([26-006](capitulos/26.md)).
+- Cap. 26, 00:24:00.000: Nox entrega el licor y ambos declaran su amistad ([26-007](capitulos/26.md)).
+- Cap. 28, 01:34:00.000: Nox quiere volver a ver a Molly ([28-017](capitulos/28.md)).
+- Cap. 28, 01:50:00.000: Bonnie declara una alianza con Molly para proteger la isla ([28-020](capitulos/28.md)).
+- Cap. 35, 00:00:00.000: Casco del gnomo y Molly incomunicada ([35-001](capitulos/35.md)).
+- Cap. 35, 00:30:00.000: Moneda antigua y búsqueda Molly ([35-005](capitulos/35.md)).
+- Cap. 35, 01:08:00.000: Smith admite viajeros y Nox interroga guardia ([35-008](capitulos/35.md)).
+- Cap. 35, 01:20:00.000: Molly destituida y guardia atado ([35-009](capitulos/35.md)).
+- Cap. 35, 01:24:00.000: Tórtola rechaza alojamiento y tortillas vendidas ([35-010](capitulos/35.md)).
+- Cap. 35, 01:44:00.000: Nox libera Molly y Pinky ([35-012](capitulos/35.md)).
+- Cap. 35, 02:05:00.000: Visión de isla devastada y serpiente alada ([35-014](capitulos/35.md)).
+- Cap. 35, 02:10:00.000: Resisten llamada y Molly toma bote ([35-015](capitulos/35.md)).
+- Cap. 35, 02:17:00.000: Pinky recapturada y amenaza a Tórtola ([35-016](capitulos/35.md)).
+- Cap. 35, 02:26:00.000: Reencuentro y Molly vuelve con grupo ([35-017](capitulos/35.md)).
+- Cap. 35, 02:37:00.000: Nox preocupado y llegada Shiaru ([35-018](capitulos/35.md)).
+- Cap. 35, 02:42:00.000: Bonnie y Molly reencuentran; recompensas ([35-019](capitulos/35.md)).
+- Cap. 35, 02:51:00.000: Nox pide conversación con Molly ([35-020](capitulos/35.md)).
+- Cap. 36, 00:20:00.000: Molly informa de una posición estratégica ([36-004](capitulos/36.md)).
+- Cap. 36, 02:21:00.000: Entrega del cautivo e informe parcial ([36-017](capitulos/36.md)).
+- Cap. 37, 00:24:00.000: Emboscada a los suministros con Tlachka al mando ([37-004](capitulos/37.md)).
+- Cap. 37, 00:32:00.000: La esfera reacciona ante Citlali ([37-005](capitulos/37.md)).
+- Cap. 37, 01:57:00.000: Entrega de una carreta y recompensas ([37-015](capitulos/37.md)).
+- Cap. 37, 02:06:00.000: Nox recibe una moneda de oro tras descontar deudas ([37-016](capitulos/37.md)).
+- Cap. 37, 02:09:00.000: Bonnie presta el ojo con una condición que Nox planea incumplir ([37-017](capitulos/37.md)).
+
+## Moneda negra del mercante
+
+- Cap. 14, 02:12:30.000: Campana ganada y moneda negra intercambiada ([14-019](capitulos/14.md)).
+- Cap. 14, 02:30:10.000: Cofre abierto y aparición del capitán al reunir los objetos ([14-021](capitulos/14.md)).
+
+## Moneda pirata de Bonnie
+
+- Cap. 32, 01:26:00.000: Bonnie activa moneda y combate como rayo ([32-014](capitulos/32.md)).
+- Cap. 32, 02:12:00.000: Bonnie devuelve moneda a Pix y sale ([32-020](capitulos/32.md)).
+
+## Monedas antiguas de Ayoto
+
+- Cap. 13, 02:08:20.000: Tesoro de cajas: jade, obsidiana y monedas antiguas ([13-025](capitulos/13.md)).
+- Cap. 27, 00:55:00.000: Dos babuinos reclutados por monedas ([27-009](capitulos/27.md)).
+
+## Morris
+
+- Cap. 33, 00:28:00.000: Margaret y Morris se suman ([33-005](capitulos/33.md)).
+- Cap. 33, 00:40:00.000: Se aclara Aragón y farsa de Titania ([33-007](capitulos/33.md)).
+- Cap. 33, 01:24:00.000: Margaret muere y Morris despierta ([33-012](capitulos/33.md)).
+- Cap. 33, 01:34:00.000: Ilusión de fuego, furia y primera planta muerta ([33-013](capitulos/33.md)).
+
+## Morti
+
+- Cap. 35, 00:20:00.000: Negocios de Nox y nombre Armin ([35-004](capitulos/35.md)).
+
+## Mugre
+
+- Cap. 02, 00:06:15.000: Tripulación y enfado de Bonnie ([02-004](capitulos/02.md)).
+- Cap. 24, 00:16:00.000: Bonnie encarga matar a los supuestos ladrones ([24-003](capitulos/24.md)).
+- Cap. 28, 02:00:00.000: Ione castiga a Jack y Mugre detiene a Ojo Ausente ([28-022](capitulos/28.md)).
+- Cap. 38, 01:46:00.000: Los antiguos tripulantes llegan después del combate ([38-013](capitulos/38.md)).
+
+## Mungo
+
+- Cap. 12, 00:28:50.000: Jack informa de Fuerte Aurora; Nox busca tres compañeros ([12-009](capitulos/12.md)).
+
+## Nawals
+
+- Cap. 08, 00:23:15.000: Leyendas de nawals según conocimiento de Tlachka ([08-009](capitulos/08.md)).
+- Cap. 08, 01:34:20.000: Templo asociado a una civilización de nawals ([08-020](capitulos/08.md)).
+
+## Naór
+
+- Cap. 16, 00:04:30.000: El rey leonino encarga a Naór convocar un concilio ([16-003](capitulos/16.md)).
+- Cap. 16, 00:18:30.000: Luna y Triel encuentran a una leonina que muerde el mapa ([16-006](capitulos/16.md)).
+- Cap. 16, 00:31:30.000: Naór reconoce a Baton y conoce al grupo ([16-007](capitulos/16.md)).
+- Cap. 16, 00:38:00.000: Mapa reparado y deidades discutidas ([16-008](capitulos/16.md)).
+- Cap. 16, 00:45:15.000: Serpientes derrotadas y Naór libera a Patata ([16-009](capitulos/16.md)).
+- Cap. 16, 01:06:20.000: Un cocodrilo muerde a Naór mientras se lava ([16-010](capitulos/16.md)).
+- Cap. 16, 01:14:30.000: Blink agranda a Naór y muere el cocodrilo pequeño ([16-011](capitulos/16.md)).
+- Cap. 16, 01:24:30.000: El cocodrilo gigante atrapa a Patata y el grupo lo mata ([16-012](capitulos/16.md)).
+- Cap. 16, 01:38:30.000: Cadáver de regalo, estegosauros evitados y viaje de días ([16-013](capitulos/16.md)).
+- Cap. 16, 01:46:25.000: Entrada a Cuicapalli y conversación en Primordial ([16-014](capitulos/16.md)).
+- Cap. 16, 01:50:20.000: Eromov ofrece hospitalidad y reconoce a Naór ([16-015](capitulos/16.md)).
+- Cap. 16, 01:58:10.000: Aceptación del concilio de Tutucan condicionada a los problemas locales ([16-016](capitulos/16.md)).
+- Cap. 16, 02:02:20.000: Taberna tranquila, encargo fucsia y campeón del sol ([16-017](capitulos/16.md)).
+- Cap. 16, 02:13:30.000: Ayoto acusa a una mujer de ser una nawal resucitada ([16-019](capitulos/16.md)).
+- Cap. 16, 02:20:30.000: Luna y Triel parten mientras el resto celebra el banquete ([16-021](capitulos/16.md)).
+- Cap. 17, 00:12:50.000: Naór, perdida en Ruki Peten, caza un cocodrilo ([17-004](capitulos/17.md)).
+- Cap. 17, 00:17:30.000: Encuentro y frutas temporales ([17-005](capitulos/17.md)).
+- Cap. 17, 00:27:20.000: La patrulla busca a quienes destruyeron el poblado ([17-006](capitulos/17.md)).
+- Cap. 17, 00:35:40.000: Escolta hasta la ciudad central de los hombres lagarto ([17-007](capitulos/17.md)).
+- Cap. 17, 00:47:30.000: Costumbres, comida y amenazas interesadas ([17-009](capitulos/17.md)).
+- Cap. 17, 01:00:00.000: Los dirigentes interpretan a los muertos como un regalo de Samuya ([17-010](capitulos/17.md)).
+- Cap. 17, 01:05:20.000: Naór invita a los dirigentes a Tutucan ([17-011](capitulos/17.md)).
+- Cap. 17, 01:08:00.000: Axi y Kilzer señalados; cofres sujetos a prueba ([17-012](capitulos/17.md)).
+- Cap. 17, 01:16:00.000: Los cinco entran en una prueba contra bestias ([17-013](capitulos/17.md)).
+- Cap. 17, 01:24:30.000: Preparación y rugido que afecta a Axi ([17-014](capitulos/17.md)).
+- Cap. 17, 01:35:30.000: Mueren las primeras criaturas y Kilzer se transforma temporalmente en araña ([17-015](capitulos/17.md)).
+- Cap. 17, 01:51:20.000: Cocodrilo enorme y Naór convertida en oveja ([17-016](capitulos/17.md)).
+- Cap. 17, 02:03:00.000: Naór y Triel dentro del cocodrilo, Axi lo mata ([17-017](capitulos/17.md)).
+- Cap. 17, 02:25:30.000: Naór derriba al monstruo y Eldrat lo mata para ayudar a su hermana ([17-019](capitulos/17.md)).
+- Cap. 17, 02:35:30.000: Explosión ácida de carta y victoria reconocida ([17-020](capitulos/17.md)).
+- Cap. 17, 02:39:30.000: Botín y promesa de los dirigentes de asistir al concilio ([17-021](capitulos/17.md)).
+- Cap. 17, 02:45:30.000: Trueque leonino y quince monedas a Axi ([17-022](capitulos/17.md)).
+- Cap. 17, 02:51:10.000: Separación: regreso y misión todavía sin Iktan ([17-023](capitulos/17.md)).
+- Cap. 18, 00:32:00.000: Eromov ordena una búsqueda por una noticia confusa ([18-006](capitulos/18.md)).
+- Cap. 18, 02:43:00.000: Reunión contemplada y sombra final ([18-021](capitulos/18.md)).
+- Cap. 20, 00:00:00.000: Equipo reparado y camino a Iktan ([20-001](capitulos/20.md)).
+- Cap. 20, 00:11:00.000: Encuentro del grupo y tradición del templo ([20-003](capitulos/20.md)).
+- Cap. 20, 00:20:00.000: Una mujer acuática y una riña llevan a Poncelot al grupo ([20-004](capitulos/20.md)).
+- Cap. 20, 00:42:00.000: Chocolate de Triel y leyenda de tres cabezas ([20-006](capitulos/20.md)).
+- Cap. 20, 00:48:00.000: Desvío hacia el Garfio y alucinaciones ([20-007](capitulos/20.md)).
+- Cap. 20, 00:57:00.000: Marines avistados y ataque decidido ([20-008](capitulos/20.md)).
+- Cap. 20, 01:05:00.000: Dos perros muertos y bestia de Axi ([20-009](capitulos/20.md)).
+- Cap. 20, 01:18:00.000: Primer marine muerto y espíritu destruido ([20-010](capitulos/20.md)).
+- Cap. 20, 01:34:00.000: Curaciones, miedo y muerte de otros marines ([20-011](capitulos/20.md)).
+- Cap. 20, 02:00:00.000: Capitán muerto y puerta de piedra golpeada ([20-012](capitulos/20.md)).
+- Cap. 20, 02:10:00.000: El gas y la serpiente incapacitan a Axi ([20-013](capitulos/20.md)).
+- Cap. 20, 02:24:00.000: Naór evacúa a Axi y Poncelot monta a la serpiente ([20-015](capitulos/20.md)).
+- Cap. 20, 02:34:00.000: Serpiente muerta y colmillos recuperados ([20-016](capitulos/20.md)).
+- Cap. 20, 02:42:00.000: Separación, campamento y mapa pendiente ([20-017](capitulos/20.md)).
+- Cap. 21, 00:00:00.000: Descansos, montura y pérdidas ([21-001](capitulos/21.md)).
+- Cap. 21, 00:19:00.000: Encuentro entre Leona y Naór, y protección de la mosca ([21-004](capitulos/21.md)).
+- Cap. 21, 00:25:00.000: Las frutas y el licor afectan a la conducta ([21-005](capitulos/21.md)).
+- Cap. 21, 00:51:00.000: Leo, escondido, relata el secuestro ([21-007](capitulos/21.md)).
+- Cap. 21, 01:08:00.000: Las esporas provocan sueño y daño al despertar ([21-009](capitulos/21.md)).
+- Cap. 21, 01:24:00.000: Sangre, transformación y melodía ralentizadora ([21-010](capitulos/21.md)).
+- Cap. 21, 01:36:00.000: Lobos, hipnosis y resistencia a parálisis ([21-011](capitulos/21.md)).
+- Cap. 21, 01:50:00.000: Leo entrega el collar de plata y Poncelot despierta ([21-012](capitulos/21.md)).
+- Cap. 21, 02:08:00.000: Plata en la boca y muerte del lobo grande ([21-013](capitulos/21.md)).
+- Cap. 21, 02:20:00.000: Restos de los padres y pelea por Leo ([21-014](capitulos/21.md)).
+- Cap. 21, 02:32:00.000: El collar serpiente provoca una visión a dos viajeras ([21-015](capitulos/21.md)).
+- Cap. 21, 02:35:00.000: Leona curada y destinos separados ([21-016](capitulos/21.md)).
+- Cap. 22, 03:15:00.000: Antigua enemistad y concilio pendiente ([22-020](capitulos/22.md)).
+- Cap. 30, 02:04:00.000: Eromov envía a Parroter a investigar una cura ([30-020](capitulos/30.md)).
+- Cap. 31, 00:00:00.000: Coyote vuelve, los gemelos exploran y Naór cría a Leo ([31-001](capitulos/31.md)).
+- Cap. 31, 00:18:00.000: Tesara observa el entrenamiento de Leo ([31-004](capitulos/31.md)).
+- Cap. 31, 00:24:00.000: Naór, princesa de Atlan, y el objetivo de llegar a Iktan ([31-005](capitulos/31.md)).
+- Cap. 31, 00:31:00.000: Grupos confluyen y conflicto territorial ([31-006](capitulos/31.md)).
+- Cap. 31, 00:56:00.000: La voz de Leo induce un golpe de Naór ([31-009](capitulos/31.md)).
+- Cap. 31, 01:01:00.000: Tesa exige la kusarigama y dispara a Eldrat ([31-010](capitulos/31.md)).
+- Cap. 31, 01:08:00.000: Ataques mutuos y Tesa inmovilizada temporalmente ([31-011](capitulos/31.md)).
+- Cap. 31, 01:17:00.000: Naór paralizada y Tesa detecta una criatura enorme ([31-012](capitulos/31.md)).
+- Cap. 31, 01:23:00.000: Una voz conoce intimidades y alza a los muertos con plantas ([31-013](capitulos/31.md)).
+- Cap. 31, 01:28:00.000: Combate y encantamiento que no controla a los muertos ([31-014](capitulos/31.md)).
+- Cap. 31, 01:36:00.000: Eldrat reconoce al dragón verde y el ácido daña al grupo ([31-015](capitulos/31.md)).
+- Cap. 31, 01:44:00.000: Tesa protege a Leo y se propone huir ([31-016](capitulos/31.md)).
+- Cap. 31, 01:54:00.000: Coyote y Naór caen y son recuperados ([31-017](capitulos/31.md)).
+- Cap. 31, 02:04:00.000: Leo queda envenenado y los compañeros se cubren ([31-018](capitulos/31.md)).
+- Cap. 31, 02:16:00.000: Leo mata al último zombi y los cuerpos se funden; llegada a Iktan ([31-019](capitulos/31.md)).
+- Cap. 31, 02:21:00.000: Ciudad y ruinas de piedra derretida ([31-020](capitulos/31.md)).
+- Cap. 31, 02:34:00.000: Naór y Triel comen mientras Coyote habla con la tabernera ([31-022](capitulos/31.md)).
+- Cap. 31, 02:49:00.000: Gualulu, amiga de la infancia de Naór, y la muerte de su padre ([31-024](capitulos/31.md)).
+- Cap. 31, 02:54:00.000: Gualulu afirma que el dragón revive a los muertos ([31-025](capitulos/31.md)).
+- Cap. 31, 03:04:00.000: Naór convoca un concilio y Gualulu apoya al rey ([31-027](capitulos/31.md)).
+- Cap. 31, 03:10:00.000: Confianza limitada y secreto de ruta ([31-028](capitulos/31.md)).
+
+## Negociación
+
+- Cap. 09, 00:10:30.000: Ione encuentra armas y devuelve el estoque a Nox ([09-006](capitulos/09.md)).
+- Cap. 23, 01:17:00.000: Dos rutas de entrada ([23-008](capitulos/23.md)).
+- Cap. 36, 01:35:00.000: Ione se transforma y muere el tiranosaurio ([36-012](capitulos/36.md)).
+
+## Nelli
+
+- Cap. 14, 00:12:10.000: Blink recupera su mondadientes ([14-003](capitulos/14.md)).
+- Cap. 16, 00:12:00.000: Baton y Nelli guían a Cuicapalli ([16-005](capitulos/16.md)).
+- Cap. 16, 00:45:15.000: Serpientes derrotadas y Naór libera a Patata ([16-009](capitulos/16.md)).
+- Cap. 16, 01:14:30.000: Blink agranda a Naór y muere el cocodrilo pequeño ([16-011](capitulos/16.md)).
+- Cap. 16, 01:46:25.000: Entrada a Cuicapalli y conversación en Primordial ([16-014](capitulos/16.md)).
+- Cap. 16, 01:50:20.000: Eromov ofrece hospitalidad y reconoce a Naór ([16-015](capitulos/16.md)).
+- Cap. 19, 00:07:00.000: Leona castigada por agresividad ([19-002](capitulos/19.md)).
+- Cap. 19, 02:10:00.000: Encargo de entrenar a Leona y cena descartada ([19-017](capitulos/19.md)).
+- Cap. 22, 00:16:00.000: Festival y Guayacán presentado ([22-002](capitulos/22.md)).
+- Cap. 22, 00:53:00.000: Ayoto gana el banquete y un caparazón ([22-006](capitulos/22.md)).
+- Cap. 22, 01:07:00.000: Guayacán gana una carrera con sabotajes ([22-008](capitulos/22.md)).
+
+## Nox
+
+- Cap. 01, 00:12:32.000: Accidente del barco pirata ([01-008](capitulos/01.md)).
+- Cap. 01, 00:31:03.000: Deuda y servicio para Bonnie ([01-011](capitulos/01.md)).
+- Cap. 01, 00:34:51.000: Encargo de obtener dinero de los visitantes ([01-012](capitulos/01.md)).
+- Cap. 01, 00:41:20.000: Intento de cobrar amarre ([01-013](capitulos/01.md)).
+- Cap. 01, 00:50:54.000: Autodescripción distinta de la apariencia ([01-015](capitulos/01.md)).
+- Cap. 01, 00:53:15.000: Nox roba al recién llegado ([01-017](capitulos/01.md)).
+- Cap. 01, 01:14:52.000: Petición privada de cadenas ([01-019](capitulos/01.md)).
+- Cap. 01, 01:24:53.000: Leyenda de pirámides de oro ([01-021](capitulos/01.md)).
+- Cap. 01, 01:30:03.000: Incidente con la criatura ígnea ([01-022](capitulos/01.md)).
+- Cap. 01, 02:12:39.000: Segundo robo y bolsa para Bonnie ([01-029](capitulos/01.md)).
+- Cap. 01, 02:14:29.000: Servicio de meses, desfase temporal ([01-030](capitulos/01.md)).
+- Cap. 01, 02:17:12.000: Pinky vende hierbas a Ione ([01-031](capitulos/01.md)).
+- Cap. 01, 02:20:58.000: Propuesta de explorar la isla ([01-032](capitulos/01.md)).
+- Cap. 01, 02:24:03.000: Alojamiento en el Zampaolas ([01-033](capitulos/01.md)).
+- Cap. 01, 02:28:18.000: Luna llena, cadenas y salto al mar ([01-034](capitulos/01.md)).
+- Cap. 02, 00:00:00.000: Recapitulación de la noche anterior ([02-001](capitulos/02.md)).
+- Cap. 02, 00:04:20.000: Camarote vacío y cadenas rotas ([02-003](capitulos/02.md)).
+- Cap. 02, 00:06:15.000: Tripulación y enfado de Bonnie ([02-004](capitulos/02.md)).
+- Cap. 02, 00:12:00.000: Nox contrata ayuda para buscar a Ione ([02-005](capitulos/02.md)).
+- Cap. 02, 00:36:00.000: Mono con el sombrero de la capitana ([02-009](capitulos/02.md)).
+- Cap. 02, 00:44:00.000: Reencuentro y tensión con los nativos ([02-010](capitulos/02.md)).
+- Cap. 02, 00:50:50.000: Emboscada y veneno ([02-011](capitulos/02.md)).
+- Cap. 02, 00:58:35.000: Victoria sobre los atacantes ([02-013](capitulos/02.md)).
+- Cap. 02, 01:16:00.000: Nox confunde una cerbatana con un escupitajo ([02-014](capitulos/02.md)).
+- Cap. 02, 01:30:00.000: Botín y cuidados tras el combate ([02-015](capitulos/02.md)).
+- Cap. 02, 01:32:15.000: Dinosaurio y huida a Shiaru ([02-016](capitulos/02.md)).
+- Cap. 02, 01:43:00.000: Pinky pide fuego y Ayoto lo prepara ([02-018](capitulos/02.md)).
+- Cap. 02, 01:54:00.000: Nox e Ione hablan del incidente nocturno ([02-019](capitulos/02.md)).
+- Cap. 02, 02:10:00.000: Origen y expulsión de Ayoto ([02-021](capitulos/02.md)).
+- Cap. 02, 02:14:15.000: El visitante huyó de su mala reputación ([02-022](capitulos/02.md)).
+- Cap. 02, 02:19:00.000: Trato de ayuda nocturna por comida ([02-023](capitulos/02.md)).
+- Cap. 02, 02:21:00.000: Ione protege a su tripulación ([02-024](capitulos/02.md)).
+- Cap. 02, 02:24:15.000: Bebida adulterada de Pix ([02-025](capitulos/02.md)).
+- Cap. 02, 02:32:00.000: Apuesta de pulso ([02-026](capitulos/02.md)).
+- Cap. 02, 02:36:00.000: Nox induce a Ayoto a perder ([02-027](capitulos/02.md)).
+- Cap. 02, 02:40:55.000: Bonnie detiene la disputa ([02-028](capitulos/02.md)).
+- Cap. 02, 02:44:00.000: Apuesta sin acuerdo final ([02-029](capitulos/02.md)).
+- Cap. 03, 00:00:00.000: Mamá sale del barco y despierta a los piratas ([03-001](capitulos/03.md)).
+- Cap. 03, 00:08:00.000: Hada cautiva de dos piratas ([03-002](capitulos/03.md)).
+- Cap. 03, 00:11:40.000: Noticia de la excavación de la Marina ([03-003](capitulos/03.md)).
+- Cap. 03, 00:13:30.000: Liberación del hada ([03-004](capitulos/03.md)).
+- Cap. 03, 00:17:45.000: Blink o Blank, hada perdida ([03-005](capitulos/03.md)).
+- Cap. 03, 00:24:20.000: Nox recupera un croquis ([03-006](capitulos/03.md)).
+- Cap. 03, 00:28:30.000: Desayuno y plan de acompañar al hada ([03-007](capitulos/03.md)).
+- Cap. 03, 00:33:15.000: Poncelot y el supuesto corcel ([03-008](capitulos/03.md)).
+- Cap. 03, 00:38:30.000: Fruta y daño adicional de Nox ([03-009](capitulos/03.md)).
+- Cap. 03, 00:40:00.000: Montura y presentación de Poncelot ([03-010](capitulos/03.md)).
+- Cap. 03, 00:46:00.000: Especie y origen disputados por los interlocutores ([03-011](capitulos/03.md)).
+- Cap. 03, 00:55:45.000: Grupo reunido y nombre de Merlucilla ([03-013](capitulos/03.md)).
+- Cap. 03, 01:01:00.000: Mapa orientado y ocultado ([03-014](capitulos/03.md)).
+- Cap. 03, 01:28:20.000: Excavación de la Marina localizada ([03-019](capitulos/03.md)).
+- Cap. 03, 01:34:00.000: Engaño caballeresco y plan de infiltración ([03-020](capitulos/03.md)).
+- Cap. 03, 01:43:20.000: Centinela aturdido y disfraz de Nox ([03-021](capitulos/03.md)).
+- Cap. 03, 01:48:00.000: Escondites y descubrimiento de Nox ([03-022](capitulos/03.md)).
+- Cap. 03, 01:54:00.000: Combate dentro de la excavación ([03-023](capitulos/03.md)).
+- Cap. 03, 02:10:00.000: Ione se transforma en mujer lobo ([03-024](capitulos/03.md)).
+- Cap. 03, 02:16:00.000: Retirada de Mamá y centinela atado ([03-025](capitulos/03.md)).
+- Cap. 03, 02:29:30.000: Tres marines abatidos ([03-026](capitulos/03.md)).
+- Cap. 03, 02:36:00.000: La bestia se lanza hacia sus compañeros ([03-027](capitulos/03.md)).
+- Cap. 03, 02:41:40.000: Nox se lleva al marine cautivo ([03-029](capitulos/03.md)).
+- Cap. 03, 02:46:00.000: Regreso con el dinosaurio y el cautivo ([03-031](capitulos/03.md)).
+- Cap. 04, 00:12:00.000: Encargo de Bonnie para recuperar lo perdido ([04-007](capitulos/04.md)).
+- Cap. 04, 01:45:30.000: Lectura de pensamientos y pacto de tesoros ([04-022](capitulos/04.md)).
+- Cap. 04, 02:09:20.000: Bonnie recibe el collar y detecta la falta ([04-029](capitulos/04.md)).
+- Cap. 04, 02:16:35.000: Deciden buscar a Nox ([04-031](capitulos/04.md)).
+- Cap. 05, 00:00:00.000: Estado de Nox e Ione entre sesiones ([05-001](capitulos/05.md)).
+- Cap. 05, 00:04:00.000: Jack quiere volver con Lucy ([05-003](capitulos/05.md)).
+- Cap. 05, 00:07:40.000: Emblema y procedencia declarada del collar ([05-005](capitulos/05.md)).
+- Cap. 05, 00:14:00.000: Ione se reúne con Nox y ve al cautivo ([05-006](capitulos/05.md)).
+- Cap. 05, 00:17:00.000: Llega un buque y Bonnie aparta a Jack ([05-007](capitulos/05.md)).
+- Cap. 05, 00:21:00.000: Contrato de Bonnie y encargo de sustraer documentos ([05-008](capitulos/05.md)).
+- Cap. 05, 00:25:30.000: Nox revela su relación con Molly ([05-009](capitulos/05.md)).
+- Cap. 05, 00:31:50.000: Ropa intercambiada y oferta de botín ([05-011](capitulos/05.md)).
+- Cap. 05, 00:34:35.000: Molly desembarca sin reconocer a Nox ([05-012](capitulos/05.md)).
+- Cap. 05, 00:38:35.000: Tortugas marinas: nadar ocultos en barriles ([05-013](capitulos/05.md)).
+- Cap. 05, 00:47:35.000: Cubierta vigilada e Ione descubierta ([05-014](capitulos/05.md)).
+- Cap. 05, 00:54:30.000: Nox conoce y libera a Lunaria ([05-015](capitulos/05.md)).
+- Cap. 05, 01:00:00.000: Lunaria relata la captura de su barco y acepta ayudar ([05-016](capitulos/05.md)).
+- Cap. 05, 01:02:35.000: La distracción permite bajar a los compañeros ([05-017](capitulos/05.md)).
+- Cap. 05, 01:24:00.000: Alimentos, frutas y candados ([05-018](capitulos/05.md)).
+- Cap. 05, 01:38:30.000: Lunaria abre candados con magia ([05-020](capitulos/05.md)).
+- Cap. 05, 01:44:30.000: Reencuentro y curación de Ione ([05-022](capitulos/05.md)).
+- Cap. 05, 01:52:30.000: Carteles y falsa pista de camarote ([05-023](capitulos/05.md)).
+- Cap. 05, 02:03:00.000: Contrato encontrado y nota dejada ([05-024](capitulos/05.md)).
+- Cap. 05, 02:06:15.000: Pólvora como garantía y guardia golpeado ([05-025](capitulos/05.md)).
+- Cap. 05, 02:11:00.000: Magia salvaje y nueva herida ([05-026](capitulos/05.md)).
+- Cap. 05, 02:19:45.000: La amenaza de explosión hace bajar las armas ([05-027](capitulos/05.md)).
+- Cap. 05, 02:29:55.000: Fuego ilusorio y salida del grupo ([05-028](capitulos/05.md)).
+- Cap. 05, 02:36:00.000: La vela lanzada provoca un incendio real ([05-029](capitulos/05.md)).
+- Cap. 05, 02:42:00.000: Molly y Bonnie reaccionan al incendio ([05-030](capitulos/05.md)).
+- Cap. 05, 02:45:30.000: Lunaria revela la vela y Bonnie impone consecuencias ([05-031](capitulos/05.md)).
+- Cap. 05, 02:50:25.000: Explosión y preocupación por la nota ([05-032](capitulos/05.md)).
+- Cap. 05, 02:52:20.000: Persiguen al visitante y Nox se interesa por los mapas ([05-033](capitulos/05.md)).
+- Cap. 06, 00:18:30.000: Poncelot cree que Merlucilla escapó ([06-009](capitulos/06.md)).
+- Cap. 07, 00:02:10.000: Nox mantiene a Jack y cede su camarote a Mamá ([07-002](capitulos/07.md)).
+- Cap. 07, 00:10:10.000: Rumor del huevo anotado por Lunaria ([07-005](capitulos/07.md)).
+- Cap. 07, 00:16:20.000: Mamá reconoce el puente y el antiguo templo ([07-006](capitulos/07.md)).
+- Cap. 07, 00:22:00.000: Se reúne el grupo con el dragón vivo ([07-007](capitulos/07.md)).
+- Cap. 07, 00:26:00.000: Nox descubre quién repartió las gemas ([07-008](capitulos/07.md)).
+- Cap. 07, 00:30:00.000: Nox se presenta como Jim Hawkins ([07-009](capitulos/07.md)).
+- Cap. 07, 00:35:35.000: Duelo sin heridas y Mamá intenta detenerlo ([07-010](capitulos/07.md)).
+- Cap. 07, 00:42:00.000: Frutas de la expedición ([07-011](capitulos/07.md)).
+- Cap. 07, 00:47:00.000: Puente, nido y huellas ausentes ([07-012](capitulos/07.md)).
+- Cap. 07, 00:54:50.000: Piratas intentan capturar a Patata ([07-013](capitulos/07.md)).
+- Cap. 07, 01:17:40.000: Nox captura vivo a un pirata ([07-016](capitulos/07.md)).
+- Cap. 07, 01:30:10.000: Mapa, siete monedas y rescate del elfo ([07-018](capitulos/07.md)).
+- Cap. 07, 01:42:00.000: Nox recupera al dragón ([07-020](capitulos/07.md)).
+- Cap. 07, 01:50:15.000: Cautivo atado, plumas y anatomía ([07-022](capitulos/07.md)).
+- Cap. 07, 01:56:20.000: Moneda antigua hallada por Lunaria ([07-024](capitulos/07.md)).
+- Cap. 07, 02:03:45.000: Tatuajes de Nox y ruinas sin relación reconocida ([07-025](capitulos/07.md)).
+- Cap. 07, 02:06:45.000: Perla y copia de escrituras desconocidas ([07-026](capitulos/07.md)).
+- Cap. 07, 02:14:15.000: Cría, venta y huida por un ruido ([07-027](capitulos/07.md)).
+- Cap. 07, 02:18:45.000: El ruido era Cipo, revelación al espectador ([07-028](capitulos/07.md)).
+- Cap. 07, 02:22:00.000: Patata explica el reparto de las gemas y pide protección ([07-029](capitulos/07.md)).
+- Cap. 07, 02:26:00.000: Mapas de la Marina y alojamiento negociado ([07-030](capitulos/07.md)).
+- Cap. 07, 02:36:00.000: Cautivo y perla entregados a Bonnie ([07-032](capitulos/07.md)).
+- Cap. 07, 02:41:35.000: Pacto secreto para vender la futura cría ([07-033](capitulos/07.md)).
+- Cap. 07, 02:46:10.000: Lunaria gana la apuesta y Patata corta árboles ([07-034](capitulos/07.md)).
+- Cap. 08, 00:02:10.000: Blink descansa mal en el mástil de Nox ([08-002](capitulos/08.md)).
+- Cap. 09, 00:00:00.000: Descanso y conversación entre sesiones de Nox ([09-001](capitulos/09.md)).
+- Cap. 09, 00:04:15.000: Mamá relata una visión al tomar la mano de Nox ([09-003](capitulos/09.md)).
+- Cap. 09, 00:05:35.000: Axi relata el abandono de su fe y su decisión de ser pirata ([09-004](capitulos/09.md)).
+- Cap. 09, 00:07:00.000: El loro escapa y la bolsa termina en una criatura marina ([09-005](capitulos/09.md)).
+- Cap. 09, 00:10:30.000: Ione encuentra armas y devuelve el estoque a Nox ([09-006](capitulos/09.md)).
+- Cap. 09, 00:19:00.000: Ione admite descontrol; Axi se disculpa por prejuicios ([09-007](capitulos/09.md)).
+- Cap. 09, 00:26:30.000: El joven cambia el mapa robado por el mapa de Nox ([09-009](capitulos/09.md)).
+- Cap. 09, 00:30:45.000: Lunaria ahuyenta al loro e Ione da una botella a Axi ([09-010](capitulos/09.md)).
+- Cap. 09, 00:35:30.000: Mamá golpea a Nox por intentar robar la pantera ([09-011](capitulos/09.md)).
+- Cap. 09, 00:39:05.000: El mapa requiere un guía y Lunaria dibuja una copia ([09-012](capitulos/09.md)).
+- Cap. 09, 00:44:00.000: Mamá descubre la mentira de Axi y guía la expedición ([09-014](capitulos/09.md)).
+- Cap. 09, 00:51:30.000: Frutas cambian sombras y dan curación a Nox ([09-015](capitulos/09.md)).
+- Cap. 09, 01:07:30.000: Llegan a ruinas serpentinas y entran ([09-018](capitulos/09.md)).
+- Cap. 09, 01:15:30.000: El agua no activa el altar e Ione desencadena la trampa de veneno ([09-019](capitulos/09.md)).
+- Cap. 09, 01:23:15.000: Nox miente sobre la sangre nativa y Mamá abre el altar ([09-021](capitulos/09.md)).
+- Cap. 09, 01:34:20.000: Ione mata al reptil y conserva el cadáver; Axi queda rezagado ([09-023](capitulos/09.md)).
+- Cap. 09, 01:45:40.000: Una planta atrae a Nox y sus compañeras lo liberan ([09-024](capitulos/09.md)).
+- Cap. 09, 01:56:30.000: Última sala: copa, sarcófago y cierre de puerta ([09-025](capitulos/09.md)).
+- Cap. 09, 02:04:00.000: Toma de la copa y aparición de tres guardianes de las tumbas ([09-026](capitulos/09.md)).
+- Cap. 09, 02:08:20.000: Lunaria crece y recibe la copa; Pinky finge morir ([09-027](capitulos/09.md)).
+- Cap. 09, 02:24:30.000: Curación, sombra y victoria sobre los guardianes ([09-028](capitulos/09.md)).
+- Cap. 09, 02:37:10.000: Monedas, cimitarra y robo a Pinky viva ([09-029](capitulos/09.md)).
+- Cap. 09, 02:44:00.000: Nox toma el collar sin ocultarlo y regresan con Axi ([09-030](capitulos/09.md)).
+- Cap. 09, 02:47:40.000: El director aclara el tributo y los tatuajes siguen sin interpretar ([09-031](capitulos/09.md)).
+- Cap. 09, 02:51:30.000: Ione vende obsidiana y compra ropa a Nox ([09-032](capitulos/09.md)).
+- Cap. 09, 02:58:10.000: Ventas finales, pociones y herramientas; Mamá se retira ([09-033](capitulos/09.md)).
+- Cap. 10, 00:14:10.000: Bonnie amenaza a Patata por la gema utilizada para pagar alojamiento ([10-007](capitulos/10.md)).
+- Cap. 10, 02:34:40.000: Bonnie exige una nueva expedición y mata a un pirata como ejemplo ([10-026](capitulos/10.md)).
+- Cap. 11, 00:00:00.000: Ione organiza un rescate tras recibir información de Nox ([11-001](capitulos/11.md)).
+- Cap. 11, 00:04:15.000: Visión del bebé y juramento de Nox según Mamá ([11-003](capitulos/11.md)).
+- Cap. 11, 00:43:30.000: Nox se une y dice leer Terran mediante un ritual ([11-011](capitulos/11.md)).
+- Cap. 11, 00:49:15.000: Nox ofrece un negocio y resume el informe del elfo ([11-012](capitulos/11.md)).
+- Cap. 11, 00:52:30.000: Nox invisible y saber de Mamá sobre hombres lagarto ([11-013](capitulos/11.md)).
+- Cap. 11, 00:59:00.000: Infiltración planeada; ruido de armadura fuerza cambio de sitio ([11-014](capitulos/11.md)).
+- Cap. 11, 01:07:00.000: Nox informa de las jaulas y la pirámide; los otros se sumergen ([11-015](capitulos/11.md)).
+- Cap. 11, 01:15:00.000: Camuflaje, cautivos vistos y lengua comprendida ([11-016](capitulos/11.md)).
+- Cap. 11, 01:25:40.000: Ione se transforma por la sangre y Nox mata a un guardia ([11-017](capitulos/11.md)).
+- Cap. 11, 01:31:15.000: Nox incendia el puente y los otros rodean el combate ([11-018](capitulos/11.md)).
+- Cap. 11, 01:43:20.000: Kilzer protege a Mamá y Nox incendia una choza ([11-019](capitulos/11.md)).
+- Cap. 11, 01:54:40.000: Ione va contra Poncelot; él consigue calmarla ([11-020](capitulos/11.md)).
+- Cap. 11, 02:10:20.000: Nox paraliza y mata al combatiente grande ([11-022](capitulos/11.md)).
+- Cap. 11, 02:24:10.000: Pix recogido y última resistencia abatida ([11-023](capitulos/11.md)).
+- Cap. 11, 02:41:20.000: Nox toma una moneda de los cinco reyes piratas ([11-024](capitulos/11.md)).
+- Cap. 11, 02:45:00.000: Jaulas abiertas pese a la rotura de una herramienta ([11-025](capitulos/11.md)).
+- Cap. 11, 02:52:20.000: Regreso, reversión de Ione y recuerdos limitados ([11-027](capitulos/11.md)).
+- Cap. 11, 02:56:30.000: Nox roba obsidiana a Kilzer ([11-028](capitulos/11.md)).
+- Cap. 11, 03:01:30.000: Bonnie ve a Nox invisible y recupera moneda y gema ([11-029](capitulos/11.md)).
+- Cap. 11, 03:09:40.000: Casino propuesto con licencia aún no comprobada ([11-031](capitulos/11.md)).
+- Cap. 11, 03:14:40.000: Gema de Liz obtenida por inspiración; recuento ambiguo ([11-032](capitulos/11.md)).
+- Cap. 12, 00:00:00.000: Recuperación de Blink e inquietud de Nox por el fortín ([12-001](capitulos/12.md)).
+- Cap. 12, 00:05:00.000: El elfo recibe apoyo de Nox y relata su entrevista con Bonnie ([12-003](capitulos/12.md)).
+- Cap. 12, 00:08:00.000: Libro entregado por el elfo, oreja perdida y plazo de Bonnie ([12-004](capitulos/12.md)).
+- Cap. 12, 00:15:20.000: Pix tiene el mondadientes de Blink ([12-005](capitulos/12.md)).
+- Cap. 12, 00:20:30.000: El elfo ofrece ocho monedas y Nox recuerda el diez por ciento ([12-006](capitulos/12.md)).
+- Cap. 12, 00:24:15.000: Jack debe ir a Puerto de Espadas y volver con ganancias ([12-007](capitulos/12.md)).
+- Cap. 12, 00:26:55.000: Contenido e identificación del diario del nawal ([12-008](capitulos/12.md)).
+- Cap. 12, 00:28:50.000: Jack informa de Fuerte Aurora; Nox busca tres compañeros ([12-009](capitulos/12.md)).
+- Cap. 12, 00:31:45.000: Blink guía hacia un campamento que recuerda al sur de su árbol ([12-010](capitulos/12.md)).
+- Cap. 12, 00:36:25.000: Arco comprado y palabra papaya para cambios de Ione ([12-011](capitulos/12.md)).
+- Cap. 12, 00:41:00.000: Frutas dan curación, elasticidad y caída lenta ([12-012](capitulos/12.md)).
+- Cap. 12, 00:44:30.000: Pinky recibe hojas y se une ([12-013](capitulos/12.md)).
+- Cap. 12, 00:48:30.000: Ione equipa a Axi, que fabrica un arco imperfecto ([12-014](capitulos/12.md)).
+- Cap. 12, 00:52:30.000: Se infiltran entre ruinas mientras Pinky distrae ([12-015](capitulos/12.md)).
+- Cap. 12, 01:07:15.000: Nox se hace pasar por Jack Jackson ante el capitán ([12-016](capitulos/12.md)).
+- Cap. 12, 01:09:30.000: Cuatro presos del campamento ([12-017](capitulos/12.md)).
+- Cap. 12, 01:33:30.000: Nox paga diez y Pinky hace crecer plantas ([12-019](capitulos/12.md)).
+- Cap. 12, 01:46:20.000: Nox paraliza al capitán y a un marine; Ione mata al perro ([12-021](capitulos/12.md)).
+- Cap. 12, 01:59:30.000: El elfo utiliza las coberturas y Nox el libro con el glifo ([12-022](capitulos/12.md)).
+- Cap. 12, 02:13:00.000: El pirata liberado es abatido y la mujer ayuda ([12-024](capitulos/12.md)).
+- Cap. 12, 02:35:00.000: Pinky quema al capitán y también a Nox ([12-026](capitulos/12.md)).
+- Cap. 12, 02:46:00.000: Ione devuelve una bala y Nox deja al capitán vivo e inconsciente ([12-027](capitulos/12.md)).
+- Cap. 12, 02:56:10.000: Últimos enemigos abatidos y mujer auxiliada ([12-028](capitulos/12.md)).
+- Cap. 12, 03:00:00.000: Nox toma una copa ritual y nueve monedas del capitán ([12-029](capitulos/12.md)).
+- Cap. 12, 03:06:30.000: Nox recupera su pago y un mapa de la actividad de la Marina ([12-030](capitulos/12.md)).
+- Cap. 12, 03:10:00.000: El capitán queda con una carta y no es interrogado ([12-032](capitulos/12.md)).
+- Cap. 13, 00:00:00.000: Patata recupera parte de su equipo y Nox reparte las ganancias de una venta ([13-001](capitulos/13.md)).
+- Cap. 13, 00:15:00.000: Lunaria roba una cola y termina la sordera de Kilzer ([13-005](capitulos/13.md)).
+- Cap. 13, 00:19:40.000: Licencia visible y reacción de Lunaria al sentirse insultada ([13-006](capitulos/13.md)).
+- Cap. 13, 00:29:30.000: Croquis de Jacki, botella y silencio de Kilzer ([13-008](capitulos/13.md)).
+- Cap. 13, 00:39:30.000: Puntos de interés, herramientas y ruta elegida por Ayoto ([13-010](capitulos/13.md)).
+- Cap. 13, 00:43:30.000: Nox anuncia un reparto del casino de 35/15/50 ([13-011](capitulos/13.md)).
+- Cap. 13, 00:46:40.000: Nox dormido, dos robos y dado explosivo ([13-012](capitulos/13.md)).
+- Cap. 13, 00:53:30.000: Efectos de fruta: armas pesadas, veneno y teletransporte ([13-013](capitulos/13.md)).
+- Cap. 13, 00:56:00.000: Templo desconocido, engaño del sol y portón abierto ([13-014](capitulos/13.md)).
+- Cap. 13, 01:03:45.000: Luz en Ayoto y plantas que atraen al grupo ([13-015](capitulos/13.md)).
+- Cap. 13, 01:10:00.000: Daño ácido y ayuda condicionada a jurar al Sol ([13-016](capitulos/13.md)).
+- Cap. 13, 01:19:00.000: Aparece una criatura de raíces y Patata destruye la planta que lo aprisiona ([13-017](capitulos/13.md)).
+- Cap. 13, 01:28:40.000: Kilzer queda atrapado y Nox lo libera de las raíces ([13-018](capitulos/13.md)).
+- Cap. 13, 01:35:30.000: Uso de un pergamino de fuego y Nox mata a otra planta ([13-019](capitulos/13.md)).
+- Cap. 13, 01:48:00.000: Ayoto recoge lianas y dos semillas ([13-021](capitulos/13.md)).
+- Cap. 13, 01:52:10.000: Columnas de jaguar, águila y serpiente comprendidas ([13-022](capitulos/13.md)).
+- Cap. 13, 01:58:30.000: Águila en el techo y ritual con ojos iluminados ([13-023](capitulos/13.md)).
+- Cap. 13, 02:05:20.000: La danza activa la plataforma hacia el sótano ([13-024](capitulos/13.md)).
+- Cap. 13, 02:08:20.000: Tesoro de cajas: jade, obsidiana y monedas antiguas ([13-025](capitulos/13.md)).
+- Cap. 14, 00:51:45.000: Navío visto y Bonnie expulsa al marcado ([14-010](capitulos/14.md)).
+- Cap. 15, 00:03:20.000: Triel quiere ser capitana y el elfo prepara el envío de Jack ([15-002](capitulos/15.md)).
+- Cap. 16, 00:10:25.000: Conservación del cuerpo del elfo pese al deseo de enterrarlo ([16-004](capitulos/16.md)).
+- Cap. 23, 00:00:00.000: La carta de Nox impulsa el rescate ([23-001](capitulos/23.md)).
+- Cap. 23, 00:06:00.000: Equipo de rescate reunido ([23-002](capitulos/23.md)).
+- Cap. 23, 00:33:00.000: Jack regresa y Nox está encadenado ([23-004](capitulos/23.md)).
+- Cap. 23, 00:41:00.000: Carcelero convencido para dormir lejos ([23-005](capitulos/23.md)).
+- Cap. 23, 01:43:00.000: Nox se libera con herramientas ocultas ([23-010](capitulos/23.md)).
+- Cap. 23, 01:50:00.000: Serpiente del foso conoce Hawkins ([23-011](capitulos/23.md)).
+- Cap. 23, 02:15:00.000: Sombrero, dos caídas y explosión ([23-013](capitulos/23.md)).
+- Cap. 23, 02:24:00.000: Despacho cerrado y puerta rota ([23-014](capitulos/23.md)).
+- Cap. 23, 02:37:00.000: Reencuentro y documentos sobre una ciudad ([23-015](capitulos/23.md)).
+- Cap. 23, 02:43:00.000: Perros frenan perseguidores y mosca evacúa ([23-016](capitulos/23.md)).
+- Cap. 23, 02:48:00.000: Galeón distractor y fuga en barca ([23-017](capitulos/23.md)).
+- Cap. 24, 00:00:00.000: Descansos y Winscor explorador ([24-001](capitulos/24.md)).
+- Cap. 24, 02:27:00.000: Bonnie recluta a Coyote como espía ([24-019](capitulos/24.md)).
+- Cap. 25, 00:03:00.000: Blink conserva el amuleto y Nox evita a Ione ([25-002](capitulos/25.md)).
+- Cap. 25, 00:09:00.000: Noche dispersa en Shiaru ([25-004](capitulos/25.md)).
+- Cap. 25, 00:22:00.000: Ataques simultáneos a Blink, Nox y el barco ([25-006](capitulos/25.md)).
+- Cap. 25, 00:28:00.000: Ilusiones y evasión inicial ([25-007](capitulos/25.md)).
+- Cap. 25, 00:40:00.000: Miedo mágico y respeto a una ilusión ([25-009](capitulos/25.md)).
+- Cap. 25, 00:46:00.000: Nox encuentra a Luna y una mujer exige el mapa ([25-010](capitulos/25.md)).
+- Cap. 25, 00:54:30.000: Los sonidos desvían a los enemigos y tres compañeros se reúnen ([25-011](capitulos/25.md)).
+- Cap. 25, 01:08:00.000: Robo a Pix y Poncelot sujeto por la cola ([25-012](capitulos/25.md)).
+- Cap. 25, 01:18:00.000: Mapa reclamado y Hambre de Hadar ([25-013](capitulos/25.md)).
+- Cap. 25, 01:24:40.000: Invisibilidad conjunta y Merlucilla llega ([25-014](capitulos/25.md)).
+- Cap. 25, 01:43:00.000: Cierre de la taberna y cooperación forzada ([25-016](capitulos/25.md)).
+- Cap. 25, 01:52:30.000: Luna mata a dos bestias mediante magia salvaje ([25-017](capitulos/25.md)).
+- Cap. 25, 02:01:00.000: Último enemigo muerto y Pix enfadado ([25-018](capitulos/25.md)).
+- Cap. 25, 02:11:30.000: El mapa señala un destino que Ione llamó Ezlat ([25-019](capitulos/25.md)).
+- Cap. 25, 02:20:00.000: Espina-lanza y documentos abisales ([25-020](capitulos/25.md)).
+- Cap. 25, 02:24:00.000: Las órdenes buscan el mapa y el collar de Blink ([25-021](capitulos/25.md)).
+- Cap. 26, 00:03:00.000: Abisal en aprendizaje y amuleto sin destino ([26-002](capitulos/26.md)).
+- Cap. 26, 00:12:00.000: Dados del capitán y acusación del loro ([26-004](capitulos/26.md)).
+- Cap. 26, 00:14:00.000: Ione exige a Nox que la avise personalmente ([26-005](capitulos/26.md)).
+- Cap. 26, 00:20:00.000: Cinco convocados y tesoro disputado ([26-006](capitulos/26.md)).
+- Cap. 26, 00:24:00.000: Nox entrega el licor y ambos declaran su amistad ([26-007](capitulos/26.md)).
+- Cap. 26, 00:28:20.000: Expedición hacia el sur pese a que el mapa indica otra dirección ([26-008](capitulos/26.md)).
+- Cap. 26, 00:35:00.000: Pinky recibe puñetazo por encuentro sorpresa ([26-009](capitulos/26.md)).
+- Cap. 26, 00:55:50.000: La fruta agranda las orejas y Pinky acepta guiar ([26-012](capitulos/26.md)).
+- Cap. 26, 01:02:00.000: Pirámide oculta alcanzada por ruta extraña ([26-013](capitulos/26.md)).
+- Cap. 26, 01:08:30.000: Pociones de la nieta y cesión a Poncelot ([26-014](capitulos/26.md)).
+- Cap. 26, 01:15:00.000: Historia del mapa y collar oculto en mango ([26-015](capitulos/26.md)).
+- Cap. 26, 01:20:00.000: Estatuas de ojos vacíos y puerta sin cerradura ([26-016](capitulos/26.md)).
+- Cap. 26, 01:31:00.000: Nox activa las estatuas y siente picor en la espalda ([26-017](capitulos/26.md)).
+- Cap. 26, 01:37:00.000: Altar, collar reactivo y pasos bajo estatuas ([26-018](capitulos/26.md)).
+- Cap. 26, 01:46:00.000: Trampas desactivadas y una voz tras verter sangre ([26-019](capitulos/26.md)).
+- Cap. 26, 01:54:00.000: Puertas cuñadas y corriente de aire ([26-020](capitulos/26.md)).
+- Cap. 26, 02:02:00.000: El guardia poseído invita a Nox y reconoce el collar ([26-021](capitulos/26.md)).
+- Cap. 26, 02:09:00.000: El anfitrión necesita lo que Nox lleva en la espalda ([26-022](capitulos/26.md)).
+- Cap. 26, 02:15:00.000: Nox finge sentarse y se desencadena una agresión ([26-023](capitulos/26.md)).
+- Cap. 28, 00:00:00.000: Nox simula una transformación sin sentarse ([28-001](capitulos/28.md)).
+- Cap. 28, 00:04:00.000: Ione reconoce la ilusión y la serpiente ve la trampa ([28-002](capitulos/28.md)).
+- Cap. 28, 00:10:00.000: Blink se aparta y falla el intento de paralizar ([28-003](capitulos/28.md)).
+- Cap. 28, 00:24:00.000: Magia de Blink y Nox combate con estoque ([28-005](capitulos/28.md)).
+- Cap. 28, 00:34:00.000: El tigre combate fuera y Pinky queda calva ([28-006](capitulos/28.md)).
+- Cap. 28, 00:40:00.000: Explosión psíquica del anfitrión y curación de Poncelot ([28-007](capitulos/28.md)).
+- Cap. 28, 00:54:00.000: Restos serpentinos devoran cadáveres ([28-009](capitulos/28.md)).
+- Cap. 28, 00:58:00.000: Blink abandona el collar y las serpientes se unen ([28-010](capitulos/28.md)).
+- Cap. 28, 01:01:00.000: Monedas no bastan y Ione arrastra a Nox ([28-011](capitulos/28.md)).
+- Cap. 28, 01:04:00.000: Una cola atrapa a Ione y Poncelot ayuda a cerrar la puerta ([28-012](capitulos/28.md)).
+- Cap. 28, 01:10:00.000: Ojo-orbe arrancado de una estatua ([28-013](capitulos/28.md)).
+- Cap. 28, 01:14:00.000: Hambre de Hadar retrasa a los perseguidores ([28-014](capitulos/28.md)).
+- Cap. 28, 01:22:00.000: Visiones del orbe y custodia de Poncelot ([28-015](capitulos/28.md)).
+- Cap. 28, 01:29:00.000: Pinky enreda al tigre para que la bajen ([28-016](capitulos/28.md)).
+- Cap. 28, 01:34:00.000: Nox quiere volver a ver a Molly ([28-017](capitulos/28.md)).
+- Cap. 28, 01:38:00.000: Jack fingió ser capitán durante la ausencia ([28-018](capitulos/28.md)).
+- Cap. 28, 01:43:00.000: Orbe entregado y visiones enviadas a Bonnie ([28-019](capitulos/28.md)).
+- Cap. 28, 01:50:00.000: Bonnie declara una alianza con Molly para proteger la isla ([28-020](capitulos/28.md)).
+- Cap. 28, 01:53:00.000: Anciana nativa y pacto de intercambio de información ([28-021](capitulos/28.md)).
+- Cap. 28, 02:00:00.000: Ione castiga a Jack y Mugre detiene a Ojo Ausente ([28-022](capitulos/28.md)).
+- Cap. 32, 00:14:00.000: Patata explica guerra y autoridades ([32-004](capitulos/32.md)).
+- Cap. 32, 02:04:00.000: Trato roto y control de Bonnie ([32-018](capitulos/32.md)).
+- Cap. 32, 02:08:00.000: Recompensas y paradero de Citlali ([32-019](capitulos/32.md)).
+- Cap. 33, 00:08:00.000: Jack recluta Poncelot en Zampaolas ([33-002](capitulos/33.md)).
+- Cap. 33, 00:12:30.000: Reclutamiento y acusación a Eleanor ([33-003](capitulos/33.md)).
+- Cap. 33, 00:22:00.000: Bonnie sostiene ficción cortesana ([33-004](capitulos/33.md)).
+- Cap. 33, 00:28:00.000: Margaret y Morris se suman ([33-005](capitulos/33.md)).
+- Cap. 33, 00:36:00.000: Buscar refugio para Citlali oculta ([33-006](capitulos/33.md)).
+- Cap. 33, 00:40:00.000: Se aclara Aragón y farsa de Titania ([33-007](capitulos/33.md)).
+- Cap. 33, 00:48:00.000: Frutas alteran exploradores ([33-008](capitulos/33.md)).
+- Cap. 33, 00:54:00.000: Cueva y exploración sin luz ([33-009](capitulos/33.md)).
+- Cap. 33, 01:06:00.000: Eleanor revela expansión territorial ([33-010](capitulos/33.md)).
+- Cap. 33, 01:10:00.000: Plantas atacan al intentar hoguera ([33-011](capitulos/33.md)).
+- Cap. 33, 01:24:00.000: Margaret muere y Morris despierta ([33-012](capitulos/33.md)).
+- Cap. 33, 01:34:00.000: Ilusión de fuego, furia y primera planta muerta ([33-013](capitulos/33.md)).
+- Cap. 33, 01:50:00.000: Segunda planta vencida y corrección de visión ([33-014](capitulos/33.md)).
+- Cap. 33, 02:14:00.000: Mingo, Mango y Mungo reconocen capitán ([33-016](capitulos/33.md)).
+- Cap. 33, 02:20:00.000: Axi capturado y Poncelot despierto ([33-017](capitulos/33.md)).
+- Cap. 33, 02:28:00.000: Piedra rota y proveedor desaparecido ([33-018](capitulos/33.md)).
+- Cap. 33, 02:32:00.000: Hoguera y salida con hipopótamos ([33-019](capitulos/33.md)).
+- Cap. 34, 00:12:00.000: Nox expulsado y huevo desaparecido ([34-003](capitulos/34.md)).
+- Cap. 35, 00:00:00.000: Casco del gnomo y Molly incomunicada ([35-001](capitulos/35.md)).
+- Cap. 35, 00:12:00.000: Nox no encuentra Ione y Luna mata loro ([35-003](capitulos/35.md)).
+- Cap. 35, 00:20:00.000: Negocios de Nox y nombre Armin ([35-004](capitulos/35.md)).
+- Cap. 35, 00:30:00.000: Moneda antigua y búsqueda Molly ([35-005](capitulos/35.md)).
+- Cap. 35, 00:40:00.000: Uniforme Jack y viaje al fuerte ([35-006](capitulos/35.md)).
+- Cap. 35, 00:53:00.000: Mercader, distracción y entrada submarina ([35-007](capitulos/35.md)).
+- Cap. 35, 01:08:00.000: Smith admite viajeros y Nox interroga guardia ([35-008](capitulos/35.md)).
+- Cap. 35, 01:20:00.000: Molly destituida y guardia atado ([35-009](capitulos/35.md)).
+- Cap. 35, 01:33:00.000: Explosión de pólvora y torre infiltrada ([35-011](capitulos/35.md)).
+- Cap. 35, 01:44:00.000: Nox libera Molly y Pinky ([35-012](capitulos/35.md)).
+- Cap. 35, 02:05:00.000: Visión de isla devastada y serpiente alada ([35-014](capitulos/35.md)).
+- Cap. 35, 02:10:00.000: Resisten llamada y Molly toma bote ([35-015](capitulos/35.md)).
+- Cap. 35, 02:17:00.000: Pinky recapturada y amenaza a Tórtola ([35-016](capitulos/35.md)).
+- Cap. 35, 02:26:00.000: Reencuentro y Molly vuelve con grupo ([35-017](capitulos/35.md)).
+- Cap. 35, 02:37:00.000: Nox preocupado y llegada Shiaru ([35-018](capitulos/35.md)).
+- Cap. 35, 02:42:00.000: Bonnie y Molly reencuentran; recompensas ([35-019](capitulos/35.md)).
+- Cap. 35, 02:51:00.000: Nox pide conversación con Molly ([35-020](capitulos/35.md)).
+- Cap. 36, 00:20:00.000: Molly informa de una posición estratégica ([36-004](capitulos/36.md)).
+- Cap. 37, 00:08:00.000: Búsqueda de Nox y noticias de la escudera ([37-002](capitulos/37.md)).
+- Cap. 37, 00:24:00.000: Emboscada a los suministros con Tlachka al mando ([37-004](capitulos/37.md)).
+- Cap. 37, 00:32:00.000: La esfera reacciona ante Citlali ([37-005](capitulos/37.md)).
+- Cap. 37, 00:36:00.000: Comida contra el cansancio y efectos de las frutas ([37-006](capitulos/37.md)).
+- Cap. 37, 00:45:00.000: Preparación de trampas y del glifo Parlamento ([37-007](capitulos/37.md)).
+- Cap. 37, 01:00:00.000: Una trampa captura a un marine y Nox lo mata ([37-008](capitulos/37.md)).
+- Cap. 37, 01:11:00.000: El caballo provoca daños y el glifo paraliza al capitán ([37-009](capitulos/37.md)).
+- Cap. 37, 01:22:00.000: Muere el capitán y un marine huye ([37-010](capitulos/37.md)).
+- Cap. 37, 01:34:00.000: Un tiranosaurio irrumpe y retrocede ante los susurros ([37-011](capitulos/37.md)).
+- Cap. 37, 01:40:00.000: Luna incendia una carreta de suministros ([37-012](capitulos/37.md)).
+- Cap. 37, 01:44:00.000: Huida en la carreta restante ([37-013](capitulos/37.md)).
+- Cap. 37, 01:50:00.000: Explosión y cañonazo contra el dinosaurio ([37-014](capitulos/37.md)).
+- Cap. 37, 01:57:00.000: Entrega de una carreta y recompensas ([37-015](capitulos/37.md)).
+- Cap. 37, 02:06:00.000: Nox recibe una moneda de oro tras descontar deudas ([37-016](capitulos/37.md)).
+- Cap. 37, 02:09:00.000: Bonnie presta el ojo con una condición que Nox planea incumplir ([37-017](capitulos/37.md)).
+- Cap. 37, 02:14:00.000: Luna roba pólvora y Nox parte hacia el fuerte ([37-018](capitulos/37.md)).
+- Cap. 38, 00:32:00.000: Ilikar se incorpora a la tripulación ([38-005](capitulos/38.md)).
+- Cap. 39, 00:00:00.000: Regreso de Ayoto y crianza de Etley ([39-001](capitulos/39.md)).
+- Cap. 39, 00:04:00.000: Cueva refugio y recuerdo incierto de Nox ([39-002](capitulos/39.md)).
+
+## Ojo Ausente
+
+- Cap. 13, 00:29:30.000: Croquis de Jacki, botella y silencio de Kilzer ([13-008](capitulos/13.md)).
+- Cap. 24, 00:16:00.000: Bonnie encarga matar a los supuestos ladrones ([24-003](capitulos/24.md)).
+- Cap. 28, 02:00:00.000: Ione castiga a Jack y Mugre detiene a Ojo Ausente ([28-022](capitulos/28.md)).
+
+## Ojo-orbe recuperado por Nox
+
+- Cap. 28, 01:10:00.000: Ojo-orbe arrancado de una estatua ([28-013](capitulos/28.md)).
+- Cap. 28, 01:22:00.000: Visiones del orbe y custodia de Poncelot ([28-015](capitulos/28.md)).
+- Cap. 28, 01:43:00.000: Orbe entregado y visiones enviadas a Bonnie ([28-019](capitulos/28.md)).
+- Cap. 28, 01:53:00.000: Anciana nativa y pacto de intercambio de información ([28-021](capitulos/28.md)).
+- Cap. 37, 00:32:00.000: La esfera reacciona ante Citlali ([37-005](capitulos/37.md)).
+- Cap. 37, 02:09:00.000: Bonnie presta el ojo con una condición que Nox planea incumplir ([37-017](capitulos/37.md)).
+- Cap. 37, 02:14:00.000: Luna roba pólvora y Nox parte hacia el fuerte ([37-018](capitulos/37.md)).
+
+## Parroter
+
+- Cap. 16, 01:46:25.000: Entrada a Cuicapalli y conversación en Primordial ([16-014](capitulos/16.md)).
+- Cap. 16, 02:02:20.000: Taberna tranquila, encargo fucsia y campeón del sol ([16-017](capitulos/16.md)).
+- Cap. 16, 02:16:40.000: El mapa de Luna no pertenece a la zona y se toman unos tubos ([16-020](capitulos/16.md)).
+- Cap. 18, 00:26:00.000: Botas con símbolos y una advertencia sobre el tiempo ([18-005](capitulos/18.md)).
+- Cap. 30, 00:12:00.000: Luna es admitida como chamán e interfiere en el trabajo de Parroter ([30-003](capitulos/30.md)).
+- Cap. 30, 00:19:00.000: Marcas verdes y veneno similar al de las serpientes ([30-004](capitulos/30.md)).
+- Cap. 30, 02:04:00.000: Eromov envía a Parroter a investigar una cura ([30-020](capitulos/30.md)).
+- Cap. 30, 02:12:00.000: Descanso y reflexión de Luna sobre el exceso de fuego ([30-022](capitulos/30.md)).
+
+## Patata
+
+- Cap. 01, 00:00:45.000: Proyecto agrícola de Patatamán ([01-002](capitulos/01.md)).
+- Cap. 01, 00:16:50.000: Convergencia de los recién llegados ([01-009](capitulos/01.md)).
+- Cap. 01, 01:30:03.000: Incidente con la criatura ígnea ([01-022](capitulos/01.md)).
+- Cap. 01, 01:53:43.000: Alojamiento y servicio de la Sirena Borracha ([01-025](capitulos/01.md)).
+- Cap. 01, 02:08:04.000: Revelación del servicio premium ([01-035](capitulos/01.md)).
+- Cap. 04, 00:00:40.000: El Garfio y el poblado de Bonnie ([04-001](capitulos/04.md)).
+- Cap. 04, 00:15:40.000: Se forma la expedición ([04-008](capitulos/04.md)).
+- Cap. 04, 00:23:40.000: Dinosaurio destrozado y cuerpo expulsado ([04-009](capitulos/04.md)).
+- Cap. 04, 00:30:00.000: Nuevos efectos de las frutas ([04-010](capitulos/04.md)).
+- Cap. 04, 00:42:20.000: Ione pide quedar inconsciente ([04-012](capitulos/04.md)).
+- Cap. 04, 00:46:35.000: Grupo perdido y hallazgo de piratas ([04-013](capitulos/04.md)).
+- Cap. 04, 00:52:00.000: Superviviente auxiliado y reconocimiento de garras ([04-014](capitulos/04.md)).
+- Cap. 04, 01:03:00.000: Emboscada y muerte del pirata auxiliado ([04-016](capitulos/04.md)).
+- Cap. 04, 01:11:00.000: Patata despierta a Ione y cura a Cipo ([04-017](capitulos/04.md)).
+- Cap. 04, 01:19:00.000: Victoria sobre los dinosaurios ([04-018](capitulos/04.md)).
+- Cap. 04, 01:41:30.000: Advertencias y reparto de gemas ([04-021](capitulos/04.md)).
+- Cap. 04, 01:49:00.000: Cuidados y preocupación de los nativos ([04-023](capitulos/04.md)).
+- Cap. 04, 01:55:00.000: Huida de un dinosaurio volador ([04-025](capitulos/04.md)).
+- Cap. 04, 01:57:00.000: Veintiuna monedas para Patata ([04-026](capitulos/04.md)).
+- Cap. 04, 02:00:55.000: Alojamiento y separación al regreso ([04-027](capitulos/04.md)).
+- Cap. 04, 02:13:00.000: Patata paga con una gema ([04-030](capitulos/04.md)).
+- Cap. 06, 00:06:55.000: Bonnie localiza una gema y exige las demás ([06-004](capitulos/06.md)).
+- Cap. 07, 00:00:00.000: Herramientas de cocina perdidas ([07-001](capitulos/07.md)).
+- Cap. 07, 00:16:20.000: Mamá reconoce el puente y el antiguo templo ([07-006](capitulos/07.md)).
+- Cap. 07, 00:22:00.000: Se reúne el grupo con el dragón vivo ([07-007](capitulos/07.md)).
+- Cap. 07, 00:26:00.000: Nox descubre quién repartió las gemas ([07-008](capitulos/07.md)).
+- Cap. 07, 00:42:00.000: Frutas de la expedición ([07-011](capitulos/07.md)).
+- Cap. 07, 00:47:00.000: Puente, nido y huellas ausentes ([07-012](capitulos/07.md)).
+- Cap. 07, 00:54:50.000: Piratas intentan capturar a Patata ([07-013](capitulos/07.md)).
+- Cap. 07, 01:02:30.000: Ceguera y nueva inmunidad al alcohol de Lunaria ([07-014](capitulos/07.md)).
+- Cap. 07, 01:06:20.000: Mamá derriba al capitán y el elfo vuela ([07-015](capitulos/07.md)).
+- Cap. 07, 01:30:10.000: Mapa, siete monedas y rescate del elfo ([07-018](capitulos/07.md)).
+- Cap. 07, 01:44:00.000: Criatura y piratas derrotados, una huye ([07-021](capitulos/07.md)).
+- Cap. 07, 02:14:15.000: Cría, venta y huida por un ruido ([07-027](capitulos/07.md)).
+- Cap. 07, 02:18:45.000: El ruido era Cipo, revelación al espectador ([07-028](capitulos/07.md)).
+- Cap. 07, 02:22:00.000: Patata explica el reparto de las gemas y pide protección ([07-029](capitulos/07.md)).
+- Cap. 07, 02:30:00.000: Mamá prepara la crianza y Patata compra un hacha ([07-031](capitulos/07.md)).
+- Cap. 07, 02:46:10.000: Lunaria gana la apuesta y Patata corta árboles ([07-034](capitulos/07.md)).
+- Cap. 10, 00:01:05.000: Patata prepara calor para el huevo y sigue talando ([10-001](capitulos/10.md)).
+- Cap. 10, 00:08:30.000: Pix desaparece tras tirar basura al agua ([10-005](capitulos/10.md)).
+- Cap. 10, 00:14:10.000: Bonnie amenaza a Patata por la gema utilizada para pagar alojamiento ([10-007](capitulos/10.md)).
+- Cap. 10, 00:18:00.000: Bonnie impone el rescate de Pix vivo ([10-008](capitulos/10.md)).
+- Cap. 10, 00:22:20.000: Expedición en barca hasta Ruki Peten ([10-009](capitulos/10.md)).
+- Cap. 10, 00:34:15.000: Dos cocodrilos muertos y diente para Axi ([10-012](capitulos/10.md)).
+- Cap. 10, 00:45:15.000: El dragón guía la búsqueda y los guardias detectan a tres compañeros ([10-014](capitulos/10.md)).
+- Cap. 10, 00:54:30.000: Patata combate al frente y llegan refuerzos ([10-016](capitulos/10.md)).
+- Cap. 10, 01:31:20.000: Axi cae y es arrastrado; Ayoto comienza la retirada ([10-019](capitulos/10.md)).
+- Cap. 10, 01:41:00.000: Calmar emociones no afecta a los cocodrilos y el elfo escapa ([10-020](capitulos/10.md)).
+- Cap. 10, 01:50:30.000: Una curación de los espectadores levanta a Axi y el dragón huye ([10-021](capitulos/10.md)).
+- Cap. 10, 02:01:30.000: Axi vuelve a caer ante el martillo y Blink intenta ayudar ([10-022](capitulos/10.md)).
+- Cap. 10, 02:15:00.000: Patata cae pese a curarse y Blink queda atrás ([10-023](capitulos/10.md)).
+- Cap. 10, 02:37:30.000: Patata, Blink y Axi están vivos y enjaulados ([10-027](capitulos/10.md)).
+- Cap. 11, 00:02:30.000: Kilzer prepara la venta de carne como remedio ([11-002](capitulos/11.md)).
+- Cap. 11, 01:15:00.000: Camuflaje, cautivos vistos y lengua comprendida ([11-016](capitulos/11.md)).
+- Cap. 11, 02:45:00.000: Jaulas abiertas pese a la rotura de una herramienta ([11-025](capitulos/11.md)).
+- Cap. 11, 02:52:20.000: Regreso, reversión de Ione y recuerdos limitados ([11-027](capitulos/11.md)).
+- Cap. 11, 03:06:00.000: Pago discutido y traslado de los heridos al médico ([11-030](capitulos/11.md)).
+- Cap. 11, 03:14:40.000: Gema de Liz obtenida por inspiración; recuento ambiguo ([11-032](capitulos/11.md)).
+- Cap. 13, 00:00:00.000: Patata recupera parte de su equipo y Nox reparte las ganancias de una venta ([13-001](capitulos/13.md)).
+- Cap. 13, 00:06:30.000: Pantera podrida y armadura de Patata no recuperada ([13-003](capitulos/13.md)).
+- Cap. 13, 00:10:00.000: Kilzer sordo y Patata roba a Ayoto ([13-004](capitulos/13.md)).
+- Cap. 13, 00:24:00.000: Patata compra ropa y Ayoto utiliza una piel como capa ([13-007](capitulos/13.md)).
+- Cap. 13, 00:35:30.000: Ayoto entrega una capa a Pix y Bonnie lo despide ([13-009](capitulos/13.md)).
+- Cap. 13, 00:39:30.000: Puntos de interés, herramientas y ruta elegida por Ayoto ([13-010](capitulos/13.md)).
+- Cap. 13, 00:46:40.000: Nox dormido, dos robos y dado explosivo ([13-012](capitulos/13.md)).
+- Cap. 13, 00:53:30.000: Efectos de fruta: armas pesadas, veneno y teletransporte ([13-013](capitulos/13.md)).
+- Cap. 13, 00:56:00.000: Templo desconocido, engaño del sol y portón abierto ([13-014](capitulos/13.md)).
+- Cap. 13, 01:03:45.000: Luz en Ayoto y plantas que atraen al grupo ([13-015](capitulos/13.md)).
+- Cap. 13, 01:10:00.000: Daño ácido y ayuda condicionada a jurar al Sol ([13-016](capitulos/13.md)).
+- Cap. 13, 01:19:00.000: Aparece una criatura de raíces y Patata destruye la planta que lo aprisiona ([13-017](capitulos/13.md)).
+- Cap. 13, 01:35:30.000: Uso de un pergamino de fuego y Nox mata a otra planta ([13-019](capitulos/13.md)).
+- Cap. 13, 01:42:40.000: Ayoto agarrado y última planta abatida ([13-020](capitulos/13.md)).
+- Cap. 13, 01:48:00.000: Ayoto recoge lianas y dos semillas ([13-021](capitulos/13.md)).
+- Cap. 13, 01:52:10.000: Columnas de jaguar, águila y serpiente comprendidas ([13-022](capitulos/13.md)).
+- Cap. 13, 02:05:20.000: La danza activa la plataforma hacia el sótano ([13-024](capitulos/13.md)).
+- Cap. 13, 02:08:20.000: Tesoro de cajas: jade, obsidiana y monedas antiguas ([13-025](capitulos/13.md)).
+- Cap. 14, 00:16:00.000: Patata vende jade a Liz por cincuenta ([14-004](capitulos/14.md)).
+- Cap. 14, 00:21:35.000: Los hermanos llegan y compran ropa negra ([14-005](capitulos/14.md)).
+- Cap. 14, 00:37:00.000: La mujer del bote pide ayuda para el mercante ([14-007](capitulos/14.md)).
+- Cap. 14, 00:43:30.000: La aparición se desvanece y deja una mancha negra ([14-008](capitulos/14.md)).
+- Cap. 14, 00:48:00.000: Ayoto protege a Patata y Blink conoce la leyenda ([14-009](capitulos/14.md)).
+- Cap. 14, 00:51:45.000: Navío visto y Bonnie expulsa al marcado ([14-010](capitulos/14.md)).
+- Cap. 14, 00:58:15.000: Barco deteriorado con tareas repetidas ([14-011](capitulos/14.md)).
+- Cap. 14, 01:24:15.000: Tres muertos de cajas derrotados ([14-014](capitulos/14.md)).
+- Cap. 14, 01:54:00.000: Brújula a cambio de bebida y envenenamiento ([14-017](capitulos/14.md)).
+- Cap. 14, 02:04:00.000: Camarero derrotado y brújula recogida ([14-018](capitulos/14.md)).
+- Cap. 14, 02:22:30.000: Portador abatido y campana recogida; runa vista ([14-020](capitulos/14.md)).
+- Cap. 14, 02:30:10.000: Cofre abierto y aparición del capitán al reunir los objetos ([14-021](capitulos/14.md)).
+- Cap. 14, 02:44:10.000: El capitán cambia de forma y ordena el hundimiento ([14-023](capitulos/14.md)).
+- Cap. 14, 02:52:40.000: La rotura del relicario dispersa al capitán y los tripulantes ([14-024](capitulos/14.md)).
+- Cap. 14, 03:01:00.000: Desaparición de la marca y el veneno; Bonnie llama a los hermanos ([14-025](capitulos/14.md)).
+- Cap. 15, 00:03:20.000: Triel quiere ser capitana y el elfo prepara el envío de Jack ([15-002](capitulos/15.md)).
+- Cap. 15, 00:07:00.000: Granja de Patata y dos piratas arrastrados ([15-003](capitulos/15.md)).
+- Cap. 15, 00:12:00.000: Patata paga cinco monedas y Bonnie encarga eliminar la amenaza ([15-004](capitulos/15.md)).
+- Cap. 15, 00:18:40.000: El grupo se reúne y Axi compra flechas y armadura ([15-005](capitulos/15.md)).
+- Cap. 15, 00:36:00.000: Diosa de Patata y rastros hacia el sur ([15-007](capitulos/15.md)).
+- Cap. 15, 00:44:20.000: Frutas: obligación de decir la verdad, inmunidad a las armas y resistencias ([15-008](capitulos/15.md)).
+- Cap. 15, 01:01:30.000: Restos de piratas y Triel infiltrada con disfraz ([15-010](capitulos/15.md)).
+- Cap. 15, 01:08:15.000: Un cebo permite eliminar a un defensor y el dragón alerta al otro flanco ([15-011](capitulos/15.md)).
+- Cap. 15, 01:19:40.000: Crecimiento espinoso y Espíritus guardianes ([15-012](capitulos/15.md)).
+- Cap. 15, 01:28:20.000: Defensores y dinosaurios presionan a Patata ([15-013](capitulos/15.md)).
+- Cap. 15, 01:44:00.000: Kilzer es derribado y curado antes de auxiliar a Patata ([15-014](capitulos/15.md)).
+- Cap. 15, 02:00:00.000: Refuerzos y jefe; Axi inmune pero envenenado ([15-015](capitulos/15.md)).
+- Cap. 15, 02:14:20.000: Triel lucha disfrazada y Axi le dispara por error ([15-016](capitulos/15.md)).
+- Cap. 15, 02:40:20.000: Botín y Eldrat roba veintitrés a Kilzer ([15-018](capitulos/15.md)).
+- Cap. 15, 02:46:20.000: Tatuajes copiados, miasma y pociones en un hoyo ([15-019](capitulos/15.md)).
+- Cap. 15, 02:50:30.000: Bolsa recuperada y Bonnie paga cincuenta ([15-020](capitulos/15.md)).
+- Cap. 15, 02:56:30.000: Treinta monedas repartidas entre cuatro; el dragón busca a la abuela ([15-022](capitulos/15.md)).
+- Cap. 16, 00:00:00.000: Mapa de la Marina perdido y Patata Hammer ([16-001](capitulos/16.md)).
+- Cap. 16, 00:10:25.000: Conservación del cuerpo del elfo pese al deseo de enterrarlo ([16-004](capitulos/16.md)).
+- Cap. 16, 00:12:00.000: Baton y Nelli guían a Cuicapalli ([16-005](capitulos/16.md)).
+- Cap. 16, 00:31:30.000: Naór reconoce a Baton y conoce al grupo ([16-007](capitulos/16.md)).
+- Cap. 16, 00:38:00.000: Mapa reparado y deidades discutidas ([16-008](capitulos/16.md)).
+- Cap. 16, 00:45:15.000: Serpientes derrotadas y Naór libera a Patata ([16-009](capitulos/16.md)).
+- Cap. 16, 01:14:30.000: Blink agranda a Naór y muere el cocodrilo pequeño ([16-011](capitulos/16.md)).
+- Cap. 16, 01:24:30.000: El cocodrilo gigante atrapa a Patata y el grupo lo mata ([16-012](capitulos/16.md)).
+- Cap. 16, 01:38:30.000: Cadáver de regalo, estegosauros evitados y viaje de días ([16-013](capitulos/16.md)).
+- Cap. 16, 02:02:20.000: Taberna tranquila, encargo fucsia y campeón del sol ([16-017](capitulos/16.md)).
+- Cap. 16, 02:16:40.000: El mapa de Luna no pertenece a la zona y se toman unos tubos ([16-020](capitulos/16.md)).
+- Cap. 16, 02:20:30.000: Luna y Triel parten mientras el resto celebra el banquete ([16-021](capitulos/16.md)).
+- Cap. 17, 00:43:30.000: Axi relata su cautiverio mediante una conexión mental ([17-008](capitulos/17.md)).
+- Cap. 18, 00:00:00.000: Descansos y huevo encerrado ([18-001](capitulos/18.md)).
+- Cap. 18, 00:06:00.000: Cipo reúne a los viajeros y evitan un dinosaurio ([18-003](capitulos/18.md)).
+- Cap. 18, 00:26:00.000: Botas con símbolos y una advertencia sobre el tiempo ([18-005](capitulos/18.md)).
+- Cap. 18, 00:36:00.000: Encargo de investigar yuan-ti ([18-007](capitulos/18.md)).
+- Cap. 18, 00:50:00.000: Guardianes muertos y curación dañina ([18-009](capitulos/18.md)).
+- Cap. 18, 01:05:00.000: Serpiente del altar y huellas recientes ([18-010](capitulos/18.md)).
+- Cap. 18, 01:35:00.000: Sangre y trampas permanentemente activas ([18-013](capitulos/18.md)).
+- Cap. 18, 01:46:00.000: Emboscada y Cipo como montura ([18-014](capitulos/18.md)).
+- Cap. 18, 01:57:00.000: Humanoides que leen mentes y abaten a Poncelot ([18-015](capitulos/18.md)).
+- Cap. 18, 02:25:00.000: Patata levantado y botín de Poncelot ([18-018](capitulos/18.md)).
+- Cap. 18, 02:38:00.000: Prueba y recompensas en Cuicapalli ([18-020](capitulos/18.md)).
+- Cap. 24, 00:00:00.000: Descansos y Winscor explorador ([24-001](capitulos/24.md)).
+- Cap. 24, 00:09:00.000: Din busca a su hermano Sam y es estafado ([24-002](capitulos/24.md)).
+- Cap. 24, 00:23:00.000: El grupo parte y recibe los efectos de las frutas ([24-004](capitulos/24.md)).
+- Cap. 24, 00:32:00.000: Coyote se presenta y se une ([24-005](capitulos/24.md)).
+- Cap. 24, 01:06:00.000: Parálisis, refuerzos y Coyote protegido ([24-008](capitulos/24.md)).
+- Cap. 24, 01:20:00.000: Inspiración y enemigos muertos ([24-009](capitulos/24.md)).
+- Cap. 24, 01:32:00.000: Ione loba no reconoce aliados ([24-010](capitulos/24.md)).
+- Cap. 24, 01:36:00.000: El arma espiritual guía a la loba contra el último enemigo ([24-011](capitulos/24.md)).
+- Cap. 24, 01:47:00.000: Loba calmada y concha destruida ([24-013](capitulos/24.md)).
+- Cap. 24, 02:02:00.000: Ione humana y fragmentos guardados ([24-015](capitulos/24.md)).
+- Cap. 24, 02:10:00.000: Regreso, Sam y pueblo alternativo ([24-016](capitulos/24.md)).
+- Cap. 24, 02:32:00.000: Ropa, cultivo y reclutamiento ([24-020](capitulos/24.md)).
+- Cap. 26, 00:14:00.000: Ione exige a Nox que la avise personalmente ([26-005](capitulos/26.md)).
+- Cap. 30, 00:00:00.000: Leona harengon, Guayacán y Winscore en camino ([30-001](capitulos/30.md)).
+- Cap. 30, 00:05:00.000: Winscore admitido bajo responsabilidad de Luna ([30-002](capitulos/30.md)).
+- Cap. 32, 00:00:00.000: Granja, fuego y ausencia de Bonnie ([32-001](capitulos/32.md)).
+- Cap. 32, 00:04:30.000: Eleanor y escudera llegan ([32-002](capitulos/32.md)).
+- Cap. 32, 00:14:00.000: Patata explica guerra y autoridades ([32-004](capitulos/32.md)).
+- Cap. 32, 00:26:00.000: Patata y escudera despliegan protección ([32-007](capitulos/32.md)).
+- Cap. 32, 00:40:00.000: Curación y rayos de escudera ([32-009](capitulos/32.md)).
+- Cap. 32, 00:48:00.000: Fuego amigo y nuevos refuerzos ([32-010](capitulos/32.md)).
+- Cap. 32, 00:54:00.000: Intimidación provoca retirada parcial ([32-011](capitulos/32.md)).
+- Cap. 32, 01:26:00.000: Bonnie activa moneda y combate como rayo ([32-014](capitulos/32.md)).
+- Cap. 32, 01:48:00.000: Eleanor cae y es curada ([32-016](capitulos/32.md)).
+- Cap. 32, 01:58:00.000: Shiaru resiste invasión ([32-017](capitulos/32.md)).
+- Cap. 32, 02:08:00.000: Recompensas y paradero de Citlali ([32-019](capitulos/32.md)).
+- Cap. 35, 00:00:00.000: Casco del gnomo y Molly incomunicada ([35-001](capitulos/35.md)).
+- Cap. 35, 00:06:00.000: Venta de jade y patrulla engañada ([35-002](capitulos/35.md)).
+- Cap. 35, 00:40:00.000: Uniforme Jack y viaje al fuerte ([35-006](capitulos/35.md)).
+- Cap. 35, 00:53:00.000: Mercader, distracción y entrada submarina ([35-007](capitulos/35.md)).
+- Cap. 35, 01:24:00.000: Tórtola rechaza alojamiento y tortillas vendidas ([35-010](capitulos/35.md)).
+- Cap. 35, 01:33:00.000: Explosión de pólvora y torre infiltrada ([35-011](capitulos/35.md)).
+- Cap. 35, 01:52:00.000: Tórtola retiene viajeros y compra mentira ([35-013](capitulos/35.md)).
+- Cap. 35, 02:17:00.000: Pinky recapturada y amenaza a Tórtola ([35-016](capitulos/35.md)).
+- Cap. 35, 02:26:00.000: Reencuentro y Molly vuelve con grupo ([35-017](capitulos/35.md)).
+- Cap. 35, 02:42:00.000: Bonnie y Molly reencuentran; recompensas ([35-019](capitulos/35.md)).
+- Cap. 35, 02:51:00.000: Nox pide conversación con Molly ([35-020](capitulos/35.md)).
+
+## Patata Hammer
+
+- Cap. 16, 00:00:00.000: Mapa de la Marina perdido y Patata Hammer ([16-001](capitulos/16.md)).
+- Cap. 16, 00:45:15.000: Serpientes derrotadas y Naór libera a Patata ([16-009](capitulos/16.md)).
+
+## Perla de comunicación de Coyote
+
+- Cap. 24, 01:42:00.000: La sirena entrega una perla para encontrarla ([24-012](capitulos/24.md)).
+- Cap. 24, 01:56:00.000: Perla con coordenadas y botín ([24-014](capitulos/24.md)).
+- Cap. 29, 00:20:00.000: Maris comunica la petición mediante una perla ([29-005](capitulos/29.md)).
+- Cap. 29, 00:36:00.000: Un agujero del lago conecta con el mar ([29-009](capitulos/29.md)).
+
+## Perlasal
+
+- Cap. 29, 02:06:00.000: Llegada a Perlasal y desconfianza de Ivet ([29-020](capitulos/29.md)).
+- Cap. 29, 02:13:00.000: Maris asume la responsabilidad y los merros siguen siendo una amenaza ([29-021](capitulos/29.md)).
+- Cap. 29, 02:26:00.000: Promesa pública y hospitalidad de la taberna ([29-023](capitulos/29.md)).
+- Cap. 29, 02:36:00.000: Ayoto no obtiene acceso religioso sin actos ([29-025](capitulos/29.md)).
+
+## Pinky
+
+- Cap. 01, 00:34:51.000: Encargo de obtener dinero de los visitantes ([01-012](capitulos/01.md)).
+- Cap. 01, 01:57:12.000: Robo exterior y excusa de cobro de deuda ([01-026](capitulos/01.md)).
+- Cap. 01, 02:03:03.000: Pinky conoce a Cipo ([01-027](capitulos/01.md)).
+- Cap. 01, 02:17:12.000: Pinky vende hierbas a Ione ([01-031](capitulos/01.md)).
+- Cap. 02, 01:43:00.000: Pinky pide fuego y Ayoto lo prepara ([02-018](capitulos/02.md)).
+- Cap. 02, 02:08:00.000: Ayoto paga su deuda con fuego ([02-020](capitulos/02.md)).
+- Cap. 03, 00:49:30.000: Frutas, idiomas y arbusto parlante ([03-012](capitulos/03.md)).
+- Cap. 04, 00:04:35.000: Mamá y Pinky proyectan un negocio ([04-004](capitulos/04.md)).
+- Cap. 08, 02:20:30.000: Pinky recibe el mortero, pero no reconoce al nawal ([08-026](capitulos/08.md)).
+- Cap. 09, 00:02:35.000: Ione relata su recuperación tras el encuentro con las sirenas ([09-002](capitulos/09.md)).
+- Cap. 09, 00:55:45.000: Orangutanes ahuyentados por fuego; aparece Pinky ([09-016](capitulos/09.md)).
+- Cap. 09, 01:01:00.000: Chocolate por hierba; Pinky sigue al grupo ([09-017](capitulos/09.md)).
+- Cap. 09, 01:28:30.000: La sala funeraria se cierra y emerge una criatura ([09-022](capitulos/09.md)).
+- Cap. 09, 01:56:30.000: Última sala: copa, sarcófago y cierre de puerta ([09-025](capitulos/09.md)).
+- Cap. 09, 02:08:20.000: Lunaria crece y recibe la copa; Pinky finge morir ([09-027](capitulos/09.md)).
+- Cap. 09, 02:37:10.000: Monedas, cimitarra y robo a Pinky viva ([09-029](capitulos/09.md)).
+- Cap. 12, 00:44:30.000: Pinky recibe hojas y se une ([12-013](capitulos/12.md)).
+- Cap. 12, 00:52:30.000: Se infiltran entre ruinas mientras Pinky distrae ([12-015](capitulos/12.md)).
+- Cap. 12, 01:07:15.000: Nox se hace pasar por Jack Jackson ante el capitán ([12-016](capitulos/12.md)).
+- Cap. 12, 01:33:30.000: Nox paga diez y Pinky hace crecer plantas ([12-019](capitulos/12.md)).
+- Cap. 12, 02:06:15.000: Mujer y pirata liberados; Pinky come chocolate ([12-023](capitulos/12.md)).
+- Cap. 12, 02:35:00.000: Pinky quema al capitán y también a Nox ([12-026](capitulos/12.md)).
+- Cap. 12, 02:46:00.000: Ione devuelve una bala y Nox deja al capitán vivo e inconsciente ([12-027](capitulos/12.md)).
+- Cap. 12, 03:06:30.000: Nox recupera su pago y un mapa de la actividad de la Marina ([12-030](capitulos/12.md)).
+- Cap. 12, 03:10:00.000: El capitán queda con una carta y no es interrogado ([12-032](capitulos/12.md)).
+- Cap. 19, 00:15:00.000: Investigar muertes de dinosaurios ([19-003](capitulos/19.md)).
+- Cap. 19, 00:18:00.000: Pinky drogada y conflicto entre aliadas ([19-004](capitulos/19.md)).
+- Cap. 19, 00:34:00.000: Tres depredadores muertos y humo aliado ([19-006](capitulos/19.md)).
+- Cap. 19, 00:49:00.000: Cadáveres corroídos y lago sin fauna ([19-008](capitulos/19.md)).
+- Cap. 19, 00:56:00.000: Pelea, esfera de fuego y llegada de Ayoto ([19-009](capitulos/19.md)).
+- Cap. 19, 01:20:00.000: Mamá cae y Leona recibe asistencia ([19-011](capitulos/19.md)).
+- Cap. 19, 01:28:00.000: Muere el triceratops y Santuario bloquea los golpes ([19-012](capitulos/19.md)).
+- Cap. 19, 01:41:00.000: Chocolate, raíces y serpiente muerta ([19-013](capitulos/19.md)).
+- Cap. 19, 01:50:00.000: Collar con voz poderosa en fruta ([19-014](capitulos/19.md)).
+- Cap. 19, 01:55:00.000: Regreso con Pinky alucinando ([19-015](capitulos/19.md)).
+- Cap. 19, 02:10:00.000: Encargo de entrenar a Leona y cena descartada ([19-017](capitulos/19.md)).
+- Cap. 22, 00:16:00.000: Festival y Guayacán presentado ([22-002](capitulos/22.md)).
+- Cap. 22, 00:26:00.000: Choque con Pinky y luces colocadas ([22-003](capitulos/22.md)).
+- Cap. 22, 00:36:00.000: Plantación y chocolate ritual ([22-004](capitulos/22.md)).
+- Cap. 22, 00:40:00.000: Axi llega y Guayacán come fresas ([22-005](capitulos/22.md)).
+- Cap. 22, 01:03:00.000: Frutas del festival ([22-007](capitulos/22.md)).
+- Cap. 22, 01:07:00.000: Guayacán gana una carrera con sabotajes ([22-008](capitulos/22.md)).
+- Cap. 22, 02:00:00.000: El jefe exige el collar y Mamá provoca miedo ([22-013](capitulos/22.md)).
+- Cap. 22, 02:15:00.000: Reagrupación y conjuro contra Mamá ([22-014](capitulos/22.md)).
+- Cap. 22, 02:28:00.000: La explosión del jefe causa veneno ([22-015](capitulos/22.md)).
+- Cap. 22, 02:42:00.000: Axi mata a una arquera y continúa la defensa ([22-016](capitulos/22.md)).
+- Cap. 22, 02:57:00.000: Pinky quema a un enemigo y Ayoto lo remata ([22-017](capitulos/22.md)).
+- Cap. 22, 03:11:00.000: Guayacán alucina aves por chocolate ([22-019](capitulos/22.md)).
+- Cap. 23, 00:06:00.000: Equipo de rescate reunido ([23-002](capitulos/23.md)).
+- Cap. 26, 00:35:00.000: Pinky recibe puñetazo por encuentro sorpresa ([26-009](capitulos/26.md)).
+- Cap. 26, 00:42:00.000: Pinky mata a la mosca para atraer al tigre ([26-010](capitulos/26.md)).
+- Cap. 26, 00:48:00.000: Montura tigre y restos de mosca enterrados ([26-011](capitulos/26.md)).
+- Cap. 26, 00:55:50.000: La fruta agranda las orejas y Pinky acepta guiar ([26-012](capitulos/26.md)).
+- Cap. 26, 01:02:00.000: Pirámide oculta alcanzada por ruta extraña ([26-013](capitulos/26.md)).
+- Cap. 26, 01:08:30.000: Pociones de la nieta y cesión a Poncelot ([26-014](capitulos/26.md)).
+- Cap. 26, 01:46:00.000: Trampas desactivadas y una voz tras verter sangre ([26-019](capitulos/26.md)).
+- Cap. 26, 02:02:00.000: El guardia poseído invita a Nox y reconoce el collar ([26-021](capitulos/26.md)).
+- Cap. 26, 02:15:00.000: Nox finge sentarse y se desencadena una agresión ([26-023](capitulos/26.md)).
+- Cap. 28, 00:04:00.000: Ione reconoce la ilusión y la serpiente ve la trampa ([28-002](capitulos/28.md)).
+- Cap. 28, 00:15:00.000: Ione aturde al enemigo y Poncelot lo monta ([28-004](capitulos/28.md)).
+- Cap. 28, 00:34:00.000: El tigre combate fuera y Pinky queda calva ([28-006](capitulos/28.md)).
+- Cap. 28, 00:47:00.000: Una poción quita la barba a Poncelot ([28-008](capitulos/28.md)).
+- Cap. 28, 01:01:00.000: Monedas no bastan y Ione arrastra a Nox ([28-011](capitulos/28.md)).
+- Cap. 28, 01:04:00.000: Una cola atrapa a Ione y Poncelot ayuda a cerrar la puerta ([28-012](capitulos/28.md)).
+- Cap. 28, 01:14:00.000: Hambre de Hadar retrasa a los perseguidores ([28-014](capitulos/28.md)).
+- Cap. 28, 01:29:00.000: Pinky enreda al tigre para que la bajen ([28-016](capitulos/28.md)).
+- Cap. 29, 00:27:00.000: Pinky busca a Cipo y hace crecer cáñamo ([29-007](capitulos/29.md)).
+- Cap. 29, 00:31:00.000: Burbujas de una hora y Coyote copia a Pinky ([29-008](capitulos/29.md)).
+- Cap. 34, 01:42:00.000: Infiltración y Pinky retenida ([34-012](capitulos/34.md)).
+- Cap. 34, 02:04:00.000: Pinky delata extracción e invisibilidad parcial ([34-014](capitulos/34.md)).
+- Cap. 34, 02:12:00.000: Mamá encanta y Pinky combate ([34-015](capitulos/34.md)).
+- Cap. 34, 02:26:00.000: Pinky incendia campamento y grupo se reúne ([34-017](capitulos/34.md)).
+- Cap. 35, 01:44:00.000: Nox libera Molly y Pinky ([35-012](capitulos/35.md)).
+- Cap. 35, 02:10:00.000: Resisten llamada y Molly toma bote ([35-015](capitulos/35.md)).
+- Cap. 35, 02:17:00.000: Pinky recapturada y amenaza a Tórtola ([35-016](capitulos/35.md)).
+
+## Pirata llamado Jim
+
+- Cap. 24, 02:17:00.000: Bonnie mata a un pirata y reduce el pago ([24-017](capitulos/24.md)).
+
+## Pix
+
+- Cap. 01, 00:52:28.000: Pix atiende la taberna ([01-016](capitulos/01.md)).
+- Cap. 01, 00:53:15.000: Nox roba al recién llegado ([01-017](capitulos/01.md)).
+- Cap. 02, 00:12:00.000: Nox contrata ayuda para buscar a Ione ([02-005](capitulos/02.md)).
+- Cap. 02, 02:24:15.000: Bebida adulterada de Pix ([02-025](capitulos/02.md)).
+- Cap. 03, 00:28:30.000: Desayuno y plan de acompañar al hada ([03-007](capitulos/03.md)).
+- Cap. 10, 00:02:45.000: El elfo estudia el diario sin entenderlo ([10-002](capitulos/10.md)).
+- Cap. 10, 00:08:30.000: Pix desaparece tras tirar basura al agua ([10-005](capitulos/10.md)).
+- Cap. 10, 00:11:25.000: Blink conoce la desaparición por el relato del elfo ([10-006](capitulos/10.md)).
+- Cap. 10, 00:18:00.000: Bonnie impone el rescate de Pix vivo ([10-008](capitulos/10.md)).
+- Cap. 10, 00:27:40.000: Rastro de varias criaturas con pelos de mono ([10-010](capitulos/10.md)).
+- Cap. 10, 02:34:40.000: Bonnie exige una nueva expedición y mata a un pirata como ejemplo ([10-026](capitulos/10.md)).
+- Cap. 10, 02:37:30.000: Patata, Blink y Axi están vivos y enjaulados ([10-027](capitulos/10.md)).
+- Cap. 11, 00:00:00.000: Ione organiza un rescate tras recibir información de Nox ([11-001](capitulos/11.md)).
+- Cap. 11, 00:12:40.000: Kilzer encuentra obsidiana; Ione recluta a Mamá ([11-006](capitulos/11.md)).
+- Cap. 11, 00:16:00.000: Kilzer es obligado a participar y Poncelot acepta el rescate por su ideal caballeresco ([11-007](capitulos/11.md)).
+- Cap. 11, 01:54:40.000: Ione va contra Poncelot; él consigue calmarla ([11-020](capitulos/11.md)).
+- Cap. 11, 02:24:10.000: Pix recogido y última resistencia abatida ([11-023](capitulos/11.md)).
+- Cap. 11, 02:41:20.000: Nox toma una moneda de los cinco reyes piratas ([11-024](capitulos/11.md)).
+- Cap. 11, 02:52:20.000: Regreso, reversión de Ione y recuerdos limitados ([11-027](capitulos/11.md)).
+- Cap. 11, 03:01:30.000: Bonnie ve a Nox invisible y recupera moneda y gema ([11-029](capitulos/11.md)).
+- Cap. 11, 03:14:40.000: Gema de Liz obtenida por inspiración; recuento ambiguo ([11-032](capitulos/11.md)).
+- Cap. 12, 00:02:25.000: Cita de Ione y despertar de Axi ([12-002](capitulos/12.md)).
+- Cap. 12, 00:15:20.000: Pix tiene el mondadientes de Blink ([12-005](capitulos/12.md)).
+- Cap. 12, 00:41:00.000: Frutas dan curación, elasticidad y caída lenta ([12-012](capitulos/12.md)).
+- Cap. 13, 00:35:30.000: Ayoto entrega una capa a Pix y Bonnie lo despide ([13-009](capitulos/13.md)).
+- Cap. 14, 00:12:10.000: Blink recupera su mondadientes ([14-003](capitulos/14.md)).
+- Cap. 18, 00:36:00.000: Encargo de investigar yuan-ti ([18-007](capitulos/18.md)).
+- Cap. 24, 02:10:00.000: Regreso, Sam y pueblo alternativo ([24-016](capitulos/24.md)).
+- Cap. 25, 00:09:00.000: Noche dispersa en Shiaru ([25-004](capitulos/25.md)).
+- Cap. 25, 01:08:00.000: Robo a Pix y Poncelot sujeto por la cola ([25-012](capitulos/25.md)).
+- Cap. 25, 01:43:00.000: Cierre de la taberna y cooperación forzada ([25-016](capitulos/25.md)).
+- Cap. 25, 02:01:00.000: Último enemigo muerto y Pix enfadado ([25-018](capitulos/25.md)).
+- Cap. 32, 00:00:00.000: Granja, fuego y ausencia de Bonnie ([32-001](capitulos/32.md)).
+- Cap. 32, 02:12:00.000: Bonnie devuelve moneda a Pix y sale ([32-020](capitulos/32.md)).
+- Cap. 33, 00:08:00.000: Jack recluta Poncelot en Zampaolas ([33-002](capitulos/33.md)).
+- Cap. 37, 00:08:00.000: Búsqueda de Nox y noticias de la escudera ([37-002](capitulos/37.md)).
+- Cap. 38, 00:18:00.000: Duelo amistoso con resultado de empate ([38-004](capitulos/38.md)).
+
+## Pociones de Arwen
+
+- Cap. 28, 00:58:00.000: Blink abandona el collar y las serpientes se unen ([28-010](capitulos/28.md)).
+- Cap. 34, 01:11:00.000: Mamá drena Winscore y ambos aliados caen ([34-009](capitulos/34.md)).
+
+## Profundos
+
+- Cap. 29, 02:13:00.000: Maris asume la responsabilidad y los merros siguen siendo una amenaza ([29-021](capitulos/29.md)).
+- Cap. 29, 02:20:00.000: Secuestros y kraken que crece por rituales ([29-022](capitulos/29.md)).
+
+## Puerto de Espadas
+
+- Cap. 01, 00:05:57.000: Familia y viaje del elfo ([01-005](capitulos/01.md)).
+- Cap. 05, 00:07:40.000: Emblema y procedencia declarada del collar ([05-005](capitulos/05.md)).
+- Cap. 05, 01:52:30.000: Carteles y falsa pista de camarote ([05-023](capitulos/05.md)).
+- Cap. 12, 00:24:15.000: Jack debe ir a Puerto de Espadas y volver con ganancias ([12-007](capitulos/12.md)).
+- Cap. 14, 00:37:00.000: La mujer del bote pide ayuda para el mercante ([14-007](capitulos/14.md)).
+- Cap. 15, 00:03:20.000: Triel quiere ser capitana y el elfo prepara el envío de Jack ([15-002](capitulos/15.md)).
+- Cap. 23, 00:33:00.000: Jack regresa y Nox está encadenado ([23-004](capitulos/23.md)).
+- Cap. 31, 00:24:00.000: Naór, princesa de Atlan, y el objetivo de llegar a Iktan ([31-005](capitulos/31.md)).
+- Cap. 32, 00:14:00.000: Patata explica guerra y autoridades ([32-004](capitulos/32.md)).
+
+## Ras Racor
+
+- Cap. 17, 00:27:20.000: La patrulla busca a quienes destruyeron el poblado ([17-006](capitulos/17.md)).
+- Cap. 17, 00:35:40.000: Escolta hasta la ciudad central de los hombres lagarto ([17-007](capitulos/17.md)).
+- Cap. 17, 00:47:30.000: Costumbres, comida y amenazas interesadas ([17-009](capitulos/17.md)).
+- Cap. 17, 01:00:00.000: Los dirigentes interpretan a los muertos como un regalo de Samuya ([17-010](capitulos/17.md)).
+- Cap. 17, 02:39:30.000: Botín y promesa de los dirigentes de asistir al concilio ([17-021](capitulos/17.md)).
+- Cap. 17, 02:51:10.000: Separación: regreso y misión todavía sin Iktan ([17-023](capitulos/17.md)).
+- Cap. 20, 00:00:00.000: Equipo reparado y camino a Iktan ([20-001](capitulos/20.md)).
+
+## Relicario de gema negra
+
+- Cap. 14, 01:39:00.000: Diario: hija enferma, entidad y tres objetos ([14-015](capitulos/14.md)).
+- Cap. 14, 01:46:15.000: La hija espectral guarda el relicario y niega que pueda salir ([14-016](capitulos/14.md)).
+- Cap. 14, 02:30:10.000: Cofre abierto y aparición del capitán al reunir los objetos ([14-021](capitulos/14.md)).
+- Cap. 14, 02:52:40.000: La rotura del relicario dispersa al capitán y los tripulantes ([14-024](capitulos/14.md)).
+
+## Ruki Peten
+
+- Cap. 10, 00:22:20.000: Expedición en barca hasta Ruki Peten ([10-009](capitulos/10.md)).
+- Cap. 10, 00:27:40.000: Rastro de varias criaturas con pelos de mono ([10-010](capitulos/10.md)).
+- Cap. 11, 00:26:00.000: Planes, huevo interpretado como Pegaso y salida al norte ([11-009](capitulos/11.md)).
+- Cap. 17, 00:12:50.000: Naór, perdida en Ruki Peten, caza un cocodrilo ([17-004](capitulos/17.md)).
+
+## Sam
+
+- Cap. 24, 00:09:00.000: Din busca a su hermano Sam y es estafado ([24-002](capitulos/24.md)).
+- Cap. 24, 01:47:00.000: Loba calmada y concha destruida ([24-013](capitulos/24.md)).
+- Cap. 24, 02:10:00.000: Regreso, Sam y pueblo alternativo ([24-016](capitulos/24.md)).
+- Cap. 24, 02:20:00.000: Din acuerda buscar a Sam por cincuenta monedas ([24-018](capitulos/24.md)).
+
+## Shiaru
+
+- Cap. 01, 00:00:23.000: Shiaru, punto de llegada ([01-001](capitulos/01.md)).
+- Cap. 01, 00:16:50.000: Convergencia de los recién llegados ([01-009](capitulos/01.md)).
+- Cap. 01, 01:49:08.000: Comercios del poblado ([01-024](capitulos/01.md)).
+- Cap. 02, 00:02:20.000: Juegos de azar del visitante ([02-002](capitulos/02.md)).
+- Cap. 02, 01:32:15.000: Dinosaurio y huida a Shiaru ([02-016](capitulos/02.md)).
+- Cap. 03, 00:00:00.000: Mamá sale del barco y despierta a los piratas ([03-001](capitulos/03.md)).
+- Cap. 03, 02:46:00.000: Regreso con el dinosaurio y el cautivo ([03-031](capitulos/03.md)).
+- Cap. 04, 00:00:40.000: El Garfio y el poblado de Bonnie ([04-001](capitulos/04.md)).
+- Cap. 04, 00:02:40.000: Aprendizaje del guerrero nativo ([04-002](capitulos/04.md)).
+- Cap. 04, 00:06:00.000: El visitante evita la apuesta anterior ([04-005](capitulos/04.md)).
+- Cap. 04, 00:23:40.000: Dinosaurio destrozado y cuerpo expulsado ([04-009](capitulos/04.md)).
+- Cap. 04, 01:55:00.000: Huida de un dinosaurio volador ([04-025](capitulos/04.md)).
+- Cap. 05, 00:34:35.000: Molly desembarca sin reconocer a Nox ([05-012](capitulos/05.md)).
+- Cap. 06, 00:00:00.000: Sucesos al dormir y valor de los tesoros ([06-001](capitulos/06.md)).
+- Cap. 06, 00:06:00.000: Blink busca a sus captores ([06-003](capitulos/06.md)).
+- Cap. 06, 00:10:00.000: Ione en el pozo y ayuda de Blink ([06-006](capitulos/06.md)).
+- Cap. 06, 03:15:45.000: Regreso, médico y búsqueda de Ione ([06-038](capitulos/06.md)).
+- Cap. 07, 00:00:00.000: Herramientas de cocina perdidas ([07-001](capitulos/07.md)).
+- Cap. 08, 00:02:10.000: Blink descansa mal en el mástil de Nox ([08-002](capitulos/08.md)).
+- Cap. 08, 02:12:40.000: Descanso de ocho horas y vuelta nocturna ([08-025](capitulos/08.md)).
+- Cap. 09, 02:44:00.000: Nox toma el collar sin ocultarlo y regresan con Axi ([09-030](capitulos/09.md)).
+- Cap. 10, 00:08:30.000: Pix desaparece tras tirar basura al agua ([10-005](capitulos/10.md)).
+- Cap. 10, 02:27:30.000: Ayoto y el elfo regresan sin sus compañeros ni Pix ([10-024](capitulos/10.md)).
+- Cap. 11, 02:52:20.000: Regreso, reversión de Ione y recuerdos limitados ([11-027](capitulos/11.md)).
+- Cap. 16, 00:12:00.000: Baton y Nelli guían a Cuicapalli ([16-005](capitulos/16.md)).
+- Cap. 17, 00:06:30.000: Cuatro salen hacia Cuicapalli sin buena guía ([17-003](capitulos/17.md)).
+- Cap. 17, 02:51:10.000: Separación: regreso y misión todavía sin Iktan ([17-023](capitulos/17.md)).
+- Cap. 18, 00:00:00.000: Descansos y huevo encerrado ([18-001](capitulos/18.md)).
+- Cap. 20, 00:03:00.000: La recién llegada golpea al pirata y Triel lo engaña ([20-002](capitulos/20.md)).
+- Cap. 20, 02:42:00.000: Separación, campamento y mapa pendiente ([20-017](capitulos/20.md)).
+- Cap. 21, 02:35:00.000: Leona curada y destinos separados ([21-016](capitulos/21.md)).
+- Cap. 23, 02:48:00.000: Galeón distractor y fuga en barca ([23-017](capitulos/23.md)).
+- Cap. 24, 00:00:00.000: Descansos y Winscor explorador ([24-001](capitulos/24.md)).
+- Cap. 24, 02:10:00.000: Regreso, Sam y pueblo alternativo ([24-016](capitulos/24.md)).
+- Cap. 25, 00:03:00.000: Blink conserva el amuleto y Nox evita a Ione ([25-002](capitulos/25.md)).
+- Cap. 25, 00:06:00.000: Luna experimenta y Tlachka vende elotes ([25-003](capitulos/25.md)).
+- Cap. 27, 00:00:00.000: Descanso y preparación tras ataque a Cuicapalli ([27-001](capitulos/27.md)).
+- Cap. 28, 01:34:00.000: Nox quiere volver a ver a Molly ([28-017](capitulos/28.md)).
+- Cap. 28, 01:38:00.000: Jack fingió ser capitán durante la ausencia ([28-018](capitulos/28.md)).
+- Cap. 28, 02:03:00.000: Blink planea regreso e ilusión final del ojo ([28-023](capitulos/28.md)).
+- Cap. 29, 00:00:00.000: Trampas reforzadas y casino aún cerrado ([29-001](capitulos/29.md)).
+- Cap. 32, 00:04:30.000: Eleanor y escudera llegan ([32-002](capitulos/32.md)).
+- Cap. 32, 00:22:00.000: Asalto de Marina y muerte del mendigo ([32-006](capitulos/32.md)).
+- Cap. 32, 00:34:00.000: Bola de fuego y defensa de Eleanor ([32-008](capitulos/32.md)).
+- Cap. 32, 01:58:00.000: Shiaru resiste invasión ([32-017](capitulos/32.md)).
+- Cap. 33, 02:32:00.000: Hoguera y salida con hipopótamos ([33-019](capitulos/33.md)).
+- Cap. 34, 00:45:00.000: Rastro al sur y cadáveres mordidos ([34-007](capitulos/34.md)).
+- Cap. 35, 02:26:00.000: Reencuentro y Molly vuelve con grupo ([35-017](capitulos/35.md)).
+- Cap. 35, 02:37:00.000: Nox preocupado y llegada Shiaru ([35-018](capitulos/35.md)).
+- Cap. 36, 02:21:00.000: Entrega del cautivo e informe parcial ([36-017](capitulos/36.md)).
+- Cap. 37, 00:00:00.000: Eleanor investiga y Luna cambia de forma ([37-001](capitulos/37.md)).
+- Cap. 37, 01:50:00.000: Explosión y cañonazo contra el dinosaurio ([37-014](capitulos/37.md)).
+- Cap. 38, 00:06:00.000: Regreso de Ione y hallazgo de un herido en la playa ([38-002](capitulos/38.md)).
+
+## Sir Poncelot
+
+- Cap. 03, 00:33:15.000: Poncelot y el supuesto corcel ([03-008](capitulos/03.md)).
+- Cap. 03, 00:40:00.000: Montura y presentación de Poncelot ([03-010](capitulos/03.md)).
+- Cap. 03, 00:46:00.000: Especie y origen disputados por los interlocutores ([03-011](capitulos/03.md)).
+- Cap. 03, 00:55:45.000: Grupo reunido y nombre de Merlucilla ([03-013](capitulos/03.md)).
+- Cap. 03, 01:14:00.000: Trampa del hada e Ione atrapada ([03-015](capitulos/03.md)).
+- Cap. 03, 01:24:15.000: Rescate de Ione de la trampa ([03-017](capitulos/03.md)).
+- Cap. 03, 01:28:00.000: Corrección explícita del nombre de Poncelot ([03-018](capitulos/03.md)).
+- Cap. 03, 01:34:00.000: Engaño caballeresco y plan de infiltración ([03-020](capitulos/03.md)).
+- Cap. 03, 01:48:00.000: Escondites y descubrimiento de Nox ([03-022](capitulos/03.md)).
+- Cap. 03, 01:54:00.000: Combate dentro de la excavación ([03-023](capitulos/03.md)).
+- Cap. 03, 02:10:00.000: Ione se transforma en mujer lobo ([03-024](capitulos/03.md)).
+- Cap. 03, 02:16:00.000: Retirada de Mamá y centinela atado ([03-025](capitulos/03.md)).
+- Cap. 03, 02:36:00.000: La bestia se lanza hacia sus compañeros ([03-027](capitulos/03.md)).
+- Cap. 03, 02:40:00.000: Interpretaciones sobre la condición de Ione ([03-028](capitulos/03.md)).
+- Cap. 03, 02:43:00.000: Blink encanta a Ione y guía la retirada ([03-030](capitulos/03.md)).
+- Cap. 03, 02:46:00.000: Regreso con el dinosaurio y el cautivo ([03-031](capitulos/03.md)).
+- Cap. 04, 00:03:25.000: Muerte de Merlucilla entre sesiones ([04-003](capitulos/04.md)).
+- Cap. 06, 00:18:30.000: Poncelot cree que Merlucilla escapó ([06-009](capitulos/06.md)).
+- Cap. 06, 00:23:45.000: Cubo retirado y rescate del pozo ([06-010](capitulos/06.md)).
+- Cap. 06, 00:34:30.000: Baño y entrenamiento presentado por Ione ([06-011](capitulos/06.md)).
+- Cap. 06, 00:40:00.000: El loro roba el monedero de Chochi ([06-012](capitulos/06.md)).
+- Cap. 06, 00:51:00.000: Botella con sirena liberada por Chochi ([06-015](capitulos/06.md)).
+- Cap. 06, 01:08:30.000: Recompensa y opción de escolta ([06-017](capitulos/06.md)).
+- Cap. 06, 01:20:00.000: Salida en barca y burbujas para respirar ([06-019](capitulos/06.md)).
+- Cap. 06, 01:26:10.000: Ruinas submarinas y supuesto caballo ([06-020](capitulos/06.md)).
+- Cap. 06, 01:32:00.000: Tiburones sorprenden a los compañeros ([06-021](capitulos/06.md)).
+- Cap. 06, 01:51:45.000: Merlucilla II y tiburón Princesa ([06-023](capitulos/06.md)).
+- Cap. 06, 01:55:30.000: Pasajeros del hipocampo ([06-024](capitulos/06.md)).
+- Cap. 06, 01:58:30.000: Llegada al huevo y recuperación del tamaño de Marina ([06-025](capitulos/06.md)).
+- Cap. 06, 02:05:40.000: Recompensa como trampa y orden de matar al grupo ([06-026](capitulos/06.md)).
+- Cap. 06, 02:10:00.000: Ione se transforma al contacto de la sirena ([06-027](capitulos/06.md)).
+- Cap. 06, 02:13:50.000: Primera sirena abatida y aparición de una tercera atacante ([06-028](capitulos/06.md)).
+- Cap. 06, 02:22:00.000: Invisibilidad interrumpida y mocho contra Ione ([06-029](capitulos/06.md)).
+- Cap. 06, 02:29:30.000: Ione muerde y hiere a Chochi ([06-030](capitulos/06.md)).
+- Cap. 06, 02:42:20.000: Rotura de la burbuja y huida de Ione ([06-032](capitulos/06.md)).
+- Cap. 06, 02:48:30.000: Segunda baja y Chochi agoniza ([06-033](capitulos/06.md)).
+- Cap. 06, 03:02:40.000: Intento de estabilización y última sirena abatida ([06-035](capitulos/06.md)).
+- Cap. 06, 03:08:00.000: Poncelot salva a Chochi con una poción ([06-036](capitulos/06.md)).
+- Cap. 06, 03:10:00.000: Tesoro real y cantidad de oro discrepante ([06-037](capitulos/06.md)).
+- Cap. 06, 03:15:45.000: Regreso, médico y búsqueda de Ione ([06-038](capitulos/06.md)).
+- Cap. 07, 00:07:55.000: Otra montura comida según recapitulación ([07-004](capitulos/07.md)).
+- Cap. 11, 00:06:30.000: Poncelot sigue buscando a su primera montura ([11-004](capitulos/11.md)).
+- Cap. 11, 00:08:00.000: Venta de tres perlas y obsidiana ([11-005](capitulos/11.md)).
+- Cap. 11, 00:16:00.000: Kilzer es obligado a participar y Poncelot acepta el rescate por su ideal caballeresco ([11-007](capitulos/11.md)).
+- Cap. 11, 00:21:45.000: Reparto parcial del botín de las sirenas ([11-008](capitulos/11.md)).
+- Cap. 11, 00:26:00.000: Planes, huevo interpretado como Pegaso y salida al norte ([11-009](capitulos/11.md)).
+- Cap. 11, 00:31:20.000: Poncelot otea mientras Ione prueba el agua y recupera la barca ([11-010](capitulos/11.md)).
+- Cap. 11, 00:43:30.000: Nox se une y dice leer Terran mediante un ritual ([11-011](capitulos/11.md)).
+- Cap. 11, 00:59:00.000: Infiltración planeada; ruido de armadura fuerza cambio de sitio ([11-014](capitulos/11.md)).
+- Cap. 11, 01:07:00.000: Nox informa de las jaulas y la pirámide; los otros se sumergen ([11-015](capitulos/11.md)).
+- Cap. 11, 01:15:00.000: Camuflaje, cautivos vistos y lengua comprendida ([11-016](capitulos/11.md)).
+- Cap. 11, 01:25:40.000: Ione se transforma por la sangre y Nox mata a un guardia ([11-017](capitulos/11.md)).
+- Cap. 11, 01:31:15.000: Nox incendia el puente y los otros rodean el combate ([11-018](capitulos/11.md)).
+- Cap. 11, 01:43:20.000: Kilzer protege a Mamá y Nox incendia una choza ([11-019](capitulos/11.md)).
+- Cap. 11, 01:54:40.000: Ione va contra Poncelot; él consigue calmarla ([11-020](capitulos/11.md)).
+- Cap. 11, 02:03:00.000: Los cocodrilos atacan y el grupo protege a Mamá ([11-021](capitulos/11.md)).
+- Cap. 11, 02:24:10.000: Pix recogido y última resistencia abatida ([11-023](capitulos/11.md)).
+- Cap. 11, 02:47:50.000: Recuperación parcial de equipo y botín ([11-026](capitulos/11.md)).
+- Cap. 11, 02:52:20.000: Regreso, reversión de Ione y recuerdos limitados ([11-027](capitulos/11.md)).
+- Cap. 11, 03:06:00.000: Pago discutido y traslado de los heridos al médico ([11-030](capitulos/11.md)).
+- Cap. 18, 00:00:00.000: Descansos y huevo encerrado ([18-001](capitulos/18.md)).
+- Cap. 18, 00:04:00.000: Ayoto entrena y Poncelot encuentra oro ([18-002](capitulos/18.md)).
+- Cap. 18, 00:06:00.000: Cipo reúne a los viajeros y evitan un dinosaurio ([18-003](capitulos/18.md)).
+- Cap. 18, 00:16:00.000: Llegada y presentación de Mamá ([18-004](capitulos/18.md)).
+- Cap. 18, 00:32:00.000: Eromov ordena una búsqueda por una noticia confusa ([18-006](capitulos/18.md)).
+- Cap. 18, 00:42:00.000: Chocolate y ruta de Baton ([18-008](capitulos/18.md)).
+- Cap. 18, 00:50:00.000: Guardianes muertos y curación dañina ([18-009](capitulos/18.md)).
+- Cap. 18, 01:05:00.000: Serpiente del altar y huellas recientes ([18-010](capitulos/18.md)).
+- Cap. 18, 01:13:00.000: Descubrimiento de la trampa de las miradas ([18-011](capitulos/18.md)).
+- Cap. 18, 01:24:00.000: Ataques de serpientes y cuerpos marinos ([18-012](capitulos/18.md)).
+- Cap. 18, 01:35:00.000: Sangre y trampas permanentemente activas ([18-013](capitulos/18.md)).
+- Cap. 18, 01:46:00.000: Emboscada y Cipo como montura ([18-014](capitulos/18.md)).
+- Cap. 18, 01:57:00.000: Humanoides que leen mentes y abaten a Poncelot ([18-015](capitulos/18.md)).
+- Cap. 18, 02:09:00.000: Mamá resiste la intrusión y muere el arquero ([18-016](capitulos/18.md)).
+- Cap. 18, 02:25:00.000: Patata levantado y botín de Poncelot ([18-018](capitulos/18.md)).
+- Cap. 18, 02:38:00.000: Prueba y recompensas en Cuicapalli ([18-020](capitulos/18.md)).
+- Cap. 20, 00:00:00.000: Equipo reparado y camino a Iktan ([20-001](capitulos/20.md)).
+- Cap. 20, 00:20:00.000: Una mujer acuática y una riña llevan a Poncelot al grupo ([20-004](capitulos/20.md)).
+- Cap. 20, 00:33:00.000: Mosca domada con fregona ([20-005](capitulos/20.md)).
+- Cap. 20, 00:57:00.000: Marines avistados y ataque decidido ([20-008](capitulos/20.md)).
+- Cap. 20, 01:18:00.000: Primer marine muerto y espíritu destruido ([20-010](capitulos/20.md)).
+- Cap. 20, 01:34:00.000: Curaciones, miedo y muerte de otros marines ([20-011](capitulos/20.md)).
+- Cap. 20, 02:00:00.000: Capitán muerto y puerta de piedra golpeada ([20-012](capitulos/20.md)).
+- Cap. 20, 02:10:00.000: El gas y la serpiente incapacitan a Axi ([20-013](capitulos/20.md)).
+- Cap. 20, 02:21:00.000: Mapa Slaz encontrado en un cofre ([20-014](capitulos/20.md)).
+- Cap. 20, 02:24:00.000: Naór evacúa a Axi y Poncelot monta a la serpiente ([20-015](capitulos/20.md)).
+- Cap. 20, 02:34:00.000: Serpiente muerta y colmillos recuperados ([20-016](capitulos/20.md)).
+- Cap. 20, 02:42:00.000: Separación, campamento y mapa pendiente ([20-017](capitulos/20.md)).
+- Cap. 21, 00:00:00.000: Descansos, montura y pérdidas ([21-001](capitulos/21.md)).
+- Cap. 21, 00:06:00.000: Venta y robo del casino ([21-002](capitulos/21.md)).
+- Cap. 21, 00:10:00.000: Pirata rescatado y Triel se retira ([21-003](capitulos/21.md)).
+- Cap. 21, 00:19:00.000: Encuentro entre Leona y Naór, y protección de la mosca ([21-004](capitulos/21.md)).
+- Cap. 21, 00:25:00.000: Las frutas y el licor afectan a la conducta ([21-005](capitulos/21.md)).
+- Cap. 21, 00:51:00.000: Leo, escondido, relata el secuestro ([21-007](capitulos/21.md)).
+- Cap. 21, 01:02:00.000: La mosca rastrea hasta una cueva ([21-008](capitulos/21.md)).
+- Cap. 21, 01:24:00.000: Sangre, transformación y melodía ralentizadora ([21-010](capitulos/21.md)).
+- Cap. 21, 01:50:00.000: Leo entrega el collar de plata y Poncelot despierta ([21-012](capitulos/21.md)).
+- Cap. 21, 02:20:00.000: Restos de los padres y pelea por Leo ([21-014](capitulos/21.md)).
+- Cap. 21, 02:32:00.000: El collar serpiente provoca una visión a dos viajeras ([21-015](capitulos/21.md)).
+- Cap. 21, 02:35:00.000: Leona curada y destinos separados ([21-016](capitulos/21.md)).
+- Cap. 23, 00:00:00.000: La carta de Nox impulsa el rescate ([23-001](capitulos/23.md)).
+- Cap. 23, 00:06:00.000: Equipo de rescate reunido ([23-002](capitulos/23.md)).
+- Cap. 23, 00:21:00.000: Negociación fallida y herramientas ([23-003](capitulos/23.md)).
+- Cap. 23, 00:46:00.000: Chocolate y entrada despejada ([23-006](capitulos/23.md)).
+- Cap. 23, 01:17:00.000: Dos rutas de entrada ([23-008](capitulos/23.md)).
+- Cap. 23, 01:30:00.000: Recompensa por Ione y Mamá como supuesta informante ([23-009](capitulos/23.md)).
+- Cap. 23, 01:57:00.000: Molly sospecha y ofrece dinero ([23-012](capitulos/23.md)).
+- Cap. 23, 02:24:00.000: Despacho cerrado y puerta rota ([23-014](capitulos/23.md)).
+- Cap. 23, 02:37:00.000: Reencuentro y documentos sobre una ciudad ([23-015](capitulos/23.md)).
+- Cap. 23, 02:43:00.000: Perros frenan perseguidores y mosca evacúa ([23-016](capitulos/23.md)).
+- Cap. 25, 00:00:00.000: Mapa estudiado con Ione y armadura perdida ([25-001](capitulos/25.md)).
+- Cap. 25, 00:09:00.000: Noche dispersa en Shiaru ([25-004](capitulos/25.md)).
+- Cap. 25, 00:18:00.000: Tlachka descubre intrusos en su habitación ([25-005](capitulos/25.md)).
+- Cap. 25, 00:22:00.000: Ataques simultáneos a Blink, Nox y el barco ([25-006](capitulos/25.md)).
+- Cap. 25, 00:34:40.000: Rastreo de Blink invisible ([25-008](capitulos/25.md)).
+- Cap. 25, 00:40:00.000: Miedo mágico y respeto a una ilusión ([25-009](capitulos/25.md)).
+- Cap. 25, 00:46:00.000: Nox encuentra a Luna y una mujer exige el mapa ([25-010](capitulos/25.md)).
+- Cap. 25, 01:08:00.000: Robo a Pix y Poncelot sujeto por la cola ([25-012](capitulos/25.md)).
+- Cap. 25, 01:38:00.000: Una mujer explota y Poncelot cae, pero se cura ([25-015](capitulos/25.md)).
+- Cap. 25, 01:43:00.000: Cierre de la taberna y cooperación forzada ([25-016](capitulos/25.md)).
+- Cap. 25, 01:52:30.000: Luna mata a dos bestias mediante magia salvaje ([25-017](capitulos/25.md)).
+- Cap. 25, 02:01:00.000: Último enemigo muerto y Pix enfadado ([25-018](capitulos/25.md)).
+- Cap. 25, 02:11:30.000: El mapa señala un destino que Ione llamó Ezlat ([25-019](capitulos/25.md)).
+- Cap. 25, 02:20:00.000: Espina-lanza y documentos abisales ([25-020](capitulos/25.md)).
+- Cap. 25, 02:24:00.000: Las órdenes buscan el mapa y el collar de Blink ([25-021](capitulos/25.md)).
+- Cap. 26, 00:00:00.000: Compra de armadura y suplantación de Ione por Coyote ([26-001](capitulos/26.md)).
+- Cap. 26, 00:06:00.000: Ione sale de la consulta y niega haber recibido el informe ([26-003](capitulos/26.md)).
+- Cap. 26, 00:24:00.000: Nox entrega el licor y ambos declaran su amistad ([26-007](capitulos/26.md)).
+- Cap. 26, 00:28:20.000: Expedición hacia el sur pese a que el mapa indica otra dirección ([26-008](capitulos/26.md)).
+- Cap. 26, 00:35:00.000: Pinky recibe puñetazo por encuentro sorpresa ([26-009](capitulos/26.md)).
+- Cap. 26, 00:42:00.000: Pinky mata a la mosca para atraer al tigre ([26-010](capitulos/26.md)).
+- Cap. 26, 00:48:00.000: Montura tigre y restos de mosca enterrados ([26-011](capitulos/26.md)).
+- Cap. 26, 00:55:50.000: La fruta agranda las orejas y Pinky acepta guiar ([26-012](capitulos/26.md)).
+- Cap. 26, 01:02:00.000: Pirámide oculta alcanzada por ruta extraña ([26-013](capitulos/26.md)).
+- Cap. 26, 01:08:30.000: Pociones de la nieta y cesión a Poncelot ([26-014](capitulos/26.md)).
+- Cap. 26, 01:15:00.000: Historia del mapa y collar oculto en mango ([26-015](capitulos/26.md)).
+- Cap. 26, 01:37:00.000: Altar, collar reactivo y pasos bajo estatuas ([26-018](capitulos/26.md)).
+- Cap. 26, 01:54:00.000: Puertas cuñadas y corriente de aire ([26-020](capitulos/26.md)).
+- Cap. 26, 02:02:00.000: El guardia poseído invita a Nox y reconoce el collar ([26-021](capitulos/26.md)).
+- Cap. 26, 02:15:00.000: Nox finge sentarse y se desencadena una agresión ([26-023](capitulos/26.md)).
+- Cap. 28, 00:04:00.000: Ione reconoce la ilusión y la serpiente ve la trampa ([28-002](capitulos/28.md)).
+- Cap. 28, 00:15:00.000: Ione aturde al enemigo y Poncelot lo monta ([28-004](capitulos/28.md)).
+- Cap. 28, 00:34:00.000: El tigre combate fuera y Pinky queda calva ([28-006](capitulos/28.md)).
+- Cap. 28, 00:40:00.000: Explosión psíquica del anfitrión y curación de Poncelot ([28-007](capitulos/28.md)).
+- Cap. 28, 00:47:00.000: Una poción quita la barba a Poncelot ([28-008](capitulos/28.md)).
+- Cap. 28, 00:54:00.000: Restos serpentinos devoran cadáveres ([28-009](capitulos/28.md)).
+- Cap. 28, 01:04:00.000: Una cola atrapa a Ione y Poncelot ayuda a cerrar la puerta ([28-012](capitulos/28.md)).
+- Cap. 28, 01:10:00.000: Ojo-orbe arrancado de una estatua ([28-013](capitulos/28.md)).
+- Cap. 28, 01:14:00.000: Hambre de Hadar retrasa a los perseguidores ([28-014](capitulos/28.md)).
+- Cap. 28, 01:22:00.000: Visiones del orbe y custodia de Poncelot ([28-015](capitulos/28.md)).
+- Cap. 28, 01:29:00.000: Pinky enreda al tigre para que la bajen ([28-016](capitulos/28.md)).
+- Cap. 28, 01:34:00.000: Nox quiere volver a ver a Molly ([28-017](capitulos/28.md)).
+- Cap. 28, 01:38:00.000: Jack fingió ser capitán durante la ausencia ([28-018](capitulos/28.md)).
+- Cap. 28, 01:43:00.000: Orbe entregado y visiones enviadas a Bonnie ([28-019](capitulos/28.md)).
+- Cap. 28, 02:00:00.000: Ione castiga a Jack y Mugre detiene a Ojo Ausente ([28-022](capitulos/28.md)).
+- Cap. 29, 00:09:00.000: El cadáver del elfo cae y el tigre se lo lleva ([29-003](capitulos/29.md)).
+- Cap. 33, 00:04:00.000: Axi despierta sin memoria entre cadáveres ([33-001](capitulos/33.md)).
+- Cap. 33, 00:08:00.000: Jack recluta Poncelot en Zampaolas ([33-002](capitulos/33.md)).
+- Cap. 33, 00:12:30.000: Reclutamiento y acusación a Eleanor ([33-003](capitulos/33.md)).
+- Cap. 33, 00:22:00.000: Bonnie sostiene ficción cortesana ([33-004](capitulos/33.md)).
+- Cap. 33, 00:36:00.000: Buscar refugio para Citlali oculta ([33-006](capitulos/33.md)).
+- Cap. 33, 00:40:00.000: Se aclara Aragón y farsa de Titania ([33-007](capitulos/33.md)).
+- Cap. 33, 00:48:00.000: Frutas alteran exploradores ([33-008](capitulos/33.md)).
+- Cap. 33, 00:54:00.000: Cueva y exploración sin luz ([33-009](capitulos/33.md)).
+- Cap. 33, 01:10:00.000: Plantas atacan al intentar hoguera ([33-011](capitulos/33.md)).
+- Cap. 33, 01:24:00.000: Margaret muere y Morris despierta ([33-012](capitulos/33.md)).
+- Cap. 33, 01:34:00.000: Ilusión de fuego, furia y primera planta muerta ([33-013](capitulos/33.md)).
+- Cap. 33, 01:50:00.000: Segunda planta vencida y corrección de visión ([33-014](capitulos/33.md)).
+- Cap. 33, 02:06:00.000: Campamento caníbal seda Poncelot ([33-015](capitulos/33.md)).
+- Cap. 33, 02:14:00.000: Mingo, Mango y Mungo reconocen capitán ([33-016](capitulos/33.md)).
+- Cap. 33, 02:20:00.000: Axi capturado y Poncelot despierto ([33-017](capitulos/33.md)).
+- Cap. 33, 02:32:00.000: Hoguera y salida con hipopótamos ([33-019](capitulos/33.md)).
+- Cap. 35, 00:00:00.000: Casco del gnomo y Molly incomunicada ([35-001](capitulos/35.md)).
+- Cap. 35, 00:06:00.000: Venta de jade y patrulla engañada ([35-002](capitulos/35.md)).
+- Cap. 35, 00:30:00.000: Moneda antigua y búsqueda Molly ([35-005](capitulos/35.md)).
+- Cap. 35, 00:40:00.000: Uniforme Jack y viaje al fuerte ([35-006](capitulos/35.md)).
+- Cap. 35, 00:53:00.000: Mercader, distracción y entrada submarina ([35-007](capitulos/35.md)).
+- Cap. 35, 01:52:00.000: Tórtola retiene viajeros y compra mentira ([35-013](capitulos/35.md)).
+- Cap. 35, 02:26:00.000: Reencuentro y Molly vuelve con grupo ([35-017](capitulos/35.md)).
+- Cap. 35, 02:37:00.000: Nox preocupado y llegada Shiaru ([35-018](capitulos/35.md)).
+- Cap. 35, 02:42:00.000: Bonnie y Molly reencuentran; recompensas ([35-019](capitulos/35.md)).
+- Cap. 35, 02:51:00.000: Nox pide conversación con Molly ([35-020](capitulos/35.md)).
+- Cap. 36, 00:00:00.000: Ione repara el barco y Erandy busca a Eleanor ([36-001](capitulos/36.md)).
+- Cap. 36, 00:06:00.000: Botellas en los cañones y convocatoria de Bonnie ([36-002](capitulos/36.md)).
+- Cap. 36, 00:27:00.000: Reclutamiento de Blink y Erandy ([36-005](capitulos/36.md)).
+- Cap. 36, 00:36:00.000: Eclipse, frutas y orientación ([36-006](capitulos/36.md)).
+- Cap. 36, 00:43:00.000: Dinosaurio devorado y rumbo recuperado ([36-007](capitulos/36.md)).
+- Cap. 36, 00:54:00.000: Intercambio de cuerpos y ruinas arrasadas ([36-008](capitulos/36.md)).
+- Cap. 36, 01:10:00.000: Cipo se oculta entre las ruinas ([36-009](capitulos/36.md)).
+- Cap. 36, 01:18:00.000: Captura del marine superviviente ([36-010](capitulos/36.md)).
+- Cap. 36, 01:26:00.000: Aparece un tiranosaurio y Poncelot carga ([36-011](capitulos/36.md)).
+- Cap. 36, 01:35:00.000: Ione se transforma y muere el tiranosaurio ([36-012](capitulos/36.md)).
+- Cap. 36, 01:46:00.000: Ione ataca a sus aliados y los intentos de calmarla fallan ([36-013](capitulos/36.md)).
+- Cap. 36, 01:57:00.000: Otro hombre lobo observa y ataca a Blink ([36-014](capitulos/36.md)).
+- Cap. 36, 02:06:00.000: Ione recupera el control e intimida al otro lobo ([36-015](capitulos/36.md)).
+- Cap. 36, 02:12:00.000: Curación del tigre y regreso a la forma humana ([36-016](capitulos/36.md)).
+- Cap. 36, 02:26:00.000: Reparto de recompensas, fiesta y alojamiento ([36-018](capitulos/36.md)).
+- Cap. 37, 02:14:00.000: Luna roba pólvora y Nox parte hacia el fuerte ([37-018](capitulos/37.md)).
+- Cap. 38, 00:00:00.000: Reencuentro de la escudera y rastreo del licántropo ([38-001](capitulos/38.md)).
+- Cap. 38, 00:06:00.000: Regreso de Ione y hallazgo de un herido en la playa ([38-002](capitulos/38.md)).
+- Cap. 38, 00:18:00.000: Duelo amistoso con resultado de empate ([38-004](capitulos/38.md)).
+- Cap. 38, 00:42:00.000: Plan para sacar el barco ([38-006](capitulos/38.md)).
+- Cap. 38, 00:54:00.000: Un pulpo gigante sujeta el barco ([38-007](capitulos/38.md)).
+- Cap. 38, 01:02:00.000: El pulpo agarra a Ione e Ilikar hiere a un tiburón ([38-008](capitulos/38.md)).
+- Cap. 38, 01:12:00.000: Poncelot calma y cura al tiburón ([38-009](capitulos/38.md)).
+- Cap. 38, 01:30:00.000: Ataque montado y liberación de Ilikar ([38-011](capitulos/38.md)).
+- Cap. 38, 01:39:00.000: Muere el pulpo e Ione ataca al tiburón ([38-012](capitulos/38.md)).
+- Cap. 38, 01:46:00.000: Los antiguos tripulantes llegan después del combate ([38-013](capitulos/38.md)).
+- Cap. 38, 01:58:00.000: El Zampaolas queda desencajado ([38-015](capitulos/38.md)).
+- Cap. 38, 02:04:00.000: Aportación de oro y reparto del cofre ([38-016](capitulos/38.md)).
+- Cap. 38, 02:12:00.000: Significado de la mordedura y decepción de Ilikar ([38-017](capitulos/38.md)).
+- Cap. 38, 02:17:00.000: Ione tranquiliza a Poncelot y se revela la propiedad del cofre ([38-018](capitulos/38.md)).
+
+## Smith
+
+- Cap. 35, 01:08:00.000: Smith admite viajeros y Nox interroga guardia ([35-008](capitulos/35.md)).
+- Cap. 35, 01:24:00.000: Tórtola rechaza alojamiento y tortillas vendidas ([35-010](capitulos/35.md)).
+
+## Tacha
+
+- Cap. 16, 01:46:25.000: Entrada a Cuicapalli y conversación en Primordial ([16-014](capitulos/16.md)).
+- Cap. 16, 02:20:30.000: Luna y Triel parten mientras el resto celebra el banquete ([16-021](capitulos/16.md)).
+- Cap. 18, 00:16:00.000: Llegada y presentación de Mamá ([18-004](capitulos/18.md)).
+- Cap. 19, 02:10:00.000: Encargo de entrenar a Leona y cena descartada ([19-017](capitulos/19.md)).
+- Cap. 22, 00:40:00.000: Axi llega y Guayacán come fresas ([22-005](capitulos/22.md)).
+- Cap. 22, 00:53:00.000: Ayoto gana el banquete y un caparazón ([22-006](capitulos/22.md)).
+- Cap. 27, 00:08:00.000: Tlachka entra sin reconocimiento y comparten ataques ([27-003](capitulos/27.md)).
+- Cap. 27, 02:44:00.000: Regreso herido y traje de Guayacán deteriorado ([27-020](capitulos/27.md)).
+- Cap. 30, 00:26:00.000: Envenenamiento por ingestión tras una reunión ([30-005](capitulos/30.md)).
+- Cap. 30, 00:27:00.000: Autor del veneno todavía sin confesión ([30-006](capitulos/30.md)).
+- Cap. 30, 02:12:00.000: Descanso y reflexión de Luna sobre el exceso de fuego ([30-022](capitulos/30.md)).
+
+## Tatuajes de la espalda de Nox
+
+- Cap. 07, 02:03:45.000: Tatuajes de Nox y ruinas sin relación reconocida ([07-025](capitulos/07.md)).
+- Cap. 09, 01:07:30.000: Llegan a ruinas serpentinas y entran ([09-018](capitulos/09.md)).
+- Cap. 09, 02:47:40.000: El director aclara el tributo y los tatuajes siguen sin interpretar ([09-031](capitulos/09.md)).
+- Cap. 26, 01:31:00.000: Nox activa las estatuas y siente picor en la espalda ([26-017](capitulos/26.md)).
+- Cap. 26, 01:46:00.000: Trampas desactivadas y una voz tras verter sangre ([26-019](capitulos/26.md)).
+- Cap. 26, 02:09:00.000: El anfitrión necesita lo que Nox lleva en la espalda ([26-022](capitulos/26.md)).
+
+## Templo de Lares
+
+- Cap. 18, 00:36:00.000: Encargo de investigar yuan-ti ([18-007](capitulos/18.md)).
+- Cap. 18, 00:42:00.000: Chocolate y ruta de Baton ([18-008](capitulos/18.md)).
+- Cap. 18, 01:05:00.000: Serpiente del altar y huellas recientes ([18-010](capitulos/18.md)).
+
+## Templo de los nawals
+
+- Cap. 08, 00:20:35.000: Un pirata describe el ataque en un templo ([08-008](capitulos/08.md)).
+- Cap. 08, 01:00:00.000: Altar junto al río y dos piratas muertos ([08-016](capitulos/08.md)).
+- Cap. 08, 01:34:20.000: Templo asociado a una civilización de nawals ([08-020](capitulos/08.md)).
+- Cap. 08, 01:40:20.000: Interior con diario en Terran y muerto colgado ([08-021](capitulos/08.md)).
+- Cap. 08, 01:46:20.000: Una figura se transforma en pantera bípeda y ataca ([08-022](capitulos/08.md)).
+- Cap. 08, 02:12:40.000: Descanso de ocho horas y vuelta nocturna ([08-025](capitulos/08.md)).
+
+## Tesara Queen
+
+- Cap. 31, 00:18:00.000: Tesara observa el entrenamiento de Leo ([31-004](capitulos/31.md)).
+- Cap. 31, 00:24:00.000: Naór, princesa de Atlan, y el objetivo de llegar a Iktan ([31-005](capitulos/31.md)).
+- Cap. 31, 00:31:00.000: Grupos confluyen y conflicto territorial ([31-006](capitulos/31.md)).
+- Cap. 31, 00:40:00.000: Tesa se presenta como historiadora y Coyote conoce Iktan ([31-007](capitulos/31.md)).
+- Cap. 31, 00:50:00.000: Siseos complacientes y raíces que atrapan a Coyote ([31-008](capitulos/31.md)).
+- Cap. 31, 01:01:00.000: Tesa exige la kusarigama y dispara a Eldrat ([31-010](capitulos/31.md)).
+- Cap. 31, 01:08:00.000: Ataques mutuos y Tesa inmovilizada temporalmente ([31-011](capitulos/31.md)).
+- Cap. 31, 01:17:00.000: Naór paralizada y Tesa detecta una criatura enorme ([31-012](capitulos/31.md)).
+- Cap. 31, 01:23:00.000: Una voz conoce intimidades y alza a los muertos con plantas ([31-013](capitulos/31.md)).
+- Cap. 31, 01:28:00.000: Combate y encantamiento que no controla a los muertos ([31-014](capitulos/31.md)).
+- Cap. 31, 01:44:00.000: Tesa protege a Leo y se propone huir ([31-016](capitulos/31.md)).
+- Cap. 31, 01:54:00.000: Coyote y Naór caen y son recuperados ([31-017](capitulos/31.md)).
+- Cap. 31, 02:04:00.000: Leo queda envenenado y los compañeros se cubren ([31-018](capitulos/31.md)).
+- Cap. 31, 02:16:00.000: Leo mata al último zombi y los cuerpos se funden; llegada a Iktan ([31-019](capitulos/31.md)).
+- Cap. 31, 02:21:00.000: Ciudad y ruinas de piedra derretida ([31-020](capitulos/31.md)).
+- Cap. 31, 02:28:00.000: Según los antiguos, un dragón destruyó las casas ([31-021](capitulos/31.md)).
+- Cap. 31, 02:42:00.000: La líder enmascarada exige saber quién guio a los extranjeros ([31-023](capitulos/31.md)).
+- Cap. 31, 02:54:00.000: Gualulu afirma que el dragón revive a los muertos ([31-025](capitulos/31.md)).
+- Cap. 31, 02:58:00.000: Visión de cinco héroes y fragmento tentacular ([31-026](capitulos/31.md)).
+- Cap. 31, 03:10:00.000: Confianza limitada y secreto de ruta ([31-028](capitulos/31.md)).
+
+## Tim
+
+- Cap. 34, 00:37:00.000: Marina se llevó huevo y Tim muere ([34-006](capitulos/34.md)).
+
+## Tlachka
+
+- Cap. 01, 00:04:08.000: Relato del sacrificio del guerrero ([01-004](capitulos/01.md)).
+- Cap. 01, 00:16:50.000: Convergencia de los recién llegados ([01-009](capitulos/01.md)).
+- Cap. 01, 00:52:28.000: Pix atiende la taberna ([01-016](capitulos/01.md)).
+- Cap. 01, 01:20:44.000: Pistola ornamentada y conocimiento limitado ([01-020](capitulos/01.md)).
+- Cap. 01, 01:30:03.000: Incidente con la criatura ígnea ([01-022](capitulos/01.md)).
+- Cap. 01, 01:57:12.000: Robo exterior y excusa de cobro de deuda ([01-026](capitulos/01.md)).
+- Cap. 01, 02:20:58.000: Propuesta de explorar la isla ([01-032](capitulos/01.md)).
+- Cap. 01, 02:24:03.000: Alojamiento en el Zampaolas ([01-033](capitulos/01.md)).
+- Cap. 01, 02:28:18.000: Luna llena, cadenas y salto al mar ([01-034](capitulos/01.md)).
+- Cap. 04, 00:02:40.000: Aprendizaje del guerrero nativo ([04-002](capitulos/04.md)).
+- Cap. 04, 00:12:00.000: Encargo de Bonnie para recuperar lo perdido ([04-007](capitulos/04.md)).
+- Cap. 04, 00:15:40.000: Se forma la expedición ([04-008](capitulos/04.md)).
+- Cap. 04, 00:30:00.000: Nuevos efectos de las frutas ([04-010](capitulos/04.md)).
+- Cap. 04, 00:38:00.000: Cipo indica la presencia de piratas ([04-011](capitulos/04.md)).
+- Cap. 04, 00:42:20.000: Ione pide quedar inconsciente ([04-012](capitulos/04.md)).
+- Cap. 04, 00:46:35.000: Grupo perdido y hallazgo de piratas ([04-013](capitulos/04.md)).
+- Cap. 04, 01:19:00.000: Victoria sobre los dinosaurios ([04-018](capitulos/04.md)).
+- Cap. 04, 01:41:30.000: Advertencias y reparto de gemas ([04-021](capitulos/04.md)).
+- Cap. 04, 01:49:00.000: Cuidados y preocupación de los nativos ([04-023](capitulos/04.md)).
+- Cap. 04, 01:55:00.000: Huida de un dinosaurio volador ([04-025](capitulos/04.md)).
+- Cap. 04, 02:00:55.000: Alojamiento y separación al regreso ([04-027](capitulos/04.md)).
+- Cap. 04, 02:04:00.000: Juego de pelota y Cipo ([04-028](capitulos/04.md)).
+- Cap. 04, 02:16:35.000: Deciden buscar a Nox ([04-031](capitulos/04.md)).
+- Cap. 08, 00:00:00.000: Tlachka obtiene un collar local ([08-001](capitulos/08.md)).
+- Cap. 08, 00:12:00.000: Encuentro con Tlachka y advertencia sobre tesoros ([08-005](capitulos/08.md)).
+- Cap. 08, 00:23:15.000: Leyendas de nawals según conocimiento de Tlachka ([08-009](capitulos/08.md)).
+- Cap. 08, 00:25:50.000: Tlachka entrega al herido a Gobs ([08-010](capitulos/08.md)).
+- Cap. 08, 00:35:30.000: Encuentran a Ayoto y un cadáver ([08-012](capitulos/08.md)).
+- Cap. 08, 00:38:40.000: Día convertido en noche e interpretaciones del dios Sol ([08-013](capitulos/08.md)).
+- Cap. 08, 00:52:00.000: Ayoto encuentra un camino por rastros ([08-015](capitulos/08.md)).
+- Cap. 08, 01:04:00.000: Emboscada de cinco panteras derrotada ([08-017](capitulos/08.md)).
+- Cap. 08, 01:29:40.000: Curación y objetos de los cadáveres ([08-019](capitulos/08.md)).
+- Cap. 08, 01:34:20.000: Templo asociado a una civilización de nawals ([08-020](capitulos/08.md)).
+- Cap. 08, 01:40:20.000: Interior con diario en Terran y muerto colgado ([08-021](capitulos/08.md)).
+- Cap. 08, 01:51:20.000: El combate termina con la muerte de la criatura y su reversión a mujer ([08-023](capitulos/08.md)).
+- Cap. 08, 02:06:20.000: Libro, mortero y cuerpo para consulta posterior ([08-024](capitulos/08.md)).
+- Cap. 08, 02:12:40.000: Descanso de ocho horas y vuelta nocturna ([08-025](capitulos/08.md)).
+- Cap. 08, 02:23:50.000: Pantera al pozo, loro huido y espada rota ([08-027](capitulos/08.md)).
+- Cap. 25, 00:06:00.000: Luna experimenta y Tlachka vende elotes ([25-003](capitulos/25.md)).
+- Cap. 25, 00:09:00.000: Noche dispersa en Shiaru ([25-004](capitulos/25.md)).
+- Cap. 25, 00:18:00.000: Tlachka descubre intrusos en su habitación ([25-005](capitulos/25.md)).
+- Cap. 25, 00:22:00.000: Ataques simultáneos a Blink, Nox y el barco ([25-006](capitulos/25.md)).
+- Cap. 25, 00:28:00.000: Ilusiones y evasión inicial ([25-007](capitulos/25.md)).
+- Cap. 25, 00:34:40.000: Rastreo de Blink invisible ([25-008](capitulos/25.md)).
+- Cap. 25, 00:40:00.000: Miedo mágico y respeto a una ilusión ([25-009](capitulos/25.md)).
+- Cap. 25, 01:18:00.000: Mapa reclamado y Hambre de Hadar ([25-013](capitulos/25.md)).
+- Cap. 25, 01:24:40.000: Invisibilidad conjunta y Merlucilla llega ([25-014](capitulos/25.md)).
+- Cap. 25, 01:38:00.000: Una mujer explota y Poncelot cae, pero se cura ([25-015](capitulos/25.md)).
+- Cap. 25, 01:43:00.000: Cierre de la taberna y cooperación forzada ([25-016](capitulos/25.md)).
+- Cap. 25, 01:52:30.000: Luna mata a dos bestias mediante magia salvaje ([25-017](capitulos/25.md)).
+- Cap. 25, 02:01:00.000: Último enemigo muerto y Pix enfadado ([25-018](capitulos/25.md)).
+- Cap. 25, 02:11:30.000: El mapa señala un destino que Ione llamó Ezlat ([25-019](capitulos/25.md)).
+- Cap. 25, 02:24:00.000: Las órdenes buscan el mapa y el collar de Blink ([25-021](capitulos/25.md)).
+- Cap. 27, 00:00:00.000: Descanso y preparación tras ataque a Cuicapalli ([27-001](capitulos/27.md)).
+- Cap. 27, 00:04:00.000: Cipo pide buscar abuela en Cuicapalli ([27-002](capitulos/27.md)).
+- Cap. 27, 00:08:00.000: Tlachka entra sin reconocimiento y comparten ataques ([27-003](capitulos/27.md)).
+- Cap. 27, 00:11:00.000: Sacrificio de Tlachka y presentación de Guayacán ([27-004](capitulos/27.md)).
+- Cap. 27, 00:20:00.000: Las alarmas señalan a los hombres azules del sur ([27-005](capitulos/27.md)).
+- Cap. 27, 00:26:00.000: Primeras trampas y Axi atrapado por un cocodrilo ([27-006](capitulos/27.md)).
+- Cap. 27, 00:45:00.000: Tronco, cocos, pinchos y flechas improvisadas ([27-008](capitulos/27.md)).
+- Cap. 27, 01:04:00.000: Frutas resbaladizas y salto fallido al río ([27-010](capitulos/27.md)).
+- Cap. 27, 01:26:00.000: Tlachka sale oculto y Cipo combate ([27-012](capitulos/27.md)).
+- Cap. 27, 01:40:00.000: Refuerzos llegan y repliegue propuesto ([27-013](capitulos/27.md)).
+- Cap. 27, 01:51:00.000: Axi agota las flechas y el jefe menciona a Tórtola ([27-014](capitulos/27.md)).
+- Cap. 27, 02:00:00.000: Guayacán cae y los babuinos intervienen ([27-015](capitulos/27.md)).
+- Cap. 27, 02:10:00.000: Espíritu volador y cocos contra el jefe ([27-016](capitulos/27.md)).
+- Cap. 27, 02:30:00.000: Babuino muerto y jefe rodeado ([27-018](capitulos/27.md)).
+- Cap. 27, 02:44:00.000: Regreso herido y traje de Guayacán deteriorado ([27-020](capitulos/27.md)).
+- Cap. 29, 00:00:00.000: Trampas reforzadas y casino aún cerrado ([29-001](capitulos/29.md)).
+- Cap. 29, 00:09:00.000: El cadáver del elfo cae y el tigre se lo lleva ([29-003](capitulos/29.md)).
+- Cap. 29, 00:13:00.000: Los guerreros aceptan ayudar al pueblo de la sirena ([29-004](capitulos/29.md)).
+- Cap. 29, 00:23:00.000: Seta tóxica y efectos de fruta ([29-006](capitulos/29.md)).
+- Cap. 29, 00:31:00.000: Burbujas de una hora y Coyote copia a Pinky ([29-008](capitulos/29.md)).
+- Cap. 29, 00:36:00.000: Un agujero del lago conecta con el mar ([29-009](capitulos/29.md)).
+- Cap. 29, 00:44:00.000: Ausencia de peces y figuras junto al coral ([29-010](capitulos/29.md)).
+- Cap. 29, 00:49:00.000: Cuatro merros detectan la arena levantada por los guerreros ([29-011](capitulos/29.md)).
+- Cap. 29, 00:55:00.000: Reglas subacuáticas y primeros golpes ([29-012](capitulos/29.md)).
+- Cap. 29, 01:04:00.000: Ayoto paralizado y copias que protegen al mago ([29-013](capitulos/29.md)).
+- Cap. 29, 01:24:00.000: Los golpes rompen el encantamiento y se forma una nube de arena ([29-015](capitulos/29.md)).
+- Cap. 29, 01:34:00.000: Kilzer paralizado y un rayo lo derriba ([29-016](capitulos/29.md)).
+- Cap. 29, 01:50:00.000: Cuatro atacantes muertos y perla de botín ([29-018](capitulos/29.md)).
+- Cap. 29, 01:59:00.000: Maris calma a los guardias y los besos conceden branquias ([29-019](capitulos/29.md)).
+- Cap. 29, 02:20:00.000: Secuestros y kraken que crece por rituales ([29-022](capitulos/29.md)).
+- Cap. 29, 02:32:00.000: Habitación pagada y descanso local ([29-024](capitulos/29.md)).
+- Cap. 37, 00:00:00.000: Eleanor investiga y Luna cambia de forma ([37-001](capitulos/37.md)).
+- Cap. 37, 00:08:00.000: Búsqueda de Nox y noticias de la escudera ([37-002](capitulos/37.md)).
+- Cap. 37, 00:24:00.000: Emboscada a los suministros con Tlachka al mando ([37-004](capitulos/37.md)).
+- Cap. 37, 00:36:00.000: Comida contra el cansancio y efectos de las frutas ([37-006](capitulos/37.md)).
+- Cap. 37, 00:45:00.000: Preparación de trampas y del glifo Parlamento ([37-007](capitulos/37.md)).
+- Cap. 37, 01:00:00.000: Una trampa captura a un marine y Nox lo mata ([37-008](capitulos/37.md)).
+- Cap. 37, 01:22:00.000: Muere el capitán y un marine huye ([37-010](capitulos/37.md)).
+- Cap. 37, 01:44:00.000: Huida en la carreta restante ([37-013](capitulos/37.md)).
+- Cap. 37, 01:50:00.000: Explosión y cañonazo contra el dinosaurio ([37-014](capitulos/37.md)).
+- Cap. 37, 01:57:00.000: Entrega de una carreta y recompensas ([37-015](capitulos/37.md)).
+- Cap. 39, 00:00:00.000: Regreso de Ayoto y crianza de Etley ([39-001](capitulos/39.md)).
+- Cap. 39, 00:04:00.000: Cueva refugio y recuerdo incierto de Nox ([39-002](capitulos/39.md)).
+- Cap. 39, 00:09:00.000: Ayoto se incorpora y una rana acompaña a Citlali ([39-003](capitulos/39.md)).
+- Cap. 39, 00:16:00.000: Los hombres serpiente amenazan a Etley ([39-004](capitulos/39.md)).
+- Cap. 39, 00:24:00.000: Dos hombres serpiente y una abominación ([39-005](capitulos/39.md)).
+- Cap. 39, 00:34:00.000: Ayoto libera a Citlali y Luna se revela ([39-006](capitulos/39.md)).
+- Cap. 39, 00:42:00.000: Continúa el combate y la cría se acerca lentamente ([39-007](capitulos/39.md)).
+- Cap. 39, 00:52:00.000: Mueren la abominación y el último guardia ([39-009](capitulos/39.md)).
+- Cap. 39, 01:13:00.000: La segunda bola de fuego derrumba la cueva ([39-011](capitulos/39.md)).
+- Cap. 39, 01:27:00.000: Los guardias ayudan a rescatar a Citlali y Etley ([39-013](capitulos/39.md)).
+- Cap. 39, 01:34:00.000: Citlali drena a Tlachka y el grupo marcha al norte ([39-014](capitulos/39.md)).
+- Cap. 39, 01:40:00.000: Animales vigilantes y rastros de viajeros anteriores ([39-015](capitulos/39.md)).
+- Cap. 39, 02:12:00.000: Descanso en Iktan y expulsión de Coyote ([39-020](capitulos/39.md)).
+
+## Tommy
+
+- Cap. 24, 02:17:00.000: Bonnie mata a un pirata y reduce el pago ([24-017](capitulos/24.md)).
+
+## Tribu de la Hoja Caída
+
+- Cap. 30, 00:31:00.000: Hoja Caída y encargo de mediación ([30-007](capitulos/30.md)).
+- Cap. 30, 00:46:00.000: Recepción de la Hoja Caída y cambio de una pupila ([30-009](capitulos/30.md)).
+- Cap. 30, 02:04:00.000: Eromov envía a Parroter a investigar una cura ([30-020](capitulos/30.md)).
+
+## Triel
+
+- Cap. 14, 00:00:35.000: Pasado de los dos hermanos presentado al espectador ([14-001](capitulos/14.md)).
+- Cap. 14, 00:03:15.000: Cocodrilo alimentado y panteras derrotadas por los hermanos ([14-002](capitulos/14.md)).
+- Cap. 14, 00:21:35.000: Los hermanos llegan y compran ropa negra ([14-005](capitulos/14.md)).
+- Cap. 14, 00:30:00.000: Sombrero dado al loro y aviso a Bonnie ([14-006](capitulos/14.md)).
+- Cap. 14, 00:37:00.000: La mujer del bote pide ayuda para el mercante ([14-007](capitulos/14.md)).
+- Cap. 14, 00:48:00.000: Ayoto protege a Patata y Blink conoce la leyenda ([14-009](capitulos/14.md)).
+- Cap. 14, 00:51:45.000: Navío visto y Bonnie expulsa al marcado ([14-010](capitulos/14.md)).
+- Cap. 14, 00:58:15.000: Barco deteriorado con tareas repetidas ([14-011](capitulos/14.md)).
+- Cap. 14, 01:11:00.000: Los hermanos roban las llaves al marinero en el cepo ([14-012](capitulos/14.md)).
+- Cap. 14, 01:24:15.000: Tres muertos de cajas derrotados ([14-014](capitulos/14.md)).
+- Cap. 14, 01:54:00.000: Brújula a cambio de bebida y envenenamiento ([14-017](capitulos/14.md)).
+- Cap. 14, 02:04:00.000: Camarero derrotado y brújula recogida ([14-018](capitulos/14.md)).
+- Cap. 14, 02:12:30.000: Campana ganada y moneda negra intercambiada ([14-019](capitulos/14.md)).
+- Cap. 14, 02:22:30.000: Portador abatido y campana recogida; runa vista ([14-020](capitulos/14.md)).
+- Cap. 14, 02:35:30.000: Primera forma del capitán derrotada ([14-022](capitulos/14.md)).
+- Cap. 14, 02:44:10.000: El capitán cambia de forma y ordena el hundimiento ([14-023](capitulos/14.md)).
+- Cap. 14, 02:52:40.000: La rotura del relicario dispersa al capitán y los tripulantes ([14-024](capitulos/14.md)).
+- Cap. 14, 03:01:00.000: Desaparición de la marca y el veneno; Bonnie llama a los hermanos ([14-025](capitulos/14.md)).
+- Cap. 15, 00:00:00.000: Casino en construcción y los hermanos exploran el pueblo ([15-001](capitulos/15.md)).
+- Cap. 15, 00:03:20.000: Triel quiere ser capitana y el elfo prepara el envío de Jack ([15-002](capitulos/15.md)).
+- Cap. 15, 00:18:40.000: El grupo se reúne y Axi compra flechas y armadura ([15-005](capitulos/15.md)).
+- Cap. 15, 00:31:00.000: La espada de Triel tiene escamas de dragón azul ([15-006](capitulos/15.md)).
+- Cap. 15, 00:44:20.000: Frutas: obligación de decir la verdad, inmunidad a las armas y resistencias ([15-008](capitulos/15.md)).
+- Cap. 15, 00:50:30.000: Evitan un estegosauro y Triel obliga a Kilzer a arrodillarse ([15-009](capitulos/15.md)).
+- Cap. 15, 01:01:30.000: Restos de piratas y Triel infiltrada con disfraz ([15-010](capitulos/15.md)).
+- Cap. 15, 01:28:20.000: Defensores y dinosaurios presionan a Patata ([15-013](capitulos/15.md)).
+- Cap. 15, 01:44:00.000: Kilzer es derribado y curado antes de auxiliar a Patata ([15-014](capitulos/15.md)).
+- Cap. 15, 02:14:20.000: Triel lucha disfrazada y Axi le dispara por error ([15-016](capitulos/15.md)).
+- Cap. 15, 02:31:10.000: El rival se levanta y Eldrat lo remata ([15-017](capitulos/15.md)).
+- Cap. 15, 02:50:30.000: Bolsa recuperada y Bonnie paga cincuenta ([15-020](capitulos/15.md)).
+- Cap. 15, 02:56:30.000: Treinta monedas repartidas entre cuatro; el dragón busca a la abuela ([15-022](capitulos/15.md)).
+- Cap. 16, 00:02:20.000: Muerte del elfo referida y búsqueda de templo ([16-002](capitulos/16.md)).
+- Cap. 16, 00:18:30.000: Luna y Triel encuentran a una leonina que muerde el mapa ([16-006](capitulos/16.md)).
+- Cap. 16, 00:38:00.000: Mapa reparado y deidades discutidas ([16-008](capitulos/16.md)).
+- Cap. 16, 00:45:15.000: Serpientes derrotadas y Naór libera a Patata ([16-009](capitulos/16.md)).
+- Cap. 16, 01:24:30.000: El cocodrilo gigante atrapa a Patata y el grupo lo mata ([16-012](capitulos/16.md)).
+- Cap. 16, 01:38:30.000: Cadáver de regalo, estegosauros evitados y viaje de días ([16-013](capitulos/16.md)).
+- Cap. 16, 02:16:40.000: El mapa de Luna no pertenece a la zona y se toman unos tubos ([16-020](capitulos/16.md)).
+- Cap. 16, 02:20:30.000: Luna y Triel parten mientras el resto celebra el banquete ([16-021](capitulos/16.md)).
+- Cap. 17, 00:00:00.000: Descanso, copa perdida y casino preparado ([17-001](capitulos/17.md)).
+- Cap. 17, 00:06:30.000: Cuatro salen hacia Cuicapalli sin buena guía ([17-003](capitulos/17.md)).
+- Cap. 17, 00:17:30.000: Encuentro y frutas temporales ([17-005](capitulos/17.md)).
+- Cap. 17, 00:27:20.000: La patrulla busca a quienes destruyeron el poblado ([17-006](capitulos/17.md)).
+- Cap. 17, 00:43:30.000: Axi relata su cautiverio mediante una conexión mental ([17-008](capitulos/17.md)).
+- Cap. 17, 00:47:30.000: Costumbres, comida y amenazas interesadas ([17-009](capitulos/17.md)).
+- Cap. 17, 01:08:00.000: Axi y Kilzer señalados; cofres sujetos a prueba ([17-012](capitulos/17.md)).
+- Cap. 17, 01:16:00.000: Los cinco entran en una prueba contra bestias ([17-013](capitulos/17.md)).
+- Cap. 17, 01:24:30.000: Preparación y rugido que afecta a Axi ([17-014](capitulos/17.md)).
+- Cap. 17, 01:35:30.000: Mueren las primeras criaturas y Kilzer se transforma temporalmente en araña ([17-015](capitulos/17.md)).
+- Cap. 17, 01:51:20.000: Cocodrilo enorme y Naór convertida en oveja ([17-016](capitulos/17.md)).
+- Cap. 17, 02:03:00.000: Naór y Triel dentro del cocodrilo, Axi lo mata ([17-017](capitulos/17.md)).
+- Cap. 17, 02:17:20.000: La hidra de la prueba mata a un cuidador y escupe ácido ([17-018](capitulos/17.md)).
+- Cap. 17, 02:25:30.000: Naór derriba al monstruo y Eldrat lo mata para ayudar a su hermana ([17-019](capitulos/17.md)).
+- Cap. 17, 02:35:30.000: Explosión ácida de carta y victoria reconocida ([17-020](capitulos/17.md)).
+- Cap. 17, 02:39:30.000: Botín y promesa de los dirigentes de asistir al concilio ([17-021](capitulos/17.md)).
+- Cap. 17, 02:51:10.000: Separación: regreso y misión todavía sin Iktan ([17-023](capitulos/17.md)).
+- Cap. 20, 00:03:00.000: La recién llegada golpea al pirata y Triel lo engaña ([20-002](capitulos/20.md)).
+- Cap. 20, 00:11:00.000: Encuentro del grupo y tradición del templo ([20-003](capitulos/20.md)).
+- Cap. 20, 00:20:00.000: Una mujer acuática y una riña llevan a Poncelot al grupo ([20-004](capitulos/20.md)).
+- Cap. 20, 00:42:00.000: Chocolate de Triel y leyenda de tres cabezas ([20-006](capitulos/20.md)).
+- Cap. 20, 00:48:00.000: Desvío hacia el Garfio y alucinaciones ([20-007](capitulos/20.md)).
+- Cap. 20, 01:18:00.000: Primer marine muerto y espíritu destruido ([20-010](capitulos/20.md)).
+- Cap. 20, 01:34:00.000: Curaciones, miedo y muerte de otros marines ([20-011](capitulos/20.md)).
+- Cap. 20, 02:00:00.000: Capitán muerto y puerta de piedra golpeada ([20-012](capitulos/20.md)).
+- Cap. 20, 02:24:00.000: Naór evacúa a Axi y Poncelot monta a la serpiente ([20-015](capitulos/20.md)).
+- Cap. 20, 02:34:00.000: Serpiente muerta y colmillos recuperados ([20-016](capitulos/20.md)).
+- Cap. 20, 02:42:00.000: Separación, campamento y mapa pendiente ([20-017](capitulos/20.md)).
+- Cap. 21, 00:06:00.000: Venta y robo del casino ([21-002](capitulos/21.md)).
+- Cap. 21, 00:10:00.000: Pirata rescatado y Triel se retira ([21-003](capitulos/21.md)).
+- Cap. 31, 00:00:00.000: Coyote vuelve, los gemelos exploran y Naór cría a Leo ([31-001](capitulos/31.md)).
+- Cap. 31, 00:04:00.000: Coyote y Triel arrancan la cola del caimán ([31-002](capitulos/31.md)).
+- Cap. 31, 00:10:00.000: Venta de perlas y tatuaje de Triel ([31-003](capitulos/31.md)).
+- Cap. 31, 00:31:00.000: Grupos confluyen y conflicto territorial ([31-006](capitulos/31.md)).
+- Cap. 31, 00:40:00.000: Tesa se presenta como historiadora y Coyote conoce Iktan ([31-007](capitulos/31.md)).
+- Cap. 31, 00:56:00.000: La voz de Leo induce un golpe de Naór ([31-009](capitulos/31.md)).
+- Cap. 31, 01:08:00.000: Ataques mutuos y Tesa inmovilizada temporalmente ([31-011](capitulos/31.md)).
+- Cap. 31, 01:17:00.000: Naór paralizada y Tesa detecta una criatura enorme ([31-012](capitulos/31.md)).
+- Cap. 31, 01:23:00.000: Una voz conoce intimidades y alza a los muertos con plantas ([31-013](capitulos/31.md)).
+- Cap. 31, 01:28:00.000: Combate y encantamiento que no controla a los muertos ([31-014](capitulos/31.md)).
+- Cap. 31, 01:36:00.000: Eldrat reconoce al dragón verde y el ácido daña al grupo ([31-015](capitulos/31.md)).
+- Cap. 31, 01:44:00.000: Tesa protege a Leo y se propone huir ([31-016](capitulos/31.md)).
+- Cap. 31, 01:54:00.000: Coyote y Naór caen y son recuperados ([31-017](capitulos/31.md)).
+- Cap. 31, 02:04:00.000: Leo queda envenenado y los compañeros se cubren ([31-018](capitulos/31.md)).
+- Cap. 31, 02:16:00.000: Leo mata al último zombi y los cuerpos se funden; llegada a Iktan ([31-019](capitulos/31.md)).
+- Cap. 31, 02:21:00.000: Ciudad y ruinas de piedra derretida ([31-020](capitulos/31.md)).
+- Cap. 31, 02:34:00.000: Naór y Triel comen mientras Coyote habla con la tabernera ([31-022](capitulos/31.md)).
+- Cap. 31, 02:54:00.000: Gualulu afirma que el dragón revive a los muertos ([31-025](capitulos/31.md)).
+- Cap. 31, 03:10:00.000: Confianza limitada y secreto de ruta ([31-028](capitulos/31.md)).
+- Cap. 34, 00:00:00.000: Recapitulaciones y libertad de Citlali ([34-001](capitulos/34.md)).
+
+## Tripulación del Zampaolas
+
+- Cap. 03, 01:14:00.000: Trampa del hada e Ione atrapada ([03-015](capitulos/03.md)).
+- Cap. 03, 01:34:00.000: Engaño caballeresco y plan de infiltración ([03-020](capitulos/03.md)).
+- Cap. 06, 00:08:00.000: Huida estudiada y pertenencia de Chochi ([06-005](capitulos/06.md)).
+
+## Tutucan
+
+- Cap. 16, 00:04:30.000: El rey leonino encarga a Naór convocar un concilio ([16-003](capitulos/16.md)).
+- Cap. 16, 01:58:10.000: Aceptación del concilio de Tutucan condicionada a los problemas locales ([16-016](capitulos/16.md)).
+- Cap. 17, 01:05:20.000: Naór invita a los dirigentes a Tutucan ([17-011](capitulos/17.md)).
+- Cap. 17, 02:39:30.000: Botín y promesa de los dirigentes de asistir al concilio ([17-021](capitulos/17.md)).
+- Cap. 18, 02:43:00.000: Reunión contemplada y sombra final ([18-021](capitulos/18.md)).
+- Cap. 19, 02:02:00.000: Informe, collar y eruditos de otras ciudades ([19-016](capitulos/19.md)).
+- Cap. 22, 03:15:00.000: Antigua enemistad y concilio pendiente ([22-020](capitulos/22.md)).
+- Cap. 30, 00:26:00.000: Envenenamiento por ingestión tras una reunión ([30-005](capitulos/30.md)).
+- Cap. 31, 00:00:00.000: Coyote vuelve, los gemelos exploran y Naór cría a Leo ([31-001](capitulos/31.md)).
+- Cap. 31, 03:04:00.000: Naór convoca un concilio y Gualulu apoya al rey ([31-027](capitulos/31.md)).
+- Cap. 37, 00:36:00.000: Comida contra el cansancio y efectos de las frutas ([37-006](capitulos/37.md)).
+
+## Tórtola
+
+- Cap. 35, 01:24:00.000: Tórtola rechaza alojamiento y tortillas vendidas ([35-010](capitulos/35.md)).
+- Cap. 35, 01:52:00.000: Tórtola retiene viajeros y compra mentira ([35-013](capitulos/35.md)).
+- Cap. 35, 02:17:00.000: Pinky recapturada y amenaza a Tórtola ([35-016](capitulos/35.md)).
+- Cap. 36, 00:20:00.000: Molly informa de una posición estratégica ([36-004](capitulos/36.md)).
+- Cap. 37, 02:09:00.000: Bonnie presta el ojo con una condición que Nox planea incumplir ([37-017](capitulos/37.md)).
+
+## Walulu
+
+- Cap. 31, 02:42:00.000: La líder enmascarada exige saber quién guio a los extranjeros ([31-023](capitulos/31.md)).
+- Cap. 31, 02:49:00.000: Gualulu, amiga de la infancia de Naór, y la muerte de su padre ([31-024](capitulos/31.md)).
+- Cap. 31, 02:54:00.000: Gualulu afirma que el dragón revive a los muertos ([31-025](capitulos/31.md)).
+- Cap. 31, 02:58:00.000: Visión de cinco héroes y fragmento tentacular ([31-026](capitulos/31.md)).
+- Cap. 31, 03:04:00.000: Naór convoca un concilio y Gualulu apoya al rey ([31-027](capitulos/31.md)).
+- Cap. 31, 03:10:00.000: Confianza limitada y secreto de ruta ([31-028](capitulos/31.md)).
+- Cap. 39, 01:55:00.000: Iktan admite y cura a los viajeros ([39-017](capitulos/39.md)).
+- Cap. 39, 02:04:00.000: Hospitalidad de la ciudad oculta y una elfa enferma ([39-018](capitulos/39.md)).
+- Cap. 39, 02:12:00.000: Descanso en Iktan y expulsión de Coyote ([39-020](capitulos/39.md)).
+
+## Winscore
+
+- Cap. 24, 00:00:00.000: Descansos y Winscor explorador ([24-001](capitulos/24.md)).
+- Cap. 24, 00:09:00.000: Din busca a su hermano Sam y es estafado ([24-002](capitulos/24.md)).
+- Cap. 24, 00:23:00.000: El grupo parte y recibe los efectos de las frutas ([24-004](capitulos/24.md)).
+- Cap. 24, 00:32:00.000: Coyote se presenta y se une ([24-005](capitulos/24.md)).
+- Cap. 24, 00:40:00.000: Gorilas evitados y sirena acosada ([24-006](capitulos/24.md)).
+- Cap. 24, 00:49:00.000: Cambiaformas y chillido aturdidor ([24-007](capitulos/24.md)).
+- Cap. 24, 01:20:00.000: Inspiración y enemigos muertos ([24-009](capitulos/24.md)).
+- Cap. 24, 01:32:00.000: Ione loba no reconoce aliados ([24-010](capitulos/24.md)).
+- Cap. 24, 01:47:00.000: Loba calmada y concha destruida ([24-013](capitulos/24.md)).
+- Cap. 24, 01:56:00.000: Perla con coordenadas y botín ([24-014](capitulos/24.md)).
+- Cap. 24, 02:02:00.000: Ione humana y fragmentos guardados ([24-015](capitulos/24.md)).
+- Cap. 24, 02:40:00.000: Camarotes llenos y el médico prepara máquinas ([24-021](capitulos/24.md)).
+- Cap. 30, 00:00:00.000: Leona harengon, Guayacán y Winscore en camino ([30-001](capitulos/30.md)).
+- Cap. 30, 00:05:00.000: Winscore admitido bajo responsabilidad de Luna ([30-002](capitulos/30.md)).
+- Cap. 30, 00:12:00.000: Luna es admitida como chamán e interfiere en el trabajo de Parroter ([30-003](capitulos/30.md)).
+- Cap. 30, 00:26:00.000: Envenenamiento por ingestión tras una reunión ([30-005](capitulos/30.md)).
+- Cap. 30, 00:27:00.000: Autor del veneno todavía sin confesión ([30-006](capitulos/30.md)).
+- Cap. 30, 00:31:00.000: Hoja Caída y encargo de mediación ([30-007](capitulos/30.md)).
+- Cap. 30, 00:37:00.000: Frutas y ruinas con monos antes de la cueva ([30-008](capitulos/30.md)).
+- Cap. 30, 00:46:00.000: Recepción de la Hoja Caída y cambio de una pupila ([30-009](capitulos/30.md)).
+- Cap. 30, 00:54:00.000: Charcas venenosas conectadas y muestra tomada ([30-010](capitulos/30.md)).
+- Cap. 30, 01:03:00.000: Mujer disfrazada muere sin captura ([30-011](capitulos/30.md)).
+- Cap. 30, 01:08:00.000: Mujer del caldero capturada inicialmente ([30-012](capitulos/30.md)).
+- Cap. 30, 01:18:00.000: Guayacán inmoviliza a la mujer y recibe terror psíquico ([30-013](capitulos/30.md)).
+- Cap. 30, 01:27:00.000: Bola de fuego y grupo paralizado ([30-014](capitulos/30.md)).
+- Cap. 30, 01:37:00.000: La segunda explosión mata a la mujer y Luna cura al monje ([30-015](capitulos/30.md)).
+- Cap. 30, 01:41:00.000: Criaturas de charcas muertas y victoria ([30-016](capitulos/30.md)).
+- Cap. 30, 01:48:00.000: Veneno derramado y cadáveres en la reja ([30-017](capitulos/30.md)).
+- Cap. 30, 01:54:00.000: Cabezas para hablar con los muertos y evacuación por el humo ([30-018](capitulos/30.md)).
+- Cap. 30, 02:08:00.000: Winscore compra escudo más uno ([30-021](capitulos/30.md)).
+- Cap. 34, 00:00:00.000: Recapitulaciones y libertad de Citlali ([34-001](capitulos/34.md)).
+- Cap. 34, 00:06:00.000: Planes de Cuicapalli y encuentro del enano ([34-002](capitulos/34.md)).
+- Cap. 34, 00:20:00.000: Mamá pide ayuda y frutas ([34-004](capitulos/34.md)).
+- Cap. 34, 00:45:00.000: Rastro al sur y cadáveres mordidos ([34-007](capitulos/34.md)).
+- Cap. 34, 00:50:00.000: Dinosaurios emboscan y magia defensiva ([34-008](capitulos/34.md)).
+- Cap. 34, 01:11:00.000: Mamá drena Winscore y ambos aliados caen ([34-009](capitulos/34.md)).
+- Cap. 34, 01:20:00.000: Combate resuelto y descanso corto ([34-010](capitulos/34.md)).
+- Cap. 34, 01:42:00.000: Infiltración y Pinky retenida ([34-012](capitulos/34.md)).
+- Cap. 34, 01:50:00.000: Mamá distrae y Blink encuentra huevo ([34-013](capitulos/34.md)).
+- Cap. 34, 02:04:00.000: Pinky delata extracción e invisibilidad parcial ([34-014](capitulos/34.md)).
+- Cap. 34, 02:39:00.000: Rumbo Cuicapalli con cría ([34-020](capitulos/34.md)).
+
+## Xoltacan
+
+- Cap. 35, 02:05:00.000: Visión de isla devastada y serpiente alada ([35-014](capitulos/35.md)).
+- Cap. 36, 02:32:00.000: Una bestia corre y aúlla en la escena final ([36-019](capitulos/36.md)).
+
+## Yuan-ti
+
+- Cap. 18, 00:36:00.000: Encargo de investigar yuan-ti ([18-007](capitulos/18.md)).
+- Cap. 22, 01:52:00.000: Arqueros y monstruosidades abaten a Axi ([22-012](capitulos/22.md)).
+- Cap. 22, 03:15:00.000: Antigua enemistad y concilio pendiente ([22-020](capitulos/22.md)).
+
+## Zampaolas
+
+- Cap. 01, 00:12:32.000: Accidente del barco pirata ([01-008](capitulos/01.md)).
+- Cap. 01, 02:24:03.000: Alojamiento en el Zampaolas ([01-033](capitulos/01.md)).
+- Cap. 02, 00:04:20.000: Camarote vacío y cadenas rotas ([02-003](capitulos/02.md)).
+- Cap. 03, 00:00:00.000: Mamá sale del barco y despierta a los piratas ([03-001](capitulos/03.md)).
+- Cap. 04, 00:03:25.000: Muerte de Merlucilla entre sesiones ([04-003](capitulos/04.md)).
+- Cap. 04, 02:00:55.000: Alojamiento y separación al regreso ([04-027](capitulos/04.md)).
+- Cap. 05, 00:04:00.000: Jack quiere volver con Lucy ([05-003](capitulos/05.md)).
+- Cap. 07, 00:02:10.000: Nox mantiene a Jack y cede su camarote a Mamá ([07-002](capitulos/07.md)).
+- Cap. 07, 00:22:00.000: Se reúne el grupo con el dragón vivo ([07-007](capitulos/07.md)).
+- Cap. 07, 02:26:00.000: Mapas de la Marina y alojamiento negociado ([07-030](capitulos/07.md)).
+- Cap. 09, 00:00:00.000: Descanso y conversación entre sesiones de Nox ([09-001](capitulos/09.md)).
+- Cap. 09, 00:10:30.000: Ione encuentra armas y devuelve el estoque a Nox ([09-006](capitulos/09.md)).
+- Cap. 11, 00:00:00.000: Ione organiza un rescate tras recibir información de Nox ([11-001](capitulos/11.md)).
+- Cap. 13, 00:03:00.000: Lunaria encuentra un mapa y Ayoto busca información ([13-002](capitulos/13.md)).
+- Cap. 33, 00:08:00.000: Jack recluta Poncelot en Zampaolas ([33-002](capitulos/33.md)).
+- Cap. 34, 00:12:00.000: Nox expulsado y huevo desaparecido ([34-003](capitulos/34.md)).
+- Cap. 35, 00:12:00.000: Nox no encuentra Ione y Luna mata loro ([35-003](capitulos/35.md)).
+- Cap. 35, 02:51:00.000: Nox pide conversación con Molly ([35-020](capitulos/35.md)).
+- Cap. 36, 00:00:00.000: Ione repara el barco y Erandy busca a Eleanor ([36-001](capitulos/36.md)).
+- Cap. 36, 00:06:00.000: Botellas en los cañones y convocatoria de Bonnie ([36-002](capitulos/36.md)).
+- Cap. 36, 02:26:00.000: Reparto de recompensas, fiesta y alojamiento ([36-018](capitulos/36.md)).
+- Cap. 37, 00:08:00.000: Búsqueda de Nox y noticias de la escudera ([37-002](capitulos/37.md)).
+- Cap. 37, 02:14:00.000: Luna roba pólvora y Nox parte hacia el fuerte ([37-018](capitulos/37.md)).
+- Cap. 38, 00:00:00.000: Reencuentro de la escudera y rastreo del licántropo ([38-001](capitulos/38.md)).
+- Cap. 38, 00:32:00.000: Ilikar se incorpora a la tripulación ([38-005](capitulos/38.md)).
+- Cap. 38, 00:42:00.000: Plan para sacar el barco ([38-006](capitulos/38.md)).
+- Cap. 38, 00:54:00.000: Un pulpo gigante sujeta el barco ([38-007](capitulos/38.md)).
+- Cap. 38, 01:58:00.000: El Zampaolas queda desencajado ([38-015](capitulos/38.md)).
+- Cap. 38, 02:04:00.000: Aportación de oro y reparto del cofre ([38-016](capitulos/38.md)).
+
+## Zarial
+
+- Cap. 20, 00:03:00.000: La recién llegada golpea al pirata y Triel lo engaña ([20-002](capitulos/20.md)).
+- Cap. 20, 00:11:00.000: Encuentro del grupo y tradición del templo ([20-003](capitulos/20.md)).
+- Cap. 20, 00:20:00.000: Una mujer acuática y una riña llevan a Poncelot al grupo ([20-004](capitulos/20.md)).
+- Cap. 20, 00:33:00.000: Mosca domada con fregona ([20-005](capitulos/20.md)).
+- Cap. 20, 00:48:00.000: Desvío hacia el Garfio y alucinaciones ([20-007](capitulos/20.md)).
+- Cap. 20, 01:05:00.000: Dos perros muertos y bestia de Axi ([20-009](capitulos/20.md)).
+- Cap. 20, 01:18:00.000: Primer marine muerto y espíritu destruido ([20-010](capitulos/20.md)).
+- Cap. 20, 01:34:00.000: Curaciones, miedo y muerte de otros marines ([20-011](capitulos/20.md)).
+- Cap. 20, 02:00:00.000: Capitán muerto y puerta de piedra golpeada ([20-012](capitulos/20.md)).
+- Cap. 20, 02:10:00.000: El gas y la serpiente incapacitan a Axi ([20-013](capitulos/20.md)).
+- Cap. 20, 02:34:00.000: Serpiente muerta y colmillos recuperados ([20-016](capitulos/20.md)).
+- Cap. 20, 02:42:00.000: Separación, campamento y mapa pendiente ([20-017](capitulos/20.md)).
+- Cap. 21, 00:00:00.000: Descansos, montura y pérdidas ([21-001](capitulos/21.md)).
+- Cap. 21, 00:10:00.000: Pirata rescatado y Triel se retira ([21-003](capitulos/21.md)).
+- Cap. 21, 00:19:00.000: Encuentro entre Leona y Naór, y protección de la mosca ([21-004](capitulos/21.md)).
+- Cap. 21, 00:25:00.000: Las frutas y el licor afectan a la conducta ([21-005](capitulos/21.md)).
+- Cap. 21, 00:51:00.000: Leo, escondido, relata el secuestro ([21-007](capitulos/21.md)).
+- Cap. 21, 01:08:00.000: Las esporas provocan sueño y daño al despertar ([21-009](capitulos/21.md)).
+- Cap. 21, 01:36:00.000: Lobos, hipnosis y resistencia a parálisis ([21-011](capitulos/21.md)).
+- Cap. 21, 02:08:00.000: Plata en la boca y muerte del lobo grande ([21-013](capitulos/21.md)).
+- Cap. 21, 02:20:00.000: Restos de los padres y pelea por Leo ([21-014](capitulos/21.md)).
+- Cap. 21, 02:32:00.000: El collar serpiente provoca una visión a dos viajeras ([21-015](capitulos/21.md)).
+- Cap. 21, 02:35:00.000: Leona curada y destinos separados ([21-016](capitulos/21.md)).
+- Cap. 34, 00:00:00.000: Recapitulaciones y libertad de Citlali ([34-001](capitulos/34.md)).
+- Cap. 34, 00:06:00.000: Planes de Cuicapalli y encuentro del enano ([34-002](capitulos/34.md)).
+- Cap. 34, 00:20:00.000: Mamá pide ayuda y frutas ([34-004](capitulos/34.md)).
+- Cap. 34, 00:50:00.000: Dinosaurios emboscan y magia defensiva ([34-008](capitulos/34.md)).
+- Cap. 34, 01:11:00.000: Mamá drena Winscore y ambos aliados caen ([34-009](capitulos/34.md)).
+- Cap. 34, 01:20:00.000: Combate resuelto y descanso corto ([34-010](capitulos/34.md)).
+- Cap. 34, 01:32:00.000: Polen resistido y rastro recuperado ([34-011](capitulos/34.md)).
+- Cap. 34, 01:50:00.000: Mamá distrae y Blink encuentra huevo ([34-013](capitulos/34.md)).
+- Cap. 34, 02:04:00.000: Pinky delata extracción e invisibilidad parcial ([34-014](capitulos/34.md)).
+

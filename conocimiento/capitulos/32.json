@@ -1,0 +1,556 @@
+{
+  "capitulo": 32,
+  "estado_revision": "revisado",
+  "resumen": "Patata y Luna reciben en Shiaru a Eleanor y su escudera kender, que llegan para investigar rumores. Un asalto de la Marina con perros y oficiales interrumpe la presentación. Los cuatro defienden el pueblo con armas, magia y curaciones. Luna incendia un edificio y causa también daño a Patata con una bola de fuego. Bonnie interviene, activa una moneda pirata que emite chispas y combate como un rayo junto a un compañero. El general aviar escapa; los marines restantes mueren o huyen. Eleanor cae y se recupera mediante curación, sin morir. Bonnie entrega jade a los cuatro defensores, exige supervisar sus acciones y atribuye la guerra a una intromisión en el acuerdo anterior. Patata pregunta por Citlali y el huevo. Bonnie no sabe dónde está y menciona que Nox la buscaba. En el cierre, reservado a la audiencia, devuelve la moneda a Pix, anuncia que hará algo con Mamá y sale por un escondrijo hacia la costa.",
+  "misiones": [
+    "Defender Shiaru: los cuatro personajes y Bonnie repelen el asalto. El general aviar escapa y el pueblo permanece en manos piratas (32-006–32-017).",
+    "Investigar rumores: Eleanor y su escudera llegan e intentan establecerse, bajo el control de Bonnie. No se precisa su objetivo (32-002 y 32-018).",
+    "Localizar a Citlali: Patata pregunta por ella y recibe una respuesta incierta. No se ejecuta una búsqueda (32-019)."
+  ],
+  "preguntas": [
+    "¿Cuál es el nombre de la escudera y el apellido de Eleanor? Las presentaciones se reconocen de forma inconsistente (32-002).",
+    "¿Quién es el general aviar y volverá a atacar? Consigue escapar (32-013 y 32-015).",
+    "¿Cuáles eran los términos del acuerdo de Bonnie con la Marina y qué piensa hacer con Mamá? Solo se dispone de su declaración y de la escena reservada (32-018 y 32-020).",
+    "¿Dónde está Citlali y en qué estado se encuentra el huevo? Patata no la encuentra y Bonnie no lo sabe (32-019)."
+  ],
+  "contradicciones": [
+    "Eleanor se presenta como de Aragón, mientras la escudera la llama Roosevelt. Se conservan ambas variantes sin inventar una genealogía (32-002).",
+    "La mesa corrige la confusión con el aura de conquista: a nivel seis dispone de protección, pero no de la inmovilización del aura de nivel siete (32-012).",
+    "La muerte del mendigo coincide con el intento de bofetada, pero el estruendo y la negación de Eleanor impiden atribuirle la decapitación (32-005).",
+    "Eleanor cae y vuelve al combate mediante curación. No se confirma su muerte (32-016)."
+  ],
+  "nombres_dudosos": [
+    "Eleanor/Eleonor/Elonora de Aragón/Roosevelt son lecturas provisionales de su nombre y apellidos.",
+    "Terapati/Erandy/Erendy/Eri/Maya son lecturas del nombre de la escudera kender, distinta de Luna.",
+    "El general aviar recibe los apelativos palomo y pollo, pero no un nombre. No se identifica con Molly u otros oficiales."
+  ],
+  "fuente_sha256": "5b37f99a23122321e7f346f2bc7ec7d96e50052d8c1cad39da85ccf1f23b9c88",
+  "afirmaciones": [
+    {
+      "id": "32-001",
+      "titulo": "Granja, fuego y ausencia de Bonnie",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Luna relata que experimenta limpiando el bosque con fuego. Patata continúa cuidando la granja y recuerda que ayudó al coyote. Deja un pepino gigante para Bonnie, pero no encuentra a ella ni a Pix en la taberna.",
+      "inicio": "00:00:00.000",
+      "fin": "00:04:30.000",
+      "cita": "Tampoco está Pix",
+      "evidencia_cue": {
+        "inicio": "00:03:17.080",
+        "fin": "00:03:20.110",
+        "texto": "Sí, ¿por qué no? Pero primero quería entregárselo. Tampoco está Pix. Ah, sí,"
+      },
+      "entidades": [
+        "Lunaria / Luna",
+        "Patata / Patatamán (grafía provisional)",
+        "Happy Bonnie / Bonny (grafía provisional)",
+        "Pix",
+        "Coyote"
+      ],
+      "ambito": "recapitulación y taberna",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": ""
+    },
+    {
+      "id": "32-002",
+      "titulo": "Eleanor y escudera llegan",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Eleanor, armada, y su escudera kender desembarcan con un estandarte de bendición solar. Critican la suciedad y conocen a Patata y Luna. Eleanor se presenta como de Aragón, pero la escudera la llama Lady Eleanor Roosevelt. Su propio nombre se reconoce de varias formas y ofrece Eri o Maya.",
+      "inicio": "00:04:30.000",
+      "fin": "00:12:30.000",
+      "cita": "Eleanor de Aragón",
+      "evidencia_cue": {
+        "inicio": "00:11:12.560",
+        "fin": "00:11:14.790",
+        "texto": "Eleanor de Aragón. ¿Ves como te est la"
+      },
+      "entidades": [
+        "Eleanor de Aragón / Roosevelt (grafía e identidad nominal por aclarar)",
+        "Eri / Maya (escudera kender, grafía provisional)",
+        "Shiaru",
+        "Patata / Patatamán (grafía provisional)",
+        "Lunaria / Luna"
+      ],
+      "ambito": "llegada y presentación",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Su apariencia no identifica a la escudera como una niña humana. Los apellidos de Eleanor no se concilian sin pruebas."
+    },
+    {
+      "id": "32-003",
+      "titulo": "Eleanor reprende mendigo",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Un pirata pide monedas y toca la armadura de Eleanor. Ella lo agarra por el cuello, le advierte del peligro de tocarla sin permiso y le entrega plata. Declara que llegaron para investigar rumores.",
+      "inicio": "00:12:00.000",
+      "fin": "00:15:50.000",
+      "cita": "No abuses de la confianza",
+      "evidencia_cue": {
+        "inicio": "00:13:17.880",
+        "fin": "00:13:21.509",
+        "texto": "de plata. Ah, ¿tienes otra monedita? No abuses de la confianza."
+      },
+      "entidades": [
+        "Eleanor de Aragón / Roosevelt (grafía e identidad nominal por aclarar)",
+        "Pirata mendigo sin nombre"
+      ],
+      "ambito": "primer encuentro",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": ""
+    },
+    {
+      "id": "32-004",
+      "titulo": "Patata explica guerra y autoridades",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Patata describe una guerra entre piratas y la Marina llegada de Puerto de Espadas, la diversidad de los nativos, el control de Bonnie y al pirata Nox. Luna representa mediante una ilusión a un marine y a Kilzer incendiando el barco. Recomienda Cuicapalli como un lugar más limpio, a varios días de camino.",
+      "inicio": "00:14:00.000",
+      "fin": "00:21:30.000",
+      "cita": "una guerra entre los piratas",
+      "evidencia_cue": {
+        "inicio": "00:15:29.759",
+        "fin": "00:15:32.470",
+        "texto": "cierto, no sé si te has dado cuenta, ¿eh? Y hay una guerra entre los piratas"
+      },
+      "entidades": [
+        "Patata / Patatamán (grafía provisional)",
+        "Marina",
+        "Puerto de las Espadas",
+        "Nox",
+        "Cuicapalli",
+        "Kilzer / Kilcer (grafía provisional)"
+      ],
+      "ambito": "información transmitida a recién llegadas",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Son valoraciones de Patata y una reconstrucción ilusoria, no una investigación nueva ni una confirmación del cargo de Nox."
+    },
+    {
+      "id": "32-005",
+      "titulo": "Luna quema restos del caimán",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Los restos de un caimán sin cola cuelgan del pozo y los comen aves y ratas. Luna los incendia sin que intervengan los piratas. Patata atribuye la costumbre a un nativo que no identifica.",
+      "inicio": "00:20:00.000",
+      "fin": "00:22:45.000",
+      "cita": "los restos empiezan a prender",
+      "evidencia_cue": {
+        "inicio": "00:21:39.640",
+        "fin": "00:21:40.870",
+        "texto": "¿sabes? Está contra el al caiman que los restos empiezan a prender y nada, las"
+      },
+      "entidades": [
+        "Lunaria / Luna",
+        "Pozo de Shiaru",
+        "Caimán colgado en pozo"
+      ],
+      "ambito": "plaza",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": ""
+    },
+    {
+      "id": "32-006",
+      "titulo": "Asalto de Marina y muerte del mendigo",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "El mendigo vuelve a tocar a Eleanor. Cuando ella intenta darle una bofetada, un estruendo coincide con la desaparición de su cabeza. Eleanor niega causarla. Marines, perros y oficiales entran desde varios lados y disparan y apuñalan a los piratas. También caen marines. Los atacantes ordenan no dejar a nadie vivo.",
+      "inicio": "00:22:00.000",
+      "fin": "00:26:30.000",
+      "cita": "No dejéis a ninguno vivo",
+      "evidencia_cue": {
+        "inicio": "00:26:06.159",
+        "fin": "00:26:09.470",
+        "texto": "van gritando, \"No dejéis a ninguno vivo.\" Y veis que van entrando. ¿Y cuál"
+      },
+      "entidades": [
+        "Marina",
+        "Shiaru",
+        "Eleanor de Aragón / Roosevelt (grafía e identidad nominal por aclarar)",
+        "Pirata mendigo sin nombre"
+      ],
+      "ambito": "ataque observado",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La coincidencia no demuestra un poder decapitador de Eleanor ni identifica al atacante individual."
+    },
+    {
+      "id": "32-007",
+      "titulo": "Patata y escudera despliegan protección",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Patata invoca espíritus guardianes que matan a los perros y dañan a los atacantes. La escudera bendice a Eleanor, Luna y a sí misma y despliega un arma espiritual. Los marines disparan, recargan y buscan cobertura.",
+      "inicio": "00:26:00.000",
+      "fin": "00:34:45.000",
+      "cita": "espíritu guardianes",
+      "evidencia_cue": {
+        "inicio": "00:28:31.120",
+        "fin": "00:28:40.710",
+        "texto": "voy a hacer espíritu guardianes. Venga,"
+      },
+      "entidades": [
+        "Patata / Patatamán (grafía provisional)",
+        "Eri / Maya (escudera kender, grafía provisional)",
+        "Marina"
+      ],
+      "ambito": "defensa de plaza",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": ""
+    },
+    {
+      "id": "32-008",
+      "titulo": "Bola de fuego y defensa de Eleanor",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "La bola de fuego de Luna mata a un perro y a un pirata y deja una casa ardiendo. Eleanor mata a otro perro con dos ataques. La mesa no permite que su estandarte actúe como un aura autónoma separada de ella; debe permanecer cerca para proporcionar protección.",
+      "inicio": "00:34:00.000",
+      "fin": "00:40:00.000",
+      "cita": "la casa se vuelven llamas",
+      "evidencia_cue": {
+        "inicio": "00:35:09.280",
+        "fin": "00:35:14.270",
+        "texto": "perros explotan y la casa se vuelven llamas"
+      },
+      "entidades": [
+        "Lunaria / Luna",
+        "Eleanor de Aragón / Roosevelt (grafía e identidad nominal por aclarar)",
+        "Shiaru"
+      ],
+      "ambito": "combate y adjudicación",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se conoce el total de bajas civiles ni se demuestra que arda la taberna en este pasaje."
+    },
+    {
+      "id": "32-009",
+      "titulo": "Curación y rayos de escudera",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Patata rechaza la ocupación y se cura. La escudera dispara tres rayos ardientes, se aproxima para curar a Patata y protege a Eleanor mediante una reacción. Se corrigen errores de la interfaz.",
+      "inicio": "00:40:00.000",
+      "fin": "00:48:00.000",
+      "cita": "estas no son vuestras tierras",
+      "evidencia_cue": {
+        "inicio": "00:41:43.800",
+        "fin": "00:41:46.589",
+        "texto": "cuando empiece justo antes de eso. Bueno, estas no son vuestras tierras."
+      },
+      "entidades": [
+        "Patata / Patatamán (grafía provisional)",
+        "Eri / Maya (escudera kender, grafía provisional)",
+        "Eleanor de Aragón / Roosevelt (grafía e identidad nominal por aclarar)"
+      ],
+      "ambito": "defensa y apoyo",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": ""
+    },
+    {
+      "id": "32-010",
+      "titulo": "Fuego amigo y nuevos refuerzos",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Luna lanza fuego contra un grupo de enemigos. Patata acepta quedar dentro del área, recibe daño y mantiene la concentración. Eleanor bebe una poción. Continúan llegando marines y se oye una voz aviar desde el sur.",
+      "inicio": "00:48:00.000",
+      "fin": "00:53:30.000",
+      "cita": "más y más marines",
+      "evidencia_cue": {
+        "inicio": "00:52:24.079",
+        "fin": "00:52:26.990",
+        "texto": "empezáis a escuchar más y más marines."
+      },
+      "entidades": [
+        "Lunaria / Luna",
+        "Patata / Patatamán (grafía provisional)",
+        "Eleanor de Aragón / Roosevelt (grafía e identidad nominal por aclarar)",
+        "Marina"
+      ],
+      "ambito": "refuerzos y fuego amigo",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": ""
+    },
+    {
+      "id": "32-011",
+      "titulo": "Intimidación provoca retirada parcial",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Patata intimida a las tropas. Algunos marines se retiran del campo mientras los oficiales siguen luchando. La escudera sustituye bendición por espíritus guardianes, descritos como nativos solares que danzan. Luna se refugia dentro de su área y lanza cuchillo de hielo procurando proteger a Eleanor.",
+      "inicio": "00:54:00.000",
+      "fin": "01:04:30.000",
+      "cita": "se están retirando algunos",
+      "evidencia_cue": {
+        "inicio": "00:56:47.319",
+        "fin": "00:56:49.430",
+        "texto": "Vale, de momento se están retirando algunos. Supongo eso se ve acción, ¿no?"
+      },
+      "entidades": [
+        "Patata / Patatamán (grafía provisional)",
+        "Eri / Maya (escudera kender, grafía provisional)",
+        "Lunaria / Luna",
+        "Marina"
+      ],
+      "ambito": "combate y retirada parcial",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": ""
+    },
+    {
+      "id": "32-012",
+      "titulo": "Manifestación oscura de Eleanor",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Eleanor palidece, manifiesta alas negras que no sirven para volar y asusta a los enemigos cercanos. La mesa aclara que es de nivel seis y todavía no dispone del aura de conquista de nivel siete. El miedo no impide atacar, aunque causa desventaja.",
+      "inicio": "01:06:00.000",
+      "fin": "01:12:30.000",
+      "cita": "alas no funcionales",
+      "evidencia_cue": {
+        "inicio": "01:06:22.799",
+        "fin": "01:06:26.670",
+        "texto": "piel se vuelve muy pálida, eh salen unas salas no funcionales, pero"
+      },
+      "entidades": [
+        "Eleanor de Aragón / Roosevelt (grafía e identidad nominal por aclarar)"
+      ],
+      "ambito": "transformación y mecánicas",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Las alas no identifican un patrón o corrupción ni conceden vuelo."
+    },
+    {
+      "id": "32-013",
+      "titulo": "General aviar y desgaste",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Entra un general aviar pequeño con un palo. Ordena matar a todos e inspira a las tropas. Un disparo hace que la escudera pierda la concentración en sus guardianes y vuelva a invocarlos. Luna incapacita a dos adversarios mediante magia, pero después pierde la concentración. Eleanor recibe golpes y también la pierde.",
+      "inicio": "01:12:00.000",
+      "fin": "01:26:30.000",
+      "cita": "matadles que no quede ni uno",
+      "evidencia_cue": {
+        "inicio": "01:14:14.280",
+        "fin": "01:14:18.709",
+        "texto": "decir, matadles que no quede ni uno. Adelante."
+      },
+      "entidades": [
+        "General aviar de Marina (sin nombre)",
+        "Marina",
+        "Eri / Maya (escudera kender, grafía provisional)",
+        "Lunaria / Luna",
+        "Eleanor de Aragón / Roosevelt (grafía e identidad nominal por aclarar)"
+      ],
+      "ambito": "refuerzos oficiales",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": ""
+    },
+    {
+      "id": "32-014",
+      "titulo": "Bonnie activa moneda y combate como rayo",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Bonnie sale de la taberna y ordena a Patata resistir y a los demás ir al sur. Aprieta una moneda pirata que emite chispas y lleva chaqueta y gorro. Se desplaza aparentemente convertida en un rayo y despedaza a un oficial con un sable eléctrico. Un compañero combate a su lado.",
+      "inicio": "01:26:00.000",
+      "fin": "01:31:30.000",
+      "cita": "se transformara en un rayo",
+      "evidencia_cue": {
+        "inicio": "01:29:16.320",
+        "fin": "01:29:19.470",
+        "texto": "veríais como un rayo, como si ella misma se transformara en un rayo. Y veis que"
+      },
+      "entidades": [
+        "Happy Bonnie / Bonny (grafía provisional)",
+        "Moneda pirata de Bonnie",
+        "Compañero combatiente de Bonnie (sin nombre)",
+        "Patata / Patatamán (grafía provisional)"
+      ],
+      "ambito": "intervención observada",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se identifica al oficial ni el origen de los poderes más allá de su relación observada con la moneda."
+    },
+    {
+      "id": "32-015",
+      "titulo": "Rayos de Bonnie y huida del general",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "El general intenta retroceder mientras los soldados atacan a Bonnie. Ella lanza un rayo encadenado entre varios enemigos y pide ayuda para expulsar a los marines. El general reúne a algunos soldados y comienza a escapar.",
+      "inicio": "01:31:00.000",
+      "fin": "01:43:30.000",
+      "cita": "empieza a escapar",
+      "evidencia_cue": {
+        "inicio": "01:42:39.480",
+        "fin": "01:42:44.550",
+        "texto": "empieza, [ __ ] sea, vamos, vamos, y empieza a escapar."
+      },
+      "entidades": [
+        "Happy Bonnie / Bonny (grafía provisional)",
+        "General aviar de Marina (sin nombre)",
+        "Marina"
+      ],
+      "ambito": "derrota de mando",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No matan, capturan o interrogan al general."
+    },
+    {
+      "id": "32-016",
+      "titulo": "Eleanor cae y es curada",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Los ataques derriban a Eleanor. Patata se aproxima y la cura; la escudera vuelve a curarla. Eleanor se levanta y utiliza treinta puntos de imposición de manos sobre sí misma. Después invoca un arma espiritual.",
+      "inicio": "01:48:00.000",
+      "fin": "01:57:30.000",
+      "cita": "clavas rodilla en el suelo",
+      "evidencia_cue": {
+        "inicio": "01:51:06.239",
+        "fin": "01:51:09.229",
+        "texto": "ves que clavas rodilla en el suelo y te"
+      },
+      "entidades": [
+        "Eleanor de Aragón / Roosevelt (grafía e identidad nominal por aclarar)",
+        "Patata / Patatamán (grafía provisional)",
+        "Eri / Maya (escudera kender, grafía provisional)"
+      ],
+      "ambito": "caída y recuperación",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Cae a cero y se recupera, sin morir ni resucitar."
+    },
+    {
+      "id": "32-017",
+      "titulo": "Shiaru resiste invasión",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "La escudera mata a un enemigo con palabra radiante. El compañero de Bonnie mata a un capitán y Luna elimina al último marine cercano. Fuera, otros sueltan las armas y huyen, incluso hacia el mar, perseguidos por piratas. Bonnie felicita a Patata y Luna y agradece la defensa.",
+      "inicio": "01:58:00.000",
+      "fin": "02:04:30.000",
+      "cita": "sueltan las armas",
+      "evidencia_cue": {
+        "inicio": "02:02:01.360",
+        "fin": "02:02:03.030",
+        "texto": "salir corriendo algunos barines, pues empiezan a gritar, sueltan las armas,"
+      },
+      "entidades": [
+        "Shiaru",
+        "Marina",
+        "Happy Bonnie / Bonny (grafía provisional)",
+        "Lunaria / Luna",
+        "Patata / Patatamán (grafía provisional)",
+        "Eri / Maya (escudera kender, grafía provisional)"
+      ],
+      "ambito": "resultado del asalto",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se conoce la cifra total de víctimas ni se elimina a la Marina de la isla."
+    },
+    {
+      "id": "32-018",
+      "titulo": "Trato roto y control de Bonnie",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Bonnie exige obediencia a las recién llegadas y supervisar sus acciones. Amenaza con colgarlas como al cocodrilo si incumplen. Afirma que le gusta Shiaru como es y que tenían un acuerdo con la Marina, pero una intromisión provocó la guerra. La narración describe una mirada relacionada con Nox. La escudera promete pedir aprobación previa.",
+      "inicio": "02:04:00.000",
+      "fin": "02:08:30.000",
+      "cita": "teníamos un trato",
+      "evidencia_cue": {
+        "inicio": "02:06:59.440",
+        "fin": "02:07:01.910",
+        "texto": "Ah, la marina. No, como ya te he dicho, esto es debido, teníamos un trato, pero"
+      },
+      "entidades": [
+        "Happy Bonnie / Bonny (grafía provisional)",
+        "Eleanor de Aragón / Roosevelt (grafía e identidad nominal por aclarar)",
+        "Eri / Maya (escudera kender, grafía provisional)",
+        "Nox",
+        "Marina"
+      ],
+      "ambito": "conversación de poscombate",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Es la versión de Bonnie. El diálogo no explica los términos del acuerdo ni demuestra una causa exclusiva de la guerra."
+    },
+    {
+      "id": "32-019",
+      "titulo": "Recompensas y paradero de Citlali",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Bonnie entrega jade a cada uno de los cuatro defensores. Patata pregunta por Citlali, a quien no ve desde hace días y que cuidaba un huevo. Bonnie no sabe dónde está; menciona que Nox la buscaba y cree haberla visto salir. El saqueo da a Patata una poción grande, pociones pequeñas a Luna y la escudera, veintisiete monedas adicionales a la escudera y una poción y una perla a Eleanor.",
+      "inicio": "02:08:00.000",
+      "fin": "02:12:40.000",
+      "cita": "cuidando al huevo",
+      "evidencia_cue": {
+        "inicio": "02:08:51.119",
+        "fin": "02:08:55.149",
+        "texto": "Estaba cuidando al huevo de de Silali y"
+      },
+      "entidades": [
+        "Happy Bonnie / Bonny (grafía provisional)",
+        "Patata / Patatamán (grafía provisional)",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Huevo criado por Mamá",
+        "Nox",
+        "Lunaria / Luna",
+        "Eri / Maya (escudera kender, grafía provisional)",
+        "Eleanor de Aragón / Roosevelt (grafía e identidad nominal por aclarar)"
+      ],
+      "ambito": "recompensa y pregunta",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Las bromas sobre Nox no confirman daño a Citlali. Las joyas todavía no se venden."
+    },
+    {
+      "id": "32-020",
+      "titulo": "Bonnie devuelve moneda a Pix y sale",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "En la escena final de la taberna, Bonnie vuelve a activar las chispas de la moneda y la lanza a Pix, que la guarda. Dice a su compañero que la situación empeora y que hará algo con Mamá. Sale por un escondrijo secreto y se aleja de Shiaru siguiendo la costa.",
+      "inicio": "02:12:00.000",
+      "fin": "02:14:30.000",
+      "cita": "Voy a hacer algo con mamá",
+      "evidencia_cue": {
+        "inicio": "02:12:57.159",
+        "fin": "02:12:59.430",
+        "texto": "peleando. Voy a hacer algo con mamá."
+      },
+      "entidades": [
+        "Happy Bonnie / Bonny (grafía provisional)",
+        "Pix",
+        "Moneda pirata de Bonnie",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Compañero combatiente de Bonnie (sin nombre)"
+      ],
+      "ambito": "escena reservada al espectador",
+      "conocedores": [
+        "Happy Bonnie / Bonny (grafía provisional)",
+        "Pix",
+        "Compañero combatiente de Bonnie (sin nombre)"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Los personajes han terminado la conversación y no oyen automáticamente el plan ni conocen el escondrijo. No se precisa qué pretende hacer."
+    }
+  ]
+}

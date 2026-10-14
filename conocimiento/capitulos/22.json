@@ -1,0 +1,585 @@
+{
+  "capitulo": 22,
+  "estado_revision": "revisado",
+  "resumen": "Cuicapalli celebra un festival. Axi llega después de perderse; Mamá sigue soñando con serpientes y observando su rejuvenecimiento. Ayoto ha entrenado a los guardias y cazado para abastecer el pueblo, por lo que está agotado. Se presenta Guayacán, un hombre de aspecto aviar que declara pertenecer al linaje Pinayu, de grafía provisional. Los viajeros ayudan con las guirnaldas y participan en concursos. Se confirma una plantación de cáñamo al norte. Ayoto gana el concurso de comer dinosaurio, comparte el corazón y recibe un caparazón de tortuga de Eromov. Guayacán gana la carrera y una obsidiana pese a las distracciones de Pinky y los sabotajes de Ayoto y Axi. Mamá percibe una presencia semejante a serpientes en dos visitantes y organiza su vigilancia. Una obliga mentalmente a Axi a dejar de seguirla durante ocho horas. Mamá resiste otra influencia y revela con sus disparos a una mujer serpiente disfrazada de felina. Guayacán la mata. Otros yuan-ti salen del agua y la maleza, matan a un aldeano y abaten a Axi. Un jefe tentacular exige a Mamá un collar, dispara rayos de fuerza e intenta dejarla inconsciente, sin éxito. El chat cura a Axi. El estallido de miedo de Mamá afecta también a Guayacán. El grupo, Pinky y los guardias eliminan a los invasores; el jefe explota y causa daño de veneno. Eromov recuerda que Blink llevaba el collar y concluye que corre peligro. Debate con Ayoto sobre los enemigos serpiente y el concilio de Tutucan. Axi obtiene un arco venenoso más uno, con tres cargas. Guayacán come chocolate y alucina durante tres horas. Los guardias retiran los cadáveres y el líder ofrece descanso.",
+  "misiones": [
+    "Celebrar el festival de Cuicapalli: preparan las luces. Ayoto gana el concurso de comida y un caparazón; Guayacán gana la carrera y una obsidiana. La invasión interrumpe otras pruebas (22-002–22-008).",
+    "Defender la aldea: descubren a las infiltradas, que matan a un aldeano. El grupo y los guardias eliminan a los invasores y descubren que buscan el collar. Todavía no avisan a Blink (22-009–22-018).",
+    "Preparar el concilio y el contacto con el norte: Eromov espera a Naór. Ayoto ofrece ayuda de su pueblo, pero necesita encontrarlo y organizar una expedición (22-020)."
+  ],
+  "preguntas": [
+    "¿Cómo se infiltraron en la aldea y por qué preguntan a Mamá por el collar que tiene Blink? (22-011–22-018).",
+    "¿Qué descubrirá Blink sobre la amenaza y recibirá el aviso? (22-018).",
+    "¿Cuál es la especie y el linaje de Guayacán? ¿Va disfrazado de ave o es un aracocra? La fuente mantiene la ambigüedad (22-002 y 22-005).",
+    "¿Cómo organizarán la expedición al norte y el concilio pendiente? (22-020)."
+  ],
+  "contradicciones": [
+    "Guayacán es un personaje masculino, aunque aparezcan pronombres de su jugadora. El género de la intérprete no cambia el del personaje (22-002 y 22-014).",
+    "La fruta permite a Mamá no fallar salvaciones de muerte durante la sesión. No establece una inmortalidad sin límites (22-007).",
+    "Durante ocho horas, Axi no puede seguir a la infiltrada por la orden recibida, pero conserva otras acciones (22-010).",
+    "El marcador que muestra a Guayacán caído se corrige porque estaba fuera de la explosión. No hay muerte ni curación invisible (22-015).",
+    "Se aclara que la explosión del jefe causa veneno, tras mencionarse ácido. Los enemigos presentes son inmunes (22-015).",
+    "Blink tiene el collar aunque los atacantes se lo exijan a Mamá. La exigencia no implica un cambio de custodia (22-013 y 22-018)."
+  ],
+  "nombres_dudosos": [
+    "Guayacán/Guayacá/Huayán/Yahuayacán es un nuevo personaje masculino. Pinayu/Pinoyu/Espinayú son grafías fonéticas de su linaje. Llama María y José a sus puños como nombres humorísticos.",
+    "Tacha es el tabernero hiena, distinto del personaje Tlachka, aunque algunas lecturas produzcan Tlacha.",
+    "No se nombran las infiltradas, el jefe ni el aldeano muerto. Se identifican como yuan-ti por la continuidad y los rasgos, pero no se adjudican sus subespecies mecánicas."
+  ],
+  "fuente_sha256": "a332b954167fd3a9642912a9d875561ed5084b553036b1c81558751514f008ba",
+  "afirmaciones": [
+    {
+      "id": "22-001",
+      "titulo": "Descansos y daño de bienvenida",
+      "tipo": "explicacion_director",
+      "afirmacion": "El chat inflige cuatro puntos de daño al grupo. Axi relata que teme a las serpientes y que ha vagado por la selva desde el capítulo 20. Mamá cuenta sus sueños con serpientes y que se ve más joven; pierde una moneda de oro y recibe once por una carta. Ayoto ha entrenado a los soldados y cazado para abastecer el pueblo. Empieza con un nivel de agotamiento.",
+      "inicio": "00:10:00.000",
+      "fin": "00:15:55.000",
+      "cita": "un puntito de cansancio",
+      "evidencia_cue": {
+        "inicio": "00:14:49.839",
+        "fin": "00:14:52.550",
+        "texto": "parece que empezarás con un puntito de cansancio,"
+      },
+      "entidades": [
+        "Axi / Chochi (identificación contextual provisional)",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Ayoto / Ayuto (grafía provisional)",
+        "Cuicapalli"
+      ],
+      "ambito": "descanso adjudicado",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": ""
+    },
+    {
+      "id": "22-002",
+      "titulo": "Festival y Guayacán presentado",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Baton y Nelli preparan un festival con juegos y premios, no un sacrificio. Ayoto ayuda con las luces y lanza chocolate a Pinky, que lo guarda. Guayacán llega con aspecto de aracocra o un disfraz no identificado. Declara su linaje Pinayu y llama María y José a sus puños. El guardia lo admite después de guardar sus armas. Nelli le entrega cajas para ayudar a Ayoto.",
+      "inicio": "00:16:00.000",
+      "fin": "00:26:55.000",
+      "cita": "inolvidable Guayacán",
+      "evidencia_cue": {
+        "inicio": "00:22:38.200",
+        "fin": "00:22:40.110",
+        "texto": "el inolvidable Guayacán."
+      },
+      "entidades": [
+        "Baton (nativo rescatado, grafía provisional)",
+        "Nelli (nativa rescatada, grafía provisional)",
+        "Ayoto / Ayuto (grafía provisional)",
+        "Pinky",
+        "Guayacán (grafía provisional)",
+        "Pinayu (linaje de Guayacán, grafía provisional)",
+        "Festival de Cuicapalli"
+      ],
+      "ambito": "presentación y preparación",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Su aspecto aviar es observable, pero el fallo posterior de percepción no aclara su especie o disfraz. No recibe autógrafos que demuestren una fama anterior."
+    },
+    {
+      "id": "22-003",
+      "titulo": "Choque con Pinky y luces colocadas",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Pinky ataca a Guayacán con un palo al verlo como un pájaro. Ayoto intenta apartarlo con el escudo, falla y cae. Mamá calma la situación. Ayoto y Guayacán compiten mostrando sus músculos, con resultados bajos en las tiradas. Guayacán coloca guirnaldas saltando por el techo. Una carta, representada por las monedas de Pinky, entrega ochenta y cinco monedas de oro a Ayoto.",
+      "inicio": "00:26:00.000",
+      "fin": "00:36:55.000",
+      "cita": "85 monedas de oro",
+      "evidencia_cue": {
+        "inicio": "00:36:18.760",
+        "fin": "00:36:20.790",
+        "texto": "hacer falta. Vale, súmate 85 monedas de oro que te han"
+      },
+      "entidades": [
+        "Pinky",
+        "Guayacán (grafía provisional)",
+        "Ayoto / Ayuto (grafía provisional)",
+        "Mamá / Citlali (identificación contextual provisional)"
+      ],
+      "ambito": "preparativos y rivalidad",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": ""
+    },
+    {
+      "id": "22-004",
+      "titulo": "Plantación y chocolate ritual",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Pinky muestra el tercio norte de Cuicapalli como una plantación de cáñamo establecida en juego previo. Señala que Mamá prepara chocolate con las plantas. Mamá lo presenta como un recurso ancestral para hablar con los dioses. Ayoto pide advertencias y cuidado con las palabras; discuten sobre la ayuda y la religión.",
+      "inicio": "00:36:00.000",
+      "fin": "00:39:55.000",
+      "cita": "una plantación de Cañam",
+      "evidencia_cue": {
+        "inicio": "00:36:51.440",
+        "fin": "00:36:53.910",
+        "texto": "más al norte, que básicamente es una plantación de Cañam ahora mismo porque"
+      },
+      "entidades": [
+        "Pinky",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Ayoto / Ayuto (grafía provisional)",
+        "Plantación de cáñamo de Cuicapalli",
+        "Chocolate de Mamá"
+      ],
+      "ambito": "cultivo y interpretación religiosa",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Las alucinaciones adjudicadas mecánicamente no demuestran un contacto divino literal por la declaración comercial o religiosa."
+    },
+    {
+      "id": "22-005",
+      "titulo": "Axi llega y Guayacán come fresas",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Axi llega perdido al anochecer y reconoce a Mamá y Ayoto. Intercambian bromas insultantes y advertencias. Tacha trae un enorme dinosaurio cocinado para el concurso. Guayacán se declara herbívoro y Pinky crea fresas mágicas. Ayoto propone a Pinky que lo adiestre y venda a los piratas, sin que Guayacán consienta ni se produzca una venta. Él recoge las frutas que le lanzan.",
+      "inicio": "00:40:00.000",
+      "fin": "00:52:55.000",
+      "cita": "yo no soy carnívoro",
+      "evidencia_cue": {
+        "inicio": "00:50:59.920",
+        "fin": "00:51:03.470",
+        "texto": "Justamente le estoy consultando para saber. Mira, yo no soy carnívoro, soy"
+      },
+      "entidades": [
+        "Axi / Chochi (identificación contextual provisional)",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Ayoto / Ayuto (grafía provisional)",
+        "Guayacán (grafía provisional)",
+        "Pinky",
+        "Tacha (tabernero hiena, grafía provisional)"
+      ],
+      "ambito": "llegada y comida",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": ""
+    },
+    {
+      "id": "22-006",
+      "titulo": "Ayoto gana el banquete y un caparazón",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Ayoto come el dinosaurio en una competición contra Tacha, Baton y Nelli. Alcanza el corazón y gana. Lo comparte con el pueblo como símbolo de fuerza y hogar. Eromov le entrega como premio un gran caparazón de tortuga y explica que aprovecharon el cadáver años atrás. Ayoto lo acepta.",
+      "inicio": "00:53:00.000",
+      "fin": "01:02:55.000",
+      "cita": "has sido tú el vencedor",
+      "evidencia_cue": {
+        "inicio": "00:59:48.720",
+        "fin": "00:59:53.270",
+        "texto": "\"Así que el Goliat, has sido tú el vencedor, el que has comido más carne,"
+      },
+      "entidades": [
+        "Ayoto / Ayuto (grafía provisional)",
+        "Tacha (tabernero hiena, grafía provisional)",
+        "Baton (nativo rescatado, grafía provisional)",
+        "Nelli (nativa rescatada, grafía provisional)",
+        "Eromov (líder de Cuicapalli, grafía provisional)",
+        "Caparazón de tortuga de Ayoto"
+      ],
+      "ambito": "competición y premio",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se adjudica una transferencia mecánica de la fuerza del dinosaurio por comer su corazón."
+    },
+    {
+      "id": "22-007",
+      "titulo": "Frutas del festival",
+      "tipo": "explicacion_director",
+      "afirmacion": "Las frutas hacen brillar a Axi y le dan ventaja en carisma y desventaja en sigilo. Ayoto obtiene ojos amarillos y visión en la oscuridad. Pol aclara que el efecto sobre las armas pesadas de Guayacán no afecta a sus puños. Mamá no falla salvaciones de muerte durante la partida y Pinky obtiene una cola prensil. Preparan la carrera y Ayoto lleva a Pinky.",
+      "inicio": "01:03:00.000",
+      "fin": "01:07:55.000",
+      "cita": "No puedes fallar tus tiradas de muerte",
+      "evidencia_cue": {
+        "inicio": "01:06:01.279",
+        "fin": "01:06:03.630",
+        "texto": "No puedes fallar tus tiradas de muerte,"
+      },
+      "entidades": [
+        "Axi / Chochi (identificación contextual provisional)",
+        "Ayoto / Ayuto (grafía provisional)",
+        "Guayacán (grafía provisional)",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Pinky"
+      ],
+      "ambito": "efectos temporales",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "El efecto de la fruta sobre las salvaciones durante la sesión no convierte a Mamá en inmortal frente a todo daño."
+    },
+    {
+      "id": "22-008",
+      "titulo": "Guayacán gana una carrera con sabotajes",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Guayacán toma la delantera en la carrera. Pinky hace crecer fresas para distraerlo, pero él resiste. Axi miente sobre una presa jugosa para distraer a Ayoto. Este golpea a Axi con Sentinel y lo retrasa. Guayacán utiliza ki, gana y recibe una obsidiana. Baton y Nelli quedan agotados. Guayacán presume y Ayoto discute sobre la fuerza.",
+      "inicio": "01:07:00.000",
+      "fin": "01:19:55.000",
+      "cita": "el primero en pasar por esa línea de meta",
+      "evidencia_cue": {
+        "inicio": "01:15:04.280",
+        "fin": "01:15:06.510",
+        "texto": "bastante ventaja y es bueno el primero en pasar por esa línea de meta. Y veis"
+      },
+      "entidades": [
+        "Guayacán (grafía provisional)",
+        "Pinky",
+        "Axi / Chochi (identificación contextual provisional)",
+        "Ayoto / Ayuto (grafía provisional)",
+        "Baton (nativo rescatado, grafía provisional)",
+        "Nelli (nativa rescatada, grafía provisional)",
+        "Festival de Cuicapalli"
+      ],
+      "ambito": "carrera y premio",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": ""
+    },
+    {
+      "id": "22-009",
+      "titulo": "Mamá identifica dos sospechosas y vigila",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Mamá percibe una presencia semejante a serpientes, oye cascabeles y ve a dos visitantes extrañas que se apartan. Silba a Axi con una señal antigua y le ordena vigilar a una al norte mientras ella sigue a la otra al sur. Ayoto y Guayacán notan su seriedad y se dividen para ayudar. Mamá se oculta; Axi no consigue actuar con sigilo porque brilla y va acompañado.",
+      "inicio": "01:20:00.000",
+      "fin": "01:31:55.000",
+      "cita": "dos personitas",
+      "evidencia_cue": {
+        "inicio": "01:24:30.719",
+        "fin": "01:24:33.990",
+        "texto": "dos personitas que no como que no están muy"
+      },
+      "entidades": [
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Axi / Chochi (identificación contextual provisional)",
+        "Ayoto / Ayuto (grafía provisional)",
+        "Guayacán (grafía provisional)",
+        "Infiltradas serpiente del festival"
+      ],
+      "ambito": "detección y coordinación",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": ""
+    },
+    {
+      "id": "22-010",
+      "titulo": "Axi deja de seguir a la infiltrada y Mamá resiste",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "La mujer gato del norte habla mentalmente a Axi y le ordena dejar de seguirla. Él obedece durante ocho horas, aunque puede realizar otras acciones. Guayacán la interroga sin descubrir la mentira. Mamá lanza una flecha de advertencia a la otra visitante, que sisea e intenta influir en su mente. Mamá resiste y continúa amenazándola con el arco. El grupo converge.",
+      "inicio": "01:32:00.000",
+      "fin": "01:42:55.000",
+      "cita": "8 horas",
+      "evidencia_cue": {
+        "inicio": "01:40:59.360",
+        "fin": "01:40:59.990",
+        "texto": "voz o ya retomé conciencia. No, no. 8 horas."
+      },
+      "entidades": [
+        "Axi / Chochi (identificación contextual provisional)",
+        "Guayacán (grafía provisional)",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Infiltradas serpiente del festival"
+      ],
+      "ambito": "influencia y vigilancia",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La orden no controla todas sus acciones ni hipnotiza permanentemente a Axi."
+    },
+    {
+      "id": "22-011",
+      "titulo": "Disfraz revelado y primer infiltrado muerto",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Mamá dispara a la visitante cuando se aproxima. Su aspecto felino se desfigura y revela una mujer escamada, con los ojos serpentinos de sus sueños. Guayacán la golpea, la aturde y la mata con cuatro puñetazos. Otra atacante desciende y mata a un aldeano con el arco.",
+      "inicio": "01:43:00.000",
+      "fin": "01:52:15.000",
+      "cita": "mata a un a un pobre aldeano",
+      "evidencia_cue": {
+        "inicio": "01:51:56.520",
+        "fin": "01:51:58.910",
+        "texto": "Sí, sí. Le va le va a pegar y veis que mata a un a un pobre aldeano que había"
+      },
+      "entidades": [
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Guayacán (grafía provisional)",
+        "Infiltradas serpiente del festival",
+        "Aldeano asesinado del festival (sin nombre)"
+      ],
+      "ambito": "identidad revelada y asesinato",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "El aldeano muerto no tiene nombre. Que Nelli y Baton participen en el festival no permite identificarlo con ninguno de ellos."
+    },
+    {
+      "id": "22-012",
+      "titulo": "Arqueros y monstruosidades abaten a Axi",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Una cabeza de serpiente emerge del agua y dispara una flecha venenosa a Axi. Él saquea el cadáver de la infiltrada y toma una poción; después una monstruosidad lo ataca. Ayoto utiliza un intercambio para proteger a Mamá con defensa adicional. Otro arquero sale de detrás de una casa y abate a Axi.",
+      "inicio": "01:52:00.000",
+      "fin": "02:01:55.000",
+      "cita": "caen los pobres chavales",
+      "evidencia_cue": {
+        "inicio": "01:59:57.760",
+        "fin": "02:00:00.669",
+        "texto": "serpiente danzar esas dos flechas y que ves que tumba, caen los pobres chavales"
+      },
+      "entidades": [
+        "Axi / Chochi (identificación contextual provisional)",
+        "Ayoto / Ayuto (grafía provisional)",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Yuan-ti",
+        "Arqueros serpiente del festival"
+      ],
+      "ambito": "combate y caída",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": ""
+    },
+    {
+      "id": "22-013",
+      "titulo": "El jefe exige el collar y Mamá provoca miedo",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Otra visitante se transforma en una serpiente con brazos tentaculares. Pregunta telepáticamente a Mamá dónde está el collar y dispara dos rayos de fuerza. El grupo combate y el chat cura cinco puntos, levantando a Axi. Tras un fallo de ataque de Mamá, Pol adjudica un estallido de temor: dos cabezas de serpiente y Guayacán le temen, mientras Axi y Ayoto resisten. El jefe intenta apartar a Ayoto mediante una orden, sin éxito. Pinky se incorpora.",
+      "inicio": "02:00:00.000",
+      "fin": "02:14:55.000",
+      "cita": "dónde está el collar",
+      "evidencia_cue": {
+        "inicio": "02:01:07.400",
+        "fin": "02:01:08.910",
+        "texto": "cabeza y ves que te dice, ¿dónde está el collar?"
+      },
+      "entidades": [
+        "Jefe serpiente tentacular del festival",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Ayoto / Ayuto (grafía provisional)",
+        "Axi / Chochi (identificación contextual provisional)",
+        "Guayacán (grafía provisional)",
+        "Pinky",
+        "Collar serpiente de charca"
+      ],
+      "ambito": "objetivo enemigo y temor",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Que los enemigos pregunten a Mamá no demuestra que tenga el collar: lo conserva Blink desde el capítulo 19. Axi recibe curación estando vivo; no resucita."
+    },
+    {
+      "id": "22-014",
+      "titulo": "Reagrupación y conjuro contra Mamá",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Guayacán intenta salir del campo visual de Mamá para evitar el temor. Ayoto combate; Axi se teletransporta, se levanta y mata a un atacante. Mamá concentra sus golpes en el jefe. Otro ataque del tentacular intenta dejarla inconsciente mediante una salvación de constitución, pero ella resiste. Pinky cura a Ayoto.",
+      "inicio": "02:15:00.000",
+      "fin": "02:27:55.000",
+      "cita": "te caías inconsciente",
+      "evidencia_cue": {
+        "inicio": "02:26:55.399",
+        "fin": "02:26:58.030",
+        "texto": "pinches serpientes me te ca te caías inconsciente. [risas]"
+      },
+      "entidades": [
+        "Guayacán (grafía provisional)",
+        "Ayoto / Ayuto (grafía provisional)",
+        "Axi / Chochi (identificación contextual provisional)",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Jefe serpiente tentacular del festival",
+        "Pinky"
+      ],
+      "ambito": "combate y resistencia",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "El conjuro falla, por lo que Mamá no queda inconsciente."
+    },
+    {
+      "id": "22-015",
+      "titulo": "La explosión del jefe causa veneno",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Ayoto utiliza una carga del caparazón para sujetar al jefe, que responde con daño de fuego. Otra serpiente le ordena soltarlo y Ayoto lo libera. Mamá mata al tentacular, que explota y causa diecisiete puntos de daño de veneno a su alrededor. Las serpientes son inmunes. La interfaz muestra por error a Guayacán caído, aunque estaba fuera del alcance. Pol corrige su estado a ocho puntos de vida. Guayacán mata a una monstruosidad y toma una poción. Pinky cura y falla un disparo con la pistola que le entregó Luna.",
+      "inicio": "02:28:00.000",
+      "fin": "02:41:55.000",
+      "cita": "recibís todos 17 daño de veneno",
+      "evidencia_cue": {
+        "inicio": "02:38:10.760",
+        "fin": "02:38:13.190",
+        "texto": "ácido, bueno, en veneno, y recibís todos 17 daño de veneno los que estáis a su"
+      },
+      "entidades": [
+        "Ayoto / Ayuto (grafía provisional)",
+        "Caparazón de tortuga de Ayoto",
+        "Jefe serpiente tentacular del festival",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Guayacán (grafía provisional)",
+        "Pinky",
+        "Lunaria / Luna"
+      ],
+      "ambito": "muerte y represalia",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "El marcador corregido no confirma la muerte de Guayacán. La inmunidad de los enemigos de este combate no demuestra que todos los yuan-ti sean universalmente inmunes al veneno."
+    },
+    {
+      "id": "22-016",
+      "titulo": "Axi mata a una arquera y continúa la defensa",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Ayoto se cura y combate. Axi intenta utilizar raíces y dispara. Mamá golpea y Pinky vuelve a curar. Guayacán emplea su movilidad y ki para acercarse pese al miedo. Ayoto reacciona con Sentinel cuando atacan a un aliado. Axi mata a una atacante de arco y vuelve a disparar, utilizando precisión con diez puntos adicionales de daño.",
+      "inicio": "02:42:00.000",
+      "fin": "02:56:55.000",
+      "cita": "te has matado a uno",
+      "evidencia_cue": {
+        "inicio": "02:56:16.760",
+        "fin": "02:56:17.790",
+        "texto": "pasa turno ya. Si has hecho dos ataques y si te has matado a uno. ¿Qué más"
+      },
+      "entidades": [
+        "Ayoto / Ayuto (grafía provisional)",
+        "Axi / Chochi (identificación contextual provisional)",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Guayacán (grafía provisional)",
+        "Pinky",
+        "Arqueros serpiente del festival"
+      ],
+      "ambito": "defensa del pueblo",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": ""
+    },
+    {
+      "id": "22-017",
+      "titulo": "Pinky quema a un enemigo y Ayoto lo remata",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Pinky utiliza manos ardientes, mata a una serpiente y quema a Ayoto. Guayacán, Ayoto, Axi y Mamá combaten contra el último enemigo. Ayoto reacciona colocando su escudo cuando atacan a Mamá y lo mata. Los guardias también combaten y eliminan a los invasores en otras zonas. Eromov pregunta qué buscaban.",
+      "inicio": "02:57:00.000",
+      "fin": "03:07:55.000",
+      "cita": "acabas matándolo",
+      "evidencia_cue": {
+        "inicio": "03:06:00.960",
+        "fin": "03:06:04.950",
+        "texto": "otro mete el escudo por delante y acabas matándolo."
+      },
+      "entidades": [
+        "Pinky",
+        "Ayoto / Ayuto (grafía provisional)",
+        "Guayacán (grafía provisional)",
+        "Axi / Chochi (identificación contextual provisional)",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Eromov (líder de Cuicapalli, grafía provisional)",
+        "Guardias de Cuicapalli"
+      ],
+      "ambito": "fin del ataque",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": ""
+    },
+    {
+      "id": "22-018",
+      "titulo": "Blink en peligro y arco venenoso",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Mamá explica que buscaban el collar recuperado. Eromov recuerda que Blink lo llevó y concluye que corre peligro. Ayoto pide no divulgar quién lo tiene porque puede haber enemigos ocultos. Guayacán no encuentra supervivientes. Axi obtiene un arco más uno al ataque y al daño, con tres cargas para lanzar una flecha que envenena si impacta y el objetivo falla la salvación de constitución. Según el balance final, recupera dos flechas.",
+      "inicio": "03:07:00.000",
+      "fin": "03:10:55.000",
+      "cita": "Entonces, Link está en peligro",
+      "evidencia_cue": {
+        "inicio": "03:08:24.279",
+        "fin": "03:08:25.870",
+        "texto": "estas cosas. Entonces, Link está en peligro."
+      },
+      "entidades": [
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Eromov (líder de Cuicapalli, grafía provisional)",
+        "Blink / Blank",
+        "Collar serpiente de charca",
+        "Ayoto / Ayuto (grafía provisional)",
+        "Guayacán (grafía provisional)",
+        "Axi / Chochi (identificación contextual provisional)",
+        "Arco venenoso de Axi"
+      ],
+      "ambito": "consecuencia y botín",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Mamá no recibe el collar en este capítulo y todavía no se transmite la advertencia a Blink."
+    },
+    {
+      "id": "22-019",
+      "titulo": "Guayacán alucina aves por chocolate",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Pinky introduce en la boca de Guayacán el chocolate que guardaba de Ayoto. Él supera la salvación de constitución, pero Pol le adjudica tres horas de alucinaciones agradables con aves y su linaje. Imita el vuelo saltando por los árboles y cae; no se demuestra que vuele realmente.",
+      "inicio": "03:11:00.000",
+      "fin": "03:14:55.000",
+      "cita": "durante [resoplido] 3 horas",
+      "evidencia_cue": {
+        "inicio": "03:13:22.840",
+        "fin": "03:13:25.550",
+        "texto": "durante [resoplido] 3 horas vas a estar, digamos,"
+      },
+      "entidades": [
+        "Pinky",
+        "Guayacán (grafía provisional)",
+        "Ayoto / Ayuto (grafía provisional)",
+        "Chocolate de Mamá"
+      ],
+      "ambito": "intoxicación",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "En esta escena hay alucinaciones aunque se supere la tirada, a diferencia de los detalles de fracasos anteriores. No se confirma un regreso real de sus ancestros."
+    },
+    {
+      "id": "22-020",
+      "titulo": "Antigua enemistad y concilio pendiente",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Ayoto pide exhibir los cadáveres como advertencia. Eromov responde que los enemigos serpiente son poderosos desde generaciones muy antiguas y que podría enfurecerlos. Espera que Naór contacte con los pueblos para reunirse en Tutucan. Ayoto pide una expedición al norte para contactar con su gente, pues no encuentra el camino. El líder ofrece aposentos para descansar y los guardias retiran los cadáveres fuera del poblado.",
+      "inicio": "03:15:00.000",
+      "fin": "03:20:55.000",
+      "cita": "de antes de las generaciones antiguas",
+      "evidencia_cue": {
+        "inicio": "03:16:26.080",
+        "fin": "03:16:28.950",
+        "texto": "nuestros enemigos desde hace, bueno, de antes de las generaciones antiguas."
+      },
+      "entidades": [
+        "Ayoto / Ayuto (grafía provisional)",
+        "Eromov (líder de Cuicapalli, grafía provisional)",
+        "Naór Tarcan (grafía provisional)",
+        "Tutucan",
+        "Yuan-ti",
+        "Cuicapalli"
+      ],
+      "ambito": "política y cierre",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se ejecuta la expedición al norte, no se celebra el concilio ni se demuestra que todos los pueblos estén unidos."
+    }
+  ]
+}

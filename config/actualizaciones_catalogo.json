@@ -1,0 +1,28 @@
+{
+  "grupos": [
+    {
+      "nombre": "Mingo",
+      "tipo": "personaje",
+      "etiquetas": ["Mingo (pirata buscado, grafía provisional)"],
+      "descripcion": "Hipopótamo de la tripulación de Nox, buscado tras su llegada a Xoltacan y reencontrado entre los caníbales.",
+      "nota": "Nox reconoce a Mingo, Mango y Mungo como sus tripulantes en el capítulo 33. Relatan que cayeron por la borda antes de llegar a la isla. Esa identificación conecta la búsqueda del capítulo 12 con el reencuentro; no se narra una transformación de especie.",
+      "referencias": ["12-009", "33-016", "33-019", "34-003"]
+    },
+    {
+      "nombre": "Mango",
+      "tipo": "personaje",
+      "etiquetas": ["Mango (pirata buscado, grafía provisional)"],
+      "descripcion": "Hipopótamo de la tripulación de Nox, reencontrado junto a Mingo y Mungo y devuelto al entorno del Zampaolas.",
+      "nota": "La identificación de Nox en el capítulo 33 vincula a Mango con el tripulante buscado antes. Las menciones del trío no permiten asignar a Mango cada acción individual de un hipopótamo sin nombre.",
+      "referencias": ["12-009", "33-016", "33-019", "34-003"]
+    },
+    {
+      "nombre": "Mungo",
+      "tipo": "personaje",
+      "etiquetas": ["Tercer pirata buscado por Nox (sin nombre claro)"],
+      "descripcion": "Tercer hipopótamo del grupo de tripulantes reencontrado por Nox junto a Mingo y Mango.",
+      "nota": "El capítulo 12 deja sin nombre claro al tercer compañero buscado. En el capítulo 33, Nox reconoce al trío Mingo, Mango y Mungo como su tripulación. La correspondencia del tercero se establece por esa continuidad, sin atribuirle por separado las acciones anónimas del grupo.",
+      "referencias": ["12-009", "33-016", "33-019", "34-003"]
+    }
+  ]
+}

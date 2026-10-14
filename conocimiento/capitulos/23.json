@@ -1,0 +1,516 @@
+{
+  "capitulo": 23,
+  "estado_revision": "revisado",
+  "resumen": "Kilzer prepara el casino y descubre que han robado botellas. Ione reúne un grupo de rescate tras recibir una carta de Nox, capturado al visitar a Molly. Mamá vuelve por el huevo y Poncelot quiere interpretar el mapa Slaz. Jack Jackson regresa de Puerto de Espadas buscando a Nox. Ione, Poncelot, Mamá y Kilzer llegan después de varios días a Fuerte Aurora. Nox está vendado, amordazado y encadenado en la prisión subterránea. Manipula al carcelero y se libera con herramientas ocultas en sus trenzas al oír que Ione ha sido capturada. Los rescatadores utilizan chocolate para despejar la entrada: un tiburón mata a un guardia que cae al agua, Ione deja a otro inconsciente y un tercer guardia y su perro quedan intoxicados. Mamá consigue la amistad de varios perros. Kilzer se infiltra disfrazado de marine y Poncelot entrega a Ione como una prisionera fingida. Molly sospecha y ofrece entre doscientos cincuenta mil y trescientos cincuenta mil monedas de oro, sin pagarlas. Mamá llega al despacho como supuesta cautiva y encanta a su guardia. Nox encuentra otros presos y una serpiente que conoce el nombre Hawkins y anuncia la llegada de una diosa. Escapa a la muralla, recupera su sombrero, arroja a dos guardias al agua y provoca una explosión de pólvora. Molly encierra a Ione y Poncelot y corre hacia la prisión. Mamá y el gnomo rompen la puerta. Nox registra el despacho, recupera su equipo y roba documentos sobre cultos serpiente y una ciudad cuyo nombre no se verbaliza. Los perros frenan a los perseguidores. La mosca evacúa a Ione, Poncelot y Mamá; Kilzer sale corriendo. Nox utiliza una ilusión y pone un galeón en marcha como distracción. Después huye en una barca hacia Shiaru, sin que se confirme su llegada.",
+  "misiones": [
+    "Rescatar a Nox: Ione reúne al grupo tras recibir su carta y llega días después a Aurora. Nox se libera por sus propios medios y facilita la salida creando distracciones. Todos abandonan la fortaleza, pero el regreso a Shiaru queda pendiente (23-001–23-017).",
+    "Investigar los documentos de Molly: Nox roba papeles sobre cultos y una ciudad cuyo nombre no se verbaliza. Recupera su equipo; el análisis completo queda pendiente (23-015).",
+    "Interpretar el mapa del capítulo 20: Poncelot ha visto a Eldrat en su cuarto y descarta que siga desaparecido. El rescate urgente impide todavía interpretar el mapa con Ione (23-001).",
+    "Reunirse con Jack: vuelve de Puerto de Espadas y busca a Nox. No informa de los resultados del cobro ni de una visita a Lucy (23-004)."
+  ],
+  "preguntas": [
+    "¿Quién es la diosa anunciada por la serpiente del foso y cómo conoce esta a Hawkins? (23-011).",
+    "¿Qué ciudad buscan los documentos? ¿Coincide con el mapa Slaz? El nombre mostrado no se verbaliza (23-015).",
+    "¿Qué símbolo espera Nox que Molly reconozca y quién es el alto cargo al que llama palomo? No se nombra literalmente a Tórtola en este capítulo (23-011 y 23-017).",
+    "¿Qué ocurre con el galeón a la deriva, los perros aliados y los otros presos? No se muestra su desenlace (23-010 y 23-016–23-017)."
+  ],
+  "contradicciones": [
+    "El herrero, llamado antes Armin, recibe aquí el nombre Peter. Coinciden el local y el oficio por contexto, pero no se explica un cambio biográfico; se conservan ambas grafías (23-003).",
+    "Kilzer rechaza la oferta final de ochenta monedas por las gemas. No se venden por ciento veinte o ciento cincuenta (23-003).",
+    "El guardia muerto por el tiburón es distinto del que Ione deja inconsciente. No se confirma la muerte de los dos guardias que Nox arroja al agua (23-006 y 23-013).",
+    "Las recompensas de doscientos cincuenta mil y trescientos cincuenta mil son ofertas que no se cobran. No aumentan la riqueza de Poncelot (23-009 y 23-012).",
+    "Nox se libera con sus herramientas antes de que los rescatadores lleguen a la prisión. No recibe una llave de ellos (23-010).",
+    "El nombre de la ciudad de los documentos no se verbaliza. El mapa del capítulo 20 no permite identificarla con Slaz con certeza (23-015).",
+    "Se corrige la propuesta de pilotar solo el galeón: Nox lo deja avanzar como distracción y huye en una barca (23-017)."
+  ],
+  "nombres_dudosos": [
+    "Jack/Jackie Jackson regresa de Puerto de Espadas. El contexto lo identifica con el pirata al que Nox encargó las gestiones, no con un nuevo personaje.",
+    "Peter/Armin son los nombres del herrero de Shiaru por identificación contextual. Se conserva la variación.",
+    "Rocky y Boby son perros distintos de Aurora. Antonio, José Luis y José Carlos son nombres de guardias que fluctúan por las bromas; no se fusionan sus biografías.",
+    "Palomo es el apelativo del alto cargo que teme Nox. No se nombra literalmente a Tórtola Jones en este capítulo.",
+    "El nombre de la ciudad de los documentos se muestra fuera de la transcripción y no se lee completo en voz alta. No puede reconstruirse sin esa imagen."
+  ],
+  "fuente_sha256": "53cfffd86e5cf7e392996cbddde8f99c1f780d2158efd3e337dafe55d7808d37",
+  "afirmaciones": [
+    {
+      "id": "23-001",
+      "titulo": "La carta de Nox impulsa el rescate",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Ione relata sus problemas de transformación y desorientación en la selva. Encuentra una carta de Nox que advierte que, si no regresa, probablemente lo hayan capturado al visitar a su ex, Molly. Busca ayuda para rescatarlo. Kilzer detecta dos botellas y la puerta del casino abiertas. Mamá recuerda el huevo y vuelve a Shiaru. Poncelot sabe que Eldrat está en su cuarto y descarta que el mapa sea una pista de su desaparición; busca a Ione para interpretarlo.",
+      "inicio": "00:00:00.000",
+      "fin": "00:06:20.000",
+      "cita": "una carta de su",
+      "evidencia_cue": {
+        "inicio": "00:02:12.599",
+        "fin": "00:02:15.150",
+        "texto": "literalmente más bien, eh se encontró con una carta de su queridísimo colega"
+      },
+      "entidades": [
+        "Ione",
+        "Nox",
+        "Molly (capitana de Marina)",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Casino de Kilzer",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Huevo de Mamá",
+        "Sir Poncelot",
+        "Eldrat (elfo hermano, grafía provisional)",
+        "Mapa Slaz del cofre (grafía provisional)"
+      ],
+      "ambito": "recapitulaciones y misión",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La captura de Nox se refiere en el relato. No se presencia aquí toda su visita ni la trampa."
+    },
+    {
+      "id": "23-002",
+      "titulo": "Equipo de rescate reunido",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Ione pide ayuda a Poncelot, Mamá y Kilzer, que acepta porque Nox es su socio. Pinky vuelve con Mamá, pero sale a buscar a Cipo, visto en la selva. Kilzer encuentra marcas metálicas en un tablón del casino. La asociación con la armadura de una visitante es un comentario fuera de juego: él no identifica a la autora. Ione, sobria, lleva un mapa e insiste en salir.",
+      "inicio": "00:06:00.000",
+      "fin": "00:20:55.000",
+      "cita": "Lo necesito con vida",
+      "evidencia_cue": {
+        "inicio": "00:19:33.880",
+        "fin": "00:19:35.909",
+        "texto": "Sí, cuenta conmigo. Lo necesito con vida,"
+      },
+      "entidades": [
+        "Ione",
+        "Sir Poncelot",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Nox",
+        "Pinky",
+        "Cipo"
+      ],
+      "ambito": "reclutamiento",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Poncelot interpreta a Ione como capitana Bonnie, sin que exista un reino feudal confirmado. Sigue creyendo erróneamente que la Marina causó su licantropía."
+    },
+    {
+      "id": "23-003",
+      "titulo": "Negociación fallida y herramientas",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Kilzer intenta vender gemas al herrero, llamado aquí Peter. Poncelot exagera sus hazañas para mejorar el precio. Rechazan la oferta final de ochenta monedas y el herrero lo expulsa, por lo que no se venden las gemas. Ione compra un kit de carpintería y Mamá prepara flechas. No hay tatuajes disponibles en Shiaru pese al catálogo. Ione utiliza cartografía y el grupo sale con la mosca.",
+      "inicio": "00:21:00.000",
+      "fin": "00:32:55.000",
+      "cita": "la oferta de los 80",
+      "evidencia_cue": {
+        "inicio": "00:28:34.640",
+        "fin": "00:28:38.389",
+        "texto": "te preocupes, tú mantén la oferta de los 80 y yo convenzo al niño."
+      },
+      "entidades": [
+        "Kilzer / Kilcer (grafía provisional)",
+        "Sir Poncelot",
+        "Peter / Armin (herrero, equivalencia contextual provisional)",
+        "Ione",
+        "Mamá / Citlali (identificación contextual provisional)"
+      ],
+      "ambito": "preparativos y comercio",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Los cinco hijos, la esposa del herrero y el rey troll aparecen en el relato de Poncelot, sin confirmación biográfica. Armin y Peter ocupan el mismo papel local por contexto, pero se conserva la variación nominal."
+    },
+    {
+      "id": "23-004",
+      "titulo": "Jack regresa y Nox está encadenado",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Jackie Jackson vuelve de Puerto de Espadas en barco y busca a Nox. Los rescatadores tardan varios días en llegar al sur del Garfio, a Fuerte Aurora. Nox está bajo tierra, vendado y amordazado, con manos y pies encadenados al suelo. Según él, lleva casi tres semanas preso. El guardia ronca periódicamente. Nox utiliza un diente de oro para retirar la mordaza.",
+      "inicio": "00:33:00.000",
+      "fin": "00:40:55.000",
+      "cita": "Jackie Jackson que vuelve",
+      "evidencia_cue": {
+        "inicio": "00:34:01.399",
+        "fin": "00:34:03.190",
+        "texto": "espadas. Pues veis a Jackie Jackson que vuelve y"
+      },
+      "entidades": [
+        "Jack / Jackie Jackson (grafía provisional)",
+        "Puerto Espadas",
+        "Nox",
+        "Fuerte Aurora",
+        "Garfio",
+        "Carcelero de Nox (sin nombre)"
+      ],
+      "ambito": "regreso y prisión",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "El regreso no confirma cuánto dinero cobró o pagó Jack ni que visitara a Lucy. La duración del cautiverio es aproximada y procede de Nox."
+    },
+    {
+      "id": "23-005",
+      "titulo": "Carcelero convencido para dormir lejos",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Nox pide al guardia que le libere las manos y lo persuade. Devuelve su oportunidad de quedar libre porque prefiere alejarse de los ronquidos. El guardia vuelve a atarlo y amordazarlo, pero duerme lejos y se pone una mordaza a sí mismo. Nox todavía no escapa.",
+      "inicio": "00:41:00.000",
+      "fin": "00:45:55.000",
+      "cita": "me iré a dormir más lejos",
+      "evidencia_cue": {
+        "inicio": "00:44:02.119",
+        "fin": "00:44:04.950",
+        "texto": "Bien, me iré a dormir más lejos."
+      },
+      "entidades": [
+        "Nox",
+        "Carcelero de Nox (sin nombre)"
+      ],
+      "ambito": "manipulación sin escape aún",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": ""
+    },
+    {
+      "id": "23-006",
+      "titulo": "Chocolate y entrada despejada",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Frente al fuerte, el grupo considera entregar a Ione como prisionera y disfrazar a Kilzer de marine. Mamá vende dos chocolates a los guardias por ocho monedas de oro. Uno alucina, cae al agua y muere por un tiburón; el otro permanece drogado. Ione se oculta, lo estrangula hasta dejarlo inconsciente y le retira la ropa. Las frutas proporcionan veneno a las armas de Poncelot, permiten la próxima acción sin espacio de conjuro a Kilzer, dan fuerza adicional a Ione y fuego en las manos a Mamá. Una trampa del chat causa cinco puntos de daño.",
+      "inicio": "00:46:00.000",
+      "fin": "00:59:55.000",
+      "cita": "uno muerto y el otro drogado",
+      "evidencia_cue": {
+        "inicio": "00:59:23.680",
+        "fin": "00:59:26.109",
+        "texto": "veríais que están drogadísimos perdidos. Bueno, uno muerto y el otro drogado."
+      },
+      "entidades": [
+        "Ione",
+        "Sir Poncelot",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Guardias de entrada Aurora",
+        "Chocolate de Mamá"
+      ],
+      "ambito": "plan y bajas",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Ione deja inconsciente al segundo guardia, sin matarlo. La muerte del primero por el tiburón sí es explícita."
+    },
+    {
+      "id": "23-007",
+      "titulo": "Disfraz de Kilzer y amistad con los perros",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Kilzer intenta camuflarse como un arbusto, sin éxito. Utiliza un disfraz ilusorio de marine humano y finge una necesidad corporal ante el guardia. Mamá habla con Rocky mediante hablar con animales, lo acaricia y gana su amistad. Vende chocolate a un guardia de la muralla por tres monedas de oro finales; él lo comparte con Boby y ambos alucinan. Ione y Mamá no reconocen inicialmente a Kilzer por la ilusión y después le entregan ropa real del guardia inconsciente.",
+      "inicio": "01:00:00.000",
+      "fin": "01:16:55.000",
+      "cita": "otro perro que se llama Boby",
+      "evidencia_cue": {
+        "inicio": "01:10:22.679",
+        "fin": "01:10:23.910",
+        "texto": "Boby, Boby, Bobi.\" Y hay otro perro que se llama Boby."
+      },
+      "entidades": [
+        "Kilzer / Kilcer (grafía provisional)",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Ione",
+        "Rocky (perro de Aurora)",
+        "Boby (perro de Aurora)",
+        "Guardia de muro Aurora"
+      ],
+      "ambito": "infiltración y aliados animales",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "El debate zoológico no añade una toxicidad real al chocolate de la campaña. La intoxicación de Boby se produce según la adjudicación de juego."
+    },
+    {
+      "id": "23-008",
+      "titulo": "Dos rutas de entrada",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Poncelot ata las manos de Ione con lianas y oculta sus nudilleras para la fuga. Lleva el bate de Kilzer. Mamá ata al gnomo una tela de su falda para que Rocky reconozca su olor. El guardia drogado y el perro los dejan pasar. Poncelot e Ione van al sur fingiendo que ella es una presa; Mamá y Kilzer van al norte. Ella pide a Rocky que avise a los otros perros de que son amigos. No confirma la amistad del perro de la jefa.",
+      "inicio": "01:17:00.000",
+      "fin": "01:29:55.000",
+      "cita": "todos tus amiguitos que somos amigos",
+      "evidencia_cue": {
+        "inicio": "01:27:38.320",
+        "fin": "01:27:42.310",
+        "texto": "Quiero que le digas a todos tus amiguitos que somos amigos, que no nos"
+      },
+      "entidades": [
+        "Sir Poncelot",
+        "Ione",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Rocky (perro de Aurora)",
+        "Nudilleras de Ione"
+      ],
+      "ambito": "entrada y pacto animal",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Compartir el olor no garantiza la aceptación de todos los perros. El de la jefa se menciona como excepción."
+    },
+    {
+      "id": "23-009",
+      "titulo": "Recompensa por Ione y Mamá como supuesta informante",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Un guardia ve el cartel de Ione, con una recompensa de doscientos cincuenta mil monedas de oro. Ordena a Poncelot que siga y avisa a Molly. Mamá dispara para distraer a la vigilancia. Kilzer decide presentarla como prisionera e informante: la ata sin sujetarla firmemente y menciona planes de Bonnie. Mamá encanta a un guardia, que la desata y la acompaña amablemente, mientras Kilzer queda con otro guardia.",
+      "inicio": "01:30:00.000",
+      "fin": "01:42:55.000",
+      "cita": "250,000 oros",
+      "evidencia_cue": {
+        "inicio": "01:34:22.840",
+        "fin": "01:34:27.115",
+        "texto": "guapísimo. Y este est 250,000 oros, ¿eh? Lo siento, Jone."
+      },
+      "entidades": [
+        "Ione",
+        "Sir Poncelot",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Molly (capitana de Marina)",
+        "Guardia encantado por Mamá"
+      ],
+      "ambito": "recompensa y engaño",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La cantidad del cartel no se cobra. Tampoco demuestra que Bonnie sea reina de un país."
+    },
+    {
+      "id": "23-010",
+      "titulo": "Nox se libera con herramientas ocultas",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Al oír que Ione ha sido capturada, Nox baja la mordaza con un truco. Desenrosca un abalorio de su trenza que contiene herramientas de ladrón y abre los grilletes y la celda. Ve varios cautivos sin nombre: una criatura de cola seca, otra famélica que come un brazo y un caníbal al fondo. El carcelero duerme amordazado. No se muestra que Nox libere a los demás.",
+      "inicio": "01:43:00.000",
+      "fin": "01:49:55.000",
+      "cita": "Tengo mis herramientas de de ladrón",
+      "evidencia_cue": {
+        "inicio": "01:45:46.320",
+        "fin": "01:45:48.978",
+        "texto": "y empiezo con con desenroscándola. Tengo mis herramientas de de ladrón ahí"
+      },
+      "entidades": [
+        "Nox",
+        "Ione",
+        "Herramientas ocultas de Nox",
+        "Cautivos de prisión Aurora (sin nombres)",
+        "Carcelero de Nox (sin nombre)"
+      ],
+      "ambito": "autoliberación",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Las herramientas son de Nox, no de los rescatadores. La proximidad a otros cautivos no implica que los libere."
+    },
+    {
+      "id": "23-011",
+      "titulo": "Serpiente del foso conoce Hawkins",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Nox pasa una reja sobre un foso profundo y ve ojos amarillos. Comprender lenguajes le permite entender una voz que anuncia que vendrá una diosa y que todos lo conocerán como Hawkins. Nox especula sobre un alto cargo llamado palomo porque Molly está nerviosa; la serpiente niega ser ese palomo. La antorcha revela a un enorme hombre serpiente, sin la espada de su ilustración. Nox continúa y abre una puerta con herramientas y una uña.",
+      "inicio": "01:50:00.000",
+      "fin": "01:56:55.000",
+      "cita": "Nuestra diosa vendrá",
+      "evidencia_cue": {
+        "inicio": "01:53:07.639",
+        "fin": "01:53:11.149",
+        "texto": "No es un palomo. Nuestra diosa vendrá."
+      },
+      "entidades": [
+        "Nox",
+        "Serpiente del foso de Aurora (sin nombre)",
+        "Diosa anunciada por serpiente del foso",
+        "Molly (capitana de Marina)",
+        "Alto cargo palomo (sin identificar)"
+      ],
+      "ambito": "declaración misteriosa",
+      "conocedores": [
+        "Nox"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "El apelativo corrobora el nombre Jim Hawkins de Nox. La diosa, el futuro y el reconocimiento general son declaraciones de la serpiente, no una profecía cumplida. No se nombra aquí a Tórtola Jones."
+    },
+    {
+      "id": "23-012",
+      "titulo": "Molly sospecha y ofrece dinero",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Mamá, Poncelot e Ione llegan al despacho mientras Kilzer queda fuera. Molly sospecha de su llegada conjunta y ofrece al gnomo doscientos cincuenta mil monedas, ampliables a trescientos cincuenta mil por información. Él aporta datos, pero no recibe dinero. Mamá afirma que los piratas saquean para comprar armamento. Molly cambia el relato y dice que abandonan la isla. Ione detecta la mentira y finge aceptarla. Molly ofrece una escolta, que Poncelot rechaza.",
+      "inicio": "01:57:00.000",
+      "fin": "02:15:55.000",
+      "cita": "350.000",
+      "evidencia_cue": {
+        "inicio": "02:07:46.199",
+        "fin": "02:07:49.189",
+        "texto": "que pueden ser 350.000."
+      },
+      "entidades": [
+        "Molly (capitana de Marina)",
+        "Sir Poncelot",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Ione",
+        "Kilzer / Kilcer (grafía provisional)"
+      ],
+      "ambito": "interrogatorio y oferta",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se paga la recompensa. La nobleza y el castillo de Poncelot proceden de su fantasía. La mentira de Molly no confirma una retirada de los piratas."
+    },
+    {
+      "id": "23-013",
+      "titulo": "Sombrero, dos caídas y explosión",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Nox sale de una torre ruinosa. Un loro deja caer su sombrero y él lo recupera. En la muralla persuade a un marine para que le entregue una pistola, le hace una zancadilla al agua y ordena a otro saltar, que obedece. Se menciona un tiburón, pero no se confirma la muerte de ninguno. Nox no reconoce a Kilzer disfrazado. Prende un rastro de pólvora de los cañones y se esconde en un tejado. Una gran explosión distrae a la fortaleza.",
+      "inicio": "02:15:00.000",
+      "fin": "02:23:55.000",
+      "cita": "una explosión enorme",
+      "evidencia_cue": {
+        "inicio": "02:23:53.040",
+        "fin": "02:23:55.790",
+        "texto": "lado y nada, pues se oye una explosión enorme y nada, nos vamos ahora un"
+      },
+      "entidades": [
+        "Nox",
+        "Sombrero de Nox",
+        "Guardias arrojados al agua por Nox",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Explosión de pólvora Aurora"
+      ],
+      "ambito": "autoevasión y distracción",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La explosión no confirma la destrucción de un barco entero ni la muerte de todos los guardias."
+    },
+    {
+      "id": "23-014",
+      "titulo": "Despacho cerrado y puerta rota",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Poncelot se lanza sobre Molly fingiendo protegerla. Mamá busca refugio junto al guardia y finge hiperventilar para salir. Nox le habla mentalmente y confirma que está libre. Molly sospecha que causó la explosión, encierra a Ione y Poncelot y corre hacia la torre. Nox imita una orden de alarma, pero el chat lo duerme durante un minuto. Mamá calienta la puerta con el fuego de su fruta y Poncelot la rompe con la lanza y las herramientas. Ione queda desatada y Mamá esquiva un pincho.",
+      "inicio": "02:24:00.000",
+      "fin": "02:36:55.000",
+      "cita": "Nox ya está libre",
+      "evidencia_cue": {
+        "inicio": "02:36:40.399",
+        "fin": "02:36:43.510",
+        "texto": "arpía puede volver pronto. Nox ya está libre. acaba de dar señales"
+      },
+      "entidades": [
+        "Sir Poncelot",
+        "Molly (capitana de Marina)",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Nox",
+        "Ione",
+        "Explosión de pólvora Aurora"
+      ],
+      "ambito": "liberación de rescatadores",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": ""
+    },
+    {
+      "id": "23-015",
+      "titulo": "Reencuentro y documentos sobre una ciudad",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Nox despierta tras caer del tejado utilizando una habilidad, se reúne con los demás y reconoce a Kilzer por la piel azul bajo el disfraz. Pide dos minutos y provoca una alarma al sur para registrar el despacho. Una carta del chat revela un botón detrás de un cartel y un compartimento. Los documentos de la Marina investigan cultos serpiente y una ciudad cuyo nombre se muestra fuera del texto. Los marines enviados a las ruinas no la encontraron. La posible relación con el mapa Slaz queda pendiente de esa lectura. Nox recupera sus armas y atavíos mediante investigación.",
+      "inicio": "02:37:00.000",
+      "fin": "02:43:55.000",
+      "cita": "Marina está buscando esos cultos",
+      "evidencia_cue": {
+        "inicio": "02:42:00.200",
+        "fin": "02:42:04.510",
+        "texto": "que la Marina está buscando esos cultos de las serpientes."
+      },
+      "entidades": [
+        "Nox",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Ione",
+        "Sir Poncelot",
+        "Documentos de Molly sobre cultos serpiente",
+        "Ciudad buscada por Marina (nombre no transcrito)",
+        "Marina"
+      ],
+      "ambito": "hallazgo documental",
+      "conocedores": [
+        "Nox"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La fuente anuncia que muestra el nombre, pero no lo verbaliza. No puede reconstruirse Slaz como palabra literal de los documentos; el vínculo con el mapa del capítulo 20 sigue siendo una hipótesis sin texto visible adicional."
+    },
+    {
+      "id": "23-016",
+      "titulo": "Perros frenan perseguidores y mosca evacúa",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "La alarma del sur atrae a los marines mientras los rescatadores huyen. Poncelot llama a Merlucilla III con un silbido. Mamá convoca a los perros amigos como barrera y estos atacan a los perseguidores. Poncelot, Ione y Mamá salen en la mosca; Kilzer corre detrás. Nox avanza con sigilo. Molly grita desde la torre, lejos del despacho.",
+      "inicio": "02:43:00.000",
+      "fin": "02:48:55.000",
+      "cita": "los perros pues se tiran",
+      "evidencia_cue": {
+        "inicio": "02:45:51.680",
+        "fin": "02:45:53.429",
+        "texto": "marines, ves que los perros pues se tiran a a por ellos que empiezan a"
+      },
+      "entidades": [
+        "Sir Poncelot",
+        "Mosca gigante B / Merlucilla III",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Ione",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Nox",
+        "Molly (capitana de Marina)",
+        "Perros aliados de Mamá en Aurora"
+      ],
+      "ambito": "evacuación del grupo",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No todos viajan en la mosca y Nox no sube a ella. Se desconoce el destino de los perros después del combate."
+    },
+    {
+      "id": "23-017",
+      "titulo": "Galeón distractor y fuga en barca",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Nox crea una ilusión de sí mismo en la plaza para distraer. Suelta los cabos y ajusta las velas y el timón de un galeón para ponerlo en marcha, aunque Pol aclara que no puede pilotarlo solo. Se descuelga y envía un mensaje a Molly sobre un símbolo no reconocido y el barco. Ella dirige a los marines al norte. Nox toma una barca y rema hacia la costa y Shiaru. Los demás salen a la jungla. No se muestra el regreso a Shiaru.",
+      "inicio": "02:48:00.000",
+      "fin": "02:54:55.000",
+      "cita": "se va remando hacia hacia Shiaro",
+      "evidencia_cue": {
+        "inicio": "02:53:08.200",
+        "fin": "02:53:11.429",
+        "texto": "he conseguido el pas y se y se va remando hacia hacia Shiaro."
+      },
+      "entidades": [
+        "Nox",
+        "Molly (capitana de Marina)",
+        "Galeón soltado por Nox",
+        "Barca de fuga de Nox",
+        "Shiaru",
+        "Símbolo aludido por Nox a Molly"
+      ],
+      "ambito": "fuga final",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "El galeón avanza como distracción: Nox no lo lleva a Bonnie ni crea una tripulación. No se explica aquí el símbolo o su relación con Cuchillas Negras."
+    }
+  ]
+}

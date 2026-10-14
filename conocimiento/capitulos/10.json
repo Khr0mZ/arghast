@@ -1,0 +1,792 @@
+{
+  "capitulo": 10,
+  "estado_revision": "revisado",
+  "resumen": "Patata, Erendriel, Blink, Axi y Ayoto se reúnen en Shiaru de noche. El elfo sigue sin descifrar el diario del nawal. La mayoría ve desaparecer a Pix junto al agua, aunque Blink no presencia el incidente. Bonnie amenaza a Patata por la gema entregada a Liz y obliga al grupo a recuperar al mono vivo. Viajan en barca al pantano de Ruki Peten y siguen unas huellas con pelos de mono. Tras matar a dos cocodrilos, encuentran un poblado de hombres lagarto. Erendriel intenta acercarse oculto y es capturado. Los guardias detectan a varios compañeros y les ordenan retirarse en dracónico. Cuando Axi avanza hacia el puente, lanzan jabalinas; la disputa desencadena un combate con numerosos refuerzos y cocodrilos. Erendriel se desata y escapa de su jaula mediante teletransporte. Ayoto y el dragón también huyen. Blink intenta contener a los enemigos y liberar a Axi, mientras Patata resiste rodeado, pero los tres acaban capturados. El director confirma al cierre que Patata, Blink y Axi siguen vivos y enjaulados. Ayoto y Erendriel regresan sin Pix. Bonnie ordena que vuelvan con Nox e Ione y mata a un pirata de un disparo para mostrar las consecuencias de desobedecer. El rescate del mono y de los cautivos queda pendiente.",
+  "misiones": [
+    "La expedición sigue el rastro de Pix hasta un poblado de Ruki Peten, pero no lo localiza. Patata, Blink y Axi quedan capturados; Ayoto y Erendriel regresan con el dragón. Bonnie ordena continuar el rescate con Nox e Ione (10-008–10-010 y 10-024–10-027).",
+    "Erendriel es capturado cuando explora solo. Consigue desatarse y escapar por teletransporte, pero no recupera sus armas (10-013,10-017–10-018 y 10-020–10-023).",
+    "Blink intenta liberar a Axi mediante control y telequinesis, y Patata permanece combatiendo. No logran escapar: los tres quedan vivos en jaulas (10-019–10-023 y 10-027).",
+    "Ayoto promete volver por Pix bajo la amenaza de Bonnie y debe reunir a Erendriel, Nox e Ione. La nueva expedición no comienza en este capítulo (10-026).",
+    "Erendriel examina los dibujos del diario sin traducirlo. El objeto del capítulo 8 se precisa como un pergamino de truco, pero no se identifica el conjuro (10-002 y 10-011).",
+    "Patata relata que ha talado cinco árboles y ayudado a calentar el huevo. Blink también ha dormido bajo él. No se completa la granja ni eclosiona el huevo (10-001 y 10-003)."
+  ],
+  "preguntas": [
+    "¿Dónde está Pix, quién lo capturó y por qué? El rastro conduce al poblado, pero el mono no aparece directamente (10-005 y 10-010–10-027).",
+    "¿Cómo se llama el poblado y qué organización o creencias tienen sus habitantes? Ayoto lo llama Ciudad de la Luna, sin confirmación del director (10-025).",
+    "¿Qué ocurrirá con Patata, Blink y Axi? Siguen vivos en jaulas; la posibilidad de sacrificios no se ejecuta (10-027).",
+    "¿Podrá Erendriel recuperar las armas que le retiraron? Escapa sin ellas (10-018 y 10-022).",
+    "¿Aceptarán Nox e Ione la nueva expedición? Bonnie ordena buscarlos, pero todavía no hablan con ellos (10-026).",
+    "¿Qué conjuro contiene el pergamino? Solo se identifica como un pergamino de truco (10-011)."
+  ],
+  "contradicciones": [
+    "Los comentarios que dan por muertos a Axi, Patata o Blink no describen muertes definitivas. El director confirma que los tres están vivos y enjaulados (10-022–10-023 y 10-027).",
+    "Bonnie cree que envió a cuatro personas porque no vio a Blink escondida. La expedición incluye cinco personajes y al dragón (10-008–10-009 y 10-025).",
+    "El director corrige a Erendriel cuando intenta narrar una ausencia previa de Pix: todavía no la conoce antes del incidente mostrado (10-002 y 10-005).",
+    "Erendriel es capturado por separado. La detección de otros compañeros no se aplica automáticamente a todo el grupo (10-013–10-015).",
+    "El director precisa que las huellas pertenecen a otras criaturas y contienen pelos de mono; no son pisadas de Pix (10-010).",
+    "El objeto descrito ambiguamente en el capítulo 8 se identifica aquí como un pergamino de truco, sin seleccionar todavía el conjuro (10-011 y 08-019).",
+    "El dragón vuelve a representarse bajo la capa del elfo, pese al tamaño aproximado de un metro y setenta kilos mencionado antes. No se narra un cambio de tamaño que concilie ambas descripciones (10-009 y 07-015).",
+    "Ciudad de la Luna y el cálculo de más de sesenta enemigos proceden del informe de Ayoto, no de una identificación o un recuento independiente (10-025)."
+  ],
+  "nombres_dudosos": [
+    "Ruki Peten es el nombre que el director da al pantano situado al norte de Shiaru. La grafía sigue siendo provisional.",
+    "Pix es el mono de Bonnie y de la taberna. El loro con gorro es otro animal.",
+    "La alternancia de Axi y Chochi durante el mismo combate refuerza la continuidad de identidad, sin explicar el cambio de nombre.",
+    "Ciudad de la Luna es el término usado por Ayoto en su informe, sin confirmación cartográfica.",
+    "Patata menciona a Chimy, el mago zanahoria, sin mostrar su presencia ni su ubicación.",
+    "Los guardias, el chamán y el combatiente del martillo no reciben nombres propios. Su aspecto no basta para inventar un líder o una facción."
+  ],
+  "fuente_sha256": "25c42c18af7eeab98ebf2f714f9bab3dcbc191557dd6c2bb40fb42b91e4ab5ad",
+  "afirmaciones": [
+    {
+      "id": "10-001",
+      "titulo": "Patata prepara calor para el huevo y sigue talando",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Patata relata que una kender le pidió ayudar a Mamá con el huevo, por lo que construyó un nido y un mecanismo para proporcionarle sol y calor. Ha talado cinco árboles frente a tres anteriores y todavía necesita muchos más. Una tirada le asigna cansancio por el ruido del alojamiento.",
+      "inicio": "00:01:05.000",
+      "fin": "00:02:55.000",
+      "cita": "una especie de nido",
+      "evidencia_cue": {
+        "inicio": "00:01:56.000",
+        "fin": "00:01:57.870",
+        "texto": "del huevo. Estuvo echándole una mano, hizo una especie de nido, una especie de"
+      },
+      "entidades": [
+        "Patata / Patatamán (grafía provisional)",
+        "Lunaria / Luna",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Huevo grande del nido"
+      ],
+      "ambito": "recapitulación entre sesiones",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No granja construida ni eclosión. La fuente menciona kender sin precisar nombre en esa frase, continuidad con Lunaria contextual."
+    },
+    {
+      "id": "10-002",
+      "titulo": "El elfo estudia el diario sin entenderlo",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Erendriel intenta investigar los dibujos del libro del templo de nawal y compararlos con ruinas, sin entender el idioma. Evita al médico. Intenta relatar la ausencia del mono y el director corrige que todavía no la sabe.",
+      "inicio": "00:02:45.000",
+      "fin": "00:04:15.000",
+      "cita": "No, eso no lo sabéis",
+      "evidencia_cue": {
+        "inicio": "00:03:23.879",
+        "fin": "00:03:25.229",
+        "texto": "no está y se habría subido. No, eso no lo sabéis."
+      },
+      "entidades": [
+        "Erendriel (grafía provisional)",
+        "Diario en Terran del templo",
+        "Gobs (médico, grafía provisional)",
+        "Pix (mono de Bonnie)"
+      ],
+      "ambito": "recapitulación con corrección de conocimiento",
+      "conocedores": [
+        "Erendriel (grafía provisional)"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Libro sigue sin traducción. Broma de deber cinco monedas por no tener dinero no se consolida como deuda sin adjudicación clara."
+    },
+    {
+      "id": "10-003",
+      "titulo": "Blink recoge una perla y calienta el huevo al dormir",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Blink relata que a veces se instala en el puesto de vigía del barco y se retira cuando llega el loro; sigue visitando su casa del bosque y buscando objetos brillantes. Dice haberse colado por una ventana para dormir bajo el huevo y calentarlo con su nido. Una tirada le concede una perla.",
+      "inicio": "00:04:00.000",
+      "fin": "00:06:30.000",
+      "cita": "Conses una perla",
+      "evidencia_cue": {
+        "inicio": "00:06:08.759",
+        "fin": "00:06:10.510",
+        "texto": "un botín. ¿Conses una perla?"
+      },
+      "entidades": [
+        "Blink / Blank",
+        "Loro pirata (sin nombre)",
+        "Huevo grande del nido",
+        "Perla de descanso de Blink"
+      ],
+      "ambito": "recapitulación y botín adjudicado",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No consumo o eclosión del huevo. Expectativa de comérselo es intención de Blink, no acuerdo de Mamá."
+    },
+    {
+      "id": "10-004",
+      "titulo": "Axi pierde una poción y Ayoto está en el pozo",
+      "tipo": "explicacion_director",
+      "afirmacion": "Axi relata que alterna la resaca y el alcohol. Su tirada de descanso elimina una poción de vida de su inventario. De noche, está tirado ante la taberna; Ayoto desmenuza una pantera junto al pozo, inicialmente dirigido por el director en ausencia de su jugador.",
+      "inicio": "00:06:05.000",
+      "fin": "00:08:30.000",
+      "cita": "no la tienes",
+      "evidencia_cue": {
+        "inicio": "00:07:27.319",
+        "fin": "00:07:29.950",
+        "texto": "que quizás te salva el culo hoy. Pues no te lo va a salvar porque no la tienes."
+      },
+      "entidades": [
+        "Axi (identificación contextual con Chochi)",
+        "Ayoto / Ayuto (grafía provisional)",
+        "Pozo de Shiaru"
+      ],
+      "ambito": "sucesos de descanso y apertura de escena",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No autor del robo confirmado ni caja fuerte real de Bonnie por broma. Ayoto participa aunque su jugador se conecte después."
+    },
+    {
+      "id": "10-005",
+      "titulo": "Pix desaparece tras tirar basura al agua",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Pix arrastra basura fuera de la taberna y la vierte junto al agua. La mayoría observa al mono desaparecer y caer la bolsa; Blink no lo ve porque falla su prueba de Percepción. Patata se acerca y mira sombras en el agua sin distinguir la causa, solo la ausencia del mono.",
+      "inicio": "00:08:30.000",
+      "fin": "00:11:50.000",
+      "cita": "Tú blink no tienes muy poca percepción",
+      "evidencia_cue": {
+        "inicio": "00:10:03.240",
+        "fin": "00:10:05.990",
+        "texto": "percepción. Sí. Ah, no, blink, no. Tú blink no tienes muy poca percepción."
+      },
+      "entidades": [
+        "Pix (mono de Bonnie)",
+        "Patata / Patatamán (grafía provisional)",
+        "Blink / Blank",
+        "Erendriel (grafía provisional)",
+        "Shiaru"
+      ],
+      "ambito": "incidente observado con excepción de Blink",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No especie o atacante visible confirmado. Presencia del incidente en vídeo no otorga visión directa a Blink."
+    },
+    {
+      "id": "10-006",
+      "titulo": "Blink conoce la desaparición por el relato del elfo",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "El elfo pregunta a Blink si vio desaparecer al mono y ella lo niega. Él explica lo sucedido con la basura y la desaparición y habla de un monstruo grande del puerto. Sugieren que Pix quizá lo alimenta y que conviene avisar a Bonnie y tenerla contenta.",
+      "inicio": "00:11:25.000",
+      "fin": "00:14:00.000",
+      "cita": "Quizás le está alimentando el mono",
+      "evidencia_cue": {
+        "inicio": "00:12:57.079",
+        "fin": "00:12:58.750",
+        "texto": "estas aguas. Hace unos saltos. Quizás le está alimentando el mono. Es"
+      },
+      "entidades": [
+        "Blink / Blank",
+        "Erendriel (grafía provisional)",
+        "Pix (mono de Bonnie)",
+        "Happy Bonnie / Bonny (grafía provisional)",
+        "Criatura marina del puerto (sin identificar)"
+      ],
+      "ambito": "conversación e hipótesis",
+      "conocedores": [
+        "Blink / Blank",
+        "Erendriel (grafía provisional)"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Hipótesis de alimentación o amistad no confirma causa de desaparición ni identidad de criatura."
+    },
+    {
+      "id": "10-007",
+      "titulo": "Bonnie amenaza a Patata por la gema utilizada para pagar alojamiento",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Bonnie se presenta a Patata como Happy Bonnie y dice que Liz le contó el pago de varias noches con una gema. Patata admite que Ione se la dio tras decir hallarla en la selva. Bonnie le apunta con pistola, afirma que la gema es suya, llama inútil usado a Nox y declara que Ron de Bonnie abarca todo lo que ven, no solo la taberna.",
+      "inicio": "00:14:10.000",
+      "fin": "00:18:20.000",
+      "cita": "todo esto que ves aquí es el rond de bony",
+      "evidencia_cue": {
+        "inicio": "00:18:11.640",
+        "fin": "00:18:13.549",
+        "texto": "Pues todo esto que ves aquí es el rond de bony,"
+      },
+      "entidades": [
+        "Happy Bonnie / Bonny (grafía provisional)",
+        "Patata / Patatamán (grafía provisional)",
+        "Ione",
+        "Nox",
+        "Liz / Lizy (encargada de la Sirena Borracha, grafía provisional)",
+        "Gemas del collar antiguo",
+        "Ron de Bonnie (zona declarada)"
+      ],
+      "ambito": "amenaza y declaración de control",
+      "conocedores": [
+        "Happy Bonnie / Bonny (grafía provisional)",
+        "Patata / Patatamán (grafía provisional)"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No confiscación de gema de Liz ni saldo de deuda. Declaración territorial de Bonnie no equivale a mapa o jurisdicción reconocida por todos."
+    },
+    {
+      "id": "10-008",
+      "titulo": "Bonnie impone el rescate de Pix vivo",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Patata informa que Pix fue al agua y Bonnie encuentra la bolsa de basura. Le ordena ir en bote a buscar al mono y promete agradecimiento y posible pago; si no va, amenaza con convertirlo en patatas fritas. Obliga a Axi con una cimitarra en el cuello y pide al elfo que ayude a rastrear y que lleve al compañero grande. Exige no volver sin el mono vivo. Blink se esconde y Bonnie no la ve.",
+      "inicio": "00:18:00.000",
+      "fin": "00:22:50.000",
+      "cita": "que esté vivo",
+      "evidencia_cue": {
+        "inicio": "00:22:32.159",
+        "fin": "00:22:34.269",
+        "texto": "volver el mono vivo. Abre la puerta que esté vivo."
+      },
+      "entidades": [
+        "Happy Bonnie / Bonny (grafía provisional)",
+        "Patata / Patatamán (grafía provisional)",
+        "Axi (identificación contextual con Chochi)",
+        "Erendriel (grafía provisional)",
+        "Ayoto / Ayuto (grafía provisional)",
+        "Blink / Blank",
+        "Pix (mono de Bonnie)"
+      ],
+      "ambito": "encargo bajo amenaza",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No promesa de cantidad determinada ni consentimiento libre de los amenazados. Cuatro enviados que Bonnie reconoce, cinco viajeros contando Blink."
+    },
+    {
+      "id": "10-009",
+      "titulo": "Expedición en barca hasta Ruki Peten",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Blink se presenta a Patata y aluden a Chimy, mago zanahoria, sin aparición. El elfo no consigue rastrear la salida del mono desde el agua. Los cinco aventureros y el dragoncito suben a la barca; Ayoto rema. Viajan al norte de Shiaru hacia Ruki Peten, zona pantanosa poco profunda donde se puede caminar o navegar.",
+      "inicio": "00:22:20.000",
+      "fin": "00:27:55.000",
+      "cita": "el Ruki Peten",
+      "evidencia_cue": {
+        "inicio": "00:27:13.039",
+        "fin": "00:27:15.269",
+        "texto": "al norte de Shiaru, que es el Ruki Peten, ¿vale? Que básicamente es una"
+      },
+      "entidades": [
+        "Blink / Blank",
+        "Patata / Patatamán (grafía provisional)",
+        "Erendriel (grafía provisional)",
+        "Ayoto / Ayuto (grafía provisional)",
+        "Axi (identificación contextual con Chochi)",
+        "Dragoncito de Erendriel (sin nombre)",
+        "Ruki Peten (grafía provisional)",
+        "Chimy (mago zanahoria, grafía provisional)"
+      ],
+      "ambito": "navegación y lugar nombrado",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Sin coordenadas ni distancia exacta. Ayoto está presente antes de llegada de su jugador; no sexto viajero por conectar jugador."
+    },
+    {
+      "id": "10-010",
+      "titulo": "Rastro de varias criaturas con pelos de mono",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Blink halla marcas recientes de criaturas y pelos de mono entre ellas y siguen el rastro hacia el norte. El director aclara que las huellas no son del mono. La prueba de Naturaleza sugiere una bestia de dos patas y forma humanoide, aunque no necesariamente con pies humanos, con varias criaturas sin número firme.",
+      "inicio": "00:27:40.000",
+      "fin": "00:34:30.000",
+      "cita": "las pisadas no son de mono",
+      "evidencia_cue": {
+        "inicio": "00:31:40.679",
+        "fin": "00:31:41.990",
+        "texto": "Yo voy siguiendo a la eh para que sal. O sea, que las pisadas no son de mono. O"
+      },
+      "entidades": [
+        "Blink / Blank",
+        "Pix (mono de Bonnie)",
+        "Ruki Peten (grafía provisional)"
+      ],
+      "ambito": "rastreo y límites de identificación",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Sospechan que alguien llevará mono para comerlo, sin observarlo. Oler pelos no identifica por alcohol o propietario de modo inequívoco."
+    },
+    {
+      "id": "10-011",
+      "titulo": "Objeto del capítulo 8 aclarado como pergamino de truco",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "El elfo reclama un objeto aún no añadido, y precisa que se trata del pergamino de truco de la última partida. El director admite no haberlo puesto y lo apunta para después.",
+      "inicio": "00:30:00.000",
+      "fin": "00:31:15.000",
+      "cita": "el pergamino truco",
+      "evidencia_cue": {
+        "inicio": "00:30:49.039",
+        "fin": "00:30:52.110",
+        "texto": "el el No, el trinker, no, el truco, el pergamino truco."
+      },
+      "entidades": [
+        "Erendriel (grafía provisional)",
+        "Pergamino de truco de cadáveres del templo nawal"
+      ],
+      "ambito": "aclaración de inventario pendiente",
+      "conocedores": [
+        "Erendriel (grafía provisional)"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Aclara 08-019, que sonaba a truco o trinket, sin fijar conjuro. No se ejecuta aquí ni contenido leído."
+    },
+    {
+      "id": "10-012",
+      "titulo": "Dos cocodrilos muertos y diente para Axi",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Dos cocodrilos aparecen a los lados y sorprenden al grupo. Axi mata a uno con una flecha y efecto de enredaderas; Patata ayuda al próximo ataque, y el elfo mata al otro con un ataque y la infusión eléctrica del dragón. Axi arranca un diente intacto como trofeo.",
+      "inicio": "00:34:15.000",
+      "fin": "00:41:20.000",
+      "cita": "Acabáis con esos dos cocodrilos",
+      "evidencia_cue": {
+        "inicio": "00:39:43.520",
+        "fin": "00:39:48.309",
+        "texto": "suscribiros. Acabáis con esos dos cocodrilos."
+      },
+      "entidades": [
+        "Axi (identificación contextual con Chochi)",
+        "Patata / Patatamán (grafía provisional)",
+        "Erendriel (grafía provisional)",
+        "Dragoncito de Erendriel (sin nombre)",
+        "Dos cocodrilos del pantano",
+        "Diente de cocodrilo de Axi"
+      ],
+      "ambito": "combate inicial en pantano",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No hablar con animales realizado aunque Axi lo considere. No atribuir todos estos cocodrilos posteriores al mismo par muerto."
+    },
+    {
+      "id": "10-013",
+      "titulo": "Blink obtiene el mondadientes y el elfo es capturado",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Blink sigue las huellas al norte y encuentra el mondadientes, que el director entrega como arma de nivel cinco. Ven luces y construcciones de un poblado a lo lejos. El elfo se acerca solo oculto mientras el dragón permanece con sus compañeros; alguien lo agarra, le tapa la boca y los ojos y lo captura. Los demás no ven directamente la captura y deciden buscarlo al tardar.",
+      "inicio": "00:41:15.000",
+      "fin": "00:45:35.000",
+      "cita": "te han tapado la boca",
+      "evidencia_cue": {
+        "inicio": "00:45:17.720",
+        "fin": "00:45:20.230",
+        "texto": "Parece que te han cogido, te han tapado la boca, los ojos y"
+      },
+      "entidades": [
+        "Blink / Blank",
+        "Mondadientes de Blink",
+        "Erendriel (grafía provisional)",
+        "Poblado de hombres lagarto del pantano",
+        "Dragoncito de Erendriel (sin nombre)"
+      ],
+      "ambito": "reconocimiento y captura separada",
+      "conocedores": [
+        "Erendriel (grafía provisional)"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Captura conocida por espectador; los compañeros solo saben que no vuelve. No nombre del poblado confirmado."
+    },
+    {
+      "id": "10-014",
+      "titulo": "El dragón guía la búsqueda y los guardias detectan a tres compañeros",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "El dragoncito sigue el rastro de su cuidador y el grupo avanza. Ayoto y Blink consiguen ocultarse entre los escudos verdes y la vegetación; Patata arrastra su arma con ruido, Axi tropieza y el dragón también resulta detectado. Dos hombres lagarto con escudos les ordenan salir en dracónico. El director establece que Axi y el dragón comprenden; sus compañeros no reciben traducción automática.",
+      "inicio": "00:45:15.000",
+      "fin": "00:51:20.000",
+      "cita": "tú eres el único que les entiende",
+      "evidencia_cue": {
+        "inicio": "00:51:10.599",
+        "fin": "00:51:13.789",
+        "texto": "ves, Axi, los escuchas, tú eres el único que les entiende y ves que dice que os"
+      },
+      "entidades": [
+        "Dragoncito de Erendriel (sin nombre)",
+        "Ayoto / Ayuto (grafía provisional)",
+        "Blink / Blank",
+        "Patata / Patatamán (grafía provisional)",
+        "Axi (identificación contextual con Chochi)",
+        "Guardias del poblado de hombres lagarto"
+      ],
+      "ambito": "detección y advertencia lingüística",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Elfo está separado, no interlocutor disponible al puente. No inferir hostilidad idéntica de todos los pueblos nativos."
+    },
+    {
+      "id": "10-015",
+      "titulo": "Axi recibe una jabalina y sus insultos inician el combate",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Axi se acerca al puente intentando hablar y dos guardias lanzan armas, una de las cuales se clava en su pantorrilla. Retrocede, dice que el diálogo no funcionará y después les insulta como secuestradores y exige que devuelvan a su compañero. El director hace que gruñan y comienza el combate. Un guardia corre a avisar a más hombres; Axi y el dragón oyen esa orden en dracónico.",
+      "inicio": "00:50:45.000",
+      "fin": "00:55:10.000",
+      "cita": "Voy a avisar a más",
+      "evidencia_cue": {
+        "inicio": "00:54:52.119",
+        "fin": "00:54:54.270",
+        "texto": "pero básicamente le dice, \"Voy a avisar a más,"
+      },
+      "entidades": [
+        "Axi (identificación contextual con Chochi)",
+        "Guardias del poblado de hombres lagarto",
+        "Dragoncito de Erendriel (sin nombre)"
+      ],
+      "ambito": "escalada ante entrada del poblado",
+      "conocedores": [
+        "Axi (identificación contextual con Chochi)",
+        "Dragoncito de Erendriel (sin nombre)"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No negociaron rescate o confirmaron Pix en poblado antes de combatir. Violencia de guardias y posterior insulto son pasos distintos."
+    },
+    {
+      "id": "10-016",
+      "titulo": "Patata combate al frente y llegan refuerzos",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Patata avanza al frente. Axi inmoviliza a un guardia con enredaderas y después lo mata. Ayoto lanza jabalinas desde atrás y Blink crea una zona de Hambre de Hadar que daña a los defensores. Llegan más guardias y cocodrilos desde el pantano, incluidos grandes. Patata invoca un arma espiritual representada como una patata fantasmal y sigue combatiendo. El elfo es llevado atado hasta una jaula.",
+      "inicio": "00:54:30.000",
+      "fin": "01:14:50.000",
+      "cita": "una patata fantasmal",
+      "evidencia_cue": {
+        "inicio": "01:13:55.719",
+        "fin": "01:13:58.189",
+        "texto": "Vale, viene una patata fantasmal y le meto una"
+      },
+      "entidades": [
+        "Patata / Patatamán (grafía provisional)",
+        "Axi (identificación contextual con Chochi)",
+        "Ayoto / Ayuto (grafía provisional)",
+        "Blink / Blank",
+        "Erendriel (grafía provisional)",
+        "Defensores del poblado de hombres lagarto",
+        "Cocodrilos defensores del poblado"
+      ],
+      "ambito": "batalla prolongada y cautiverio separado",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No número exacto total de defensores por lista ruidosa o comentarios de todo el pueblo. Patata y Axi son responsables de algunas bajas, sin inventario exhaustivo fiable de muertos."
+    },
+    {
+      "id": "10-017",
+      "titulo": "El elfo se desata, pero sigue encerrado",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Blink utiliza el mondadientes para recuperar un conjuro de primer nivel durante la batalla. El elfo logra desatarse con juego de manos y mantiene las manos como si siguiera atado, pero está dentro de una jaula cerrada. Los guardias se dirigen al combate.",
+      "inicio": "01:14:30.000",
+      "fin": "01:17:45.000",
+      "cita": "conseguirías desatarte",
+      "evidencia_cue": {
+        "inicio": "01:17:29.320",
+        "fin": "01:17:32.310",
+        "texto": "14. Vale, pues conseguirías desatarte."
+      },
+      "entidades": [
+        "Blink / Blank",
+        "Mondadientes de Blink",
+        "Erendriel (grafía provisional)"
+      ],
+      "ambito": "habilidad de arma y liberación de ataduras",
+      "conocedores": [
+        "Erendriel (grafía provisional)"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Desatarse no abre puerta ni devuelve armas. No uso ilimitado del arma deducido sin ficha mecánica completa."
+    },
+    {
+      "id": "10-018",
+      "titulo": "Jaula del elfo cerrada y armas retiradas",
+      "tipo": "explicacion_director",
+      "afirmacion": "El director aclara que la jaula está cerrada y el elfo no tiene armas ni piedras apropiadas para romper el candado. Rechaza por considerarlo forzado que dé una orden al dragón a gran distancia en medio del combate. Se considera la capacidad de eladrín de teletransportarse.",
+      "inicio": "01:27:00.000",
+      "fin": "01:30:35.000",
+      "cita": "No tienes armas",
+      "evidencia_cue": {
+        "inicio": "01:29:56.320",
+        "fin": "01:29:58.270",
+        "texto": "espada. No tienes armas."
+      },
+      "entidades": [
+        "Erendriel (grafía provisional)",
+        "Dragoncito de Erendriel (sin nombre)"
+      ],
+      "ambito": "límites adjudicados del cautiverio",
+      "conocedores": [
+        "Erendriel (grafía provisional)"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No confundir no tener armas con destrucción definitiva del arco. Su ubicación o recuperación posterior pendiente."
+    },
+    {
+      "id": "10-019",
+      "titulo": "Axi cae y es arrastrado; Ayoto comienza la retirada",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Defensores y cocodrilos rodean al grupo. Axi cae a cero puntos de vida y una criatura lo arrastra; no se declara una muerte definitiva. Ayoto intenta cambiar de posición y se mueve hacia la salida, mientras Patata permanece cercado. Un chamán observa y un combatiente mayor entra al agua rumbo al grupo.",
+      "inicio": "01:31:20.000",
+      "fin": "01:40:00.000",
+      "cita": "va a [ __ ] a Axi y se lo lleva",
+      "evidencia_cue": {
+        "inicio": "01:39:47.400",
+        "fin": "01:39:48.510",
+        "texto": "Vale, va a [ __ ] a Axi y se lo lleva."
+      },
+      "entidades": [
+        "Axi (identificación contextual con Chochi)",
+        "Ayoto / Ayuto (grafía provisional)",
+        "Patata / Patatamán (grafía provisional)",
+        "Chamán del poblado de hombres lagarto (sin nombre)",
+        "Combatiente del martillo del poblado (sin nombre)"
+      ],
+      "ambito": "caída y retirada bajo presión",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Comentarios de muerto o comerlo no son desenlace confirmado. Regla provisional de intercambio como acción es adjudicación de mesa, no regla general."
+    },
+    {
+      "id": "10-020",
+      "titulo": "Calmar emociones no afecta a los cocodrilos y el elfo escapa",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Blink lanza Calmar emociones sobre humanoides, varios quedan afectados, pero Patata no. Intenta sacar a Axi mediante telequinesis de quien lo arrastra, sin superar la fuerza del rival. El elfo se teletransporta treinta pies fuera de la jaula y corre entre defensores. Ayoto aprovecha la retirada y recupera la hostilidad al ver daño a un compañero y corre con una acción adicional; abandona el combate.",
+      "inicio": "01:41:00.000",
+      "fin": "01:50:50.000",
+      "cita": "me voy a tepear",
+      "evidencia_cue": {
+        "inicio": "01:46:13.000",
+        "fin": "01:46:16.149",
+        "texto": "me voy a me voy a tepear."
+      },
+      "entidades": [
+        "Blink / Blank",
+        "Axi (identificación contextual con Chochi)",
+        "Erendriel (grafía provisional)",
+        "Ayoto / Ayuto (grafía provisional)",
+        "Patata / Patatamán (grafía provisional)",
+        "Cocodrilos defensores del poblado"
+      ],
+      "ambito": "intentos de control y fuga",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Hechizo sobre humanoides no calma cocodrilos. Calmados dejan de serlo al daño o ver daño según aclaraciones de mesa, no inmunidad completa del grupo."
+    },
+    {
+      "id": "10-021",
+      "titulo": "Una curación de los espectadores levanta a Axi y el dragón huye",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Una carta cura al grupo y levanta temporalmente a Axi, que sigue siendo mordido al ser arrastrado. Patata mata a los defensores con su arma espiritual e Infligir heridas y permanece para no abandonarlo. El dragón se retira entre ataques de oportunidad. Blink golpea eléctricamente al captor de Axi, pero cancela el plan de utilizar Detectar pensamientos debido al movimiento y en su lugar corre volando. El elfo utiliza su velocidad y movimiento para huir sin atacar.",
+      "inicio": "01:50:30.000",
+      "fin": "02:01:55.000",
+      "cita": "te acaban de levantar ahora",
+      "evidencia_cue": {
+        "inicio": "01:54:52.800",
+        "fin": "01:54:54.990",
+        "texto": "Yo qué hago vivo. Sí, te acaban de levantar ahora. Y Archi"
+      },
+      "entidades": [
+        "Axi (identificación contextual con Chochi)",
+        "Patata / Patatamán (grafía provisional)",
+        "Blink / Blank",
+        "Erendriel (grafía provisional)",
+        "Dragoncito de Erendriel (sin nombre)"
+      ],
+      "ambito": "curación y continuación de fugas",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Curación de cero a consciente no resurrección. Detectar pensamientos considerado pero no lanzado aquí; no adquisición de pensamiento de captor."
+    },
+    {
+      "id": "10-022",
+      "titulo": "Axi vuelve a caer ante el martillo y Blink intenta ayudar",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Axi intenta llegar a la orilla por terreno difícil sin poder esconderse y un combatiente con gran martillo de pinchos lo derriba otra vez. Blink usa Patrón hipnótico rápido sobre rivales cerca de él; uno queda afectado y otro resiste, incluido el adversario grande que impide salvarlo. El elfo sigue alejándose sin recuperar armas; Patata continúa cercado.",
+      "inicio": "02:01:30.000",
+      "fin": "02:14:55.000",
+      "cita": "estás en el suelo",
+      "evidencia_cue": {
+        "inicio": "02:10:27.079",
+        "fin": "02:10:28.709",
+        "texto": "He muerto. Bueno, no estás en el suelo y ves que"
+      },
+      "entidades": [
+        "Axi (identificación contextual con Chochi)",
+        "Combatiente del martillo del poblado (sin nombre)",
+        "Blink / Blank",
+        "Erendriel (grafía provisional)",
+        "Patata / Patatamán (grafía provisional)"
+      ],
+      "ambito": "incapacitación y ayuda insuficiente",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Director corrige explícitamente muerto a estar en suelo. No diagnóstico de daño letal permanente ni saqueo de armas posterior mostrado."
+    },
+    {
+      "id": "10-023",
+      "titulo": "Patata cae pese a curarse y Blink queda atrás",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Patata resiste múltiples ataques, se cura hasta la mitad de sus puntos de vida con Preservar vida y sigue sin salida. Blink vuelve a calmar a los humanoides mueve telequinéticamente a Patata cinco pies y gana altura; varios rivales resisten y los cocodrilos siguen atacando. Patata cae. Blink recibe jabalinas y queda fuera también. Axi hace salvaciones de muerte durante este tramo.",
+      "inicio": "02:15:00.000",
+      "fin": "02:27:45.000",
+      "cita": "La patata huye",
+      "evidencia_cue": {
+        "inicio": "02:26:36.319",
+        "fin": "02:26:39.870",
+        "texto": "Heavy clap. La patata no se muere. La patata huye."
+      },
+      "entidades": [
+        "Patata / Patatamán (grafía provisional)",
+        "Blink / Blank",
+        "Axi (identificación contextual con Chochi)",
+        "Defensores del poblado de hombres lagarto",
+        "Cocodrilos defensores del poblado"
+      ],
+      "ambito": "caída final del grupo rezagado",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Ancla es reacción a intento, inmediatamente corregido por caída; conclusión de cautiverio y vida se confirma al cierre, no inferir muerte por comentarios de jugadores. No recuento definitivo de salvaciones fiables por interfaz."
+    },
+    {
+      "id": "10-024",
+      "titulo": "Ayoto y el elfo regresan sin sus compañeros ni Pix",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "El elfo, el dragón y Ayoto siguen huyendo. Regresan a Shiaru tras horas sin Pix, Patata, Blink y Axi. El elfo toma la barca y sube al barco pirata para encerrarse en una habitación. Ayoto queda afectado y desorientado, y busca a la abuela en la taberna; Bonnie lo ve regresar.",
+      "inicio": "02:27:30.000",
+      "fin": "02:31:25.000",
+      "cita": "sin vuestros compañeros y sin lo que os ha pedido Bonnie",
+      "evidencia_cue": {
+        "inicio": "02:29:26.319",
+        "fin": "02:29:31.190",
+        "texto": "sin vuestros compañeros y sin lo que os ha pedido Bonnie."
+      },
+      "entidades": [
+        "Erendriel (grafía provisional)",
+        "Dragoncito de Erendriel (sin nombre)",
+        "Ayoto / Ayuto (grafía provisional)",
+        "Shiaru",
+        "Happy Bonnie / Bonny (grafía provisional)"
+      ],
+      "ambito": "regreso del grupo que huye",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No contacto con Mamá representado, pese a deseo de consuelo. No se informa a Oghma ni regresa cautivo con este grupo."
+    },
+    {
+      "id": "10-025",
+      "titulo": "Ayoto informa del fracaso a Bonnie",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Ayoto dice haber escapado de un lugar con muchos lagartos, duda de si son nawals y lo llama Ciudad de la Luna. Afirma que no puede enfrentarse a más de sesenta y que el elfo también regresó después de ser secuestrado. Bonnie insiste en que envió a cuatro y solo vuelve él, sin el mono ni los compañeros presentes; lo lleva a sentarse.",
+      "inicio": "02:31:00.000",
+      "fin": "02:35:00.000",
+      "cita": "Ciudad de la Luna",
+      "evidencia_cue": {
+        "inicio": "02:33:14.880",
+        "fin": "02:33:17.349",
+        "texto": "Lo comentado. Haber entrado en Ciudad de la Luna."
+      },
+      "entidades": [
+        "Ayoto / Ayuto (grafía provisional)",
+        "Happy Bonnie / Bonny (grafía provisional)",
+        "Erendriel (grafía provisional)",
+        "Poblado de hombres lagarto del pantano"
+      ],
+      "ambito": "informe del superviviente",
+      "conocedores": [
+        "Ayoto / Ayuto (grafía provisional)",
+        "Happy Bonnie / Bonny (grafía provisional)"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Ciudad de la Luna es descripción de Ayoto sin nombre oficial confirmado. Más de sesenta es estimación suya, no censo de combatientes. Bonnie no sabía participación de Blink."
+    },
+    {
+      "id": "10-026",
+      "titulo": "Bonnie exige una nueva expedición y mata a un pirata como ejemplo",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Bonnie apunta a Ayoto con pistola y exige recuperar a Pix. Le ordena llevar a Nox e Ione y traer al elfo; sus hombres de mesa no irán. Ayoto da su palabra y se corta como juramento del sol. Bonnie amenaza que no verá más sol si incumple y mata de un disparo a un pirata que bebía para mostrar las consecuencias. Manda a sus subordinados buscar a Nox e Ione.",
+      "inicio": "02:34:40.000",
+      "fin": "02:37:50.000",
+      "cita": "se muere el pirata",
+      "evidencia_cue": {
+        "inicio": "02:37:06.840",
+        "fin": "02:37:09.710",
+        "texto": "\"Es para poner un ejemplo.\" Y le mete un tiro, que ves que se muere el pirata,"
+      },
+      "entidades": [
+        "Happy Bonnie / Bonny (grafía provisional)",
+        "Ayoto / Ayuto (grafía provisional)",
+        "Nox",
+        "Ione",
+        "Erendriel (grafía provisional)",
+        "Pirata ejecutado por Bonnie (sin nombre)",
+        "Pix (mono de Bonnie)"
+      ],
+      "ambito": "amenaza y nuevo encargo",
+      "conocedores": [
+        "Ayoto / Ayuto (grafía provisional)",
+        "Happy Bonnie / Bonny (grafía provisional)"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Muerte explícita del pirata de ejemplo, distinta de caídas de PJ. Nox/Ione no están presentes ni se muestra reclutamiento o partida nueva aquí."
+    },
+    {
+      "id": "10-027",
+      "titulo": "Patata, Blink y Axi están vivos y enjaulados",
+      "tipo": "explicacion_director",
+      "afirmacion": "Al despedir la sesión, el director dice a Patata, Blink y Axi que de momento no preparen un personaje nuevo y confirma que están enjaulados. Alude a posible uso como sacrificios sin confirmar que se realice. Pix sigue sin aparecer ni ser rescatado.",
+      "inicio": "02:37:30.000",
+      "fin": "02:39:50.000",
+      "cita": "de momento estáis enjaulados",
+      "evidencia_cue": {
+        "inicio": "02:38:57.040",
+        "fin": "02:39:00.150",
+        "texto": "dioses, pero que sepáis que de momento estáis enjaulados."
+      },
+      "entidades": [
+        "Patata / Patatamán (grafía provisional)",
+        "Blink / Blank",
+        "Axi (identificación contextual con Chochi)",
+        "Pix (mono de Bonnie)",
+        "Poblado de hombres lagarto del pantano"
+      ],
+      "ambito": "estado adjudicado de cierre",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Confirmación de estado para jugadores; fugitivos no adquieren automáticamente noticia de que siguen vivos. No sacrificio, digestión, muerte definitiva o rescate consumados."
+    }
+  ]
+}

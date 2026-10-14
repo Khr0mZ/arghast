@@ -1,0 +1,661 @@
+{
+  "capitulo": 2,
+  "estado_revision": "revisado",
+  "resumen": "Tras los sucesos del estreno, Nox descubre el camarote de Ione destrozado, con las cadenas rotas, y no encuentra a la capitana. Se une al visitante Kilzer/Kilcer para buscarla. En la selva, Ayoto, un goliat de dos escudos con aspecto de caparazones de tortuga, y el arquero Chochi encuentran a Ione dormida y desnuda; ella promete comida a cambio de que la ayuden a regresar. Los dos grupos se reúnen y sufren una emboscada de cuatro atacantes que el director identifica como caníbales. Los aventureros los derrotan y después huyen ante la llegada de un enorme dinosaurio. De vuelta en Shiaru, se conocen mejor: Chochi relata la destrucción de su tribu y Ayoto su adopción y expulsión de otra. Una apuesta de pulso entre Ione y Ayoto termina en disputa porque Nox lo induce a perder. Bonnie interviene con un disparo y exige que suelten a Nox. El cierre deja sin acuerdo definitivo la apuesta, las monedas y las amenazas de ritual de sangre. Las grafías de los nuevos nombres siguen provisionales; no se identifican con Tortas u otros nombres del usuario sin confirmación.",
+  "registros": [
+    [
+      "00:00:00",
+      "00:02:05",
+      "Recapitulación de la noche anterior",
+      "declaracion_personaje",
+      "Los jugadores de Nox e Ione recapitulan que él dejó alojamiento a la anciana y acompañó a la capitana a su camarote. Ione menciona las cadenas y dice no recordar bien lo ocurrido tras la borrachera. No se explica una transformación ni el origen de los desperfectos.",
+      [
+        "Nox",
+        "Ione",
+        "Mamá / Citlali (identificación contextual provisional)"
+      ],
+      "Me encadena",
+      "recapitulación en la mesa",
+      [],
+      "desconocido",
+      "El relato utiliza bromas y eufemismos; no se toma guiño guiño como prueba de prácticas o causas concretas."
+    ],
+    [
+      "00:02:20",
+      "00:03:27",
+      "Juegos de azar del visitante",
+      "declaracion_personaje",
+      "El visitante cuenta que ha organizado juegos de azar y de trileros en la calle y que algunos piratas lo miran mal. El comentario de mesa recuerda que ha mentido sobre su nombre y raza.",
+      [
+        "Kilzer / Kilcer (grafía provisional)",
+        "Shiaru"
+      ],
+      "juegos de azar",
+      "actividad entre sesiones narrada por el jugador",
+      [],
+      "desconocido"
+    ],
+    [
+      "00:04:20",
+      "00:06:05",
+      "Camarote vacío y cadenas rotas",
+      "hecho_confirmado",
+      "Nox baja al camarote de Ione. El director describe la puerta medio destrozada, las cadenas rotas y arañazos en las paredes y suelo; la capitana no está allí.",
+      [
+        "Nox",
+        "Ione",
+        "Barco Zampaolas (grafía provisional)"
+      ],
+      "están rotas",
+      "escena de Nox en el barco",
+      [
+        "Nox"
+      ],
+      "desconocido",
+      "La escena confirma los desperfectos; no identifica quién los causó ni cómo se rompieron las cadenas."
+    ],
+    [
+      "00:06:15",
+      "00:08:20",
+      "Tripulación y enfado de Bonnie",
+      "hecho_confirmado",
+      "Nox pregunta por Ione a los tripulantes nombrados Baps, Sopa Mugre y Gustavo. No obtiene su paradero. El director muestra a Bonnie enfadada, rodeada por sus hombres, y Nox decide no preguntarle.",
+      [
+        "Nox",
+        "Baps (grafía provisional)",
+        "Sopa Mugre (grafía provisional)",
+        "Gustavo / Gustav (grafía provisional)",
+        "Happy Bonnie / Bonny (grafía provisional)"
+      ],
+      "Baps, Sopa Mugre y Gustavo",
+      "escena en la taberna",
+      [
+        "Nox"
+      ],
+      "desconocido",
+      "No se atribuye todavía el enfado de Bonnie a Ione: el motivo no se confirma en el pasaje."
+    ],
+    [
+      "00:12:00",
+      "00:18:15",
+      "Nox contrata ayuda para buscar a Ione",
+      "declaracion_personaje",
+      "Nox comunica al visitante que no encuentra a Ione y pide ayuda. El visitante acepta a cambio de desayuno y comida. Desayunan en la taberna y salen a reunir ayuda y buscarla.",
+      [
+        "Nox",
+        "Ione",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Pix"
+      ],
+      "encontrar a Jon",
+      "acuerdo para una búsqueda",
+      [
+        "Nox",
+        "Kilzer / Kilcer (grafía provisional)"
+      ],
+      "desconocido",
+      "La forma Jon se conserva en la cita. La obligación de pago es un acuerdo verbal, sin precio monetario fijo."
+    ],
+    [
+      "00:20:30",
+      "00:24:20",
+      "Ayoto y Chochi en la selva",
+      "explicacion_director",
+      "El director presenta a Ayoto, un goliat grande con dos escudos que parecen caparazones de tortuga, y a Chochi, un joven nativo con capa de plumas y arco. Oyen ronquidos que inicialmente toman por una criatura extraña.",
+      [
+        "Ayoto (grafía provisional)",
+        "Chochi (grafía provisional)",
+        "Selva de Xoltacan"
+      ],
+      "parece un Goliat",
+      "escena de los dos nuevos personajes",
+      [
+        "Ayoto (grafía provisional)",
+        "Chochi (grafía provisional)"
+      ],
+      "desconocido",
+      "La motosierra es una comparación del ruido en la mesa, no una máquina existente en el mundo."
+    ],
+    [
+      "00:24:20",
+      "00:30:15",
+      "Hallazgo y despertar de Ione",
+      "hecho_confirmado",
+      "Ayoto y Chochi encuentran a Ione dormida y desnuda en la selva. Los intentos de acercarse no la despiertan; una patada finalmente la despierta. Ella no sabe cómo ha llegado allí.",
+      [
+        "Ayoto (grafía provisional)",
+        "Chochi (grafía provisional)",
+        "Ione"
+      ],
+      "está en pelotas",
+      "encuentro en la selva",
+      [
+        "Ayoto (grafía provisional)",
+        "Chochi (grafía provisional)",
+        "Ione"
+      ],
+      "desconocido",
+      "Sus bromas sobre comérsela no constituyen un sacrificio realizado ni prueban costumbres de todas las tribus."
+    ],
+    [
+      "00:31:40",
+      "00:35:45",
+      "Comida a cambio de regresar al poblado",
+      "declaracion_personaje",
+      "Ione propone a los dos nativos que la ayuden a volver a su poblado y promete comida del otro lado del mar. Ayoto acepta su palabra en nombre del sol y empieza a llevarla consigo.",
+      [
+        "Ione",
+        "Ayoto (grafía provisional)",
+        "Chochi (grafía provisional)"
+      ],
+      "os invito a comer",
+      "acuerdo entre Ione y los nativos",
+      [
+        "Ione",
+        "Ayoto (grafía provisional)",
+        "Chochi (grafía provisional)"
+      ],
+      "desconocido"
+    ],
+    [
+      "00:36:00",
+      "00:39:20",
+      "Mono con el sombrero de la capitana",
+      "hecho_confirmado",
+      "En la búsqueda por la jungla, el director muestra a Nox y al visitante un mono que lleva en la boca el gorro de Ione. Utilizan su aparición como pista para seguir buscando.",
+      [
+        "Nox",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Ione",
+        "Mono del sombrero (sin nombre)"
+      ],
+      "lleva el gorro",
+      "escena de búsqueda",
+      [
+        "Nox",
+        "Kilzer / Kilcer (grafía provisional)"
+      ],
+      "desconocido",
+      "La propuesta de sustituir a la capitana por el mono es una broma, no un cambio de mando."
+    ],
+    [
+      "00:44:00",
+      "00:51:10",
+      "Reencuentro y tensión con los nativos",
+      "hecho_confirmado",
+      "Nox y el visitante encuentran a Ione con Ayoto y Chochi. Ione explica la promesa de comida. Chochi rechaza a los piratas y Nox intenta presentarlos como comerciantes. El reencuentro completa la búsqueda, aunque aún deben regresar y pagar la comida.",
+      [
+        "Nox",
+        "Ione",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Ayoto (grafía provisional)",
+        "Chochi (grafía provisional)"
+      ],
+      "bandera negra",
+      "reunión de los cinco personajes",
+      [
+        "Nox",
+        "Ione",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Ayoto (grafía provisional)",
+        "Chochi (grafía provisional)"
+      ],
+      "desconocido",
+      "El rechazo de Chochi a la bandera negra no demuestra una posición unánime de los habitantes de Xoltacan."
+    ],
+    [
+      "00:50:50",
+      "00:58:40",
+      "Emboscada y veneno",
+      "hecho_confirmado",
+      "Nox recibe un dardo y cae al suelo entumecido. Surgen cuatro atacantes entre los árboles, armados con lanzas y cerbatanas. Chochi y el visitante también reciben dardos y quedan envenenados durante parte del combate.",
+      [
+        "Nox",
+        "Ione",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Ayoto (grafía provisional)",
+        "Chochi (grafía provisional)",
+        "Atacantes caníbales de la selva (tribu sin identificar)"
+      ],
+      "Estás envenenado",
+      "combate y adjudicación del director",
+      [
+        "Nox",
+        "Ione",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Ayoto (grafía provisional)",
+        "Chochi (grafía provisional)"
+      ],
+      "desconocido",
+      "No se añade el nombre de una tribu. La frase inicial inconsciente se matiza enseguida con entumecimiento y habla de Nox; queda registrada la descripción inconsistente del estado."
+    ],
+    [
+      "01:03:30",
+      "01:05:45",
+      "Identificación de los atacantes",
+      "explicacion_director",
+      "El director indica que Ayoto y Chochi conocen o han visto a estas tribus y las describe como crueles, hostiles y consumidoras de carne humana. Esta información se atribuye a esos dos personajes, sin identificar una organización concreta.",
+      [
+        "Ayoto (grafía provisional)",
+        "Chochi (grafía provisional)",
+        "Atacantes caníbales de la selva (tribu sin identificar)"
+      ],
+      "carne humana",
+      "exposición del director sobre conocimiento de nativos",
+      [
+        "Ayoto (grafía provisional)",
+        "Chochi (grafía provisional)"
+      ],
+      "desconocido"
+    ],
+    [
+      "00:58:35",
+      "01:30:20",
+      "Victoria sobre los atacantes",
+      "hecho_confirmado",
+      "El grupo derrota a los cuatro atacantes. Chochi mata con su arco a tres de ellos; Ione remata al otro con un golpe. Nox, Ayoto y el visitante también intervienen. Ione devuelve un dardo y su veneno al atacante. El último enemigo trata de huir, pero muere por una flecha de Chochi.",
+      [
+        "Nox",
+        "Ione",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Ayoto (grafía provisional)",
+        "Chochi (grafía provisional)",
+        "Atacantes caníbales de la selva (tribu sin identificar)"
+      ],
+      "lo acabáis matando",
+      "combate resuelto por el director",
+      [
+        "Nox",
+        "Ione",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Ayoto (grafía provisional)",
+        "Chochi (grafía provisional)"
+      ],
+      "desconocido",
+      "La cita se localiza dentro del combate; la distribución de bajas procede de sus sucesivas adjudicaciones, no de un contador automático."
+    ],
+    [
+      "01:16:00",
+      "01:17:45",
+      "Nox confunde una cerbatana con un escupitajo",
+      "declaracion_personaje",
+      "El jugador aclara que reconoce la cerbatana, pero Nox piensa que el atacante ha escupido a Ione. Es un ejemplo explícito de diferencia entre conocimiento del jugador y de su personaje.",
+      [
+        "Nox",
+        "Ione"
+      ],
+      "como jugador sé",
+      "aclaración de perspectiva en la mesa",
+      [
+        "Nox"
+      ],
+      "desconocido",
+      "No se atribuye al personaje el conocimiento técnico de su jugador."
+    ],
+    [
+      "01:30:00",
+      "01:32:25",
+      "Botín y cuidados tras el combate",
+      "hecho_confirmado",
+      "El grupo examina a los atacantes y toma algunas pertenencias; Nox recoge dardos envenenados y una cerbatana. Se describen plantas preparadas como ungüento sobre heridas. No se fija un inventario completo ni una suma de dinero recuperada.",
+      [
+        "Nox",
+        "Ione",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Ayoto (grafía provisional)",
+        "Chochi (grafía provisional)"
+      ],
+      "dardos de estos envenenados",
+      "escena posterior al combate",
+      [],
+      "desconocido",
+      "El relato de curación con plantas no se convierte en una receta médica real ni una regla general de juego."
+    ],
+    [
+      "01:32:15",
+      "01:36:10",
+      "Dinosaurio y huida a Shiaru",
+      "hecho_confirmado",
+      "Ione percibe temblores y huye cargando a Nox; el resto la sigue. El director muestra un enorme dinosaurio que devora los cadáveres dejados atrás. Durante la carrera, Ione recupera su gorro del mono y llegan al poblado.",
+      [
+        "Nox",
+        "Ione",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Ayoto (grafía provisional)",
+        "Chochi (grafía provisional)",
+        "Dinosaurio de la selva (especie sin confirmar)",
+        "Shiaru",
+        "Mono del sombrero (sin nombre)"
+      ],
+      "un enorme dinosaurio",
+      "huida del grupo y descripción del director",
+      [
+        "Nox",
+        "Ione",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Ayoto (grafía provisional)",
+        "Chochi (grafía provisional)"
+      ],
+      "desconocido",
+      "El propio diálogo posterior dice que algunos no miraron al dinosaurio. Conocen la huida y sus señales; no se presume que todos vieron su aspecto o la devoración."
+    ],
+    [
+      "01:38:25",
+      "01:40:15",
+      "Chochi dice haber perdido su tribu",
+      "declaracion_personaje",
+      "Chochi dice no tener tribu porque fue masacrada o aniquilada. Se define como superviviente, no como desterrado. No identifica aquí a los responsables.",
+      [
+        "Chochi (grafía provisional)",
+        "Tribu destruida de Chochi (sin nombre)"
+      ],
+      "sobreviviente",
+      "conversación al regreso",
+      [
+        "Nox",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Ayoto (grafía provisional)",
+        "Chochi (grafía provisional)"
+      ],
+      "desconocido",
+      "La sospecha de Nox de que Ayoto deba una deuda por esa destrucción no es confirmada."
+    ],
+    [
+      "01:43:00",
+      "01:50:45",
+      "Pinky pide fuego y Ayoto lo prepara",
+      "hecho_confirmado",
+      "Pinky busca a Cipo y pide fuego. Nox la envía hacia los recién llegados. Ayoto y Chochi intentan encenderlo, fallan al principio y Pinky se marcha. Ayoto logra finalmente una llama y decide buscarla para cumplir lo que entiende como deuda con el sol.",
+      [
+        "Pinky",
+        "Cipo (grafía provisional)",
+        "Nox",
+        "Ayoto (grafía provisional)",
+        "Chochi (grafía provisional)"
+      ],
+      "deuda no es contigo",
+      "encuentro en el poblado",
+      [
+        "Pinky",
+        "Ayoto (grafía provisional)",
+        "Chochi (grafía provisional)"
+      ],
+      "desconocido"
+    ],
+    [
+      "01:54:00",
+      "02:00:10",
+      "Nox e Ione hablan del incidente nocturno",
+      "declaracion_personaje",
+      "Ione pregunta si hubo otros incidentes y Nox le muestra una marca de zarpazo vendada bajo la camisa. Ella agradece el rescate. Hablan de haber sido camaradas durante mucho tiempo y aluden a un encuentro íntimo antiguo, sin establecer una relación romántica actual.",
+      [
+        "Nox",
+        "Ione",
+        "Kilzer / Kilcer (grafía provisional)"
+      ],
+      "zarpato",
+      "conversación de los tres en el barco",
+      [
+        "Nox",
+        "Ione",
+        "Kilzer / Kilcer (grafía provisional)"
+      ],
+      "desconocido",
+      "No se confirma que Ione causara el zarpazo; la conversación es insinuante. La forma zarpato pertenece al reconocimiento automático."
+    ],
+    [
+      "02:08:00",
+      "02:10:05",
+      "Ayoto paga su deuda con fuego",
+      "hecho_confirmado",
+      "Ayoto encuentra a Pinky y le ofrece la llama; ella enciende su cigarro y le da las gracias. Él declara pagada su deuda con el sol y entra a comer.",
+      [
+        "Ayoto (grafía provisional)",
+        "Pinky"
+      ],
+      "he pagado mi deuda",
+      "resolución del encargo de fuego",
+      [
+        "Ayoto (grafía provisional)",
+        "Pinky"
+      ],
+      "desconocido"
+    ],
+    [
+      "02:10:00",
+      "02:14:00",
+      "Origen y expulsión de Ayoto",
+      "declaracion_personaje",
+      "Ante el grupo, Chochi explica que vagó tras la destrucción de su tribu y se quedó con Ayoto porque comparten idioma y casi la misma cultura. Ayoto relata que apareció en la isla de joven, fue adoptado por una tribu y luego expulsado por ser demasiado grande.",
+      [
+        "Ayoto (grafía provisional)",
+        "Chochi (grafía provisional)",
+        "Nox",
+        "Ione",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Tribu adoptiva de Ayoto (sin nombre)"
+      ],
+      "adoptado por tribu",
+      "relato de trasfondos dentro de la escena",
+      [
+        "Ayoto (grafía provisional)",
+        "Chochi (grafía provisional)",
+        "Nox",
+        "Ione",
+        "Kilzer / Kilcer (grafía provisional)"
+      ],
+      "desconocido",
+      "El motivo de expulsión es la versión de Ayoto; no se confirma con miembros de esa tribu."
+    ],
+    [
+      "02:14:15",
+      "02:18:45",
+      "El visitante huyó de su mala reputación",
+      "declaracion_personaje",
+      "El visitante dice haber abandonado una ciudad porque sus robos le dieron mala reputación y lo buscaban. Nox lleva comida a la mesa y sirve cuatro platos al grandullón, incluyendo un plato de calamares confirmado por el director.",
+      [
+        "Kilzer / Kilcer (grafía provisional)",
+        "Nox",
+        "Ayoto (grafía provisional)",
+        "Ione"
+      ],
+      "me empezaron a buscar",
+      "conversación y comida en la taberna",
+      [
+        "Nox",
+        "Ione",
+        "Ayoto (grafía provisional)",
+        "Chochi (grafía provisional)",
+        "Kilzer / Kilcer (grafía provisional)"
+      ],
+      "desconocido",
+      "La filosofía de liberar el dinero es su justificación del robo, no una propiedad sobrenatural confirmada de las monedas."
+    ],
+    [
+      "02:19:00",
+      "02:25:00",
+      "Trato de ayuda nocturna por comida",
+      "declaracion_personaje",
+      "Nox propone a Ayoto ayudarlo en una tarea que ciertas noches no se le da bien, a cambio de comida cuando la necesite. Después se describe que podrán buscarse mutuamente para ayuda y alimento. No se detalla la tarea.",
+      [
+        "Nox",
+        "Ayoto (grafía provisional)",
+        "Ione"
+      ],
+      "noches que",
+      "negociación junto a la mesa",
+      [
+        "Nox",
+        "Ayoto (grafía provisional)"
+      ],
+      "desconocido",
+      "No se da por hecho un contrato con condiciones completas ni que la tarea sea encadenar a Ione. Esa relación queda como hipótesis."
+    ],
+    [
+      "02:21:00",
+      "02:24:10",
+      "Ione protege a su tripulación",
+      "declaracion_personaje",
+      "Tras bromas sobre sacrificar a Nox, Ione advierte que acepta bromas sobre otras cosas, pero no hacer daño a su gente. Amenaza con responder con golpes y deja clara su lealtad a la tripulación.",
+      [
+        "Ione",
+        "Nox",
+        "Chochi (grafía provisional)",
+        "Ayoto (grafía provisional)",
+        "Kilzer / Kilcer (grafía provisional)"
+      ],
+      "No toques a mi tripulación",
+      "advertencia pública en la mesa",
+      [
+        "Ione",
+        "Nox",
+        "Chochi (grafía provisional)",
+        "Ayoto (grafía provisional)",
+        "Kilzer / Kilcer (grafía provisional)"
+      ],
+      "desconocido"
+    ],
+    [
+      "02:24:15",
+      "02:29:35",
+      "Bebida adulterada de Pix",
+      "hecho_confirmado",
+      "El director confirma olor a orina de mono en la bebida servida. Tras pedir especias, Ayoto mezcla la bebida y Pix vuelve a llenar una jarra con el sonido de su bragueta y de orinar. La escena se presenta como comportamiento del mono; no como tradición de todos los nativos.",
+      [
+        "Pix",
+        "Ayoto (grafía provisional)",
+        "Nox",
+        "Ione",
+        "Kilzer / Kilcer (grafía provisional)"
+      ],
+      "pipi de mono",
+      "servicio en la barra y comentarios de la mesa",
+      [],
+      "desconocido",
+      "Una intervención de la jugadora de Ione identifica su intención de robar al mono como pensamiento de jugadora, sin establecer que Ione lo piense."
+    ],
+    [
+      "02:32:00",
+      "02:36:05",
+      "Apuesta de pulso",
+      "declaracion_personaje",
+      "Ione y Ayoto acuerdan un pulso y discuten apuestas que incluyen unirse a la tripulación, monedas, vidas y condiciones de no beber cerveza o ir desnudos. El visitante objeta que no es propiedad de Ayoto y que no pueden apostarlo libremente.",
+      [
+        "Ione",
+        "Ayoto (grafía provisional)",
+        "Nox",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Chochi (grafía provisional)"
+      ],
+      "unís a mi tripulación",
+      "negociación de apuesta",
+      [
+        "Ione",
+        "Ayoto (grafía provisional)",
+        "Nox",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Chochi (grafía provisional)"
+      ],
+      "desconocido",
+      "Las condiciones son disputadas y cambian durante el diálogo. No se consolida ningún vínculo de propiedad ni reclutamiento por ese solo acuerdo."
+    ],
+    [
+      "02:36:00",
+      "02:39:55",
+      "Nox induce a Ayoto a perder",
+      "hecho_confirmado",
+      "Nox susurra pierde a Ayoto. Tras una salvación de Sabiduría fallida, el director establece que siente la necesidad inevitable de perder. Ayoto baja su propia mano y pierde el pulso; después agarra a Nox y le exige explicaciones. El visitante no detecta la intervención con su tirada, pero disputa las monedas.",
+      [
+        "Nox",
+        "Ayoto (grafía provisional)",
+        "Ione",
+        "Kilzer / Kilcer (grafía provisional)"
+      ],
+      "inevitable necesidad de perder",
+      "adjudicación del pulso y disputa",
+      [
+        "Nox",
+        "Ayoto (grafía provisional)"
+      ],
+      "desconocido",
+      "No se nombra inequívocamente el conjuro. Ione no capta inicialmente la trampa. El resultado mecánico del pulso no resuelve la validez de la apuesta."
+    ],
+    [
+      "02:40:55",
+      "02:44:50",
+      "Bonnie detiene la disputa",
+      "hecho_confirmado",
+      "Bonnie dispara a la mesa para imponer silencio. Ordena a Ayoto soltar a Nox porque lo necesita para sus negocios y para que pague la taberna. Ayoto lo suelta y propone repetir la apuesta a solas.",
+      [
+        "Happy Bonnie / Bonny (grafía provisional)",
+        "Nox",
+        "Ayoto (grafía provisional)",
+        "Ione",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Chochi (grafía provisional)"
+      ],
+      "pagar la",
+      "intervención pública en la taberna",
+      [
+        "Happy Bonnie / Bonny (grafía provisional)",
+        "Nox",
+        "Ayoto (grafía provisional)",
+        "Ione",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Chochi (grafía provisional)"
+      ],
+      "desconocido",
+      "No se ejecuta un ritual de sangre ni se muestra a Nox muerto o sacrificado."
+    ],
+    [
+      "02:44:00",
+      "02:49:05",
+      "Apuesta sin acuerdo final",
+      "hecho_confirmado",
+      "Ione reclama dinero al visitante y negocia ayuda para librarse del grandullón a cambio de parte de las monedas. La discusión sobre apuestas, propiedad, pago y un posible ritual de sangre continúa hasta el cierre. No hay acuerdo definitivo ni ritual realizado.",
+      [
+        "Ione",
+        "Nox",
+        "Ayoto (grafía provisional)",
+        "Chochi (grafía provisional)",
+        "Kilzer / Kilcer (grafía provisional)"
+      ],
+      "propuesta de otro ritual de sangre",
+      "disputa al cierre",
+      [],
+      "desconocido",
+      "Se mencionan diez monedas y una entrega de dos, pero los personajes discuten el saldo y sus condiciones. No se reconstruye un balance definitivo de inventario."
+    ]
+  ],
+  "misiones": [
+    "Buscar a Ione: Nox acuerda con el visitante ayuda a cambio de desayuno y comida (02-005); la encuentran con Ayoto y Chochi (02-010) y regresan juntos (02-016). Se sirve comida después (02-022). No se confirma que todas las compensaciones verbales hayan quedado satisfechas.",
+    "Regresar al poblado a cambio de comida: Ione lo acuerda con Ayoto y Chochi (02-008); tras la emboscada, regresan y Ayoto recibe los platos prometidos (02-016, 02-022).",
+    "Fuego para Pinky: intentos iniciales fallidos (02-018), entrega posterior consumada y agradecida (02-020).",
+    "Ayuda nocturna para Nox a cambio de comida: propuesta y entendimiento verbal sin especificación de la tarea ni ejecución mostrada (02-023).",
+    "Pulso y apuesta: Ayoto pierde por la intervención de Nox, pero las condiciones y la validez se disputan (02-026–02-029). No se declara reclutamiento definitivo de los apostantes ni pertenencia de unas personas a otras."
+  ],
+  "preguntas": [
+    "¿Qué ocurrió en el camarote y por qué se rompieron las cadenas? ¿Cómo llegó Ione desnuda a la selva? 02-001, 02-003 y 02-007 añaden evidencias a 01-019 y 01-034, sin confirmar causa sobrenatural.",
+    "¿Quién provocó el zarpazo que Nox muestra y qué causó el enfado de Bonnie? No está confirmado: 02-004 y 02-019.",
+    "¿Qué tribu masacró la de Chochi, cuándo ocurrió y dónde vivían? 02-017 y 02-021 no dan nombres ni responsables.",
+    "¿Cuál es la tribu adoptiva de Ayoto y fue realmente expulsado por su tamaño? Relato no corroborado: 02-021.",
+    "¿Qué tribu concreta compone la emboscada y qué especie es el dinosaurio? No se identifican: 02-012 y 02-016.",
+    "¿Qué ayuda nocturna solicita Nox a Ayoto? Se relaciona temáticamente con las cadenas, pero no se confirma esa conexión: 02-023.",
+    "¿Se repetirá el pulso? ¿Quién conserva las monedas y se cumple algún reclutamiento? El cierre deja la apuesta disputada: 02-027–02-029."
+  ],
+  "contradicciones": [
+    "02-001 recapitula un regreso al camarote con Ione después del cierre del capítulo 1, que mostraba a Nox lanzándose al mar con cadenas (01-034). Se conserva la información nueva; la transición no está mostrada ni fechada.",
+    "02-011 llama inicialmente inconsciente a Nox, pero enseguida lo describe tumbado, hablando y entumecido y le permite actuar en el siguiente turno. No se fija retrospectivamente un estado reglamentario coherente.",
+    "El visitante no se define como pirata, mientras Nox e Ione intentan incorporarlo a su tripulación o atribuirlo al grandullón durante la apuesta; su consentimiento y las condiciones siguen disputados (02-026–02-029).",
+    "Las afirmaciones de Nox sobre un negocio honesto y que no ha hecho nada al pulso contradicen la adjudicación de que su palabra induce a Ayoto a perder (02-027). Son negaciones de un personaje, no una corrección del resultado narrado.",
+    "El relato de tribu exterminada y el posterior no haber visto nunca personalmente a estos atacantes no establecen que los emboscadores destruyeran la tribu de Chochi. No se fusionan esas dos historias."
+  ],
+  "nombres_dudosos": [
+    "Ayoto/Ayotó/Ayototl y seudónimo Ayo; goliat con escudos de tortuga. No se confirma aquí su identificación con Tortas.",
+    "Chochi/Chuchi/Chochitl; también Chico Flor y Medic en la conversación. Grafía completa pendiente. Se conserva como entidad diferente del guerrero del capítulo 1.",
+    "El nombre del dios solar que Chochi menciona alrededor de 00:48:40 está mal reconocido como toac; no se asigna deidad concreta.",
+    "Baps/Babas, Sopa Mugre/Sopugre y Gustavo/Gustav: tripulantes reconocidos por contexto, grafías pendientes.",
+    "La encargada de la Sirena Borracha sigue sin nombre inequívoco: una L aislada al inicio no basta para fijarlo.",
+    "Pix, el mono, y Pinky, la anciana, se distinguen por continuidad de escena aunque el reconocimiento ocasionalmente mezcla sus nombres."
+  ]
+}

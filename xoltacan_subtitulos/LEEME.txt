@@ -1,0 +1,40 @@
+CRÓNICAS DE XOLTACAN - CAPÍTULOS 01 A 39
+======================================
+Canal: Lichpol (YouTube ID UCWJ11LdxIuDJpbknXpSPgeg)
+Índice verificado con vidIQ el 13/10/2026.
+
+Este paquete incluye el índice completo de los 39 capítulos en YouTube
+que se han localizado, y un script para bajar subtítulos disponibles.
+Todavía NO contiene subtítulos descargados: deben recuperarse desde una
+conexión a Internet con acceso a YouTube.
+
+REQUISITOS (Windows / Manjaro / Linux / macOS)
+ - Python 3 instalado.
+ - Instala yt-dlp con:
+       python -m pip install -U yt-dlp
+   En algunas distros Linux el comando de Python es 'python3'.
+
+USO
+ - Descomprime el ZIP en una carpeta.
+ - Abre una terminal en esa carpeta.
+ - Ejecuta:
+       python descargar_subtitulos.py
+ - El script crea /subtitulos con archivos .vtt (con marcas de tiempo)
+   y .txt para lectura o resumen, y un estado.csv.
+ - Puedes interrumpirlo y reanudarlo. Saltará capítulos ya obtenidos.
+ - No descarga los vídeos ni los audios completos.
+
+NOTAS
+ - Los nombres fantásticos pueden estar mal transcritos por YouTube.
+ - Si YouTube no ofrece subtítulos en algún capítulo, quedará indicado
+   en estado.csv. Esos capítulos necesitarán Whisper sobre el audio.
+ - Los archivos .txt se crean automáticamente a partir de los .vtt;
+   pueden contener repeticiones parciales si YouTube usa subtítulos
+   incrementales. Los .vtt originales se conservan sin alterar.
+ - Los archivos de este paquete incluyen enlaces y un programa, pero
+   no reproducen aquí los vídeos ni transcripciones completas.
+
+SIGUIENTE PASO
+ Comprima la carpeta con /subtitulos y adjúntala a ChatGPT. Entonces
+ podremos generar una crónica de hechos, NPCs, facciones y episodios,
+ con referencias a las marcas de tiempo que aparezcan en los .vtt.

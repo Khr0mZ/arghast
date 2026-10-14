@@ -1,0 +1,1060 @@
+{
+  "capitulo": 7,
+  "estado_revision": "revisado",
+  "resumen": "Patata, Nox, Mamá, Lunaria y Erendriel se reúnen en Shiaru. Las tiradas de descanso dejan a Patata sin herramientas de cocina, a Nox y Mamá cansados y a Lunaria y el elfo con menos monedas. Nox y Lunaria escuchan a dos piratas hablar de un huevo valioso entre ruinas más allá de un puente; Lunaria anota el camino y Mamá reconoce un antiguo templo derrumbado sobre un precipicio. Antes de salir, Nox y Erendriel discuten por el trato al dragón; Nox se presenta como Jim Hawkins, más conocido como Capitán Nox, y el supuesto duelo acaba sin disparos contra los cuerpos. En la selva, un grupo de piratas intenta capturar a Patata. Comienza una pelea con ceguera causada por la magia de Lunaria, mientras una gran criatura voladora atraída por el ruido derriba al elfo. El dragón también cae inconsciente; Patata y Nox los recuperan. Derrotan a varios piratas, capturan vivo a uno y una integrante huye en niebla. Patata mata a la criatura voladora. Mamá cruza el puente y se lleva el huevo para criarlo; Lunaria toma una moneda antigua, Nox una perla y el elfo copia símbolos que no entiende. Mamá no reconoce una relación entre las ruinas y los tatuajes de espalda de Nox. Regresan asustados por un ruido que el director revela después como Cipo, sin que los personajes lo comprueben. Nox entrega a Bonnie el cautivo, mapa, sombrero y perla, y acuerda con ella entregar en el futuro la criatura criada por Mamá, sin consentimiento de esta. Lunaria gana cinco monedas apostando a beber, aprovechando su inmunidad al alcohol adjudicada en esta sesión. Patata compra un hacha y sale a cortar árboles.",
+  "misiones": [
+    "Investigar el rumor de un huevo valioso: información y ruta anotadas (07-005), guía de Mamá y nido localizado (07-006, 07-012). Combate con piratas y criatura; huevo tomado por Mamá para crianza (07-013–07-023). No se vende ni eclosiona durante esta sesión.",
+    "Atacantes del nido: varios derrotados, un pirata capturado vivo y una integrante huida en niebla (07-016, 07-021). Cautivo y pruebas entregados a Bonnie (07-032); no se completa interrogatorio ni persecución de fugitiva.",
+    "Criar el huevo: intención de Mamá y preparación de un nido (07-023, 07-031). Nox promete a Bonnie entrega futura sin consentimiento de Mamá (07-033), abriendo conflicto y amenaza de pago si falla.",
+    "Recuperar gemas: Patata informa a Nox del reparto y la entrega a Liz, pide protección y acepta ayudar a reunirlas (07-029). Nox dice a Bonnie tener casi atado el asunto, pero ella señala que lleva una semana diciendo lo mismo (07-032). No se recupera conjunto completo aquí.",
+    "Alojamiento y gratitud del elfo: entrega tres monedas a Nox y obtiene permiso de dormir en el barco (07-030).",
+    "Granja de Patata: faltan herramientas de cocina y necesita material (07-001); compra hacha por tres platas y empieza a talar al cierre (07-031, 07-034). No se describe cosecha o granja acabada.",
+    "Apuesta de bebida de Lunaria: gana cinco monedas y recibe todas (07-034)."
+  ],
+  "preguntas": [
+    "¿Cuál es el significado del mapa y de los tatuajes de Nox? Mamá no reconoce vínculo con ruinas y explica que vio los tatuajes en una escena escrita entre sesiones; no hay símbolos transcritos o solución (07-025).",
+    "¿Qué saldrá del huevo y cuánto vale? Ni especie ni precio confirmados. ¿Mamá sabrá del pacto secreto de Nox con Bonnie? 07-023, 07-033.",
+    "¿Qué hará Bonnie si no recibe la cría o si muere? Amenaza sin ejecución mostrada (07-033).",
+    "¿Quién es la pirata pequeña que huyó, a qué grupo pertenece y volverá? Imagen mostrada a Bonnie, sin nombre (07-021, 07-032).",
+    "¿Qué información dará el cautivo del nido y qué destino tendrá? Entregado, no interrogado en escena (07-016, 07-032).",
+    "¿A qué cultura pertenecen las ruinas y qué dicen los símbolos copiados por el elfo? Escritura no entendida ni traducida (07-026).",
+    "¿Quién sustrajo las herramientas de cocina de Patata y las monedas de los demás? Tiradas sin autoría demostrada (07-001–07-003).",
+    "¿La montura comida por el pulpo en recapitulación es Merlucilla II? Se habla de montura de Poncelot sin nombrarla inequívocamente; no fusionar antes de aclaración (07-004).",
+    "¿Por qué Nox usa el nombre Capitán Nox además de Jim Hawkins? Declara ambos, sin historia completa de identidad (07-009)."
+  ],
+  "contradicciones": [
+    "Identidad de Nox: Jim Hawkins se declara expresamente como nombre más conocido como Capitán Nox (07-009). No contradice automáticamente alias Nox de capítulos anteriores ni autoriza fusionarlo con Naór.",
+    "Huellas: el elfo interpreta inicialmente que se alejan del sitio; el director corrige que simplemente no van hacia el puente y faltan en parte del radio (07-012).",
+    "Papel del dragón: el director aproxima tamaño a un metro/setenta kilos y rechaza transportarlo volando (07-015), frente a representaciones previas de criatura escondida bajo capa/hombro (01-010 y otros pasajes). Se conserva discrepancia, sin inventar crecimiento entre sesiones.",
+    "Compañero de clase: se habla de espíritu e invocación, pero acuerdan representar al dragón como criatura que queda inconsciente en vez de morir/desaparecer (07-019). No asignar muerte al turno de caída.",
+    "Vuelo de fruta: el elfo cree perderlo tras caer; el director aclara que sigue toda la partida (07-024–07-026).",
+    "Hallazgo de Lunaria: inicialmente bolitas de oro, luego se cambia explícitamente a moneda antigua (07-024). No sumar ambas versiones como inventarios simultáneos.",
+    "Grito al retirarse: personajes temen otro depredador, cámara revela que era Cipo después de irse (07-027–07-028). Diferencia de conocimiento, sin atribuir revelación al grupo.",
+    "Mamá quiere criar y cuidar el huevo (07-023), pero Nox pacta con Bonnie entregarlo para venta incluso por la fuerza, sin que Mamá esté presente (07-033). Conservar el conflicto de intenciones y acceso a información.",
+    "Recuerdo de reparto de gemas de Patata incluye a Ione como poseedora de la mayoría; el capítulo 4 mostró que repartió a compañeros y conservó collar sin gemas. Registrar declaración posterior sin recalcular inventario por ella (07-029 frente a 04-021)."
+  ],
+  "nombres_dudosos": [
+    "Jim Hawkins = Capitán Nox por autodeclaración explícita a 00:35. No extrapolar a Naór u otros nombres del usuario.",
+    "Fuerte Aurora: ubicación aproximada al sur del Garfio mencionada por Nox; distinguir de minas visitadas en capítulo 3 y del puente/templo de este capítulo.",
+    "Criatura voladora recibe términos poco claros como peroctil y pajarraco; mantener dinosaurio volador sin especie exacta. Su maternidad respecto al huevo es interpretación de Mamá, no identidad comprobada.",
+    "Cautivo del nido distinto de Jack/Jackie, marine cautivo que sigue en taberna. Piratas del rumor distintos de los muertos enviados por Bonnie en capítulo 4 salvo prueba posterior.",
+    "Dragoncito de Erendriel sigue sin nombre inequívoco. Cambia de sexo por fruta, no representa otra mascota.",
+    "Dane o expresión similar al final del duelo podría ser palabra suelta o nombre mal reconocido; no se normaliza Erendriel por esa sola mención.",
+    "Mamá/Citlali: la jugadora explica hechos de Sitlali en conversaciones; se mantiene continuidad con identificación ya respaldada en capítulo 3."
+  ],
+  "fuente_sha256": "5e2111ac4d8beb467ab219706f03f4a6d95488fde9af9239fa32caeec9ba110a",
+  "afirmaciones": [
+    {
+      "id": "07-001",
+      "titulo": "Herramientas de cocina perdidas",
+      "tipo": "explicacion_director",
+      "afirmacion": "Patata relata que sigue buscando terreno para su granja y vuelve a comprar herramientas. La tirada de sucesos determina que durante sus descansos han desaparecido cucharón, olla, cubiertos y herramientas de cocinero.",
+      "inicio": "00:00:00.000",
+      "fin": "00:02:30.000",
+      "cita": "te faltan tus herramientas de cocinero",
+      "evidencia_cue": {
+        "inicio": "00:02:08.520",
+        "fin": "00:02:11.750",
+        "texto": "día pues te faltan tus herramientas de cocinero."
+      },
+      "entidades": [
+        "Patata / Patatamán (grafía provisional)",
+        "Shiaru"
+      ],
+      "ambito": "actividad y suceso entre sesiones",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se identifica ladrón. Las negativas humorísticas de Lunaria no prueban que las haya robado."
+    },
+    {
+      "id": "07-002",
+      "titulo": "Nox mantiene a Jack y cede su camarote a Mamá",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Nox relata que sigue intentando adaptar a Jack a la vida pirata y admite que está medio secuestrado. Dice haber cedido su camarote a Mamá. Las tiradas del director adjudican mal descanso y cansancio a Nox y Mamá.",
+      "inicio": "00:02:10.000",
+      "fin": "00:04:50.000",
+      "cita": "medio secuestrado",
+      "evidencia_cue": {
+        "inicio": "00:02:51.080",
+        "fin": "00:02:54.030",
+        "texto": "que se adapte un poco a la vida pirata, ya que el pobre está medio secuestrado,"
+      },
+      "entidades": [
+        "Nox",
+        "Jack / Jackie (marine cautivo, variantes de apellido)",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Barco Zampaolas (grafía provisional)"
+      ],
+      "ambito": "recapitulación y descanso adjudicado",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La continuidad del cautivo se confirma después en la taberna. No se representa libertad de Jack ni cumplimiento de promesa de devolverlo a Lucy."
+    },
+    {
+      "id": "07-003",
+      "titulo": "Actividad de Lunaria y Erendriel",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Lunaria relata que recorrió el poblado entrando por ventanas cuando no la dejaban pasar. Pierde tres monedas en la tirada de descanso. Erendriel cuenta que Mamá lo llevó a cenar, mató un dinosaurio y le dejó habitación para meditar; su tirada le hace perder cuatro monedas.",
+      "inicio": "00:04:35.000",
+      "fin": "00:07:55.000",
+      "cita": "quítate tres moneditas de oro",
+      "evidencia_cue": {
+        "inicio": "00:06:07.120",
+        "fin": "00:06:09.950",
+        "texto": "Vale, pues Lunaria, quítate tres moneditas de oro y"
+      },
+      "entidades": [
+        "Lunaria / Luna",
+        "Erendriel (grafía provisional)",
+        "Mamá / Citlali (identificación contextual provisional)"
+      ],
+      "ambito": "recapitulaciones y sucesos de descanso",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se narra autor de las pérdidas. La cena y muerte del dinosaurio proceden de la recapitulación, no de una escena representada en este vídeo."
+    },
+    {
+      "id": "07-004",
+      "titulo": "Otra montura comida según recapitulación",
+      "tipo": "explicacion_director",
+      "afirmacion": "Al presentar la escena, el director alude a acontecimientos entre sesiones con un pirata y lagartija, Poncelot, una montura y un pulpo que se la come. Poncelot no participa en esta expedición y se lo sitúa buscando otro corcel.",
+      "inicio": "00:07:55.000",
+      "fin": "00:10:30.000",
+      "cita": "un pulpo se comía",
+      "evidencia_cue": {
+        "inicio": "00:08:29.680",
+        "fin": "00:08:32.509",
+        "texto": "cogía, se lo llevaba pues por ahí un pulpo se comía al a la montura del"
+      },
+      "entidades": [
+        "Sir Poncelot",
+        "Hipocampo Merlucilla II",
+        "Pulpo de la recapitulación (sin identificar)"
+      ],
+      "ambito": "recapitulación del director de escenas entre sesiones",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se nombra inequívocamente a la montura en ese pasaje. Merlucilla II es candidata por continuidad, no identificación concluyente. El dragón del elfo está vivo en escenas posteriores y no se declara su muerte por esta frase."
+    },
+    {
+      "id": "07-005",
+      "titulo": "Rumor del huevo anotado por Lunaria",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Nox y Lunaria oyen a dos piratas hablar de un huevo enorme y valioso en nidos entre ruinas tras un puente. Lunaria se acerca entre cajas, usa un ruido como distracción y anota sus indicaciones con papel y pluma obtenidos en el buque.",
+      "inicio": "00:10:10.000",
+      "fin": "00:16:30.000",
+      "cita": "hay un huevo así de grande",
+      "evidencia_cue": {
+        "inicio": "00:15:28.639",
+        "fin": "00:15:31.350",
+        "texto": "destrozadas. Ahí se ve que han puesto los nidos y hay un huevo así de grande."
+      },
+      "entidades": [
+        "Nox",
+        "Lunaria / Luna",
+        "Dos piratas del rumor del huevo",
+        "Huevo grande del nido",
+        "Ruinas del puente y nido"
+      ],
+      "ambito": "información oída y anotada",
+      "conocedores": [
+        "Nox",
+        "Lunaria / Luna"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "El valor monetario es expectativa de los piratas. Todavía no han observado el huevo ni el nido."
+    },
+    {
+      "id": "07-006",
+      "titulo": "Mamá reconoce el puente y el antiguo templo",
+      "tipo": "explicacion_director",
+      "afirmacion": "Mamá reconoce las indicaciones: puente de madera sobre un gran precipicio y estancia circular de un templo derrumbado hace años, invadido por la selva. Nox había entendido que el huevo podía ser Patata secuestrado, pero la aparición de Patata desmiente esa interpretación.",
+      "inicio": "00:16:20.000",
+      "fin": "00:22:10.000",
+      "cita": "un gran precipicio",
+      "evidencia_cue": {
+        "inicio": "00:20:15.559",
+        "fin": "00:20:19.590",
+        "texto": "de madera que cruza un gran un gran precipicio y hay una como una especie de"
+      },
+      "entidades": [
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Nox",
+        "Patata / Patatamán (grafía provisional)",
+        "Ruinas del puente y nido"
+      ],
+      "ambito": "orientación adjudicada a Mamá y corrección de interpretación",
+      "conocedores": [
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Nox",
+        "Lunaria / Luna",
+        "Patata / Patatamán (grafía provisional)"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se identifica civilización ni deidad del templo. El rumor del huevo no era un secuestro de Patata."
+    },
+    {
+      "id": "07-007",
+      "titulo": "Se reúne el grupo con el dragón vivo",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Patata se suma a investigar las ruinas. El dragón de Erendriel está con Mamá, que llama al elfo desde fuera del barco para acompañarlos. Lunaria ofrece comida a la criatura; Nox la toma momentáneamente por la cola y ofrece a Mamá las llaves del barco.",
+      "inicio": "00:22:00.000",
+      "fin": "00:26:30.000",
+      "cita": "su acompañante",
+      "evidencia_cue": {
+        "inicio": "00:23:50.880",
+        "fin": "00:23:56.310",
+        "texto": "dragoncito, ¿eh? Hace falta su acompañante."
+      },
+      "entidades": [
+        "Patata / Patatamán (grafía provisional)",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Lunaria / Luna",
+        "Nox",
+        "Erendriel (grafía provisional)",
+        "Dragón joven del elfo (nombre sin confirmar)",
+        "Barco Zampaolas (grafía provisional)"
+      ],
+      "ambito": "reunión de expedición",
+      "conocedores": [
+        "Patata / Patatamán (grafía provisional)",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Lunaria / Luna",
+        "Nox",
+        "Erendriel (grafía provisional)"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se transforma la interacción de Nox con la cola en un rescate confirmado ni se presume propiedad del dragón por alimentarlo."
+    },
+    {
+      "id": "07-008",
+      "titulo": "Nox descubre quién repartió las gemas",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Patata cuenta a Nox que Ione les dio las gemas. Nox se muestra sorprendido y satisfecho de que la idea fuera suya, pero recuerda que Bonnie controla comercio y tráfico del poblado y que deben hablar con ella para evitar problemas.",
+      "inicio": "00:26:00.000",
+      "fin": "00:29:55.000",
+      "cita": "Se le ha ocurrido a ella sola",
+      "evidencia_cue": {
+        "inicio": "00:28:24.919",
+        "fin": "00:28:27.509",
+        "texto": "Por fin está creciendo mi chica. Se le ha ocurrido a ella sola. Esto me parece"
+      },
+      "entidades": [
+        "Nox",
+        "Patata / Patatamán (grafía provisional)",
+        "Ione",
+        "Happy Bonnie / Bonny (grafía provisional)",
+        "Gemas extraídas del collar"
+      ],
+      "ambito": "conversación sobre reparto anterior",
+      "conocedores": [
+        "Nox",
+        "Patata / Patatamán (grafía provisional)"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Nox no había presenciado el reparto de capítulo 4. Su aprobación posterior no prueba que lo hubiera organizado previamente."
+    },
+    {
+      "id": "07-009",
+      "titulo": "Nox se presenta como Jim Hawkins",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Erendriel reclama a Nox que no toque a sus compañeros. Nox le apunta con pistola y se presenta como Jim Hawkins, más conocido como Capitán Nox, mientras lo desafía a un duelo.",
+      "inicio": "00:30:00.000",
+      "fin": "00:35:50.000",
+      "cita": "Jim Hawkins, más conocido como Capitán",
+      "evidencia_cue": {
+        "inicio": "00:35:09.520",
+        "fin": "00:35:12.710",
+        "texto": "Digo, ya que sabes tanto mi nombre, Jim Hawkins, más conocido como Capitán Nox."
+      },
+      "entidades": [
+        "Nox",
+        "Jim Hawkins (identidad declarada de Nox)",
+        "Erendriel (grafía provisional)",
+        "Dragón joven del elfo (nombre sin confirmar)"
+      ],
+      "ambito": "declaración de identidad ante el grupo",
+      "conocedores": [
+        "Nox",
+        "Erendriel (grafía provisional)",
+        "Patata / Patatamán (grafía provisional)",
+        "Lunaria / Luna"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Es la identidad que Nox declara explícitamente. No se identifica con Naór por parecido o por la lista del usuario."
+    },
+    {
+      "id": "07-010",
+      "titulo": "Duelo sin heridas y Mamá intenta detenerlo",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Erendriel muestra arco y luego pistolas y su jugador aclara que no tiene balas. Nox cuenta para el duelo, no dispara contra él y después tira al cielo y le reclama deudas o favores. Erendriel amenaza con hablar de Nox a la Marina y Nox menciona Fuerte Aurora al sur del Garfio. Mamá intenta corregir a ambos con sandalias, sin acertar.",
+      "inicio": "00:35:35.000",
+      "fin": "00:42:40.000",
+      "cita": "El fuerte Aurora creo que está en el sur",
+      "evidencia_cue": {
+        "inicio": "00:38:35.599",
+        "fin": "00:38:37.109",
+        "texto": "ahí tienes un bote. El fuerte Aurora creo que está en el sur, al bajo de los"
+      },
+      "entidades": [
+        "Nox",
+        "Erendriel (grafía provisional)",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Fuerte Aurora",
+        "El Garfio"
+      ],
+      "ambito": "disputa, disparo al aire y referencia geográfica",
+      "conocedores": [
+        "Nox",
+        "Erendriel (grafía provisional)",
+        "Patata / Patatamán (grafía provisional)",
+        "Lunaria / Luna",
+        "Mamá / Citlali (identificación contextual provisional)"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La ubicación de Fuerte Aurora se da como conocimiento aproximado de Nox, no coordenadas inspeccionadas. No hay herida por duelo ni envío efectivo de aviso a la Marina."
+    },
+    {
+      "id": "07-011",
+      "titulo": "Frutas de la expedición",
+      "tipo": "explicacion_director",
+      "afirmacion": "Durante el camino, las frutas hacen a Nox más supersticioso, a Lunaria translúcida, cambian temporalmente a Patata a forma femenina, dan vuelo a Erendriel, cambian el sexo de su dragón y aumentan la armadura de Mamá. Se adjudican como efectos de esta partida.",
+      "inicio": "00:42:00.000",
+      "fin": "00:47:20.000",
+      "cita": "Patata Woman",
+      "evidencia_cue": {
+        "inicio": "00:45:42.280",
+        "fin": "00:45:49.910",
+        "texto": "patatam pasa a ser Patata Woman."
+      },
+      "entidades": [
+        "Nox",
+        "Lunaria / Luna",
+        "Patata / Patatamán (grafía provisional)",
+        "Erendriel (grafía provisional)",
+        "Dragón joven del elfo (nombre sin confirmar)",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Frutas de la selva (efectos de sesión)"
+      ],
+      "ambito": "efectos temporales de frutas",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se interpreta Patata Woman como personaje distinto ni se atribuyen esos efectos permanentemente. El vuelo continúa tras caer en combate según aclaración posterior."
+    },
+    {
+      "id": "07-012",
+      "titulo": "Puente, nido y huellas ausentes",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Mamá conduce al grupo al puente y a un montículo con grandes esculturas o cabezas antiguas y un nido enorme. El ruido de la selva impide saber si hay criaturas cerca. El elfo encuentra huellas de diferentes animales, pero no hacia el puente ni en parte del radio próximo; el director corrige que no significa necesariamente huida de animales.",
+      "inicio": "00:47:00.000",
+      "fin": "00:55:15.000",
+      "cita": "No se alejan, no van",
+      "evidencia_cue": {
+        "inicio": "00:53:45.319",
+        "fin": "00:53:47.630",
+        "texto": "alejan de ese sitio. No se alejan, no van. Es diferente,"
+      },
+      "entidades": [
+        "Ruinas del puente y nido",
+        "Huevo grande del nido",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Erendriel (grafía provisional)",
+        "Nox",
+        "Lunaria / Luna",
+        "Patata / Patatamán (grafía provisional)"
+      ],
+      "ambito": "llegada y examen de entorno",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Se conserva corrección de interpretación de rastros. No se identifica la cabeza como una deidad histórica concreta ni se fecha su antigüedad por bromas sobre la edad de Mamá."
+    },
+    {
+      "id": "07-013",
+      "titulo": "Piratas intentan capturar a Patata",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Un capitán pirata sorprende a Patata poniéndole pistola en la sien y ordena atarlo. Lunaria intenta distraerlo con fuego ilusorio y Nox intenta paralizarlo, pero ambos fallan. El capitán dispara y le produce un corte sobre la ceja; comienza el combate.",
+      "inicio": "00:54:50.000",
+      "fin": "01:01:25.000",
+      "cita": "un buen corte aquí encima de la ceja",
+      "evidencia_cue": {
+        "inicio": "01:01:12.280",
+        "fin": "01:01:15.309",
+        "texto": "patata, ¿sabes? Te hace un buen corte aquí encima de la ceja patata."
+      },
+      "entidades": [
+        "Patata / Patatamán (grafía provisional)",
+        "Lunaria / Luna",
+        "Nox",
+        "Piratas del nido (grupo sin nombre)"
+      ],
+      "ambito": "emboscada de piratas",
+      "conocedores": [
+        "Patata / Patatamán (grafía provisional)",
+        "Nox",
+        "Lunaria / Luna",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Erendriel (grafía provisional)"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La intención de atarlo no se considera captura completada sin la escena de ataduras. El capitán no muere por el primer intercambio."
+    },
+    {
+      "id": "07-014",
+      "titulo": "Ceguera y nueva inmunidad al alcohol de Lunaria",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Lunaria lanza un efecto de flores que ciega a Patata y a los piratas afectados, excepto el capitán que resiste. Su oleada de magia salvaje le da inmunidad a intoxicarse por alcohol durante veintiún días; el director confirma que ella sabe que la tiene.",
+      "inicio": "01:02:30.000",
+      "fin": "01:07:15.000",
+      "cita": "durante 21 días eres inmune alcohol",
+      "evidencia_cue": {
+        "inicio": "01:06:09.079",
+        "fin": "01:06:10.789",
+        "texto": "Pues durante 21 días eres inmune alcohol. Puedes ser intoxicado por"
+      },
+      "entidades": [
+        "Lunaria / Luna",
+        "Patata / Patatamán (grafía provisional)",
+        "Piratas del nido (grupo sin nombre)"
+      ],
+      "ambito": "magia adjudicada durante combate",
+      "conocedores": [
+        "Lunaria / Luna"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La ceguera afecta a una aliada además de enemigos. Esta adjudicación del 7 se distingue de la inmunidad de la oleada del 6; duración explícita aquí, no efecto permanente."
+    },
+    {
+      "id": "07-015",
+      "titulo": "Mamá derriba al capitán y el elfo vuela",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "El capitán vuelve a disparar a Patata y ordena a sus compañeros matarlos. Mamá lo derriba con una sandalia mientras huye. Erendriel se eleva gracias a la fruta y dispara desde arriba. El director aclara que no puede llevar encima al dragón por tamaño y peso; la cría permanece en el suelo.",
+      "inicio": "01:06:20.000",
+      "fin": "01:12:20.000",
+      "cita": "pesa como 70",
+      "evidencia_cue": {
+        "inicio": "01:11:11.040",
+        "fin": "01:11:14.430",
+        "texto": "de un dragón. La cría de un dragón es ni de 1 metro y pesa como 70 kg. Pues he"
+      },
+      "entidades": [
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Patata / Patatamán (grafía provisional)",
+        "Erendriel (grafía provisional)",
+        "Dragón joven del elfo (nombre sin confirmar)",
+        "Piratas del nido (grupo sin nombre)"
+      ],
+      "ambito": "combate y aclaración del director",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "El director aproxima la cría a un metro y setenta kilos. Esto discrepa con imágenes previas de cabecita escondida bajo hombro o capa; no se corrige retrospectivamente su tamaño anterior ni se supone que el peso se haya medido."
+    },
+    {
+      "id": "07-016",
+      "titulo": "Nox captura vivo a un pirata",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Una integrante pequeña intenta empujar a Mamá hacia el precipicio y falla. El dragón muerde a un pirata. Nox lo ataca de forma no letal, le corta el cinturón para bajarle los pantalones y lo deja inconsciente con intención de interrogarlo.",
+      "inicio": "01:17:40.000",
+      "fin": "01:24:05.000",
+      "cita": "para dejarlo inconsciente",
+      "evidencia_cue": {
+        "inicio": "01:23:32.199",
+        "fin": "01:23:37.350",
+        "texto": "meterías ese golpecito para dejarlo inconsciente."
+      },
+      "entidades": [
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Pirata cautivo del nido (sin nombre)",
+        "Nox",
+        "Dragón joven del elfo (nombre sin confirmar)",
+        "Pirata pequeña huida (sin nombre)"
+      ],
+      "ambito": "control de un enemigo durante combate",
+      "conocedores": [
+        "Nox"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "El cautivo es un pirata distinto del marine Jack. No se confunde una nueva captura con su muerte."
+    },
+    {
+      "id": "07-017",
+      "titulo": "La criatura voladora derriba a Erendriel",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "El ruido de la pelea atrae una gran criatura voladora del nido o sus cercanías. Muerde a Erendriel en el aire, le inflige daño por la carga y lo deja en el suelo haciendo salvaciones de muerte. Mamá la golpea con su arma representada como sandalia.",
+      "inicio": "01:25:20.000",
+      "fin": "01:30:30.000",
+      "cita": "Tirada de salvación de muerte",
+      "evidencia_cue": {
+        "inicio": "01:30:08.320",
+        "fin": "01:30:12.149",
+        "texto": "Arendiel. Tirada de salvación de muerte."
+      },
+      "entidades": [
+        "Criatura voladora del nido (dinosaurio, especie sin confirmar)",
+        "Erendriel (grafía provisional)",
+        "Mamá / Citlali (identificación contextual provisional)"
+      ],
+      "ambito": "ataque de criatura durante combate con piratas",
+      "conocedores": [
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Erendriel (grafía provisional)"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La descripción del nombre de especie es irregular; se conserva como criatura voladora sin fijar pteranodon u otra ficha de monstruo. El elfo todavía no está muerto."
+    },
+    {
+      "id": "07-018",
+      "titulo": "Mapa, siete monedas y rescate del elfo",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Nox registra al capitán caído y toma siete monedas de oro y un mapa con la ruta desde el poblado. Algunas caras del grupo le suenan. Patata sale de la ceguera y cura a Erendriel, que recupera la conciencia.",
+      "inicio": "01:30:10.000",
+      "fin": "01:34:45.000",
+      "cita": "siete monedas de oro",
+      "evidencia_cue": {
+        "inicio": "01:32:16.880",
+        "fin": "01:32:18.590",
+        "texto": "Pues siete monedas de oro que te llevas,"
+      },
+      "entidades": [
+        "Nox",
+        "Piratas del nido (grupo sin nombre)",
+        "Mapa de los piratas al nido",
+        "Patata / Patatamán (grafía provisional)",
+        "Erendriel (grafía provisional)"
+      ],
+      "ambito": "registro y curación durante combate",
+      "conocedores": [
+        "Nox",
+        "Patata / Patatamán (grafía provisional)",
+        "Erendriel (grafía provisional)"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "El reconocimiento se aclara al final como dos piratas que hablaban en el puerto. La curación del elfo no es una resurrección."
+    },
+    {
+      "id": "07-019",
+      "titulo": "El dragón cae, pero no muere",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "La criatura voladora se lanza sobre Mamá y falla. Erendriel se aparta usando su capacidad de desplazamiento, mientras la pirata pequeña ataca al dragón con magia. Al tratar de retirarse, el dragón recibe otro ataque y cae inconsciente. La mesa aclara que, aunque su mecánica de clase suele hacer desaparecer al compañero, en esta campaña se representa una criatura viva que queda inconsciente.",
+      "inicio": "01:34:20.000",
+      "fin": "01:42:40.000",
+      "cita": "no se muere si no se queda inconsciente",
+      "evidencia_cue": {
+        "inicio": "01:42:08.199",
+        "fin": "01:42:10.109",
+        "texto": "entonces es no no se muere si no se queda inconsciente,"
+      },
+      "entidades": [
+        "Criatura voladora del nido (dinosaurio, especie sin confirmar)",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Erendriel (grafía provisional)",
+        "Dragón joven del elfo (nombre sin confirmar)",
+        "Pirata pequeña huida (sin nombre)"
+      ],
+      "ambito": "combate y convención de representación",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se transforma el comentario mecánico sobre espíritu o invocación en muerte o desmaterialización observada del dragón. Tampoco se fija por ese comentario una especie sobrenatural real."
+    },
+    {
+      "id": "07-020",
+      "titulo": "Nox recupera al dragón",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Nox daña a dos piratas con sus ataques y cura al dragón, al que anima a levantarse. La tirada de trato con animales hace que la criatura lo mire y responda a su ayuda.",
+      "inicio": "01:42:00.000",
+      "fin": "01:44:55.000",
+      "cita": "para curarle un poquito",
+      "evidencia_cue": {
+        "inicio": "01:43:50.679",
+        "fin": "01:43:52.950",
+        "texto": "arriba, campeón.\" y le tiro el para curarle un poquito."
+      },
+      "entidades": [
+        "Nox",
+        "Dragón joven del elfo (nombre sin confirmar)",
+        "Piratas del nido (grupo sin nombre)"
+      ],
+      "ambito": "ayuda al compañero caído",
+      "conocedores": [
+        "Nox",
+        "Erendriel (grafía provisional)"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La broma de nuevo dueño no es cambio de propiedad o vínculo mágico confirmado. Nox había amenazado al cuidador antes; la ayuda posterior se conserva como evolución, no borra el conflicto."
+    },
+    {
+      "id": "07-021",
+      "titulo": "Criatura y piratas derrotados, una huye",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Patata mata a la criatura voladora con un efecto radiante. Mamá y Erendriel rematan ataques contra los piratas restantes. La integrante pequeña huye mediante una nube de niebla; el pirata previamente dejado inconsciente sigue vivo.",
+      "inicio": "01:44:00.000",
+      "fin": "01:49:35.000",
+      "cita": "una nube",
+      "evidencia_cue": {
+        "inicio": "01:49:10.440",
+        "fin": "01:49:19.270",
+        "texto": "P os tira una nube y escucháis"
+      },
+      "entidades": [
+        "Patata / Patatamán (grafía provisional)",
+        "Criatura voladora del nido (dinosaurio, especie sin confirmar)",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Erendriel (grafía provisional)",
+        "Pirata pequeña huida (sin nombre)",
+        "Pirata cautivo del nido (sin nombre)",
+        "Piratas del nido (grupo sin nombre)"
+      ],
+      "ambito": "fin del combate y fuga",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se añade número exacto de muertos fuera de los resultados narrados. La niebla no se usa para concluir teletransporte o desaparición permanente de la fugitiva."
+    },
+    {
+      "id": "07-022",
+      "titulo": "Cautivo atado, plumas y anatomía",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "El director confirma que entre los piratas había los dos que Nox oyó en el puerto. Nox toma el sombrero del líder y ata al superviviente a una palmera. Lunaria recoge plumas de la criatura muerta; Erendriel examina su anatomía y ve piel más sensible en cuello y alas. Mamá empieza a cruzar hacia el nido.",
+      "inicio": "01:50:15.000",
+      "fin": "01:54:50.000",
+      "cita": "son los que habías encontrado en el puerto",
+      "evidencia_cue": {
+        "inicio": "01:51:33.239",
+        "fin": "01:51:34.510",
+        "texto": "y quizá este son los que habías encontrado en el puerto que estaban"
+      },
+      "entidades": [
+        "Nox",
+        "Dos piratas del rumor del huevo",
+        "Pirata cautivo del nido (sin nombre)",
+        "Sombrero del líder de los piratas del nido",
+        "Lunaria / Luna",
+        "Erendriel (grafía provisional)",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Criatura voladora del nido (dinosaurio, especie sin confirmar)"
+      ],
+      "ambito": "reconocimiento y acciones posteriores",
+      "conocedores": [
+        "Nox",
+        "Lunaria / Luna",
+        "Erendriel (grafía provisional)",
+        "Mamá / Citlali (identificación contextual provisional)"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Que Nox los denuncie como hombres de Bonnie no confirma por sí solo obediencia o pertenencia formal a su grupo; el director los vincula al rumor oído, no a los piratas muertos del capítulo 4."
+    },
+    {
+      "id": "07-023",
+      "titulo": "Mamá toma el huevo para criarlo",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Mamá cruza el puente a las ruinas del templo, sube al nido y toma el huevo grande, ocultándolo bajo su falda para llevárselo. Se disculpa con la criatura por haber matado a su madre y luego insiste en cuidarlo.",
+      "inicio": "01:54:00.000",
+      "fin": "01:57:35.000",
+      "cita": "te lo puedes llevar",
+      "evidencia_cue": {
+        "inicio": "01:56:29.599",
+        "fin": "01:56:31.189",
+        "texto": "pesa bastante, pero bueno, te lo puedes llevar y yo diría que te lo guardas"
+      },
+      "entidades": [
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Huevo grande del nido",
+        "Ruinas del puente y nido",
+        "Criatura voladora del nido (dinosaurio, especie sin confirmar)"
+      ],
+      "ambito": "recogida de huevo",
+      "conocedores": [
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Nox",
+        "Lunaria / Luna"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La maternidad del animal abatido es interpretación de Mamá basada en el nido; no se aporta especie, fecha de eclosión ni comprobación biológica. Su intención es criar, no vender."
+    },
+    {
+      "id": "07-024",
+      "titulo": "Moneda antigua hallada por Lunaria",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Lunaria cruza el puente imitando al ave con sus plumas y registra las ruinas. El director inicialmente describe trocitos o bolitas de oro, pero luego cambia el objeto adjudicado a una moneda de oro antigua. Ella lo muestra orgullosa a Nox.",
+      "inicio": "01:56:20.000",
+      "fin": "02:07:00.000",
+      "cita": "moneda de oro antigua",
+      "evidencia_cue": {
+        "inicio": "02:06:46.480",
+        "fin": "02:06:48.430",
+        "texto": "Te he cambiado. Eres una moneda de oro antigua, ¿vale? Como una moneda te la he"
+      },
+      "entidades": [
+        "Lunaria / Luna",
+        "Moneda antigua de las ruinas",
+        "Ruinas del puente y nido",
+        "Nox"
+      ],
+      "ambito": "hallazgo y ajuste explícito del inventario",
+      "conocedores": [
+        "Lunaria / Luna",
+        "Nox",
+        "Mamá / Citlali (identificación contextual provisional)"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Se usa la corrección a moneda como adjudicación final, sin sumar además dos trozos de oro como objetos independientes."
+    },
+    {
+      "id": "07-025",
+      "titulo": "Tatuajes de Nox y ruinas sin relación reconocida",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Nox pregunta en voz baja a Mamá si los símbolos de las ruinas se parecen a sus tatuajes. La jugadora explica que en rol escrito él le mostró tatuajes de la espalda. Tras una tirada de historia sin identificación clara, Mamá responde que las ruinas son demasiado antiguas y no cree que tengan que ver con lo suyo.",
+      "inicio": "02:03:45.000",
+      "fin": "02:06:50.000",
+      "cita": "Nox le enseñó algunos tatuajes",
+      "evidencia_cue": {
+        "inicio": "02:05:44.800",
+        "fin": "02:05:47.069",
+        "texto": "te te explico. En el rol escrito, Nox le enseñó algunos tatuajes que tenía en la"
+      },
+      "entidades": [
+        "Nox",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Tatuajes de la espalda de Nox",
+        "Ruinas del puente y nido"
+      ],
+      "ambito": "consulta reservada y referencia a rol escrito",
+      "conocedores": [
+        "Nox",
+        "Mamá / Citlali (identificación contextual provisional)"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se incorpora contenido de mensajes externos no disponibles; solo la referencia dicha en la sesión. Fallar en identificar una relación no demuestra que esta sea imposible."
+    },
+    {
+      "id": "07-026",
+      "titulo": "Perla y copia de escrituras desconocidas",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Nox atraviesa el puente asustado por ruidos de crujido que Lunaria produce como broma, registra las ruinas y encuentra una perla. Erendriel cruza volando y copia con herramientas de calígrafo símbolos o escrituras que no entiende. Regresan al otro lado del puente.",
+      "inicio": "02:06:45.000",
+      "fin": "02:14:35.000",
+      "cita": "no entiendes absolutamente nada",
+      "evidencia_cue": {
+        "inicio": "02:11:19.280",
+        "fin": "02:11:22.830",
+        "texto": "Vale, pues sí, podrías ver escrituras, pero no entiendes absolutamente nada."
+      },
+      "entidades": [
+        "Nox",
+        "Lunaria / Luna",
+        "Erendriel (grafía provisional)",
+        "Perla de las ruinas",
+        "Copia de símbolos de las ruinas",
+        "Ruinas del puente y nido"
+      ],
+      "ambito": "investigación y recogida de objetos",
+      "conocedores": [
+        "Nox",
+        "Lunaria / Luna",
+        "Erendriel (grafía provisional)"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se traduce la escritura ni se asigna a un dios concreto. Nox amenaza en broma con cortar las cuerdas, pero no corta el puente. Caer en combate no había eliminado el efecto temporal de vuelo del elfo."
+    },
+    {
+      "id": "07-027",
+      "titulo": "Cría, venta y huida por un ruido",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Nox propone informar a Bonnie y entregar al cautivo como alguien que buscaba tesoro sin pagar tributo. Mamá insiste en quedarse el huevo para criarlo, sin pedir permiso. Oyen un ruido parecido al de la criatura voladora y deciden retirarse; Nox desata al pirata y lo lleva consigo.",
+      "inicio": "02:14:15.000",
+      "fin": "02:18:55.000",
+      "cita": "Yo me quedaré con el huevo",
+      "evidencia_cue": {
+        "inicio": "02:15:46.239",
+        "fin": "02:15:48.229",
+        "texto": "Yo me quedaré con el huevo. Tengo que"
+      },
+      "entidades": [
+        "Nox",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Happy Bonnie / Bonny (grafía provisional)",
+        "Pirata cautivo del nido (sin nombre)",
+        "Huevo grande del nido",
+        "Erendriel (grafía provisional)",
+        "Lunaria / Luna",
+        "Patata / Patatamán (grafía provisional)"
+      ],
+      "ambito": "decisión de Mamá y retirada del grupo",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "El temor a otra criatura o pareja no confirma presencia de un segundo depredador. El cautivo sigue vivo."
+    },
+    {
+      "id": "07-028",
+      "titulo": "El ruido era Cipo, revelación al espectador",
+      "tipo": "explicacion_director",
+      "afirmacion": "Tras la retirada, la cámara muestra a Cipo bostezando entre la selva. El director aclara que el grito venía de él. Los personajes ya se habían ido y no habían comprobado el origen.",
+      "inicio": "02:18:45.000",
+      "fin": "02:21:40.000",
+      "cita": "Era era Cipo",
+      "evidencia_cue": {
+        "inicio": "02:20:27.080",
+        "fin": "02:20:30.830",
+        "texto": "persiguiendo a Cipo. Era era Cipo, pasaba por ahí."
+      },
+      "entidades": [
+        "Cipo (grafía provisional)",
+        "Nox",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Lunaria / Luna",
+        "Erendriel (grafía provisional)",
+        "Patata / Patatamán (grafía provisional)"
+      ],
+      "ambito": "revelación fuera de la escena del grupo",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No dar a los personajes el conocimiento de esta revelación de cámara. Las bromas sobre Pinky persiguiéndolo no prueban que ella emitiera el ruido."
+    },
+    {
+      "id": "07-029",
+      "titulo": "Patata explica el reparto de las gemas y pide protección",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Al regresar, Patata dice a Nox que entregó su gema a Liz por alojamiento y recuerda quién recibió las otras. Nox se ofrece a ayudarlo si reúne las gemas y le aconseja no hablar indiscriminadamente con Bonnie. Patata pide que evite que la jefa lo perjudique y cree su promesa.",
+      "inicio": "02:22:00.000",
+      "fin": "02:26:10.000",
+      "cita": "Yo te ayudo a recuperar las gemas",
+      "evidencia_cue": {
+        "inicio": "02:25:11.080",
+        "fin": "02:25:14.750",
+        "texto": "amigo. Yo te ayudo a recuperar las gemas y"
+      },
+      "entidades": [
+        "Patata / Patatamán (grafía provisional)",
+        "Nox",
+        "Liz / Lizy (encargada de Sirena Borracha, grafía provisional)",
+        "Happy Bonnie / Bonny (grafía provisional)",
+        "Ione",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Gemas extraídas del collar"
+      ],
+      "ambito": "acuerdo y transferencia de información",
+      "conocedores": [
+        "Patata / Patatamán (grafía provisional)",
+        "Nox"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "El reparto que Patata recuerda no es una auditoría exacta: antes Ione había dicho quedarse el collar sin gema. No se entregan aquí todas las gemas ni se demuestra que la promesa de protección se cumpla."
+    },
+    {
+      "id": "07-030",
+      "titulo": "Mapas de la Marina y alojamiento negociado",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Erendriel ofrece revisar los mapas recuperados del buque. Nox dice interesarse en su propio mapa y menciona noticias de una fortaleza o puesto de avanzada, prefiriendo esperar. El elfo agradece que cuidara a su dragón y le da tres monedas. Nox le permite volver a dormir en el barco.",
+      "inicio": "02:26:00.000",
+      "fin": "02:30:15.000",
+      "cita": "tres monedas de oro",
+      "evidencia_cue": {
+        "inicio": "02:29:38.760",
+        "fin": "02:29:42.510",
+        "texto": "va a poner eh tres monedas de oro, por ejemplo."
+      },
+      "entidades": [
+        "Erendriel (grafía provisional)",
+        "Nox",
+        "Documentos y mapas del buque",
+        "Dragón joven del elfo (nombre sin confirmar)",
+        "Barco Zampaolas (grafía provisional)",
+        "Fuerte Aurora"
+      ],
+      "ambito": "conversación y pago de alojamiento o gratitud",
+      "conocedores": [
+        "Erendriel (grafía provisional)",
+        "Nox"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se lee el mapa personal de Nox ni se establece que la fortaleza mencionada sea inequívocamente Aurora; asociación contextual provisional. Las tres monedas son entrega observada, sin contrato de duración de alojamiento."
+    },
+    {
+      "id": "07-031",
+      "titulo": "Mamá prepara la crianza y Patata compra un hacha",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Mamá piensa cómo hacer un nido y criar al animal del huevo. Erendriel la acompaña y ofrece hablar pese a sus dudas por el peligro de la madre. Patata va al herrero, consigue un hacha mediante gestos y paga tres monedas de plata; no logra encargar claramente azadas u hoces.",
+      "inicio": "02:30:00.000",
+      "fin": "02:36:30.000",
+      "cita": "tres de plata",
+      "evidencia_cue": {
+        "inicio": "02:33:45.279",
+        "fin": "02:33:53.389",
+        "texto": "tenía para hablar de monedas no mucho de que tipo tres de plata"
+      },
+      "entidades": [
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Huevo grande del nido",
+        "Erendriel (grafía provisional)",
+        "Patata / Patatamán (grafía provisional)",
+        "Herrero de Shiaru (sin nombre)",
+        "A Toda Forja"
+      ],
+      "ambito": "decisiones y compra de herramienta",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La identidad del local con A Toda Forja es por continuidad del herrero descrito en el poblado, sin cartel leído nuevamente. El hacha parece hierro unido a un palo, sin fabricación de calidad garantizada."
+    },
+    {
+      "id": "07-032",
+      "titulo": "Cautivo y perla entregados a Bonnie",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Nox y Lunaria llevan al pirata cautivo a la taberna y muestran sombrero, mapa y perla a Bonnie. Lunaria reproduce con ilusión la imagen de la integrante huida. Bonnie conserva la perla y deja a Lunaria su moneda antigua, le da tres monedas de oro y a Nox una. Jack sigue en la mesa de la tripulación y Babas lo golpea mientras habla con él.",
+      "inicio": "02:36:00.000",
+      "fin": "02:41:50.000",
+      "cita": "le lanza tres monedas de oro a Lunaria",
+      "evidencia_cue": {
+        "inicio": "02:41:46.960",
+        "fin": "02:41:49.750",
+        "texto": "\"Bueno, pues gracias.\" Y ves que le lanza tres monedas de oro a Lunaria y a"
+      },
+      "entidades": [
+        "Nox",
+        "Lunaria / Luna",
+        "Happy Bonnie / Bonny (grafía provisional)",
+        "Pirata cautivo del nido (sin nombre)",
+        "Pirata pequeña huida (sin nombre)",
+        "Mapa de los piratas al nido",
+        "Perla de las ruinas",
+        "Moneda antigua de las ruinas",
+        "Jack / Jackie (marine cautivo, variantes de apellido)",
+        "Baps (grafía provisional)"
+      ],
+      "ambito": "informe y pago parcial de Bonnie",
+      "conocedores": [
+        "Nox",
+        "Lunaria / Luna",
+        "Happy Bonnie / Bonny (grafía provisional)"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se muestra interrogatorio completo del cautivo ni su ingreso consentido en tripulación. Nox denuncia apropiación sin tributo; eso es su relato a Bonnie, no ley escrita revisada."
+    },
+    {
+      "id": "07-033",
+      "titulo": "Pacto secreto para vender la futura cría",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Bajo la amenaza de las pistolas de los hombres de Bonnie, Nox revela el huevo y propone que Mamá críe al animal para venderlo domesticado. Bonnie acepta que se lo entreguen por las buenas o las malas; Nox acepta el trato. Bonnie advierte que si muere o no lo recibe lo pagarán Nox y Mamá. Le da otra moneda al terminar.",
+      "inicio": "02:41:35.000",
+      "fin": "02:46:30.000",
+      "cita": "por las buenas, por las malas",
+      "evidencia_cue": {
+        "inicio": "02:45:11.000",
+        "fin": "02:45:12.469",
+        "texto": "Ya sabes que no tengo problemas. Si por las buenas, por las malas, mientras"
+      },
+      "entidades": [
+        "Nox",
+        "Happy Bonnie / Bonny (grafía provisional)",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Huevo grande del nido",
+        "Lunaria / Luna"
+      ],
+      "ambito": "negociación en taberna sin Mamá",
+      "conocedores": [
+        "Nox",
+        "Happy Bonnie / Bonny (grafía provisional)",
+        "Lunaria / Luna"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Mamá no consiente ni presencia este acuerdo; su intención de crianza era distinta. No se confirma venta, comprador, precio ni eclosión. El acuerdo de Nox no crea consentimiento de la cuidadora."
+    },
+    {
+      "id": "07-034",
+      "titulo": "Lunaria gana la apuesta y Patata corta árboles",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Lunaria apuesta sus tres monedas recién recibidas a beber más que dos piratas y gana cinco monedas de ellos aprovechando su inmunidad al alcohol. Nox inicialmente muestra cuatro al darle el botín, pero le entrega también la quinta. Mamá y Erendriel se retiran con el huevo, el cautivo cae del taburete sin que le hagan caso y Patata sale con el hacha a cortar árboles en el lugar elegido.",
+      "inicio": "02:46:10.000",
+      "fin": "02:53:42.000",
+      "cita": "cinco moneditas de oro",
+      "evidencia_cue": {
+        "inicio": "02:51:47.760",
+        "fin": "02:51:50.670",
+        "texto": "que Lunaria pues conseguirías esas cinco moneditas de oro y nada, pues seguirías"
+      },
+      "entidades": [
+        "Lunaria / Luna",
+        "Nox",
+        "Dos piratas de apuesta de bebida (sin nombres)",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Erendriel (grafía provisional)",
+        "Patata / Patatamán (grafía provisional)",
+        "Pirata cautivo del nido (sin nombre)",
+        "Huevo grande del nido"
+      ],
+      "ambito": "apuesta resuelta y cierre de grupos",
+      "conocedores": [
+        "Lunaria / Luna",
+        "Nox"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "El hacha y salida a talar están narrados; no se declara granja terminada. No se interpreta la entrega demorada de una moneda por Nox como retención final, pues termina dando las cinco."
+    }
+  ]
+}

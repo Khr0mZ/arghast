@@ -1,0 +1,628 @@
+{
+  "capitulo": 24,
+  "estado_revision": "revisado",
+  "resumen": "Patata perdió la cita para rescatar a Nox y ahora lo ve libre. Ione, enfadada, no logra reparar el barco. Llegan Winscor, un explorador enano, y Din, un nativo que busca a su hermano Sam y sufre una estafa. Bonnie encarga a Ione matar a unos supuestos tripulantes ladrones al norte de la costa. Ione sale con Patata y los recién llegados. En la selva conocen a Coyote, un humanoide animal y cambiaformas que se une al grupo. Tras un rastro equivocado hacia unos gorilas, llegan a la costa y encuentran a tres figuras piratas amenazando a la sirena Maris. Al combatir revelan formas marinas deformes y emiten chillidos que aturden y atraen refuerzos acuáticos. El grupo y la sirena luchan. Ione protege a Coyote, pero después se transforma en loba, deja de reconocer a sus aliados e intenta atacar a Patata sin acertar. Patata la guía con un arma espiritual utilizada como señuelo. Coyote ordena a un enemigo que se siente y la loba lo mata. Maris entrega a Coyote una perla para encontrarla y explica que una concha fue utilizada para atraerla. Winscor devuelve la concha a la sirena, que la rompe. Coyote conserva los fragmentos. La perla muestra un mapa marino y coordenadas. Ione recupera su forma humana tras las caricias de Patata. Recuerda la orden de matar, pero no la de recuperar un objeto, y lleva un cadáver como prueba. Bonnie sospecha que hay impostores en el barco, mata a un pirata llamado Jim y reduce el pago porque no recuperaron su objeto o negocio. Din acuerda reunir cincuenta monedas para comenzar la búsqueda de Sam. Bonnie encarga a Coyote vigilar al amigo de Ione que el contexto identifica con Nox. Ione incorpora a dos integrantes a la tripulación y ofrece alojamiento, aunque el barco está abarrotado y sigue incrustado en la taberna. Din encuentra a Mamá cuidando el huevo; Gobs lleva maquinaria, agujas y tinta al hospital.",
+  "misiones": [
+    "Matar a los supuestos tripulantes ladrones: el grupo elimina a los tres impostores marinos y sus refuerzos, libera a la sirena y entrega un cadáver como prueba. No identifica ni recupera el objeto robado. Bonnie reduce el pago por el negocio perdido (24-003–24-017).",
+    "Ayudar a la sirena: la concha de atracción queda destruida. Coyote conserva los fragmentos y una perla con mapa y coordenadas para encontrarla; otro encuentro queda pendiente (24-012–24-015).",
+    "Buscar a Sam: Din sufre una estafa al llegar. Ione ofrece ayudar y Bonnie exige cincuenta monedas para iniciar la búsqueda, aún sin pagar (24-002 y 24-016–24-018).",
+    "Vigilar al amigo de Ione: Bonnie encarga a Coyote informar sobre quien el contexto identifica con Nox. La misión todavía no se ejecuta (24-019).",
+    "Viajar a Cuicapalli: Patata calcula tres días de camino e Ione ofrece guía a cambio de incorporarse a la tripulación. Primero buscan descanso y ropa; no parten (24-016 y 24-020–24-021)."
+  ],
+  "preguntas": [
+    "¿Qué robaron los impostores, quiénes son y qué relación tienen con la concha o el culto serpiente? No se confirma su especie ni su objetivo completo (24-007 y 24-017).",
+    "¿Adónde conducen las coordenadas de la perla y cómo podrían reparar la concha? No se muestra ninguna reparación (24-014–24-015).",
+    "¿Dónde está Sam y por qué Ione reacciona a su nombre? No se revela (24-016).",
+    "¿Coyote corresponde a una identidad anterior? Ser cambiaformas y compartir intérprete con Mamá no demuestra que sean la misma persona (24-005 y 24-019).",
+    "¿Qué máquinas y tinta lleva Gobs y cuándo se pondrán en servicio? (24-021)."
+  ],
+  "contradicciones": [
+    "Billy y Jackson son supuestos ladrones. El parecido del apellido no permite identificarlos con Jack, presente como aliado (24-003).",
+    "Coyote es un personaje masculino. Compartir jugadora con Mamá no demuestra que sean la misma identidad (24-005).",
+    "Los impostores no son humanos ni se identifican automáticamente como yuan-ti. La concha atrae a la sirena, pero no se demuestra que sea el objeto robado (24-007 y 24-013).",
+    "Ione pierde el control e intenta atacar a Patata, pero no acierta. No hay una mordedura aliada ni un contagio confirmado (24-010).",
+    "Bonnie exige recuperar objetos al regreso, mientras que la orden inicial recibida por Ione era matar. Se conserva el desacuerdo sobre el pago (24-003 y 24-017).",
+    "Antes del asesinato se menciona a Tommy, pero después se llama Jim a la víctima. Los nombres no se resuelven fusionándolos (24-017).",
+    "Ione promete hamacas para todos, pero una tirada revela la mentira y Din encuentra los camarotes ocupados (24-021).",
+    "Al principio se transcribe una altura de 1,20 para el hermano de Din; después Sam aparece como humano de 1,80. Puede ser un error del reconocimiento, pero no se fija una medida definitiva sin escuchar el audio (24-002 y 24-018)."
+  ],
+  "nombres_dudosos": [
+    "Winscor/Wiscor/Winscore/Winson es el explorador enano con un palo mágico. La grafía es provisional.",
+    "Din/Dim es un nativo humano con armadura remendada que busca a su hermano. Sam/Zan/San son variantes; Sam se mantiene en la negociación.",
+    "Coyote es un cambiaformas masculino que utiliza ese nombre. No se infiere que sea Citlali.",
+    "Maris es el nombre que el director utiliza para la sirena con daga de coral, de grafía provisional. No hay prueba de que sea Marina, del capítulo 6.",
+    "Jim es la víctima de Bonnie al final y Tommy un amigo mencionado antes. No puede atribuirse el asesinato a Tommy con certeza."
+  ],
+  "fuente_sha256": "052fb7dac0d5581914f28a4736bb77d271f2e8114c8aad89e72fbe1a568de54e",
+  "afirmaciones": [
+    {
+      "id": "24-001",
+      "titulo": "Descansos y Winscor explorador",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Patata recibió la carta de Nox y perdió la cita del rescate; ahora lo ve de vuelta. Pierde seis monedas de oro. Ione, irritada, rompe partes del barco al intentar repararlo y pierde cuatro monedas. Winscor llega en bote con armadura, casco y un palo. Afirma que quiere explorar la isla y matar a seres ajenos al plano. Rechaza cargar las cajas que le pide el médico y se presenta a Patata. Hablan de la pantera del pozo y de una ciudad agradable a varios días de camino.",
+      "inicio": "00:00:00.000",
+      "fin": "00:08:55.000",
+      "cita": "Soy Winscor",
+      "evidencia_cue": {
+        "inicio": "00:05:38.199",
+        "fin": "00:05:40.070",
+        "texto": "Y mira hacia abajo. Soy Winscor."
+      },
+      "entidades": [
+        "Patata / Patatamán (grafía provisional)",
+        "Ione",
+        "Nox",
+        "Winscor (enano explorador, grafía provisional)",
+        "Shiaru",
+        "Pozo de Shiaru"
+      ],
+      "ambito": "presentación y descanso",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se confirma que todos los seres extraplanares sean enemigos. Las opiniones sobre el pozo no constituyen un diagnóstico médico."
+    },
+    {
+      "id": "24-002",
+      "titulo": "Din busca a su hermano Sam y es estafado",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Din, un humano nativo, llega armado y con la armadura remendada con paja. Busca a Sam, su hermano de pelo negro, cuya altura se transcribe de forma incierta al principio. Ayuda a un pirata que vomita y que intenta robarlo. Le paga dos monedas por información, pero el pirata lo envía a Patata sin saber dónde está Sam. Otros apuñalan al pirata y roban el pago. Patata y Winscor no conocen a Sam. Din se une al grupo.",
+      "inicio": "00:09:00.000",
+      "fin": "00:15:55.000",
+      "cita": "mi hermano",
+      "evidencia_cue": {
+        "inicio": "00:10:43.839",
+        "fin": "00:10:45.990",
+        "texto": "Siempre seguro que mi hermano está por"
+      },
+      "entidades": [
+        "Din (nativo, grafía provisional)",
+        "Sam (hermano de Din)",
+        "Patata / Patatamán (grafía provisional)",
+        "Winscor (enano explorador, grafía provisional)",
+        "Pirata estafador de Din (sin nombre)"
+      ],
+      "ambito": "presentación y búsqueda",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Zen o Zan no identifican a otro hermano: después se confirma el nombre Sam. La creencia de Patata sobre un tratado con la Marina no tiene respaldo institucional."
+    },
+    {
+      "id": "24-003",
+      "titulo": "Bonnie encarga matar a los supuestos ladrones",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Ione pierde al póker contra Jack. Baps, Mugre y Ojo Ausente intentan perder a propósito para no enfadarla. Ella amenaza a Jack por unas trampas que no se prueban y después devuelve las ganancias. Bonnie ofrece vino y una bolsa para que mate a Billy, Jackson y otros supuestos tripulantes que han robado cosas y se dirigen a un campamento al norte de la costa. Ione acepta.",
+      "inicio": "00:16:00.000",
+      "fin": "00:22:55.000",
+      "cita": "me han robado",
+      "evidencia_cue": {
+        "inicio": "00:22:02.200",
+        "fin": "00:22:04.630",
+        "texto": "han ido a por unas cositas y parece ser que me han robado y bueno, me"
+      },
+      "entidades": [
+        "Ione",
+        "Jack / Jackie Jackson (grafía provisional)",
+        "Baps (grafía provisional)",
+        "Mugre (grafía provisional)",
+        "Ojo Ausente (pirata sin nombre)",
+        "Happy Bonnie / Bonny (grafía provisional)",
+        "Billy y Jackson (supuestos tripulantes ladrones)"
+      ],
+      "ambito": "encargo y cólera",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "El nombre Jackson de los ladrones no identifica al Jack que está jugando. No se verifican sus supuestas trampas."
+    },
+    {
+      "id": "24-004",
+      "titulo": "El grupo parte y recibe los efectos de las frutas",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Ione recluta a Patata, Winscor y Din para la misión, con la intención de repartir el botín después. En la selva, una fruta invierte la sombra de Ione; Patata no puede mentir y Din recibe un nivel de agotamiento. Winscor rechaza la fruta. Una figura oculta come otra y obtiene resistencia al daño no mágico. Un ruido permite detectar su presencia.",
+      "inicio": "00:23:00.000",
+      "fin": "00:31:55.000",
+      "cita": "eres incapaz de mentir",
+      "evidencia_cue": {
+        "inicio": "00:29:35.440",
+        "fin": "00:29:37.630",
+        "texto": "Patata. Pues te comes esa fruta y eres incapaz de mentir."
+      },
+      "entidades": [
+        "Ione",
+        "Patata / Patatamán (grafía provisional)",
+        "Winscor (enano explorador, grafía provisional)",
+        "Din (nativo, grafía provisional)",
+        "Coyote (cambiaformas, grafía provisional)"
+      ],
+      "ambito": "salida y efectos temporales",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": ""
+    },
+    {
+      "id": "24-005",
+      "titulo": "Coyote se presenta y se une",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Un humanoide animal sale de la maleza y afirma que el bosque es su hábitat y que no pretende atacar. Olfatea a los viajeros e Ione responde del mismo modo. La referencia a Nox la irrita. Se presenta como Coyote y ofrece acompañarlos y rastrear a los ladrones. Al final se describe como masculino y cambiaformas, sin revelar su especie exacta ni otra identidad anterior.",
+      "inicio": "00:32:00.000",
+      "fin": "00:40:55.000",
+      "cita": "Pueden llamarme coyote",
+      "evidencia_cue": {
+        "inicio": "00:37:17.760",
+        "fin": "00:37:20.589",
+        "texto": "Al menos puedes ¿Y cuál es tu nombre? Pueden llamarme coyote,"
+      },
+      "entidades": [
+        "Coyote (cambiaformas, grafía provisional)",
+        "Ione",
+        "Patata / Patatamán (grafía provisional)",
+        "Winscor (enano explorador, grafía provisional)",
+        "Din (nativo, grafía provisional)"
+      ],
+      "ambito": "presentación y alianza",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Compartir intérprete con Mamá no identifica a Coyote con Citlali. Tampoco se confirma que Coyote sea su nombre de nacimiento y no un alias."
+    },
+    {
+      "id": "24-006",
+      "titulo": "Gorilas evitados y sirena acosada",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Coyote sigue un rastro hasta tres gorilas en unas ruinas. El grupo se aparta sin combatir. Ione rastrea ramas y huellas humanas hasta la costa. Ven a tres figuras con ropa de la tripulación de Bonnie. Winscor distingue una concha utilizada como instrumento y una criatura marina asustada, amenazada con armas. Ione carga cuando advierte el peligro y los demás se suman.",
+      "inicio": "00:40:00.000",
+      "fin": "00:48:55.000",
+      "cita": "una criatura en la en el agua",
+      "evidencia_cue": {
+        "inicio": "00:48:12.119",
+        "fin": "00:48:13.750",
+        "texto": "Están embelezados. Hay una criatura en la en el agua."
+      },
+      "entidades": [
+        "Coyote (cambiaformas, grafía provisional)",
+        "Ione",
+        "Winscor (enano explorador, grafía provisional)",
+        "Tres gorilas de ruinas",
+        "Maris (sirena, grafía provisional)",
+        "Cambiaformas marinos de costa",
+        "Concha de atracción de sirenas"
+      ],
+      "ambito": "rastreo y descubrimiento",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La ropa no demuestra que las figuras sean humanos ni permite identificarlas como los ladrones antes de revelar su forma."
+    },
+    {
+      "id": "24-007",
+      "titulo": "Cambiaformas y chillido aturdidor",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Coyote ordena a un pirata que se marche. Este resiste de forma extraña; Coyote lo apuñala y observa que su sangre no es roja. El pirata se transforma en un ser marino con boca y tentáculos. Su chillido aturde a Ione y Coyote, aunque la sirena resiste. Las otras figuras también cambian de forma y llevan armas de coral. La sirena habla en Aquan, que Ione y Winscor entienden, y afirma que no irá con sus captores. Ione pelea cerca de ella y Winscor utiliza su palo mágico.",
+      "inicio": "00:49:00.000",
+      "fin": "01:06:55.000",
+      "cita": "sangre extraña, no es roja",
+      "evidencia_cue": {
+        "inicio": "00:53:24.920",
+        "fin": "00:53:30.349",
+        "texto": "daga tiene una sangre, es una sangre extraña, no es roja."
+      },
+      "entidades": [
+        "Coyote (cambiaformas, grafía provisional)",
+        "Ione",
+        "Winscor (enano explorador, grafía provisional)",
+        "Din (nativo, grafía provisional)",
+        "Maris (sirena, grafía provisional)",
+        "Cambiaformas marinos de costa"
+      ],
+      "ambito": "identidad y combate",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Su capacidad de cambiar de forma no los identifica como yuan-ti. Tienen rasgos marinos, sin un nombre formal de especie."
+    },
+    {
+      "id": "24-008",
+      "titulo": "Parálisis, refuerzos y Coyote protegido",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "La sirena paraliza a una criatura con toxina y Patata la mata. Din golpea y grita, dañando a los enemigos y también a la sirena porque no la excluye del efecto. Otro chillido aturde a compañeros y atrae más seres del agua con tentáculos, garras y colmillos. Coyote recibe veneno y resiste la mitad del daño físico. Din intercambia posiciones para protegerlo. Ione lo saca del cerco y ocupa una posición defensiva.",
+      "inicio": "01:06:00.000",
+      "fin": "01:19:55.000",
+      "cita": "para sacarlo de aquí",
+      "evidencia_cue": {
+        "inicio": "01:15:28.199",
+        "fin": "01:15:32.350",
+        "texto": "Eh, agarrar a Coyote y literalmente empujarlo para sacarlo de aquí"
+      },
+      "entidades": [
+        "Maris (sirena, grafía provisional)",
+        "Patata / Patatamán (grafía provisional)",
+        "Din (nativo, grafía provisional)",
+        "Coyote (cambiaformas, grafía provisional)",
+        "Ione",
+        "Refuerzos marinos de costa"
+      ],
+      "ambito": "auxilio y nuevos enemigos",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Coyote no es inmune a todo daño: el director aclara que su resistencia reduce a la mitad el daño no mágico."
+    },
+    {
+      "id": "24-009",
+      "titulo": "Inspiración y enemigos muertos",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Coyote insulta a los enemigos y utiliza manto de inspiración para dar puntos de vida temporales a sus aliados. Patata cura. Ione aturde y empuja a los enemigos y protege a Coyote. Winscor mata a dos seguidos con el palo y Din continúa combatiendo. Algunas criaturas siguen resistiendo las órdenes de Coyote.",
+      "inicio": "01:20:00.000",
+      "fin": "01:31:55.000",
+      "cita": "otro fuera",
+      "evidencia_cue": {
+        "inicio": "01:28:00.719",
+        "fin": "01:28:03.310",
+        "texto": "Y otro fuera."
+      },
+      "entidades": [
+        "Coyote (cambiaformas, grafía provisional)",
+        "Patata / Patatamán (grafía provisional)",
+        "Ione",
+        "Winscor (enano explorador, grafía provisional)",
+        "Din (nativo, grafía provisional)"
+      ],
+      "ambito": "combate y apoyo",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": ""
+    },
+    {
+      "id": "24-010",
+      "titulo": "Ione loba no reconoce aliados",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Ione falla la tirada de sabiduría. Sus músculos crecen, la ropa se rompe y se transforma en una loba feroz y sedienta de sangre. No reconoce a sus aliados e intenta atacar dos veces a Patata, sin acertar. Winscor mata a otro enemigo. La sirena sigue combatiendo y los demás buscan cómo calmar a Ione.",
+      "inicio": "01:32:00.000",
+      "fin": "01:36:55.000",
+      "cita": "No, no reconoces",
+      "evidencia_cue": {
+        "inicio": "01:34:07.080",
+        "fin": "01:34:09.870",
+        "texto": "Master, te estoy preguntando. No, no reconoces a un aliados o no. No,"
+      },
+      "entidades": [
+        "Ione",
+        "Patata / Patatamán (grafía provisional)",
+        "Winscor (enano explorador, grafía provisional)",
+        "Din (nativo, grafía provisional)",
+        "Coyote (cambiaformas, grafía provisional)",
+        "Maris (sirena, grafía provisional)"
+      ],
+      "ambito": "transformación y agresión aliada",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Los ataques no causan una mordedura aliada efectiva ni confirman un contagio."
+    },
+    {
+      "id": "24-011",
+      "titulo": "El arma espiritual guía a la loba contra el último enemigo",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Patata invoca un arma espiritual como un palo ruidoso, sin atacar. Supera una tirada de trato con animales para guiar a Ione. Coyote se cura y ordena a un enemigo que se siente, dejándolo derribado. La loba persigue el palo flotante, ataca y pisotea al enemigo y lo mata al intentar atraparlo. No puede coger el palo porque es intangible. Todos los seres hostiles terminan muertos.",
+      "inicio": "01:36:00.000",
+      "fin": "01:41:55.000",
+      "cita": "acabáis con esas criaturas marinas",
+      "evidencia_cue": {
+        "inicio": "01:41:31.520",
+        "fin": "01:41:34.910",
+        "texto": "veis que acabáis con esas criaturas marinas extrañas, horribles. Y nada,"
+      },
+      "entidades": [
+        "Patata / Patatamán (grafía provisional)",
+        "Ione",
+        "Coyote (cambiaformas, grafía provisional)",
+        "Arma espiritual de Patata"
+      ],
+      "ambito": "control de crisis y victoria",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La guía y la calma son temporales según la adjudicación. No se establece una domesticación permanente."
+    },
+    {
+      "id": "24-012",
+      "titulo": "La sirena entrega una perla para encontrarla",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Coyote habla en común para tranquilizar a la sirena. Ella agradece la ayuda, aunque teme una agresión. Él la seduce; ella se sonroja, le entrega una perla y le susurra que podrá encontrarla con ella. Se observa que no tiene piernas. Mantiene la distancia con los demás y no conoce a los ladrones de la superficie.",
+      "inicio": "01:42:00.000",
+      "fin": "01:46:55.000",
+      "cita": "encontrarme en esta perla",
+      "evidencia_cue": {
+        "inicio": "01:45:28.199",
+        "fin": "01:45:30.830",
+        "texto": "\"Si te fijas bien, encontrarás una manera de encontrarme en esta perla"
+      },
+      "entidades": [
+        "Coyote (cambiaformas, grafía provisional)",
+        "Maris (sirena, grafía provisional)",
+        "Perla marina de Coyote",
+        "Din (nativo, grafía provisional)"
+      ],
+      "ambito": "recompensa y vínculo",
+      "conocedores": [
+        "Coyote (cambiaformas, grafía provisional)"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No se consuma un encuentro amoroso. Maris es el nombre provisional utilizado por el director, sin identificación automática con Marina del capítulo 6."
+    },
+    {
+      "id": "24-013",
+      "titulo": "Loba calmada y concha destruida",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Winscor utiliza hablar con animales y oye que Ione está obsesionada con el palo. Patata la hace chapotear y la calma acariciándole la oreja con un crítico. Din pregunta por Sam, pero la sirena no lo conoce. Winscor conversa con ella en Aquan: explica que el sonido de la concha atrae a las sirenas y que los captores la invocaron. Él se la devuelve por seguridad y ella la rompe contra el suelo.",
+      "inicio": "01:47:00.000",
+      "fin": "01:55:55.000",
+      "cita": "estamparla contra el suelo para romperla",
+      "evidencia_cue": {
+        "inicio": "01:55:11.239",
+        "fin": "01:55:14.510",
+        "texto": "estamparla contra el suelo para romperla."
+      },
+      "entidades": [
+        "Winscor (enano explorador, grafía provisional)",
+        "Ione",
+        "Patata / Patatamán (grafía provisional)",
+        "Din (nativo, grafía provisional)",
+        "Sam (hermano de Din)",
+        "Maris (sirena, grafía provisional)",
+        "Concha de atracción de sirenas"
+      ],
+      "ambito": "información y objeto destruido",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La concha no se recupera intacta para Bonnie. Todavía desconocen si era su objeto robado."
+    },
+    {
+      "id": "24-014",
+      "titulo": "Perla con coordenadas y botín",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "La sirena se marcha agradeciendo la ayuda y señalando la perla. Coyote la examina: es azul y contiene un mar móvil y un mapa marino con coordenadas cuyos valores no se leen. Winscor no detecta nuevas amenazas y obtiene una obsidiana de un enemigo, con valor nominal de diez monedas, sin venderla. Din recoge un botón, pelo y basura.",
+      "inicio": "01:56:00.000",
+      "fin": "02:01:55.000",
+      "cita": "mapa marino y hay unas coordenadas",
+      "evidencia_cue": {
+        "inicio": "01:57:44.960",
+        "fin": "01:57:49.589",
+        "texto": "un típico mapa marino y hay unas coordenadas."
+      },
+      "entidades": [
+        "Maris (sirena, grafía provisional)",
+        "Coyote (cambiaformas, grafía provisional)",
+        "Perla marina de Coyote",
+        "Winscor (enano explorador, grafía provisional)",
+        "Din (nativo, grafía provisional)"
+      ],
+      "ambito": "pista y botín",
+      "conocedores": [
+        "Coyote (cambiaformas, grafía provisional)"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La transcripción no conserva una ubicación absoluta ni una copia completa del mapa."
+    },
+    {
+      "id": "24-015",
+      "titulo": "Ione humana y fragmentos guardados",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Ione recupera su forma humana mientras Patata la acaricia. Teme haber matado a sus aliados; él explica su intervención y que ella mató al último enemigo. Ione no recuerda con precisión, pero sí el encargo de matar, no el de recuperar un objeto. Lleva un cadáver como prueba. Coyote recoge la concha y ordena a Ione que se aleje cuando intenta tirar los fragmentos al mar; ella obedece. Winscor recoge hachas de coral y Din cura catorce puntos a Coyote.",
+      "inicio": "02:02:00.000",
+      "fin": "02:09:55.000",
+      "cita": "pequeños fragmentos",
+      "evidencia_cue": {
+        "inicio": "02:04:59.079",
+        "fin": "02:05:00.990",
+        "texto": "empezó a recoger las este las los pequeños fragmentos de de la conchita"
+      },
+      "entidades": [
+        "Ione",
+        "Patata / Patatamán (grafía provisional)",
+        "Coyote (cambiaformas, grafía provisional)",
+        "Fragmentos de concha de Coyote",
+        "Winscor (enano explorador, grafía provisional)",
+        "Hachas coral de Winscor",
+        "Din (nativo, grafía provisional)"
+      ],
+      "ambito": "recuperación y apropiación",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Guardar los fragmentos no implica reconstruir la concha ni utilizar después sus poderes."
+    },
+    {
+      "id": "24-016",
+      "titulo": "Regreso, Sam y pueblo alternativo",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Vuelven a Shiaru sin otra pelea. Patata presta su capa a Ione porque su transformación rompió la ropa. Din busca otro poblado y Patata ofrece Cuicapalli, a tres días de camino. Ione propone que se unan a la tripulación a cambio de guía y protección. Al oír el nombre Sam cambia de expresión, niega conocerlo y ofrece ayuda. Llegan a la taberna y Din compra una copa a Pix.",
+      "inicio": "02:10:00.000",
+      "fin": "02:17:55.000",
+      "cita": "Está capal unos tres días",
+      "evidencia_cue": {
+        "inicio": "02:13:55.159",
+        "fin": "02:13:57.589",
+        "texto": "el una aldea de esa? Está capal unos tres días de camino."
+      },
+      "entidades": [
+        "Ione",
+        "Din (nativo, grafía provisional)",
+        "Sam (hermano de Din)",
+        "Patata / Patatamán (grafía provisional)",
+        "Cuicapalli",
+        "Shiaru",
+        "Pix"
+      ],
+      "ambito": "regreso y búsqueda pendiente",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La reacción de Ione no demuestra la identidad de Sam ni un secreto conocido. La expedición a Cuicapalli todavía no comienza."
+    },
+    {
+      "id": "24-017",
+      "titulo": "Bonnie mata a un pirata y reduce el pago",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Ione entrega el cadáver marino y explica que las criaturas se disfrazaban de tripulantes, por lo que puede haber infiltrados en el barco. Bonnie pregunta a un acompañante por Tommy, le dispara y lo mata. Él no cambia de forma y ella dice que era bueno. Después lo llama Jim, por lo que su nombre es inestable. Exige el objeto robado o a la mujer para recuperar un negocio, pero no los han traído. Retira monedas de la bolsa y paga una cantidad menor, sin cifra. Ione protesta porque la orden era matar.",
+      "inicio": "02:17:00.000",
+      "fin": "02:21:55.000",
+      "cita": "este no ha cambiado",
+      "evidencia_cue": {
+        "inicio": "02:18:33.319",
+        "fin": "02:18:35.549",
+        "texto": "encima de la mesa y dice, \"M, este no ha cambiado.\""
+      },
+      "entidades": [
+        "Ione",
+        "Happy Bonnie / Bonny (grafía provisional)",
+        "Pirata Jim asesinado por Bonnie (grafía provisional)",
+        "Tommy (pirata mencionado, grafía provisional)",
+        "Cambiaformas marinos de costa",
+        "Maris (sirena, grafía provisional)"
+      ],
+      "ambito": "informe, asesinato y pago",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La primera mención de Tommy no demuestra que sea la víctima: luego se la llama Jim. Tampoco se entrega la bolsa completa como pago."
+    },
+    {
+      "id": "24-018",
+      "titulo": "Din acuerda buscar a Sam por cincuenta monedas",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Din todavía no se considera tripulante. Habla a Bonnie sin decir Happy y ella dispara junto a su cabeza como advertencia. Él se sienta en la silla de un pirata y ella le exige levantarse. Deja una bolsa con siete monedas sobre la mesa para pedir que busquen a Sam. Bonnie cobra por la información y eleva el precio al saber que es su hermano. Acuerdan comenzar la búsqueda y los retratos por cincuenta monedas cuando Din las reúna. No se confirma el pago ni el inicio de la búsqueda.",
+      "inicio": "02:20:00.000",
+      "fin": "02:26:55.000",
+      "cita": "50 monedas de oro podemos empezar",
+      "evidencia_cue": {
+        "inicio": "02:25:56.040",
+        "fin": "02:26:02.950",
+        "texto": "Sam. Creo que con 50 monedas de oro podemos empezar."
+      },
+      "entidades": [
+        "Din (nativo, grafía provisional)",
+        "Happy Bonnie / Bonny (grafía provisional)",
+        "Sam (hermano de Din)"
+      ],
+      "ambito": "trato pendiente",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La bolsa queda sobre la mesa, pero no se describe expresamente su apropiación. No puede sumarse automáticamente un pago de siete y otro de cincuenta, ni se muestra un contrato firmado."
+    },
+    {
+      "id": "24-019",
+      "titulo": "Bonnie recluta a Coyote como espía",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Coyote corteja a Bonnie. Ella lo llama perrito y rechaza el romance, pero acepta su habilidad para ocultarse, cambiar de apariencia e influir. Le encarga observar al amigo más asqueroso de Ione, la mujer de las trenzas, e informar de lo que hace. Ofrece monedas si la información es verdadera. El contexto identifica al amigo con Nox, aunque no se lo nombra aquí. Coyote acepta y se retira.",
+      "inicio": "02:27:00.000",
+      "fin": "02:32:55.000",
+      "cita": "yo te pagaré",
+      "evidencia_cue": {
+        "inicio": "02:31:43.279",
+        "fin": "02:31:47.469",
+        "texto": "Si me lo dices y la información es verdad, yo te pagaré."
+      },
+      "entidades": [
+        "Coyote (cambiaformas, grafía provisional)",
+        "Happy Bonnie / Bonny (grafía provisional)",
+        "Ione",
+        "Nox"
+      ],
+      "ambito": "encargo privado de vigilancia",
+      "conocedores": [
+        "Coyote (cambiaformas, grafía provisional)",
+        "Happy Bonnie / Bonny (grafía provisional)"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Todavía no realiza la vigilancia ni cobra por el beso. La presencia de Ione con la tripulación no implica que conozca el acuerdo privado."
+    },
+    {
+      "id": "24-020",
+      "titulo": "Ropa, cultivo y reclutamiento",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Jack entrega una chaqueta a Ione y ella devuelve la capa a Patata. Bonnie pide patatas solo para ella y quiere un pepino; Patata vuelve a su granja. Ione ofrece guía, protección y una tripulación como familia. Din acepta con la condición de que busquen a su hermano y Coyote decide quedarse unos días. Ella celebra dos incorporaciones. El barco sigue incrustado en la taberna, sin una navegación inmediata prevista.",
+      "inicio": "02:32:00.000",
+      "fin": "02:40:20.000",
+      "cita": "Bien, dos más",
+      "evidencia_cue": {
+        "inicio": "02:40:00.439",
+        "fin": "02:40:03.630",
+        "texto": "bien la cosa. Dice, \"Bien, dos más, perfecto.\" y dice,"
+      },
+      "entidades": [
+        "Jack / Jackie Jackson (grafía provisional)",
+        "Ione",
+        "Patata / Patatamán (grafía provisional)",
+        "Happy Bonnie / Bonny (grafía provisional)",
+        "Din (nativo, grafía provisional)",
+        "Coyote (cambiaformas, grafía provisional)",
+        "Barco de Nox e Ione"
+      ],
+      "ambito": "reclutamiento y estado barco",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La referencia a dos incorporaciones no confirma que Winscor se una. La imagen de Poncelot gris sobre un dinosaurio procede del recuerdo o sueño de Coyote, no de un nuevo acontecimiento."
+    },
+    {
+      "id": "24-021",
+      "titulo": "Camarotes llenos y el médico prepara máquinas",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Ione promete que sobran hamacas, pero se descubre su engaño: mucha gente duerme sin permiso. Din planea descansar ocho horas. Entra por la taberna y encuentra a Mamá cuidando un huevo enorme; ella lanza una chancla y le exige cerrar la puerta. Otro pirata duerme y el camarote libre tiene tres paredes. Winscor va al herrero. Ione observa a Gobs/Cops llevando máquinas, agujas y tinta al hospital de campaña.",
+      "inicio": "02:40:00.000",
+      "fin": "02:47:30.000",
+      "cita": "la tinta no se corre sola",
+      "evidencia_cue": {
+        "inicio": "02:44:57.840",
+        "fin": "02:44:59.349",
+        "texto": "que está diciendo, \"Vamos, vamos, vamos, que la tinta no se corre sola. Vamos,"
+      },
+      "entidades": [
+        "Ione",
+        "Din (nativo, grafía provisional)",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Huevo de Mamá",
+        "Winscor (enano explorador, grafía provisional)",
+        "Gobs (médico de Shiaru, grafía provisional)",
+        "Hospital de campaña de Shiaru",
+        "Barco de Nox e Ione"
+      ],
+      "ambito": "alojamiento y preparación local",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "La llegada del equipo no confirma que los tatuajes ya estén disponibles en Shiaru. En la escena todavía no transcurren las ocho horas de descanso."
+    }
+  ]
+}

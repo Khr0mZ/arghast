@@ -1,0 +1,680 @@
+{
+  "capitulo": 15,
+  "estado_revision": "revisado",
+  "resumen": "Axi, Kilzer, Eldrat, Triel, Patata y Erendriel participan en la sesión. El casino sigue en construcción y Erendriel prepara el envío de Jack a Puerto de las Espadas. Patata trabaja en su huerto cerca de Shiaru con permiso de Bonnie, a cambio de aportaciones. Dos piratas lo molestan y unas sombras los arrastran a la selva. Patata lleva a Bonnie un arma de hueso encontrada allí y cinco monedas de una excursión. Ella encarga investigar y eliminar la amenaza si se trata de una tribu que come personas. El grupo sigue el rastro. Unas frutas conceden inmunidad a armas a Axi, resistencias a Erendriel y su dragón y la obligación de decir la verdad a Eldrat. Evitan un estegosaurio y llegan a un poblado caníbal donde pequeños dinosaurios comen restos de los piratas. Triel se adelanta disfrazada, sin que todos la reconozcan. El grupo combate a los defensores, a los dinosaurios y a un jefe con dos hachas. Kilzer cae y recibe ayuda. Axi resiste las flechas, pero queda envenenado; dispara por error contra Triel sin acertar. Eldrat remata al jefe después de que vuelva a levantarse. Saquean el poblado. Eldrat roba a Kilzer una bolsa de veintitrés monedas, que Kilzer recupera con otro robo durante el regreso. Patata y Axi encuentran una poción cada uno y una carta de miasma daña a todos. Bonnie recibe una pierna como prueba y paga cincuenta a Patata, que entrega treinta a sus compañeros sin revelar el total. Bonnie retiene a Erendriel por el retraso del envío y sus hombres se lo llevan; el desenlace queda pendiente. Los demás discuten el reparto entre cuatro y corrigen las partes a siete y medio. El dragón va al barco a buscar a Mamá y Patata se retira.",
+  "misiones": [
+    "El grupo investiga el secuestro y encuentra los restos de los piratas. Derrota a los combatientes del poblado y entrega una pierna a Bonnie, que paga cincuenta monedas. No rescata vivos a los dos piratas (15-003–15-004,15-010–15-017 y 15-020).",
+    "La granja de Patata existe junto al camino, con cultivos y una estatua, bajo el permiso de Bonnie. Sigue en construcción y no genera ingresos de cosecha demostrados. Las cinco monedas entregadas proceden de una excursión (15-003–15-004).",
+    "Kilzer declara que el casino está en construcción y que prepara juegos. Todavía no abre ni obtiene beneficios (15-001).",
+    "Erendriel organiza el envío de Jack. Bonnie afirma después que acaba de partir, tras dos semanas, y retiene al elfo por el retraso. No se muestra la llegada de Jack ni la liberación de Erendriel (15-002 y 15-021).",
+    "Axi compra flechas y armadura ligera. Él y Patata obtienen una poción cada uno en el hoyo de restos. Erendriel termina sin flechas y Patata no encuentra armadura en el poblado (15-005 y 15-017–15-019).",
+    "Patata entrega treinta de las cincuenta monedas cobradas. Los demás acuerdan cuatro partes de siete y medio tras discutir las cifras. Erendriel no recibe una parte mostrada antes de ser llevado por Bonnie (15-020–15-022)."
+  ],
+  "preguntas": [
+    "¿Qué hará Bonnie con Erendriel por el retraso? Sus hombres se lo llevan sin mostrar el desenlace (15-021).",
+    "¿Llegará Jack a Puerto de las Espadas, cobrará la lista y se reunirá con Lucy? Bonnie solo confirma su partida (15-021).",
+    "¿Cómo se llama el poblado y por qué secuestraron a los piratas? No se explica su historia ni se lo identifica con la tribu del preso del capítulo 12 (15-010 y 15-019).",
+    "¿Qué significa el tatuaje del combatiente que vuelve a levantarse? Se copia, pero no se descifra ni se le adjudica un poder (15-019).",
+    "¿Cuándo producirán el huerto y el casino? Los proyectos existen, pero no generan ingresos mostrados (15-001 y 15-003–15-004).",
+    "¿Es Tarin el nombre del dragón? La mención breve sigue siendo una candidata, sin confirmación clara (15-012).",
+    "¿Qué enfermedad tiene Mamá y por qué Triel no puede curarla? La recapitulación no aporta un diagnóstico ni una escena completa (15-002)."
+  ],
+  "contradicciones": [
+    "Kilzer y Axi relacionan a los atacantes con los del capítulo 2, pero el director niega que sean la tribu del preso pintado del capítulo 12. No se fusionan todas las tribus (15-010).",
+    "Axi no reconoce el disfraz de Triel y dispara sin acertar. Patata y el dragón la reconocen después. El conocimiento de los jugadores no evita la confusión del personaje (15-016).",
+    "La inmunidad de Axi a las armas no lo protege de la condición de envenenado. Las resistencias de Erendriel y del dragón tampoco equivalen a una invulnerabilidad general (15-008 y 15-015).",
+    "El jefe vuelve a levantarse por una habilidad narrada mediante rabia o adrenalina. No se confirma que sea un muerto viviente ni se descifra su tatuaje (15-017 y 15-019).",
+    "La fruta obliga a Eldrat a decir la verdad. Su frase durante el robo se corrige para mantener el efecto (15-008 y 15-018).",
+    "La misma bolsa de veintitrés monedas pasa de Kilzer a Eldrat y vuelve a Kilzer. No hay dos bolsas que sumen cuarenta y seis (15-018 y 15-020).",
+    "Bonnie paga cincuenta a Patata en privado; él entrega treinta a los demás. Los compañeros no observan automáticamente el pago total (15-020).",
+    "El reparto correcto de treinta entre cuatro es siete y medio. Se conserva el intento de asignar seis y medio y la entrega posterior de la moneda faltante (15-022).",
+    "El director precisa que el dragón no tendrá alas funcionales hasta el nivel siete. La espada de escamas azules no se identifica como un objeto hecho con su madre (15-006)."
+  ],
+  "nombres_dudosos": [
+    "Chanrea es la grafía provisional de la divinidad agrícola que menciona Patata. No se corrige mediante una tradición externa.",
+    "Tarin aparece como candidato para el nombre del dragón, cuya continuidad con la criatura de Erendriel se conserva.",
+    "Las variantes de Eldrat y Triel designan a los hermanos del capítulo 14. Erendriel participa como otro elfo distinto.",
+    "Axi sigue siendo nativo aunque se identifique como pirata. La continuidad con Chochi no crea otro humano.",
+    "El arma de hueso se describe como hacha y como palo con punta, sin demostrar propiedades mágicas.",
+    "El jefe de dos hachas y los otros habitantes no reciben nombres personales. Su rango o aspecto no permiten identificarlos con personajes externos.",
+    "Triel se autoproclama cortacolas de nueve mares. No se establece un rango efectivo ni una victoria sobre Ione."
+  ],
+  "fuente_sha256": "682da1b69f20b29a88ff790cd1a3421009e0b129a17cd4efbebd63f581b9f554",
+  "afirmaciones": [
+    {
+      "id": "15-001",
+      "titulo": "Casino en construcción y los hermanos exploran el pueblo",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Axi relata que robó ropa similar a la anterior, pierde una moneda al descansar. Kilzer prepara juegos del casino que está en construcción, habla de calidad justa para su bolsillo y recibe un pinchazo durante el descanso. Eldrat recorre el pueblo buscando información y prepara bolsas de bromas; una tirada le provoca una herida descrita humorísticamente como causada por su hermana.",
+      "inicio": "00:00:00.000",
+      "fin": "00:03:35.000",
+      "cita": "la construcción del casino está en marcha",
+      "evidencia_cue": {
+        "inicio": "00:01:14.360",
+        "fin": "00:01:16.149",
+        "texto": "que la construcción del casino está en marcha, ha ido preparando los juegos y"
+      },
+      "entidades": [
+        "Axi (identificación contextual con Chochi)",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Casino propuesto de Shiaru",
+        "Eldrat (elfo hermano, grafía provisional)",
+        "Triel (elfa hermana, grafía provisional)"
+      ],
+      "ambito": "recapitulaciones y descanso",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No casino abierto, ganancias cobradas o fraude de juego ejecutado. Heridas de tirada no autor identificado solo por broma de hermana."
+    },
+    {
+      "id": "15-002",
+      "titulo": "Triel quiere ser capitana y el elfo prepara el envío de Jack",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Triel habló con Mamá pensando que era la capitana por su ropa; después habló con Nox, que le dijo que la capitana era Ione. Quiere derrotarla para quedarse con el barco y ver el huevo y sabe que Mamá está mal, pero no puede curarla. Eldrat le manda callar al hablar de por qué están aquí. Patata relata que tiene un huerto parcialmente funcional y recibe cuatro monedas. El elfo organiza el primer envío de Jack a Puerto de Espadas consultando la ruta para evitar su propio incidente; el descanso le provoca un pinchazo.",
+      "inicio": "00:03:20.000",
+      "fin": "00:07:15.000",
+      "cita": "la primera enviada del señor Ycki",
+      "evidencia_cue": {
+        "inicio": "00:05:58.880",
+        "fin": "00:06:04.590",
+        "texto": "poder organizar la primera enviada del señor Ycki a el puerto de las espadas."
+      },
+      "entidades": [
+        "Triel (elfa hermana, grafía provisional)",
+        "Mamá / Citlali (identificación contextual provisional)",
+        "Nox",
+        "Ione",
+        "Huevo grande del nido",
+        "Patata / Patatamán (grafía provisional)",
+        "Erendriel (grafía provisional)",
+        "Jack / Jackie (marine cautivo, variantes de apellido)",
+        "Puerto de Espadas"
+      ],
+      "ambito": "recapitulaciones de planes",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No combate por capitanía ni enfermedad concreta de Mamá diagnosticada. Envío preparado no barco zarpa con Jack durante esta recapitulación."
+    },
+    {
+      "id": "15-003",
+      "titulo": "Granja de Patata y dos piratas arrastrados",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "La cámara muestra una granja junto al camino cerca de Shiaru, en construcción pero con cultivos, una estatua de una diosa y una calabaza grande llamada Patricia. Bonnie la permite a cambio de aportaciones, de momento algunas calabazas. Patata arroja una calabaza y una piedra a dos piratas que lo molestan; unas sombras los arrastran a la selva. Rastrea y toma un arma rudimentaria, palo con punta de hueso, como prueba para Bonnie.",
+      "inicio": "00:07:00.000",
+      "fin": "00:11:55.000",
+      "cita": "son arrastrados a al interior de la selva",
+      "evidencia_cue": {
+        "inicio": "00:10:36.040",
+        "fin": "00:10:37.710",
+        "texto": "como son arrastrados a al interior de la selva."
+      },
+      "entidades": [
+        "Patata / Patatamán (grafía provisional)",
+        "Granja de Patata",
+        "Patricia (calabaza grande)",
+        "Dos piratas arrastrados de la granja (sin nombres)",
+        "Arma de hueso junto a granja",
+        "Happy Bonnie / Bonny (grafía provisional)"
+      ],
+      "ambito": "secuestro observado desde granja",
+      "conocedores": [
+        "Patata / Patatamán (grafía provisional)"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Los demás tokens están para mostrar escena, no presentes. No muerte observada en momento de arrastre ni autor de tribu identificado aún."
+    },
+    {
+      "id": "15-004",
+      "titulo": "Patata paga cinco monedas y Bonnie encarga eliminar la amenaza",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Patata reúne a los hermanos y entra para hablar con Bonnie mientras otros esperan. Le entrega cinco de oro como parte de una excursión, no como rendimiento actual del huerto, porque las plantas siguen creciendo, y muestra el arma hallada. Dice que dos piratas suyos han sido secuestrados. Bonnie pide investigar y, si hay una tribu que come gente, exterminarla; pagará a Patata para repartir como quiera. No exige recuperar vivos a los desaparecidos.",
+      "inicio": "00:12:00.000",
+      "fin": "00:18:50.000",
+      "cita": "pues fácil las extermináis",
+      "evidencia_cue": {
+        "inicio": "00:18:44.559",
+        "fin": "00:18:46.590",
+        "texto": "que come gente o algo así, pues fácil las extermináis."
+      },
+      "entidades": [
+        "Patata / Patatamán (grafía provisional)",
+        "Happy Bonnie / Bonny (grafía provisional)",
+        "Arma de hueso junto a granja",
+        "Dos piratas arrastrados de la granja (sin nombres)"
+      ],
+      "ambito": "encargo y pago previo parcial",
+      "conocedores": [
+        "Patata / Patatamán (grafía provisional)",
+        "Happy Bonnie / Bonny (grafía provisional)"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Orden violenta es declaración de Bonnie, no regla moral del narrador. Aún no tribu identificada ni cantidad de recompensa prometida claramente."
+    },
+    {
+      "id": "15-005",
+      "titulo": "El grupo se reúne y Axi compra flechas y armadura",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Patata recluta a Kilzer, Axi y el elfo junto a Eldrat y Triel; hablan de pago y peligros. El elfo necesita ahorrar para los viajes del contrato con Bonnie. Se presentan y Axi confirma ser nativo aunque pirata, dice que hay muchas tribus territoriales sin identificar el arma concreta. Triel lo guía al herrero y compra flechas en paquetes de una moneda de oro y una armadura ligera por diez.",
+      "inicio": "00:18:40.000",
+      "fin": "00:31:10.000",
+      "cita": "ligera. Vale, 10 de oro",
+      "evidencia_cue": {
+        "inicio": "00:31:07.440",
+        "fin": "00:31:09.909",
+        "texto": "medio o ligera. Eh, ligera. Vale, 10 de oro. ¿Puedes"
+      },
+      "entidades": [
+        "Patata / Patatamán (grafía provisional)",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Axi (identificación contextual con Chochi)",
+        "Erendriel (grafía provisional)",
+        "Eldrat (elfo hermano, grafía provisional)",
+        "Triel (elfa hermana, grafía provisional)",
+        "Herrero de Shiaru (sin nombre)"
+      ],
+      "ambito": "reclutamiento y compras",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No fecha de viaje o sueldo del elfo liquidados. Comentarios generales de caníbales no prueba de que todos nativos practiquen lo mismo."
+    },
+    {
+      "id": "15-006",
+      "titulo": "La espada de Triel tiene escamas de dragón azul",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "El elfo llama al dragoncito, que rompe una caja al salir, grande y creciendo. Triel lo acaricia y muestra su espada pensando que podría ser de su madre. Una tirada de la criatura le permite reconocer escamas de dragón azul; mira a su cuidador y se esconde entre sus piernas. Se discute sobre sus alas y el director dice que todavía no le crecen para volar hasta el nivel siete.",
+      "inicio": "00:31:00.000",
+      "fin": "00:36:25.000",
+      "cita": "son escamas de dragón azul",
+      "evidencia_cue": {
+        "inicio": "00:35:18.280",
+        "fin": "00:35:23.150",
+        "texto": "Vale, pues olería un poquito y son escamas de dragón azul."
+      },
+      "entidades": [
+        "Erendriel (grafía provisional)",
+        "Dragoncito de Erendriel (sin nombre)",
+        "Triel (elfa hermana, grafía provisional)",
+        "Espada azul de escamas de Triel",
+        "Eldrat (elfo hermano, grafía provisional)"
+      ],
+      "ambito": "reconocimiento de material y reacción",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No madre exacta del dragón identificada como origen de espada. Alas mencionadas por jugador corregidas; crecimiento narrado no concilia por sí solo todas discrepancias previas de tamaño."
+    },
+    {
+      "id": "15-007",
+      "titulo": "Diosa de Patata y rastros hacia el sur",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Patata presenta la estatua de una diosa de la agricultura cuyo nombre se reconoce como Chanrea y dice que le dio su forma actual. Eldrat encuentra pisadas de piratas y otras descalzas más sutiles, rastros de arrastre recientes; siguen por la jungla y el camino hacia el sur. Axi explica posibles sacrificios de tribus como variantes, sin saber el motivo exacto del secuestro.",
+      "inicio": "00:36:00.000",
+      "fin": "00:44:50.000",
+      "cita": "la diosa de la agricultura",
+      "evidencia_cue": {
+        "inicio": "00:37:54.800",
+        "fin": "00:37:58.230",
+        "texto": "Esa estatua de la diosa Chanrea, mi diosa, la diosa de la agricultura."
+      },
+      "entidades": [
+        "Patata / Patatamán (grafía provisional)",
+        "Granja de Patata",
+        "Chanrea (diosa de agricultura, grafía de fuente provisional)",
+        "Eldrat (elfo hermano, grafía provisional)",
+        "Axi (identificación contextual con Chochi)"
+      ],
+      "ambito": "religión declarada y seguimiento de rastro",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No imponer grafía de divinidad externa sin fuente más clara. Causa sobrenatural de forma es declaración de Patata, no transformación pasada observada. No restos de sangre identificados aquí por pregunta sola."
+    },
+    {
+      "id": "15-008",
+      "titulo": "Frutas: obligación de decir la verdad, inmunidad a las armas y resistencias",
+      "tipo": "explicacion_director",
+      "afirmacion": "Patata recibe inspiración temporal de una visión futura. Eldrat no puede mentir y expresa pensamientos sin querer, incluido querer apuñalar a Kilzer. Axi no recibe daño de armas, pero la magia o los dientes sí pueden dañarlo. El elfo y el dragón obtienen resistencia a daños no mágicos. Kilzer obtiene ventaja con los herbívoros y un olor agradable. Triel defiende a su hermano amenazando a Kilzer, sin hacerlo en ese momento.",
+      "inicio": "00:44:20.000",
+      "fin": "00:50:45.000",
+      "cita": "no puedes mentir",
+      "evidencia_cue": {
+        "inicio": "00:46:11.960",
+        "fin": "00:46:15.470",
+        "texto": "Te vuelves pues Eldar, Eldrard, no puedes mentir."
+      },
+      "entidades": [
+        "Patata / Patatamán (grafía provisional)",
+        "Eldrat (elfo hermano, grafía provisional)",
+        "Axi (identificación contextual con Chochi)",
+        "Erendriel (grafía provisional)",
+        "Dragoncito de Erendriel (sin nombre)",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Triel (elfa hermana, grafía provisional)",
+        "Frutas de Xoltacan"
+      ],
+      "ambito": "efectos temporales y conflictos verbales",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No invulnerabilidad total de Axi, inmunidad de veneno o habilidades permanentes. Amenaza del elfo no asesinato ejecutado."
+    },
+    {
+      "id": "15-009",
+      "titulo": "Evitan un estegosauro y Triel obliga a Kilzer a arrodillarse",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "El grupo oye y ve un dinosaurio grande junto a un lago. Algunos se esconden mal y Triel llama a los demás a gritos. El conocimiento atribuido a Axi le permite identificar un estegosauro común, herbívoro, poco agresivo salvo cuando invaden su espacio, y con una cola peligrosa. Lo evitan por la jungla sin combatir. Durante los insultos, Triel ordena a Kilzer arrodillarse, él supera la primera salvación, pero una reacción lo obliga a repetirla y falla.",
+      "inicio": "00:50:30.000",
+      "fin": "01:01:45.000",
+      "cita": "es un estegosauro",
+      "evidencia_cue": {
+        "inicio": "00:57:19.760",
+        "fin": "00:57:23.190",
+        "texto": "visto más de una vez, es bastante común y es un estegosauro, eh, es herbívoro,"
+      },
+      "entidades": [
+        "Axi (identificación contextual con Chochi)",
+        "Estegosauro del lago",
+        "Triel (elfa hermana, grafía provisional)",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Eldrat (elfo hermano, grafía provisional)"
+      ],
+      "ambito": "encuentro evitado y orden mágica",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No dinosaurio matado o domesticado. Relato de cola partiendo gigante es conocimiento de Axi, sin escena histórica independiente aquí."
+    },
+    {
+      "id": "15-010",
+      "titulo": "Restos de piratas y Triel infiltrada con disfraz",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Llegan a un claro con chozas de paja/madera y olor a sangre. Kilzer y Axi reconocen atacantes parecidos a los del primer encuentro. El director rechaza que sea la misma tribu del preso pintado del episodio anterior: hay varias. Ven pequeños dinosaurios comiendo restos de los piratas y cuerpos echados a un hoyo. Triel se adelanta sin que sus compañeros lo adviertan y toma el aspecto de un caníbal; Eldrat intenta encontrarla telepáticamente mientras ordena avanzar por dos flancos y evitar un ataque frontal.",
+      "inicio": "01:01:30.000",
+      "fin": "01:08:30.000",
+      "cita": "hay muchas tribus caníbales",
+      "evidencia_cue": {
+        "inicio": "01:04:26.039",
+        "fin": "01:04:28.190",
+        "texto": "Ah, no, no, no es es otro de esto. Se hay muchas tribus caníbales."
+      },
+      "entidades": [
+        "Kilzer / Kilcer (grafía provisional)",
+        "Axi (identificación contextual con Chochi)",
+        "Patata / Patatamán (grafía provisional)",
+        "Triel (elfa hermana, grafía provisional)",
+        "Eldrat (elfo hermano, grafía provisional)",
+        "Poblado caníbal del sur de la granja",
+        "Dos piratas arrastrados de la granja (sin nombres)",
+        "Hombre de pinturas blancas preso (sin nombre)"
+      ],
+      "ambito": "hallazgo y separación de grupo",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No nombre o cultura exactos de tribu ni todos habitantes combatientes. Disfraz no cambio de identidad permanente o nueva PJ."
+    },
+    {
+      "id": "15-011",
+      "titulo": "Un cebo permite eliminar a un defensor y el dragón alerta al otro flanco",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Eldrat apaga antorchas oculto y el elfo lo sigue; el dragón hace ruido y atrae caníbales. En el otro lado, Patata y Axi ayudan a dejar hueso y carne como cebo junto a Kilzer, oculto como un arbusto. Al acercarse un defensor, Kilzer lo hiere y Axi lo remata con el arco. Ocultan el cuerpo. No conocen cuántos quedan en las chozas.",
+      "inicio": "01:08:15.000",
+      "fin": "01:19:55.000",
+      "cita": "acabáis con el [ __ ]",
+      "evidencia_cue": {
+        "inicio": "01:19:03.800",
+        "fin": "01:19:06.470",
+        "texto": "Vale. Y acabáis con el [ __ ]"
+      },
+      "entidades": [
+        "Eldrat (elfo hermano, grafía provisional)",
+        "Erendriel (grafía provisional)",
+        "Dragoncito de Erendriel (sin nombre)",
+        "Patata / Patatamán (grafía provisional)",
+        "Axi (identificación contextual con Chochi)",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Poblado caníbal del sur de la granja"
+      ],
+      "ambito": "primer ataque coordinado",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No encuentro de rescate con cautivos vivos. No todas antorchas apagadas o infiltración sin detección por éxito parcial de Eldrat."
+    },
+    {
+      "id": "15-012",
+      "titulo": "Crecimiento espinoso y Espíritus guardianes",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "El elfo se oculta y lanza Crecimiento espinoso que ralentiza y daña a quienes avanzan; tres defensores reciben daño y alertan del combate. Eldrat sigue apagando antorchas. Patata conjura Espíritus guardianes y se expone como blanco, recibe dardos y mantiene la concentración. El dragón se retira a la vegetación para protegerse. Se pronuncia Tarin como posible nombre al pasar al turno del dragón.",
+      "inicio": "01:19:40.000",
+      "fin": "01:30:10.000",
+      "cita": "los espíritus guardianes",
+      "evidencia_cue": {
+        "inicio": "01:26:13.000",
+        "fin": "01:26:14.470",
+        "texto": "Vale, pero los espíritus guardianes a tu"
+      },
+      "entidades": [
+        "Erendriel (grafía provisional)",
+        "Patata / Patatamán (grafía provisional)",
+        "Eldrat (elfo hermano, grafía provisional)",
+        "Dragoncito de Erendriel (sin nombre)",
+        "Poblado caníbal del sur de la granja"
+      ],
+      "ambito": "inicio de batalla y control de terreno",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Tarin candidato de nombre, no normalización definitiva sin nueva evidencia. No curación de Patata por daño a otros inferida de bromas."
+    },
+    {
+      "id": "15-013",
+      "titulo": "Defensores y dinosaurios presionan a Patata",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Axi dispara con presa favorita, después es descubierto. Los defensores utilizan cerbatanas a distancia contra el dragón y Patata; algunos venenos afectan. Los dinosaurios corren hacia Patata, sufren los efectos de Espíritus guardianes y lo muerden. Triel permanece disfrazada lejos y al principio no ve el combate; Eldrat sube a las chozas para obtener una mejor posición. Kilzer sale, mata a un defensor y hiere a otro para apoyar a Patata, que se cura e invoca su arma espiritual.",
+      "inicio": "01:28:20.000",
+      "fin": "01:44:30.000",
+      "cita": "Soy la venganza de la selva",
+      "evidencia_cue": {
+        "inicio": "01:28:29.280",
+        "fin": "01:28:31.830",
+        "texto": "intentar dispararte. Espíritus. Soy la venganza de la selva."
+      },
+      "entidades": [
+        "Axi (identificación contextual con Chochi)",
+        "Patata / Patatamán (grafía provisional)",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Erendriel (grafía provisional)",
+        "Dragoncito de Erendriel (sin nombre)",
+        "Triel (elfa hermana, grafía provisional)",
+        "Eldrat (elfo hermano, grafía provisional)",
+        "Dinosaurios del poblado caníbal"
+      ],
+      "ambito": "batalla en dos zonas",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No daño de armas ignorado de Patata por efecto que pertenece a Axi. Comentarios de falta de participación no conocimiento exacto de un flanco por todos."
+    },
+    {
+      "id": "15-014",
+      "titulo": "Kilzer es derribado y curado antes de auxiliar a Patata",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "El elfo mata a un defensor con el arco y mueve al dragón hacia la cobertura vegetal. Un dinosaurio salta sobre Kilzer, lo derriba y lo muerde con varios ataques. Triel lo cura sin que él conozca el origen de la curación, después de comunicarse con Eldrat. Este mata a otro desde su escondite. Kilzer mata al dinosaurio estando en el suelo, se levanta y mata al que amenaza a Patata. Patata usa Preservar vida y mantiene su arma espiritual.",
+      "inicio": "01:44:00.000",
+      "fin": "02:00:20.000",
+      "cita": "tus heridas empiezan a cerrar",
+      "evidencia_cue": {
+        "inicio": "01:55:14.320",
+        "fin": "01:55:16.109",
+        "texto": "Vale, pues Kilcer, notas que que tus heridas empiezan a cerrar, no sabes"
+      },
+      "entidades": [
+        "Kilzer / Kilcer (grafía provisional)",
+        "Triel (elfa hermana, grafía provisional)",
+        "Eldrat (elfo hermano, grafía provisional)",
+        "Patata / Patatamán (grafía provisional)",
+        "Erendriel (grafía provisional)",
+        "Dragoncito de Erendriel (sin nombre)",
+        "Dinosaurios del poblado caníbal"
+      ],
+      "ambito": "curación y rescate en combate",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Kilzer derribado no muerto ni resucitado. Origen de curación conocido por espectador y curadora, no por él automáticamente."
+    },
+    {
+      "id": "15-015",
+      "titulo": "Refuerzos y jefe; Axi inmune pero envenenado",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "El elfo cambia Crecimiento espinoso por presa favorita y luego prepara otro crecimiento para los refuerzos. Patata cura a Kilzer y Axi cura a Patata y se teletransporta al frente. Nuevos caníbales salen de las casas y el daño de armas de los dardos no afecta a Axi, pero sí queda envenenado. Crecimiento espinoso vuelve a afectar al terreno. Llegan un combatiente enfurecido con dos hachas y un jefe, sin nombres.",
+      "inicio": "02:00:00.000",
+      "fin": "02:14:40.000",
+      "cita": "pero no al veneno",
+      "evidencia_cue": {
+        "inicio": "02:10:12.119",
+        "fin": "02:10:14.669",
+        "texto": "Pero soy inmune a las armas, ¿no? Bueno, y sí, pero no al veneno. Así que"
+      },
+      "entidades": [
+        "Erendriel (grafía provisional)",
+        "Patata / Patatamán (grafía provisional)",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Axi (identificación contextual con Chochi)",
+        "Jefe de dos hachas del poblado (sin nombre)",
+        "Defensores del poblado caníbal"
+      ],
+      "ambito": "refuerzos y límites de inmunidad",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No inmunidad condición de veneno ni curación automática al no perder vida. No nueva facción o identidad de jefe deducida del token."
+    },
+    {
+      "id": "15-016",
+      "titulo": "Triel lucha disfrazada y Axi le dispara por error",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Triel ataca a los rivales manteniendo su aspecto de caníbal; Eldrat lo deduce o lo confirma mediante la comunicación. Kilzer se oculta ante el combatiente grande. Axi intenta inmovilizar a un caníbal que pelea con otro y falla su prueba de Investigación, ataca a Triel con arco y falla. Patata reconoce el disfraz por sus gestos y por el combate previo y dispara al rival correcto. El dragón también la reconoce como aliada mediante Investigación y continúa atacando al enemigo de las dos hachas.",
+      "inicio": "02:14:20.000",
+      "fin": "02:31:40.000",
+      "cita": "Tú no sabes que es triel",
+      "evidencia_cue": {
+        "inicio": "02:23:26.080",
+        "fin": "02:23:26.910",
+        "texto": "Atácale eso. Atácale normal. Tú no sabes que es triel."
+      },
+      "entidades": [
+        "Triel (elfa hermana, grafía provisional)",
+        "Eldrat (elfo hermano, grafía provisional)",
+        "Axi (identificación contextual con Chochi)",
+        "Patata / Patatamán (grafía provisional)",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Dragoncito de Erendriel (sin nombre)",
+        "Jefe de dos hachas del poblado (sin nombre)"
+      ],
+      "ambito": "identidad oculta y fuego amigo fallido",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No disparo acertado a hermana ni enfrentamiento deliberado entre aliados. Reconocimiento de Patata no transferido retrospectivamente a Axi."
+    },
+    {
+      "id": "15-017",
+      "titulo": "El rival se levanta y Eldrat lo remata",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "El elfo usa Golpe de céfiro, presa favorita e infusión del dragón para herir al grande y se queda sin flechas, y saca un estoque. El rival vuelve a levantarse lleno de sangre y rabia, Axi lo hiere. Eldrat pide a su hermana que le permita rematarlo para demostrar su capacidad a Kilzer. Ella pide una compra futura; él lanza una daga y lo mata. Triel mantiene el disfraz y luego aclara su identidad mediante la voz.",
+      "inicio": "02:31:10.000",
+      "fin": "02:40:50.000",
+      "cita": "lo mato. ¿Cómo lo haces?",
+      "evidencia_cue": {
+        "inicio": "02:39:16.080",
+        "fin": "02:39:18.269",
+        "texto": "Siete. Vale, lo mato. ¿Cómo lo haces? Vale,"
+      },
+      "entidades": [
+        "Erendriel (grafía provisional)",
+        "Axi (identificación contextual con Chochi)",
+        "Eldrat (elfo hermano, grafía provisional)",
+        "Triel (elfa hermana, grafía provisional)",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Jefe de dos hachas del poblado (sin nombre)"
+      ],
+      "ambito": "fin del combate",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "Levantarse del rival no prueba de resurrección o muerto viviente, se narra adrenalina y habilidad. Inspiración da acierto, no crítico automático, aclarado por director."
+    },
+    {
+      "id": "15-018",
+      "titulo": "Botín y Eldrat roba veintitrés a Kilzer",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Patata no encuentra armaduras porque la tribu lleva taparrabos; saquea casas y obtiene una moneda antigua y siete monedas de oro. Axi obtiene obsidiana y nueve monedas. Kilzer registra al combatiente grande, Eldrat disputa el derecho al botín por haberlo matado y sustituye una bolsa de veintitrés monedas de oro por harina mediante Juego de manos y una dote. Eldrat además obtiene una copa ritual de la casa grande. La obligación de decir la verdad causada por la fruta revela que se llevó la bolsa, sin que el robo se revierta todavía.",
+      "inicio": "02:40:20.000",
+      "fin": "02:46:50.000",
+      "cita": "una bolsa con 23 de oro",
+      "evidencia_cue": {
+        "inicio": "02:44:55.399",
+        "fin": "02:44:58.550",
+        "texto": "Sí, pues le robas una bolsa con 23 de oro."
+      },
+      "entidades": [
+        "Patata / Patatamán (grafía provisional)",
+        "Axi (identificación contextual con Chochi)",
+        "Kilzer / Kilcer (grafía provisional)",
+        "Eldrat (elfo hermano, grafía provisional)",
+        "Moneda antigua del poblado",
+        "Copa ritual del poblado caníbal",
+        "Bolsa de veintitrés de oro disputada"
+      ],
+      "ambito": "saqueo y disputa de propiedad",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No autoridad del asesino sobre todo botín demostrada por discusión. Copa nueva distinta de otras vendidas, precio de venta aún no realizado."
+    },
+    {
+      "id": "15-019",
+      "titulo": "Tatuajes copiados, miasma y pociones en un hoyo",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "El elfo copia los tatuajes del rival que volvió a levantarse, sin explicación de su función o identificación tribal. El miasma de una carta causa doce puntos de daño a todos. Patata pide una cuerda de apoyo a Axi y baja al hoyo de restos piratas buscando objetos; encuentra una poción y sube. Axi también recibe otra poción al registrar. No se recoge un cuchillo adicional antes de salir.",
+      "inicio": "02:46:20.000",
+      "fin": "02:50:50.000",
+      "cita": "otra poción",
+      "evidencia_cue": {
+        "inicio": "02:50:39.200",
+        "fin": "02:50:42.469",
+        "texto": "¿Y cómo hago? Pues otra poción de otra poción."
+      },
+      "entidades": [
+        "Erendriel (grafía provisional)",
+        "Tatuajes copiados del poblado caníbal",
+        "Patata / Patatamán (grafía provisional)",
+        "Axi (identificación contextual con Chochi)",
+        "Hoyo de restos del poblado",
+        "Dos pociones del hoyo"
+      ],
+      "ambito": "botín y suceso de audiencia",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No contagio mortal del grupo, efecto sobrenatural tribal o veneno de entidad por miasma de carta. Pociones sin tipo exacto fijado en este pasaje."
+    },
+    {
+      "id": "15-020",
+      "titulo": "Bolsa recuperada y Bonnie paga cincuenta",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Durante el regreso, Kilzer roba a Eldrat la bolsa de veintitrés monedas de oro pese a la reacción de Triel, y el director se la asigna. Patata entrega una pierna de pirata a Bonnie y afirma que no queda ninguno en el poblado. Ella no reconoce al muerto y aparta la pierna y le paga cincuenta de oro. Patata entrega treinta para repartir a otros, sin revelar la cantidad total recibida de Bonnie.",
+      "inicio": "02:50:30.000",
+      "fin": "02:54:55.000",
+      "cita": "50 monedas de oro",
+      "evidencia_cue": {
+        "inicio": "02:54:24.080",
+        "fin": "02:54:26.269",
+        "texto": "Oh, ¿cuánto lleva la bolsa? 50 monedas de oro."
+      },
+      "entidades": [
+        "Kilzer / Kilcer (grafía provisional)",
+        "Eldrat (elfo hermano, grafía provisional)",
+        "Triel (elfa hermana, grafía provisional)",
+        "Bolsa de veintitrés de oro disputada",
+        "Patata / Patatamán (grafía provisional)",
+        "Happy Bonnie / Bonny (grafía provisional)",
+        "Pierna de pirata recuperada"
+      ],
+      "ambito": "robo final y recompensa",
+      "conocedores": [
+        "Patata / Patatamán (grafía provisional)",
+        "Happy Bonnie / Bonny (grafía provisional)"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No exterminio de toda población/civiles probado por declaración de Patata, solo combatientes derrotados en escena. Compañeros saben treinta ofrecidas, no cincuenta recibidas automáticamente."
+    },
+    {
+      "id": "15-021",
+      "titulo": "Bonnie retiene al elfo por envío tardío",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Un subordinado pide al elfo que converse con Bonnie. Ella dice que han pasado dos semanas y Jack acaba de irse; el elfo responde que lo mandó tarde. Ella ordena que se haga lo que corresponde y dos piratas lo flanquean y lo llevan tras una puerta, a la vista de sus compañeros. No se muestra el desenlace. El dragón queda fuera.",
+      "inicio": "02:54:30.000",
+      "fin": "02:57:15.000",
+      "cita": "han pasado dos semanas",
+      "evidencia_cue": {
+        "inicio": "02:56:10.000",
+        "fin": "02:56:15.870",
+        "texto": "dice, \"M, han pasado dos semanas,"
+      },
+      "entidades": [
+        "Erendriel (grafía provisional)",
+        "Happy Bonnie / Bonny (grafía provisional)",
+        "Jack / Jackie (marine cautivo, variantes de apellido)",
+        "Dragoncito de Erendriel (sin nombre)"
+      ],
+      "ambito": "reclamación y retirada forzada",
+      "conocedores": [
+        "Erendriel (grafía provisional)",
+        "Happy Bonnie / Bonny (grafía provisional)"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No muerte, mutilación nueva o ejecución del elfo mostradas. Partida de Jack es declaración de Bonnie, no escena de embarque o llegada a Lucy."
+    },
+    {
+      "id": "15-022",
+      "titulo": "Treinta monedas repartidas entre cuatro; el dragón busca a la abuela",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Kilzer propone un reparto de diez, diez y diez, sin contar a los dos hermanos como personas separadas. Eldrat exige cuatro partes con amenaza y ayuda de Triel, lo intimida. Calculan inicialmente seis y medio, el director corrige que treinta entre cuatro son siete y medio. Eldrat intenta mantener seis y medio por engaño, algunos lo detectan y entrega la moneda adicional que faltaba. Se asigna un reparto entre cuatro personas; no se muestra que el elfo ausente reciba una parte. El dragón rechaza ir con los hermanos y corre al barco para buscar a la abuela. Patata se retira mientras discuten.",
+      "inicio": "02:56:30.000",
+      "fin": "03:02:30.000",
+      "cita": "Es siete es 7,5",
+      "evidencia_cue": {
+        "inicio": "02:59:27.640",
+        "fin": "02:59:30.590",
+        "texto": "no es. De hecho, han dicho sí y ni siquiera es 6,5. Es siete es 7,5. Pero"
+      },
+      "entidades": [
+        "Kilzer / Kilcer (grafía provisional)",
+        "Eldrat (elfo hermano, grafía provisional)",
+        "Triel (elfa hermana, grafía provisional)",
+        "Axi (identificación contextual con Chochi)",
+        "Erendriel (grafía provisional)",
+        "Dragoncito de Erendriel (sin nombre)",
+        "Patata / Patatamán (grafía provisional)",
+        "Mamá / Citlali (identificación contextual provisional)"
+      ],
+      "ambito": "reparto corregido y cierre",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "nota_conocimiento": "Acceso de Madame Oghma sin establecer en este pasaje.",
+      "confianza": "lectura de subtítulos; audio no cotejado",
+      "limitacion": "No seis y medio como resultado definitivo tras correcciones. No encuentro mostrado de dragón con Mamá ni daño de supuesta nueva espada por comentario de Triel."
+    }
+  ]
+}

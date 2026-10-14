@@ -1,0 +1,272 @@
+# Contradicciones
+
+Discrepancias, correcciones y cautelas editoriales fechadas por episodio. No todas son contradicciones activas: algunas son rectificaciones explícitas o límites de interpretación.
+
+- Cap. 01: Visibilidad del dragoncito: el director describe inicialmente una cabecita visible, el jugador indica que está escondido y el director acepta. Conservar ambas versiones y la corrección (01-010, 00:19:25–00:19:48). ([ficha](capitulos/01.md)).
+- Cap. 01: Raza e identidad del visitante: el director lo describe como tiefling y él se presenta como sátiro de ubres azules con otro nombre. Se conserva como discrepancia entre narración y autodescripción (01-015), sin resolver su especie por una broma. ([ficha](capitulos/01.md)).
+- Cap. 01: El reptil de Mamá se describe primero como iguana y luego como camaleón. Nombre y especie quedan pendientes de audio u otra presentación (01-028). ([ficha](capitulos/01.md)).
+- Cap. 01: El montaje presenta el accidente al inicio, pero después el director dice que llevan meses con Bonnie. Se registra el salto temporal implícito (01-008 y 01-030); no se considera probado que todo transcurra el mismo día. ([ficha](capitulos/01.md)).
+- Cap. 02: 02-001 recapitula un regreso al camarote con Ione después del cierre del capítulo 1, que mostraba a Nox lanzándose al mar con cadenas (01-034). Se conserva la información nueva; la transición no está mostrada ni fechada. ([ficha](capitulos/02.md)).
+- Cap. 02: 02-011 llama inicialmente inconsciente a Nox, pero enseguida lo describe tumbado, hablando y entumecido y le permite actuar en el siguiente turno. No se fija retrospectivamente un estado reglamentario coherente. ([ficha](capitulos/02.md)).
+- Cap. 02: El visitante no se define como pirata, mientras Nox e Ione intentan incorporarlo a su tripulación o atribuirlo al grandullón durante la apuesta; su consentimiento y las condiciones siguen disputados (02-026–02-029). ([ficha](capitulos/02.md)).
+- Cap. 02: Las afirmaciones de Nox sobre un negocio honesto y que no ha hecho nada al pulso contradicen la adjudicación de que su palabra induce a Ayoto a perder (02-027). Son negaciones de un personaje, no una corrección del resultado narrado. ([ficha](capitulos/02.md)).
+- Cap. 02: El relato de tribu exterminada y el posterior no haber visto nunca personalmente a estos atacantes no establecen que los emboscadores destruyeran la tribu de Chochi. No se fusionan esas dos historias. ([ficha](capitulos/02.md)).
+- Cap. 03: Se resuelve parcialmente la pista de capítulos 1–2: ahora sí se muestra a Ione transformándose en mujer lobo (03-024, 03-031). La explicación del origen y los desperfectos de aquella noche permanece pendiente; no se sustituye la incertidumbre previa por una falsa certeza anterior. ([ficha](capitulos/03.md)).
+- Cap. 03: Pix: al inicio (00:01:00–00:01:40) el director dice que el mono no habla y Mamá no lo entiende. En el capítulo 1 sí se describe comprensión de sus palabras y mediación (01-016). Puede depender de magia temporal, pero no se explica aquí; conservar la diferencia. ([ficha](capitulos/03.md)).
+- Cap. 03: Poncelot llama caballo a Merlucilla y presenta la tripulación como orden de caballeros; el director identifica un dinosaurio y deja claro que Ione engaña al gnomo (03-008, 03-011, 03-020). Son interpretaciones de personajes, no identidades confirmadas. ([ficha](capitulos/03.md)).
+- Cap. 03: Monedas de Mamá: la adjudicación inicial de dieciséis se corrige a diez porque la persona que pierde solo dispone de diez (03-016). ([ficha](capitulos/03.md)).
+- Cap. 03: Nombre Sir Pancelot en interfaz o voz: el jugador corrige explícitamente a Poncelot y el director acepta (03-018). ([ficha](capitulos/03.md)).
+- Cap. 03: La pistola pide inicialmente salvación de veneno por configuración errónea: el director aclara que no tiene veneno (03-023). ([ficha](capitulos/03.md)).
+- Cap. 03: Marine atado: una frase del director parece decir matado, pero se corrige a atado y el cautivo aparece vivo después (03-025 y 03-029). ([ficha](capitulos/03.md)).
+- Cap. 04: Merlucilla salía viva en el cierre del capítulo 3 (03-031); la recapitulación del 4 explica que luego la loba se la comió (04-003). Se añade una muerte entre sesiones, sin reescribir el final anterior. ([ficha](capitulos/04.md)).
+- Cap. 04: Ione teme al principio que los hombres perdidos de Bonnie fueran sus víctimas en la mina. Después el grupo encuentra hombres de Bonnie muertos por dinosaurios, con diagnóstico de Mamá y un ataque observado (04-014–04-018). No se equiparan automáticamente aquellos marines con estos piratas. ([ficha](capitulos/04.md)).
+- Cap. 04: Patata interpreta la desaparición del cadáver como eficacia de su oración, pero la acción de Ione de lanzarlo fuera está mostrada (04-009). Se conservan la creencia y el mecanismo observado. ([ficha](capitulos/04.md)).
+- Cap. 04: La transferencia por carta a Patata pasa de seis monedas a una tirada corregida de cien con veintiuno (04-026); no se suman ambas adjudicaciones como ganancias independientes. ([ficha](capitulos/04.md)).
+- Cap. 04: El visitante llama al collar recuerdo de su abuela pese a haberlo tomado de un cadáver. La mentira fracasa tras la disputa del empate de tiradas (04-020). ([ficha](capitulos/04.md)).
+- Cap. 04: Ione afirma a Bonnie que el collar ya estaba sin gemas cuando lo tuvo, pero previamente las extrajo y repartió (04-021 y 04-029). Bonnie no la cree; no es una corrección del reparto observado. ([ficha](capitulos/04.md)).
+- Cap. 04: Mamá y el guerrero advierten de represalias naturales y divinas; Ione minimiza o ridiculiza sus advertencias. No se registra cumplimiento causal de esas predicciones por la mera aparición de depredadores. ([ficha](capitulos/04.md)).
+- Cap. 05: El director cree inicialmente que Kilzer estuvo en la mina del capítulo 3, pero el jugador corrige su ausencia y el director acepta (05-004). No atribuirle recuerdo del centinela capturado. ([ficha](capitulos/05.md)).
+- Cap. 05: Bonnie pide apartar a Jack; la interpretación de matarlo es rechazada por el director (05-007). ([ficha](capitulos/05.md)).
+- Cap. 05: Nox presenta a Jack como integrante y exmarine, mientras Jack rechaza participar y quiere volver con Lucy (05-003). No hay consentimiento acreditado ni baja formal documentada. ([ficha](capitulos/05.md)).
+- Cap. 05: La kender Lunaria es confundida con una niña por varios interlocutores, pero ella se define pequeña y no niña (05-015). Tamaño no confirma edad. ([ficha](capitulos/05.md)).
+- Cap. 05: El visitante había negado saber del collar pese al hallazgo y reparto del capítulo 4. Nox cree inicialmente su negativa y el elfo detecta dudas (05-005 frente a 04-020–04-022). ([ficha](capitulos/05.md)).
+- Cap. 05: El encargo preciso solo lo conocen Bonnie y los dos piratas; el director corrige a Erendriel cuando presupone conocerlo (05-023). Estar en el grupo no transmite automáticamente el contenido del contrato. ([ficha](capitulos/05.md)).
+- Cap. 05: Fuego inicial: ilusión de Lunaria creída real por los compañeros salvo el elfo (05-028). Fuego posterior: real, provocado por vela del visitante (05-029). No se fusionan las causas ni se culpa a Cipo por las bromas. ([ficha](capitulos/05.md)).
+- Cap. 05: El visitante niega responsabilidad ante Bonnie, pero la narración de la vela y las figuras de Lunaria lo contradicen (05-029–05-031). Su creencia equivocada sobre la ilusión explica la acción sin borrar su autoría. ([ficha](capitulos/05.md)).
+- Cap. 05: Misión documental cumplida frente a misión sin problemas incumplida: entrega del contrato y documentos, seguida de aumento de deuda por incendio (05-030–05-031). No declarar éxito sin consecuencias. ([ficha](capitulos/05.md)).
+- Cap. 05: La apertura de candados mediante Prestidigitación es admitida por el director con condición de mecanismo conocido y no mágico; no se transforma en regla oficial externa (05-020). ([ficha](capitulos/05.md)).
+- Cap. 06: Poncelot cree que Merlucilla escapó porque la cuerda está rota (06-009); la jugadora de Ione había relatado que se la comió (04-003). Diferencia de conocimiento, no reescritura de la muerte. ([ficha](capitulos/06.md)).
+- Cap. 06: Chochi reconoce pertenecer por una apuesta a la tripulación de Ione (06-005), mientras los términos y la pertenencia estaban disputados al final del capítulo 2. Se agrega su aceptación posterior sin hacerla extensiva al visitante. ([ficha](capitulos/06.md)).
+- Cap. 06: Las confusiones de Poncelot: Chochi es dríada, Blink espíritu agresor, Liz jueza y la limpieza mazmorra. Las escenas aclaran humano, hada auxiliadora, encargada del local y limpieza respectivamente (06-008–06-011). ([ficha](capitulos/06.md)).
+- Cap. 06: Tesoro prometido por la sirena: existe en el huevo, pero la señora intenta matar al grupo para que no sepan dónde está (06-025–06-026). No todo el ofrecimiento es ilusión ni recompensa realmente entregada voluntariamente. ([ficha](capitulos/06.md)).
+- Cap. 06: El hipocampo primero combate tiburones por su cuenta y el director rechaza que sea aliado para flanqueo (06-021). Tras alimentarlo y montarlo, Poncelot puede darle órdenes (06-023–06-024). No retroceder ese control al encuentro inicial. ([ficha](capitulos/06.md)).
+- Cap. 06: Sirenas sin nombres identificados en las bajas: no asumir orden señora/Marina/tercera a partir solo del número de enemigos derrotados (06-028–06-035). ([ficha](capitulos/06.md)).
+- Cap. 06: Tesoro final: tres perlas y diez monedas repetido, luego tres perlas y cinco monedas sin explicación. Se conservan ambas cantidades (06-037). ([ficha](capitulos/06.md)).
+- Cap. 06: Durante el combate se discuten aturdido/incapacitado, salvaciones y penalizaciones de agua; no se importan esos errores o correcciones de interfaz como nuevas condiciones permanentes del canon. ([ficha](capitulos/06.md)).
+- Cap. 07: Identidad de Nox: Jim Hawkins se declara expresamente como nombre más conocido como Capitán Nox (07-009). No contradice automáticamente alias Nox de capítulos anteriores ni autoriza fusionarlo con Naór. ([ficha](capitulos/07.md)).
+- Cap. 07: Huellas: el elfo interpreta inicialmente que se alejan del sitio; el director corrige que simplemente no van hacia el puente y faltan en parte del radio (07-012). ([ficha](capitulos/07.md)).
+- Cap. 07: Papel del dragón: el director aproxima tamaño a un metro/setenta kilos y rechaza transportarlo volando (07-015), frente a representaciones previas de criatura escondida bajo capa/hombro (01-010 y otros pasajes). Se conserva discrepancia, sin inventar crecimiento entre sesiones. ([ficha](capitulos/07.md)).
+- Cap. 07: Compañero de clase: se habla de espíritu e invocación, pero acuerdan representar al dragón como criatura que queda inconsciente en vez de morir/desaparecer (07-019). No asignar muerte al turno de caída. ([ficha](capitulos/07.md)).
+- Cap. 07: Vuelo de fruta: el elfo cree perderlo tras caer; el director aclara que sigue toda la partida (07-024–07-026). ([ficha](capitulos/07.md)).
+- Cap. 07: Hallazgo de Lunaria: inicialmente bolitas de oro, luego se cambia explícitamente a moneda antigua (07-024). No sumar ambas versiones como inventarios simultáneos. ([ficha](capitulos/07.md)).
+- Cap. 07: Grito al retirarse: personajes temen otro depredador, cámara revela que era Cipo después de irse (07-027–07-028). Diferencia de conocimiento, sin atribuir revelación al grupo. ([ficha](capitulos/07.md)).
+- Cap. 07: Mamá quiere criar y cuidar el huevo (07-023), pero Nox pacta con Bonnie entregarlo para venta incluso por la fuerza, sin que Mamá esté presente (07-033). Conservar el conflicto de intenciones y acceso a información. ([ficha](capitulos/07.md)).
+- Cap. 07: Recuerdo de reparto de gemas de Patata incluye a Ione como poseedora de la mayoría; el capítulo 4 mostró que repartió a compañeros y conservó collar sin gemas. Registrar declaración posterior sin recalcular inventario por ella (07-029 frente a 04-021). ([ficha](capitulos/07.md)).
+- Cap. 08: Salazor: el mismo elfo llamado Erendriel y variantes antes se presenta dos veces como Salazor. Conservar el nuevo nombre utilizado y variantes, sin decidir si son alias o correcciones del reconocimiento (08-007 y 08-011). ([ficha](capitulos/08.md)).
+- Cap. 08: Descanso: parece haber amanecido al principio, pero el director corrige que es noche porque la carta alteró día/noche y han dormido durante el día (08-025). ([ficha](capitulos/08.md)).
+- Cap. 08: Espada en ilustración de nawal: jugador intenta tomarla, director dice que no existe. No inventariar una espada ni botín por una imagen (08-024). ([ficha](capitulos/08.md)).
+- Cap. 08: Abuela a consultar: se pretende hablar con Mamá o abuela, el director recuerda que no deben utilizarse personajes jugadores ausentes y el jugador aclara Pinky. Pinky no sabe de nawals; no atribuir consulta o traducción a Mamá (08-026). ([ficha](capitulos/08.md)).
+- Cap. 08: Ayoto y Kilzer discrepan sobre intercambio protector de posición: Ayoto lo presenta como bendición, Kilzer como escudo humano. La mecánica sí da defensa adicional; conservar ambas interpretaciones (08-017). ([ficha](capitulos/08.md)).
+- Cap. 08: Narrativa de vuelta maltrecha frente a estado mecánico bien: el director distingue expresamente ambos al resumir regreso; no sustraer puntos de golpe inventados (08-025). ([ficha](capitulos/08.md)).
+- Cap. 09: La duración de la inmunidad al alcohol de Lunaria cambia entre las adjudicaciones de los capítulos 7 y 9. No se calcula una fecha de expiración que reconcilie versiones incompatibles (07-014 y 09-008). ([ficha](capitulos/09.md)).
+- Cap. 09: Nox afirma que el altar exige sangre nativa, aunque el director solo describe imágenes de sangre. La afirmación es un engaño del personaje, no un requisito confirmado (09-021). ([ficha](capitulos/09.md)).
+- Cap. 09: Ione y Nox disputan la propiedad y la capitanía del barco. La apelación de Ione al código pirata no establece una regla jurídica universal (09-006). ([ficha](capitulos/09.md)).
+- Cap. 09: Pinky finge morir mientras fuma. No ocurre una muerte ni una resurrección (09-027–09-029). ([ficha](capitulos/09.md)).
+- Cap. 09: El director aclara que la ilustración femenina representa a Nox atrapado por una planta; no identifica a otra mujer (09-024). ([ficha](capitulos/09.md)).
+- Cap. 09: El temor de los personajes a perder todo el botín ante Bonnie se corrige: sus reclamaciones afectan a la deuda y a las gemas, no a todos los tesoros nuevos (09-031). ([ficha](capitulos/09.md)).
+- Cap. 09: La propuesta de vender la copa por 150 monedas y ropa se sustituye por 170 monedas para comprarla. Las ofertas no se suman (09-033). ([ficha](capitulos/09.md)).
+- Cap. 09: Axi queda rezagado por una desconexión y luego regresa. Su participación en el episodio no demuestra que observe el jardín y la sala final (09-023 y 09-030). ([ficha](capitulos/09.md)).
+- Cap. 10: Los comentarios que dan por muertos a Axi, Patata o Blink no describen muertes definitivas. El director confirma que los tres están vivos y enjaulados (10-022–10-023 y 10-027). ([ficha](capitulos/10.md)).
+- Cap. 10: Bonnie cree que envió a cuatro personas porque no vio a Blink escondida. La expedición incluye cinco personajes y al dragón (10-008–10-009 y 10-025). ([ficha](capitulos/10.md)).
+- Cap. 10: El director corrige a Erendriel cuando intenta narrar una ausencia previa de Pix: todavía no la conoce antes del incidente mostrado (10-002 y 10-005). ([ficha](capitulos/10.md)).
+- Cap. 10: Erendriel es capturado por separado. La detección de otros compañeros no se aplica automáticamente a todo el grupo (10-013–10-015). ([ficha](capitulos/10.md)).
+- Cap. 10: El director precisa que las huellas pertenecen a otras criaturas y contienen pelos de mono; no son pisadas de Pix (10-010). ([ficha](capitulos/10.md)).
+- Cap. 10: El objeto descrito ambiguamente en el capítulo 8 se identifica aquí como un pergamino de truco, sin seleccionar todavía el conjuro (10-011 y 08-019). ([ficha](capitulos/10.md)).
+- Cap. 10: El dragón vuelve a representarse bajo la capa del elfo, pese al tamaño aproximado de un metro y setenta kilos mencionado antes. No se narra un cambio de tamaño que concilie ambas descripciones (10-009 y 07-015). ([ficha](capitulos/10.md)).
+- Cap. 10: Ciudad de la Luna y el cálculo de más de sesenta enemigos proceden del informe de Ayoto, no de una identificación o un recuento independiente (10-025). ([ficha](capitulos/10.md)).
+- Cap. 11: Poncelot y el director usan diez monedas para el reparto, frente a las cinco mencionadas al final del capítulo 6. La entrega de catorce a Kilzer es una transacción nueva y no resuelve la discrepancia previa (11-008 y 06-037–06-038). ([ficha](capitulos/11.md)).
+- Cap. 11: Poncelot cree que criarán un pegaso y que Mamá es Titania. Los tratamientos de reina y bufón son interpretaciones de los personajes, no identidades o cargos confirmados (11-007 y 11-009). ([ficha](capitulos/11.md)).
+- Cap. 11: Ione deja de reconocer a sus aliados y declara ataques contra Poncelot y Mamá. Durante el regreso le dicen que no mordió a ningún compañero. No se confirma una mordedura acertada, aunque el riesgo estuvo presente (11-020,11-023 y 11-027). ([ficha](capitulos/11.md)).
+- Cap. 11: El director corrige el coste de recoger a Pix: cogerlo es gratis; desatarlo requiere una acción. Nox lo lleva todavía atado (11-023). ([ficha](capitulos/11.md)).
+- Cap. 11: Los objetos que Nox adquiere después permanecen visibles pese a su invisibilidad, según la adjudicación de la mesa (11-014,11-024 y 11-028). ([ficha](capitulos/11.md)).
+- Cap. 11: La gema tomada de Kilzer recibe también el nombre de obsidiana. El director corrige el inventario de la interfaz. La clasificación sigue siendo ambigua (11-028–11-029). ([ficha](capitulos/11.md)).
+- Cap. 11: El recuento final alterna entre tres, dos y una gema e incluye entregas relatadas fuera de la escena. No se suman los estados incompatibles ni se da por completada la devolución (11-032). ([ficha](capitulos/11.md)).
+- Cap. 11: Kilzer reserva la confirmación del casino hasta ver la licencia. La negociación verbal no demuestra que se firme un contrato o se realice el pago (11-031). ([ficha](capitulos/11.md)).
+- Cap. 11: La identidad entre el libro de Nox y el diario del nawal todavía no es inequívoca. Se conserva la incertidumbre de este capítulo hasta que aparezca una identificación posterior (11-011,08-024 y 10-002). ([ficha](capitulos/11.md)).
+- Cap. 12: Nox dice que recibió el libro de Erendriel y el director lo identifica como el diario del nawal. La nueva identificación resuelve una duda anterior, sin atribuir conocimiento retrospectivo a todos los personajes (12-004 y 12-008). ([ficha](capitulos/12.md)).
+- Cap. 12: El supuesto piercing de Erendriel se precisa como la pérdida de la punta de una oreja. Otro disparo roza la otra. No se describe únicamente un adorno voluntario (12-003–12-004). ([ficha](capitulos/12.md)).
+- Cap. 12: Una exclamación parece dar por muerto al capitán durante el fuego, pero sigue actuando y Nox lo deja vivo e inconsciente con daño no letal (12-026–12-027 y 12-032). ([ficha](capitulos/12.md)).
+- Cap. 12: El desmayo del primer guardia no confirma su muerte. Los intentos posteriores de despertarlo no son una resurrección (12-018 y 12-024). ([ficha](capitulos/12.md)).
+- Cap. 12: Axi sigue sin arco pese a que se recogió uno para él en el capítulo 11. No se inventa una pérdida o un robo intermedio para explicar la falta de una entrega efectiva (12-014 y 11-026). ([ficha](capitulos/12.md)).
+- Cap. 12: La mesa discute la concentración y la duración del glifo y limita su aplicación a un turno, con gasto de espacios. La adjudicación no se presenta como una regla general (12-022). ([ficha](capitulos/12.md)).
+- Cap. 12: La ventaja al esconderse entre las plantas cambia según la adjudicación concreta; no se establece una regla universal (12-019–12-020). ([ficha](capitulos/12.md)).
+- Cap. 12: La copa del capitán es distinta de la que se vendió en el capítulo 9. El recuento inicial de dos monedas se corrige a nueve, sin sumarlas como once (12-029). ([ficha](capitulos/12.md)).
+- Cap. 12: El pirata liberado decide huir aunque Ione quiera que combata. La liberación no implica que acepte luchar para sus rescatadores (12-023–12-024). ([ficha](capitulos/12.md)).
+- Cap. 13: Patata cree haber recuperado la armadura, pero el director precisa que solo tiene espada, escudo y amuleto (13-003). ([ficha](capitulos/13.md)).
+- Cap. 13: El robo de Lunaria cambia de una moneda a una cola de puma cuando aclara qué busca. No obtiene ambos objetos (13-005). ([ficha](capitulos/13.md)).
+- Cap. 13: La piel se describe primero como sangrante, aunque lleva semanas secándose. El director corrige que está seca y huele fuerte. No se detalla la división entre la capa entregada a Pix y la restante (13-007–13-009). ([ficha](capitulos/13.md)).
+- Cap. 13: Nox anuncia un 15 por ciento para él y 35 para Bonnie, frente al cinco por ciento discutido antes. Se conservan ambas conversaciones sin inventar una renegociación intermedia (13-011 y 11-031). ([ficha](capitulos/13.md)).
+- Cap. 13: El nombre del templo y las referencias a la noche proceden de interpretaciones. El oscurecimiento del cielo es un efecto de carta, sin demostrar una intervención divina (13-014). ([ficha](capitulos/13.md)).
+- Cap. 13: El daño de la planta se corrige a ácido. La inmunidad al veneno de Kilzer no corresponde a Patata ni protege por sí sola del ácido (13-013 y 13-016). ([ficha](capitulos/13.md)).
+- Cap. 13: El director aclara que el fuego causa daño adicional. La curación de una planta procede de otra carta, no del fuego (13-017–13-018). ([ficha](capitulos/13.md)).
+- Cap. 13: Ayoto relaciona el jaguar primero con la valentía y después con la noche y el mal. Sus explicaciones culturales no se armonizan como una doctrina confirmada (13-022–13-023). ([ficha](capitulos/13.md)).
+- Cap. 13: Los jugadores llaman a la plataforma placa de presión, pero retirar el peso no la eleva. La danza es la activación mostrada (13-024–13-026). ([ficha](capitulos/13.md)).
+- Cap. 13: La adjudicación de ocho monedas se sustituye por otra tirada sin un resultado claro. No se conserva el botín descartado ni se inventa el nuevo (13-025). ([ficha](capitulos/13.md)).
+- Cap. 14: La mujer dice que zarparon meses antes, mientras el narrador estima más de cincuenta años por el estado de la bodega. Las versiones no permiten fijar una fecha común (14-007 y 14-012). ([ficha](capitulos/14.md)).
+- Cap. 14: La hija espectral tiene el rostro de la mujer del bote, pero dice que no puede salir. No se inventa un doble, una ilusión o un viaje temporal para resolverlo (14-016). ([ficha](capitulos/14.md)).
+- Cap. 14: Un rayo permite ver el barco que antes no distinguían en la tormenta. El cambio de visibilidad no implica que el navío aparezca de la nada (14-007 y 14-010). ([ficha](capitulos/14.md)).
+- Cap. 14: Los marineros repiten tareas e ignoran a los visitantes, pero algunos reaccionan y atacan ante ciertos estímulos. No tienen una conducta uniforme (14-011–14-014). ([ficha](capitulos/14.md)).
+- Cap. 14: La bebida envenena a Patata y le impone desventaja, sin un daño continuo mostrado. La condición desaparece al final (14-017 y 14-025). ([ficha](capitulos/14.md)).
+- Cap. 14: La moneda negra del mercante y la moneda de plata de los cinco reyes piratas son objetos distintos (14-019 y 11-024). ([ficha](capitulos/14.md)).
+- Cap. 14: El narrador identifica un glifo de muerte, pero Triel no reconoce la runa (14-020). ([ficha](capitulos/14.md)).
+- Cap. 14: La primera caída del capitán inicia otra fase del combate. El desenlace llega al romper el relicario, no únicamente al agotar sus puntos de golpe (14-022–14-024). ([ficha](capitulos/14.md)).
+- Cap. 14: La explicación posterior del diseño y de la ruta del contramaestre no equivale a un diálogo vivido por los personajes (14-025). ([ficha](capitulos/14.md)).
+- Cap. 15: Kilzer y Axi relacionan a los atacantes con los del capítulo 2, pero el director niega que sean la tribu del preso pintado del capítulo 12. No se fusionan todas las tribus (15-010). ([ficha](capitulos/15.md)).
+- Cap. 15: Axi no reconoce el disfraz de Triel y dispara sin acertar. Patata y el dragón la reconocen después. El conocimiento de los jugadores no evita la confusión del personaje (15-016). ([ficha](capitulos/15.md)).
+- Cap. 15: La inmunidad de Axi a las armas no lo protege de la condición de envenenado. Las resistencias de Erendriel y del dragón tampoco equivalen a una invulnerabilidad general (15-008 y 15-015). ([ficha](capitulos/15.md)).
+- Cap. 15: El jefe vuelve a levantarse por una habilidad narrada mediante rabia o adrenalina. No se confirma que sea un muerto viviente ni se descifra su tatuaje (15-017 y 15-019). ([ficha](capitulos/15.md)).
+- Cap. 15: La fruta obliga a Eldrat a decir la verdad. Su frase durante el robo se corrige para mantener el efecto (15-008 y 15-018). ([ficha](capitulos/15.md)).
+- Cap. 15: La misma bolsa de veintitrés monedas pasa de Kilzer a Eldrat y vuelve a Kilzer. No hay dos bolsas que sumen cuarenta y seis (15-018 y 15-020). ([ficha](capitulos/15.md)).
+- Cap. 15: Bonnie paga cincuenta a Patata en privado; él entrega treinta a los demás. Los compañeros no observan automáticamente el pago total (15-020). ([ficha](capitulos/15.md)).
+- Cap. 15: El reparto correcto de treinta entre cuatro es siete y medio. Se conserva el intento de asignar seis y medio y la entrega posterior de la moneda faltante (15-022). ([ficha](capitulos/15.md)).
+- Cap. 15: El director precisa que el dragón no tendrá alas funcionales hasta el nivel siete. La espada de escamas azules no se identifica como un objeto hecho con su madre (15-006). ([ficha](capitulos/15.md)).
+- Cap. 16: Erendriel queda retenido sin desenlace mostrado en el capítulo 15. Su muerte se confirma en el 16; no se convierte retrospectivamente la retención en una ejecución presenciada (16-002 y 16-004). ([ficha](capitulos/16.md)).
+- Cap. 16: Naór es la hija leonina del rey. Nox es otro personaje y no participa en esta sesión (16-003 y 16-007). ([ficha](capitulos/16.md)).
+- Cap. 16: Se precisa que Baton y Nelli fueron rescatados de un campamento de la Marina, no del poblado de hombres lagarto (16-005). ([ficha](capitulos/16.md)).
+- Cap. 16: El mapa perdido por Blink describe actividades de la Marina. El de Lunaria es otro mapa, aleatorio y de una zona diferente. Su reparación física no corrige la geografía (16-001,16-006,16-008 y 16-020). ([ficha](capitulos/16.md)).
+- Cap. 16: Ayoto dice proceder del norte, mientras Naór conoce el rumor de un extranjero criado allí. La tensión queda abierta sin fijar otro origen (16-007). ([ficha](capitulos/16.md)).
+- Cap. 16: Los seis niveles de Naór se reparten entre bárbaro y guerrero. El segundo golpe se explica por Acción súbita, sin otorgar automáticamente Ataque adicional (16-011). ([ficha](capitulos/16.md)).
+- Cap. 16: El rugido de Naór asusta a aliados por la selección del efecto. No les transmite licantropía ni establece una hostilidad permanente (16-009). ([ficha](capitulos/16.md)).
+- Cap. 16: El parecido de la mujer con la ilustración del nawal no confirma su identidad ni una resurrección (16-019). ([ficha](capitulos/16.md)).
+- Cap. 16: La broma de que Mamá es una lich se rechaza y no establece un secreto de campaña (16-020). ([ficha](capitulos/16.md)).
+- Cap. 16: El tratamiento cultural de chamán no demuestra un cambio de clase de Lunaria. El nombre Pociones de Arwen tampoco identifica por sí solo a la mujer alada (16-006 y 16-018). ([ficha](capitulos/16.md)).
+- Cap. 17: El Escudo de la fruta se explica inicialmente con tres puntos adicionales de CA y después con cinco; su uso efectivo contra el cocodrilo añade cinco (17-005 y 17-017). ([ficha](capitulos/17.md)).
+- Cap. 17: El poblado arrasado en el capítulo 11 y la ciudad central Ras Racor son lugares diferentes; no reconstrucción inmediata del mismo (17-007 y 17-010). ([ficha](capitulos/17.md)).
+- Cap. 17: Axi/Kilzer intentan inculpar a Eldrat falsamente: no convertir acusación rechazada en historia confirmada (17-009 y 17-012). ([ficha](capitulos/17.md)).
+- Cap. 17: Naór inicialmente rechaza presentes, pero conserva quince y los entrega a Axi: no rechaza definitivamente todo botín (17-021–17-022). ([ficha](capitulos/17.md)).
+- Cap. 17: La convocatoria a Tutucan se conoce mediante una traducción pública, aunque Naór reserva finalidad más íntima a nativos; director corrige olvido del jugador (17-011 y 17-023). ([ficha](capitulos/17.md)).
+- Cap. 17: La explosión ácida de la hidra procede de una carta, no de un rasgo universal. La furia de Triel también es temporal y procede de una carta (17-018 y 17-020). ([ficha](capitulos/17.md)).
+- Cap. 18: La mujer acusada por Ayoto en el capítulo 16 se explica como una representación gráfica reutilizada; no prueba de una nawal resucitada (18-002). ([ficha](capitulos/18.md)).
+- Cap. 18: El intento de curación de Mamá causa dolor a Patata y ella pierde arrugas: distinguir fenómeno de hipótesis vampíricas (18-009). ([ficha](capitulos/18.md)).
+- Cap. 18: La represalia del lector se describe como veneno o ácido, pero el director aclara que es daño psíquico. La bendición concede puntos temporales, no la totalidad de sus puntos de vida (18-017). ([ficha](capitulos/18.md)).
+- Cap. 18: Patata y Poncelot caen y reciben curación, no muerte ni resurrección (18-015 y 18-018). ([ficha](capitulos/18.md)).
+- Cap. 18: La cabeza se tira al bosque; propuesta de río es corregida por no haberlo allí (18-020). ([ficha](capitulos/18.md)).
+- Cap. 19: Leona es una coneja recién presentada, no Naór leonina; Nelli niega ser su madre (19-002). ([ficha](capitulos/19.md)).
+- Cap. 19: Dos caídas de Leona son llamadas dos muertes en recapitulación humorística, pero recibe asistencia mediante Medicina y curación mientras sigue viva (19-012–19-013). ([ficha](capitulos/19.md)).
+- Cap. 19: El daño del aliento del triceratops se aclara como veneno pese a la etiqueta de daño psíquico; control/modificación no probado (19-010 y 19-016). ([ficha](capitulos/19.md)).
+- Cap. 19: La intoxicación inicial de Pinky procede del chocolate que come por iniciativa propia. Después Ayoto le da otro chocolate (19-004 y 19-015). ([ficha](capitulos/19.md)).
+- Cap. 19: El supuesto dragón para la cena es un dinosaurio pequeño interpretado así bajo los efectos del chocolate y finalmente descartado (19-015 y 19-017). ([ficha](capitulos/19.md)).
+- Cap. 20: Triel afirma ser jefa de Shiaru y anuncia la llegada a Iktan, pero el director sitúa al grupo en la jungla del Garfio. No se confirma su cargo ni esa llegada (20-002 y 20-007). ([ficha](capitulos/20.md)).
+- Cap. 20: La montura es una mosca, no un dragón. Las percepciones de Naór proceden de sus alucinaciones y no de transformaciones reales del gnomo, el árbol o la fruta (20-005–20-007). ([ficha](capitulos/20.md)).
+- Cap. 20: Poncelot llama magos oscuros a los marines, pero no se demuestra que lo sean ni que tengan relación con la transformación de Ione (20-008). ([ficha](capitulos/20.md)).
+- Cap. 20: Naór es bárbara y guerrera de nivel total seis; no tiene multiataque por la distribución de sus niveles. El hacha retorna únicamente mientras permanece vigente el efecto temporal de su furia (20-009 y 20-013). ([ficha](capitulos/20.md)).
+- Cap. 20: Axi queda incapacitado, pero sigue vivo. La bestia destruida es su invocación; las bromas no confirman la muerte del explorador (20-010 y 20-013). ([ficha](capitulos/20.md)).
+- Cap. 20: La narración confirma que Naór acepta carne humana al cierre. Axi prefiere carne de perro, pero no se precisa el origen de su ración (20-017). ([ficha](capitulos/20.md)).
+- Cap. 21: Poncelot llama explícitamente Merlucilla III a la mosca B del capítulo 20. No se trata de un tercer animal aparte (21-001). ([ficha](capitulos/21.md)).
+- Cap. 21: Se rastrean tres cautivos, pero el niño solo menciona a sus dos padres. No puede resolverse la diferencia inventando un familiar (21-006–21-007). ([ficha](capitulos/21.md)).
+- Cap. 21: Los viajeros especulan que Eldrat es inventado, pese a su presencia real en capítulos anteriores. Que no se oiga su voz aquí no demuestra su inexistencia (21-003). ([ficha](capitulos/21.md)).
+- Cap. 21: La búsqueda termina con los padres muertos, no con un rescate de Nox. La intención previa del director, comentada fuera de juego, no es información recibida por los personajes (21-006 y 21-014). ([ficha](capitulos/21.md)).
+- Cap. 21: Dormir por las esporas no equivale a morir. Leona, abatida por dos aliadas, termina curada con un punto y decide seguir dormida (21-009, 21-014 y 21-016). ([ficha](capitulos/21.md)).
+- Cap. 21: El collar de plata de Leo y el collar serpiente que Blink guarda dentro de una fruta son objetos distintos (21-013 y 21-015). ([ficha](capitulos/21.md)).
+- Cap. 22: Guayacán es un personaje masculino, aunque aparezcan pronombres de su jugadora. El género de la intérprete no cambia el del personaje (22-002 y 22-014). ([ficha](capitulos/22.md)).
+- Cap. 22: La fruta permite a Mamá no fallar salvaciones de muerte durante la sesión. No establece una inmortalidad sin límites (22-007). ([ficha](capitulos/22.md)).
+- Cap. 22: Durante ocho horas, Axi no puede seguir a la infiltrada por la orden recibida, pero conserva otras acciones (22-010). ([ficha](capitulos/22.md)).
+- Cap. 22: El marcador que muestra a Guayacán caído se corrige porque estaba fuera de la explosión. No hay muerte ni curación invisible (22-015). ([ficha](capitulos/22.md)).
+- Cap. 22: Se aclara que la explosión del jefe causa veneno, tras mencionarse ácido. Los enemigos presentes son inmunes (22-015). ([ficha](capitulos/22.md)).
+- Cap. 22: Blink tiene el collar aunque los atacantes se lo exijan a Mamá. La exigencia no implica un cambio de custodia (22-013 y 22-018). ([ficha](capitulos/22.md)).
+- Cap. 23: El herrero, llamado antes Armin, recibe aquí el nombre Peter. Coinciden el local y el oficio por contexto, pero no se explica un cambio biográfico; se conservan ambas grafías (23-003). ([ficha](capitulos/23.md)).
+- Cap. 23: Kilzer rechaza la oferta final de ochenta monedas por las gemas. No se venden por ciento veinte o ciento cincuenta (23-003). ([ficha](capitulos/23.md)).
+- Cap. 23: El guardia muerto por el tiburón es distinto del que Ione deja inconsciente. No se confirma la muerte de los dos guardias que Nox arroja al agua (23-006 y 23-013). ([ficha](capitulos/23.md)).
+- Cap. 23: Las recompensas de doscientos cincuenta mil y trescientos cincuenta mil son ofertas que no se cobran. No aumentan la riqueza de Poncelot (23-009 y 23-012). ([ficha](capitulos/23.md)).
+- Cap. 23: Nox se libera con sus herramientas antes de que los rescatadores lleguen a la prisión. No recibe una llave de ellos (23-010). ([ficha](capitulos/23.md)).
+- Cap. 23: El nombre de la ciudad de los documentos no se verbaliza. El mapa del capítulo 20 no permite identificarla con Slaz con certeza (23-015). ([ficha](capitulos/23.md)).
+- Cap. 23: Se corrige la propuesta de pilotar solo el galeón: Nox lo deja avanzar como distracción y huye en una barca (23-017). ([ficha](capitulos/23.md)).
+- Cap. 24: Billy y Jackson son supuestos ladrones. El parecido del apellido no permite identificarlos con Jack, presente como aliado (24-003). ([ficha](capitulos/24.md)).
+- Cap. 24: Coyote es un personaje masculino. Compartir jugadora con Mamá no demuestra que sean la misma identidad (24-005). ([ficha](capitulos/24.md)).
+- Cap. 24: Los impostores no son humanos ni se identifican automáticamente como yuan-ti. La concha atrae a la sirena, pero no se demuestra que sea el objeto robado (24-007 y 24-013). ([ficha](capitulos/24.md)).
+- Cap. 24: Ione pierde el control e intenta atacar a Patata, pero no acierta. No hay una mordedura aliada ni un contagio confirmado (24-010). ([ficha](capitulos/24.md)).
+- Cap. 24: Bonnie exige recuperar objetos al regreso, mientras que la orden inicial recibida por Ione era matar. Se conserva el desacuerdo sobre el pago (24-003 y 24-017). ([ficha](capitulos/24.md)).
+- Cap. 24: Antes del asesinato se menciona a Tommy, pero después se llama Jim a la víctima. Los nombres no se resuelven fusionándolos (24-017). ([ficha](capitulos/24.md)).
+- Cap. 24: Ione promete hamacas para todos, pero una tirada revela la mentira y Din encuentra los camarotes ocupados (24-021). ([ficha](capitulos/24.md)).
+- Cap. 24: Al principio se transcribe una altura de 1,20 para el hermano de Din; después Sam aparece como humano de 1,80. Puede ser un error del reconocimiento, pero no se fija una medida definitiva sin escuchar el audio (24-002 y 24-018). ([ficha](capitulos/24.md)).
+- Cap. 25: Poncelot confunde a Tlachka con un enemigo antes del hechizo, que aumenta su miedo después. Las instrucciones de la mujer son verbales y no confirman otra dominación (25-006, 25-009 y 25-010). ([ficha](capitulos/25.md)).
+- Cap. 25: La invisibilidad no impide el rastreo por sonidos. Los personajes sospechan visión u olfato especiales, pero el director muestra un rastreo (25-008 y 25-014). ([ficha](capitulos/25.md)).
+- Cap. 25: Nox afirma que elimina la amenaza de la aldea, aunque desvía a varios enemigos vivos hacia el sur (25-018–25-019). ([ficha](capitulos/25.md)).
+- Cap. 25: La mesa permite utilizar Absorber elementos contra el veneno en esta escena y corrige la regla para la próxima ocasión. El daño ya resuelto se conserva (25-017). ([ficha](capitulos/25.md)).
+- Cap. 25: La mujer serpiente explota con daño necrótico al morir; el último varón no explota. Los enemigos no tienen todos el mismo efecto (25-015 y 25-018). ([ficha](capitulos/25.md)).
+- Cap. 26: Poncelot cree haber informado a Ione y recibido su abrazo. El director identifica a Coyote como suplantador, pero los personajes no resuelven esa identidad al discutir (26-001 y 26-003). ([ficha](capitulos/26.md)).
+- Cap. 26: El crítico del capítulo 25 permite traducir unas órdenes, sin dar fluidez en abisal a Nox. Continúa estudiando y mezclando palabras (26-002). ([ficha](capitulos/26.md)).
+- Cap. 26: Nox e Ione se presentan como amigos, capitana y segundo al mando. No confirman el romance que otros infieren (26-007). ([ficha](capitulos/26.md)).
+- Cap. 26: Ione pregunta si el collar procede de su conflicto con Bonnie, pero nadie confirma esa equivalencia. Poncelot explica que encontró el mapa en el cofre de un templo, no de la Marina (26-015). ([ficha](capitulos/26.md)).
+- Cap. 26: Pinky mata a la mosca en este capítulo. Las bromas sobre su muerte en el capítulo 25 no habían ocurrido todavía (26-010–26-011). ([ficha](capitulos/26.md)).
+- Cap. 26: Cuicapalli queda en dirección contraria a la ruta del sur. Los tres días se calculan desde Fuerte Aurora, no desde Shiaru (26-008). ([ficha](capitulos/26.md)).
+- Cap. 27: Ayoto cree que Cipo acompañaba a su abuela, pero el director aclara que están separados desde el capítulo 1 (27-003). ([ficha](capitulos/27.md)).
+- Cap. 27: Guayacán declara que su linaje es prestigioso, aunque el director explica que Tlachka no lo conoce (27-004). ([ficha](capitulos/27.md)).
+- Cap. 27: La mesa llama marines o Marina a los atacantes y su jefe cita al capitán Tórtola. Se conservan las denominaciones sin resolver la afiliación solo por el uniforme (27-005 y 27-014). ([ficha](capitulos/27.md)).
+- Cap. 27: El grupo reconoce que combatió delante de sus trampas y no las utilizó. Su salto fallido al río tampoco activa el tronco (27-010 y 27-019). ([ficha](capitulos/27.md)).
+- Cap. 27: Ayoto cree recordar que Cipo cura, pero el director lo rechaza (27-017). ([ficha](capitulos/27.md)).
+- Cap. 27: La estabilización mediante Medicina utiliza una regla de la mesa que puede causar un fallo de muerte, no la regla oficial (27-017). ([ficha](capitulos/27.md)).
+- Cap. 27: Guayacán se recupera de sus caídas mediante curación; no muere ni resucita. La muerte de uno de los babuinos sí se confirma (27-015–27-018). ([ficha](capitulos/27.md)).
+- Cap. 28: Nox no se transforma ni ocupa realmente el trono: mantiene la ilusión del capítulo 26. Ione la reconoce, pero Blink y Poncelot la creen real (28-001–28-002). ([ficha](capitulos/28.md)).
+- Cap. 28: Las monedas caen, pero la activación se vincula a la mirada o posición frontal. El director aclara que nunca fueron las monedas (28-011 frente a 26-017). ([ficha](capitulos/28.md)).
+- Cap. 28: La muerte anunciada del tigre se corrige inmediatamente mediante una carta. Sobrevive y no se consuma una resurrección (28-009). ([ficha](capitulos/28.md)).
+- Cap. 28: El director conserva el bloqueo de las puertas con cuñas pese a anunciar inicialmente que se abren. Los enemigos llegan desde otra ala (28-013–28-014). ([ficha](capitulos/28.md)).
+- Cap. 28: Nox recibe las visiones del orbe; Poncelot solo ve un ojo de cristal. El contenido no es conocimiento universal (28-015). ([ficha](capitulos/28.md)).
+- Cap. 28: Poncelot presume de una victoria completa, aunque la serpiente enorme continúa viva y la amenaza persiste (28-014 y 28-019). ([ficha](capitulos/28.md)).
+- Cap. 28: Ione observa la amenaza de la cimitarra, pero no oye la conversación privada ni conoce automáticamente el pacto (28-022). ([ficha](capitulos/28.md)).
+- Cap. 28: Los tatuajes de la anciana y los de Nox no son el mismo objeto. Nox sospecha una relación, sin confirmar su vínculo o paradero (28-021). ([ficha](capitulos/28.md)).
+- Cap. 29: Aquí se llama Merlucilla tres al tigre, establecido como Merlucilla IV después de morir la mosca. Se conserva la duda del ordinal sin crear otro tigre (29-003). ([ficha](capitulos/29.md)).
+- Cap. 29: Otros presentan a Coyote como un perro, pero habla, suplanta identidades y adopta la apariencia de Pinky. No es una mascota sin voluntad ni se fija aquí su especie (29-008). ([ficha](capitulos/29.md)).
+- Cap. 29: Pinky exige diez monedas por las burbujas, sin un pago confirmado. La contratación de Kilzer por diez monedas sí se paga (29-002 y 29-008). ([ficha](capitulos/29.md)).
+- Cap. 29: La orden de Coyote de quedarse quieto no equivale a la parálisis del mago. La mesa recuerda que no concede ventaja a los ataques (29-012–29-015). ([ficha](capitulos/29.md)).
+- Cap. 29: Los ataques de los aliados rompen Patrón hipnótico. No se demuestra que los enemigos sean inmunes al encanto (29-014–29-015). ([ficha](capitulos/29.md)).
+- Cap. 29: Kilzer queda inconsciente y se recupera mediante curación. No muere ni resucita, aunque se utilice la palabra muerto al discutir la parálisis (29-016–29-017). ([ficha](capitulos/29.md)).
+- Cap. 29: Maris y Marina, del capítulo 6, siguen siendo personajes distintos hasta que una fuente establezca su identidad. La perla comunicadora tampoco es la perla de botín de Ayoto (29-005 y 29-018–29-019). ([ficha](capitulos/29.md)).
+- Cap. 29: El ritual para hacer crecer al kraken procede del testimonio de Maris. La promesa pública no implica que ya hayan combatido contra él (29-022–29-023). ([ficha](capitulos/29.md)).
+- Cap. 30: Leona es una harengon y Naór una leonina del sur. Eromov expresa una posibilidad de liderazgo futuro para Leona; no realiza un nombramiento (30-001, 30-007 y 30-020). ([ficha](capitulos/30.md)).
+- Cap. 30: El director sitúa el mapa de Luna en Kuroto; no es una guía de Cuicapalli ni identifica por sí solo todos sus mapas anteriores (30-004). ([ficha](capitulos/30.md)).
+- Cap. 30: Eromov no participó en el combate previo. El diagnóstico es de veneno ingerido tras las reuniones, no de una herida de batalla (30-005). ([ficha](capitulos/30.md)).
+- Cap. 30: La primera mujer muere sin que se declarara un ataque no letal. El grupo quería capturar a la segunda, pero Luna la mata. No se interroga a ninguna con vida ni se ejecuta Hablar con muertos (30-011, 30-015 y 30-018). ([ficha](capitulos/30.md)).
+- Cap. 30: Guayacán decide soltar a la cautiva al interpretar su miedo; la condición no le impone automáticamente huir. Después, ella lo atrapa con la cola (30-013–30-014). ([ficha](capitulos/30.md)).
+- Cap. 30: El token de la mujer se reactiva para resolver la explosión en la interfaz; eso no representa una resurrección dentro de la historia (30-015). ([ficha](capitulos/30.md)).
+- Cap. 30: El director permite Bola de fuego y Palabra sanadora en el mismo turno mediante una regla de la mesa; no se presenta como regla oficial (30-015). ([ficha](capitulos/30.md)).
+- Cap. 30: La victoria proporciona pruebas para investigar una cura. Eromov sigue enfermo, pese a las expresiones optimistas de Leona (30-020 y 30-022). ([ficha](capitulos/30.md)).
+- Cap. 31: Naór atribuye su extravío a que los dioses mueven las ciudades. Coyote conoce el camino y Walulu afirma que está oculto. No se confirma ningún desplazamiento físico de Iktan (31-005,31-007 y 31-023). ([ficha](capitulos/31.md)).
+- Cap. 31: Naór presenta a Leo como su hijo y futuro príncipe. Se trata de su protegido adoptivo; Triel recibe el tratamiento afectivo de tía (31-001 y 31-006). ([ficha](capitulos/31.md)).
+- Cap. 31: Las voces inducen las agresiones entre compañeros. Tesara hiere realmente a Eldrat, pero deja de disputarle el arma al superar la influencia; no se establece una traición deliberada (31-009–31-012). ([ficha](capitulos/31.md)).
+- Cap. 31: La tregua entre Naór y Coyote permite que se ayuden durante el combate, aunque no resuelve de inmediato su hostilidad (31-013 y 31-017–31-018). ([ficha](capitulos/31.md)).
+- Cap. 31: Las bromas que presentan a Naór y Coyote como muertos se refieren a sus caídas en combate. Ambos reciben curaciones y vuelven a actuar (31-017). ([ficha](capitulos/31.md)).
+- Cap. 31: La muerte del último zombi no elimina la amenaza: los cadáveres se unen y el dragón sigue vivo (31-019). ([ficha](capitulos/31.md)).
+- Cap. 31: El guardia atribuye las ruinas al aliento de un dragón. Tesara plantea una explicación relacionada con ácido o necrosis, pero no se confirma qué dragón causó la destrucción (31-021). ([ficha](capitulos/31.md)).
+- Cap. 31: Walulu considera expulsar a los visitantes o borrarles el recuerdo de la ruta. Tras la negociación concede un permiso limitado; no se muestra ningún borrado ni una incorporación al clan (31-023–31-028). ([ficha](capitulos/31.md)).
+- Cap. 31: Naór respalda la política de su padre aunque expresa desconfianza hacia los extranjeros. La visión recibida por Tesara y Eldrat no se comparte automáticamente con el resto del grupo (31-026–31-027). ([ficha](capitulos/31.md)).
+- Cap. 32: Eleanor se presenta como de Aragón, mientras la escudera la llama Roosevelt. Se conservan ambas variantes sin inventar una genealogía (32-002). ([ficha](capitulos/32.md)).
+- Cap. 32: La mesa corrige la confusión con el aura de conquista: a nivel seis dispone de protección, pero no de la inmovilización del aura de nivel siete (32-012). ([ficha](capitulos/32.md)).
+- Cap. 32: La muerte del mendigo coincide con el intento de bofetada, pero el estruendo y la negación de Eleanor impiden atribuirle la decapitación (32-005). ([ficha](capitulos/32.md)).
+- Cap. 32: Eleanor cae y vuelve al combate mediante curación. No se confirma su muerte (32-016). ([ficha](capitulos/32.md)).
+- Cap. 33: Bonnie inventa el reino de Móstoles. Eleanor aclara después que procede de Aragón (33-004 y 33-007). ([ficha](capitulos/33.md)).
+- Cap. 33: Imagen mayor engaña inicialmente a las plantas, pero el director corrige que su visión ciega permite reconocer la ilusión (33-013–33-014). ([ficha](capitulos/33.md)).
+- Cap. 33: La brújula cambia de rumbo cuando Nox desea ron. No señala un norte fijo ni exclusivamente un refugio (33-017). ([ficha](capitulos/33.md)).
+- Cap. 33: Se mencionan hipopótamos mudos o sordos y después uno ciego. No se asignan esas condiciones a individuos concretos sin confirmación (33-018–33-019). ([ficha](capitulos/33.md)).
+- Cap. 34: El médico piensa en un huevo pequeño, no en el huevo de dinosaurio que buscan (34-005–34-006). ([ficha](capitulos/34.md)).
+- Cap. 34: Que los hipopótamos tiraran el nido no demuestra que robaran el huevo. Los testigos señalan a la Marina (34-003 y 34-006). ([ficha](capitulos/34.md)).
+- Cap. 34: Mamá no cura inicialmente al enano: le roba dieciocho puntos de vida y contribuye a su caída. Después aplica una curación normal de siete puntos y se disculpa (34-009–34-010). ([ficha](capitulos/34.md)).
+- Cap. 34: La invisibilidad de Blink no incluye al huevo según la adjudicación de la mesa (34-014). ([ficha](capitulos/34.md)).
+- Cap. 34: Citlali interpreta que la buscan o amenazan. El director aclara que Bonnie le advirtió que se alejara por el peligro de la Marina (34-020). ([ficha](capitulos/34.md)).
+- Cap. 35: Smith afirma que Molly se jubiló y volvió a casa, pero el guardia interrogado dice que fue destituida y llevada a la torre. Encontrarla en una celda confirma el cautiverio (35-009–35-012). ([ficha](capitulos/35.md)).
+- Cap. 35: El director confirma el nombre Armin para el herrero, frente a Pit utilizado por los jugadores (35-004). ([ficha](capitulos/35.md)).
+- Cap. 35: Nox retira la promesa inicial de una recompensa al explicar el plan. Bonnie paga después a los tres ayudantes (35-005 y 35-019). ([ficha](capitulos/35.md)).
+- Cap. 35: Tórtola permite salir al grupo, pero no cree el relato y ordena seguirlo en una escena reservada (35-013). ([ficha](capitulos/35.md)).
+- Cap. 35: La serpiente libre es una Imagen mayor. La criatura sigue en la jaula (35-015). ([ficha](capitulos/35.md)).
+- Cap. 35: El supuesto parentesco entre Bonnie y Molly es una especulación de los jugadores, no un hecho (35-019). ([ficha](capitulos/35.md)).
+- Cap. 36: Ione omite que el dinosaurio ya había arrasado el campamento. La incapacidad de mentir permite una verdad parcial; no convierte al grupo en autor de la matanza anterior (36-006, 36-010, 36-017). ([ficha](capitulos/36.md)).
+- Cap. 36: El intercambio de cuerpos entre Blink y Poncelot se revierte; no crea personajes nuevos (36-008). ([ficha](capitulos/36.md)).
+- Cap. 36: Ione recupera la consciencia en forma de loba antes de volver a ser humana. No se acredita una amnesia universal en todas sus transformaciones (36-015–36-016). ([ficha](capitulos/36.md)).
+- Cap. 36: El tigre sobrevive a las heridas y recibe curación. La tirada no confirma un contagio (36-013, 36-016). ([ficha](capitulos/36.md)).
+- Cap. 37: Se observan dos carros, uno se destruye y el otro se conserva. Los chistes sobre recuperar el cien por cien o sobre un único carro no sustituyen lo ocurrido (37-007, 37-012–37-015). ([ficha](capitulos/37.md)).
+- Cap. 37: Luna escucha la conversación inicial en forma de gata sin identificarse; no es un animal independiente (37-002, 37-005–37-006). ([ficha](capitulos/37.md)).
+- Cap. 37: Eleanor declara al caballo propiedad de Poncelot aunque se indica que pertenece a Bonnie (37-018). ([ficha](capitulos/37.md)).
+- Cap. 37: Nox acepta mantener el ojo en Shiaru, pero su intención y su partida muestran el incumplimiento. El permiso de estudiarlo no incluye llevarlo a Aurora (37-017–37-018). ([ficha](capitulos/37.md)).
+- Cap. 38: El pulpo es distinto del que mató al antiguo hipocampo y es mayor, según el director (38-007, 38-009). ([ficha](capitulos/38.md)).
+- Cap. 38: Calmar emociones falló contra Ione en forma de loba en el capítulo 36, pero funciona en el 38. Se conserva la diferencia entre escenas (38-012). ([ficha](capitulos/38.md)).
+- Cap. 38: Merlucilla V es un tiburón nuevo; la numeración no indica la muerte del tigre Merlucilla IV (38-009, 38-015). ([ficha](capitulos/38.md)).
+- Cap. 38: Ilikar parece preocupado por la mordedura, pero explica que su decepción procede del duelo sin todos los recursos (38-014, 38-017). ([ficha](capitulos/38.md)).
+- Cap. 38: Ione recibe dieciocho monedas del cofre y diez de Erandy, frente a las treinta aproximadas de la recapitulación (38-016). ([ficha](capitulos/38.md)).
+- Cap. 38: El cofre parece un hallazgo; su placa revela la pertenencia a Bonnie solo al público en la escena final (38-016, 38-018). ([ficha](capitulos/38.md)).
+- Cap. 39: La cueva utilizada como refugio no tiene agua limpia y su anterior desocupación no garantiza seguridad. Los nuevos invasores la encuentran (39-002–39-005). ([ficha](capitulos/39.md)).
+- Cap. 39: El drenaje de Citlali daña a sus aliados, pero cura a la abominación. El director confirma la interacción con las serpientes (39-008, 39-014). ([ficha](capitulos/39.md)).
+- Cap. 39: Citlali y Etley quedan sepultados, pero no mueren. La escena interior y el rescate confirman que sobreviven (39-011–39-013). ([ficha](capitulos/39.md)).
+- Cap. 39: El camino elegido por Ayoto no lleva a su pueblo natal. El director indica que el goliat no procede de Xoltacan y el grupo llega a Iktan (39-014, 39-017). ([ficha](capitulos/39.md)).
+- Cap. 39: La rana era Luna. Su transformación no acredita la muerte de otro animal permanente del grupo (39-003, 39-006). ([ficha](capitulos/39.md)).
+- Cap. 39: Luna imita un ritual de curación, pero Walulu cura discretamente a la cría. El efecto no se atribuye a Luna (39-017). ([ficha](capitulos/39.md)).
+- Cap. 39: Citlali y Coyote aparecen como personajes distintos, aunque compartan jugador (39-017–39-020). ([ficha](capitulos/39.md)).
