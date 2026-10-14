@@ -79,20 +79,23 @@ def build_data():
 
 
 def main():
+    from campanas import build_world
     template = (ROOT / 'web/plantilla.html').read_text(encoding='utf-8')
     script = (ROOT / 'web/app.js').read_text(encoding='utf-8')
     theme = (ROOT / 'web/selva.css').read_text(encoding='utf-8')
     theme += '\n' + (ROOT / 'web/codice.css').read_text(encoding='utf-8')
+    theme += '\n' + (ROOT / 'web/arghast.css').read_text(encoding='utf-8')
     landscape = base64.b64encode((ROOT / 'web/assets/xoltacan-selva.webp').read_bytes()).decode('ascii')
     theme = theme.replace('assets/xoltacan-selva.webp', 'data:image/webp;base64,' + landscape)
     if template.count('<!-- DATA -->') != 1 or template.count('<!-- APP -->') != 1:
         raise ValueError('La plantilla necesita un marcador DATA y un marcador APP')
-    payload = json.dumps(build_data(), ensure_ascii=False, separators=(',', ':')).replace('<', '\\u003c')
+    payload = json.dumps(build_world(build_data()), ensure_ascii=False, separators=(',', ':')).replace('<', '\\u003c')
     output = template.replace('<!-- THEME -->', '<style>' + theme + '</style>')
     output = output.replace('<!-- DATA -->', '<script id="xoltacan-data" type="application/json">' + payload + '</script>')
     output = output.replace('<!-- APP -->', '<script>' + script.replace('</script', '<\\/script') + '</script>')
     write(ROOT / 'xoltacan.html', output)
-    print(f'xoltacan.html: {len(output.encode("utf-8")):,} bytes; datos y transcripciones integrados.')
+    write(ROOT / 'arghast.html', output)
+    print(f'arghast.html y xoltacan.html: {len(output.encode("utf-8")):,} bytes; archivo de campañas integrado.')
 
 
 if __name__ == '__main__':

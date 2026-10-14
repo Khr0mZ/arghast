@@ -8,7 +8,7 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--solo-conocimiento', action='store_true', help='Enciclopedia y lecturas Markdown, sin originales VTT/TXT ni herramientas.')
     args = parser.parse_args()
-    folders = ['conocimiento'] if args.solo_conocimiento else ['conocimiento', 'derivados', 'config', 'borradores', 'scripts', 'web', 'xoltacan_subtitulos']
+    folders = ['conocimiento', 'campanas'] if args.solo_conocimiento else ['conocimiento', 'campanas', 'derivados', 'config', 'borradores', 'scripts', 'web', 'xoltacan_subtitulos', '.github']
     files = set()
     for folder in folders:
         for path in (ROOT / folder).rglob('*'):
@@ -16,7 +16,7 @@ def main():
                 files.add(path)
     if args.solo_conocimiento:
         files.update((ROOT / 'derivados').glob('*/lectura.md'))
-    for name in ('README.md', 'requirements-descarga.txt', 'xoltacan.html'):
+    for name in ('README.md', 'requirements-descarga.txt', 'xoltacan.html', 'arghast.html', '.gitignore'):
         path = ROOT / name
         if path.exists():
             files.add(path)

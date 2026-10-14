@@ -1,5 +1,9 @@
 # Interfaz local de Xoltacan
 
+La interfaz ahora es el archivo de **Arghast**, con portada de campañas y selector entre Xoltacan y Kuroto. El constructor genera `../arghast.html` y conserva `../xoltacan.html` como entrada compatible al mismo contenido. `arghast.css` añade la portada, el selector y el tema de Kuroto. La consulta `campana` de la URL selecciona el archivo activo; las rutas, búsquedas, entidades y transcripciones se resuelven solo dentro de él.
+
+`../scripts/campanas.py` integra el archivo revisado de Xoltacan con el catálogo independiente de Kuroto. Los títulos de vídeo no producen hechos. El estado de recuperación y revisión de Kuroto se muestra expresamente mientras faltan sus fuentes. `ARGHAST_TEST_URL=https://khr0mz.github.io/arghast/` permite ejecutar la prueba de navegador contra el despliegue público.
+
 Abrir `../xoltacan.html` con doble clic. Es un archivo autónomo: diseño, aplicación, capítulos, evidencias y transcripciones están integrados. No utiliza CDN, servidor, cuentas ni API. Los enlaces a vídeos sí requieren Internet.
 
 Fuentes de la interfaz:

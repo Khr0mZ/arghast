@@ -1,0 +1,7 @@
+{
+  "capitulo": 1,
+  "fecha": "2026-10-14",
+  "estado": "bloqueado_youtube",
+  "detalle": "YouTube devuelve HTTP 429 y solicita iniciar sesión al intentar recuperar los subtítulos. Reintento con Node.js: mismo resultado.",
+  "sin_subtitulos_confirmado": false
+}

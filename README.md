@@ -1,10 +1,18 @@
-# Biblioteca de Aventuras en Xoltacan
+# Arghast · Archivo de campañas
 
 **[Abrir la enciclopedia online](https://khr0mz.github.io/arghast/)** · [Estado del despliegue](https://github.com/Khr0mZ/arghast/actions/workflows/pages.yml)
 
-GitHub Pages se actualiza automáticamente al subir cambios a `main`. El flujo `.github/workflows/pages.yml` comprueba los datos, regenera la interfaz y publica únicamente el HTML autónomo como `index.html`. También puede ejecutarse manualmente desde Actions. La versión local sigue disponible en `xoltacan.html`.
+El mundo se llama **Arghast**. **Xoltacan** y **Kuroto** son campañas distintas que se eligen desde una portada común o desde el selector de la barra lateral. Las búsquedas, fichas, capítulos y evidencias pertenecen exclusivamente a la campaña elegida. La selección forma parte de la URL (`?campana=xoltacan` o `?campana=kuroto`) y se conserva al navegar o compartir un enlace.
 
-Reconstrucción objetiva de la campaña de Lichpol. Abre [la interfaz HTML](xoltacan.html) con doble clic: incluye buscador, capítulos, personajes, atlas, facciones, misiones, relaciones y misterios, con citas y enlaces al minuto. Funciona desde un archivo local, sin servidor ni instalación. También puedes consultar el [índice Markdown](conocimiento/INDICE.md).
+Abrir **`arghast.html`** con doble clic para consultar el mismo archivo sin servidor. `xoltacan.html` se conserva como entrada compatible al archivo unificado. El contenido de Xoltacan mantiene sus 39 capítulos revisados, 946 registros, 137 fichas de entidades y sus relatos.
+
+**Estado de Kuroto:** lista oficial localizada y 181 vídeos catalogados, con numeración del 1 al 182 y el 92 ausente de la lista consultada. No hay todavía transcripciones recuperadas ni capítulos revisados: YouTube devuelve HTTP 429 y pide autenticación al intentar descargar subtítulos. El fallo no demuestra que no existan. La interfaz lo indica y no inventa resúmenes, personajes, lugares o misterios a partir de los títulos. Las fuentes y el catálogo se conservan en `campanas/kuroto/`.
+
+GitHub Pages se actualiza automáticamente al subir cambios a `main`. El flujo `.github/workflows/pages.yml` comprueba los datos, regenera la interfaz y publica `arghast.html` como `index.html`. También puede ejecutarse manualmente desde Actions.
+
+Para continuar la incorporación de Kuroto, usar `.venv/Scripts/python.exe scripts/importar_kuroto.py --descargar`. El importador conserva los VTT, verifica hashes y se detiene si YouTube limita las solicitudes. `--capitulo 1` permite limitar un intento; `--preparar` registra subtítulos aportados en la carpeta de fuentes. No se leen cookies del navegador. Una exportación aportada explícitamente puede indicarse con `--cookies RUTA`, guardándola fuera del repositorio. La lectura editorial y las citas siguen siendo necesarias después de recuperar los subtítulos; no se simulan mediante extracción de nombres o palabras clave.
+
+El archivo revisado de Xoltacan reconstruye la campaña de Lichpol con buscador, capítulos, personajes, atlas, facciones, misiones, relaciones y misterios, con citas y enlaces al minuto. También puedes consultar su [índice Markdown](conocimiento/INDICE.md).
 
 El HTML contiene los 39 capítulos, 946 registros y las lecturas derivadas de todas las transcripciones. Permite buscar en registros o en la transcripción de un capítulo, filtrar evidencias y leer el contexto de una cita. Solo abrir el vídeo requiere Internet. La interfaz se regenera automáticamente con `python scripts/construir.py`; sus fuentes están en `web/` y `scripts/construir_interfaz.py`.
 

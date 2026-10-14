@@ -1,4 +1,4 @@
-name: Publicar Xoltacan en GitHub Pages
+name: Publicar Arghast en GitHub Pages
 
 on:
   push:
@@ -41,7 +41,7 @@ jobs:
       - name: Preparar la página de inicio
         run: |
           mkdir -p _site
-          cp xoltacan.html _site/index.html
+          cp arghast.html _site/index.html
 
       - name: Configurar GitHub Pages
         uses: actions/configure-pages@v5

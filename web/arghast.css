@@ -1,0 +1,49 @@
+.brand { padding-bottom: 21px; }
+.brand-name { font-size: 37px; }
+.campaign-picker { border: 1px solid #bc9c5e77; border-radius: 12px 2px 12px 2px; background: #071f1ab3; padding: 13px 14px; margin-bottom: 16px; box-shadow: inset 0 0 0 4px #c1a65c0a; }
+.campaign-picker label { display: block; font-size: 8px; letter-spacing: 1.7px; text-transform: uppercase; color: #c2b485; margin-bottom: 5px; }
+#campaign-selector { width: 100%; min-width: 0; border: 0; border-bottom: 1px solid #b19c5f66; padding: 6px 0 9px; background: #0c2a22; color: #f2dfaf; font: 21px Georgia,serif; cursor: pointer; }
+#campaign-selector option { background: #12392c; color: #f2dfaf; }
+.campaign-picker > a { display: block; color: #c3caa9; font-size: 10px; padding-top: 10px; }
+.campaign-picker > a span { float: right; color: #d6b86c; }
+.world-hero { position: relative; text-align: center; padding: 46px 24px 43px; overflow: hidden; margin-bottom: 20px; }
+.world-hero::before, .world-hero::after { content: ''; position: absolute; width: 280px; height: 280px; border: 1px solid #ccae6333; border-radius: 50%; top: 35px; left: calc(50% - 140px); pointer-events: none; }
+.world-hero::after { width: 310px; height: 310px; left: calc(50% - 155px); top: 20px; border-style: dashed; border-color: #ccae6322; }
+.world-hero .eyebrow { color: #cfb579; letter-spacing: 3px; font-size: 9px; }
+.world-hero h1 { position: relative; font: clamp(64px,8vw,104px)/1 Georgia,serif; letter-spacing: -3px; color: #f2e2b6; margin: 17px 0 19px; text-shadow: 0 4px 8px #041d22; }
+.world-hero > p:last-child { position: relative; color: #cbd3b7; font: 17px/1.8 Georgia,serif; }
+.world-compass { font: 38px/1 Georgia,serif; color: #d5b873; margin: 14px 0; }
+.world-campaigns { display: grid; grid-template-columns: 1fr 1fr; gap: 25px; }
+.world-campaign { display: block; position: relative; overflow: hidden; border: 1px solid #a28e50; border-radius: 3px 24px 3px 24px; background: var(--parchment); color: #34442b; box-shadow: 0 10px 28px #04182055; transition: transform .2s, box-shadow .2s; }
+.world-campaign:hover { transform: translateY(-5px); box-shadow: 0 15px 35px #04182080, 0 0 0 1px #d5b873; color: #34442b; }
+.campaign-landscape { height: 240px; background-image: linear-gradient(0deg,#082e25b3,transparent 70%),var(--jungle-image); background-size: cover; background-position: 65% center; border-bottom: 3px double #a28e50; }
+.world-campaign-kuroto .campaign-landscape { background: linear-gradient(135deg,#161d28,#455957); }
+.campaign-landscape svg { width: 100%; height: 100%; }
+.campaign-card-body { padding: 28px 31px 30px; }
+.campaign-card-body .eyebrow { color: #86703f; font-size: 9px; }
+.campaign-card-body h2 { font: 43px/1.2 Georgia,serif; letter-spacing: -1px; color: #254b33; margin: 12px 0 15px; }
+.world-campaign-kuroto .campaign-card-body h2 { color: #743c39; }
+.campaign-card-body p { font: 15px/1.8 Georgia,serif; color: #5d634c; }
+.campaign-progress { display: flex; flex-wrap: wrap; gap: 6px 16px; border-top: 1px solid #ae985866; margin: 23px 0; padding-top: 17px; font-size: 10px; color: #63734a; }
+.campaign-enter { display: flex; align-items: center; justify-content: space-between; color: #365739; font: italic 17px Georgia,serif; }
+.world-campaign-kuroto .campaign-enter { color: #834b42; }
+.campaign-enter span { font-size: 25px; }
+.campaign-status { padding: 27px 31px; border: 1px solid #ad945c; border-radius: 3px 17px 3px 17px; background: var(--parchment); color: #46513a; margin: 25px 0; }
+.campaign-status h2 { font: 26px/1.35 Georgia,serif; color: #633d39; margin: 10px 0 13px; }
+.campaign-status p { font-size: 13px; line-height: 1.85; max-width: 800px; }
+.pending-content .primary-button { margin-top: 24px; }
+.kuroto-seal { position: absolute; right: 50px; top: 44px; border: 3px double #d5a382; border-radius: 50% 50% 5px 5px; padding: 32px 27px; font: 35px/1.4 Georgia,serif; letter-spacing: 4px; color: #e0c7a2; background: #612e3877; transform: rotate(4deg); }
+body[data-campaign="kuroto"][data-view="campaign"] { background: radial-gradient(ellipse at 85% 0,#67504d55,transparent 65%),repeating-linear-gradient(35deg,#d3ba7903 0 1px,transparent 1px 9px),#25252e; }
+body[data-campaign="kuroto"]:not([data-view="world"]) #sidebar { background-image: linear-gradient(180deg,#211e2afa,#24212bd6),repeating-linear-gradient(80deg,#89917920 0 3px,transparent 3px 42px); background-color: #24212b; }
+body[data-campaign="kuroto"]:not([data-view="world"]) .topbar { background: #22212af5; }
+body[data-campaign="kuroto"] #campaign-selector,body[data-campaign="kuroto"] #campaign-selector option { background: #26232c; }
+body[data-campaign="kuroto"] .nav-links a.active { background: linear-gradient(100deg,#7e414980,#34273280); }
+body[data-campaign="kuroto"] .kuroto-hero { background: radial-gradient(circle at 88% 15%,#bd745d44 0 16%,transparent 16.3%),linear-gradient(110deg,#25212f,#364442); }
+.kuroto-hero::after { background: linear-gradient(90deg,#241e2e44,transparent); }
+body[data-campaign="kuroto"] .stat { background: linear-gradient(135deg,#514044,#262632); }
+body[data-campaign="kuroto"] .expedition-link { background: linear-gradient(120deg,#42343d,#272632); }
+.expedition-link > .card-crest { margin: 0; width: 40px; height: 40px; flex: none; }
+.expedition-link > .card-crest svg { width: 25px; height: 25px; }
+@media(max-width:1100px) { .campaign-landscape { height: 190px; }.campaign-card-body { padding: 24px; }.kuroto-seal { right: 28px; opacity: .55; } }
+@media(max-width:650px) { .world-campaigns { grid-template-columns: 1fr; gap: 23px; }.world-hero { padding: 24px 12px 26px; }.world-hero h1 { font-size: 69px; }.world-hero > p:last-child { font-size: 15px; }.campaign-landscape { height: 210px; }.campaign-card-body h2 { font-size: 36px; }.campaign-card-body { padding: 25px; }.campaign-status { padding: 23px; }.campaign-status h2 { font-size: 23px; }.kuroto-seal { right: 22px; top: 55px; padding: 27px 18px; font-size: 25px; opacity: .3; }.kuroto-hero .hero-title { position: relative; z-index: 1; }.kuroto-hero .hero-copy { position: relative; z-index: 1; } }
+@media print { .campaign-picker { display: none; }.world-hero h1,.world-hero > p:last-child { color: #222; text-shadow: none; } }

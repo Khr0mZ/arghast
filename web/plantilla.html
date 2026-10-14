@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="color-scheme" content="light">
   <meta name="theme-color" content="#183d34">
-  <title>Xoltacan · Archivo de la campaña</title>
+  <title>Arghast · Archivo de campañas</title>
   <style>
     :root{--paper:#f5f1e7;--surface:#fffdf7;--ink:#233a32;--muted:#6e756a;--forest:#183d34;--forest-light:#275347;--gold:#c7a465;--copper:#9b6445;--line:#dddccd;--soft:#eeede2;--sidebar-width:258px;--shadow:0 12px 32px #263b3010}
     *{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--paper);color:var(--ink);font-family:Inter,"Segoe UI",Arial,sans-serif;font-size:15px;line-height:1.6}button,input,select{font:inherit}button,a,input,select{-webkit-tap-highlight-color:transparent}button{cursor:pointer}a{color:var(--forest);text-decoration:none}a:hover{color:var(--copper)}button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible{outline:3px solid var(--gold);outline-offset:4px}button:disabled{cursor:default;opacity:.45}svg{display:block}::selection{background:#d9e3cb;color:var(--forest)}
@@ -32,11 +32,12 @@
 </head>
 <body>
   <aside id="sidebar" aria-label="Navegación de la enciclopedia">
-    <a class="brand" href="#inicio" aria-label="Xoltacan, inicio">
+    <a class="brand" href="#campanas" aria-label="Arghast, elegir campaña">
       <svg class="brand-symbol" viewBox="0 0 48 48" aria-hidden="true"><circle cx="24" cy="24" r="21" fill="none" stroke="currentColor" stroke-width=".7"/><circle cx="24" cy="14" r="5" fill="none" stroke="currentColor"/><path d="M9 34h30M13 29h22M17 24h14M20 20h8M13 29v5m4-10v5m3-9v4m8-4v4m3 0v5m4 0v5M24 3v3m0 32v7M3 24h3m36 0h3" fill="none" stroke="currentColor" stroke-width="1"/></svg>
-      <span class="brand-name">Xoltacan</span>
-      <span class="brand-subtitle">Crónicas de una isla selvática</span>
+      <span class="brand-name">Arghast</span>
+      <span class="brand-subtitle">Un mundo. Muchas historias.</span>
     </a>
+    <div class="campaign-picker"><label for="campaign-selector">Estás explorando</label><select id="campaign-selector" aria-label="Elegir campaña"><option value="">Elegir campaña</option><option value="xoltacan">Xoltacan</option><option value="kuroto">Kuroto</option></select><a href="#campanas">Ver las campañas <span aria-hidden="true">↗</span></a></div>
     <div class="nav-label">Explorar el archivo</div>
     <nav class="nav-links">
       <a href="#inicio" class="active"><span class="nav-symbol" aria-hidden="true">⌂</span>Portada</a>
@@ -63,7 +64,7 @@
   <div class="workspace">
     <header class="topbar">
       <button id="menu-toggle" type="button" aria-label="Abrir navegación" aria-expanded="false" aria-controls="sidebar">☰</button>
-      <div class="topbar-context"><div class="topbar-kicker">Aventuras en Xoltacan</div><h1 id="page-title">La enciclopedia</h1></div>
+      <div class="topbar-context"><div class="topbar-kicker" id="campaign-context">El mundo de Arghast</div><h1 id="page-title">Las campañas</h1></div>
       <div class="search-box">
         <svg class="search-icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="m15.4 15.4 5 5" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg>
         <label for="global-search" class="sr-only">Buscar en toda la enciclopedia</label>
@@ -75,8 +76,8 @@
     <div class="content-wrap">
       <div id="breadcrumbs" aria-label="Ruta de navegación"><span>Archivo</span><span aria-hidden="true">/</span><span>Portada</span></div>
       <div id="search-status" role="status" aria-live="polite"></div>
-      <main id="content" tabindex="-1"><div class="loading">Abriendo el archivo de Xoltacan…</div></main>
-      <footer class="footer"><span class="footer-mark">Xoltacan · Una campaña, muchas historias</span><span>Crónica basada en las transcripciones · Referencias por capítulo y minuto</span></footer>
+      <main id="content" tabindex="-1"><div class="loading">Abriendo el archivo de Arghast…</div></main>
+      <footer class="footer"><span class="footer-mark">Arghast · Un mundo, muchas historias</span><span>Archivos por campaña · Referencias por capítulo y minuto</span></footer>
     </div>
   </div>
   <!-- DATA -->

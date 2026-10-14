@@ -21,7 +21,9 @@ try {
   await new Promise((resolve,reject)=>{ws.addEventListener('open',resolve,{once:true});ws.addEventListener('error',reject,{once:true});});
   ws.addEventListener('message',event=>{const message=JSON.parse(String(event.data));if(message.method==='Runtime.exceptionThrown')errors.push(message.params.exceptionDetails);if(message.id&&pending.has(message.id)){const {resolve,reject}=pending.get(message.id);pending.delete(message.id);message.error?reject(new Error(JSON.stringify(message.error))):resolve(message.result);}});
   const send=(method,params={},sessionId)=>new Promise((resolve,reject)=>{const next=++id;pending.set(next,{resolve,reject});ws.send(JSON.stringify({id:next,method,params,...(sessionId?{sessionId}:{})}));});
-  const target=await send('Target.createTarget',{url:pathToFileURL(path.join(root,'xoltacan.html')).href});
+  const siteURL=new URL(process.env.ARGHAST_TEST_URL||pathToFileURL(path.join(root,'arghast.html')).href);
+  siteURL.searchParams.set('campana','xoltacan');
+  const target=await send('Target.createTarget',{url:siteURL.href});
   const {sessionId}=await send('Target.attachToTarget',{targetId:target.targetId,flatten:true});
   const call=(method,params={})=>send(method,params,sessionId);
   await call('Runtime.enable');await call('Page.enable');
@@ -134,6 +136,47 @@ try {
   await route('#entidad/Ione');await screenshot('historia-personaje-movil');
   await route('#entidad/Zampaolas');await screenshot('relato-objeto-movil');
   await route('#entidad/Shiaru');await screenshot('relato-lugar-movil');
+  const chooseCampaign=async id=>{
+    await evaluate(`document.getElementById('campaign-selector').value=${JSON.stringify(id)};document.getElementById('campaign-selector').dispatchEvent(new Event('change',{bubbles:true}))`);
+    let ready=false;
+    for(let i=0;i<100;i++){try{ready=await evaluate(`document.body.dataset.campaign===${JSON.stringify(id)}&&document.body.dataset.view==='campaign'&&!!document.querySelector('.hero')`);}catch{}if(ready)break;await sleep(150);}
+    if(!ready)throw new Error('No cargó la campaña '+id);
+  };
+  await route('#campanas');
+  await check('Arghast tiene un selector y dos campañas independientes','document.title==="Arghast · Archivo de campañas"&&document.querySelectorAll(".world-campaign").length===2&&document.getElementById("campaign-selector").value===""');
+  await check('Enlaces de campaña conservan la selección en la URL','[...document.querySelectorAll(".world-campaign")].every(a=>new URL(a.href).searchParams.has("campana"))');
+  await screenshot('arghast-movil');
+  await call('Emulation.setDeviceMetricsOverride',{width:1440,height:1080,deviceScaleFactor:1,mobile:false});
+  await screenshot('arghast-escritorio');
+  await chooseCampaign('kuroto');
+  await check('Selector abre Kuroto con su propia portada','location.search.includes("campana=kuroto")&&document.title.includes("Kuroto")&&!!document.querySelector(".kuroto-hero")');
+  await check('Kuroto no presenta fuentes pendientes como revisadas','document.querySelector(".campaign-status").textContent.includes("pendientes")');
+  await screenshot('kuroto-escritorio');
+  await route('#capitulos');
+  await check('Catálogo completo de Kuroto sin renumerar','(()=>{const cards=[...document.querySelectorAll(".chapter-card")];return cards.length===181&&cards.some(a=>a.hash==="#capitulo/182")&&!cards.some(a=>a.hash==="#capitulo/92")})()');
+  await check('169 y 170 siguen orden numérico','(()=>{const links=[...document.querySelectorAll(".chapter-card")].map(a=>Number(a.hash.split("/")[1]));return links.indexOf(169)<links.indexOf(170)})()');
+  await evaluate('document.getElementById("chapter-search").value="bosque";document.getElementById("chapter-search").dispatchEvent(new Event("input",{bubbles:true}))');
+  await check('Buscar capítulos de Kuroto','document.querySelectorAll(".chapter-card").length>0&&[...document.querySelectorAll(".chapter-card .card-title")].every(e=>e.textContent.toLowerCase().includes("bosque"))');
+  await route('#capitulo/1');
+  await check('Los mismos números de capítulo no mezclan campañas','document.getElementById("page-title").textContent==="El Bosque de Cuchillas"&&!document.querySelector(".event")&&document.querySelector("a[target=_blank]").href.includes("KkZZR81onIw")');
+  await evaluate('document.querySelector("[data-tab=transcripcion]").click()');
+  await check('No se inventa una transcripción','!document.querySelector(".transcript-row")&&document.getElementById("content").textContent.includes("Transcripción pendiente")');
+  for(const section of ['personajes','atlas','facciones','objetos','misterios','misiones','relaciones','busqueda/Ione']){
+    await route('#'+section);
+    await check('Kuroto aislado en '+section,'!document.querySelector(".event")&&!document.querySelector(".entity-card")&&!!document.querySelector(".pending-content")');
+  }
+  for(const width of [320,390,768]){
+    await call('Emulation.setDeviceMetricsOverride',{width,height:844,deviceScaleFactor:1,mobile:width<560});
+    for(const section of ['campanas','inicio','capitulos','capitulo/1']){
+      await route('#'+section);
+      await check('Arghast y Kuroto sin desbordamiento a '+width+' px en '+section,'document.documentElement.scrollWidth<=window.innerWidth');
+    }
+  }
+  await route('#inicio');await screenshot('kuroto-movil');
+  await chooseCampaign('xoltacan');
+  await check('Volver a Xoltacan restaura sus datos y limpia la búsqueda','!!document.querySelector(".hero-art")&&!document.querySelector(".kuroto-hero")&&document.getElementById("global-search").value===""');
+  await route('#capitulo/1');
+  await check('La ficha 1 de Xoltacan vuelve a ser la correcta','document.getElementById("page-title").textContent.includes("barco estampado")&&document.querySelector("a[target=_blank]").href.includes("ZXhsunFOVdQ")');
   if(errors.length)throw new Error('Errores JavaScript: '+JSON.stringify(errors));
   console.log(JSON.stringify({resultado:'OK',comprobaciones:checks.length,pruebas:checks,capturas:output},null,2));
   await send('Browser.close');
