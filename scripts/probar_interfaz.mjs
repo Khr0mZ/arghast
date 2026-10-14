@@ -150,7 +150,7 @@ try {
   await screenshot('arghast-escritorio');
   await chooseCampaign('kuroto');
   await check('Selector abre Kuroto con su propia portada','location.search.includes("campana=kuroto")&&document.title.includes("Kuroto")&&!!document.querySelector(".kuroto-hero")');
-  await check('Kuroto no presenta fuentes pendientes como revisadas','document.querySelector(".campaign-status").textContent.includes("pendientes")');
+  await check('Kuroto distingue transcripciones y revisión editorial','document.querySelector(".campaign-status").textContent.includes("pendientes de lectura editorial")&&document.querySelector(".campaign-status").textContent.includes("1 sesión revisada")');
   await screenshot('kuroto-escritorio');
   await route('#capitulos');
   await check('Catálogo completo de Kuroto sin renumerar','(()=>{const cards=[...document.querySelectorAll(".chapter-card")];return cards.length===181&&cards.some(a=>a.hash==="#capitulo/182")&&!cards.some(a=>a.hash==="#capitulo/92")})()');
@@ -158,13 +158,29 @@ try {
   await evaluate('document.getElementById("chapter-search").value="bosque";document.getElementById("chapter-search").dispatchEvent(new Event("input",{bubbles:true}))');
   await check('Buscar capítulos de Kuroto','document.querySelectorAll(".chapter-card").length>0&&[...document.querySelectorAll(".chapter-card .card-title")].every(e=>e.textContent.toLowerCase().includes("bosque"))');
   await route('#capitulo/1');
-  await check('Los mismos números de capítulo no mezclan campañas','document.getElementById("page-title").textContent==="El Bosque de Cuchillas"&&!document.querySelector(".event")&&document.querySelector("a[target=_blank]").href.includes("KkZZR81onIw")');
+  await check('Los mismos números de capítulo no mezclan campañas','document.getElementById("page-title").textContent==="El Bosque de Cuchillas"&&document.querySelectorAll(".story-stage").length===5&&document.querySelector("a[target=_blank]").href.includes("KkZZR81onIw")');
   await evaluate('document.querySelector("[data-tab=transcripcion]").click()');
-  await check('No se inventa una transcripción','!document.querySelector(".transcript-row")&&document.getElementById("content").textContent.includes("Transcripción pendiente")');
+  for(let i=0;i<100;i++){if(await evaluate('!!document.querySelector(".transcript-row")'))break;await sleep(150);}
+  await check('Transcripción original de Kuroto cargada por sesión','document.querySelectorAll(".transcript-row").length===120&&document.querySelector(".transcript-row a").href.includes("KkZZR81onIw")&&Object.keys(globalThis.arghastTranscripts).length===1');
+  await evaluate('document.getElementById("transcript-search").value="cuchillas";document.getElementById("transcript-search").dispatchEvent(new Event("input",{bubbles:true}))');
+  await check('Búsqueda en la transcripción recuperada','document.querySelectorAll(".transcript-row").length>0&&[...document.querySelectorAll(".transcript-row p")].every(p=>p.textContent.toLowerCase().includes("cuchillas"))');
+  await route('#capitulo/182');
+  await evaluate('document.querySelector("[data-tab=transcripcion]").click()');
+  for(let i=0;i<100;i++){if(await evaluate('!!document.querySelector(".transcript-row")'))break;await sleep(150);}
+  await check('La última sesión abre su propio archivo de subtítulos','document.querySelectorAll(".transcript-row").length===120&&document.querySelector(".transcript-row a").href.includes("iop3TS6EwO8")');
+  await route('#capitulo/96');
+  await evaluate('document.querySelector("[data-tab=transcripcion]").click()');
+  await check('La sesión sin subtítulos conserva su estado verificado','!document.querySelector(".transcript-row")&&document.getElementById("content").textContent.includes("Este vídeo no ofrece subtítulos")');
   for(const section of ['personajes','atlas','facciones','objetos','misterios','misiones','relaciones','busqueda/Ione']){
     await route('#'+section);
-    await check('Kuroto aislado en '+section,'!document.querySelector(".event")&&!document.querySelector(".entity-card")&&!!document.querySelector(".pending-content")');
+    await check('Kuroto aislado en '+section,'document.body.dataset.campaign==="kuroto"&&![...document.querySelectorAll(".entity-card .card-title,.event h3")].some(node=>/Ione|Bonnie|Shiaru/.test(node.textContent))');
   }
+  await route('#entidad/Tokugawa');
+  await check('Historia del personaje con alcance y evidencias','document.querySelectorAll(".story-stage").length===3&&document.querySelector(".story-heading").textContent.includes("Hasta el capítulo 1")');
+  await evaluate('document.querySelector(".story-sources a").click()');await sleep(250);
+  await check('Las evidencias enlazan el vídeo de Kuroto','!!document.querySelector(".quote")&&document.querySelector(".evidence a").href.includes("KkZZR81onIw")');
+  await route('#busqueda/Bonnie');
+  await check('Buscar Bonnie en Kuroto no devuelve hechos de Xoltacan','!document.querySelector(".event")');
   for(const width of [320,390,768]){
     await call('Emulation.setDeviceMetricsOverride',{width,height:844,deviceScaleFactor:1,mobile:width<560});
     for(const section of ['campanas','inicio','capitulos','capitulo/1']){

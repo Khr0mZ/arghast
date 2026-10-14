@@ -48,27 +48,54 @@ def main():
             parser.error('Ese capítulo no está localizado en el catálogo de Kuroto')
     if args.descargar:
         prepare()
+        issues_path = KUROTO / 'fuentes/incidencias_descarga.json'
+        issues = {item['capitulo']: item for item in read_json(issues_path)} if issues_path.exists() else {}
         for episode in episodes:
             number = episode['capitulo']
             pattern = f'{number:03d} - {episode["id"]}*.vtt'
             if list((KUROTO / 'fuentes').glob(pattern)):
+                issues.pop(number, None)
                 continue
-            command = [sys.executable, '-m', 'yt_dlp', '--js-runtimes', 'node', '--skip-download',
-                '--no-playlist', '--write-subs', '--write-auto-subs', '--sub-langs', 'es-orig,es',
-                '--sub-format', 'vtt', '--no-overwrites', '--socket-timeout', '20', '--retries', '0',
-                '--extractor-retries', '0', '-o', str(KUROTO / 'fuentes' / f'{number:03d} - {episode["id"]}.%(ext)s'), episode['url']]
+            print(f'Capítulo {number}: {episode["titulo"]}', flush=True)
+            # Mismo procedimiento que xoltacan_subtitulos/descargar_subtitulos.py.
+            command = [sys.executable, '-m', 'yt_dlp', '--skip-download',
+                '--write-subs', '--write-auto-subs', '--sub-langs', 'es.*',
+                '--sub-format', 'vtt/best', '--no-overwrites', '--ignore-errors',
+                '-o', str(KUROTO / 'fuentes' / f'{number:03d} - {episode["id"]}.%(ext)s'), episode['url']]
             if args.cookies:
                 command[command.index('--skip-download'):command.index('--skip-download')] = ['--cookies', str(args.cookies.resolve())]
             result = subprocess.run(command, text=True, encoding='utf-8', errors='replace', capture_output=True)
-            prepare()  # Registra también originales recuperados antes de un fallo parcial.
-            if result.returncode:
-                blocked = '429' in result.stderr or 'not a bot' in result.stderr
-                status = {'capitulo': number, 'estado': 'bloqueado_youtube' if blocked else 'error_descarga',
-                          'detalle': 'YouTube requiere autenticación o limita las solicitudes.' if blocked else 'Revisar acceso y disponibilidad de subtítulos.',
+            recovered = list((KUROTO / 'fuentes').glob(pattern))
+            if result.returncode or not recovered:
+                output = result.stdout + result.stderr
+                blocked = '429' in output or 'not a bot' in output
+                unavailable = 'There are no subtitles for the requested languages' in output
+                status = {'capitulo': number, 'estado': 'bloqueado_youtube' if blocked else 'sin_subtitulos_es' if unavailable else 'error_descarga',
+                          'detalle': 'YouTube requiere autenticación o limita las solicitudes.' if blocked else 'No hay subtítulos en los idiomas solicitados.' if unavailable else 'Revisar acceso y disponibilidad de subtítulos.',
                           'sin_subtitulos_confirmado': False}
-                write_json(KUROTO / 'fuentes/estado_descarga.json', status)
-                print(status['detalle'] + ' Se detiene la importación para no repetir peticiones fallidas.')
-                return 1
+                issues[number] = status
+                write_json(issues_path, list(issues.values()))
+                print('  ' + status['detalle'], flush=True)
+                if blocked:
+                    prepare()
+                    write_json(KUROTO / 'fuentes/estado_descarga.json', status)
+                    print('Se detiene la importación para no repetir peticiones bloqueadas.')
+                    return 1
+                continue
+            print('  Subtítulos conservados: ' + ', '.join(path.name for path in recovered), flush=True)
+            issues.pop(number, None)
+        prepare()
+        pending = [episode['capitulo'] for episode in read_json(KUROTO / 'catalogo.json')['episodios']
+                   if not list((KUROTO / 'fuentes').glob(f'{episode["capitulo"]:03d} - {episode["id"]}*.vtt'))]
+        write_json(issues_path, list(issues.values()))
+        write_json(KUROTO / 'fuentes/estado_descarga.json', {
+            'estado': 'descarga_parcial' if pending else 'descargado',
+            'capitulos_pendientes': pending,
+            'incidencias': list(issues.values()),
+            'capitulos_con_subtitulos': sum(bool(list((KUROTO / 'fuentes').glob(
+                f'{episode["capitulo"]:03d} - {episode["id"]}*.vtt'))) for episode in read_json(KUROTO / 'catalogo.json')['episodios']),
+            'procedimiento': 'xoltacan_subtitulos/descargar_subtitulos.py: es.*, vtt/best, sin descarga audiovisual'
+        })
     if args.preparar or not args.descargar:
         prepare()
     return 0

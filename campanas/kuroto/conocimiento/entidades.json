@@ -1,0 +1,376 @@
+[
+  {
+    "nombre": "Tokugawa",
+    "tipo": "personaje",
+    "descripcion": "Paladín de la compañía de cazadores; impetuoso en la marcha y protector durante el combate.",
+    "nota": "",
+    "etiquetas": [
+      "Tokugawa"
+    ],
+    "referencias": [],
+    "historia": {
+      "revisado_hasta": 1,
+      "etapas": [
+        {
+          "titulo": "Un camino a fuerza de espada",
+          "texto": "Tokugawa llega a Ukio con una compañía que ya conoce. Durante la expedición al bosque toma la iniciativa física: abre paso cortando ramas y un intento de atarlo acaba en un codazo accidental, seguido de una disculpa. Su energía contrasta con las precauciones y los haikus de Leonardo.",
+          "referencias": [
+            "01-009",
+            "01-011"
+          ]
+        },
+        {
+          "titulo": "El paladín protege a sus compañeros",
+          "texto": "Tras luchar con los kappa ayuda a recuperar fuerzas a Leonardo. La comadreja de cuchillas lo alcanza al comenzar el siguiente encuentro, pero Tokugawa logra provocarle miedo y empujarla lejos de sus amigos. Cuando una poción provoca el inesperado regreso del enemigo derrotado, vuelve a intervenir para acabar con él.",
+          "referencias": [
+            "01-013",
+            "01-015",
+            "01-017",
+            "01-020"
+          ]
+        },
+        {
+          "titulo": "Héroe y celebrante",
+          "texto": "De vuelta en la aldea, participa en el recibimiento de los héroes. Él y Sun Gukon permanecen en la celebración mientras sus otros compañeros descansan, antes de reunirse todos en el banquete de Kitaro.",
+          "referencias": [
+            "01-023",
+            "01-024"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "nombre": "Leonardo",
+    "tipo": "personaje",
+    "descripcion": "Samurái de aspecto de tortuga que acompaña sus advertencias con haikus.",
+    "nota": "",
+    "etiquetas": [
+      "Leonardo"
+    ],
+    "referencias": [],
+    "historia": {
+      "revisado_hasta": 1,
+      "etapas": [
+        {
+          "titulo": "Un samurái entre la niebla",
+          "texto": "Leonardo participa en la llegada a Ukio y en la salida al Bosque del Infierno. Intenta que la compañía atienda al peligro con avisos en forma de haiku, mientras Tokugawa prefiere avanzar cortando ramas. La mesa lo identifica como samurái.",
+          "referencias": [
+            "01-009",
+            "01-011"
+          ]
+        },
+        {
+          "titulo": "El corte que decide la cacería",
+          "texto": "Combate contra los kappa y recibe ayuda curativa del paladín al acabar. Contra la comadreja insiste con sus espadas hasta asestar el golpe decisivo: describe una decapitación y limpia la katana antes de envainarla. La escena de la poción hace que la compañía tenga que terminar el trabajo una segunda vez.",
+          "referencias": [
+            "01-013",
+            "01-019",
+            "01-020"
+          ]
+        },
+        {
+          "titulo": "Descanso y recompensa",
+          "texto": "Regresa herido a Ukio y descansa en la taberna junto a Talos. Al incorporarse a la celebración encuentra a sus compañeros bebiendo y al pueblo festejando la victoria; la aventura termina con toda la compañía en el banquete.",
+          "referencias": [
+            "01-023",
+            "01-024"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "nombre": "Sun Gukon (grafía provisional)",
+    "tipo": "personaje",
+    "descripcion": "Monje simiesco de la Mano Abierta; su bastón destaca en el combate del río.",
+    "nota": "Grafía provisional: los subtítulos alternan gucón, sungukon y son gucón. No se fija Sun Wukong como nombre canónico.",
+    "etiquetas": [
+      "Sun Gukon (grafía provisional)",
+      "gucón",
+      "sungukon",
+      "son gucón"
+    ],
+    "referencias": [],
+    "historia": {
+      "revisado_hasta": 1,
+      "etapas": [
+        {
+          "titulo": "El bastón frente a los kappa",
+          "texto": "Sun Gukon es uno de los cazadores veteranos de la compañía. En el río acaba a golpes de bastón con dos de los tres kappa. La mesa lo identifica como monje de la Mano Abierta, cuya técnica complementa las armas de sus compañeros.",
+          "referencias": [
+            "01-001",
+            "01-011",
+            "01-012"
+          ]
+        },
+        {
+          "titulo": "Una presa mucho más peligrosa",
+          "texto": "La comadreja de cuchillas lo convierte en uno de sus primeros objetivos. Su velocidad y sus tajos lo dejan gravemente herido, obligándolo a curarse y a confiar en el apoyo de la compañía mientras sigue el combate. La muerte del depredador permite volver a la aldea.",
+          "referencias": [
+            "01-016",
+            "01-017",
+            "01-019"
+          ]
+        },
+        {
+          "titulo": "Contar una victoria",
+          "texto": "En Ukio cuenta la batalla con exageraciones que los vecinos reciben con reservas. Las cuchillas reconocidas por el herrero avalan la victoria del grupo, aunque no sus adornos. Permanece bebiendo con Tokugawa mientras Leonardo y Talos descansan y después participa en el banquete.",
+          "referencias": [
+            "01-022",
+            "01-023",
+            "01-024"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "nombre": "Talos",
+    "tipo": "personaje",
+    "descripcion": "Pícaro asesino que recurre al sigilo, el arco y la Bendición de la Reina Cuervo.",
+    "nota": "",
+    "etiquetas": [
+      "Talos"
+    ],
+    "referencias": [],
+    "historia": {
+      "revisado_hasta": 1,
+      "etapas": [
+        {
+          "titulo": "Un nombre corregido en combate",
+          "texto": "Talos participa en la expedición de los cazadores desde Ukio. Durante el enfrentamiento con los kappa, la mesa lo identifica como pícaro asesino y él corrige su nombre de forma expresa. La transcripción confunde en ocasiones personajes, jugadores y nombres abreviados.",
+          "referencias": [
+            "01-010",
+            "01-011"
+          ]
+        },
+        {
+          "titulo": "Aprovechar los árboles",
+          "texto": "Contra el depredador del bosque utiliza la Bendición de la Reina Cuervo para teletransportarse y ocultarse entre los árboles. Desde esa posición contribuye con su arco. Más tarde, un error de selección de objetivo al usar una poción da lugar al inesperado regreso del enemigo y a su segunda derrota.",
+          "referencias": [
+            "01-018",
+            "01-020"
+          ]
+        },
+        {
+          "titulo": "Volver a la taberna",
+          "texto": "Talos regresa herido a Ukio y descansa junto a Leonardo mientras sus compañeros celebran. Después se incorpora al banquete con el que Kitaro y los aldeanos agradecen la cacería.",
+          "referencias": [
+            "01-023",
+            "01-024"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "nombre": "Kitaro (grafía provisional)",
+    "tipo": "personaje",
+    "descripcion": "Tabernero de Ukio y primer interlocutor del encargo del bosque.",
+    "nota": "Nombre reconocido como quitaro; Kitaro es una etiqueta provisional.",
+    "etiquetas": [
+      "Kitaro (grafía provisional)",
+      "Kitaro",
+      "quitaro"
+    ],
+    "referencias": [],
+    "historia": {
+      "revisado_hasta": 1,
+      "etapas": [
+        {
+          "titulo": "El problema del pueblo",
+          "texto": "Kitaro recibe a los cazadores, les sirve bebida y les explica por qué necesita ayuda la aldea: los ataques del bosque amenazan a quienes recogen fruta. Distingue los kappa de la peligrosa comadreja de cuchillas y deja que los aventureros decidan cómo actuar.",
+          "referencias": [
+            "01-004",
+            "01-005",
+            "01-006"
+          ]
+        },
+        {
+          "titulo": "Dar nombre a los héroes",
+          "texto": "Al regresar la compañía, les ofrece habitaciones para descansar. Cuando el herrero anuncia la muerte del depredador, confirma ante los vecinos que los cazadores son sus héroes. Organiza la celebración y prepara el banquete que cierra la sesión.",
+          "referencias": [
+            "01-023",
+            "01-024"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "nombre": "Kamaitachi (identificación provisional)",
+    "tipo": "personaje",
+    "descripcion": "Depredador del bosque con aspecto de comadreja y cuchillas en las extremidades.",
+    "nota": "La transcripción ofrece kamachi y kamay chi. Kamaitachi es una identificación contextual provisional. No se generaliza la escena de la poción como poder de la especie.",
+    "etiquetas": [
+      "Kamaitachi (identificación provisional)",
+      "kamachi",
+      "kamay chi"
+    ],
+    "referencias": [],
+    "historia": {
+      "revisado_hasta": 1,
+      "etapas": [
+        {
+          "titulo": "La amenaza que se cuenta en Ukio",
+          "texto": "Antes de que los cazadores lo encuentren, el tabernero describe a una comadreja con cuchillas que causa heridas y mutilaciones. Los troncos marcados y cercenados del bosque proporcionan después un indicio directo de su paso.",
+          "referencias": [
+            "01-006",
+            "01-015"
+          ]
+        },
+        {
+          "titulo": "Velocidad contra la compañía",
+          "texto": "El animal sorprende a Tokugawa y ataca con ferocidad a Sun Gukon. Su gran velocidad obliga al grupo a reorganizarse. El miedo provocado por el paladín y los ataques de los compañeros abren el combate hasta que Leonardo lo decapita.",
+          "referencias": [
+            "01-016",
+            "01-017",
+            "01-019"
+          ]
+        },
+        {
+          "titulo": "Un final que necesita repetirse",
+          "texto": "La aplicación accidental de una poción hace que vuelva a levantarse en una escena cómica y la compañía lo mata de nuevo. Después le separan la cabeza y las cuchillas. El herrero reconoce las hojas en Ukio y la noticia de su muerte desencadena la celebración.",
+          "referencias": [
+            "01-020",
+            "01-021",
+            "01-022"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "nombre": "Ukio (grafía provisional)",
+    "tipo": "lugar",
+    "descripcion": "Poblado agrícola y base de la primera cacería; su nombre tiene variantes en los subtítulos.",
+    "nota": "Ukio es provisional; el cierre también reconoce kioto. No se identifica con la ciudad real.",
+    "etiquetas": [
+      "Ukio (grafía provisional)",
+      "Ukio",
+      "kioto"
+    ],
+    "referencias": [],
+    "historia": {
+      "revisado_hasta": 1,
+      "etapas": [
+        {
+          "titulo": "Una aldea junto al peligro",
+          "texto": "El poblado recibe a los cazadores con casas de madera, taberna, herrería y alquimista. Sus vecinos dependen de la fruta del bosque y el tabernero solicita ayuda contra los ataques. La herrería carece de dinero para comprar directamente las jabalinas que ofrece un visitante.",
+          "referencias": [
+            "01-002",
+            "01-004",
+            "01-007"
+          ]
+        },
+        {
+          "titulo": "El regreso de los cazadores",
+          "texto": "La compañía vuelve con pruebas del depredador abatido. El herrero reconoce las cuchillas, la noticia corre por las calles y Kitaro presenta a los cazadores como héroes. La taberna ofrece descanso y después reúne a todos en un banquete.",
+          "referencias": [
+            "01-022",
+            "01-023",
+            "01-024"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "nombre": "Bosque del Infierno",
+    "tipo": "lugar",
+    "descripcion": "Bosque espeso y brumoso del que la aldea obtiene fruta; escenario de la primera cacería.",
+    "nota": "Se conserva la traducción pronunciada en la mesa; el nombre japonés no está estabilizado.",
+    "etiquetas": [
+      "Bosque del Infierno"
+    ],
+    "referencias": [],
+    "historia": {
+      "revisado_hasta": 1,
+      "etapas": [
+        {
+          "titulo": "Sustento y amenaza",
+          "texto": "El bosque alimenta a Ukio, pero los ataques de una comadreja con cuchillas ponen en peligro a los recolectores. Una vecina lo sitúa al norte, a media hora a pie. Al llegar, los cazadores encuentran una espesura en la que cuesta ver y abren su propio paso.",
+          "referencias": [
+            "01-004",
+            "01-006",
+            "01-008",
+            "01-009"
+          ]
+        },
+        {
+          "titulo": "El río y las cuchillas",
+          "texto": "La niebla del río oculta tres kappa y la aproximación de los cazadores termina en su muerte. Al seguir el agua, los troncos cortados conducen hacia el depredador. Allí la compañía libra el combate principal, derrota a la comadreja y recoge los trofeos antes de regresar. Haber resuelto este encargo no demuestra que todo el bosque haya quedado libre de peligros.",
+          "referencias": [
+            "01-010",
+            "01-013",
+            "01-015",
+            "01-019",
+            "01-020",
+            "01-021"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "nombre": "Kuroto",
+    "tipo": "lugar",
+    "descripcion": "Territorio de las aventuras de esta compañía de cazadores de yokai.",
+    "nota": "El director alterna isla y continente en la introducción y el cierre; no se deduce aquí un mapa ni se resuelve esa terminología.",
+    "etiquetas": [
+      "Kuroto"
+    ],
+    "referencias": [],
+    "historia": {
+      "revisado_hasta": 1,
+      "etapas": [
+        {
+          "titulo": "Cacerías compartidas",
+          "texto": "El director introduce Kuroto como el territorio por el que ya viaja una compañía de cazadores de yokai. La primera aventura publicada no inaugura la relación entre sus miembros: ya han matado demonios juntos antes de llegar a Ukio.",
+          "referencias": [
+            "01-001",
+            "01-002"
+          ]
+        },
+        {
+          "titulo": "La primera historia del archivo",
+          "texto": "La compañía ayuda a Ukio derrotando al depredador del bosque y termina celebrando con sus habitantes. El cierre anuncia que seguirá cazando yokai por Kuroto. Esta ficha no traslada a esta campaña acontecimientos de Xoltacan ni incorpora la charla final sobre otras partidas.",
+          "referencias": [
+            "01-024"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "nombre": "Cuchillas del kamaitachi",
+    "tipo": "objeto",
+    "descripcion": "Hojas separadas del depredador vencido; prueban la victoria ante el herrero.",
+    "nota": "",
+    "etiquetas": [
+      "Cuchillas del kamaitachi"
+    ],
+    "referencias": [],
+    "historia": {
+      "revisado_hasta": 1,
+      "etapas": [
+        {
+          "titulo": "De armas naturales a trofeo",
+          "texto": "Después de vencer a la comadreja, los cazadores cortan sus cuchillas y las guardan. El director las compara con pequeñas hojas de guadaña de mano. La cabeza se recoge como otra prueba de la cacería, pero no se confunde con estas hojas.",
+          "referencias": [
+            "01-021"
+          ]
+        },
+        {
+          "titulo": "Una posibilidad de fabricación",
+          "texto": "En Ukio se enseñan al herrero para preguntar si pueden convertirse en equipo. El artesano reconoce su origen y anuncia la muerte del monstruo. Su testimonio respalda la victoria cuando Sun Gukon cuenta la batalla, pero todavía no hay arma fabricada ni propiedades mágicas confirmadas.",
+          "referencias": [
+            "01-022",
+            "01-023"
+          ]
+        }
+      ]
+    }
+  }
+]

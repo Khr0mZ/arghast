@@ -1,0 +1,3 @@
+# Los hashes de las fuentes se calculan sobre los bytes descargados.
+*.vtt -text
+xoltacan_subtitulos/subtitulos/*.txt -text

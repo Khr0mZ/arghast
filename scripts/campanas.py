@@ -3,7 +3,7 @@ import hashlib
 from collections import defaultdict
 from pathlib import Path
 
-from construir import ROOT, read_json, parse_vtt, validate_fact
+from construir import ROOT, read_json, parse_vtt, validate_fact, seconds
 
 KUROTO = ROOT / 'campanas/kuroto'
 
@@ -15,6 +15,8 @@ def build_kuroto(folder=KUROTO):
     if len(numbers) != len(set(numbers)) or len(ids) != len(set(ids)):
         raise ValueError('Catálogo de Kuroto con capítulos o vídeos duplicados')
     chapters, facts, transcripts = [], [], {}
+    checked_path = folder / 'fuentes/verificaciones_subtitulos.json'
+    checked = read_json(checked_path) if checked_path.exists() else {}
     manifest_path = folder / 'fuentes/originales_sha256.json'
     inventory = read_json(manifest_path) if manifest_path.exists() else {}
     for relative, expected in inventory.items():
@@ -41,8 +43,9 @@ def build_kuroto(folder=KUROTO):
                    'contradicciones': dossier.get('contradicciones', []),
                    'nombres': dossier.get('nombres_dudosos', []), 'seguimiento': [],
                    'history': dossier.get('historia'), 'transcripcion_disponible': bool(segments),
+                   'comprobacion_subtitulos': checked.get(str(number)),
                    'duracion': segments[-1]['fin'] if segments else ''}
-        for original in dossier.get('afirmaciones', []):
+        for original in sorted(dossier.get('afirmaciones', []), key=lambda item: seconds(item['inicio'])):
             validate_fact(original, source)
             fact = {**original, 'capitulo': number,
                     'etiquetas_originales': original.get('entidades', [])}

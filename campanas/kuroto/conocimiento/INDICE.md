@@ -1,0 +1,200 @@
+# Kuroto · Índice de la crónica
+
+181 vídeos catalogados; 178 transcripciones disponibles; 1 sesiones revisadas.
+
+## Fichas con relato
+
+- [Tokugawa](entidades/001-tokugawa.md) · personaje
+- [Leonardo](entidades/002-leonardo.md) · personaje
+- [Sun Gukon (grafía provisional)](entidades/003-sun-gukon-grafía-provisional.md) · personaje
+- [Talos](entidades/004-talos.md) · personaje
+- [Kitaro (grafía provisional)](entidades/005-kitaro-grafía-provisional.md) · personaje
+- [Kamaitachi (identificación provisional)](entidades/006-kamaitachi-identificación-provisional.md) · personaje
+- [Ukio (grafía provisional)](entidades/007-ukio-grafía-provisional.md) · lugar
+- [Bosque del Infierno](entidades/008-bosque-del-infierno.md) · lugar
+- [Kuroto](entidades/009-kuroto.md) · lugar
+- [Cuchillas del kamaitachi](entidades/010-cuchillas-del-kamaitachi.md) · objeto
+
+## Sesiones
+
+- [001 · El Bosque de Cuchillas](capitulos/001.md) · revisado
+- [002 · Contrato de Limpieza](../derivados/002/lectura.md) · transcripción; lectura editorial pendiente
+- [003 · ¡No podemos Descansar!](../derivados/003/lectura.md) · transcripción; lectura editorial pendiente
+- [004 · Un Burdel Espeluznante](../derivados/004/lectura.md) · transcripción; lectura editorial pendiente
+- [005 · Sueños de Borrachos](../derivados/005/lectura.md) · transcripción; lectura editorial pendiente
+- [006 · El Ronin y el Yokai](../derivados/006/lectura.md) · transcripción; lectura editorial pendiente
+- [007 · Una Aldea Abandonada](../derivados/007/lectura.md) · transcripción; lectura editorial pendiente
+- [008 · ¿Dónde está el Gato?](../derivados/008/lectura.md) · transcripción; lectura editorial pendiente
+- [009 · La Venganza de los Sacerdotes](../derivados/009/lectura.md) · transcripción; lectura editorial pendiente
+- [010 · Sopa de Tortuga](../derivados/010/lectura.md) · transcripción; lectura editorial pendiente
+- [011 · Se Avecina Tormenta](../derivados/011/lectura.md) · transcripción; lectura editorial pendiente
+- [012 · Un Montón de Cosas](../derivados/012/lectura.md) · transcripción; lectura editorial pendiente
+- [013 · El Torneo](../derivados/013/lectura.md) · transcripción; lectura editorial pendiente
+- [014 · Consecuencias](../derivados/014/lectura.md) · transcripción; lectura editorial pendiente
+- [015 · Atrapa al Ladrón](../derivados/015/lectura.md) · transcripción; lectura editorial pendiente
+- [016 · Cuanto más comas....](../derivados/016/lectura.md) · transcripción; lectura editorial pendiente
+- [017 · ¡Fuego!](../derivados/017/lectura.md) · transcripción; lectura editorial pendiente
+- [018 · Tierra Removida](../derivados/018/lectura.md) · transcripción; lectura editorial pendiente
+- [019 · Entrenar a mi Kender](../derivados/019/lectura.md) · transcripción; lectura editorial pendiente
+- [020 · Un Viaje Movidito](../derivados/020/lectura.md) · transcripción; lectura editorial pendiente
+- [021 · Sustos](../derivados/021/lectura.md) · transcripción; lectura editorial pendiente
+- [022 · Mapaches en Peligro](../derivados/022/lectura.md) · transcripción; lectura editorial pendiente
+- [023 · Un Favor para el Shogun](../derivados/023/lectura.md) · transcripción; lectura editorial pendiente
+- [024 · Local Clandestino](../derivados/024/lectura.md) · transcripción; lectura editorial pendiente
+- [025 · Un Funcionario Respetable](../derivados/025/lectura.md) · transcripción; lectura editorial pendiente
+- [026 · Malos Sueños](../derivados/026/lectura.md) · transcripción; lectura editorial pendiente
+- [027 · El Torneo de Sho](../derivados/027/lectura.md) · transcripción; lectura editorial pendiente
+- [028 · La Venganza de los Gatitos](../derivados/028/lectura.md) · transcripción; lectura editorial pendiente
+- [029 · Un Carpintero en Apuros](../derivados/029/lectura.md) · transcripción; lectura editorial pendiente
+- [030 · Limpiar las Cañerías](../derivados/030/lectura.md) · transcripción; lectura editorial pendiente
+- [031 · Peligro en el Camino](../derivados/031/lectura.md) · transcripción; lectura editorial pendiente
+- [032 · La Boda del Shogun](../derivados/032/lectura.md) · transcripción; lectura editorial pendiente
+- [033 · Huérfano de Fuego](../derivados/033/lectura.md) · transcripción; lectura editorial pendiente
+- [034 · El Festival](../derivados/034/lectura.md) · transcripción; lectura editorial pendiente
+- [035 · Un Robo en la casa del Noble](../derivados/035/lectura.md) · transcripción; lectura editorial pendiente
+- [036 · En las Profundidades del Bosque](../derivados/036/lectura.md) · transcripción; lectura editorial pendiente
+- [037 · Las Sombras del Pasado](../derivados/037/lectura.md) · transcripción; lectura editorial pendiente
+- [038 · Un lio Pegajoso](../derivados/038/lectura.md) · transcripción; lectura editorial pendiente
+- [039 · Acampar en el Camino](../derivados/039/lectura.md) · transcripción; lectura editorial pendiente
+- [040 · El Bibliotecario](../derivados/040/lectura.md) · transcripción; lectura editorial pendiente
+- [041 · Desde lo Profundo](../derivados/041/lectura.md) · transcripción; lectura editorial pendiente
+- [042 · El Instructor](../derivados/042/lectura.md) · transcripción; lectura editorial pendiente
+- [043 · Problemas de Geishas](../derivados/043/lectura.md) · transcripción; lectura editorial pendiente
+- [044 · El Guardián del Oeste](../derivados/044/lectura.md) · transcripción; lectura editorial pendiente
+- [045 · Devuélveme mi Alma](../derivados/045/lectura.md) · transcripción; lectura editorial pendiente
+- [046 · Las Pruebas de Wukong](../derivados/046/lectura.md) · transcripción; lectura editorial pendiente
+- [047 · Los Cerezos Malditos](../derivados/047/lectura.md) · transcripción; lectura editorial pendiente
+- [048 · "Miau"](../derivados/048/lectura.md) · transcripción; lectura editorial pendiente
+- [049 · Baku-Baku](../derivados/049/lectura.md) · transcripción; lectura editorial pendiente
+- [050 · El Guardián del Este](../derivados/050/lectura.md) · transcripción; lectura editorial pendiente
+- [051 · El Segundo Torneo de Ukyio](../derivados/051/lectura.md) · transcripción; lectura editorial pendiente
+- [052 · Nieve en Verano](../derivados/052/lectura.md) · transcripción; lectura editorial pendiente
+- [053 · El Cubil](../derivados/053/lectura.md) · transcripción; lectura editorial pendiente
+- [054 · Rojo](../derivados/054/lectura.md) · transcripción; lectura editorial pendiente
+- [055 · El Mar de Kiushi](../derivados/055/lectura.md) · transcripción; lectura editorial pendiente
+- [056 · Diplomacia pasada por agua](../derivados/056/lectura.md) · transcripción; lectura editorial pendiente
+- [057 · Cosas Brillantes](../derivados/057/lectura.md) · transcripción; lectura editorial pendiente
+- [058 · El Bardo Legendario](../derivados/058/lectura.md) · transcripción; lectura editorial pendiente
+- [059 · La Espada de Cristal](../derivados/059/lectura.md) · transcripción; lectura editorial pendiente
+- [060 · Los Protectores de los Guardianes](../derivados/060/lectura.md) · transcripción; lectura editorial pendiente
+- [061 · Temporada de Caza](../derivados/061/lectura.md) · transcripción; lectura editorial pendiente
+- [062 · Bruja de Sangre "Especial Halloween"](../derivados/062/lectura.md) · transcripción; lectura editorial pendiente
+- [063 · Laboratorio Experimental](../derivados/063/lectura.md) · transcripción; lectura editorial pendiente
+- [064 · El Guardián del Norte](../derivados/064/lectura.md) · transcripción; lectura editorial pendiente
+- [065 · Controlar las Llamas](../derivados/065/lectura.md) · transcripción; lectura editorial pendiente
+- [066 · El Segundo Torneo de Sho](../derivados/066/lectura.md) · transcripción; lectura editorial pendiente
+- [067 · Estafa en la Casa de Inversiones](../derivados/067/lectura.md) · transcripción; lectura editorial pendiente
+- [068 · Problemas en Liber](../derivados/068/lectura.md) · transcripción; lectura editorial pendiente
+- [069 · Sueños en llamas](../derivados/069/lectura.md) · transcripción; lectura editorial pendiente
+- [070 · Vuelta a Casa](../derivados/070/lectura.md) · transcripción; lectura editorial pendiente
+- [071 · Wakare No Yama](../derivados/071/lectura.md) · transcripción; lectura editorial pendiente
+- [072 · El Rey Mono](../derivados/072/lectura.md) · transcripción; lectura editorial pendiente
+- [073 · Mis Yokais](../derivados/073/lectura.md) · transcripción; lectura editorial pendiente
+- [074 · Ultimo Bastión](../derivados/074/lectura.md) · transcripción; lectura editorial pendiente
+- [075 · Onsen](../derivados/075/lectura.md) · transcripción; lectura editorial pendiente
+- [076 · El Guardián del Sur](../derivados/076/lectura.md) · transcripción; lectura editorial pendiente
+- [077 · Especial Navidad](../derivados/077/lectura.md) · transcripción; lectura editorial pendiente
+- [078 · El destino de Shirz](../derivados/078/lectura.md) · transcripción; lectura editorial pendiente
+- [079 · El Ultimo Guardián](../derivados/079/lectura.md) · transcripción; lectura editorial pendiente
+- [080 · Suertelandia](../derivados/080/lectura.md) · transcripción; lectura editorial pendiente
+- [081 · Héroe del Pueblo](../derivados/081/lectura.md) · transcripción; lectura editorial pendiente
+- [082 · La Comandante](../derivados/082/lectura.md) · transcripción; lectura editorial pendiente
+- [083 · El Juicio](../derivados/083/lectura.md) · transcripción; lectura editorial pendiente
+- [084 · ¿Donde esta Gur?](../derivados/084/lectura.md) · transcripción; lectura editorial pendiente
+- [085 · Plegarias de Bondad](../derivados/085/lectura.md) · transcripción; lectura editorial pendiente
+- [086 · El Rey Selina](../derivados/086/lectura.md) · transcripción; lectura editorial pendiente
+- [087 · Lágrimas de Fuego](../derivados/087/lectura.md) · transcripción; lectura editorial pendiente
+- [088 · Manchas del Pasado](../derivados/088/lectura.md) · transcripción; lectura editorial pendiente
+- [089 · Especial 3 años de Twitch](../derivados/089/lectura.md) · transcripción; lectura editorial pendiente
+- [090 · Sombras de Guerra](../derivados/090/lectura.md) · transcripción; lectura editorial pendiente
+- [091 · La Guarida](../derivados/091/lectura.md) · transcripción; lectura editorial pendiente
+- [093 · Escoltas del Shogunato](../derivados/093/lectura.md) · transcripción; lectura editorial pendiente
+- [094 · La Salvaje](../derivados/094/lectura.md) · transcripción; lectura editorial pendiente
+- [095 · La Puerta Negra Parte 2](../derivados/095/lectura.md) · transcripción; lectura editorial pendiente
+- [096 · El Baile](https://www.youtube.com/watch?v=xU1sxIKdRL4) · transcripción pendiente
+- [097 · Una Cálida tarde de Verano](../derivados/097/lectura.md) · transcripción; lectura editorial pendiente
+- [098 · Un Lio en el Bosque](../derivados/098/lectura.md) · transcripción; lectura editorial pendiente
+- [099 · La Sombra de Shirz](../derivados/099/lectura.md) · transcripción; lectura editorial pendiente
+- [100 · Rumores de Palacio](../derivados/100/lectura.md) · transcripción; lectura editorial pendiente
+- [101 · Un Rescate de Pelotas](../derivados/101/lectura.md) · transcripción; lectura editorial pendiente
+- [102 · Recaudación](../derivados/102/lectura.md) · transcripción; lectura editorial pendiente
+- [103 · El Foso de los Lamentos Eternos](../derivados/103/lectura.md) · transcripción; lectura editorial pendiente
+- [104 · En el Vientre de la Bestia](../derivados/104/lectura.md) · transcripción; lectura editorial pendiente
+- [105 · Esto está hecho un asco...](../derivados/105/lectura.md) · transcripción; lectura editorial pendiente
+- [106 · El Tercer Torneo de Sho](../derivados/106/lectura.md) · transcripción; lectura editorial pendiente
+- [107 · El Perdón](../derivados/107/lectura.md) · transcripción; lectura editorial pendiente
+- [108 · La magia de Ootakemaru](../derivados/108/lectura.md) · transcripción; lectura editorial pendiente
+- [109 · Las Defensas de la Puerta](../derivados/109/lectura.md) · transcripción; lectura editorial pendiente
+- [110 · Sacrificios](../derivados/110/lectura.md) · transcripción; lectura editorial pendiente
+- [111 · La Muerte del Shogun](../derivados/111/lectura.md) · transcripción; lectura editorial pendiente
+- [112 · Los Muertos de Ootakemaru](../derivados/112/lectura.md) · transcripción; lectura editorial pendiente
+- [113 · Invento Fallido](../derivados/113/lectura.md) · transcripción; lectura editorial pendiente
+- [114 · Atracción Sombría](../derivados/114/lectura.md) · transcripción; lectura editorial pendiente
+- [115 · En la Mesa de Fukami-hime](../derivados/115/lectura.md) · transcripción; lectura editorial pendiente
+- [116 · Otro Templo Cultista](../derivados/116/lectura.md) · transcripción; lectura editorial pendiente
+- [117 · El Espejo del Pacto](../derivados/117/lectura.md) · transcripción; lectura editorial pendiente
+- [118 · Isla Espejismo](../derivados/118/lectura.md) · transcripción; lectura editorial pendiente
+- [119 · Sin Dinero no se Gana una Guerra](../derivados/119/lectura.md) · transcripción; lectura editorial pendiente
+- [120 · El Hilo Maldito Parte 1](../derivados/120/lectura.md) · transcripción; lectura editorial pendiente
+- [121 · El Monasterio Perdido](../derivados/121/lectura.md) · transcripción; lectura editorial pendiente
+- [122 · Sorpresa! Pide un Deseo](../derivados/122/lectura.md) · transcripción; lectura editorial pendiente
+- [123 · La Importancia de la Economía](../derivados/123/lectura.md) · transcripción; lectura editorial pendiente
+- [124 · El Avatar del Asesinato](../derivados/124/lectura.md) · transcripción; lectura editorial pendiente
+- [125 · El Hilo Maldito Parte 2](../derivados/125/lectura.md) · transcripción; lectura editorial pendiente
+- [126 · Gur-Icidio](../derivados/126/lectura.md) · transcripción; lectura editorial pendiente
+- [127 · Grumete Borracho](../derivados/127/lectura.md) · transcripción; lectura editorial pendiente
+- [128 · Apuestas en los Bajos Fondos](../derivados/128/lectura.md) · transcripción; lectura editorial pendiente
+- [129 · La Puerta Negra Parte 3](../derivados/129/lectura.md) · transcripción; lectura editorial pendiente
+- [130 · El Hilo Maldito Parte 3](../derivados/130/lectura.md) · transcripción; lectura editorial pendiente
+- [131 · Bienvenidos a Xoltacan](../derivados/131/lectura.md) · transcripción; lectura editorial pendiente
+- [132 · Miniyos](../derivados/132/lectura.md) · transcripción; lectura editorial pendiente
+- [133 · Traición en el Shogunato](../derivados/133/lectura.md) · transcripción; lectura editorial pendiente
+- [134 · Catástrofe](../derivados/134/lectura.md) · transcripción; lectura editorial pendiente
+- [135 · El Último Baile](https://www.youtube.com/watch?v=SyXIdBFD7Os) · transcripción pendiente
+- [136 · Las Votaciones](https://www.youtube.com/watch?v=t33F7z6KUNo) · transcripción pendiente
+- [137 · Nuevo Shogun](../derivados/137/lectura.md) · transcripción; lectura editorial pendiente
+- [138 · Intento de Asesinato](../derivados/138/lectura.md) · transcripción; lectura editorial pendiente
+- [139 · Los Muertos de Jigoku No Mori](../derivados/139/lectura.md) · transcripción; lectura editorial pendiente
+- [140 · Hierbas en el Bosque](../derivados/140/lectura.md) · transcripción; lectura editorial pendiente
+- [141 · De Piratas va la Cosa](../derivados/141/lectura.md) · transcripción; lectura editorial pendiente
+- [142 · De Compras](../derivados/142/lectura.md) · transcripción; lectura editorial pendiente
+- [143 · El Nox](../derivados/143/lectura.md) · transcripción; lectura editorial pendiente
+- [144 · Una Obra en la Casa del Té](../derivados/144/lectura.md) · transcripción; lectura editorial pendiente
+- [145 · Regreso ante el Guardián](../derivados/145/lectura.md) · transcripción; lectura editorial pendiente
+- [146 · Juegos en el Spa](../derivados/146/lectura.md) · transcripción; lectura editorial pendiente
+- [147 · Ratas!](../derivados/147/lectura.md) · transcripción; lectura editorial pendiente
+- [148 · La Llegada de las Mareas](../derivados/148/lectura.md) · transcripción; lectura editorial pendiente
+- [149 · Muertos en el Bosque](../derivados/149/lectura.md) · transcripción; lectura editorial pendiente
+- [150 · La Mascarada](../derivados/150/lectura.md) · transcripción; lectura editorial pendiente
+- [151 · Replantar el Bosque](../derivados/151/lectura.md) · transcripción; lectura editorial pendiente
+- [152 · Tratos y Espadas](../derivados/152/lectura.md) · transcripción; lectura editorial pendiente
+- [153 · La Tumba del Bosque](../derivados/153/lectura.md) · transcripción; lectura editorial pendiente
+- [154 · Reino Bajo el Mar Parte 1](../derivados/154/lectura.md) · transcripción; lectura editorial pendiente
+- [155 · Reino Bajo el Mar Parte 2](../derivados/155/lectura.md) · transcripción; lectura editorial pendiente
+- [156 · Beso de Sangre](../derivados/156/lectura.md) · transcripción; lectura editorial pendiente
+- [157 · Las Pruebas de Banzo](../derivados/157/lectura.md) · transcripción; lectura editorial pendiente
+- [158 · Iluminar la Oscuridad](../derivados/158/lectura.md) · transcripción; lectura editorial pendiente
+- [159 · El Portal](../derivados/159/lectura.md) · transcripción; lectura editorial pendiente
+- [160 · Caballeros de la Muerte](../derivados/160/lectura.md) · transcripción; lectura editorial pendiente
+- [161 · Grumete de Poca Monta](../derivados/161/lectura.md) · transcripción; lectura editorial pendiente
+- [162 · Salvar al Gnomo](../derivados/162/lectura.md) · transcripción; lectura editorial pendiente
+- [163 · Nuevo Torneo de Sho](../derivados/163/lectura.md) · transcripción; lectura editorial pendiente
+- [164 · El Ultimo Templo Cultista](../derivados/164/lectura.md) · transcripción; lectura editorial pendiente
+- [165 · Viaje a Cono Sur](../derivados/165/lectura.md) · transcripción; lectura editorial pendiente
+- [166 · Ejército de la Muerte](../derivados/166/lectura.md) · transcripción; lectura editorial pendiente
+- [167 · Tercera Oleada](../derivados/167/lectura.md) · transcripción; lectura editorial pendiente
+- [168 · Atrapados en la Telaraña](../derivados/168/lectura.md) · transcripción; lectura editorial pendiente
+- [169 · Relámpagos del Oeste](../derivados/169/lectura.md) · transcripción; lectura editorial pendiente
+- [170 · Asalto al Sur](../derivados/170/lectura.md) · transcripción; lectura editorial pendiente
+- [171 · La Muerte es el Principio](../derivados/171/lectura.md) · transcripción; lectura editorial pendiente
+- [172 · Festival Demoníaco](../derivados/172/lectura.md) · transcripción; lectura editorial pendiente
+- [173 · Inundación en el Este](../derivados/173/lectura.md) · transcripción; lectura editorial pendiente
+- [174 · Corrosión Abisal](../derivados/174/lectura.md) · transcripción; lectura editorial pendiente
+- [175 · Pedregada en el Norte](../derivados/175/lectura.md) · transcripción; lectura editorial pendiente
+- [176 · Tú me perteneces](../derivados/176/lectura.md) · transcripción; lectura editorial pendiente
+- [177 · Llamarada en el Sur](../derivados/177/lectura.md) · transcripción; lectura editorial pendiente
+- [178 · Fuego del Abismo](../derivados/178/lectura.md) · transcripción; lectura editorial pendiente
+- [179 · El Resurgir del Guardian](../derivados/179/lectura.md) · transcripción; lectura editorial pendiente
+- [180 · La Guarida del Demonio](../derivados/180/lectura.md) · transcripción; lectura editorial pendiente
+- [181 · Ootakemaru](../derivados/181/lectura.md) · transcripción; lectura editorial pendiente
+- [182 · Hasta Pronto Kuroto!](../derivados/182/lectura.md) · transcripción; lectura editorial pendiente

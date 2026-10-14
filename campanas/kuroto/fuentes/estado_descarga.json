@@ -1,7 +1,31 @@
 {
-  "capitulo": 1,
+  "estado": "descarga_parcial",
   "fecha": "2026-10-14",
-  "estado": "bloqueado_youtube",
-  "detalle": "YouTube devuelve HTTP 429 y solicita iniciar sesión al intentar recuperar los subtítulos. Reintento con Node.js: mismo resultado.",
-  "sin_subtitulos_confirmado": false
+  "capitulos_con_subtitulos": 178,
+  "capitulos_pendientes": [
+    96,
+    135,
+    136
+  ],
+  "incidencias": [
+    {
+      "capitulo": 96,
+      "estado": "sin_subtitulos",
+      "detalle": "La consulta --list-subs no devuelve subtítulos manuales ni automáticos; comprobado el 14 de octubre de 2026.",
+      "sin_subtitulos_confirmado": true
+    },
+    {
+      "capitulo": 135,
+      "estado": "sin_subtitulos",
+      "detalle": "La consulta --list-subs no devuelve subtítulos manuales ni automáticos; comprobado el 14 de octubre de 2026.",
+      "sin_subtitulos_confirmado": true
+    },
+    {
+      "capitulo": 136,
+      "estado": "sin_subtitulos",
+      "detalle": "La consulta --list-subs no devuelve subtítulos manuales ni automáticos; comprobado el 14 de octubre de 2026.",
+      "sin_subtitulos_confirmado": true
+    }
+  ],
+  "procedimiento": "Equivalente a xoltacan_subtitulos/descargar_subtitulos.py: es.*, vtt/best, no-overwrites, ignore-errors; sin descarga audiovisual"
 }

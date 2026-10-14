@@ -1,0 +1,527 @@
+{
+  "capitulo": 1,
+  "estado_revision": "revisado",
+  "fuente_sha256": "f0d2461a37372828725ace83c1f94870eea24e665380127d2b98bf5a8f2a13b6",
+  "resumen": "La compañía empieza esta historia con experiencia compartida: sus cuatro cazadores ya han viajado y matado yokai juntos. Su nueva parada es Ukio, un pequeño poblado agrícola de casas de madera. En la taberna conocen a Kitaro, que les habla de un problema que va más allá de un monstruo en el camino: el bosque del que los vecinos obtienen fruta se ha vuelto peligroso. Los kappa del río suelen ser pacíficos si no se les molesta; la amenaza que preocupa al pueblo es una comadreja de cuchillas, responsable según el relato local de heridas terribles. Entre bromas y negociaciones por la fiesta de recompensa, aceptan intervenir. Antes de partir hay un intento de venta en la herrería que queda pendiente de cobro. Una vecina les señala el norte y los cazadores llegan al Bosque del Infierno. Tokugawa abre un paso a golpes mientras Leonardo advierte de los riesgos mediante haikus; ni el intento de atar al paladín ni la exploración de las alturas resuelven su desordenada marcha. Al alcanzar un río envuelto en niebla encuentran tres kappa. Aunque Kitaro había advertido que no suelen atacar sin provocación, la aproximación inquieta a las criaturas y termina en combate. El grupo mata a las tres y después investiga el agua que guardan en la cabeza, aprendiendo su función sin conseguir revivirlas. Siguiendo el curso del río, los troncos marcados y cercenados anuncian la cercanía de otro enemigo. El sigilo falla y una comadreja extraordinariamente veloz hiere a Tokugawa antes de lanzarse sobre Sun Gukon. El monje queda muy malherido. La compañía tiene que combinar golpes, curaciones y posiciones: Tokugawa infunde miedo al depredador y lo aparta de sus compañeros; Talos se teletransporta para esconderse y disparar, mientras Leonardo insiste con sus espadas. Finalmente el samurái decapita al adversario. La victoria tiene una segunda vuelta inesperada cuando una poción aplicada por error al enemigo lo hace levantarse; Tokugawa obtiene la oportunidad de atacarlo y la compañía vuelve a acabar con él. El episodio trata esa vuelta como consecuencia cómica del error, sin establecer una capacidad propia del monstruo. Los cazadores recogen la cabeza y cortan las cuchillas como trofeos antes de volver por el camino que habían abierto. En Ukio, un miembro del grupo pregunta al herrero si las hojas servirían para fabricar equipo. No se concreta todavía esa transformación: el artesano reconoce las cuchillas y sale a pregonar la muerte del yokai. La noticia atrae a los vecinos y Kitaro señala a los recién llegados como sus héroes. Sun Gukon empieza a contar la batalla con adornos que el público no termina de creer; los trofeos, en cambio, confirman que el depredador ha caído. Mientras Leonardo y Talos descansan, Tokugawa y Sun Gukon participan en la celebración. Kitaro promete un banquete y, cuando la compañía vuelve a reunirse, sirve comida entre la música y el júbilo del pueblo. La primera aventura acaba con el encargo del bosque resuelto y los cazadores reconocidos como héroes de la aldea. El director cierra anunciando nuevas cacerías por Kuroto; la charla posterior sobre otras campañas pertenece a la mesa y no añade acontecimientos a esta historia.",
+  "afirmaciones": [
+    {
+      "id": "01-001",
+      "titulo": "Una compañía que ya se conoce",
+      "afirmacion": "El director presenta a los protagonistas como un grupo de cazadores de yokai que lleva tiempo viajando y combatiendo juntos por Kuroto. No se escenifica aquí su primer encuentro.",
+      "inicio": "00:00:42.000",
+      "fin": "00:01:15.999",
+      "cita": "habéis matado",
+      "tipo": "explicacion_director",
+      "entidades": [
+        "Kuroto"
+      ],
+      "ambito": "Primera aventura de los cazadores de yokai",
+      "confianza": "Alta para el acontecimiento; grafías sujetas al reconocimiento automático",
+      "conocimiento_personaje": "desconocido",
+      "conocedores": [],
+      "limitacion": ""
+    },
+    {
+      "id": "01-002",
+      "titulo": "La petición de ayuda de Ukio",
+      "afirmacion": "Los cazadores llegan a un poblado agrícola llamado Ukio por el reconocimiento, con casas de madera, una taberna, herrero y alquimista. Sus habitantes solicitan ayuda con el bosque cercano.",
+      "inicio": "00:01:15.000",
+      "fin": "00:01:56.999",
+      "cita": "agricultura es bastante floral",
+      "tipo": "explicacion_director",
+      "entidades": [
+        "Ukio (grafía provisional)"
+      ],
+      "ambito": "Primera aventura de los cazadores de yokai",
+      "confianza": "Alta para el acontecimiento; grafías sujetas al reconocimiento automático",
+      "conocimiento_personaje": "desconocido",
+      "conocedores": [],
+      "limitacion": "El cierre reconoce también kioto. No se fija una ortografía definitiva del pueblo."
+    },
+    {
+      "id": "01-003",
+      "titulo": "El tabernero escucha a los visitantes",
+      "afirmacion": "En la taberna, el grupo pide bebidas y conversa con el dueño. Durante las presentaciones aparece el nombre del Loto Blanco, pero esta primera mención no aclara su organización ni permite asignar con seguridad la frase a un personaje.",
+      "inicio": "00:05:39.000",
+      "fin": "00:06:28.999",
+      "cita": "loto blanco nunca había conocido",
+      "tipo": "declaracion_personaje",
+      "entidades": [
+        "Kitaro (grafía provisional)"
+      ],
+      "ambito": "Primera aventura de los cazadores de yokai",
+      "confianza": "Alta para el acontecimiento; grafías sujetas al reconocimiento automático",
+      "conocimiento_personaje": "desconocido",
+      "conocedores": [],
+      "limitacion": "La mención del Loto Blanco queda sin ficha de facción hasta contrastar identidad y contexto. Las bromas sobre Nueva York no se incorporan como geografía confirmada."
+    },
+    {
+      "id": "01-004",
+      "titulo": "El bosque sostiene a la aldea",
+      "afirmacion": "El tabernero explica que los aldeanos recogen frutas en el bosque vecino, al que la mesa llama Bosque del Infierno. Los ataques recientes amenazan ese sustento.",
+      "inicio": "00:08:36.000",
+      "fin": "00:10:24.999",
+      "cita": "recoger ahí frutas",
+      "tipo": "declaracion_personaje",
+      "entidades": [
+        "Ukio (grafía provisional)",
+        "Bosque del Infierno",
+        "Kitaro (grafía provisional)"
+      ],
+      "ambito": "Primera aventura de los cazadores de yokai",
+      "confianza": "Alta para el acontecimiento; grafías sujetas al reconocimiento automático",
+      "conocimiento_personaje": "desconocido",
+      "conocedores": [],
+      "limitacion": "El nombre japonés oscila en la transcripción; se usa la traducción pronunciada durante la sesión."
+    },
+    {
+      "id": "01-005",
+      "titulo": "El nombre del anfitrión",
+      "afirmacion": "El tabernero se presenta con un nombre reconocido como quitaro. Se conserva Kitaro como etiqueta provisional de esta identidad.",
+      "inicio": "00:11:44.000",
+      "fin": "00:12:02.999",
+      "cita": "me llamo me llamo quitaro",
+      "tipo": "declaracion_personaje",
+      "entidades": [
+        "Kitaro (grafía provisional)"
+      ],
+      "ambito": "Primera aventura de los cazadores de yokai",
+      "confianza": "Alta para el acontecimiento; grafías sujetas al reconocimiento automático",
+      "conocimiento_personaje": "desconocido",
+      "conocedores": [],
+      "limitacion": ""
+    },
+    {
+      "id": "01-006",
+      "titulo": "La amenaza de las cuchillas",
+      "afirmacion": "El relato local distingue a los kappa del río, que no suelen molestar si no se les provoca, de una comadreja con cuchillas en manos y pies. A esta última se atribuyen cortes graves e incluso miembros perdidos entre los supervivientes.",
+      "inicio": "00:12:13.000",
+      "fin": "00:13:05.999",
+      "cita": "cuchillas en las manos y en los pies",
+      "tipo": "declaracion_personaje",
+      "entidades": [
+        "Kitaro (grafía provisional)",
+        "Bosque del Infierno",
+        "Kamaitachi (identificación provisional)"
+      ],
+      "ambito": "Primera aventura de los cazadores de yokai",
+      "confianza": "Alta para el acontecimiento; grafías sujetas al reconocimiento automático",
+      "conocimiento_personaje": "desconocido",
+      "conocedores": [],
+      "limitacion": "Son testimonios que motivan el encargo; el grupo todavía no ha visto al agresor."
+    },
+    {
+      "id": "01-007",
+      "titulo": "Una venta aplazada en la herrería",
+      "afirmacion": "Uno de los cazadores intenta vender jabalinas al herrero. Como el comerciante declara no disponer de dinero, acuerdan dejarlas para su venta y hablar después del cobro.",
+      "inicio": "00:17:54.000",
+      "fin": "00:19:36.999",
+      "cita": "si me las dejas y las",
+      "tipo": "hecho_confirmado",
+      "entidades": [
+        "Ukio (grafía provisional)"
+      ],
+      "ambito": "Primera aventura de los cazadores de yokai",
+      "confianza": "Alta para el acontecimiento; grafías sujetas al reconocimiento automático",
+      "conocimiento_personaje": "desconocido",
+      "conocedores": [],
+      "limitacion": "La escena no confirma que se pague la venta ni atribuye una cifra cobrada."
+    },
+    {
+      "id": "01-008",
+      "titulo": "El camino hacia el norte",
+      "afirmacion": "Una vecina indica que el bosque queda hacia el norte, a aproximadamente media hora a pie. Los cazadores abandonan el pueblo y alcanzan un bosque muy espeso, con niebla, mientras el camino principal gira hacia el oeste y las montañas.",
+      "inicio": "00:21:00.000",
+      "fin": "00:24:24.999",
+      "cita": "hacia el norte no muy",
+      "tipo": "hecho_confirmado",
+      "entidades": [
+        "Ukio (grafía provisional)",
+        "Bosque del Infierno"
+      ],
+      "ambito": "Primera aventura de los cazadores de yokai",
+      "confianza": "Alta para el acontecimiento; grafías sujetas al reconocimiento automático",
+      "conocimiento_personaje": "desconocido",
+      "conocedores": [],
+      "limitacion": ""
+    },
+    {
+      "id": "01-009",
+      "titulo": "Tokugawa abre paso entre los árboles",
+      "afirmacion": "Tokugawa avanza cortando ramas con su arma. El intento de atarlo para controlar su marcha termina con un codazo accidental al compañero que se acerca; después se disculpa. Leonardo acompaña la expedición con advertencias en forma de haiku.",
+      "inicio": "00:25:08.000",
+      "fin": "00:28:33.999",
+      "cita": "perdona",
+      "tipo": "hecho_confirmado",
+      "entidades": [
+        "Tokugawa",
+        "Leonardo",
+        "Bosque del Infierno"
+      ],
+      "ambito": "Primera aventura de los cazadores de yokai",
+      "confianza": "Alta para el acontecimiento; grafías sujetas al reconocimiento automático",
+      "conocimiento_personaje": "desconocido",
+      "conocedores": [],
+      "limitacion": "Dronos y otros nombres usados en la mesa no se convierten en personajes adicionales: la narración llama Tokugawa al paladín."
+    },
+    {
+      "id": "01-010",
+      "titulo": "Tres figuras junto al río",
+      "afirmacion": "En una zona de niebla, el grupo distingue tres figuras pequeñas y reconoce kappa de aspecto semejante a tortugas bípedas, con agua en una cavidad de la cabeza. Al aproximarse los cazadores, las criaturas se inquietan y comienza el enfrentamiento.",
+      "inicio": "00:37:00.000",
+      "fin": "00:40:34.999",
+      "cita": "llevan agua aquí en",
+      "tipo": "hecho_confirmado",
+      "entidades": [
+        "Bosque del Infierno"
+      ],
+      "ambito": "Primera aventura de los cazadores de yokai",
+      "confianza": "Alta para el acontecimiento; grafías sujetas al reconocimiento automático",
+      "conocimiento_personaje": "desconocido",
+      "conocedores": [],
+      "limitacion": "La advertencia previa era evitar provocarlos; no se presenta este combate como prueba de que los kappa fueran los mutiladores."
+    },
+    {
+      "id": "01-011",
+      "titulo": "Los nombres y especialidades del grupo",
+      "afirmacion": "La mesa identifica a Leonardo como samurái, a Sun Gukon como monje de la Mano Abierta, a Talos como pícaro asesino y a Tokugawa como paladín. Talos corrige expresamente su nombre.",
+      "inicio": "00:50:09.000",
+      "fin": "00:50:32.999",
+      "cita": "Mi nombre es talos",
+      "tipo": "explicacion_director",
+      "entidades": [
+        "Leonardo",
+        "Sun Gukon (grafía provisional)",
+        "Talos",
+        "Tokugawa"
+      ],
+      "ambito": "Primera aventura de los cazadores de yokai",
+      "confianza": "Alta para el acontecimiento; grafías sujetas al reconocimiento automático",
+      "conocimiento_personaje": "desconocido",
+      "conocedores": [],
+      "limitacion": "Sun Gukon aparece reconocido con variantes gucón, sungukon y son gucón. No se impone la grafía del personaje mitológico."
+    },
+    {
+      "id": "01-012",
+      "titulo": "Los golpes de Sun Gukon",
+      "afirmacion": "Durante el combate del río, Sun Gukon mata con su bastón a un kappa que intentaba retirarse hacia el agua. Más adelante remata con otro golpe al último adversario.",
+      "inicio": "00:56:03.000",
+      "fin": "01:03:16.999",
+      "cita": "le mete un palazo",
+      "tipo": "hecho_confirmado",
+      "entidades": [
+        "Sun Gukon (grafía provisional)",
+        "Bosque del Infierno"
+      ],
+      "ambito": "Primera aventura de los cazadores de yokai",
+      "confianza": "Alta para el acontecimiento; grafías sujetas al reconocimiento automático",
+      "conocimiento_personaje": "desconocido",
+      "conocedores": [],
+      "limitacion": "La cronología completa del combate está en la transcripción; no se atribuyen al monje las tres muertes."
+    },
+    {
+      "id": "01-013",
+      "titulo": "El grupo derrota a los kappa",
+      "afirmacion": "Los tres kappa acaban muertos. Uno queda ennegrecido por la magia y otros dos caen por golpes en la cabeza. Tokugawa ayuda a recuperar fuerzas a Leonardo después del combate.",
+      "inicio": "01:03:01.000",
+      "fin": "01:04:04.999",
+      "cita": "restauras un poquito de vida",
+      "tipo": "hecho_confirmado",
+      "entidades": [
+        "Tokugawa",
+        "Leonardo",
+        "Bosque del Infierno"
+      ],
+      "ambito": "Primera aventura de los cazadores de yokai",
+      "confianza": "Alta para el acontecimiento; grafías sujetas al reconocimiento automático",
+      "conocimiento_personaje": "desconocido",
+      "conocedores": [],
+      "limitacion": ""
+    },
+    {
+      "id": "01-014",
+      "titulo": "La función del agua de los kappa",
+      "afirmacion": "Tras examinar a las criaturas y poner agua en la cavidad de una cabeza, los cazadores observan una reacción del tejido. El director explica que la reserva les permite respirar fuera del agua; el experimento no revive al muerto.",
+      "inicio": "01:04:34.000",
+      "fin": "01:06:17.999",
+      "cita": "para respirar bajo fuera del agua",
+      "tipo": "explicacion_director",
+      "entidades": [
+        "Bosque del Infierno"
+      ],
+      "ambito": "Primera aventura de los cazadores de yokai",
+      "confianza": "Alta para el acontecimiento; grafías sujetas al reconocimiento automático",
+      "conocimiento_personaje": "desconocido",
+      "conocedores": [],
+      "limitacion": ""
+    },
+    {
+      "id": "01-015",
+      "titulo": "Los árboles cortados anuncian al depredador",
+      "afirmacion": "Siguiendo el río, los cazadores encuentran un claro con troncos marcados y cortados por cuchillas. Los intentos de aproximación sigilosa no funcionan y una criatura veloz hiere a Tokugawa al pasar junto a su cara.",
+      "inicio": "01:07:07.000",
+      "fin": "01:11:12.999",
+      "cita": "marcas como de cuchillas",
+      "tipo": "hecho_confirmado",
+      "entidades": [
+        "Tokugawa",
+        "Bosque del Infierno",
+        "Kamaitachi (identificación provisional)"
+      ],
+      "ambito": "Primera aventura de los cazadores de yokai",
+      "confianza": "Alta para el acontecimiento; grafías sujetas al reconocimiento automático",
+      "conocimiento_personaje": "desconocido",
+      "conocedores": [],
+      "limitacion": ""
+    },
+    {
+      "id": "01-016",
+      "titulo": "La comadreja ataca al monje",
+      "afirmacion": "El adversario, reconocido como kamachi y variantes, es una comadreja con cuchillas. Se desplaza con enorme rapidez y dirige dos ataques contra Sun Gukon, dejándolo gravemente herido.",
+      "inicio": "01:11:23.000",
+      "fin": "01:14:16.999",
+      "cita": "comadreja con cuchillas",
+      "tipo": "hecho_confirmado",
+      "entidades": [
+        "Kamaitachi (identificación provisional)",
+        "Sun Gukon (grafía provisional)",
+        "Bosque del Infierno"
+      ],
+      "ambito": "Primera aventura de los cazadores de yokai",
+      "confianza": "Alta para el acontecimiento; grafías sujetas al reconocimiento automático",
+      "conocimiento_personaje": "desconocido",
+      "conocedores": [],
+      "limitacion": "Kamaitachi es una identificación contextual provisional, no una grafía comprobada en el audio o en una ficha oficial."
+    },
+    {
+      "id": "01-017",
+      "titulo": "Tokugawa crea una oportunidad",
+      "afirmacion": "El paladín provoca miedo en la criatura. Luego la empuja y se coloca para proteger a sus amigos; el relato indica que el daño de relámpago no le afecta. El grupo sigue peleando entre curaciones y movimientos de flanqueo.",
+      "inicio": "01:21:25.000",
+      "fin": "01:24:50.999",
+      "cita": "no te acerques a mis",
+      "tipo": "hecho_confirmado",
+      "entidades": [
+        "Tokugawa",
+        "Kamaitachi (identificación provisional)",
+        "Sun Gukon (grafía provisional)",
+        "Leonardo"
+      ],
+      "ambito": "Primera aventura de los cazadores de yokai",
+      "confianza": "Alta para el acontecimiento; grafías sujetas al reconocimiento automático",
+      "conocimiento_personaje": "desconocido",
+      "conocedores": [],
+      "limitacion": "El efecto observado se limita a este adversario y esta escena; no se generaliza a todos los yokai de la misma especie."
+    },
+    {
+      "id": "01-018",
+      "titulo": "Talos busca una posición de tiro",
+      "afirmacion": "Talos utiliza la Bendición de la Reina Cuervo para teletransportarse y esconderse entre los árboles. Más adelante dispara desde su posición al adversario que combate con sus compañeros.",
+      "inicio": "01:18:35.000",
+      "fin": "01:28:35.999",
+      "cita": "me escondo entre los árboles",
+      "tipo": "hecho_confirmado",
+      "entidades": [
+        "Talos",
+        "Kamaitachi (identificación provisional)"
+      ],
+      "ambito": "Primera aventura de los cazadores de yokai",
+      "confianza": "Alta para el acontecimiento; grafías sujetas al reconocimiento automático",
+      "conocimiento_personaje": "desconocido",
+      "conocedores": [],
+      "limitacion": ""
+    },
+    {
+      "id": "01-019",
+      "titulo": "Leonardo decapita al adversario",
+      "afirmacion": "Después de un combate prolongado, Leonardo asesta el golpe final, describe un corte a la cabeza y limpia su katana antes de envainarla. El director narra la caída del yokai.",
+      "inicio": "01:32:37.000",
+      "fin": "01:34:17.999",
+      "cita": "limpio mi catana",
+      "tipo": "hecho_confirmado",
+      "entidades": [
+        "Leonardo",
+        "Kamaitachi (identificación provisional)"
+      ],
+      "ambito": "Primera aventura de los cazadores de yokai",
+      "confianza": "Alta para el acontecimiento; grafías sujetas al reconocimiento automático",
+      "conocimiento_personaje": "desconocido",
+      "conocedores": [],
+      "limitacion": ""
+    },
+    {
+      "id": "01-020",
+      "titulo": "La poción y la segunda muerte",
+      "afirmacion": "Un error de selección de objetivo al usar una poción se convierte en una escena cómica: el yokai vuelve a levantarse con la cabeza colgando. El director permite a Tokugawa atacarlo y el grupo acaba con él por segunda vez.",
+      "inicio": "01:35:20.000",
+      "fin": "01:37:54.999",
+      "cita": "acabáis con el kamachi",
+      "tipo": "hecho_confirmado",
+      "entidades": [
+        "Tokugawa",
+        "Talos",
+        "Kamaitachi (identificación provisional)"
+      ],
+      "ambito": "Primera aventura de los cazadores de yokai",
+      "confianza": "Alta para el acontecimiento; grafías sujetas al reconocimiento automático",
+      "conocimiento_personaje": "desconocido",
+      "conocedores": [],
+      "limitacion": "El reconocimiento alterna nombres del jugador y el personaje. La escena no demuestra una facultad natural de resurrección del yokai ni una regla general sobre las pociones."
+    },
+    {
+      "id": "01-021",
+      "titulo": "Los trofeos del bosque",
+      "afirmacion": "El grupo recoge la cabeza como prueba de la muerte del agresor y separa las cuchillas del cadáver. Se describen como hojas pequeñas, similares a guadañas de mano y fáciles de guardar.",
+      "inicio": "01:38:01.000",
+      "fin": "01:40:20.999",
+      "cita": "dos hojas de guadaña",
+      "tipo": "hecho_confirmado",
+      "entidades": [
+        "Kamaitachi (identificación provisional)",
+        "Cuchillas del kamaitachi"
+      ],
+      "ambito": "Primera aventura de los cazadores de yokai",
+      "confianza": "Alta para el acontecimiento; grafías sujetas al reconocimiento automático",
+      "conocimiento_personaje": "desconocido",
+      "conocedores": [],
+      "limitacion": ""
+    },
+    {
+      "id": "01-022",
+      "titulo": "El herrero reconoce las cuchillas",
+      "afirmacion": "De regreso en Ukio, uno de los cazadores enseña las cuchillas al herrero y pregunta si podría convertirlas en equipo. El herrero reconoce su origen y sale a anunciar la muerte del depredador; no llega a fabricar un arma en esta sesión.",
+      "inicio": "01:44:08.000",
+      "fin": "01:45:25.999",
+      "cita": "crear equipo",
+      "tipo": "hecho_confirmado",
+      "entidades": [
+        "Ukio (grafía provisional)",
+        "Cuchillas del kamaitachi",
+        "Kamaitachi (identificación provisional)"
+      ],
+      "ambito": "Primera aventura de los cazadores de yokai",
+      "confianza": "Alta para el acontecimiento; grafías sujetas al reconocimiento automático",
+      "conocimiento_personaje": "desconocido",
+      "conocedores": [],
+      "limitacion": "La escena no confirma un encargo cerrado, un precio, propiedades mágicas ni una identidad inequívoca del portador en este pasaje."
+    },
+    {
+      "id": "01-023",
+      "titulo": "El pueblo celebra la victoria",
+      "afirmacion": "Kitaro presenta a los cazadores como héroes y la noticia reúne a los vecinos. Sun Gukon cuenta la batalla, aunque sus exageraciones despiertan dudas; la presencia de las cuchillas respalda la victoria. Tokugawa y el monje beben mientras Leonardo y Talos descansan.",
+      "inicio": "01:46:04.000",
+      "fin": "01:50:51.999",
+      "cita": "han sido los héroes",
+      "tipo": "hecho_confirmado",
+      "entidades": [
+        "Kitaro (grafía provisional)",
+        "Ukio (grafía provisional)",
+        "Sun Gukon (grafía provisional)",
+        "Tokugawa",
+        "Leonardo",
+        "Talos",
+        "Cuchillas del kamaitachi"
+      ],
+      "ambito": "Primera aventura de los cazadores de yokai",
+      "confianza": "Alta para el acontecimiento; grafías sujetas al reconocimiento automático",
+      "conocimiento_personaje": "desconocido",
+      "conocedores": [],
+      "limitacion": ""
+    },
+    {
+      "id": "01-024",
+      "titulo": "El banquete reúne a la compañía",
+      "afirmacion": "Al terminar el descanso, los cazadores se reúnen en la taberna entre música, bebida y comida servida por Kitaro. La sesión termina con la victoria celebrada y la promesa narrativa de nuevas cacerías por Kuroto.",
+      "inicio": "01:51:44.000",
+      "fin": "01:54:35.999",
+      "cita": "seguirán cazando yokais",
+      "tipo": "hecho_confirmado",
+      "entidades": [
+        "Kitaro (grafía provisional)",
+        "Ukio (grafía provisional)",
+        "Kuroto",
+        "Leonardo",
+        "Sun Gukon (grafía provisional)",
+        "Tokugawa",
+        "Talos"
+      ],
+      "ambito": "Primera aventura de los cazadores de yokai",
+      "confianza": "Alta para el acontecimiento; grafías sujetas al reconocimiento automático",
+      "conocimiento_personaje": "desconocido",
+      "conocedores": [],
+      "limitacion": ""
+    }
+  ],
+  "historia": {
+    "revisado_hasta": 1,
+    "etapas": [
+      {
+        "titulo": "Una aldea pide auxilio",
+        "texto": "La compañía empieza esta historia con experiencia compartida: sus cuatro cazadores ya han viajado y matado yokai juntos. Su nueva parada es Ukio, un pequeño poblado agrícola de casas de madera. En la taberna conocen a Kitaro, que les habla de un problema que va más allá de un monstruo en el camino: el bosque del que los vecinos obtienen fruta se ha vuelto peligroso. Los kappa del río suelen ser pacíficos si no se les molesta; la amenaza que preocupa al pueblo es una comadreja de cuchillas, responsable según el relato local de heridas terribles. Entre bromas y negociaciones por la fiesta de recompensa, aceptan intervenir.",
+        "referencias": [
+          "01-001",
+          "01-002",
+          "01-004",
+          "01-005",
+          "01-006"
+        ]
+      },
+      {
+        "titulo": "Del sake al río",
+        "texto": "Antes de partir hay un intento de venta en la herrería que queda pendiente de cobro. Una vecina les señala el norte y los cazadores llegan al Bosque del Infierno. Tokugawa abre un paso a golpes mientras Leonardo advierte de los riesgos mediante haikus; ni el intento de atar al paladín ni la exploración de las alturas resuelven su desordenada marcha. Al alcanzar un río envuelto en niebla encuentran tres kappa. Aunque Kitaro había advertido que no suelen atacar sin provocación, la aproximación inquieta a las criaturas y termina en combate. El grupo mata a las tres y después investiga el agua que guardan en la cabeza, aprendiendo su función sin conseguir revivirlas.",
+        "referencias": [
+          "01-007",
+          "01-008",
+          "01-009",
+          "01-010",
+          "01-012",
+          "01-013",
+          "01-014"
+        ]
+      },
+      {
+        "titulo": "Las cuchillas salen de la niebla",
+        "texto": "Siguiendo el curso del río, los troncos marcados y cercenados anuncian la cercanía de otro enemigo. El sigilo falla y una comadreja extraordinariamente veloz hiere a Tokugawa antes de lanzarse sobre Sun Gukon. El monje queda muy malherido. La compañía tiene que combinar golpes, curaciones y posiciones: Tokugawa infunde miedo al depredador y lo aparta de sus compañeros; Talos se teletransporta para esconderse y disparar, mientras Leonardo insiste con sus espadas. Finalmente el samurái decapita al adversario. La victoria tiene una segunda vuelta inesperada cuando una poción aplicada por error al enemigo lo hace levantarse; Tokugawa obtiene la oportunidad de atacarlo y la compañía vuelve a acabar con él. El episodio trata esa vuelta como consecuencia cómica del error, sin establecer una capacidad propia del monstruo.",
+        "referencias": [
+          "01-015",
+          "01-016",
+          "01-017",
+          "01-018",
+          "01-019",
+          "01-020"
+        ]
+      },
+      {
+        "titulo": "Pruebas de la cacería",
+        "texto": "Los cazadores recogen la cabeza y cortan las cuchillas como trofeos antes de volver por el camino que habían abierto. En Ukio, un miembro del grupo pregunta al herrero si las hojas servirían para fabricar equipo. No se concreta todavía esa transformación: el artesano reconoce las cuchillas y sale a pregonar la muerte del yokai. La noticia atrae a los vecinos y Kitaro señala a los recién llegados como sus héroes. Sun Gukon empieza a contar la batalla con adornos que el público no termina de creer; los trofeos, en cambio, confirman que el depredador ha caído.",
+        "referencias": [
+          "01-021",
+          "01-022",
+          "01-023"
+        ]
+      },
+      {
+        "titulo": "La recompensa es una fiesta",
+        "texto": "Mientras Leonardo y Talos descansan, Tokugawa y Sun Gukon participan en la celebración. Kitaro promete un banquete y, cuando la compañía vuelve a reunirse, sirve comida entre la música y el júbilo del pueblo. La primera aventura acaba con el encargo del bosque resuelto y los cazadores reconocidos como héroes de la aldea. El director cierra anunciando nuevas cacerías por Kuroto; la charla posterior sobre otras campañas pertenece a la mesa y no añade acontecimientos a esta historia.",
+        "referencias": [
+          "01-023",
+          "01-024"
+        ]
+      }
+    ]
+  },
+  "misiones": [
+    "Ayudar a Ukio: eliminar al depredador de cuchillas del bosque. Resuelta en esta sesión; no se afirma haber eliminado todos los peligros del bosque."
+  ],
+  "preguntas": [
+    "¿Podrá el herrero convertir las cuchillas en equipo?",
+    "¿Qué es el Loto Blanco y quién pertenece a él?"
+  ],
+  "nombres_dudosos": [
+    "Ukio / kioto",
+    "quitaro / Kitaro",
+    "gucón / sungukon / Sun Gukon",
+    "kamachi / kamay chi / Kamaitachi"
+  ],
+  "contradicciones": []
+}

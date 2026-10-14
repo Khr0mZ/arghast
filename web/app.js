@@ -36,6 +36,29 @@
   const short = (text,size=165) => text.length>size ? text.slice(0,size).replace(/\s\S*$/,'')+'…' : text;
   let state={page:1,chapter:'',kind:'',chapterQuery:'',entityQuery:'',questionQuery:'',questionStatus:'',tab:'relato',transcriptQuery:'',transcriptLimit:120};
   let searchTimer;
+  const transcriptLoads=new Map();
+  const transcriptErrors=new Set();
+  function loadTranscript(n) {
+    const number=String(n),file=data.transcriptFiles?.[number];
+    if(!file || data.transcripts[number]?.length || transcriptLoads.has(number) || transcriptErrors.has(number))return;
+    const script=document.createElement('script');
+    transcriptLoads.set(number,script);
+    script.src=new URL(file,location.href).href;
+    const finish=ok=>{
+      const rows=globalThis.arghastTranscripts?.[campaignId+'/'+number];
+      if(ok&&Array.isArray(rows)&&rows.length)data.transcripts[number]=rows;
+      else transcriptErrors.add(number);
+      transcriptLoads.delete(number);script.remove();
+      const [route,arg]=current();
+      if((route==='capitulo'&&Number(arg)===n)||(route==='registro'&&facts.get(arg)?.capitulo===n))render();
+    };
+    script.onload=()=>finish(true);script.onerror=()=>finish(false);
+    document.head.append(script);
+  }
+  function transcriptLoading(n) {
+    loadTranscript(n);
+    return transcriptErrors.has(String(n))?`<div class="empty"><h2>No se pudo abrir la transcripción</h2><p>Comprueba la conexión o que la carpeta transcripciones acompañe al HTML.</p><button class="secondary-button" data-transcript-retry="${n}">Volver a intentar</button></div>`:'<p class="notice" role="status">Abriendo la transcripción de esta sesión…</p>';
+  }
   const searchIndex = data.facts.map(f => ({fact:f,text:fold([f.titulo,f.afirmacion,f.cita,f.ambito,f.limitacion,...(f.etiquetas_originales||[]),...f.entidades,...f.entidades.flatMap(name=>entities.get(name)?.aliases || [])].join(' '))}));
   const matched = (query,chapter='',kind='') => { const terms=fold(query).trim().split(/\s+/).filter(Boolean); return searchIndex.filter(item=>(!chapter || item.fact.capitulo===Number(chapter))&&(!kind || item.fact.tipo===kind)&&terms.every(term=>item.text.includes(term))).map(item=>item.fact); };
   function heading(title,trail='Enciclopedia') {
@@ -60,8 +83,11 @@
   }
   function kurotoHome() {
     heading('El archivo de Kuroto','Arghast · Kuroto');
-    const available=Object.values(data.transcripts).filter(rows=>rows.length).length;
-    content.innerHTML=`<section class="hero kuroto-hero"><div><p class="eyebrow">Aventuras en Kuroto · Lichpol</p><h1 class="hero-title">Tras el velo<br>de <em>Kuroto.</em></h1><p class="hero-copy">Otra campaña del mundo de Arghast. Recorre su catálogo y consulta sus fuentes, en una ambientación de inspiración japonesa.</p><div class="hero-actions"><a class="primary-button" href="#capitulos">Abrir las crónicas →</a><a class="secondary-button" href="${esc(data.catalog.playlist_url)}" target="_blank" rel="noopener noreferrer">Lista oficial ↗</a></div></div><div class="kuroto-seal" aria-hidden="true">KU<br>RO<br>TO</div></section><div class="stat-grid"><a class="stat" href="#capitulos"><strong>${data.chapters.length}</strong><span>Vídeos catalogados</span></a><a class="stat" href="#capitulos"><strong>${reviewedCount}</strong><span>Capítulos revisados</span></a><a class="stat" href="#capitulos"><strong>${available}</strong><span>Transcripciones disponibles</span></a><a class="stat" href="#capitulos"><strong>${data.catalog.capitulos_ausentes.length}</strong><span>Capítulo por localizar</span></a></div>${reviewedCount<data.chapters.length?'<div class="campaign-status"><span class="eyebrow">El archivo está empezando</span><h2>La lista está aquí. Su historia necesita sus fuentes.</h2><p>Los títulos y enlaces ya se pueden consultar. Las transcripciones y su revisión siguen pendientes; las fichas narrativas se incorporarán con sus evidencias.</p></div>':''}<div class="expedition-links"><a class="expedition-link" href="#capitulos">${crest('objeto')}<div><strong>Las sesiones</strong><small>Del capítulo 1 al 182</small></div><span aria-hidden="true">↗</span></a><a class="expedition-link" href="#metodo">${crest('faccion')}<div><strong>El archivo</strong><small>Fuentes y progreso</small></div><span aria-hidden="true">↗</span></a><a class="expedition-link" href="#campanas">${crest('lugar')}<div><strong>Arghast</strong><small>Elegir otra campaña</small></div><span aria-hidden="true">↗</span></a></div>`;
+    const available=data.chapters.filter(chapter=>chapter.transcripcion_disponible).length;
+    const progress=reviewedCount<data.chapters.length?`<div class="campaign-status"><span class="eyebrow">Progreso del archivo</span><h2>La crónica, página a página.</h2><p>${available} de ${data.chapters.length} transcripciones disponibles. ${reviewedCount} ${reviewedCount===1?'sesión revisada':'sesiones revisadas'}; ${data.chapters.length-reviewedCount} pendientes de lectura editorial. Los relatos publicados indican hasta qué capítulo llegan.</p></div>`:'';
+    const latestReviewed=data.chapters.filter(chapter=>chapter.estado==='revisado').at(-1);
+    const opening=latestReviewed?`<section class="section-head"><div><p class="eyebrow">Última sesión revisada · Capítulo ${latestReviewed.capitulo}</p><h2>${esc(latestReviewed.titulo)}</h2><p>${esc(short(latestReviewed.resumen,420))}</p><a class="primary-button" href="#capitulo/${latestReviewed.capitulo}">Leer el relato →</a></div></section><div class="expedition-links"><a class="expedition-link" href="#personajes">${crest('personaje')}<div><strong>Los protagonistas</strong><small>Sus historias en Kuroto</small></div><span aria-hidden="true">↗</span></a><a class="expedition-link" href="#atlas">${crest('lugar')}<div><strong>Entre la niebla</strong><small>Lugares y acontecimientos</small></div><span aria-hidden="true">↗</span></a><a class="expedition-link" href="#objetos">${crest('objeto')}<div><strong>Los vestigios</strong><small>Objetos con historia</small></div><span aria-hidden="true">↗</span></a></div>`:'';
+    content.innerHTML=`<section class="hero kuroto-hero"><div><p class="eyebrow">Aventuras en Kuroto · Lichpol</p><h1 class="hero-title">Tras el velo<br>de <em>Kuroto.</em></h1><p class="hero-copy">Otra campaña del mundo de Arghast. Recorre su catálogo y consulta sus fuentes, en una ambientación de inspiración japonesa.</p><div class="hero-actions"><a class="primary-button" href="#capitulos">Abrir las crónicas →</a><a class="secondary-button" href="${esc(data.catalog.playlist_url)}" target="_blank" rel="noopener noreferrer">Lista oficial ↗</a></div></div><div class="kuroto-seal" aria-hidden="true">KU<br>RO<br>TO</div></section><div class="stat-grid"><a class="stat" href="#capitulos"><strong>${data.chapters.length}</strong><span>Vídeos catalogados</span></a><a class="stat" href="#capitulos"><strong>${reviewedCount}</strong><span>Capítulos revisados</span></a><a class="stat" href="#capitulos"><strong>${available}</strong><span>Transcripciones disponibles</span></a><a class="stat" href="#capitulos"><strong>${data.catalog.capitulos_ausentes.length}</strong><span>Capítulo por localizar</span></a></div>${progress}${opening}<div class="expedition-links"><a class="expedition-link" href="#capitulos">${crest('objeto')}<div><strong>Las sesiones</strong><small>Del capítulo 1 al 182</small></div><span aria-hidden="true">↗</span></a><a class="expedition-link" href="#metodo">${crest('faccion')}<div><strong>El archivo</strong><small>Fuentes y progreso</small></div><span aria-hidden="true">↗</span></a><a class="expedition-link" href="#campanas">${crest('lugar')}<div><strong>Arghast</strong><small>Elegir otra campaña</small></div><span aria-hidden="true">↗</span></a></div>`;
   }
   function event(f,detail=false) {
     return `<article class="event" id="fact-${esc(f.id)}"><div class="event-time"><strong>${String(f.capitulo).padStart(2,'0')}</strong><small>${clock(f.inicio)}</small></div><div class="event-body"><div class="card-meta">${badge(f)}<span>${esc(f.id)}</span></div><h3><a href="#registro/${f.id}">${esc(f.titulo)}</a></h3><p>${esc(detail?f.afirmacion:short(f.afirmacion,300))}</p>${detail?`<div class="evidence"><span class="eyebrow">Cita literal de los subtítulos</span><blockquote class="quote">${esc(f.cita)}</blockquote><a class="source-link" href="${sourceURL(f)}" target="_blank" rel="noopener noreferrer">Ver en YouTube · ${clock(f.evidencia_cue?.inicio || f.inicio)} ${icons.arrow}</a></div>${f.limitacion?`<p class="limitations"><strong>Alcance de la evidencia.</strong> ${esc(f.limitacion)}</p>`:''}<div class="chips">${f.entidades.map(chip).join('')}</div>`:`<a class="source-link" href="#registro/${f.id}">Consultar evidencia ${icons.arrow}</a>`}</div></article>`;
@@ -123,6 +149,8 @@
   }
   function transcriptView(n) {
     const all=data.transcripts[String(n)] || [];
+    if(!all.length&&data.transcriptFiles?.[String(n)])return transcriptLoading(n);
+    if(!all.length&&chapters.get(n).comprobacion_subtitulos?.resultado==='sin_subtitulos')return `<div class="empty"><h2>Este vídeo no ofrece subtítulos</h2><p>La consulta del ${esc(chapters.get(n).comprobacion_subtitulos.fecha)} no encontró subtítulos manuales ni automáticos en YouTube. La transcripción de esta sesión sigue pendiente.</p><a class="secondary-button" href="${esc(chapters.get(n).url)}" target="_blank" rel="noopener noreferrer">Abrir el episodio ↗</a></div>`;
     if(!all.length)return '<div class="empty"><h2>Transcripción pendiente</h2><p>El vídeo está localizado, pero su transcripción todavía no se ha incorporado. Puedes abrir el episodio desde su ficha.</p></div>';
     const terms=fold(state.transcriptQuery).trim().split(/\s+/).filter(Boolean);
     const rows=all.filter(row=>terms.every(term=>fold(row[1]).includes(term)));
@@ -132,7 +160,8 @@
     const f=facts.get(id); if(!f)return missing();
     heading(f.titulo,`${chapterName(f.capitulo)} · ${f.id}`);
     const around=(data.transcripts[String(f.capitulo)] || []).filter(([t])=>secs(t)>=Math.max(0,secs(f.evidencia_cue?.inicio || f.inicio)-25)&&secs(t)<=secs(f.evidencia_cue?.inicio || f.inicio)+40);
-    content.innerHTML=`<div class="section-head"><a class="secondary-button" href="#capitulo/${f.capitulo}">← ${chapterName(f.capitulo)}</a><button class="secondary-button" data-copy="${esc(f.id)}">Copiar referencia</button></div>${event(f,true)}<details class="context-details"><summary>Leer contexto de la transcripción</summary><div class="transcript">${around.map(([t,s])=>`<div class="transcript-row"><a href="${esc(chapters.get(f.capitulo).url)}&t=${Math.floor(secs(t))}s" target="_blank" rel="noopener noreferrer">${clock(t)}</a><p>${esc(s)}</p></div>`).join('')}</div></details><p class="archive-note">Fuente automática · ${esc(f.ambito || 'Ámbito sin determinar')} · Intervalo de contexto ${clock(f.inicio)}–${clock(f.fin)}. La cita se localiza en ${clock(f.evidencia_cue?.inicio || f.inicio)}; comprobar su interpretación en el contexto.</p>`;
+    const context=around.length?`<div class="transcript">${around.map(([t,s])=>`<div class="transcript-row"><a href="${esc(chapters.get(f.capitulo).url)}&t=${Math.floor(secs(t))}s" target="_blank" rel="noopener noreferrer">${clock(t)}</a><p>${esc(s)}</p></div>`).join('')}</div>`:data.transcriptFiles?.[String(f.capitulo)]?transcriptLoading(f.capitulo):'<p>Contexto no disponible.</p>';
+    content.innerHTML=`<div class="section-head"><a class="secondary-button" href="#capitulo/${f.capitulo}">← ${chapterName(f.capitulo)}</a><button class="secondary-button" data-copy="${esc(f.id)}">Copiar referencia</button></div>${event(f,true)}<details class="context-details"><summary>Leer contexto de la transcripción</summary>${context}</details><p class="archive-note">Fuente automática · ${esc(f.ambito || 'Ámbito sin determinar')} · Intervalo de contexto ${clock(f.inicio)}–${clock(f.fin)}. La cita se localiza en ${clock(f.evidencia_cue?.inicio || f.inicio)}; comprobar su interpretación en el contexto.</p>`;
   }
   function questionCard(q) {
     const color={resuelta:'confirmed',parcial:'statement',pendiente:'speculation',sin_revisar:'speculation'}[q.estado];
@@ -247,6 +276,7 @@
     if(button.dataset.tab){state.tab=button.dataset.tab;state.transcriptLimit=120;render();}
     if(button.hasAttribute('data-reset')){state.chapter='';state.kind='';state.page=1;render();}
     if(button.hasAttribute('data-transcript-more')){state.transcriptLimit+=200;const scrollY=window.scrollY;render();window.scrollTo(0,scrollY);}
+    if(button.dataset.transcriptRetry){transcriptErrors.delete(button.dataset.transcriptRetry);render();}
     if(button.dataset.copy){const f=facts.get(button.dataset.copy);const text=`Arghast · ${campaign.name} · ${f.titulo} · ${chapterName(f.capitulo)} · ${clock(f.evidencia_cue?.inicio || f.inicio)} · ${f.id}\n${f.afirmacion}\nCita: ${f.cita}\n${sourceURL(f)}`;try{if(navigator.clipboard?.writeText)await navigator.clipboard.writeText(text);else{const area=document.createElement('textarea');area.value=text;document.body.append(area);area.select();document.execCommand('copy');area.remove();}button.textContent='Referencia copiada';}catch{button.textContent='Selecciona y copia la cita';} }
   });
   content.addEventListener('change',eventObject=>{const key=eventObject.target.dataset.filter;if(key){state[key]=eventObject.target.value;state.page=1;render();}});

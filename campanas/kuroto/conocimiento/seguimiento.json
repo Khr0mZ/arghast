@@ -1,0 +1,37 @@
+{
+  "preguntas": [
+    {
+      "id": "K01-P01",
+      "capitulo": 1,
+      "pregunta": "¿Podrá el herrero convertir las cuchillas en equipo?",
+      "estado": "pendiente",
+      "respuesta": "El grupo pregunta por esa posibilidad y el herrero reconoce las hojas, pero esta sesión no muestra un encargo cerrado ni un objeto terminado.",
+      "pendiente": "Comprobar las sesiones posteriores; solo se ha revisado el capítulo 1.",
+      "referencias": [
+        "01-021",
+        "01-022"
+      ],
+      "revisado_hasta": 1,
+      "requiere_actualizacion": true
+    },
+    {
+      "id": "K01-P02",
+      "capitulo": 1,
+      "pregunta": "¿Qué es el Loto Blanco y quién pertenece a él?",
+      "estado": "sin_revisar",
+      "respuesta": "El nombre aparece durante las presentaciones de la taberna. No basta para fijar la organización o atribuir la pertenencia a un personaje concreto.",
+      "pendiente": "Contrastar la identidad del hablante y las menciones posteriores.",
+      "referencias": [
+        "01-003"
+      ],
+      "revisado_hasta": 1,
+      "requiere_actualizacion": true
+    }
+  ],
+  "estados": {
+    "pendiente": 1,
+    "sin_revisar": 1
+  },
+  "por_actualizar": 2,
+  "ultimo_capitulo": 1
+}

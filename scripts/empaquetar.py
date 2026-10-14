@@ -8,15 +8,17 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--solo-conocimiento', action='store_true', help='Enciclopedia y lecturas Markdown, sin originales VTT/TXT ni herramientas.')
     args = parser.parse_args()
-    folders = ['conocimiento', 'campanas'] if args.solo_conocimiento else ['conocimiento', 'campanas', 'derivados', 'config', 'borradores', 'scripts', 'web', 'xoltacan_subtitulos', '.github']
+    folders = ['conocimiento', 'campanas', 'transcripciones'] if args.solo_conocimiento else ['conocimiento', 'campanas', 'transcripciones', 'derivados', 'config', 'borradores', 'scripts', 'web', 'xoltacan_subtitulos', '.github']
     files = set()
     for folder in folders:
         for path in (ROOT / folder).rglob('*'):
             if path.is_file() and '__pycache__' not in path.parts and path.suffix not in ('.pyc', '.zip'):
+                if args.solo_conocimiento and folder == 'campanas' and ('fuentes' in path.parts or path.suffix == '.jsonl'):
+                    continue
                 files.add(path)
     if args.solo_conocimiento:
         files.update((ROOT / 'derivados').glob('*/lectura.md'))
-    for name in ('README.md', 'requirements-descarga.txt', 'xoltacan.html', 'arghast.html', '.gitignore'):
+    for name in ('README.md', 'requirements-descarga.txt', 'xoltacan.html', 'arghast.html', '.gitignore', '.gitattributes'):
         path = ROOT / name
         if path.exists():
             files.add(path)

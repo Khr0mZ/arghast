@@ -1,0 +1,32 @@
+{
+  "96": {
+    "url": "https://www.youtube.com/watch?v=xU1sxIKdRL4",
+    "fecha": "2026-10-14",
+    "comprobacion": "yt-dlp --list-subs --skip-download",
+    "resultado": "sin_subtitulos",
+    "salida_relevante": [
+      "xU1sxIKdRL4 has no automatic captions",
+      "xU1sxIKdRL4 has no subtitles"
+    ]
+  },
+  "135": {
+    "url": "https://www.youtube.com/watch?v=SyXIdBFD7Os",
+    "fecha": "2026-10-14",
+    "comprobacion": "yt-dlp --list-subs --skip-download",
+    "resultado": "sin_subtitulos",
+    "salida_relevante": [
+      "SyXIdBFD7Os has no automatic captions",
+      "SyXIdBFD7Os has no subtitles"
+    ]
+  },
+  "136": {
+    "url": "https://www.youtube.com/watch?v=t33F7z6KUNo",
+    "fecha": "2026-10-14",
+    "comprobacion": "yt-dlp --list-subs --skip-download",
+    "resultado": "sin_subtitulos",
+    "salida_relevante": [
+      "t33F7z6KUNo has no automatic captions",
+      "t33F7z6KUNo has no subtitles"
+    ]
+  }
+}

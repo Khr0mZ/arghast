@@ -89,7 +89,23 @@ def main():
     theme = theme.replace('assets/xoltacan-selva.webp', 'data:image/webp;base64,' + landscape)
     if template.count('<!-- DATA -->') != 1 or template.count('<!-- APP -->') != 1:
         raise ValueError('La plantilla necesita un marcador DATA y un marcador APP')
-    payload = json.dumps(build_world(build_data()), ensure_ascii=False, separators=(',', ':')).replace('<', '\\u003c')
+    world = build_world(build_data())
+    from exportar_kuroto import export
+    export(world['campaigns']['kuroto'])
+    # Cada transcripción de Kuroto se abre por separado para que 181 sesiones no
+    # tengan que descargarse ni analizarse al entrar en la portada.
+    for campaign_id, dataset in world['campaigns'].items():
+        dataset['transcriptFiles'] = {}
+        for number, rows in dataset['transcripts'].items():
+            if not rows:
+                continue
+            relative = f'transcripciones/{campaign_id}/{int(number):03d}.js'
+            key = json.dumps(f'{campaign_id}/{number}')
+            content = json.dumps(rows, ensure_ascii=False, separators=(',', ':')).replace('<', '\\u003c')
+            write(ROOT / relative, f'globalThis.arghastTranscripts ??= Object.create(null);\nglobalThis.arghastTranscripts[{key}] = {content};\n')
+            dataset['transcriptFiles'][number] = relative
+            dataset['transcripts'][number] = []
+    payload = json.dumps(world, ensure_ascii=False, separators=(',', ':')).replace('<', '\\u003c')
     output = template.replace('<!-- THEME -->', '<style>' + theme + '</style>')
     output = output.replace('<!-- DATA -->', '<script id="xoltacan-data" type="application/json">' + payload + '</script>')
     output = output.replace('<!-- APP -->', '<script>' + script.replace('</script', '<\\/script') + '</script>')

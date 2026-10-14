@@ -4,9 +4,9 @@
 
 El mundo se llama **Arghast**. **Xoltacan** y **Kuroto** son campañas distintas que se eligen desde una portada común o desde el selector de la barra lateral. Las búsquedas, fichas, capítulos y evidencias pertenecen exclusivamente a la campaña elegida. La selección forma parte de la URL (`?campana=xoltacan` o `?campana=kuroto`) y se conserva al navegar o compartir un enlace.
 
-Abrir **`arghast.html`** con doble clic para consultar el mismo archivo sin servidor. `xoltacan.html` se conserva como entrada compatible al archivo unificado. El contenido de Xoltacan mantiene sus 39 capítulos revisados, 946 registros, 137 fichas de entidades y sus relatos.
+Abrir **`arghast.html`** con doble clic para consultar el mismo archivo sin servidor. Conservar a su lado la carpeta **`transcripciones/`** para abrir los subtítulos de Kuroto; los paquetes ZIP la incluyen. `xoltacan.html` se conserva como entrada compatible al archivo unificado. El contenido de Xoltacan mantiene sus 39 capítulos revisados, 946 registros, 137 fichas de entidades y sus relatos.
 
-**Estado de Kuroto:** lista oficial localizada y 181 vídeos catalogados, con numeración del 1 al 182 y el 92 ausente de la lista consultada. No hay todavía transcripciones recuperadas ni capítulos revisados: YouTube devuelve HTTP 429 y pide autenticación al intentar descargar subtítulos. El fallo no demuestra que no existan. La interfaz lo indica y no inventa resúmenes, personajes, lugares o misterios a partir de los títulos. Las fuentes y el catálogo se conservan en `campanas/kuroto/`.
+**Estado de Kuroto:** 181 vídeos catalogados y **178 sesiones con subtítulos recuperados** mediante el mismo procedimiento que `xoltacan_subtitulos`. Los vídeos 96, 135 y 136 no ofrecen subtítulos manuales ni automáticos según la consulta del 14 de octubre de 2026; el 92 no figura en la lista consultada. **La revisión narrativa llega al capítulo 1**, con 24 evidencias, diez fichas con historia y dos preguntas de seguimiento. Las otras 180 sesiones están pendientes de lectura editorial, tengan o no transcripción. Fuentes y catálogo: `campanas/kuroto/`.
 
 GitHub Pages se actualiza automáticamente al subir cambios a `main`. El flujo `.github/workflows/pages.yml` comprueba los datos, regenera la interfaz y publica `arghast.html` como `index.html`. También puede ejecutarse manualmente desde Actions.
 
@@ -14,7 +14,7 @@ Para continuar la incorporación de Kuroto, usar `.venv/Scripts/python.exe scrip
 
 El archivo revisado de Xoltacan reconstruye la campaña de Lichpol con buscador, capítulos, personajes, atlas, facciones, misiones, relaciones y misterios, con citas y enlaces al minuto. También puedes consultar su [índice Markdown](conocimiento/INDICE.md).
 
-El HTML contiene los 39 capítulos, 946 registros y las lecturas derivadas de todas las transcripciones. Permite buscar en registros o en la transcripción de un capítulo, filtrar evidencias y leer el contexto de una cita. Solo abrir el vídeo requiere Internet. La interfaz se regenera automáticamente con `python scripts/construir.py`; sus fuentes están en `web/` y `scripts/construir_interfaz.py`.
+El HTML integra los 39 capítulos, 946 registros y transcripciones de Xoltacan. Las 178 transcripciones de Kuroto se abren por sesión desde `transcripciones/kuroto/`, sin cargar todo el archivo al entrar en la portada. Permite buscar en registros o dentro de una transcripción, filtrar evidencias y leer el contexto de una cita. Con el HTML y la carpeta de transcripciones disponibles localmente, solo abrir el vídeo requiere Internet. La interfaz se regenera con `python scripts/construir_interfaz.py`; el proceso general de Xoltacan, `python scripts/construir.py`, también la actualiza.
 
 Las fichas públicas se construyen con el catálogo revisado de identidades: las variantes confirmadas comparten ficha, y personajes, lugares, facciones y objetos tienen un tipo explícito. Las etiquetas originales siguen disponibles en la búsqueda. Las cautelas sobre transcripción y testimonios se consultan en las notas de cada capítulo. La prosa editorial utiliza español neutral; las citas literales conservan el reconocimiento original.
 
@@ -50,7 +50,7 @@ config/
   entidades.json              equivalencias editoriales con criterio y fuentes
   episodios_nuevos.json        episodios adicionales, creado cuando se añadan
 scripts/
-  construir_interfaz.py        genera el HTML autónomo con todos los datos integrados
+  construir_interfaz.py        genera los HTML y las transcripciones de Kuroto por sesión
   construir.py                inventario, derivados e índices incrementales
   incorporar.py               registro y descarga de nuevos episodios
   leer.py                     lectura integral por intervalos, sin resumen automático
