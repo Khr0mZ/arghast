@@ -1,0 +1,381 @@
+{
+  "capitulo": 100,
+  "estado_revision": "revisado",
+  "fuente_sha256": "60a7e20578354622561fa16f70466b3457477cdb38de0253ddadc637bde61f20",
+  "resumen": "Calista sigue atendiendo sus contactos y documentos y confirma haber entregado el libro de las ruinas a Ikari con algunas explicaciones de su lectura. Una información transmitida por Higeki la preocupa: en palacio dicen que Rua se encuentra con un hombre distinto del shogun. Decide investigar y desmentir lo que pueda, consciente del daño político que causaría una acusación precipitada. Reúne a Banzo, Gur, Palayer y Gelbreak, aunque el comienzo dista de ser discreto. Los dos bárbaros se retan primero en la base y Gur deja inconsciente a Banzo en un duelo que ambos disfrutan. El semiorco le da una poción y Palayer completa los cuidados para presentarlo en palacio. La amistad y las promesas de entrenar juntos nacen de ese intercambio, mientras Calista trata de recordarles que una investigación exige algo más que fuerza. Los guardias permiten la entrada después de recoger armas y escudos. Gur intenta aprovechar su confianza con ellos y Gelbreak se resiste a dejar el rapier, pero todos terminan cumpliendo la condición. Rua conversa con nobles y explica que el shogun está en cama, enfermo pese a los tratamientos mágicos intentados. Calista la saluda sin revelar el rumor y reúne aparte al grupo para explicar qué buscan. Gelbreak lo presenta como un torneo de investigación para motivar a los bárbaros. Banzo usa clarividencia y escucha una conversación sobre la escasez de recursos en pueblos por el gasto del frente del Sur, hasta que algo destruye el orbe. No identifican al responsable. Palayer baila para observar la sala y retira sus luces mágicas cuando un guardia se lo pide. Los demás se dispersan y Calista acaba buscando aire en el jardín. Las pesquisas se llenan de malentendidos y encuentros íntimos. Gur recibe comida y atención de las cocineras y termina relacionándose con ellas; Palayer sigue a un guardia hasta un rincón del estanque para saber dónde se reúnen amantes y decide participar en un encuentro consensuado. Allí encuentra una prenda de seda con bordados de oro, demasiado buena para atribuirla sin más al servicio. Banzo, por su parte, descubre una marca en el cuello de otro samurái y lo lleva a hablar con Gur. La intimidación consigue que confiese una relación con Caterina, ayudante de palacio, no con Rua. Las cocineras identifican la lencería como de Awasaki Soko, a quien han visto frecuentar el jardín con su marido. Son pistas de otras relaciones y no bastan para acusar a la esposa del shogun. El hallazgo más inquietante surge cuando el movimiento de Gur y las cocineras hace caer recipientes de la cocina. Aparece un ramillete que ellas no reconocen como ingrediente y que no recuerdan haber solicitado. Gur lo recoge como su primera prueba y lo lleva a Calista, después de que Gelbreak lo distraiga y le quite temporalmente la muestra. La tritón determina que no es una hierba culinaria: podría servir para medicinas, ungüentos, venenos o maldiciones, pero todavía no sabe para qué se ha usado. También recibe la explicación de que los samuráis revisan los suministros, lo que vuelve sospechosa la presencia del manojo. Lo conserva para estudiar su identidad. Nadie demuestra en esta sesión una relación causal entre la planta y la enfermedad del shogun. La cooperación entre Calista y Gelbreak alterna momentos útiles y agresiones personales. El drow la empuja al estanque y ella lo devuelve al agua con viento; él toma dinero de su bolsa y acaba devolviéndolo, revelando el robo. Frente a las mucanas, ambos presionan para conseguir una carta encontrada en el salón del té. Habla de amor y de abandonar a otra persona, pero una mancha tapa la firma y solo deja leer querida Ru en el destinatario. Antes de poder investigar con calma, Gelbreak induce en Calista miedo a las juntas de las tablas, que se agrava con un efecto de silencio: la tritón queda rígida, temblorosa e incapaz de hablar mientras él la conduce por los pasillos. Más tarde ella lo reduce y lo arroja al exterior, y él responde obligándola mágicamente a bailar. El efecto solo cesa cuando decide liberarla al recuperar su tamaño. El agotamiento y la rabia de Calista forman parte del coste de una jornada que nadie consigue encauzar del todo. Calista obtiene de Nomi otro hilo: el noble denuncia los gastos de la base del Sur y afirma que Yuichi regala cosas a Rua por motivos de mujeriego. La información llega mediante una conversación en la que ella usa Amigos y Gelbreak favorece su persuasión desde fuera; no es una prueba observada del romance. La tritón consigue apartar a la esposa de Yuichi con ayuda del drow y hablar en privado con él. El comerciante reconoce los regalos, pero afirma que su familia apoya al linaje del shogun desde generaciones atrás y que busca fortalecerlo. Pide incluso castigo para quienes difunden las injurias. Cuando Calista le muestra la carta, Yuichi la reconoce: ayudó a su hijo a escribir a una joven llamada Ruquita y el manchón borró la parte decisiva del nombre. Recupera el papel para devolvérselo. La explicación resuelve la aparente inicial de Rua sin convertir el testimonio del noble en una certeza sobre todos los secretos de palacio. Banzo aprovecha para volver a hablar con Rua sobre trabajar como escolta. Ella explica que deberá superar las pruebas de los samuráis protectores y ordena inscribir a Banzo de las Cumbres Nevadas con su recomendación. Todavía es un candidato, no un guardia nombrado. El grupo reúne lo averiguado y concluye que no ha encontrado pruebas de la supuesta infidelidad: la marca, la prenda y la carta pertenecen a otras historias, y Yuichi ofrece una explicación leal de los regalos. Deciden no informar a Rua todavía y observar unos días por si aparecen datos mejores. Gur termina exhausto y los compañeros se lo llevan a la taberna con Palayer y Banzo. Calista, que no comparte la satisfacción del resto, se dirige a la biblioteca para investigar las hierbas. Esa muestra mantiene abierta una sospecha concreta y distinta de los rumores románticos con que comenzó la visita.",
+  "afirmaciones": [
+    {
+      "id": "100-001",
+      "titulo": "Una investigación nacida de rumores",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Calista recibe a través de Higeki rumores de que Rua se ve sentimentalmente con otro hombre. Decide investigarlos con Banzo, Gur, Palayer y Gelbreak para proteger el honor del shogunato y no acusa de inmediato a la esposa del shogun.",
+      "inicio": "00:00:00.000",
+      "fin": "00:31:50.000",
+      "entidades": [
+        "Calista",
+        "Rua (grafía provisional)",
+        "Higeki (grafía provisional)",
+        "Banzo",
+        "Gur (grafía provisional)",
+        "Palayer (grafía provisional)",
+        "Hermano de Danifae (nombre pendiente)"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "La supuesta infidelidad empieza como rumor de cocinas, no como hecho comprobado ni encargo expreso de Rua.",
+      "cita": "estado escuchando unos rumores que se",
+      "evidencia_cue": {
+        "inicio": "00:03:38.720",
+        "fin": "00:03:42.030"
+      }
+    },
+    {
+      "id": "100-002",
+      "titulo": "Un duelo amistoso que Banzo pierde",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Gur y Banzo se prueban en la base y salen a combatir con armas. Gur deja inconsciente al goliat, le da una poción para recuperarlo y ambos se presentan como nuevos compañeros de entrenamiento. Palayer atiende después sus heridas antes de ir a palacio.",
+      "inicio": "00:07:00.000",
+      "fin": "00:29:40.000",
+      "entidades": [
+        "Gur (grafía provisional)",
+        "Banzo",
+        "Palayer (grafía provisional)"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "El intercambio se plantea como entrenamiento entre adultos que lo aceptan, no como una enemistad o muerte.",
+      "cita": "poción y dice, \"Esto a veces me viene",
+      "evidencia_cue": {
+        "inicio": "00:22:53.799",
+        "fin": "00:22:55.230"
+      }
+    },
+    {
+      "id": "100-003",
+      "titulo": "Palacio sin armas y un shogun demasiado enfermo",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Los cinco dejan armas y escudos en la entrada y encuentran a Rua con nobles. Ella explica que el shogun está en cama y que los remedios mágicos probados no han funcionado. Calista evita explicar el rumor en público y reúne al grupo para una pesquisa discreta.",
+      "inicio": "00:38:00.000",
+      "fin": "01:01:15.000",
+      "entidades": [
+        "Calista",
+        "Rua (grafía provisional)",
+        "Hermano de Danifae (nombre pendiente)",
+        "Banzo",
+        "Gur (grafía provisional)",
+        "Palayer (grafía provisional)"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "No se trata de un baile nuevo y Rua no confirma conocer el motivo secreto de la investigación.",
+      "cita": "tiempo enfermo.",
+      "evidencia_cue": {
+        "inicio": "00:52:46.280",
+        "fin": "00:52:49.990"
+      }
+    },
+    {
+      "id": "100-004",
+      "titulo": "Una escucha interrumpida y pesquisas que se dispersan",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Banzo escucha mediante clarividencia que Rua y los nobles hablan de pérdida de recursos y falta de comida por el esfuerzo del Sur, hasta que algo corta el orbe. Palayer representa una danza y los guardias le piden que no utilice hechizos. El grupo se dispersa entre cocina, aposentos y jardines.",
+      "inicio": "01:01:00.000",
+      "fin": "01:31:20.000",
+      "entidades": [
+        "Banzo",
+        "Rua (grafía provisional)",
+        "Palayer (grafía provisional)",
+        "Calista"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "La causa exacta de la interrupción no se identifica; la protección antiespionaje es una deducción de los personajes.",
+      "cita": "recursos para esta zona. Eh, se ve que",
+      "evidencia_cue": {
+        "inicio": "01:03:27.760",
+        "fin": "01:03:30.630"
+      }
+    },
+    {
+      "id": "100-005",
+      "titulo": "Hierbas que no pertenecen a la cocina",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Gur, distraído por el trato de las cocineras, provoca la caída de unos recipientes y descubre un ramillete desconocido. Ellas dicen que no es culinario y que los suministros deben pasar por los samuráis. Calista lo conserva y reconoce posibles usos medicinales, venenosos o de maldición, sin determinar cuál es el caso.",
+      "inicio": "01:43:40.000",
+      "fin": "02:13:00.000",
+      "entidades": [
+        "Gur (grafía provisional)",
+        "Calista",
+        "Hierbas sospechosas de la cocina de palacio"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "La planta no se identifica con nombre ni se demuestra que esté envenenando al shogun. Se necesita investigación posterior.",
+      "cita": "pista, observa las hierbas, eh, frunce",
+      "evidencia_cue": {
+        "inicio": "02:09:37.280",
+        "fin": "02:09:40.310"
+      }
+    },
+    {
+      "id": "100-006",
+      "titulo": "El samurái y la lencería son pistas de otras relaciones",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Banzo ve una marca íntima en un samurái y Gur lo intimida hasta que dice mantener una relación con Caterina, ayudante de palacio, no con Rua. Palayer encuentra lencería de seda con oro junto al estanque; las cocineras la reconocen como de Awasaki Soko, quien frecuenta ese lugar con su marido.",
+      "inicio": "01:27:00.000",
+      "fin": "02:43:30.000",
+      "entidades": [
+        "Banzo",
+        "Gur (grafía provisional)",
+        "Palayer (grafía provisional)",
+        "Samurái de la marca del cuello (palacio, capítulo 100)",
+        "Lencería hallada junto al estanque de palacio"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "Son identificaciones y confesiones de los testigos; la lencería no lleva iniciales. No se convierte la mera marca del cuello en prueba de infidelidad de Rua.",
+      "cita": "lo juro. Esta es Caterina, os lo",
+      "evidencia_cue": {
+        "inicio": "02:41:19.720",
+        "fin": "02:41:21.150"
+      }
+    },
+    {
+      "id": "100-007",
+      "titulo": "La carta pierde su aparente destinataria",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Calista y Gelbreak presionan a las mucanas, que les entregan una carta amorosa encontrada en la zona del té. Un manchón tapa casi toda la firma y del destinatario se lee querida Ru. Más tarde Yuichi explica que ayudó a su hijo a escribirla para la joven Ruquita y la recupera.",
+      "inicio": "02:18:30.000",
+      "fin": "03:14:25.000",
+      "entidades": [
+        "Calista",
+        "Hermano de Danifae (nombre pendiente)",
+        "Yuichi, comerciante naval (grafía provisional)",
+        "Carta amorosa manchada para Ruquita"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "La identificación de Ruquita procede del relato de Yuichi; la porción legible Ru no bastaba para identificar a Rua.",
+      "cita": "Está destinado a Ruquita o es una",
+      "evidencia_cue": {
+        "inicio": "03:13:45.920",
+        "fin": "03:13:48.790"
+      }
+    },
+    {
+      "id": "100-008",
+      "titulo": "Regalos de Yuichi según Nomi",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Nomi cuenta a Calista que el coste de la base del Sur afecta a recursos de poblaciones y difunde que Yuichi regala cosas a Rua por ser mujeriego. Calista obtiene información con Amigos y Gelbreak interviene desde fuera para favorecer su intento. Después Yuichi reconoce los regalos, pero afirma que apoyan al linaje del shogun y exige frenar las injurias.",
+      "inicio": "02:42:00.000",
+      "fin": "03:14:20.000",
+      "entidades": [
+        "Calista",
+        "Hermano de Danifae (nombre pendiente)",
+        "Nomi (grafía provisional)",
+        "Yuichi, comerciante naval (grafía provisional)",
+        "Rua (grafía provisional)"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "El motivo sexual atribuido a Yuichi es rumor de Nomi; la defensa del comerciante es su declaración, no una inspección independiente.",
+      "cita": "regalando muchos regalos al a la suen,",
+      "evidencia_cue": {
+        "inicio": "02:50:37.640",
+        "fin": "02:50:40.990"
+      }
+    },
+    {
+      "id": "100-009",
+      "titulo": "La rivalidad vuelve a cruzar límites",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Gelbreak empuja a Calista al estanque; ella lo devuelve al agua con viento. Él toma dinero de su bolsa y lo devuelve después. También le induce miedo a las juntas del suelo, agravado con silencio, y más tarde la obliga mágicamente a bailar cuando ella lo reduce y lo lanza fuera. Acaba liberándola al recuperar su tamaño.",
+      "inicio": "01:21:00.000",
+      "fin": "03:20:55.000",
+      "entidades": [
+        "Calista",
+        "Hermano de Danifae (nombre pendiente)"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "Los efectos son temporales de esta sesión. Calista no conoce automáticamente cada origen secreto del miedo y el robo hasta que se revela.",
+      "cita": "de que deje de bailar y danzar y moverme",
+      "evidencia_cue": {
+        "inicio": "02:57:41.560",
+        "fin": "02:57:43.830"
+      }
+    },
+    {
+      "id": "100-010",
+      "titulo": "Gur termina exhausto y la pesquisa no prueba la infidelidad",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Gur mantiene encuentros íntimos consensuados con las cocineras y termina exhausto. Calista frena su acceso a Rua para evitar que aparezca así. El grupo concluye que las pistas íntimas apuntan a otras personas y que no han probado infidelidad de Rua. Deciden observar unos días sin informarla todavía; Calista va a la biblioteca con las hierbas.",
+      "inicio": "02:55:00.000",
+      "fin": "03:31:40.000",
+      "entidades": [
+        "Gur (grafía provisional)",
+        "Calista",
+        "Rua (grafía provisional)",
+        "Banzo",
+        "Palayer (grafía provisional)",
+        "Hermano de Danifae (nombre pendiente)",
+        "Hierbas sospechosas de la cocina de palacio"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "No se declara una inocencia probada universal ni se resuelve la enfermedad del shogun; el hallazgo botánico permanece abierto.",
+      "cita": "habitúa habitúa bastante la biblioteca y",
+      "evidencia_cue": {
+        "inicio": "03:11:37.200",
+        "fin": "03:11:40.110"
+      }
+    },
+    {
+      "id": "100-011",
+      "titulo": "Banzo se apunta a las pruebas de guardia",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Banzo habla con Rua sobre su propuesta de escolta. Ella explica que debe superar las pruebas comunes a los samuráis protectores y ordena anotar a Banzo de las Cumbres Nevadas con su recomendación.",
+      "inicio": "03:13:50.000",
+      "fin": "03:16:45.000",
+      "entidades": [
+        "Banzo",
+        "Rua (grafía provisional)"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "Queda inscrito como aspirante, no nombrado guardia ni admitido sin pruebas.",
+      "cita": "tendrás que hacer las pruebas, Bzo.",
+      "evidencia_cue": {
+        "inicio": "03:15:11.200",
+        "fin": "03:15:14.550"
+      }
+    }
+  ],
+  "historia": {
+    "revisado_hasta": 100,
+    "etapas": [
+      {
+        "titulo": "Un rumor delicado y unos investigadores difíciles de coordinar",
+        "texto": "Calista sigue atendiendo sus contactos y documentos y confirma haber entregado el libro de las ruinas a Ikari con algunas explicaciones de su lectura. Una información transmitida por Higeki la preocupa: en palacio dicen que Rua se encuentra con un hombre distinto del shogun. Decide investigar y desmentir lo que pueda, consciente del daño político que causaría una acusación precipitada. Reúne a Banzo, Gur, Palayer y Gelbreak, aunque el comienzo dista de ser discreto. Los dos bárbaros se retan primero en la base y Gur deja inconsciente a Banzo en un duelo que ambos disfrutan. El semiorco le da una poción y Palayer completa los cuidados para presentarlo en palacio. La amistad y las promesas de entrenar juntos nacen de ese intercambio, mientras Calista trata de recordarles que una investigación exige algo más que fuerza.",
+        "referencias": [
+          "100-001",
+          "100-002"
+        ]
+      },
+      {
+        "titulo": "Sin armas, pero con demasiadas distracciones",
+        "texto": "Los guardias permiten la entrada después de recoger armas y escudos. Gur intenta aprovechar su confianza con ellos y Gelbreak se resiste a dejar el rapier, pero todos terminan cumpliendo la condición. Rua conversa con nobles y explica que el shogun está en cama, enfermo pese a los tratamientos mágicos intentados. Calista la saluda sin revelar el rumor y reúne aparte al grupo para explicar qué buscan. Gelbreak lo presenta como un torneo de investigación para motivar a los bárbaros. Banzo usa clarividencia y escucha una conversación sobre la escasez de recursos en pueblos por el gasto del frente del Sur, hasta que algo destruye el orbe. No identifican al responsable. Palayer baila para observar la sala y retira sus luces mágicas cuando un guardia se lo pide. Los demás se dispersan y Calista acaba buscando aire en el jardín.",
+        "referencias": [
+          "100-003",
+          "100-004"
+        ]
+      },
+      {
+        "titulo": "Relaciones reales que no son la que estaban buscando",
+        "texto": "Las pesquisas se llenan de malentendidos y encuentros íntimos. Gur recibe comida y atención de las cocineras y termina relacionándose con ellas; Palayer sigue a un guardia hasta un rincón del estanque para saber dónde se reúnen amantes y decide participar en un encuentro consensuado. Allí encuentra una prenda de seda con bordados de oro, demasiado buena para atribuirla sin más al servicio. Banzo, por su parte, descubre una marca en el cuello de otro samurái y lo lleva a hablar con Gur. La intimidación consigue que confiese una relación con Caterina, ayudante de palacio, no con Rua. Las cocineras identifican la lencería como de Awasaki Soko, a quien han visto frecuentar el jardín con su marido. Son pistas de otras relaciones y no bastan para acusar a la esposa del shogun.",
+        "referencias": [
+          "100-006"
+        ]
+      },
+      {
+        "titulo": "Una planta extraña bajo el ruido de la jornada",
+        "texto": "El hallazgo más inquietante surge cuando el movimiento de Gur y las cocineras hace caer recipientes de la cocina. Aparece un ramillete que ellas no reconocen como ingrediente y que no recuerdan haber solicitado. Gur lo recoge como su primera prueba y lo lleva a Calista, después de que Gelbreak lo distraiga y le quite temporalmente la muestra. La tritón determina que no es una hierba culinaria: podría servir para medicinas, ungüentos, venenos o maldiciones, pero todavía no sabe para qué se ha usado. También recibe la explicación de que los samuráis revisan los suministros, lo que vuelve sospechosa la presencia del manojo. Lo conserva para estudiar su identidad. Nadie demuestra en esta sesión una relación causal entre la planta y la enfermedad del shogun.",
+        "referencias": [
+          "100-005"
+        ]
+      },
+      {
+        "titulo": "Miedo, silencio y una carta que parece hablar de Rua",
+        "texto": "La cooperación entre Calista y Gelbreak alterna momentos útiles y agresiones personales. El drow la empuja al estanque y ella lo devuelve al agua con viento; él toma dinero de su bolsa y acaba devolviéndolo, revelando el robo. Frente a las mucanas, ambos presionan para conseguir una carta encontrada en el salón del té. Habla de amor y de abandonar a otra persona, pero una mancha tapa la firma y solo deja leer querida Ru en el destinatario. Antes de poder investigar con calma, Gelbreak induce en Calista miedo a las juntas de las tablas, que se agrava con un efecto de silencio: la tritón queda rígida, temblorosa e incapaz de hablar mientras él la conduce por los pasillos. Más tarde ella lo reduce y lo arroja al exterior, y él responde obligándola mágicamente a bailar. El efecto solo cesa cuando decide liberarla al recuperar su tamaño. El agotamiento y la rabia de Calista forman parte del coste de una jornada que nadie consigue encauzar del todo.",
+        "referencias": [
+          "100-007",
+          "100-009"
+        ]
+      },
+      {
+        "titulo": "Los regalos y la carta encuentran una explicación distinta",
+        "texto": "Calista obtiene de Nomi otro hilo: el noble denuncia los gastos de la base del Sur y afirma que Yuichi regala cosas a Rua por motivos de mujeriego. La información llega mediante una conversación en la que ella usa Amigos y Gelbreak favorece su persuasión desde fuera; no es una prueba observada del romance. La tritón consigue apartar a la esposa de Yuichi con ayuda del drow y hablar en privado con él. El comerciante reconoce los regalos, pero afirma que su familia apoya al linaje del shogun desde generaciones atrás y que busca fortalecerlo. Pide incluso castigo para quienes difunden las injurias. Cuando Calista le muestra la carta, Yuichi la reconoce: ayudó a su hijo a escribir a una joven llamada Ruquita y el manchón borró la parte decisiva del nombre. Recupera el papel para devolvérselo. La explicación resuelve la aparente inicial de Rua sin convertir el testimonio del noble en una certeza sobre todos los secretos de palacio.",
+        "referencias": [
+          "100-007",
+          "100-008"
+        ]
+      },
+      {
+        "titulo": "Una inscripción formal y una sospecha que sigue abierta",
+        "texto": "Banzo aprovecha para volver a hablar con Rua sobre trabajar como escolta. Ella explica que deberá superar las pruebas de los samuráis protectores y ordena inscribir a Banzo de las Cumbres Nevadas con su recomendación. Todavía es un candidato, no un guardia nombrado. El grupo reúne lo averiguado y concluye que no ha encontrado pruebas de la supuesta infidelidad: la marca, la prenda y la carta pertenecen a otras historias, y Yuichi ofrece una explicación leal de los regalos. Deciden no informar a Rua todavía y observar unos días por si aparecen datos mejores. Gur termina exhausto y los compañeros se lo llevan a la taberna con Palayer y Banzo. Calista, que no comparte la satisfacción del resto, se dirige a la biblioteca para investigar las hierbas. Esa muestra mantiene abierta una sospecha concreta y distinta de los rumores románticos con que comenzó la visita.",
+        "referencias": [
+          "100-010",
+          "100-011"
+        ]
+      }
+    ]
+  },
+  "misiones": [
+    "Investigar los rumores de Rua: no se obtienen pruebas de infidelidad; deciden observar antes de hablar con ella.",
+    "Identificar las hierbas de la cocina: muestra conservada por Calista y traslado a biblioteca; pendiente.",
+    "Pruebas de protector del palacio: Banzo inscrito con recomendación de Rua; evaluación pendiente.",
+    "Duelo de entrenamiento Gur–Banzo: Gur gana, Banzo recuperado con poción y cuidados."
+  ],
+  "preguntas": [
+    "¿Qué planta es el ramillete de la cocina y quién lo introdujo?",
+    "¿Guarda la planta relación con la enfermedad del shogun o con otro fin?",
+    "¿Se sostendrán las explicaciones alternativas a los rumores sobre Rua y Yuichi?",
+    "¿Superará Banzo las pruebas para la guardia del palacio?"
+  ],
+  "nombres_dudosos": [
+    "Caterina/Catrina/Katia: ayudante con quien el samurái dice mantener una relación.",
+    "Awasaki Soko/Iwasaki: nombre atribuido a la dueña de la prenda; posible relación con Isoko de 096 no conciliada aquí solo por semejanza.",
+    "Yuichi/Yuchi: se conserva al comerciante naval de 096, con esposa presente y vínculo a la carta del hijo.",
+    "Gelbreak es llamado Untuar/Jelbre/Jaelbreak; identidad normalizada por coordinación."
+  ],
+  "contradicciones": [
+    "Algunos creen que van a una nueva fiesta o que el shogun los ha convocado expresamente; Calista aclara que investigan por iniciativa propia y Rua está reunida mientras él permanece enfermo.",
+    "La aparente carta a Rua solo permite leer Ru y Yuichi la identifica después como dirigida a Ruquita; no se conserva el destinatario inicial como hecho.",
+    "La marca del samurái y la lencería del jardín apuntan a relaciones diferentes de la sospechada. No confundirlas con prueba de adulterio de la esposa del shogun.",
+    "Gur usa fuego intentando abrir una puerta y el hechizo se apaga contra los muros; ello no prueba que todo el palacio anule cualquier magia, pues se muestran otros conjuros activos."
+  ]
+}

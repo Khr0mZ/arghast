@@ -1,23 +1,28 @@
 # Kuroto · Campaña de Arghast
 
-[Lista oficial de Lichpol](https://www.youtube.com/playlist?list=PLelQK3I2Q5zymJZ2e2SNmwxsnnFGjBCYb).
+**Estado de Kuroto:** 181 vídeos catalogados; 181 transcripciones (178 de YouTube y 3 locales). 181 sesiones con relato revisado, 2092 evidencias y 1257 fichas con historia. Revisión continua hasta el capítulo 182; 0 sesiones pendientes. La lectura de los bloques está completada; la versión permanece en local para revisión, sin publicación autorizada.
 
-**Estado de Kuroto:** 181 vídeos catalogados y **178 sesiones con subtítulos recuperados** mediante el mismo procedimiento que `xoltacan_subtitulos`. Los vídeos 96, 135 y 136 no ofrecen subtítulos manuales ni automáticos según la consulta del 14 de octubre de 2026; el 92 no figura en la lista consultada. **La revisión narrativa llega al capítulo 1**, con 24 evidencias, diez fichas con historia y dos preguntas de seguimiento. Las otras 180 sesiones están pendientes de lectura editorial, tengan o no transcripción. Fuentes y catálogo: `campanas/kuroto/`.
+## Revisión local
 
-La lista contiene 181 vídeos numerados hasta el 182. Se conserva el hueco del 92 y se ordenan correctamente el 169 y el 170. No se usa el título como evidencia narrativa.
+Abrir `kuroto.html` desde la raíz del proyecto para entrar directamente en Kuroto. Abrir `arghast.html` para elegir campaña. Conservar la carpeta `transcripciones` junto a los HTML para consultar los subtítulos sin servidor. Los capítulos y las fichas usan la misma presentación narrativa de Xoltacan.
 
-## Recuperación de fuentes
+No publicar, desplegar ni subir cambios sin que el usuario confirme que ha revisado y aprobado esta versión. La autorización de despliegues anteriores no se reutiliza. La configuración local de Pages solo admite ejecución manual.
 
-El primer acceso devolvió HTTP 429. La repetición con los argumentos exactos del descargador de Xoltacan sí permitió recuperar las fuentes públicas sin cookies. Se mantienen `--skip-download --write-subs --write-auto-subs --sub-langs es.* --sub-format vtt/best --no-overwrites --ignore-errors`. No se descarga audio ni vídeo. Los fallos de red se distinguen de los vídeos sin subtítulos.
+## Estructura y contenido
 
-`fuentes/` conserva los VTT es-orig y es tal como se descargaron y su inventario SHA-256. `fuentes/verificaciones_subtitulos.json` guarda las comprobaciones explícitas de los tres vídeos sin subtítulos. `derivados/NNN/lectura.md` y `segmentos.jsonl` son lecturas automáticas del original, sin resumen ni identificación automática de hablantes.
+- `catalogo.json`: 181 vídeos de la [lista oficial](https://www.youtube.com/playlist?list=PLelQK3I2Q5zymJZ2e2SNmwxsnnFGjBCYb). Se conserva la numeración hasta el 182 y la ausencia del 92; se ordenan correctamente el 169 y el 170.
+- `fuentes/`: originales VTT es-orig y es conservados sin alteraciones, inventario SHA-256, incidencias y verificaciones de idiomas. Se recuperaron los subtítulos de 178 vídeos con el descargador de Xoltacan. Los capítulos 96, 135 y 136, sin subtítulos de YouTube, se transcribieron localmente a partir del audio; su procedencia figura en `transcripciones_locales.json`.
+- `derivados/NNN/lectura.md` y `segmentos.jsonl`: lecturas de los subtítulos, sin inventar resúmenes ni identificar hablantes automáticamente.
+- `conocimiento/capitulos/`: fichas JSON revisadas y sus relatos Markdown; cada afirmación tiene intervalo, cita literal, tipo y entidades.
+- `conocimiento/entidades.json` y `conocimiento/entidades/`: identidades y relatos de personajes, lugares, facciones y objetos, con evidencia y alcance de revisión.
+- `conocimiento/SEGUIMIENTO.md` y `seguimiento.json`: preguntas de origen, respuestas posteriores, referencias y asuntos pendientes.
+- `conocimiento/MISIONES.md`, `RELACIONES.md`, `ATLAS.md`, `FACCIONES.md`, `MISTERIOS.md` y `METODO.md`: vistas de consulta de la misma crónica.
+- [Índice de lectura](conocimiento/INDICE.md).
 
-Ejecutar desde la raíz `.venv/Scripts/python.exe scripts/importar_kuroto.py --descargar` permite reanudar sin sobrescribir fuentes existentes. `--capitulo N` limita la petición. `--preparar` registra y comprueba originales aportados y regenera las lecturas. No se abren sesiones personales del navegador.
+Las historias conservan los acontecimientos de cada sesión y las fichas reúnen su evolución posterior. El seguimiento distingue las preguntas resueltas de las tramas que siguen abiertas al terminar el epílogo. Cada cierre enlaza las evidencias que lo justifican.
 
-## Lectura editorial
+## Continuación
 
-El capítulo 1 está leído de principio a fin, con cinco etapas narrativas y 24 afirmaciones con cita literal validada dentro de su intervalo. Seis personajes, tres lugares y un objeto tienen su propio relato; sus nombres dudosos permanecen señalados. No se ha confirmado una ficha de facción. Dos preguntas quedan abiertas y requieren cotejar sesiones posteriores.
+**Lectura completada de las 181 sesiones disponibles.** Consultar [REVISION.md](REVISION.md) para el catálogo y la procedencia de cada sesión.
 
-Las fichas JSON viven en `conocimiento/capitulos/` y `conocimiento/entidades.json`; sus exportaciones Markdown se enlazan desde [el índice](conocimiento/INDICE.md). **El siguiente capítulo a revisar es el 2.** El material recuperado de las demás sesiones todavía no se presenta como canon revisado.
-
-`python scripts/construir_interfaz.py` valida las fuentes, exporta las fichas y genera ambos HTML y `transcripciones/kuroto/*.js`. Esos archivos se abren por sesión, para evitar cargar cientos de transcripciones al entrar. Para usar el HTML local hay que conservar a su lado la carpeta `transcripciones`; los paquetes ZIP la incluyen. GitHub Pages la publica automáticamente.
+`python scripts/construir_interfaz.py` valida fuentes e historias, exporta Markdown y regenera los tres HTML y los archivos por sesión en `transcripciones/kuroto/`. `python -m unittest discover -s scripts -p 'test_*.py'` comprueba los constructores. La verificación en navegador es local: `node scripts/probar_interfaz.mjs`.

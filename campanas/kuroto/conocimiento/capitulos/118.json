@@ -1,0 +1,352 @@
+{
+  "capitulo": 118,
+  "estado_revision": "revisado",
+  "fuente_sha256": "d51cf38f8a7429ec54b911d2127ee11ae58b9c3df5f2bdd6481ff10f67fc18cd",
+  "resumen": "Calista escribe al creador de los portales por el arco desactivado después de la expedición del espejo. Kurobani, que ha escondido la Biblia en su base, reúne a Calista, Gur, Erk y Gelbreak para ayudar a Guxi: el barco está terminado y permitirá buscar a su antiguo maestro. Esperan aclarar el despido y conseguir ayuda para la crisis. Gelbreak cuenta que investiga el monasterio y la orden de Kurobani por un acuerdo entre ambos; su contenido completo no se representa. Guxi presenta una nave metálica a motor, con caldera, pequeño constructo al timón y espacio para dormir. La velocidad provoca mareos, que trata con medicina. Gur trata el barco como un parque de juegos: ayuda a Erk a meterse en un cañón y termina disparándola al agua. Guxi lanza un salvavidas y los compañeros la recuperan. Más tarde Gur corre sobre una rueda hasta que una frenada lo arroja por la borda; Calista vuelve a ayudarlo. Estos accidentes causan daño y retrasos, sin dejar desaparecido a ninguno. Durante una parada, Guxi propone capturar comida. Gur se sumerge y una criatura enorme lo agarra. Erk baja tras él y Kurobani se acerca, creando oscuridad alrededor del combate. Gur mata al aboleth a golpes y lo sube con ayuda. Calista, que ha terminado en el agua entre bromas y forcejeos con Gelbreak, busca alimento por su cuenta: recoge un cangrejo y una aparente perla que resulta ser un huevo de la criatura. Propulsa a Kurobani a la superficie cuando necesita aire. Gur y Erk comen parte de la monstruosidad; a Gur le sienta mal. La nave llega entre niebla a la isla Espejismo, donde la vegetación brilla de forma extraña y las voces se desvanecen al intentar escucharlas. Guxi reconoce el camino hacia la cabaña de su maestro, llamado Kakashi o Takashi en la transcripción, y lo abraza. Gelbreak usa su influencia de sombras para obligarlo a responder; Gur aprovecha para leer pensamientos. La isla vinculada al mundo onírico permite que el maestro ofrezca a cada uno su comida favorita. Los compañeros comprueban esa comida, pero todavía no el alcance de una solución semejante para toda Kuroto. El maestro dice que tuvo otro aprendiz: su sobrino Suiro, amigo de Guxi. Lo acusa de integrarse en el culto tras un rapto y lavado de cerebro, falsificar documentos con la firma de Guxi y ejecutar un ritual para que todos lo olvidaran. Afirma haber conservado el recuerdo en la isla y esperado los diez años de duración del ritual antes de regresar. Guxi siente dolor al recordar. El maestro muestra copias y Calista distingue una pequeña diferencia real entre firmas. Gelbreak guarda los papeles; la observación sustenta la necesidad de revisar la acusación, sin convertir todo el relato del maestro en una sentencia. El maestro ofrece una piedra capaz de producir comida en menor escala que la isla. Surge una discusión: Gur ve una forma inmediata de aliviar el hambre, mientras Calista y Gelbreak temen disputas, apropiaciones y desigualdad entre pueblos. También recuerdan que los contratos vinculan a los cazadores al shogunato. Guxi plantea entregar la gema a Rua. No se prueba aún la capacidad de alimentar a toda la isla ni se acuerda en escena un reparto definitivo. La prioridad pasa a ser llevarla y estudiar su administración. Suiro aparece y confronta a su tío. Un intento de inmovilizarlo es resistido y la expedición queda separada de Guxi y su maestro frente a una falsa hidra. El canto y la pérdida de visión de la criatura provocan olvido y desconcierto. Kurobani la silencia al principio, Gur le causa grandes heridas y Calista inspira a los compañeros, pero el monstruo reaparece detrás de ella y la deja gravemente herida. Gelbreak acaba destruyéndolo con un toque necrótico. Al morir, los afectados empiezan a recordar y Kurobani cura a Calista. Las torretas de Guxi y la magia del maestro consiguen dejar inconsciente y atrapado a Suiro. Gelbreak se lleva por teletransporte a Calista, Gur y Erk a la base. Kurobani decide quedarse: quiere respuestas del cautivo sobre los cultistas y la oscuridad de su brazo avanza mientras su voluntad parece disputada. El maestro lo paraliza y le hace tragar algo que lo deja inconsciente y calma temporalmente a Osurei. Cargan la piedra y al prisionero, y el maestro teletransporta el barco con sus ocupantes. La audiencia con Rua queda para otro momento; no se muestra aquí la rehabilitación de Guxi.",
+  "afirmaciones": [
+    {
+      "id": "118-001",
+      "titulo": "La búsqueda del maestro",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Kurobani reúne al grupo para acompañar a Guxi en su barco terminado a buscar al maestro y aclarar su situación.",
+      "inicio": "00:04:00.000",
+      "fin": "00:14:00.000",
+      "entidades": [
+        "Kurobani (grafía provisional)",
+        "Guxi (grafía provisional)",
+        "Barco a motor de Guxi"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "La ayuda económica y el esclarecimiento del despido son objetivos, no resultados ya conseguidos.",
+      "cita": "maestro",
+      "evidencia_cue": {
+        "inicio": "00:09:10.360",
+        "fin": "00:09:12.430"
+      }
+    },
+    {
+      "id": "118-002",
+      "titulo": "Un disparo accidental con Erk",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Gur activa el cañón con Erk dentro, la dispara al agua y los compañeros la recuperan mediante el salvavidas que lanza Guxi.",
+      "inicio": "00:42:00.000",
+      "fin": "00:47:30.000",
+      "entidades": [
+        "Gur (grafía provisional)",
+        "Erk (grafía provisional)",
+        "Guxi (grafía provisional)",
+        "Barco a motor de Guxi"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "El disparo la hiere; no es una habilidad de vuelo segura.",
+      "cita": "boom, sales volando, te llevas 40 puntos",
+      "evidencia_cue": {
+        "inicio": "00:44:12.200",
+        "fin": "00:44:16.030"
+      }
+    },
+    {
+      "id": "118-003",
+      "titulo": "Gur mata al aboleth",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Durante la pesca un aboleth agarra a Gur; él lo mata y lo lleva al barco, asistido por compañeros.",
+      "inicio": "01:13:00.000",
+      "fin": "01:26:30.000",
+      "entidades": [
+        "Gur (grafía provisional)",
+        "Kurobani (grafía provisional)",
+        "Erk (grafía provisional)"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "La oscuridad cubre parte del combate, sin que los demás tengan visión uniforme de cada golpe.",
+      "cita": "casi muerto.",
+      "evidencia_cue": {
+        "inicio": "01:25:11.239",
+        "fin": "01:25:12.390"
+      }
+    },
+    {
+      "id": "118-004",
+      "titulo": "Un huevo confundido con perla",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Calista captura un cangrejo y recoge en la cueva del aboleth un objeto parecido a una perla que el director identifica como huevo de la criatura.",
+      "inicio": "01:27:00.000",
+      "fin": "01:37:30.000",
+      "entidades": [
+        "Calista",
+        "Huevo del aboleth recogido por Calista"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "No nace ninguna criatura ni se prueba un uso posterior del huevo.",
+      "cita": "No s. Podéis hacer un huevo frito",
+      "evidencia_cue": {
+        "inicio": "01:34:38.280",
+        "fin": "01:34:40.189"
+      }
+    },
+    {
+      "id": "118-005",
+      "titulo": "Comida onírica en la isla",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "En la isla Espejismo el maestro de Guxi produce comida favorita de los visitantes y explica su conexión con el mundo de los sueños.",
+      "inicio": "01:43:00.000",
+      "fin": "01:55:00.000",
+      "entidades": [
+        "Isla Espejismo",
+        "Maestro Kakashi de Guxi (grafía provisional)",
+        "Guxi (grafía provisional)"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "La comida se manifiesta, pero la teoría de su origen se conserva como explicación del maestro.",
+      "cita": "así, eh, forma parte del mundo onírico",
+      "evidencia_cue": {
+        "inicio": "01:54:05.480",
+        "fin": "01:54:08.990"
+      }
+    },
+    {
+      "id": "118-006",
+      "titulo": "Suiro, falsificaciones y olvido",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "El maestro atribuye a su sobrino Suiro, otro aprendiz, el ritual de olvido y la falsificación de firmas de Guxi. Calista reconoce diferencias entre las copias que muestra.",
+      "inicio": "01:54:00.000",
+      "fin": "02:00:00.000",
+      "entidades": [
+        "Maestro Kakashi de Guxi (grafía provisional)",
+        "Suiro (grafía provisional)",
+        "Guxi (grafía provisional)",
+        "Calista"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "La diferencia visible entre firmas no verifica por sí sola el rapto, lavado de cerebro ni cada detalle de la acusación.",
+      "cita": "Mi sobrino",
+      "evidencia_cue": {
+        "inicio": "01:55:02.199",
+        "fin": "01:55:04.270"
+      }
+    },
+    {
+      "id": "118-007",
+      "titulo": "Debate sobre la piedra de comida",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "El maestro ofrece una piedra productora de comida; el grupo debate reparto, alcance y riesgo de disputas, y Guxi plantea llevarla a Rua.",
+      "inicio": "02:03:00.000",
+      "fin": "02:13:00.000",
+      "entidades": [
+        "Piedra de comida de la isla Espejismo",
+        "Maestro Kakashi de Guxi (grafía provisional)",
+        "Guxi (grafía provisional)",
+        "Calista",
+        "Gur (grafía provisional)",
+        "Hermano de Danifae (nombre pendiente)",
+        "Rua (grafía provisional)"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "No se verifica capacidad ilimitada ni se ejecuta un plan de reparto en esta sesión.",
+      "cita": "A eso iba. Eh, hay un cristal que",
+      "evidencia_cue": {
+        "inicio": "02:04:26.000",
+        "fin": "02:04:28.390"
+      }
+    },
+    {
+      "id": "118-008",
+      "titulo": "La falsa hidra es derrotada",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "La aparición de Suiro separa a los cazadores frente a una falsa hidra que altera sus recuerdos. Hiere gravemente a Calista antes de que Gelbreak la mate; Kurobani cura a la tritón.",
+      "inicio": "02:13:00.000",
+      "fin": "02:47:00.000",
+      "entidades": [
+        "Suiro (grafía provisional)",
+        "Falsa hidra de la isla Espejismo",
+        "Calista",
+        "Kurobani (grafía provisional)",
+        "Hermano de Danifae (nombre pendiente)",
+        "Gur (grafía provisional)"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "Calista sobrevive; no queda borrada de la memoria de todos ni muere en escena.",
+      "cita": "va a recordar porque si este [ __ ] te",
+      "evidencia_cue": {
+        "inicio": "02:32:24.479",
+        "fin": "02:32:25.910"
+      }
+    },
+    {
+      "id": "118-009",
+      "titulo": "Suiro queda prisionero",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Las torretas de Guxi derriban al adversario y el maestro lo atrapa con telaraña, dejando a Suiro inconsciente y vivo.",
+      "inicio": "02:46:00.000",
+      "fin": "02:49:00.000",
+      "entidades": [
+        "Guxi (grafía provisional)",
+        "Maestro Kakashi de Guxi (grafía provisional)",
+        "Suiro (grafía provisional)"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "El grupo pide conservarlo vivo; no se muestra todavía interrogatorio completo.",
+      "cita": "y atraparlo. Así que está este señor",
+      "evidencia_cue": {
+        "inicio": "02:47:23.880",
+        "fin": "02:47:28.150"
+      }
+    },
+    {
+      "id": "118-010",
+      "titulo": "El maestro contiene a Kurobani",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Kurobani permanece para interrogar al cautivo, se descontrola la oscuridad de su brazo y el maestro lo paraliza y seda; calma a Osurei temporalmente y transporta el barco con la piedra y ocupantes.",
+      "inicio": "02:49:00.000",
+      "fin": "02:55:30.000",
+      "entidades": [
+        "Kurobani (grafía provisional)",
+        "Maestro Kakashi de Guxi (grafía provisional)",
+        "Suiro (grafía provisional)",
+        "Piedra de comida de la isla Espejismo",
+        "Barco a motor de Guxi"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "No se elimina definitivamente la influencia; la visita a Rua se deja para fuera de esta escena.",
+      "cita": "osurai que tiene dentro durante un",
+      "evidencia_cue": {
+        "inicio": "02:54:18.800",
+        "fin": "02:54:21.349"
+      }
+    }
+  ],
+  "historia": {
+    "revisado_hasta": 118,
+    "etapas": [
+      {
+        "titulo": "Una salida para ayudar a Guxi",
+        "texto": "Calista escribe al creador de los portales por el arco desactivado después de la expedición del espejo. Kurobani, que ha escondido la Biblia en su base, reúne a Calista, Gur, Erk y Gelbreak para ayudar a Guxi: el barco está terminado y permitirá buscar a su antiguo maestro. Esperan aclarar el despido y conseguir ayuda para la crisis. Gelbreak cuenta que investiga el monasterio y la orden de Kurobani por un acuerdo entre ambos; su contenido completo no se representa.",
+        "referencias": [
+          "118-001"
+        ]
+      },
+      {
+        "titulo": "El barco y sus pasajeros",
+        "texto": "Guxi presenta una nave metálica a motor, con caldera, pequeño constructo al timón y espacio para dormir. La velocidad provoca mareos, que trata con medicina. Gur trata el barco como un parque de juegos: ayuda a Erk a meterse en un cañón y termina disparándola al agua. Guxi lanza un salvavidas y los compañeros la recuperan. Más tarde Gur corre sobre una rueda hasta que una frenada lo arroja por la borda; Calista vuelve a ayudarlo. Estos accidentes causan daño y retrasos, sin dejar desaparecido a ninguno.",
+        "referencias": [
+          "118-002"
+        ]
+      },
+      {
+        "titulo": "La competición de pesca",
+        "texto": "Durante una parada, Guxi propone capturar comida. Gur se sumerge y una criatura enorme lo agarra. Erk baja tras él y Kurobani se acerca, creando oscuridad alrededor del combate. Gur mata al aboleth a golpes y lo sube con ayuda. Calista, que ha terminado en el agua entre bromas y forcejeos con Gelbreak, busca alimento por su cuenta: recoge un cangrejo y una aparente perla que resulta ser un huevo de la criatura. Propulsa a Kurobani a la superficie cuando necesita aire. Gur y Erk comen parte de la monstruosidad; a Gur le sienta mal.",
+        "referencias": [
+          "118-003",
+          "118-004"
+        ]
+      },
+      {
+        "titulo": "El maestro de la isla Espejismo",
+        "texto": "La nave llega entre niebla a la isla Espejismo, donde la vegetación brilla de forma extraña y las voces se desvanecen al intentar escucharlas. Guxi reconoce el camino hacia la cabaña de su maestro, llamado Kakashi o Takashi en la transcripción, y lo abraza. Gelbreak usa su influencia de sombras para obligarlo a responder; Gur aprovecha para leer pensamientos. La isla vinculada al mundo onírico permite que el maestro ofrezca a cada uno su comida favorita. Los compañeros comprueban esa comida, pero todavía no el alcance de una solución semejante para toda Kuroto.",
+        "referencias": [
+          "118-005"
+        ]
+      },
+      {
+        "titulo": "Un alumno borrado del recuerdo",
+        "texto": "El maestro dice que tuvo otro aprendiz: su sobrino Suiro, amigo de Guxi. Lo acusa de integrarse en el culto tras un rapto y lavado de cerebro, falsificar documentos con la firma de Guxi y ejecutar un ritual para que todos lo olvidaran. Afirma haber conservado el recuerdo en la isla y esperado los diez años de duración del ritual antes de regresar. Guxi siente dolor al recordar. El maestro muestra copias y Calista distingue una pequeña diferencia real entre firmas. Gelbreak guarda los papeles; la observación sustenta la necesidad de revisar la acusación, sin convertir todo el relato del maestro en una sentencia.",
+        "referencias": [
+          "118-006"
+        ]
+      },
+      {
+        "titulo": "La piedra y el problema de repartir",
+        "texto": "El maestro ofrece una piedra capaz de producir comida en menor escala que la isla. Surge una discusión: Gur ve una forma inmediata de aliviar el hambre, mientras Calista y Gelbreak temen disputas, apropiaciones y desigualdad entre pueblos. También recuerdan que los contratos vinculan a los cazadores al shogunato. Guxi plantea entregar la gema a Rua. No se prueba aún la capacidad de alimentar a toda la isla ni se acuerda en escena un reparto definitivo. La prioridad pasa a ser llevarla y estudiar su administración.",
+        "referencias": [
+          "118-007"
+        ]
+      },
+      {
+        "titulo": "El sobrino y la falsa hidra",
+        "texto": "Suiro aparece y confronta a su tío. Un intento de inmovilizarlo es resistido y la expedición queda separada de Guxi y su maestro frente a una falsa hidra. El canto y la pérdida de visión de la criatura provocan olvido y desconcierto. Kurobani la silencia al principio, Gur le causa grandes heridas y Calista inspira a los compañeros, pero el monstruo reaparece detrás de ella y la deja gravemente herida. Gelbreak acaba destruyéndolo con un toque necrótico. Al morir, los afectados empiezan a recordar y Kurobani cura a Calista.",
+        "referencias": [
+          "118-008"
+        ]
+      },
+      {
+        "titulo": "Dos regresos y un control perdido",
+        "texto": "Las torretas de Guxi y la magia del maestro consiguen dejar inconsciente y atrapado a Suiro. Gelbreak se lleva por teletransporte a Calista, Gur y Erk a la base. Kurobani decide quedarse: quiere respuestas del cautivo sobre los cultistas y la oscuridad de su brazo avanza mientras su voluntad parece disputada. El maestro lo paraliza y le hace tragar algo que lo deja inconsciente y calma temporalmente a Osurei. Cargan la piedra y al prisionero, y el maestro teletransporta el barco con sus ocupantes. La audiencia con Rua queda para otro momento; no se muestra aquí la rehabilitación de Guxi.",
+        "referencias": [
+          "118-009",
+          "118-010"
+        ]
+      }
+    ]
+  },
+  "misiones": [
+    "Aclarar con el maestro las firmas y el despido de Guxi.",
+    "Llevar la piedra de comida y decidir su reparto.",
+    "Interrogar a Suiro y contener el descontrol de Kurobani."
+  ],
+  "preguntas": [
+    "¿Qué confirmará el interrogatorio de Suiro y servirá para rehabilitar a Guxi?",
+    "¿Cuánta comida produce la piedra y quién controlará su reparto?",
+    "¿Cuánto dura la contención de Osurei y qué relación tiene con los cultistas?",
+    "¿Qué hará Calista con el huevo del aboleth?"
+  ],
+  "nombres_dudosos": [
+    "Kakashi/Takashi: maestro de Guxi, grafía provisional.",
+    "Suiro: sobrino y antiguo aprendiz según su tío; mantener grafía provisional.",
+    "Osurei/Osuray: influencia interior calmada temporalmente."
+  ],
+  "contradicciones": [
+    "La duración del viaje oscila entre cinco días, ida y vuelta y una jornada; no se fija una cronología exacta con esas bromas.",
+    "No se confirma la presencia de Maroxi libre aunque se lo mencione durante bromas iniciales;117 termina atrapado y118 no representa rescate.",
+    "La capacidad de la piedra no se verifica alimentando a toda Kuroto."
+  ]
+}

@@ -1,0 +1,1560 @@
+{
+  "entidades": [
+    {
+      "nombre": "Ruinas orientales de la Biblia de Otakemaru",
+      "tipo": "lugar",
+      "descripcion": "Cripta al este de Sho cuyo símbolo coincide con el volumen que investiga Kurobani.",
+      "etiquetas": [
+        "Ruinas orientales de la Biblia de Otakemaru"
+      ],
+      "nota": "Aportación de lectura íntegra116; no completar escenas omitidas ni poderes no mostrados.",
+      "historia": {
+        "revisado_hasta": 116,
+        "etapas": [
+          {
+            "titulo": "El libro y el arma en la cripta oriental",
+            "texto": "Chilia guía a los compañeros hasta sus salas de calaveras, trampas, palancas y llamas azules. Vencen a no muertos y oni y encuentran un estoque negro en un sarcófago. Gur borra parte de un símbolo de invocación, sin encontrar cultistas vivos.",
+            "referencias": [
+              "116-003",
+              "116-004",
+              "116-005",
+              "116-006",
+              "116-007",
+              "116-008",
+              "116-009"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Estoque negro del sarcófago oriental",
+      "tipo": "objeto",
+      "descripcion": "Estoque de filo negro opaco recuperado por Kurobani.",
+      "etiquetas": [
+        "Estoque negro del sarcófago oriental"
+      ],
+      "nota": "Aportación de lectura íntegra116; no completar escenas omitidas ni poderes no mostrados.",
+      "historia": {
+        "revisado_hasta": 116,
+        "etapas": [
+          {
+            "titulo": "El libro y el arma en la cripta oriental",
+            "texto": "La voz interior de Kurobani lo reclama desde un sarcófago y su influencia oscurece ojo y mano de su portador mientras abre la tumba. Él recoge el arma y prueba sus movimientos; no se revelan su nombre ni todas sus propiedades.",
+            "referencias": [
+              "116-008"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Libro horrible recuperado de la cripta",
+      "tipo": "objeto",
+      "descripcion": "Volumen que crece al absorber magia, llamado Biblia Sagrada de Otakemaru por Chilia.",
+      "etiquetas": [
+        "Libro horrible recuperado de la cripta"
+      ],
+      "nota": "Aportación de lectura íntegra116; no completar escenas omitidas ni poderes no mostrados.",
+      "historia": {
+        "revisado_hasta": 121,
+        "etapas": [
+          {
+            "titulo": "El libro y el arma en la cripta oriental",
+            "texto": "Los intentos de investigación con Guxi no consiguen abrir su sentido. Gur cae al tocarlo y Arwen comprueba cómo desvía la curación hasta que Kurobani lo aparta. Chilia reconoce su símbolo y orienta la visita a otras ruinas, sin traducir el texto entero.",
+            "referencias": [
+              "116-002",
+              "116-003"
+            ]
+          },
+          {
+            "titulo": "El regreso al monasterio y la pérdida del control",
+            "texto": "Kurobani la recoge de la base sur y evita dejarla en una bolsa de contención tras la advertencia de Gelbreak. Gur recibe su custodia en una mochila; no la abre ni se descifra.",
+            "referencias": [
+              "121-004"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Kurobani (grafía provisional)",
+      "tipo": "personaje",
+      "descripcion": "Ninja que investiga un libro y una influencia interior.",
+      "etiquetas": [
+        "Kurobani (grafía provisional)"
+      ],
+      "nota": "Aportación de lectura íntegra116; no completar escenas omitidas ni poderes no mostrados.",
+      "historia": {
+        "revisado_hasta": 121,
+        "etapas": [
+          {
+            "titulo": "El libro y el arma en la cripta oriental",
+            "texto": "Conduce una expedición hacia el símbolo del volumen y encuentra un estoque reclamado por su voz interior. Pide vigilancia a sus compañeros antes de abrir el sarcófago; termina con ojo, brazo, voz y aura alterados, dejando pendiente una conversación con Jin.",
+            "referencias": [
+              "116-002",
+              "116-003",
+              "116-008",
+              "116-009"
+            ]
+          },
+          {
+            "titulo": "La isla de los recuerdos y el hambre",
+            "texto": "Organiza la ayuda a Guxi, deja ver el avance oscuro de su brazo y trata de contener el canto de la falsa hidra con silencio. Después de curar a Calista se queda para interrogar al cautivo, pero pierde control; el maestro lo inmoviliza y seda hasta calmar temporalmente a Osurei.",
+            "referencias": [
+              "118-001",
+              "118-008",
+              "118-010"
+            ]
+          },
+          {
+            "titulo": "La candidatura militar y la pesquisa clandestina",
+            "texto": "Ayuda a Guxi a llegar a la reunión y vigila el ambiente mientras Calista investiga. Ofrece un punto estratégico a la milicia de Yasuoka y después pide medios de vigilancia para observar a sus posibles ocupantes. El envío aún no se muestra.",
+            "referencias": [
+              "119-003",
+              "119-010",
+              "119-012"
+            ]
+          },
+          {
+            "titulo": "El regreso al monasterio y la pérdida del control",
+            "texto": "Explica su condición y vuelve al monasterio que perdió. Recupera el diario del maestro, pero los hilos de las estatuas lo arrastran. Tras la destrucción del foco, otra voluntad ocupa el cuerpo y lo encierra por dentro; los compañeros solo consiguen dejar el cuerpo inconsciente y retirarlo.",
+            "referencias": [
+              "121-003",
+              "121-007",
+              "121-008",
+              "121-009",
+              "121-010"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Sir (grafía provisional)",
+      "tipo": "personaje",
+      "descripcion": "Clérigo recuperado tras el ritual de la Reina Cuervo.",
+      "etiquetas": [
+        "Sir (grafía provisional)"
+      ],
+      "nota": "Aportación de lectura íntegra116; no completar escenas omitidas ni poderes no mostrados.",
+      "historia": {
+        "revisado_hasta": 116,
+        "etapas": [
+          {
+            "titulo": "El libro y el arma en la cripta oriental",
+            "texto": "Jin afirma haberlo encontrado vivo. La noticia da continuidad al movimiento iniciado dentro de la cúpula, aunque esta sesión no reproduce su salida ni el encuentro completo.",
+            "referencias": [
+              "116-001"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Arwen",
+      "tipo": "personaje",
+      "descripcion": "Niña druida cercana a Chilia.",
+      "etiquetas": [
+        "Arwen"
+      ],
+      "nota": "Aportación de lectura íntegra116; no completar escenas omitidas ni poderes no mostrados.",
+      "historia": {
+        "revisado_hasta": 116,
+        "etapas": [
+          {
+            "titulo": "El libro y el arma en la cripta oriental",
+            "texto": "Ayuda a levantar a Gur tras apartar el libro, resuelve la sala del botón rojo y usa gravedad invertida cuando un oni la sujeta. Chilia destruye al captor y la libera; ambas abandonan juntas las ruinas.",
+            "referencias": [
+              "116-002",
+              "116-006",
+              "116-007"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Espejo de la Vida, la Muerte y el Deseo",
+      "tipo": "objeto",
+      "descripcion": "Artefacto circular ornamentado formado por tres secciones de cristal unidas.",
+      "etiquetas": [
+        "Espejo de la Vida, la Muerte y el Deseo"
+      ],
+      "nota": "Aportación de lectura íntegra117; el estado de Maroxi es atrapado, no muerto confirmado.",
+      "historia": {
+        "revisado_hasta": 117,
+        "etapas": [
+          {
+            "titulo": "El encargo del espejo y el derrumbe",
+            "texto": "Maroxi lo busca por encargo de la Reina Cuervo y como posible clave para extraer su huésped. Tras resolver cuatro pruebas lo recupera, pero el templo se derrumba y queda con él encerrado en la montaña.",
+            "referencias": [
+              "117-003",
+              "117-010",
+              "117-011"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Cristal del portal retirado por Maroxi",
+      "tipo": "objeto",
+      "descripcion": "Pieza del portal de la base usada en un ritual de traslado.",
+      "etiquetas": [
+        "Cristal del portal retirado por Maroxi"
+      ],
+      "nota": "Aportación de lectura íntegra117; el estado de Maroxi es atrapado, no muerto confirmado.",
+      "historia": {
+        "revisado_hasta": 117,
+        "etapas": [
+          {
+            "titulo": "El encargo del espejo y el derrumbe",
+            "texto": "Maroxi y Danifae lo extraen, dejando el arco inactivo. Lo lleva a la búsqueda del espejo y queda con él dentro de la montaña derrumbada; su devolución continúa pendiente.",
+            "referencias": [
+              "117-004",
+              "117-011"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Templo montañoso del Espejo de la Vida, la Muerte y el Deseo",
+      "tipo": "lugar",
+      "descripcion": "Antigua construcción dentro de una montaña que custodia el espejo.",
+      "etiquetas": [
+        "Templo montañoso del Espejo de la Vida, la Muerte y el Deseo"
+      ],
+      "nota": "Aportación de lectura íntegra117; el estado de Maroxi es atrapado, no muerto confirmado.",
+      "historia": {
+        "revisado_hasta": 117,
+        "etapas": [
+          {
+            "titulo": "El encargo del espejo y el derrumbe",
+            "texto": "Sus cuatro salas protegen cristales mediante teletransporte, gárgolas, vasijas y plataformas. El grupo reúne las piezas, pero retirar el espejo activa explosiones y un derrumbe. Maroxi queda encerrado tras sacar a Jin.",
+            "referencias": [
+              "117-005",
+              "117-006",
+              "117-007",
+              "117-008",
+              "117-009",
+              "117-010",
+              "117-011"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Maroxi",
+      "tipo": "personaje",
+      "descripcion": "Cambiaformas que sirve a la Reina Cuervo conservando un huésped maligno.",
+      "etiquetas": [
+        "Maroxi"
+      ],
+      "nota": "Aportación de lectura íntegra117; el estado de Maroxi es atrapado, no muerto confirmado.",
+      "historia": {
+        "revisado_hasta": 117,
+        "etapas": [
+          {
+            "titulo": "El encargo del espejo y el derrumbe",
+            "texto": "Se presenta como Maroxi Ayala y organiza una búsqueda del espejo que su protectora ha pedido. Recupera el artefacto, pero al volver por Jin durante la huida queda atrapado en la montaña, con el objeto y una pieza del portal.",
+            "referencias": [
+              "117-002",
+              "117-003",
+              "117-004",
+              "117-010",
+              "117-011"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Archi",
+      "tipo": "personaje",
+      "descripcion": "Gnomo artífice incorporado formalmente a los cazadores.",
+      "etiquetas": [
+        "Archi"
+      ],
+      "nota": "Aportación de lectura íntegra117; el estado de Maroxi es atrapado, no muerto confirmado.",
+      "historia": {
+        "revisado_hasta": 117,
+        "etapas": [
+          {
+            "titulo": "El encargo del espejo y el derrumbe",
+            "texto": "Firma el contrato que presenta Calista y se suma a la expedición de Maroxi. Con Ralph y Danifae resuelve el cristal móvil; combate sujeto por una gárgola y recupera volando la última pieza. Sale del templo mientras Maroxi queda encerrado.",
+            "referencias": [
+              "117-001",
+              "117-006",
+              "117-007",
+              "117-009",
+              "117-011"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Jin",
+      "tipo": "personaje",
+      "descripcion": "Guerrero que ayuda a Calista y a la expedición de Maroxi.",
+      "etiquetas": [
+        "Jin"
+      ],
+      "nota": "Aportación de lectura íntegra117; el estado de Maroxi es atrapado, no muerto confirmado.",
+      "historia": {
+        "revisado_hasta": 117,
+        "etapas": [
+          {
+            "titulo": "El encargo del espejo y el derrumbe",
+            "texto": "Se encarga de buena parte del combate contra las gárgolas y asume el riesgo de la plataforma que revela el último cristal. Durante la salida, Danifae lo desequilibra y pierde el conocimiento; Maroxi lo saca antes de quedar atrapado.",
+            "referencias": [
+              "117-001",
+              "117-007",
+              "117-009",
+              "117-011"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Danifae (grafía provisional)",
+      "tipo": "personaje",
+      "descripcion": "Drow rastreadora y compañera de la expedición.",
+      "etiquetas": [
+        "Danifae (grafía provisional)"
+      ],
+      "nota": "Aportación de lectura íntegra117; el estado de Maroxi es atrapado, no muerto confirmado.",
+      "historia": {
+        "revisado_hasta": 117,
+        "etapas": [
+          {
+            "titulo": "El encargo del espejo y el derrumbe",
+            "texto": "Acude como devolución de un favor a Maroxi, quien le presta armas. Encuentra la entrada y resuelve con Archi el cristal móvil y después las vasijas. Su hostilidad con Calista acompaña la misión; en la salida desequilibra a Jin y termina fuera mientras Maroxi queda encerrado al salvarlo.",
+            "referencias": [
+              "117-004",
+              "117-005",
+              "117-006",
+              "117-008",
+              "117-011"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Calista",
+      "tipo": "personaje",
+      "descripcion": "Barda que asume la administración tras el despido de Guxi.",
+      "etiquetas": [
+        "Calista"
+      ],
+      "nota": "Aportación de lectura íntegra117; el estado de Maroxi es atrapado, no muerto confirmado.",
+      "historia": {
+        "revisado_hasta": 122,
+        "etapas": [
+          {
+            "titulo": "El encargo del espejo y el derrumbe",
+            "texto": "Formaliza la incorporación de Archi y ayuda a la expedición de Maroxi con inspiración, magia y observación de las ruinas. Advierte los derrumbes y mantiene una relación hostil con Danifae durante las pruebas. Escapa del templo sin que el espejo llegue a su destino.",
+            "referencias": [
+              "117-001",
+              "117-005",
+              "117-007",
+              "117-011"
+            ]
+          },
+          {
+            "titulo": "La candidatura militar y la pesquisa clandestina",
+            "texto": "Defiende la autonomía del voto de los cazadores y oculta su preferencia ante Yasuoka. Coordina una foto, mantiene un doble en la mesa mientras investiga el despacho y reúne papeles para analizarlos. Después propone a Gelbreak y Banzo nuevos trabajos discretos para proteger a Rua.",
+            "referencias": [
+              "119-005",
+              "119-006",
+              "119-007",
+              "119-008",
+              "119-011",
+              "119-012"
+            ]
+          },
+          {
+            "titulo": "La audiencia y el encargo de la espada",
+            "texto": "Su miedo y urgencia tensan la búsqueda del mago. Acepta superar su pudor en la danza y ayuda a sobrevivir a los gusanos antes de la audiencia. Descubre que debe liberar una parte de su mente atrapada en la red; vuelve con las marcas y una misión precisa.",
+            "referencias": [
+              "120-001",
+              "120-002",
+              "120-004",
+              "120-006",
+              "120-007",
+              "120-008"
+            ]
+          },
+          {
+            "titulo": "El regreso al monasterio y la pérdida del control",
+            "texto": "Cuenta que la matriarca le ha quitado el recuerdo de sus padres. Acompaña al ninja al monasterio, cae dormida por una flor y vuelve a luchar al despertar. Intenta apartarlo con viento y curarlo después de que sus compañeros lo dejen inconsciente, sin lograr devolverle el control.",
+            "referencias": [
+              "121-001",
+              "121-006",
+              "121-008",
+              "121-009",
+              "121-010"
+            ]
+          },
+          {
+            "titulo": "Contrato y sueños bajo la carpa",
+            "texto": "Redacta el contrato de las dos voluntades y propone investigar los regalos. En el circo queda atada en alto, intenta detener los ataques de Gur y cura al drow. Osuray la rescata y Gelbreak termina sacándola por teletransporte mientras el conflicto con Gur sigue abierto.",
+            "referencias": [
+              "122-001",
+              "122-005",
+              "122-007",
+              "122-008",
+              "122-009"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Barco a motor de Guxi",
+      "tipo": "objeto",
+      "descripcion": "Nave metálica con caldera, cañón y constructo al timón.",
+      "etiquetas": [
+        "Barco a motor de Guxi"
+      ],
+      "nota": "Aportación de lectura íntegra118; separar declaraciones del maestro, hechos observados y resultados pendientes.",
+      "historia": {
+        "revisado_hasta": 118,
+        "etapas": [
+          {
+            "titulo": "La isla de los recuerdos y el hambre",
+            "texto": "Guxi termina la nave y lleva a los compañeros a la isla Espejismo. El viaje combina mareos, accidentes y pesca. El regreso no se hace navegando: el maestro teletransporta el barco con la piedra, el cautivo y los ocupantes que permanecen.",
+            "referencias": [
+              "118-001",
+              "118-002",
+              "118-010"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Isla Espejismo",
+      "tipo": "lugar",
+      "descripcion": "Isla vinculada al mundo onírico donde se refugia el maestro de Guxi.",
+      "etiquetas": [
+        "Isla Espejismo"
+      ],
+      "nota": "Aportación de lectura íntegra118; separar declaraciones del maestro, hechos observados y resultados pendientes.",
+      "historia": {
+        "revisado_hasta": 118,
+        "etapas": [
+          {
+            "titulo": "La isla de los recuerdos y el hambre",
+            "texto": "Sus brillos y voces fugitivas reciben a la expedición. Allí se materializa comida y el maestro afirma haber conservado el recuerdo de su sobrino olvidado. La aparición de Suiro provoca una lucha con la falsa hidra antes de trasladar una piedra alimenticia a Kuroto.",
+            "referencias": [
+              "118-005",
+              "118-006",
+              "118-007",
+              "118-008"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Maestro Kakashi de Guxi (grafía provisional)",
+      "tipo": "personaje",
+      "descripcion": "Maestro de Guxi refugiado en la isla Espejismo.",
+      "etiquetas": [
+        "Maestro Kakashi de Guxi (grafía provisional)"
+      ],
+      "nota": "Aportación de lectura íntegra118; separar declaraciones del maestro, hechos observados y resultados pendientes.",
+      "historia": {
+        "revisado_hasta": 118,
+        "etapas": [
+          {
+            "titulo": "La isla de los recuerdos y el hambre",
+            "texto": "Relata el rapto y manipulación de su sobrino Suiro, muestra firmas con pequeñas diferencias y ofrece una piedra para paliar el hambre. Ayuda a capturar vivo al sobrino y contiene temporalmente el descontrol de Kurobani antes de teletransportar el barco.",
+            "referencias": [
+              "118-005",
+              "118-006",
+              "118-007",
+              "118-009",
+              "118-010"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Suiro (grafía provisional)",
+      "tipo": "personaje",
+      "descripcion": "Sobrino del maestro de Guxi, presentado como antiguo aprendiz captado por el culto.",
+      "etiquetas": [
+        "Suiro (grafía provisional)"
+      ],
+      "nota": "Aportación de lectura íntegra118; separar declaraciones del maestro, hechos observados y resultados pendientes.",
+      "historia": {
+        "revisado_hasta": 118,
+        "etapas": [
+          {
+            "titulo": "La isla de los recuerdos y el hambre",
+            "texto": "Su tío le atribuye falsificaciones y un ritual de olvido de diez años. Aparece en la isla y enfrenta a los visitantes con su mascota, una falsa hidra. Guxi y el maestro lo dejan inconsciente y prisionero; sus respuestas quedan pendientes.",
+            "referencias": [
+              "118-006",
+              "118-008",
+              "118-009"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Falsa hidra de la isla Espejismo",
+      "tipo": "personaje",
+      "descripcion": "Monstruo que Suiro emplea contra los compañeros de Guxi.",
+      "etiquetas": [
+        "Falsa hidra de la isla Espejismo"
+      ],
+      "nota": "Aportación de lectura íntegra118; separar declaraciones del maestro, hechos observados y resultados pendientes.",
+      "historia": {
+        "revisado_hasta": 118,
+        "etapas": [
+          {
+            "titulo": "La isla de los recuerdos y el hambre",
+            "texto": "Su canto y la pérdida de visión provocan olvido durante el enfrentamiento. Resiste el ataque inicial, hiere gravemente a Calista y acaba muerta por Gelbreak, tras lo cual los recuerdos empiezan a volver.",
+            "referencias": [
+              "118-008"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Piedra de comida de la isla Espejismo",
+      "tipo": "objeto",
+      "descripcion": "Gema que el maestro ofrece como fuente reducida de alimento onírico.",
+      "etiquetas": [
+        "Piedra de comida de la isla Espejismo"
+      ],
+      "nota": "Aportación de lectura íntegra118; separar declaraciones del maestro, hechos observados y resultados pendientes.",
+      "historia": {
+        "revisado_hasta": 118,
+        "etapas": [
+          {
+            "titulo": "La isla de los recuerdos y el hambre",
+            "texto": "Su posible uso abre un debate sobre capacidad, reparto y apropiación por poderes de Kuroto. Se carga en el barco y llega con el maestro, sin mostrarse todavía una audiencia ni distribución general.",
+            "referencias": [
+              "118-007",
+              "118-010"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Huevo del aboleth recogido por Calista",
+      "tipo": "objeto",
+      "descripcion": "Huevo inicialmente parecido a una perla en la cueva del aboleth.",
+      "etiquetas": [
+        "Huevo del aboleth recogido por Calista"
+      ],
+      "nota": "Aportación de lectura íntegra118; separar declaraciones del maestro, hechos observados y resultados pendientes.",
+      "historia": {
+        "revisado_hasta": 118,
+        "etapas": [
+          {
+            "titulo": "La isla de los recuerdos y el hambre",
+            "texto": "Calista lo recoge durante la pesca y se lo lleva en su bolsa. El director aclara su naturaleza, sin representar eclosión ni otro uso.",
+            "referencias": [
+              "118-004"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Guxi (grafía provisional)",
+      "tipo": "personaje",
+      "descripcion": "Artífice despedido que busca aclarar su acusación.",
+      "etiquetas": [
+        "Guxi (grafía provisional)"
+      ],
+      "nota": "Aportación de lectura íntegra118; separar declaraciones del maestro, hechos observados y resultados pendientes.",
+      "historia": {
+        "revisado_hasta": 121,
+        "etapas": [
+          {
+            "titulo": "La isla de los recuerdos y el hambre",
+            "texto": "Lleva al grupo en su barco a la isla donde reaparece el recuerdo de otro aprendiz, Suiro. Las copias con firmas diferentes abren una vía para revisar su culpa. Ayuda a capturar al sobrino y regresa con su maestro y la piedra, sin rehabilitación oficial mostrada.",
+            "referencias": [
+              "118-001",
+              "118-006",
+              "118-009",
+              "118-010"
+            ]
+          },
+          {
+            "titulo": "La candidatura militar y la pesquisa clandestina",
+            "texto": "Cuenta el fracaso de su rehabilitación al faltar los papeles de Gelbreak y se muestra abatido. Kurobani y Calista intentan ayudarlo. En la cena fotografía a los reunidos y explora una oferta de trabajo de Yasuoka para conocer mejor sus planes; no firma ni recupera oficialmente su cargo.",
+            "referencias": [
+              "119-001",
+              "119-003",
+              "119-007",
+              "119-009",
+              "119-012"
+            ]
+          },
+          {
+            "titulo": "El regreso al monasterio y la pérdida del control",
+            "texto": "Lleva al grupo hacia el sur, recupera una llave y una historia antigua del templo y combate con sus torretas. Corta la magia de velocidad para ayudar a reducir el cuerpo tomado del ninja y lo carga para llevarlo al campamento.",
+            "referencias": [
+              "121-002",
+              "121-005",
+              "121-007",
+              "121-008",
+              "121-010"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Residencia de Yasuoka",
+      "tipo": "lugar",
+      "descripcion": "Mansión militar de Sho con guardia privada y despacho.",
+      "etiquetas": [
+        "Residencia de Yasuoka"
+      ],
+      "nota": "Aportación de lectura íntegra119; no presentar negociaciones o sospechas como contratos y delitos consumados.",
+      "historia": {
+        "revisado_hasta": 119,
+        "etapas": [
+          {
+            "titulo": "La candidatura militar y la pesquisa clandestina",
+            "texto": "El anfitrión reúne nobles y cazadores para solicitar votos en su candidatura. Mientras mantiene una imagen de Calista en la cena, ella, Gelbreak y Banzo entran invisibles en un despacho y sustraen papeles de negocios, sin que se pruebe aún su significado.",
+            "referencias": [
+              "119-003",
+              "119-006",
+              "119-008",
+              "119-011"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Fotografía de la reunión de Yasuoka",
+      "tipo": "objeto",
+      "descripcion": "Imagen captada clandestinamente por Guxi durante la cena política.",
+      "etiquetas": [
+        "Fotografía de la reunión de Yasuoka"
+      ],
+      "nota": "Aportación de lectura íntegra119; no presentar negociaciones o sospechas como contratos y delitos consumados.",
+      "historia": {
+        "revisado_hasta": 119,
+        "etapas": [
+          {
+            "titulo": "La candidatura militar y la pesquisa clandestina",
+            "texto": "Calista coordina su captura para conservar constancia de los participantes. Guxi la toma sin ser visto y al salir pretende revelarla en la base para llevar información al palacio. La imagen revelada no se muestra todavía.",
+            "referencias": [
+              "119-007",
+              "119-012"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Yasuoka (grafía provisional)",
+      "tipo": "personaje",
+      "descripcion": "Noble proveedor de la milicia y aspirante a shogun.",
+      "etiquetas": [
+        "Yasuoka (grafía provisional)"
+      ],
+      "nota": "Aportación de lectura íntegra119; no presentar negociaciones o sospechas como contratos y delitos consumados.",
+      "historia": {
+        "revisado_hasta": 119,
+        "etapas": [
+          {
+            "titulo": "La candidatura militar y la pesquisa clandestina",
+            "texto": "Critica a Rua y a los cazadores y pide sus votos con la promesa de orden y poder militar. Ofrece a Guxi probar inventos para sus talleres y pretende influir en su voto mediante empleo. Acepta estudiar la base sur de Kurobani, mientras sus invitados registran en secreto su despacho.",
+            "referencias": [
+              "119-004",
+              "119-006",
+              "119-009",
+              "119-010",
+              "119-011"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Banzo",
+      "tipo": "personaje",
+      "descripcion": "Guardaespaldas de Rua que intenta mejorar su lectura y criterio político.",
+      "etiquetas": [
+        "Banzo"
+      ],
+      "nota": "Aportación de lectura íntegra119; no presentar negociaciones o sospechas como contratos y delitos consumados.",
+      "historia": {
+        "revisado_hasta": 122,
+        "etapas": [
+          {
+            "titulo": "La candidatura militar y la pesquisa clandestina",
+            "texto": "Apoya públicamente a Rua y cuestiona las prioridades de Yasuoka, aunque reconoce a Kurobani que ni siquiera había preguntado a la regente qué quiere ella. Acompaña la búsqueda invisible y termina invitado a preparar nuevos trabajos con Calista y Gelbreak.",
+            "referencias": [
+              "119-002",
+              "119-004",
+              "119-006",
+              "119-008",
+              "119-011",
+              "119-012"
+            ]
+          },
+          {
+            "titulo": "La audiencia y el encargo de la espada",
+            "texto": "Media con Ginoyama, anima a Calista en la danza y lucha por sacar a Gur del gusano. Ante Eilistraee conoce el cautiverio de su mente y pide además ayuda para Gelbreak, petición que la diosa declina. Regresa sin curación inmediata.",
+            "referencias": [
+              "120-002",
+              "120-004",
+              "120-006",
+              "120-007",
+              "120-009"
+            ]
+          },
+          {
+            "titulo": "Contrato y sueños bajo la carpa",
+            "texto": "Apoya el contrato, queda transformado por un traje y combate subido al dragón antes de entrar en su garganta. Mientras Gelbreak y Calista se marchan, permanece con Gur y trata de sacarlo del incendio. Ambos sobreviven y la explosión rompe su disfraz.",
+            "referencias": [
+              "122-001",
+              "122-002",
+              "122-006",
+              "122-009",
+              "122-010"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Hermano de Danifae (nombre pendiente)",
+      "tipo": "personaje",
+      "descripcion": "Gelbreak, bardo drow diestro en engaños y hurtos.",
+      "etiquetas": [
+        "Hermano de Danifae (nombre pendiente)"
+      ],
+      "nota": "Aportación de lectura íntegra119; no presentar negociaciones o sospechas como contratos y delitos consumados.",
+      "historia": {
+        "revisado_hasta": 122,
+        "etapas": [
+          {
+            "titulo": "La candidatura militar y la pesquisa clandestina",
+            "texto": "Su retención de las pruebas mantiene abierto el problema de Guxi. En la cena dice que su voto depende de lo que consiga y colabora con Calista y Banzo en la intrusión invisible. Saca documentos del despacho y entrega a Calista los que ella tomó, sin devolución inequívoca de las firmas anteriores.",
+            "referencias": [
+              "119-001",
+              "119-006",
+              "119-008",
+              "119-011",
+              "119-012"
+            ]
+          },
+          {
+            "titulo": "Contrato y sueños bajo la carpa",
+            "texto": "Un sueño le hace intentar salvar una estrella de una araña, sin revelar públicamente lo que contiene la luz. Despierta en una cuerda, intenta llegar a Calista y sufre los ataques reales de Gur. Osuray lo baja y acaba escapando con la tritón por teletransporte.",
+            "referencias": [
+              "122-003",
+              "122-004",
+              "122-005",
+              "122-007",
+              "122-008",
+              "122-009"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Bosque de la Luna (Brunami occidental)",
+      "tipo": "lugar",
+      "descripcion": "Bosque de rituales a Eilistraee junto a un acantilado costero.",
+      "etiquetas": [
+        "Bosque de la Luna (Brunami occidental)"
+      ],
+      "nota": "Aportación de lectura íntegra120; preservar la separación entre la audiencia y quienes permanecen en la orilla.",
+      "historia": {
+        "revisado_hasta": 120,
+        "etapas": [
+          {
+            "titulo": "La audiencia y el encargo de la espada",
+            "texto": "La investigación de Calista guía allí a la expedición. Los espíritus de Banzo orientan hacia el altar y las guardianas aceptan a Palayer tras la reacción del libro. Una danza ritual abre el paso a la audiencia divina.",
+            "referencias": [
+              "120-001",
+              "120-003",
+              "120-004"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Cavernas plateadas de la audiencia de Eilistraee",
+      "tipo": "lugar",
+      "descripcion": "Ámbito subterráneo cálido de setas blancas y lago iluminado.",
+      "etiquetas": [
+        "Cavernas plateadas de la audiencia de Eilistraee"
+      ],
+      "nota": "Aportación de lectura íntegra120; preservar la separación entre la audiencia y quienes permanecen en la orilla.",
+      "historia": {
+        "revisado_hasta": 120,
+        "etapas": [
+          {
+            "titulo": "La audiencia y el encargo de la espada",
+            "texto": "El grupo atraviesa estas cavernas tras la danza. Dos gusanos púrpura amenazan el camino antes del encuentro con la diosa en el lago. La plata aparente de sus superficies no sustituye el ingrediente lunar exigido.",
+            "referencias": [
+              "120-005",
+              "120-006",
+              "120-007",
+              "120-008"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Proyecto de espada lunar contra la red de Lolth",
+      "tipo": "objeto",
+      "descripcion": "Arma todavía por forjar para liberar las mentes atrapadas por las marcas.",
+      "etiquetas": [
+        "Proyecto de espada lunar contra la red de Lolth"
+      ],
+      "nota": "Aportación de lectura íntegra120; preservar la separación entre la audiencia y quienes permanecen en la orilla.",
+      "historia": {
+        "revisado_hasta": 120,
+        "etapas": [
+          {
+            "titulo": "La audiencia y el encargo de la espada",
+            "texto": "Eilistraee encarga a Palayer reunir plata lunar de Selûne, corazón de bestia lunar y lágrima de criatura de la Infraoscuridad. Después deberán forjarla y entrar en los Pozos Demoníacos, donde su luz guiará el rescate sin ayuda directa de la diosa.",
+            "referencias": [
+              "120-007",
+              "120-008"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Eilistraee (Kuroto)",
+      "tipo": "personaje",
+      "descripcion": "Diosa de danza y canto a la que Palayer sirve.",
+      "etiquetas": [
+        "Eilistraee (Kuroto)"
+      ],
+      "nota": "Aportación de lectura íntegra120; preservar la separación entre la audiencia y quienes permanecen en la orilla.",
+      "historia": {
+        "revisado_hasta": 120,
+        "etapas": [
+          {
+            "titulo": "La audiencia y el encargo de la espada",
+            "texto": "Recibe a los marcados tras el ritual y explica su cautiverio mental. No los cura directamente, sino que ofrece el camino de una espada y una incursión posterior. Declina la petición de intervenir en el camino de Gelbreak y se alarma ante las respuestas sobre la presencia de Lolth.",
+            "referencias": [
+              "120-004",
+              "120-007",
+              "120-008",
+              "120-009"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Palayer (grafía provisional)",
+      "tipo": "personaje",
+      "descripcion": "Paladín drow de Eilistraee.",
+      "etiquetas": [
+        "Palayer (grafía provisional)"
+      ],
+      "nota": "Aportación de lectura íntegra120; preservar la separación entre la audiencia y quienes permanecen en la orilla.",
+      "historia": {
+        "revisado_hasta": 120,
+        "etapas": [
+          {
+            "titulo": "La audiencia y el encargo de la espada",
+            "texto": "Llega del sur para responder a la petición de ayuda, se responsabiliza de sus compañeros ante las guardianas y dirige la danza. Su diosa le encomienda forjar el arma que permitirá rescatar las mentes de Calista y Banzo, tarea aún pendiente.",
+            "referencias": [
+              "120-001",
+              "120-003",
+              "120-004",
+              "120-008"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Marcas de araña por la carta de la matriarca",
+      "tipo": "objeto",
+      "descripcion": "Marcas que conectan a Calista y Banzo con la red de los Pozos Demoníacos.",
+      "etiquetas": [
+        "Marcas de araña por la carta de la matriarca"
+      ],
+      "nota": "Aportación de lectura íntegra120; preservar la separación entre la audiencia y quienes permanecen en la orilla.",
+      "historia": {
+        "revisado_hasta": 120,
+        "etapas": [
+          {
+            "titulo": "La audiencia y el encargo de la espada",
+            "texto": "Eilistraee precisa que no son solo una maldición: retienen parte de sus mentes y las dañan con el tiempo. La solución exige una espada especial y rescate dentro del plano de Lolth; las marcas siguen presentes al volver.",
+            "referencias": [
+              "120-007",
+              "120-008",
+              "120-010"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Ginoyama",
+      "tipo": "personaje",
+      "descripcion": "Mago dracónico que acepta abrir el portal y ayudar.",
+      "etiquetas": [
+        "Ginoyama"
+      ],
+      "nota": "Aportación de lectura íntegra120; preservar la separación entre la audiencia y quienes permanecen en la orilla.",
+      "historia": {
+        "revisado_hasta": 120,
+        "etapas": [
+          {
+            "titulo": "La audiencia y el encargo de la espada",
+            "texto": "Lo encuentran bebiendo en la taberna de Ikari. Tras un conflicto inicial acepta colaborar, usa el pergamino de Portal y combate con relámpagos contra los gusanos. Permanece en la orilla durante la audiencia y vuelve con el grupo.",
+            "referencias": [
+              "120-002",
+              "120-006",
+              "120-010"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Monasterio de Kurobani",
+      "tipo": "lugar",
+      "descripcion": "Monasterio sureño arrasado por cultistas y yokai, vinculado a los portadores de su poder.",
+      "etiquetas": [
+        "Monasterio de Kurobani"
+      ],
+      "nota": "Aportación de lectura íntegra121; mantener privada la escena de cárcel mental y abierto el rescate.",
+      "historia": {
+        "revisado_hasta": 121,
+        "etapas": [
+          {
+            "titulo": "El regreso al monasterio y la pérdida del control",
+            "texto": "La expedición recorre los restos, encuentra una llave y documentos y sufre la flor soporífera. Las estatuas atraen a Kurobani y originan sombras; desintegrar el monumento culmina en la ocupación de su cuerpo por otra voluntad.",
+            "referencias": [
+              "121-002",
+              "121-005",
+              "121-006",
+              "121-007",
+              "121-008",
+              "121-009"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Llave oxidada del maestro de Kurobani",
+      "tipo": "objeto",
+      "descripcion": "Llave metálica encontrada por Guxi en el escritorio del maestro.",
+      "etiquetas": [
+        "Llave oxidada del maestro de Kurobani"
+      ],
+      "nota": "Aportación de lectura íntegra121; mantener privada la escena de cárcel mental y abierto el rescate.",
+      "historia": {
+        "revisado_hasta": 121,
+        "etapas": [
+          {
+            "titulo": "El regreso al monasterio y la pérdida del control",
+            "texto": "El artífice la entrega a Kurobani entre los restos del monasterio. Su forma no identifica una cerradura concreta y no se utiliza para abrir una cámara en esta sesión.",
+            "referencias": [
+              "121-005"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Diario del maestro de Kurobani",
+      "tipo": "objeto",
+      "descripcion": "Cuaderno oculto hallado tras la caída de unas estanterías.",
+      "etiquetas": [
+        "Diario del maestro de Kurobani"
+      ],
+      "nota": "Aportación de lectura íntegra121; mantener privada la escena de cárcel mental y abierto el rescate.",
+      "historia": {
+        "revisado_hasta": 121,
+        "etapas": [
+          {
+            "titulo": "El regreso al monasterio y la pérdida del control",
+            "texto": "Kurobani reconoce el diario del maestro y lee una breve referencia a un niño encontrado. Lo guarda para estudiar en privado, sin representar el resto de sus entradas ni extraer una biografía completa.",
+            "referencias": [
+              "121-007"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Pergaminos de los antiguos portadores de Kurobani",
+      "tipo": "objeto",
+      "descripcion": "Documentos chamuscados sobre portadores y combates contra Otakemaru.",
+      "etiquetas": [
+        "Pergaminos de los antiguos portadores de Kurobani"
+      ],
+      "nota": "Aportación de lectura íntegra121; mantener privada la escena de cárcel mental y abierto el rescate.",
+      "historia": {
+        "revisado_hasta": 121,
+        "etapas": [
+          {
+            "titulo": "El regreso al monasterio y la pérdida del control",
+            "texto": "La expedición los recupera en la biblioteca. Kurobani cree que ayudarán a los cazadores, aunque faltan partes y haría falta reconstrucción para aprovecharlos plenamente.",
+            "referencias": [
+              "121-007"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Contrato de Kurobani y Osuray",
+      "tipo": "objeto",
+      "descripcion": "Vínculo mágico con cláusulas especiales para las dos voluntades del cuerpo.",
+      "etiquetas": [
+        "Contrato de Kurobani y Osuray"
+      ],
+      "nota": "Aportación de lectura íntegra122; distinguir sueños privados, consecuencias reales y control actual del cuerpo.",
+      "historia": {
+        "revisado_hasta": 122,
+        "etapas": [
+          {
+            "titulo": "Contrato y sueños bajo la carpa",
+            "texto": "Calista lo redacta para impedir daños a civiles y cazadores y ocultaciones importantes sobre Otakemaru y el origen del huésped. Osuray firma y queda libre de ataduras; no se representa una restitución del mando humano.",
+            "referencias": [
+              "122-001"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Circo de Dame Le Blanc",
+      "tipo": "lugar",
+      "descripcion": "Carpa que promete realizar deseos mediante regalos y espectáculos.",
+      "etiquetas": [
+        "Circo de Dame Le Blanc"
+      ],
+      "nota": "Aportación de lectura íntegra122; distinguir sueños privados, consecuencias reales y control actual del cuerpo.",
+      "historia": {
+        "revisado_hasta": 122,
+        "etapas": [
+          {
+            "titulo": "Contrato y sueños bajo la carpa",
+            "texto": "Los disfraces llevan a los cazadores a participar y la anfitriona invade sus sueños antes de un combate escénico. Después de retirar el dragón y desaparecer, Gur incendia la carpa; él y Banzo sobreviven a las explosiones.",
+            "referencias": [
+              "122-002",
+              "122-004",
+              "122-005",
+              "122-008",
+              "122-010"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Koishi (grafía provisional)",
+      "tipo": "personaje",
+      "descripcion": "Anfitriona que usa el nombre Dame Le Blanc y conoce a Gelbreak.",
+      "etiquetas": [
+        "Koishi (grafía provisional)"
+      ],
+      "nota": "Aportación de lectura íntegra122; distinguir sueños privados, consecuencias reales y control actual del cuerpo.",
+      "historia": {
+        "revisado_hasta": 122,
+        "etapas": [
+          {
+            "titulo": "Contrato y sueños bajo la carpa",
+            "texto": "Explora los sueños de los visitantes y los convierte en protagonistas de un espectáculo con un dragón de globos y cuerdas en llamas. Disfruta del enfrentamiento de Gur con Gelbreak, retira su criatura y desaparece sin revelar su objetivo último.",
+            "referencias": [
+              "122-004",
+              "122-005",
+              "122-007",
+              "122-008"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Dragón de globos del circo",
+      "tipo": "personaje",
+      "descripcion": "Criatura escénica de globos que combate con electricidad y trucos mágicos.",
+      "etiquetas": [
+        "Dragón de globos del circo"
+      ],
+      "nota": "Aportación de lectura íntegra122; distinguir sueños privados, consecuencias reales y control actual del cuerpo.",
+      "historia": {
+        "revisado_hasta": 122,
+        "etapas": [
+          {
+            "titulo": "Contrato y sueños bajo la carpa",
+            "texto": "Ataca a los compañeros mientras Gelbreak y Calista están suspendidos. Banzo escala su cuerpo y entra en su garganta. Koisy lo hace estallar en confeti al terminar el número, sin que los cazadores rematen al monstruo.",
+            "referencias": [
+              "122-005",
+              "122-006",
+              "122-008"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Disfraces adheridos del circo de Dame Le Blanc",
+      "tipo": "objeto",
+      "descripcion": "Trajes mágicos que transforman apariencia y se adhieren al portador.",
+      "etiquetas": [
+        "Disfraces adheridos del circo de Dame Le Blanc"
+      ],
+      "nota": "Aportación de lectura íntegra122; distinguir sueños privados, consecuencias reales y control actual del cuerpo.",
+      "historia": {
+        "revisado_hasta": 122,
+        "etapas": [
+          {
+            "titulo": "Contrato y sueños bajo la carpa",
+            "texto": "Banzo adquiere aspecto de mujer y Gelbreak de animal y bufón, mientras Gur viste a su martillo como anciano. Quitarlos por fuerza causa dolor. La explosión final rompe el traje de Banzo; no confirma retirar los del drow.",
+            "referencias": [
+              "122-002",
+              "122-003",
+              "122-010"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Osuray, voluntad sombría de Kurobane",
+      "tipo": "personaje",
+      "descripcion": "Voluntad que mantiene el control del cuerpo de Kurobani.",
+      "etiquetas": [
+        "Osuray, voluntad sombría de Kurobane"
+      ],
+      "nota": "Aportación de lectura íntegra122; distinguir sueños privados, consecuencias reales y control actual del cuerpo.",
+      "historia": {
+        "revisado_hasta": 122,
+        "etapas": [
+          {
+            "titulo": "Contrato y sueños bajo la carpa",
+            "texto": "Firma el contrato de Calista y sale de las ataduras. Durante el circo el humano intenta intervenir, pero Osuray lo rechaza; finalmente rescata a Calista y a Gelbreak de las cuerdas antes de marcharse. El rescate no restaura la autonomía del portador.",
+            "referencias": [
+              "122-001",
+              "122-007",
+              "122-008"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Gur (grafía provisional)",
+      "tipo": "personaje",
+      "descripcion": "Campeón semiorco confundido por las visiones del circo.",
+      "etiquetas": [
+        "Gur (grafía provisional)"
+      ],
+      "nota": "Aportación de lectura íntegra122; distinguir sueños privados, consecuencias reales y control actual del cuerpo.",
+      "historia": {
+        "revisado_hasta": 122,
+        "etapas": [
+          {
+            "titulo": "Contrato y sueños bajo la carpa",
+            "texto": "Tras soñar que su horda se desintegra, interpreta el combate como otra manipulación y culpa a Gelbreak. Lo hiere gravemente pese a las advertencias de Calista y luego incendia la carpa para salir del supuesto sueño. Sobrevive chamuscado junto a Banzo, sin reconciliación narrada.",
+            "referencias": [
+              "122-004",
+              "122-007",
+              "122-009",
+              "122-010"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "preguntas": [
+    {
+      "id": "K-116-01",
+      "capitulo": 116,
+      "pregunta": "¿Qué pretende la voz de Kurobani con el estoque del sarcófago?",
+      "estado": "pendiente",
+      "respuesta": "No resuelta en esta sesion.",
+      "pendiente": "¿Qué pretende la voz de Kurobani con el estoque del sarcófago?",
+      "referencias": [
+        "116-008"
+      ],
+      "revisado_hasta": 116,
+      "requiere_actualizacion": true
+    },
+    {
+      "id": "K-116-02",
+      "capitulo": 116,
+      "pregunta": "¿Qué contiene exactamente la Biblia atribuida a Otakemaru y hasta dónde puede crecer?",
+      "estado": "pendiente",
+      "respuesta": "No resuelta en esta sesion.",
+      "pendiente": "¿Qué contiene exactamente la Biblia atribuida a Otakemaru y hasta dónde puede crecer?",
+      "referencias": [
+        "116-002",
+        "116-003"
+      ],
+      "revisado_hasta": 116,
+      "requiere_actualizacion": true
+    },
+    {
+      "id": "K-116-03",
+      "capitulo": 116,
+      "pregunta": "¿Qué se conserva de los recuerdos de Hayate después del regreso de Sirth?",
+      "estado": "pendiente",
+      "respuesta": "No resuelta en esta sesion.",
+      "pendiente": "¿Qué se conserva de los recuerdos de Hayate después del regreso de Sirth?",
+      "referencias": [
+        "116-001"
+      ],
+      "revisado_hasta": 116,
+      "requiere_actualizacion": true
+    },
+    {
+      "id": "K-117-01",
+      "capitulo": 117,
+      "pregunta": "¿Cómo saldrá Maroxi de la montaña derrumbada con el espejo y el cristal del portal?",
+      "estado": "pendiente",
+      "respuesta": "No resuelta en esta sesion.",
+      "pendiente": "¿Cómo saldrá Maroxi de la montaña derrumbada con el espejo y el cristal del portal?",
+      "referencias": [
+        "117-011"
+      ],
+      "revisado_hasta": 117,
+      "requiere_actualizacion": true
+    },
+    {
+      "id": "K-117-02",
+      "capitulo": 117,
+      "pregunta": "¿Qué hará el espejo por la criatura que Maroxi conserva dentro?",
+      "estado": "pendiente",
+      "respuesta": "No resuelta en esta sesion.",
+      "pendiente": "¿Qué hará el espejo por la criatura que Maroxi conserva dentro?",
+      "referencias": [
+        "117-003",
+        "117-010"
+      ],
+      "revisado_hasta": 117,
+      "requiere_actualizacion": true
+    },
+    {
+      "id": "K-117-03",
+      "capitulo": 117,
+      "pregunta": "¿Qué error antiguo motivó el despido de Guxi y cómo se resolverá su situación?",
+      "estado": "pendiente",
+      "respuesta": "No resuelta en esta sesion.",
+      "pendiente": "¿Qué error antiguo motivó el despido de Guxi y cómo se resolverá su situación?",
+      "referencias": [
+        "117-001"
+      ],
+      "revisado_hasta": 117,
+      "requiere_actualizacion": true
+    },
+    {
+      "id": "K-118-01",
+      "capitulo": 118,
+      "pregunta": "¿Qué confirmará el interrogatorio de Suiro y servirá para rehabilitar a Guxi?",
+      "estado": "pendiente",
+      "respuesta": "No resuelta en esta sesion.",
+      "pendiente": "¿Qué confirmará el interrogatorio de Suiro y servirá para rehabilitar a Guxi?",
+      "referencias": [
+        "118-006",
+        "118-009"
+      ],
+      "revisado_hasta": 118,
+      "requiere_actualizacion": true
+    },
+    {
+      "id": "K-118-02",
+      "capitulo": 118,
+      "pregunta": "¿Cuánta comida produce la piedra y quién controlará su reparto?",
+      "estado": "pendiente",
+      "respuesta": "No resuelta en esta sesion.",
+      "pendiente": "¿Cuánta comida produce la piedra y quién controlará su reparto?",
+      "referencias": [
+        "118-007",
+        "118-010"
+      ],
+      "revisado_hasta": 118,
+      "requiere_actualizacion": true
+    },
+    {
+      "id": "K-118-03",
+      "capitulo": 118,
+      "pregunta": "¿Cuánto dura la contención de Osurei y qué relación tiene con los cultistas?",
+      "estado": "pendiente",
+      "respuesta": "No resuelta en esta sesion.",
+      "pendiente": "¿Cuánto dura la contención de Osurei y qué relación tiene con los cultistas?",
+      "referencias": [
+        "118-010"
+      ],
+      "revisado_hasta": 118,
+      "requiere_actualizacion": true
+    },
+    {
+      "id": "K-118-04",
+      "capitulo": 118,
+      "pregunta": "¿Qué hará Calista con el huevo del aboleth?",
+      "estado": "pendiente",
+      "respuesta": "No resuelta en esta sesion.",
+      "pendiente": "¿Qué hará Calista con el huevo del aboleth?",
+      "referencias": [
+        "118-004"
+      ],
+      "revisado_hasta": 118,
+      "requiere_actualizacion": true
+    },
+    {
+      "id": "K-119-01",
+      "capitulo": 119,
+      "pregunta": "¿Qué muestran los documentos de Yasuoka y cómo reaccionará Rua ante la foto?",
+      "estado": "pendiente",
+      "respuesta": "No resuelta en esta sesion.",
+      "pendiente": "¿Qué muestran los documentos de Yasuoka y cómo reaccionará Rua ante la foto?",
+      "referencias": [
+        "119-007",
+        "119-011",
+        "119-012"
+      ],
+      "revisado_hasta": 119,
+      "requiere_actualizacion": true
+    },
+    {
+      "id": "K-119-02",
+      "capitulo": 119,
+      "pregunta": "¿Aceptará Guxi trabajar para Yasuoka y qué condiciones firmará?",
+      "estado": "pendiente",
+      "respuesta": "No resuelta en esta sesion.",
+      "pendiente": "¿Aceptará Guxi trabajar para Yasuoka y qué condiciones firmará?",
+      "referencias": [
+        "119-009"
+      ],
+      "revisado_hasta": 119,
+      "requiere_actualizacion": true
+    },
+    {
+      "id": "K-119-03",
+      "capitulo": 119,
+      "pregunta": "¿Qué harán los soldados enviados al emplazamiento de Kurobani?",
+      "estado": "pendiente",
+      "respuesta": "No resuelta en esta sesion.",
+      "pendiente": "¿Qué harán los soldados enviados al emplazamiento de Kurobani?",
+      "referencias": [
+        "119-010",
+        "119-012"
+      ],
+      "revisado_hasta": 119,
+      "requiere_actualizacion": true
+    },
+    {
+      "id": "K-119-04",
+      "capitulo": 119,
+      "pregunta": "¿Devolverá Gelbreak las pruebas antiguas necesarias para revisar el caso de Guxi?",
+      "estado": "pendiente",
+      "respuesta": "No resuelta en esta sesion.",
+      "pendiente": "¿Devolverá Gelbreak las pruebas antiguas necesarias para revisar el caso de Guxi?",
+      "referencias": [
+        "119-001",
+        "119-012"
+      ],
+      "revisado_hasta": 119,
+      "requiere_actualizacion": true
+    },
+    {
+      "id": "K-120-01",
+      "capitulo": 120,
+      "pregunta": "¿Dónde conseguirán los tres ingredientes de la espada lunar?",
+      "estado": "pendiente",
+      "respuesta": "No resuelta en esta sesion.",
+      "pendiente": "¿Dónde conseguirán los tres ingredientes de la espada lunar?",
+      "referencias": [
+        "120-008"
+      ],
+      "revisado_hasta": 120,
+      "requiere_actualizacion": true
+    },
+    {
+      "id": "K-120-02",
+      "capitulo": 120,
+      "pregunta": "¿Qué camino de Gelbreak provoca la reacción de Eilistraee?",
+      "estado": "pendiente",
+      "respuesta": "No resuelta en esta sesion.",
+      "pendiente": "¿Qué camino de Gelbreak provoca la reacción de Eilistraee?",
+      "referencias": [
+        "120-009"
+      ],
+      "revisado_hasta": 120,
+      "requiere_actualizacion": true
+    },
+    {
+      "id": "K-120-03",
+      "capitulo": 120,
+      "pregunta": "¿Podrán liberar sus mentes antes de que la red las destruya?",
+      "estado": "pendiente",
+      "respuesta": "No resuelta en esta sesion.",
+      "pendiente": "¿Podrán liberar sus mentes antes de que la red las destruya?",
+      "referencias": [
+        "120-007",
+        "120-008"
+      ],
+      "revisado_hasta": 120,
+      "requiere_actualizacion": true
+    },
+    {
+      "id": "K-120-04",
+      "capitulo": 120,
+      "pregunta": "¿Existe un precio adicional por la ayuda de Eilistraee o es solo el temor de Gelbreak?",
+      "estado": "pendiente",
+      "respuesta": "No resuelta en esta sesion.",
+      "pendiente": "¿Existe un precio adicional por la ayuda de Eilistraee o es solo el temor de Gelbreak?",
+      "referencias": [
+        "120-010"
+      ],
+      "revisado_hasta": 120,
+      "requiere_actualizacion": true
+    },
+    {
+      "id": "K-121-01",
+      "capitulo": 121,
+      "pregunta": "¿Cómo liberarán a Kurobani de su prisión mental y de la voluntad que controla su cuerpo?",
+      "estado": "pendiente",
+      "respuesta": "No resuelta en esta sesion.",
+      "pendiente": "¿Cómo liberarán a Kurobani de su prisión mental y de la voluntad que controla su cuerpo?",
+      "referencias": [
+        "121-009",
+        "121-010"
+      ],
+      "revisado_hasta": 121,
+      "requiere_actualizacion": true
+    },
+    {
+      "id": "K-121-02",
+      "capitulo": 121,
+      "pregunta": "¿Qué explicará el diario sobre el niño encontrado y los anteriores portadores?",
+      "estado": "pendiente",
+      "respuesta": "No resuelta en esta sesion.",
+      "pendiente": "¿Qué explicará el diario sobre el niño encontrado y los anteriores portadores?",
+      "referencias": [
+        "121-007"
+      ],
+      "revisado_hasta": 121,
+      "requiere_actualizacion": true
+    },
+    {
+      "id": "K-121-03",
+      "capitulo": 121,
+      "pregunta": "¿Qué puerta abre la llave oxidada del maestro?",
+      "estado": "pendiente",
+      "respuesta": "No resuelta en esta sesion.",
+      "pendiente": "¿Qué puerta abre la llave oxidada del maestro?",
+      "referencias": [
+        "121-005"
+      ],
+      "revisado_hasta": 121,
+      "requiere_actualizacion": true
+    },
+    {
+      "id": "K-121-04",
+      "capitulo": 121,
+      "pregunta": "¿Podrá Calista recuperar el recuerdo de sus padres?",
+      "estado": "pendiente",
+      "respuesta": "No resuelta en esta sesion.",
+      "pendiente": "¿Podrá Calista recuperar el recuerdo de sus padres?",
+      "referencias": [
+        "121-001"
+      ],
+      "revisado_hasta": 121,
+      "requiere_actualizacion": true
+    },
+    {
+      "id": "K-122-01",
+      "capitulo": 122,
+      "pregunta": "¿Qué busca Koisy al explorar los sueños de los cazadores?",
+      "estado": "pendiente",
+      "respuesta": "No resuelta en esta sesion.",
+      "pendiente": "¿Qué busca Koisy al explorar los sueños de los cazadores?",
+      "referencias": [
+        "122-004",
+        "122-005",
+        "122-008"
+      ],
+      "revisado_hasta": 122,
+      "requiere_actualizacion": true
+    },
+    {
+      "id": "K-122-02",
+      "capitulo": 122,
+      "pregunta": "¿Cómo se quitará Gelbreak el disfraz adherido?",
+      "estado": "pendiente",
+      "respuesta": "No resuelta en esta sesion.",
+      "pendiente": "¿Cómo se quitará Gelbreak el disfraz adherido?",
+      "referencias": [
+        "122-003",
+        "122-010"
+      ],
+      "revisado_hasta": 122,
+      "requiere_actualizacion": true
+    },
+    {
+      "id": "K-122-03",
+      "capitulo": 122,
+      "pregunta": "¿Aceptarán Gur y los demás lo ocurrido fuera del supuesto sueño?",
+      "estado": "pendiente",
+      "respuesta": "No resuelta en esta sesion.",
+      "pendiente": "¿Aceptarán Gur y los demás lo ocurrido fuera del supuesto sueño?",
+      "referencias": [
+        "122-007",
+        "122-009",
+        "122-010"
+      ],
+      "revisado_hasta": 122,
+      "requiere_actualizacion": true
+    },
+    {
+      "id": "K-122-04",
+      "capitulo": 122,
+      "pregunta": "¿Cumplirá Osuray el contrato y recuperará Kurobani alguna vez el control?",
+      "estado": "pendiente",
+      "respuesta": "No resuelta en esta sesion.",
+      "pendiente": "¿Cumplirá Osuray el contrato y recuperará Kurobani alguna vez el control?",
+      "referencias": [
+        "122-001",
+        "122-008"
+      ],
+      "revisado_hasta": 122,
+      "requiere_actualizacion": true
+    }
+  ],
+  "revisados": [
+    116,
+    117,
+    118,
+    119,
+    120,
+    121,
+    122
+  ]
+}

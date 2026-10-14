@@ -1,0 +1,332 @@
+{
+  "capitulo": 129,
+  "estado_revision": "revisado",
+  "fuente_sha256": "673b48ffdd7a4031577675fe61ada04b8f7e55b90ae5d4255eb1b4cb5b5a3375",
+  "resumen": "La escasez deja agotados a los cazadores cuando llega el aviso del general Hati: algo está ocurriendo en la Puerta Negra. Ikari deja su investigación sobre los sacrificios de los suyos y Gur abandona un duelo que lo ha llevado a destrozar el lugar donde perdió al maestro. En el sur se reúnen con Kurobane y la sombra Osuray, que ha vuelto a su base y advierte sobre la energía tras las montañas. La comida y las distracciones del campeón retrasan la salida, pero acaban siguiendo a los soldados. En el puesto próximo a la puerta descubren una retirada precipitada y a Banzo de vuelta, listo para llevar a los pocos disponibles hasta el peligro. Las estatuas de buey y caballo golpean con sus armas el suelo; la juntura negra brilla en rojo. Gur llama a la puerta y Banzo lo aparta, temiendo perderlo por tocarla. Intenta entregarle el liderazgo, pero el campeón no quiere asumirlo y se aparta a escribir el nombre del sensei. El estruendo de las figuras lo interrumpe. Su tristeza se convierte otra vez en fuego y la forma demoníaca toma su cuerpo. La piedra se desprende de los guardianes, que caen al suelo convertidos en enormes enemigos. Detrás de ellos, dedos fuerzan la puerta y pequeños demonios irrumpen por el hueco. Osuray se mueve desde los escondites y aturde a los enemigos con espada y puños. Banzo busca altura para atraerlos y clavarlos con sus arpones. Ikari acompaña con un sabueso mágico y conjuros, aunque la resistencia de los adversarios limita fuego y control. Gur mata primero a los pequeños que le gritan y se lanza después contra los guardianes. Los demonios refuerzan a sus mayores con chillidos; uno de los grandes desaparece de plano para volver sobre Ikari y el otro golpea con espada y patas. La oscuridad aumenta la ventaja de quienes la ven mejor, hasta que Osuray rompe una de las concentraciones que la mantenían. Los golpes derriban casi a Gur y su cuerpo estalla en una enorme explosión. El fuego alcanza a enemigos, aliados y sabueso, pero el campeón vuelve a levantarse y continúa como si su furia solo hubiera gritado. Banzo sostiene al otro guardián y combate el miedo que los pequeños le imponen. Cuando el perro remata al rival que Gur deseaba matar, el enemigo explota y provoca otro estallido del semiorco. La pelea pierde cohesión: Gur busca al responsable de quitarle la presa, confunde a la figura sombría con el dueño del sabueso y la ataca. Osuray se retira malherido, sin poder razonar con él. Ikari vuelve a invocar al perro y consigue inmovilizar al guardián que queda. Gur destruye al sabueso y aprovecha la parálisis para golpear. Banzo intenta proponer un ataque conjunto con el arpón, pero Gur se lo clava en el propio cuerpo: vuelve a explotar y esta vez queda inconsciente. Ikari remata al enemigo con magia de heridas y la muerte del guardián añade otra explosión. Con todos al límite, la figura de Kurobane y Osuray proporciona una poción y Banzo la lleva a la boca de Gur. El campeón ve a su maestro reprochándole malgastar su poder en un paisaje distinto, y despierta con el sabor del remedio. Banzo lo abraza llorando; la pérdida del sensei sigue allí, pero Gur no se ha ido con él. Ikari mira a través de la abertura mientras los demás se recomponen. Las hojas negras han caído y al otro lado solo hay un páramo oscuro y una multitud de criaturas que se acerca. Entiende que no pueden resistir allí. Intentan pensar en cerrar o destruir el paso, pero no queda tiempo. Banzo envía por delante a Kurobane y Osuray para avisar y obliga a Gur a levantarse y correr. Los cazadores huyen hacia el campamento. La última visión confirma el desastre: sin guardianes ni sellos en pie, la Puerta Negra deja pasar una oleada de demonios hacia Kuroto. La victoria inmediata no ha detenido la invasión y la defensa de la isla queda pendiente.",
+  "afirmaciones": [
+    {
+      "id": "129-001",
+      "titulo": "Cazadores agotados y un campeón de duelo",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "La escasez impone cansancio. Ikari cuenta que investiga la Puerta Negra y la utilización de los suyos en invocaciones. Gur ha llevado armas al herrero, vuelto al refugio donde murió su maestro y destruido el lugar con ira y fuego. La figura de Kurobane y Osuray explica que dejó la base y volvió al sur después de hablar con Danifae, buscando a Kuratari y el acceso a un plano.",
+      "inicio": "00:00:00.799",
+      "fin": "00:09:01.310",
+      "cita": "su sensei ni nada. y me volví al templo.",
+      "entidades": [
+        "Ikari (grafía provisional)",
+        "Gur",
+        "Kurobane (grafía provisional)",
+        "Osuray (grafía provisional)",
+        "Puerta Negra de Kuroto",
+        "Maestro demoníaco de Gur (nombre pendiente)"
+      ],
+      "ambito": "Kuroto, sesión 129",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "129-002",
+      "titulo": "Aviso del general y tropas en retirada",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Un aviso del general Hati reclama a los cazadores por actividad en la Puerta Negra. Ikari y Gur llegan al campamento del sur y se unen a Kurobane y Osuray. La sombra advierte del peligro de acercarse a esa energía. Tras una comida y dos o tres horas de marcha, encuentran soldados nerviosos que abandonan el puesto próximo a la puerta. Allí los recibe Banzo, regresado con ayuda de Gelbreak.",
+      "inicio": "00:06:02.520",
+      "fin": "00:30:01.470",
+      "cita": "puerta negra preguntan por preguntan por",
+      "entidades": [
+        "Ikari (grafía provisional)",
+        "Gur",
+        "Kurobane (grafía provisional)",
+        "Osuray (grafía provisional)",
+        "Banzo (grafía provisional)",
+        "Campamento del sur de Kuroto",
+        "Puerta Negra de Kuroto",
+        "General Hati (grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 129",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "129-003",
+      "titulo": "Las estatuas despiertan",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Las armas de las estatuas de buey y caballo golpean el suelo y la junta de la puerta brilla roja. Banzo aparta a Gur cuando llama a golpes y le pide liderarlos, pero el campeón se niega, abatido. Ikari y los otros se ponen a cubierto. La piedra negra se descascarilla, los guardianes caen vivos y aparecen criaturas tras los dedos que fuerzan la abertura. El rugido interrumpe a Gur mientras escribe sensei y activa su transformación demoníaca.",
+      "inicio": "00:30:01.480",
+      "fin": "00:42:01.910",
+      "cita": "ese y esa especie de caballo, ¿vale? Que",
+      "entidades": [
+        "Puerta Negra de Kuroto",
+        "Guardián bovino de la Puerta Negra",
+        "Guardián equino de la Puerta Negra",
+        "Gur",
+        "Banzo (grafía provisional)",
+        "Ikari (grafía provisional)",
+        "Maestro demoníaco de Gur (nombre pendiente)"
+      ],
+      "ambito": "Kuroto, sesión 129",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "129-004",
+      "titulo": "Sombras, arpones y apoyo mágico",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Osuray ataca desde las sombras con espada y puños, aturdiendo enemigos; Kurobane aparece con su rostro y voz mezclados con los de la sombra. Banzo escala una roca para atraer pequeños demonios y alcanzarlos con arpones. Ikari utiliza un sabueso mágico, fuego y conjuros de inmovilización, pero varios enemigos resisten bien la magia. Gur aplasta a los pequeños que le gritan y se concentra después en los guardianes.",
+      "inicio": "00:42:01.920",
+      "fin": "01:09:04.349",
+      "cita": "Vale, pues se queda stun.",
+      "entidades": [
+        "Osuray (grafía provisional)",
+        "Kurobane (grafía provisional)",
+        "Banzo (grafía provisional)",
+        "Ikari (grafía provisional)",
+        "Gur",
+        "Demonios menores de la Puerta Negra"
+      ],
+      "ambito": "Kuroto, sesión 129",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "129-005",
+      "titulo": "Los guardianes presionan",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Los gritos de los demonios menores refuerzan a los grandes guardianes. El bovino desaparece a otro plano y reaparece atacando a Ikari; el equino golpea con espada y patas. La oscuridad limita al grupo mientras sus enemigos la aprovechan. Banzo salta desde su roca sobre un adversario y Osuray rompe la concentración de uno que mantenía oscuridad. Gur derriba a su rival y lo golpea con furia.",
+      "inicio": "00:51:01.119",
+      "fin": "01:24:01.270",
+      "cita": "Veis que desaparece de este plano",
+      "entidades": [
+        "Guardián bovino de la Puerta Negra",
+        "Guardián equino de la Puerta Negra",
+        "Demonios menores de la Puerta Negra",
+        "Ikari (grafía provisional)",
+        "Banzo (grafía provisional)",
+        "Osuray (grafía provisional)",
+        "Gur"
+      ],
+      "ambito": "Kuroto, sesión 129",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "129-006",
+      "titulo": "La primera explosión de Gur",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Uno de los golpes deja a Gur al límite y su forma demoníaca estalla en fuego, dañando también a aliados cercanos y al sabueso. El campeón vuelve a levantarse y sigue atacando. No interpreta de inmediato la explosión como lo hacen los demás. Banzo resiste al guardián equino y afronta el miedo provocado por un demonio menor.",
+      "inicio": "01:21:01.199",
+      "fin": "01:33:01.430",
+      "cita": "Explosión.",
+      "entidades": [
+        "Gur",
+        "Ikari (grafía provisional)",
+        "Osuray (grafía provisional)",
+        "Banzo (grafía provisional)",
+        "Guardián bovino de la Puerta Negra",
+        "Guardián equino de la Puerta Negra"
+      ],
+      "ambito": "Kuroto, sesión 129",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "129-007",
+      "titulo": "Una victoria que provoca más fuego",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "El sabueso de Ikari acaba con el guardián que Gur quería rematar. La criatura muere con una explosión y hace estallar otra vez al campeón, que se mantiene vivo. Gur intenta identificar al dueño del perro, atribuye equivocadamente su control a la figura sombría y ataca a Kurobane y Osuray. Este se retira y se esconde malherido.",
+      "inicio": "01:33:01.440",
+      "fin": "01:45:01.310",
+      "cita": "Poco perro aquí. El y el perro va por va",
+      "entidades": [
+        "Ikari (grafía provisional)",
+        "Gur",
+        "Guardián bovino de la Puerta Negra",
+        "Kurobane (grafía provisional)",
+        "Osuray (grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 129",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "129-008",
+      "titulo": "El sabueso desaparece y Gur cae",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Ikari vuelve a invocar el sabueso y mantiene inmovilizado al último guardián. Gur destruye al perro y golpea al enemigo indefenso. Banzo intenta combinar su arpón con Gur para un ataque, pero el campeón se lo clava a sí mismo: otra explosión lo deja inconsciente sin recuperarse por su poder. Ikari remata al guardián con infligir heridas y su estallido hiere de nuevo a los cercanos. Gur queda haciendo salvaciones de muerte.",
+      "inicio": "01:45:01.320",
+      "fin": "02:00:01.629",
+      "cita": "apetece?\" y cojo el el arpón y se lo se",
+      "entidades": [
+        "Ikari (grafía provisional)",
+        "Gur",
+        "Banzo (grafía provisional)",
+        "Guardián equino de la Puerta Negra",
+        "Osuray (grafía provisional)",
+        "Kurobane (grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 129",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "129-009",
+      "titulo": "Una poción y el recuerdo del maestro",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "La figura de Kurobane y Osuray entrega una poción a Banzo y este la da a Gur. El campeón revive la visión de un paraje verde y su sensei, que le reprocha desperdiciar el poder y le manda despertar. Abre los ojos con la poción en la boca y cuenta que lo ha visto. Banzo lo abraza llorando. La escena no demuestra que el maestro haya regresado corporalmente al mundo.",
+      "inicio": "02:00:01.639",
+      "fin": "02:03:01.030",
+      "cita": "y ves en su mano una de las pociones de",
+      "entidades": [
+        "Kurobane (grafía provisional)",
+        "Osuray (grafía provisional)",
+        "Banzo (grafía provisional)",
+        "Gur",
+        "Maestro demoníaco de Gur (nombre pendiente)"
+      ],
+      "ambito": "Kuroto, sesión 129",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "129-010",
+      "titulo": "La Puerta Negra queda abierta",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Con los guardianes muertos, las hojas de la puerta caen y dejan visible un páramo negro y desolado. Ikari ve acercarse una horda inmensa de criaturas y advierte que quedarse significa morir. No pueden cerrar la abertura ni destruirla a tiempo; Banzo envía a Kurobane y Osuray por delante para avisar al campamento y arrastra a Gur a la retirada.",
+      "inicio": "02:00:01.639",
+      "fin": "02:06:00.229",
+      "cita": "eh, ves millones de criaturas todo tipo,",
+      "entidades": [
+        "Puerta Negra de Kuroto",
+        "Ikari (grafía provisional)",
+        "Banzo (grafía provisional)",
+        "Kurobane (grafía provisional)",
+        "Osuray (grafía provisional)",
+        "Gur",
+        "Campamento del sur de Kuroto"
+      ],
+      "ambito": "Kuroto, sesión 129",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "129-011",
+      "titulo": "La invasión cruza el umbral",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Los cazadores corren hacia el campamento. La última imagen muestra la Puerta Negra sin sus estatuas ni hojas en pie y una oleada de demonios y criaturas horribles cruzándola. La batalla de los guardianes no contiene la invasión; el capítulo termina antes de la defensa del campamento o del desenlace de la horda.",
+      "inicio": "02:03:01.040",
+      "fin": "02:07:18.679",
+      "cita": "también vas a ver es una oleada",
+      "entidades": [
+        "Puerta Negra de Kuroto",
+        "Gur",
+        "Banzo (grafía provisional)",
+        "Ikari (grafía provisional)",
+        "Kurobane (grafía provisional)",
+        "Osuray (grafía provisional)",
+        "Campamento del sur de Kuroto"
+      ],
+      "ambito": "Kuroto, sesión 129",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    }
+  ],
+  "historia": {
+    "revisado_hasta": 129,
+    "etapas": [
+      {
+        "titulo": "Una llamada urgente encuentra a pocos",
+        "texto": "La escasez deja agotados a los cazadores cuando llega el aviso del general Hati: algo está ocurriendo en la Puerta Negra. Ikari deja su investigación sobre los sacrificios de los suyos y Gur abandona un duelo que lo ha llevado a destrozar el lugar donde perdió al maestro. En el sur se reúnen con Kurobane y la sombra Osuray, que ha vuelto a su base y advierte sobre la energía tras las montañas. La comida y las distracciones del campeón retrasan la salida, pero acaban siguiendo a los soldados. En el puesto próximo a la puerta descubren una retirada precipitada y a Banzo de vuelta, listo para llevar a los pocos disponibles hasta el peligro.",
+        "referencias": [
+          "129-001",
+          "129-002"
+        ]
+      },
+      {
+        "titulo": "Los sellos ya no contienen a sus guardianes",
+        "texto": "Las estatuas de buey y caballo golpean con sus armas el suelo; la juntura negra brilla en rojo. Gur llama a la puerta y Banzo lo aparta, temiendo perderlo por tocarla. Intenta entregarle el liderazgo, pero el campeón no quiere asumirlo y se aparta a escribir el nombre del sensei. El estruendo de las figuras lo interrumpe. Su tristeza se convierte otra vez en fuego y la forma demoníaca toma su cuerpo. La piedra se desprende de los guardianes, que caen al suelo convertidos en enormes enemigos. Detrás de ellos, dedos fuerzan la puerta y pequeños demonios irrumpen por el hueco.",
+        "referencias": [
+          "129-003"
+        ]
+      },
+      {
+        "titulo": "Pelear entre sombras, gritos y rocas",
+        "texto": "Osuray se mueve desde los escondites y aturde a los enemigos con espada y puños. Banzo busca altura para atraerlos y clavarlos con sus arpones. Ikari acompaña con un sabueso mágico y conjuros, aunque la resistencia de los adversarios limita fuego y control. Gur mata primero a los pequeños que le gritan y se lanza después contra los guardianes. Los demonios refuerzan a sus mayores con chillidos; uno de los grandes desaparece de plano para volver sobre Ikari y el otro golpea con espada y patas. La oscuridad aumenta la ventaja de quienes la ven mejor, hasta que Osuray rompe una de las concentraciones que la mantenían.",
+        "referencias": [
+          "129-004",
+          "129-005"
+        ]
+      },
+      {
+        "titulo": "El poder del campeón también alcanza a los suyos",
+        "texto": "Los golpes derriban casi a Gur y su cuerpo estalla en una enorme explosión. El fuego alcanza a enemigos, aliados y sabueso, pero el campeón vuelve a levantarse y continúa como si su furia solo hubiera gritado. Banzo sostiene al otro guardián y combate el miedo que los pequeños le imponen. Cuando el perro remata al rival que Gur deseaba matar, el enemigo explota y provoca otro estallido del semiorco. La pelea pierde cohesión: Gur busca al responsable de quitarle la presa, confunde a la figura sombría con el dueño del sabueso y la ataca. Osuray se retira malherido, sin poder razonar con él.",
+        "referencias": [
+          "129-006",
+          "129-007"
+        ]
+      },
+      {
+        "titulo": "Rematar no basta para salir vivos",
+        "texto": "Ikari vuelve a invocar al perro y consigue inmovilizar al guardián que queda. Gur destruye al sabueso y aprovecha la parálisis para golpear. Banzo intenta proponer un ataque conjunto con el arpón, pero Gur se lo clava en el propio cuerpo: vuelve a explotar y esta vez queda inconsciente. Ikari remata al enemigo con magia de heridas y la muerte del guardián añade otra explosión. Con todos al límite, la figura de Kurobane y Osuray proporciona una poción y Banzo la lleva a la boca de Gur. El campeón ve a su maestro reprochándole malgastar su poder en un paisaje distinto, y despierta con el sabor del remedio. Banzo lo abraza llorando; la pérdida del sensei sigue allí, pero Gur no se ha ido con él.",
+        "referencias": [
+          "129-008",
+          "129-009"
+        ]
+      },
+      {
+        "titulo": "Han ganado una batalla y perdido la puerta",
+        "texto": "Ikari mira a través de la abertura mientras los demás se recomponen. Las hojas negras han caído y al otro lado solo hay un páramo oscuro y una multitud de criaturas que se acerca. Entiende que no pueden resistir allí. Intentan pensar en cerrar o destruir el paso, pero no queda tiempo. Banzo envía por delante a Kurobane y Osuray para avisar y obliga a Gur a levantarse y correr. Los cazadores huyen hacia el campamento. La última visión confirma el desastre: sin guardianes ni sellos en pie, la Puerta Negra deja pasar una oleada de demonios hacia Kuroto. La victoria inmediata no ha detenido la invasión y la defensa de la isla queda pendiente.",
+        "referencias": [
+          "129-010",
+          "129-011"
+        ]
+      }
+    ]
+  },
+  "misiones": [
+    "Investigar la reacción de la Puerta Negra: llegan cuando los sellos están cediendo y presencian la apertura.",
+    "Derrotar a los guardianes: ambos mueren, con explosiones que casi matan al grupo.",
+    "Salvar a Gur: una poción evita que muera después de sus estallidos.",
+    "Contener la horda: no logrado; retirada para avisar al campamento.",
+    "Avisar a las tropas: Kurobane y Osuray corren por delante; aviso efectivo aún no mostrado."
+  ],
+  "preguntas": [
+    "¿Cómo defenderán el campamento y Kuroto de la horda que ha cruzado?",
+    "¿Puede Gur controlar el poder explosivo sin herir a sus compañeros?",
+    "¿Qué significa la visión del maestro que Gur relata al despertar?"
+  ],
+  "nombres_dudosos": [
+    "Ikari / Icari / Hikari: tanuki de magia y sombras; grafía provisional, no fusionar sin cotejo con el tabernero.",
+    "General Hati: grafía y rango tal como se enuncia el aviso, sin fusionar automáticamente con otras autoridades.",
+    "Mizuki es pronunciado fuera del rol al buscar la ficha; los guardianes quedan identificados por su forma de buey/caballo en esta revisión.",
+    "Kurobane y Osuray aparecen con voz y rostro mezclados. Los turnos usan el nombre del cuerpo; se conserva la distinción de identidades.",
+    "Kuratari solo aparece como búsqueda recordada, sin identidad nueva acreditada en esta sesión."
+  ],
+  "contradicciones": [
+    "La visión del sensei ocurre durante la inconsciencia narrada por el jugador; no demuestra resurrección ni presencia física del maestro.",
+    "La atribución de Gur del perro a Kurobane/Osuray es equivocada: Ikari lo invoca en escena.",
+    "La apertura no se atribuye causalmente a los golpes de Gur: las estatuas y la junta roja ya reaccionaban antes de que él tocara.",
+    "Los éxitos para levantarse tras explosiones son limitados: Gur termina inconsciente y necesita una poción externa.",
+    "La horda se presenta como inmensa y el diálogo habla de millones; no es un recuento medido de efectivos."
+  ]
+}

@@ -1,0 +1,359 @@
+{
+  "capitulo": 128,
+  "estado_revision": "revisado",
+  "fuente_sha256": "a87e58a460ba4c7a6a942e2f647dd262f7d632dadf3efd0b3fd29136f30e7a4c",
+  "resumen": "Maroxi vuelve a dormir sin las venas oscuras ni las pesadillas de la criatura. El anillo de la cofradía tampoco lo retiene físicamente: asegura haberlo sacado al cambiar de forma, aunque quiere cumplir su palabra. Mantiene otro trato con un ser de muchos ojos para investigar la Biblia ilegible y encuentra cuentas de dueño aún incierto en una caja. Jin trae la petición de Sirth de ayudar a Kurobane. Los documentos sobre posesiones fueron robados a una iglesia y el expediente del shogunato queda fuera de su alcance. Maroxi ofrece abrir otra vía mediante su contacto de los bajos fondos. Mientras se preparan aparece Tap: el yokai rescatado ha llegado por fin a la base y Arwen lo reconoce. Ginoyama se suma a la visita y lleva a Arwen pese a la resistencia de Maroxi. El cambiante la hace pasar como cucaracha, altera la memoria de Struck para entrar como habitual y deja un ojo de contemplador bajo su custodia. La jefa recibe a sus visitantes bajo el nombre todavía incierto de Ciari o Tiari. A cambio de noticias de los rituales exige mil monedas perdidas por sus hombres en el casino de Jester. No acepta convertir la deuda de Maroxi en asunto de Jin y advierte que el anillo lo protege de sus matones mientras el compromiso siga pendiente. La consulta adicional del cambiante por un artefacto capaz de matar dragones tampoco entra en el mismo precio. Tras recuperar el ojo, contratan acompañantes para presentarse en el casino con apariencia de clientes acomodados. Ginoyama reconoce trampas por todas partes y Arwen rastrea el paso de los hombres de la cofradía sin encontrar una reserva accesible. Maroxi decide jugar. La niña se cuela en el cajetín de la mesa como cucaracha y solo ve las monedas recién apostadas, mientras el mago juega por ella y obtiene un ticket especial. En los dardos, Arwen utiliza viento y gana otra carta. La búsqueda discreta empieza a transformarse en una noche de apuestas, luces y excesos que los propios juegos parecen alentar. Maroxi arriesga quinientas monedas al azul. Cuando la rueda lo favorece, Arwen monta una pataleta por perder e invoca un terremoto; su compañero no logra impedirlo. El local tiembla, muchos caen y la bola vuelve a girar, pero el azul gana de nuevo. Maroxi recibe mil monedas y un ticket que entrega a la niña para tranquilizarla. Aún continúan. En el tiro a los vasos, la magia y una pelota de juguete salen mal; el cambiante aprovecha después a Arwen persiguiéndola entre mesas para sustraer dinero con la mano de mago. Otra ronda le da un ticket. En la bomba caliente se enfrentan entre encantamientos, duplicados y confusión hasta que el confeti explota en el lugar de Maroxi y la niña vuelve a ganar. La transformación de Arwen en mono prolonga el desorden y acaba con excrementos sobre el local y otro pequeño robo del cambiante. Maroxi la saca, vuelve a hacerla invisible y la envía a buscar mecanismos. Encuentra el botón de Jester, pero guarda en el pelo los tickets que necesitan en la mesa. Ginoyama la atrae con una pelota de luz y Maroxi recupera las cartas, sufriendo una hinchazón mágica al hacerlo. Los cuatro tickets activan el gran premio y una garra deja bolsas ante los ganadores. El botón que pulsa Arwen vuelve a abrir la máquina, sin crear más botín. El grupo se retira con el dinero y la niña satisfecha de haber jugado. La entrega del dinero salda ese precio, pero no resuelve la búsqueda: la jefa explica que dio los rituales a otra clienta. Para identificarla quiere cinco mil monedas; enviarle un mensaje con la propuesta de Jin costaría otras mil. El guerrero no puede pagarlo y sale solo con una certeza nueva, que los papeles ya no están allí. Maroxi intenta desaparecer invisible para hablar por su cuenta, aunque Arwen lo rastrea y se agarra a él. El paso de cuervos le permite apartarse y Jin se lleva a la niña hacia la base. Maroxi vuelve a la mesa de la jefa para retomar su trato privado. La escena termina antes de conocer las condiciones o el desenlace de esa conversación.",
+  "afirmaciones": [
+    {
+      "id": "128-001",
+      "titulo": "Maroxi duerme y el anillo ya no lo retiene",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Maroxi cuenta que, libre de la criatura, vuelve a descansar sin venas negras ni pesadillas. Dice que ha conseguido quitarse el anillo al cambiar la forma de sus dedos, pero lo conserva y quiere cumplir su palabra. También ha negociado con un ser de muchos ojos que podría ayudarlo con el libro ilegible a cambio de un objeto poderoso. Encuentra cuentas en la caja de la casa de inversiones, sin identificar todavía de quién son.",
+      "inicio": "00:00:00.240",
+      "fin": "00:06:00.309",
+      "cita": "pues he estado jugando con un anillo que",
+      "entidades": [
+        "Maroxi",
+        "Anillo de deuda de la cofradía",
+        "Biblia de Osuray (título pendiente)"
+      ],
+      "ambito": "Kuroto, sesión 128",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "128-002",
+      "titulo": "Jin investiga para liberar a Kurobane",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Jin explica que Sirth le pidió ayudar a Kurobane. Busca información ritual robada a una iglesia, investigada por el shogunato, pero no puede consultar el expediente porque no pertenece a él. Maroxi ofrece presentarlo a su contacto de los bajos fondos para obtener pistas sobre exorcismos y posesiones.",
+      "inicio": "00:03:02.120",
+      "fin": "00:12:01.350",
+      "cita": "Le ha poseído una especie de sombra.",
+      "entidades": [
+        "Jin",
+        "Sirth (grafía provisional)",
+        "Kurobane (grafía provisional)",
+        "Osuray (grafía provisional)",
+        "Maroxi",
+        "Shogunato de Kuroto"
+      ],
+      "ambito": "Kuroto, sesión 128",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "128-003",
+      "titulo": "Tap llega a la base",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "La base tiene todas las puertas de las habitaciones rotas desde la noche anterior. Tap, el yokai liberado en la montaña, aparece por fin y Arwen lo reconoce como su amigo rescatado. La niña se suma a los juegos con los otros pequeños. Su llegada confirma que sí consiguió reunirse con ella, sin aclarar el destino del kappa.",
+      "inicio": "00:06:00.319",
+      "fin": "00:18:02.789",
+      "cita": "Y veis a a Tap,",
+      "entidades": [
+        "Tap (yokai rescatado)",
+        "Arwen",
+        "Base de los cazadores de Sho"
+      ],
+      "ambito": "Kuroto, sesión 128",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "128-004",
+      "titulo": "Una niña en una visita delicada",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Maroxi intenta dejar a Arwen en la base, pero Ginoyama decide llevarla. En los bajos fondos el cambiante la anima a convertirse en cucaracha para pasar desapercibida. Modifica la memoria de Struck para hacerle creer que son visitantes habituales y deja temporalmente con él un ojo de contemplador. El guardián les abre la trampilla de la cofradía.",
+      "inicio": "00:15:01.120",
+      "fin": "00:30:03.870",
+      "cita": "memoria.",
+      "entidades": [
+        "Maroxi",
+        "Arwen",
+        "Ginoyama (grafía provisional)",
+        "Struck (grafía provisional)",
+        "Cofradía de las dagas (nombre pendiente)"
+      ],
+      "ambito": "Kuroto, sesión 128",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "128-005",
+      "titulo": "Mil monedas por información de exorcismo",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "La jefa, llamada Ciari/Tiari en los subtítulos, recibe a Maroxi y Jin. Afirma tener noticias de los documentos rituales y exige recuperar mil monedas perdidas por sus hombres en el casino de Jester. Maroxi pregunta además por un artefacto de poder legendario, pero esa información necesitaría otro precio. La mujer no acepta que el anillo pase a Jin: advierte que, si Maroxi incumple la deuda y no lleva la garantía, enviará gente a matarlo.",
+      "inicio": "00:27:00.000",
+      "fin": "00:42:00.589",
+      "cita": "1000 de oro.",
+      "entidades": [
+        "Jefa de la cofradía (nombre pendiente)",
+        "Maroxi",
+        "Jin",
+        "Cofradía de las dagas (nombre pendiente)",
+        "Anillo de deuda de la cofradía",
+        "Casino de Jester"
+      ],
+      "ambito": "Kuroto, sesión 128",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "128-006",
+      "titulo": "El casino como alternativa al robo",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "El grupo recupera el ojo del vigilante y busca la casa de apuestas. Contrata acompañantes en un establecimiento vecino para presentarse como clientes con dinero y entra en el local de Jester. Ginoyama detecta trampas en las mesas. Arwen rastrea el olor de los hombres de la cofradía por mesas y barra; deciden probar los juegos mientras busca un mecanismo oculto.",
+      "inicio": "00:42:00.599",
+      "fin": "01:03:03.150",
+      "cita": "zona buscando trampas y triquiñuelas.",
+      "entidades": [
+        "Maroxi",
+        "Jin",
+        "Ginoyama (grafía provisional)",
+        "Arwen",
+        "Jester (grafía provisional)",
+        "Casino de Jester"
+      ],
+      "ambito": "Kuroto, sesión 128",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "128-007",
+      "titulo": "Dados, dardos y dos premios",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Arwen se cuela como cucaracha en el cajetín de apuestas, pero solo encuentra las monedas recién depositadas. Maroxi juega por ella desde la mesa y obtiene un premio especial en los dados. Luego la niña usa viento para impulsar los dardos y gana ese juego, acumulando dinero y otro ticket. No descubre todavía una reserva de mil monedas bajo la mesa.",
+      "inicio": "01:03:03.160",
+      "fin": "01:27:01.550",
+      "cita": "premio especial.",
+      "entidades": [
+        "Arwen",
+        "Maroxi",
+        "Casino de Jester",
+        "Tickets del gran premio de Jester"
+      ],
+      "ambito": "Kuroto, sesión 128",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "128-008",
+      "titulo": "Una pataleta que sacude el local",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Maroxi apuesta quinientas monedas al azul en la ruleta. La bola cae a su color tras gastar inspiración; Arwen, contrariada por perder, provoca un terremoto pese al intento de Maroxi por contrarrestarlo. Casi todos caen al suelo y la rueda vuelve a girar, de nuevo a favor del azul. Maroxi cobra mil monedas y un ticket, que entrega a la niña para calmarla.",
+      "inicio": "01:24:03.400",
+      "fin": "01:39:02.390",
+      "cita": "un terremoto",
+      "entidades": [
+        "Maroxi",
+        "Arwen",
+        "Casino de Jester",
+        "Tickets del gran premio de Jester"
+      ],
+      "ambito": "Kuroto, sesión 128",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "128-009",
+      "titulo": "Pelotas, robos y otra carta",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "En el tiro a los vasos Arwen intenta usar viento y lanza una pelota ajena al juego que golpea a Maroxi. El cambiante aprovecha después la persecución de su juguete para robar con mano de mago a dos mesas, obteniendo veintisiete y sesenta y siete monedas. En una nueva ronda consigue el premio especial y otro ticket. La distracción provoca desorden sin que los clientes detecten los robos.",
+      "inicio": "01:39:02.400",
+      "fin": "01:57:02.430",
+      "cita": "[ __ ] este tiene más pasta, ¿eh? 67.",
+      "entidades": [
+        "Arwen",
+        "Maroxi",
+        "Casino de Jester",
+        "Tickets del gran premio de Jester"
+      ],
+      "ambito": "Kuroto, sesión 128",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "128-010",
+      "titulo": "La bomba y el mono",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "El último juego pasa una bomba ilusoria entre los participantes. Arwen usa confusión y encantamiento para evitarla; Maroxi emplea duplicados y la transforma en mono. La explosión de confeti se produce en su zona y la niña gana. Después, como mono, alborota el casino y arroja excrementos mientras Maroxi roba otras seis monedas. El cambiante cancela la transformación y la saca a un callejón.",
+      "inicio": "01:57:02.440",
+      "fin": "02:21:00.270",
+      "cita": "peta como el mogollón de confetti,",
+      "entidades": [
+        "Arwen",
+        "Maroxi",
+        "Ginoyama (grafía provisional)",
+        "Jin",
+        "Casino de Jester"
+      ],
+      "ambito": "Kuroto, sesión 128",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "128-011",
+      "titulo": "Los tickets activan el gran premio",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Maroxi vuelve invisible a Arwen y le pide buscar un botón oculto. Ella lo descubre bajo la mesa de Jester, pero lleva también los tickets en el pelo. Una ilusión brillante de Ginoyama permite recuperarlos; Maroxi sufre una reacción de hinchazón al rebuscar. Coloca las cuatro cartas y gana el gran premio, entregado por una garra mecánica. Arwen pulsa el botón sin obtener más bolsas. El grupo sale con el dinero.",
+      "inicio": "02:18:00.479",
+      "fin": "02:33:02.190",
+      "cita": "monedas, os salen cuatro espacios para",
+      "entidades": [
+        "Maroxi",
+        "Arwen",
+        "Ginoyama (grafía provisional)",
+        "Jester (grafía provisional)",
+        "Casino de Jester",
+        "Tickets del gran premio de Jester"
+      ],
+      "ambito": "Kuroto, sesión 128",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "128-012",
+      "titulo": "El pago no compra los documentos",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "De vuelta, entregan el dinero a la jefa. Ella reconoce que ya dio a otra persona los rituales y no los tiene. Pide cinco mil monedas por revelar a su clienta o mil por enviarle la propuesta de Jin. El guerrero no puede pagar. La cofradía recibe lo acordado, pero la investigación solo avanza hasta saber que los papeles están en otras manos; la identidad no queda demostrada.",
+      "inicio": "02:33:02.200",
+      "fin": "02:42:00.510",
+      "cita": "5000 monedas de oro.",
+      "entidades": [
+        "Jefa de la cofradía (nombre pendiente)",
+        "Jin",
+        "Maroxi",
+        "Cofradía de las dagas (nombre pendiente)"
+      ],
+      "ambito": "Kuroto, sesión 128",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "128-013",
+      "titulo": "Maroxi quiere cerrar su trato en privado",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Maroxi se vuelve invisible para apartarse, pero Arwen lo localiza por el olfato. Escapa de su agarre mediante el paso de cuervos y deja que Jin se lleve a la niña a la base. La jefa parecía seguir sus ojos incluso invisible. Maroxi reaparece ante ella y pide hablar del trato que mantienen; la conversación se corta antes de resolverlo.",
+      "inicio": "02:39:00.160",
+      "fin": "02:44:37.279",
+      "cita": "Vale, te vas a tirar invisibilidad a ti",
+      "entidades": [
+        "Maroxi",
+        "Arwen",
+        "Jin",
+        "Jefa de la cofradía (nombre pendiente)",
+        "Anillo de deuda de la cofradía"
+      ],
+      "ambito": "Kuroto, sesión 128",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    }
+  ],
+  "historia": {
+    "revisado_hasta": 128,
+    "etapas": [
+      {
+        "titulo": "Un alivio y una tarea para Jin",
+        "texto": "Maroxi vuelve a dormir sin las venas oscuras ni las pesadillas de la criatura. El anillo de la cofradía tampoco lo retiene físicamente: asegura haberlo sacado al cambiar de forma, aunque quiere cumplir su palabra. Mantiene otro trato con un ser de muchos ojos para investigar la Biblia ilegible y encuentra cuentas de dueño aún incierto en una caja. Jin trae la petición de Sirth de ayudar a Kurobane. Los documentos sobre posesiones fueron robados a una iglesia y el expediente del shogunato queda fuera de su alcance. Maroxi ofrece abrir otra vía mediante su contacto de los bajos fondos. Mientras se preparan aparece Tap: el yokai rescatado ha llegado por fin a la base y Arwen lo reconoce.",
+        "referencias": [
+          "128-001",
+          "128-002",
+          "128-003"
+        ]
+      },
+      {
+        "titulo": "La información tiene otro precio",
+        "texto": "Ginoyama se suma a la visita y lleva a Arwen pese a la resistencia de Maroxi. El cambiante la hace pasar como cucaracha, altera la memoria de Struck para entrar como habitual y deja un ojo de contemplador bajo su custodia. La jefa recibe a sus visitantes bajo el nombre todavía incierto de Ciari o Tiari. A cambio de noticias de los rituales exige mil monedas perdidas por sus hombres en el casino de Jester. No acepta convertir la deuda de Maroxi en asunto de Jin y advierte que el anillo lo protege de sus matones mientras el compromiso siga pendiente. La consulta adicional del cambiante por un artefacto capaz de matar dragones tampoco entra en el mismo precio.",
+        "referencias": [
+          "128-004",
+          "128-005"
+        ]
+      },
+      {
+        "titulo": "Entrar a jugar, buscar por debajo",
+        "texto": "Tras recuperar el ojo, contratan acompañantes para presentarse en el casino con apariencia de clientes acomodados. Ginoyama reconoce trampas por todas partes y Arwen rastrea el paso de los hombres de la cofradía sin encontrar una reserva accesible. Maroxi decide jugar. La niña se cuela en el cajetín de la mesa como cucaracha y solo ve las monedas recién apostadas, mientras el mago juega por ella y obtiene un ticket especial. En los dardos, Arwen utiliza viento y gana otra carta. La búsqueda discreta empieza a transformarse en una noche de apuestas, luces y excesos que los propios juegos parecen alentar.",
+        "referencias": [
+          "128-006",
+          "128-007"
+        ]
+      },
+      {
+        "titulo": "Mil monedas a pesar del terremoto",
+        "texto": "Maroxi arriesga quinientas monedas al azul. Cuando la rueda lo favorece, Arwen monta una pataleta por perder e invoca un terremoto; su compañero no logra impedirlo. El local tiembla, muchos caen y la bola vuelve a girar, pero el azul gana de nuevo. Maroxi recibe mil monedas y un ticket que entrega a la niña para tranquilizarla. Aún continúan. En el tiro a los vasos, la magia y una pelota de juguete salen mal; el cambiante aprovecha después a Arwen persiguiéndola entre mesas para sustraer dinero con la mano de mago. Otra ronda le da un ticket. En la bomba caliente se enfrentan entre encantamientos, duplicados y confusión hasta que el confeti explota en el lugar de Maroxi y la niña vuelve a ganar.",
+        "referencias": [
+          "128-008",
+          "128-009",
+          "128-010"
+        ]
+      },
+      {
+        "titulo": "Cuatro tickets y una garra mecánica",
+        "texto": "La transformación de Arwen en mono prolonga el desorden y acaba con excrementos sobre el local y otro pequeño robo del cambiante. Maroxi la saca, vuelve a hacerla invisible y la envía a buscar mecanismos. Encuentra el botón de Jester, pero guarda en el pelo los tickets que necesitan en la mesa. Ginoyama la atrae con una pelota de luz y Maroxi recupera las cartas, sufriendo una hinchazón mágica al hacerlo. Los cuatro tickets activan el gran premio y una garra deja bolsas ante los ganadores. El botón que pulsa Arwen vuelve a abrir la máquina, sin crear más botín. El grupo se retira con el dinero y la niña satisfecha de haber jugado.",
+        "referencias": [
+          "128-010",
+          "128-011"
+        ]
+      },
+      {
+        "titulo": "El negocio no devuelve los papeles",
+        "texto": "La entrega del dinero salda ese precio, pero no resuelve la búsqueda: la jefa explica que dio los rituales a otra clienta. Para identificarla quiere cinco mil monedas; enviarle un mensaje con la propuesta de Jin costaría otras mil. El guerrero no puede pagarlo y sale solo con una certeza nueva, que los papeles ya no están allí. Maroxi intenta desaparecer invisible para hablar por su cuenta, aunque Arwen lo rastrea y se agarra a él. El paso de cuervos le permite apartarse y Jin se lleva a la niña hacia la base. Maroxi vuelve a la mesa de la jefa para retomar su trato privado. La escena termina antes de conocer las condiciones o el desenlace de esa conversación.",
+        "referencias": [
+          "128-012",
+          "128-013"
+        ]
+      }
+    ]
+  },
+  "misiones": [
+    "Liberar a Kurobane: se busca documentación de exorcismo, pero no se obtiene.",
+    "Recuperar mil monedas para la cofradía: conseguido mediante el casino y pago entregado.",
+    "Localizar a quien posee los rituales: la jefa exige otro pago, no revela el nombre.",
+    "Saldar el favor personal de Maroxi: conversación privada pendiente al final.",
+    "Encontrar a Tap: su llegada a la base queda confirmada; el kappa no reaparece."
+  ],
+  "preguntas": [
+    "¿Quién tiene los documentos de exorcismo y cómo los conseguirá Jin?",
+    "¿Qué pide la jefa a Maroxi en su conversación privada?",
+    "¿Qué objeto poderoso necesita el ser de muchos ojos para investigar el libro?"
+  ],
+  "nombres_dudosos": [
+    "Ginoyama / Ginoama / Giroyama: grafía provisional del dracónido de fuego, distinto de Jin.",
+    "Ciari / Tiari: jefa de la cofradía ya visitada por Maroxi en124; no fijar una grafía sin contraste.",
+    "La organización se denomina cuchillos negros/cuchillas negras en el reconocimiento; propuesta de alias para la cofradía, sin convertir una variante en nombre definitivo.",
+    "Struck / Stru / Estru: vigilante de la trampilla, grafía provisional.",
+    "Jester / Jexter: propietario de la casa de apuestas, grafía provisional.",
+    "Las acompañantes se presentan con nombres humorísticos José Luis y Antonio; no se crean fichas canónicas por esos apodos de escena."
+  ],
+  "contradicciones": [
+    "La retirada física del anillo por cambios de forma no demuestra desaparición de la deuda ni consentimiento de la jefa; ella amenaza con matones si se incumple.",
+    "La llegada de Tap sí se muestra. No implica que llegara a salvo también el kappa.",
+    "La suposición de Jin sobre la clienta de la jefa se detiene expresamente por metajuego: la identidad sigue desconocida.",
+    "La secuencia de apuestas contiene rectificaciones en cantidades; se conservan los hitos de premio y pago sin fabricar una contabilidad completa.",
+    "La aparente percepción de Maroxi invisible por la jefa se describe como observación de escena, sin deducir su especie ni una lista de poderes."
+  ]
+}

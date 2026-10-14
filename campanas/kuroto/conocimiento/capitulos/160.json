@@ -1,0 +1,350 @@
+{
+  "capitulo": 160,
+  "estado_revision": "revisado",
+  "fuente_sha256": "ddff817edb1147859c1e108aa93d6dcfd1a585397ff20a0469ad5e3bc340677b",
+  "resumen": "Arwen ha cerrado círculos alrededor de Ukio y de la capilla, pero el kodama continúa enfermo y el libro de la Marca de la Muerte abre más dudas sobre Chilia. Jin teme lo que despertó al tocar la esfera de fuego y Banzo paga a un shinobi para encontrar a Archi sin acercarse a él. Entre malentendidos, Arwen devuelve a Chilia un ojo que se extrae y Banzo prueba a Channi antes de animarla como cazadora. Comparar las marcas aclara una diferencia crucial: al kodama se la han cortado; Chilia lleva un tatuaje antiguo y auténtico. Jin intenta leer mientras el grupo avanza protegido por un banquete. La capilla presenta una brecha entre huesos. Grandes rastros reptantes y cuatro pares de botas salen del recinto, mientras masas de no muertos y serpientes separan al grupo. Channi convoca tigres y su hielo alcanza también a aliados; Jin y Chilia golpean, Banzo abre espacio y Arwen sostiene las curas. La rabia le sigue fallando al líder, pero la druida descubre su mano perdida y la regenera realmente. Banzo vuelve a combatir con las dos manos. Tras vencer siguen las botas hacia un pueblo al que los enemigos han llegado antes que ellos. En Ukio han matado al sacerdote y a otros dos habitantes. Los atacantes buscan a una portadora y el lanzador de tres cráneos reclama a Chilia para la casa de la marca. Ella cree al principio que están jugando, hasta que ve las heridas de Arwen y elige defender a su amiga. Rompe la concentración que mantenía a Jin fuera de este plano. Banzo llega tarde, obtiene de sus ancestros una sola excepción para usar su rabia y pelea entre aguardiente y espíritus. Las curas permiten resistir y su escudo espiritual devuelve al lanzador el daño que lo remata. El grupo termina de destruir a los acorazados. La victoria deja muertos y otra barrera rota. Arwen encamina el alma del sacerdote hacia una nueva vida mediante reencarnación, sin devolver su cadáver a la actividad. Busca inútilmente respuestas en armaduras y se culpa por no haber protegido el pueblo. Jin decide quedarse con ella y los demás la acompañan, sin convertir el consuelo en una cura inmediata de su dolor. De los restos emerge un bastón de olmo vivo que Arwen extrae y guarda en el pelo. Conservan el libro y la muestra de tierra para investigar: la identidad que el enemigo adjudica a Chilia sigue necesitando explicación.",
+  "afirmaciones": [
+    {
+      "id": "160-001",
+      "titulo": "Protecciones y asuntos pendientes",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Arwen relata haber completado círculos protectores alrededor de la capilla y de Ukio. Recuerdan una posesión de Chilia expulsada, sin convertir el recuerdo en una nueva escena detallada. El kodama sigue enfermo. Han leído el libro de la Marca de la Muerte sin resolver su relación con Chilia. Jin teme lo que sintió dentro después de tocar el fuego; Banzo sigue buscando a Archi.",
+      "inicio": "00:00:00.480",
+      "fin": "00:12:03.230",
+      "cita": "como un círculo para evitar que esa",
+      "entidades": [
+        "Arwen",
+        "Chilia",
+        "Jin",
+        "Banzo",
+        "Ukio (grafía provisional)",
+        "Jigoku Nomori (grafía provisional)",
+        "Libro de la Marca de la Muerte",
+        "Kodama enfermo de Jigoku Nomori"
+      ],
+      "ambito": "Kuroto, sesión 160",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "160-002",
+      "titulo": "Cien monedas por encontrar al gnomo",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Banzo contrata al último shinobi disponible de Ukio para localizar a Archi discretamente, sin hablarle ni dejarse ver. Paga cincuenta por adelantado y promete otras cincuenta si trae información. La contratación no prueba todavía un hallazgo.",
+      "inicio": "00:12:03.240",
+      "fin": "00:18:01.750",
+      "cita": "Vale, mira, eh, te voy a dar 50 monedas",
+      "entidades": [
+        "Banzo",
+        "Ukio (grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 160",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "160-003",
+      "titulo": "Un ojo y una prueba",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Chilia interpreta literalmente que eche un ojo y se lo extrae; Arwen lo recoloca y atiende. Después Banzo prueba en privado a Channi, permite que lo inmovilice y la anima como cazadora. La prueba no produce una herida grave ni un nuevo contrato formal mostrado.",
+      "inicio": "00:18:01.760",
+      "fin": "00:34:01.029",
+      "cita": "le cojo el puño. Le [risas] cojo el",
+      "entidades": [
+        "Banzo",
+        "Arwen",
+        "Chilia",
+        "Channi (grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 160",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "160-004",
+      "titulo": "Una marca auténtica frente a una impuesta",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Comparan la marca del kodama, practicada mediante cortes, con el tatuaje de Chilia, que ella lleva desde hace tiempo. Jin conoce marcas ligadas a familias y capacidades de otro plano, sin identificar aún todos sus secretos. Arwen le deja leer el libro durante la marcha y prepara un banquete protector. La diferencia impide tratar toda marca como la misma intervención reciente.",
+      "inicio": "00:34:01.039",
+      "fin": "00:47:59.990",
+      "cita": "pues eso, como un tatuaje que está",
+      "entidades": [
+        "Arwen",
+        "Chilia",
+        "Jin",
+        "Channi (grafía provisional)",
+        "Kodama enfermo de Jigoku Nomori",
+        "Marca de la Muerte",
+        "Libro de la Marca de la Muerte"
+      ],
+      "ambito": "Kuroto, sesión 160",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "160-005",
+      "titulo": "La capilla ya no está cerrada",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "El círculo de la capilla presenta una brecha amplia. Entre huesos y no muertos encuentran rastros de grandes cuerpos reptantes y cuatro figuras con botas pesadas. La protección localizada no cubre todo el bosque. El grupo acaba dividido entre masas de zombis y grandes serpientes animadas.",
+      "inicio": "00:48:00.000",
+      "fin": "01:00:01.750",
+      "cita": "Entonces empieza a buscar huellas",
+      "entidades": [
+        "Banzo",
+        "Jin",
+        "Arwen",
+        "Chilia",
+        "Channi (grafía provisional)",
+        "Jigoku Nomori (grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 160",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "160-006",
+      "titulo": "Entre tigres y huesos",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Channi convoca tigres; su explosión de hielo también alcanza aliados. Jin, Chilia y Banzo combaten a las masas y serpientes mientras Arwen cura y cubre retiradas. La inmunidad a veneno del banquete ayuda, pero el aturdimiento no afecta a todos los no muertos. Vencen sin perder definitivamente a un cazador.",
+      "inicio": "01:00:01.760",
+      "fin": "01:32:03.270",
+      "cita": "y voy a invocar unos tigres.",
+      "entidades": [
+        "Banzo",
+        "Jin",
+        "Arwen",
+        "Chilia",
+        "Channi (grafía provisional)",
+        "Jigoku Nomori (grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 160",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "160-007",
+      "titulo": "La mano vuelve de verdad",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Arwen descubre que Banzo sigue sin una mano y utiliza regeneración: la extremidad vuelve a crecer con energía dorada. Puede volver a empuñar su arma con ambas manos. No es la antigua prótesis ni una simple cura de puntos de golpe. Sus ancestros todavía le niegan la rabia en este primer combate.",
+      "inicio": "01:12:00.600",
+      "fin": "01:32:03.270",
+      "cita": "y ves que te lanza ese regenerar. ¿Sabes",
+      "entidades": [
+        "Banzo",
+        "Arwen"
+      ],
+      "ambito": "Kuroto, sesión 160",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "160-008",
+      "titulo": "Buscan a una portadora",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Siguen las botas hasta Ukio. Dos guerreros acorazados y un lanzador de tres cráneos han matado al sacerdote y a otros dos habitantes. Comprueban que el sacerdote no es el portador buscado. El lanzador ordena matar al grupo salvo a Chilia y la identifica como portadora vinculada a la casa de la marca; esa filiación se conserva como afirmación enemiga.",
+      "inicio": "01:32:03.280",
+      "fin": "01:46:00.109",
+      "cita": "es un portador.\" Y hace y lo corta por",
+      "entidades": [
+        "Arwen",
+        "Banzo",
+        "Jin",
+        "Chilia",
+        "Channi (grafía provisional)",
+        "Ukio (grafía provisional)",
+        "Marca de la Muerte",
+        "Casa de Ball (grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 160",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "160-009",
+      "titulo": "No era un juego",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Chilia confunde inicialmente las órdenes del enemigo con un juego y la situación con Arwen, pero al ver a su amiga herida se vuelve contra el agresor. Jin es desterrado temporalmente y regresa cuando ella rompe la concentración golpeando al lanzador. Channi sostiene el duelo con otra forma mientras Banzo alcanza por fin el combate.",
+      "inicio": "01:40:01.239",
+      "fin": "01:59:00.310",
+      "cita": "amiga, soy tu colega.",
+      "entidades": [
+        "Arwen",
+        "Banzo",
+        "Jin",
+        "Chilia",
+        "Channi (grafía provisional)",
+        "Ukio (grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 160",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "160-010",
+      "titulo": "Una excepción de los ancestros",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Una voz ancestral concede a Banzo usar la rabia solo esta vez y le exige superar después una prueba. Él entra en la lucha y usa aguardiente y protección espiritual. La concesión puntual no resuelve definitivamente su ruptura con los ancestros.",
+      "inicio": "01:52:01.400",
+      "fin": "02:19:00.629",
+      "cita": "después deberá superar una prueba.\"",
+      "entidades": [
+        "Banzo"
+      ],
+      "ambito": "Kuroto, sesión 160",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "160-011",
+      "titulo": "El precio de defender Ukio",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "El lanzador resiste una primera caída y responde con tormenta de hielo. El escudo espiritual de Banzo refleja daño que lo remata. Jin, Channi y Chilia terminan de abatir a los acorazados, mientras las curas de Arwen mantienen al grupo. Chilia se cura a sí misma; no se le atribuye una curación ajena que se descarta en reglas. Las quemaduras de Arwen siguen pesando pese a la recuperación.",
+      "inicio": "01:59:00.320",
+      "fin": "02:34:00.389",
+      "cita": "Venga, pues tormenta de hiero.",
+      "entidades": [
+        "Arwen",
+        "Banzo",
+        "Jin",
+        "Chilia",
+        "Channi (grafía provisional)",
+        "Ukio (grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 160",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "160-012",
+      "titulo": "Una barrera que no bastó",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "El círculo de Ukio también está roto; no ha detenido a estos atacantes aunque antes disuadiera no muertos menores. Arwen libera mediante reencarnación el alma del sacerdote muerto hacia otra vida, sin levantar su cadáver allí mismo. No consigue respuestas de las armaduras vacías y se siente responsable de las muertes. Jin decide quedarse con ella y el grupo la acompaña.",
+      "inicio": "02:31:04.000",
+      "fin": "02:44:01.830",
+      "cita": "ese reencarnarse para que este pobre",
+      "entidades": [
+        "Arwen",
+        "Banzo",
+        "Jin",
+        "Chilia",
+        "Channi (grafía provisional)",
+        "Ukio (grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 160",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "160-013",
+      "titulo": "Un olmo entre los restos",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Bajo unas ropas que se levantan emerge un palo de olmo con hojas y raíces, de tamaño próximo al de Arwen. Ella lo examina, lo extrae y lo guarda en el pelo. No se recitan en voz alta propiedades completas del objeto mostrado. Mantienen el libro para buscar una lectura más competente y aclarar la marca de Chilia.",
+      "inicio": "02:37:00.720",
+      "fin": "02:48:54.439",
+      "cita": "Yo que sé, un Olmo.",
+      "entidades": [
+        "Arwen",
+        "Jin",
+        "Chilia",
+        "Libro de la Marca de la Muerte",
+        "Bastón de olmo de Arwen",
+        "Marca de la Muerte",
+        "Tierra del sarcófago de Ilmarrow Ball"
+      ],
+      "ambito": "Kuroto, sesión 160",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    }
+  ],
+  "historia": {
+    "revisado_hasta": 160,
+    "etapas": [
+      {
+        "titulo": "Cuidar un refugio incompleto",
+        "texto": "Arwen ha cerrado círculos alrededor de Ukio y de la capilla, pero el kodama continúa enfermo y el libro de la Marca de la Muerte abre más dudas sobre Chilia. Jin teme lo que despertó al tocar la esfera de fuego y Banzo paga a un shinobi para encontrar a Archi sin acercarse a él. Entre malentendidos, Arwen devuelve a Chilia un ojo que se extrae y Banzo prueba a Channi antes de animarla como cazadora. Comparar las marcas aclara una diferencia crucial: al kodama se la han cortado; Chilia lleva un tatuaje antiguo y auténtico. Jin intenta leer mientras el grupo avanza protegido por un banquete.",
+        "referencias": [
+          "160-001",
+          "160-002",
+          "160-003",
+          "160-004"
+        ]
+      },
+      {
+        "titulo": "Las huellas atraviesan el círculo",
+        "texto": "La capilla presenta una brecha entre huesos. Grandes rastros reptantes y cuatro pares de botas salen del recinto, mientras masas de no muertos y serpientes separan al grupo. Channi convoca tigres y su hielo alcanza también a aliados; Jin y Chilia golpean, Banzo abre espacio y Arwen sostiene las curas. La rabia le sigue fallando al líder, pero la druida descubre su mano perdida y la regenera realmente. Banzo vuelve a combatir con las dos manos. Tras vencer siguen las botas hacia un pueblo al que los enemigos han llegado antes que ellos.",
+        "referencias": [
+          "160-005",
+          "160-006",
+          "160-007"
+        ]
+      },
+      {
+        "titulo": "La amiga que no querían matar",
+        "texto": "En Ukio han matado al sacerdote y a otros dos habitantes. Los atacantes buscan a una portadora y el lanzador de tres cráneos reclama a Chilia para la casa de la marca. Ella cree al principio que están jugando, hasta que ve las heridas de Arwen y elige defender a su amiga. Rompe la concentración que mantenía a Jin fuera de este plano. Banzo llega tarde, obtiene de sus ancestros una sola excepción para usar su rabia y pelea entre aguardiente y espíritus. Las curas permiten resistir y su escudo espiritual devuelve al lanzador el daño que lo remata. El grupo termina de destruir a los acorazados.",
+        "referencias": [
+          "160-008",
+          "160-009",
+          "160-010",
+          "160-011"
+        ]
+      },
+      {
+        "titulo": "Quedarse con quien se siente culpable",
+        "texto": "La victoria deja muertos y otra barrera rota. Arwen encamina el alma del sacerdote hacia una nueva vida mediante reencarnación, sin devolver su cadáver a la actividad. Busca inútilmente respuestas en armaduras y se culpa por no haber protegido el pueblo. Jin decide quedarse con ella y los demás la acompañan, sin convertir el consuelo en una cura inmediata de su dolor. De los restos emerge un bastón de olmo vivo que Arwen extrae y guarda en el pelo. Conservan el libro y la muestra de tierra para investigar: la identidad que el enemigo adjudica a Chilia sigue necesitando explicación.",
+        "referencias": [
+          "160-012",
+          "160-013"
+        ]
+      }
+    ]
+  },
+  "misiones": [
+    "Localizar a Archi mediante el shinobi contratado.",
+    "Comprender la marca auténtica de Chilia y el libro de su casa.",
+    "Ayudar a Arwen y restaurar la seguridad de Ukio.",
+    "Afrontar la prueba ancestral de Banzo."
+  ],
+  "preguntas": [
+    "¿Qué información traerá el shinobi sobre Archi?",
+    "¿Qué significa la filiación que los atacantes atribuyen a Chilia?",
+    "¿Qué prueba exigen los ancestros a Banzo?",
+    "¿Cómo restaurarán una protección capaz de resistir estos ataques?",
+    "¿Qué propiedades posee el bastón de olmo?"
+  ],
+  "nombres_dudosos": [
+    "El sacerdote muerto aparece con variantes Kashuki/Katushi; no se fusiona automáticamente con Kazuki.",
+    "Casa Ball/Bol y pronunciación infantil del nombre requieren contraste; se conserva la declaración sin añadir canon externo."
+  ],
+  "contradicciones": [
+    "Reencarnación encamina el alma a otra vida: no revive aquí el cuerpo del sacerdote.",
+    "La mano de Banzo sí queda regenerada materialmente en esta sesión.",
+    "El enemigo atribuye linaje a Chilia; el tatuaje antiguo auténtico no demuestra toda la genealogía.",
+    "Chilia cura su propio cuerpo; la propuesta de curar a Arwen con esa facultad es corregida."
+  ]
+}

@@ -1,0 +1,299 @@
+{
+  "capitulo": 107,
+  "estado_revision": "revisado",
+  "fuente_sha256": "437e100526559c6b79346f5df7b672634db22a3e9d397afe071af4d46a46b5b1",
+  "resumen": "Sun sigue intentando cambiar de forma con Lea y ayuda en Ukio, pero dedica también horas a ensayar ante un espejo lo que dirá al guardián. Katari cuida de Arwen y explica que vuelve a bañarla regularmente. Higeki trae comida de palacio y mantiene su costumbre de convertir las desgracias ajenas en canciones. Kurobani informa que ha explorado una de sus rutas y entregado un informe para Aka. El grupo decide acompañar al mono al templo de Biaco. Como su expulsión le impide usar la ruta por las instalaciones de Sho, lo transforman en un águila gigante para que los lleve. El vuelo conduce a la pequeña isla y al templo elevado sobre nubes de tormenta. Sun recuerda las trampas eléctricas de la entrada y prueba con su bastón, pero un tanteo ligero no basta para activar las placas. Descubren que el peso acciona rayos entre las cabezas de las estatuas. Pasar agachados permite evitarlos; caminar por una placa ya usada no la vuelve segura, y uno de los compañeros recibe la descarga al seguir esa suposición. En la sala central encuentran libros y el antiguo mecanismo del altar todavía en su posición. Volver a moverlo no invoca al guardián. Katari conduce a Sun hasta el lugar de respeto y este se arrodilla. Solo entonces sale del sarcófago la forma espiritual del tigre, que se hace corpórea y lo recibe con una acusación: ha fallado. Biaco no acepta que la visita se limite a lamentarse. Pregunta cómo salvarán la isla las disculpas, rechaza la oferta de la vida del mono y también la promesa de dedicarle veneración. Recuerda a Katari que los elegidos deben proteger Kuroto y que los guardianes solo les prestan ayuda. No dispone de otra bendición para reemplazar sin más la perdida. Provoca a Sun por sus fracasos hasta que este identifica el camino del monje que todavía no ha completado. La humillación busca una reacción: cuando Katari intenta frenarla, Biaco la silencia. Sun acaba levantando la cabeza, exige que termine y golpea al tigre en el hocico. La respuesta del guardián es una sonrisa y un desafío individual. Sun deja el bastón y combate con los puños. Biaco lo arroja por el hueco central del templo, pero el mono llama a su nube y regresa en vez de aceptar la caída. Vuelve a atacar y utiliza el anillo para convertirse en un bloque de hielo al dejarse caer sobre su adversario. El guardián espera frente a él hasta que rompe el hielo y descarga otro puñetazo. La manifestación se retira al sarcófago; enseguida reaparece y aclara qué quería encontrar: determinación para buscar soluciones, en lugar de quedarse llorando en una base. El combate no mata a Biaco ni devuelve la bendición. El tigre escucha a los otros sobre Sun y decide enviarlos a una audiencia superior. Los relámpagos del guardián trasladan a los cuatro al templo del dragón Kogan. Este examina al mono y explica que la renuncia ha rasgado la barrera: criaturas antes excluidas empiezan a entrar, incluida una que alcanzó la capital. Sun se alarma porque no conocía el ataque del torneo. El dragón afirma que Otakemaru todavía no ha recuperado todo su poder y aun así podría destruirlo a él; no comparte la confianza fácil en una lucha frontal. Pide a Higeki y Kurobani que opinen sobre lo que merece Sun. El bardo sostiene que el pasado no puede cambiarse, pero sí el futuro. El visitante muestra las marcas que lleva por aliados caídos durante su entrenamiento. Kogan atribuye a la rotura más de cien muertos; es su acusación durante la audiencia y no un recuento contrastado por la compañía. Sun se compromete a seguir el camino que le marcó el monje, renunciando a la identidad ególatra que lo llevó hasta allí. Kogan acepta la respuesta, pero fija una condición: debe demostrar su valía a Semongen y continuar el camino de Changen; hasta entonces no tendrá la bendición y la barrera seguirá abierta. Los nombres oscilan en la transcripción y no bastan para resolver todas las identidades evocadas. En celestial, el dragón hace responsable a Katari de vigilar a los elegidos y evitar otra pérdida. Ella acepta y promete intervenir. A Kurobani le dice que existen otros planes para él y que debe mantenerse vivo, sin explicarle cuáles. La audiencia termina con la misión todavía pendiente. Una nube devuelve al grupo a Ukio. Kurobani ha comentado a Higeki que vigilará al mono y que lo detendrá si vuelve a ponerlos en peligro; no ejecuta esa amenaza. Katari manda un ave para informar en Sho de la visita. Sun le agradece haberlo acompañado e intenta abrazarla; ella se aparta y explica que no le gusta ese contacto. El mono reconoce que la audiencia lo ha sacudido y da las gracias al resto. Higeki prepara un banquete para celebrar que siguen vivos. La cámara final muestra la cúpula con una gran fractura y unos ojos enormes observándola. No se identifica a su dueño. No hay una nueva bendición concedida ni readmisión de Sun en este episodio.",
+  "afirmaciones": [
+    {
+      "id": "107-001",
+      "titulo": "Volar hasta el guardián",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Sun, Katari, Higeki y Kurobani parten de Ukio hacia el templo del oeste. Transforman al mono en águila gigante para viajar, al tener prohibido el uso de las instalaciones de Sho.",
+      "inicio": "00:00:00.000",
+      "fin": "00:17:00.000",
+      "entidades": [
+        "Sun Gukon (grafía provisional)",
+        "Katari (grafía provisional)",
+        "Higeki (grafía provisional)",
+        "Kurobani (grafía provisional)",
+        "Templo de Biaco (oeste)"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "No se concede otra bendición ni se demuestra todavía el cumplimiento de las condiciones.",
+      "cita": "águila gigante y nos vamos a subir a",
+      "evidencia_cue": {
+        "inicio": "00:13:37.680",
+        "fin": "00:13:40.350"
+      }
+    },
+    {
+      "id": "107-002",
+      "titulo": "Las placas se reactivan y el respeto llama al tigre",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Las trampas eléctricas se activan por peso y no se consumen al usarlas. El mecanismo previo del altar no invoca a Biaco; cuando Sun se arrodilla aparece la forma espiritual y corpórea del guardián.",
+      "inicio": "00:23:00.000",
+      "fin": "00:41:30.000",
+      "entidades": [
+        "Sun Gukon (grafía provisional)",
+        "Katari (grafía provisional)",
+        "Higeki (grafía provisional)",
+        "Kurobani (grafía provisional)",
+        "Templo de Biaco (oeste)",
+        "Biaco (grafía provisional)"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "No se concede otra bendición ni se demuestra todavía el cumplimiento de las condiciones.",
+      "cita": "Cuando te arrodillas y muestras su",
+      "evidencia_cue": {
+        "inicio": "00:40:26.880",
+        "fin": "00:40:30.390"
+      }
+    },
+    {
+      "id": "107-003",
+      "titulo": "Biaco rechaza las disculpas como remedio",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Biaco declara que los mortales deben salvar Kuroto, que no hay otra bendición y que perdonar no reparará el daño. Reprocha a Sun no completar el camino del monje y lo provoca hasta obtener una respuesta.",
+      "inicio": "00:40:00.000",
+      "fin": "00:56:30.000",
+      "entidades": [
+        "Sun Gukon (grafía provisional)",
+        "Katari (grafía provisional)",
+        "Biaco (grafía provisional)",
+        "Barrera protectora de Kuroto",
+        "Monje de las pruebas del Rey Mono (nombre pendiente)"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "No se concede otra bendición ni se demuestra todavía el cumplimiento de las condiciones.",
+      "cita": "de las bendiciones yo era la",
+      "evidencia_cue": {
+        "inicio": "00:43:32.559",
+        "fin": "00:43:35.069"
+      }
+    },
+    {
+      "id": "107-004",
+      "titulo": "Sun vence una manifestación, no mata al guardián",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Después de golpear al tigre, Sun combate solo, cae por el hueco y regresa en su nube, ataca con puños y bloque de hielo. La forma de Biaco vuelve al sarcófago y reaparece para hablar de determinación.",
+      "inicio": "00:56:00.000",
+      "fin": "01:10:00.000",
+      "entidades": [
+        "Sun Gukon (grafía provisional)",
+        "Biaco (grafía provisional)",
+        "Templo de Biaco (oeste)"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "No se concede otra bendición ni se demuestra todavía el cumplimiento de las condiciones.",
+      "cita": "su espíritu vuelve dentro",
+      "evidencia_cue": {
+        "inicio": "01:07:05.000",
+        "fin": "01:07:08.870"
+      }
+    },
+    {
+      "id": "107-005",
+      "titulo": "Audiencia y advertencias del dragón",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Tras ser transportados por Biaco, Kogan atribuye a la barrera rota la entrada de criaturas y más de cien muertos. Afirma que Otakemaru aún no tiene todo su poder, pero ya podría destruirle. Kurobani muestra marcas de aliados caídos en entrenamiento.",
+      "inicio": "01:13:00.000",
+      "fin": "01:25:30.000",
+      "entidades": [
+        "Sun Gukon (grafía provisional)",
+        "Katari (grafía provisional)",
+        "Higeki (grafía provisional)",
+        "Kurobani (grafía provisional)",
+        "Biaco (grafía provisional)",
+        "Kogan Dragon (grafía provisional)",
+        "Barrera protectora de Kuroto"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "La cifra de víctimas y el poder de Otakemaru son afirmaciones del dragón, no una comprobación independiente.",
+      "cita": "Ya asciende a más de 100.",
+      "evidencia_cue": {
+        "inicio": "01:24:55.840",
+        "fin": "01:24:59.910"
+      }
+    },
+    {
+      "id": "107-006",
+      "titulo": "La bendición sigue pendiente de demostrar valía",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Kogan exige que Sun siga el camino de Changen y demuestre a Semongen lo que es. Hasta cumplirlo no tendrá la bendición y la barrera permanecerá abierta.",
+      "inicio": "01:25:00.000",
+      "fin": "01:35:00.000",
+      "entidades": [
+        "Sun Gukon (grafía provisional)",
+        "Kogan Dragon (grafía provisional)",
+        "Barrera protectora de Kuroto",
+        "Monje de las pruebas del Rey Mono (nombre pendiente)"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "No se concede otra bendición ni se demuestra todavía el cumplimiento de las condiciones.",
+      "cita": "Semongen lo que",
+      "evidencia_cue": {
+        "inicio": "01:33:29.280",
+        "fin": "01:33:32.109"
+      }
+    },
+    {
+      "id": "107-007",
+      "titulo": "Katari recibe un encargo y Kurobani una alusión",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Kogan responsabiliza a Katari de vigilar a los elegidos y evitar perder otra bendición, en conversación celestial. A Kurobani le dice que hay otros planes para él y que siga vivo, sin explicarlos.",
+      "inicio": "01:29:00.000",
+      "fin": "01:38:30.000",
+      "entidades": [
+        "Katari (grafía provisional)",
+        "Kurobani (grafía provisional)",
+        "Kogan Dragon (grafía provisional)"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "Katari (grafía provisional)",
+        "Kurobani (grafía provisional)",
+        "presentes que entiendan la conversación correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "El encargo a Katari se expresa en celestial; no se supone entendido por Sun ni por todo el grupo.",
+      "cita": "ti hay otros planes,",
+      "evidencia_cue": {
+        "inicio": "01:35:08.280",
+        "fin": "01:35:13.430"
+      }
+    },
+    {
+      "id": "107-008",
+      "titulo": "Regreso sin reparar todavía la cúpula",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "La compañía vuelve a Ukio; Katari comunica la visita a Sho mediante un ave y Sun agradece el apoyo. Higeki ofrece un banquete. La imagen final muestra la cúpula rota y ojos enormes sin identificar que la observan.",
+      "inicio": "01:38:00.000",
+      "fin": "01:50:00.000",
+      "entidades": [
+        "Sun Gukon (grafía provisional)",
+        "Katari (grafía provisional)",
+        "Higeki (grafía provisional)",
+        "Kurobani (grafía provisional)",
+        "Barrera protectora de Kuroto"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena"
+      ],
+      "conocimiento_personaje": "no_atestiguado",
+      "confianza": "alta",
+      "limitacion": "La imagen final de ojos sobre la cúpula pertenece al cierre del director; no se presume vista por los personajes.",
+      "cita": "Hay una gran rotura en la en la en la",
+      "evidencia_cue": {
+        "inicio": "01:48:34.280",
+        "fin": "01:48:36.950"
+      }
+    }
+  ],
+  "historia": {
+    "revisado_hasta": 107,
+    "etapas": [
+      {
+        "titulo": "Una visita que Sun ha aplazado",
+        "texto": "Sun sigue intentando cambiar de forma con Lea y ayuda en Ukio, pero dedica también horas a ensayar ante un espejo lo que dirá al guardián. Katari cuida de Arwen y explica que vuelve a bañarla regularmente. Higeki trae comida de palacio y mantiene su costumbre de convertir las desgracias ajenas en canciones. Kurobani informa que ha explorado una de sus rutas y entregado un informe para Aka. El grupo decide acompañar al mono al templo de Biaco. Como su expulsión le impide usar la ruta por las instalaciones de Sho, lo transforman en un águila gigante para que los lleve. El vuelo conduce a la pequeña isla y al templo elevado sobre nubes de tormenta.",
+        "referencias": [
+          "107-001"
+        ]
+      },
+      {
+        "titulo": "Trampas que no quedan gastadas",
+        "texto": "Sun recuerda las trampas eléctricas de la entrada y prueba con su bastón, pero un tanteo ligero no basta para activar las placas. Descubren que el peso acciona rayos entre las cabezas de las estatuas. Pasar agachados permite evitarlos; caminar por una placa ya usada no la vuelve segura, y uno de los compañeros recibe la descarga al seguir esa suposición. En la sala central encuentran libros y el antiguo mecanismo del altar todavía en su posición. Volver a moverlo no invoca al guardián. Katari conduce a Sun hasta el lugar de respeto y este se arrodilla. Solo entonces sale del sarcófago la forma espiritual del tigre, que se hace corpórea y lo recibe con una acusación: ha fallado.",
+        "referencias": [
+          "107-002"
+        ]
+      },
+      {
+        "titulo": "Pedir perdón no repara la barrera",
+        "texto": "Biaco no acepta que la visita se limite a lamentarse. Pregunta cómo salvarán la isla las disculpas, rechaza la oferta de la vida del mono y también la promesa de dedicarle veneración. Recuerda a Katari que los elegidos deben proteger Kuroto y que los guardianes solo les prestan ayuda. No dispone de otra bendición para reemplazar sin más la perdida. Provoca a Sun por sus fracasos hasta que este identifica el camino del monje que todavía no ha completado. La humillación busca una reacción: cuando Katari intenta frenarla, Biaco la silencia. Sun acaba levantando la cabeza, exige que termine y golpea al tigre en el hocico. La respuesta del guardián es una sonrisa y un desafío individual.",
+        "referencias": [
+          "107-003"
+        ]
+      },
+      {
+        "titulo": "Plantar cara al tigre",
+        "texto": "Sun deja el bastón y combate con los puños. Biaco lo arroja por el hueco central del templo, pero el mono llama a su nube y regresa en vez de aceptar la caída. Vuelve a atacar y utiliza el anillo para convertirse en un bloque de hielo al dejarse caer sobre su adversario. El guardián espera frente a él hasta que rompe el hielo y descarga otro puñetazo. La manifestación se retira al sarcófago; enseguida reaparece y aclara qué quería encontrar: determinación para buscar soluciones, en lugar de quedarse llorando en una base. El combate no mata a Biaco ni devuelve la bendición. El tigre escucha a los otros sobre Sun y decide enviarlos a una audiencia superior.",
+        "referencias": [
+          "107-004"
+        ]
+      },
+      {
+        "titulo": "La respuesta de Kogan",
+        "texto": "Los relámpagos del guardián trasladan a los cuatro al templo del dragón Kogan. Este examina al mono y explica que la renuncia ha rasgado la barrera: criaturas antes excluidas empiezan a entrar, incluida una que alcanzó la capital. Sun se alarma porque no conocía el ataque del torneo. El dragón afirma que Otakemaru todavía no ha recuperado todo su poder y aun así podría destruirlo a él; no comparte la confianza fácil en una lucha frontal. Pide a Higeki y Kurobani que opinen sobre lo que merece Sun. El bardo sostiene que el pasado no puede cambiarse, pero sí el futuro. El visitante muestra las marcas que lleva por aliados caídos durante su entrenamiento. Kogan atribuye a la rotura más de cien muertos; es su acusación durante la audiencia y no un recuento contrastado por la compañía.",
+        "referencias": [
+          "107-005"
+        ]
+      },
+      {
+        "titulo": "Responsabilidades que siguen abiertas",
+        "texto": "Sun se compromete a seguir el camino que le marcó el monje, renunciando a la identidad ególatra que lo llevó hasta allí. Kogan acepta la respuesta, pero fija una condición: debe demostrar su valía a Semongen y continuar el camino de Changen; hasta entonces no tendrá la bendición y la barrera seguirá abierta. Los nombres oscilan en la transcripción y no bastan para resolver todas las identidades evocadas. En celestial, el dragón hace responsable a Katari de vigilar a los elegidos y evitar otra pérdida. Ella acepta y promete intervenir. A Kurobani le dice que existen otros planes para él y que debe mantenerse vivo, sin explicarle cuáles. La audiencia termina con la misión todavía pendiente.",
+        "referencias": [
+          "107-006",
+          "107-007"
+        ]
+      },
+      {
+        "titulo": "Volver con una tarea, no con el problema resuelto",
+        "texto": "Una nube devuelve al grupo a Ukio. Kurobani ha comentado a Higeki que vigilará al mono y que lo detendrá si vuelve a ponerlos en peligro; no ejecuta esa amenaza. Katari manda un ave para informar en Sho de la visita. Sun le agradece haberlo acompañado e intenta abrazarla; ella se aparta y explica que no le gusta ese contacto. El mono reconoce que la audiencia lo ha sacudido y da las gracias al resto. Higeki prepara un banquete para celebrar que siguen vivos. La cámara final muestra la cúpula con una gran fractura y unos ojos enormes observándola. No se identifica a su dueño. No hay una nueva bendición concedida ni readmisión de Sun en este episodio.",
+        "referencias": [
+          "107-008"
+        ]
+      }
+    ]
+  },
+  "misiones": [
+    "Buscar el perdón y una solución ante Biaco y Kogan: audiencia cumplida, reparación pendiente.",
+    "Seguir el camino indicado y demostrar valía para recuperar la bendición: pendiente.",
+    "Katari debe supervisar a los elegidos y evitar otra pérdida: encargo aceptado."
+  ],
+  "preguntas": [
+    "¿Qué deberá hacer Sun para demostrar su valía y recuperar la bendición?",
+    "¿Qué planes tiene Kogan para Kurobani?",
+    "¿A quién pertenecen los ojos que observan la cúpula rota?"
+  ],
+  "nombres_dudosos": [
+    "Changen, Semongen y monje Tank/Tan: denominaciones oscilantes; no se fusionan solo por función.",
+    "Kogan/Cogane/Cojane: variantes de la transcripción para el dragón celestial.",
+    "El breve gag de Danifae es retirado expresamente por el director y no se incorpora a los hechos."
+  ],
+  "contradicciones": [
+    "La derrota de la manifestación de Biaco no es su muerte: reaparece de inmediato.",
+    "La audiencia no repara la cúpula ni concede una bendición nueva.",
+    "La cifra de más de cien muertos se conserva como declaración del dragón, no como censo de víctimas."
+  ]
+}

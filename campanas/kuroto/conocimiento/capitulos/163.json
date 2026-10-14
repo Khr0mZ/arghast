@@ -1,0 +1,352 @@
+{
+  "capitulo": 163,
+  "estado_revision": "revisado",
+  "fuente_sha256": "18ae33657df54992062001e023ceaf222d0b8e2d139d89467ac4d05a2cfca807",
+  "resumen": "El shogunato convoca un torneo para animar a la capital tras las crisis. El todos contra todos prohíbe consumibles y salir del recinto, con remates no letales. Antes de partir llegan noticias: la presencia de Nox ha disminuido mucho, Sirth sospecha fiebre abisal en Archi y Arwen consigue estabilizarlo con restauración. Serafina repara el Rompeolas y vuelve a estar prometida con Guxi. Kurobane entra con un collar nuevo, pide perdón y explica que Calista lo ha readmitido a prueba. Banzo lo acepta y nombra cazadora a Chilia con otro collar. Llegan al recinto entre saludos, una discusión todavía abierta de la pareja gobernante y dos inscripciones cuya apariencia no cuenta toda la verdad. Sota presenta al grupo y comienza un despliegue de invisibilidad, oscuridad y controles. Kurobane se lleva a Channi a su refugio oscuro; Arwen responde con luz cegadora e invoca dos gansos gracias a su nuevo bastón. Kazuki reparte ataques mágicos, Serafina golpea y Guxi trata de localizar a los invisibles. Banzo encuentra una salida más simple y empuja fuera a ninja y pollito: ambos quedan eliminados sin morir. Gelbreak somete a buena parte del campo con magia mental. Archi cambia de plan, mientras Chilia vuelve una y otra vez con un hilo de vida y la aparente Zogia dispara un poder inusual. El gnomo pierde el vuelo y cae al suelo. Las eliminaciones se aceleran. Una tormenta de Kazuki saca a Jin, Guxi y Serafina; Gelbreak termina de abatir a Archi y Chilia agota su margen para seguir. Camile domina a Banzo y le ordena ir contra el bardo, pero su voz resulta conocida. Los golpes de Gelbreak descubren a las dos infiltradas: la que aparentaba Zogia es una drow y la tímida Camile es Calista. Él abandona voluntariamente el combate tras verla. Banzo recupera su voluntad y, al recibir a Arwen, sonríe y se deja caer para dejarle el camino abierto, con la condición cariñosa de que gane. Arwen, Calista y Kazuki disputan el final. La niña resiste el encierro mental y termina sacando a la shogun con un rayo de luz. Kazuki toma el aspecto de Chilia; Arwen cree que el juego continúa, se lanza contra él y lo derriba. Queda sola en pie. Banzo la pasea en brazos ante un público que vitorea a su protectora. Calista cede su premio para repartirlo entre los primeros y Kazuki cobra 1250 monedas; Arwen deja para después elegir su objeto. Gelbreak manda detener a la drow inconsciente que usurpaba el aspecto de Zogia. La celebración concluye con heridas de competición y una identidad todavía por esclarecer.",
+  "afirmaciones": [
+    {
+      "id": "163-001",
+      "titulo": "Un torneo para levantar el ánimo",
+      "tipo": "explicacion_director",
+      "afirmacion": "El shogunato organiza un todos contra todos de cazadores para animar a la población tras la crisis demoníaca. Prohíben consumibles, expulsan a quien sale del recinto y los remates son no letales salvo decisión expresa con consecuencias. Anuncian premios para tres puestos y la posibilidad de elegir un objeto para quien venza.",
+      "inicio": "00:00:00.080",
+      "fin": "00:06:00.230",
+      "cita": "hoy nos vamos de torneo. Hay un torneo",
+      "entidades": [
+        "Torneo de cazadores de la capital"
+      ],
+      "ambito": "Kuroto, sesión 163",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "163-002",
+      "titulo": "Noticias antes de medirse",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Kazuki vuelve tras estudiar la droga y observa que la plaga de Nox ha disminuido mucho, como si hubieran dejado de fabricarla allí: no prueba su desaparición global. Sirth considera que Archi padece fiebre abisal y recomienda vigilarlo. Arwen le aplica restauración y queda más estable. Ayudaron a Jakajara; Serafina repara su barco y ella y Guxi vuelven a estar prometidos.",
+      "inicio": "00:05:00.400",
+      "fin": "00:18:01.149",
+      "cita": "partes de esa droga y quería",
+      "entidades": [
+        "Kazuki (grafía provisional)",
+        "Nox",
+        "Sirth (grafía provisional)",
+        "Archi",
+        "Arwen",
+        "Serafina Hop (grafía provisional)",
+        "Guxi (grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 163",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "163-003",
+      "titulo": "Volver a portar el collar",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Kurobane llega con otro collar y se disculpa ante compañeros. Explica que Calista le permite regresar a prueba y quiere ayudar a arreglar lo ocurrido. Banzo acepta la explicación. Serafina y el ninja intercambian disculpas y un abrazo. Banzo entrega además un collar a Chilia y la nombra cazadora para participar; se marcha con Arwen atravesando la puerta.",
+      "inicio": "00:18:01.159",
+      "fin": "00:37:00.829",
+      "cita": "estoy a prueba.",
+      "entidades": [
+        "Banzo",
+        "Kurobane",
+        "Calista",
+        "Serafina Hop (grafía provisional)",
+        "Chilia",
+        "Arwen"
+      ],
+      "ambito": "Kuroto, sesión 163",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "163-004",
+      "titulo": "Una muchacha tímida en las inscripciones",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Sota presenta participantes. Una muchacha encogida se identifica como Camile, nueva cazadora de Ukio; otra figura aparenta ser Zogia. Gelbreak está enfadado por una discusión con Calista y el regreso del ninja. La apariencia y presentación no garantizan identidades: ambos disfraces se descubren más adelante.",
+      "inicio": "00:36:02.200",
+      "fin": "00:58:00.150",
+      "cita": "que señorita Camile,",
+      "entidades": [
+        "Torneo de cazadores de la capital",
+        "Sota (presentador de torneos, grafía provisional)",
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Drow disfrazada de Zogia",
+        "Zogia (grafía provisional)",
+        "Banzo",
+        "Kurobane",
+        "Kazuki (grafía provisional)",
+        "Jin",
+        "Guxi (grafía provisional)",
+        "Serafina Hop (grafía provisional)",
+        "Arwen",
+        "Channi (grafía provisional)",
+        "Archi",
+        "Chilia"
+      ],
+      "ambito": "Kuroto, sesión 163",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "163-005",
+      "titulo": "Cada cual oculta sus fuerzas",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Empieza la competición: Gelbreak se oculta, Kurobane protege a Channi con oscuridad y Arwen lanza luz que hiere y ciega, resistiendo un contraconjuro. Camile crea una copia. Jin, Kazuki y Serafina recurren a invisibilidad mientras Guxi prepara visión para detectarla. Banzo ataca al gnomo y Chilia intenta aturdir a otros, todo dentro de un combate reglado.",
+      "inicio": "00:58:00.160",
+      "fin": "01:24:02.950",
+      "cita": "Y nada, y se hace invisible y se va a",
+      "entidades": [
+        "Torneo de cazadores de la capital",
+        "Gelbreak (grafía provisional)",
+        "Kurobane",
+        "Channi (grafía provisional)",
+        "Arwen",
+        "Calista",
+        "Jin",
+        "Kazuki (grafía provisional)",
+        "Serafina Hop (grafía provisional)",
+        "Guxi (grafía provisional)",
+        "Banzo",
+        "Archi",
+        "Chilia"
+      ],
+      "ambito": "Kuroto, sesión 163",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "163-006",
+      "titulo": "Dos gansos no aseguran una victoria",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Arwen invoca dos gansos gracias a una facultad de su bastón y mantiene concentración al aclararse que son feéricos. Kazuki distribuye ataques mágicos y Serafina aturde un ganso. Banzo empuja al ninja fuera del recinto con Channi y ambos quedan eliminados; desaparece la oscuridad. El incidente no es una muerte de ninguno de los dos.",
+      "inicio": "01:21:00.239",
+      "fin": "01:48:02.550",
+      "cita": "bastón que tengo que hace que en vez de",
+      "entidades": [
+        "Torneo de cazadores de la capital",
+        "Arwen",
+        "Bastón de olmo de Arwen",
+        "Kazuki (grafía provisional)",
+        "Serafina Hop (grafía provisional)",
+        "Banzo",
+        "Kurobane",
+        "Channi (grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 163",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "163-007",
+      "titulo": "Controles que dejan sin respuesta",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Archi hipnotiza y enseguida cambia a invisibilidad, rompiendo su concentración anterior. Gelbreak lanza golpes mentales de área que aturden a casi todos. Serafina insiste contra Chilia, que evita caer definitivamente mediante su facultad repetida de regresar con un punto. La aparente Zogia usa disparos que aturden: derriba a Archi desde su vuelo y provoca su caída.",
+      "inicio": "01:48:02.560",
+      "fin": "02:21:00.950",
+      "cita": "Sí, yo también. ¿Cuántos estáis en Stun?",
+      "entidades": [
+        "Torneo de cazadores de la capital",
+        "Archi",
+        "Gelbreak (grafía provisional)",
+        "Serafina Hop (grafía provisional)",
+        "Chilia",
+        "Drow disfrazada de Zogia"
+      ],
+      "ambito": "Kuroto, sesión 163",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "163-008",
+      "titulo": "Las eliminaciones se acumulan",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Kazuki aprovecha el control de los demás y una tormenta elimina a Jin, Guxi y Serafina. La figura con aspecto de Zogia usa un látigo negro y dispara contra Archi retenido; su disfraz empieza a desdibujarse. Gelbreak termina de eliminar al inventor. Chilia también queda fuera tras agotar su resistencia. Los eliminados salen recuperables y no se atribuyen estas bajas a muertes de campaña.",
+      "inicio": "02:18:02.280",
+      "fin": "02:54:00.830",
+      "cita": "queda, te sacan fuera",
+      "entidades": [
+        "Torneo de cazadores de la capital",
+        "Kazuki (grafía provisional)",
+        "Jin",
+        "Guxi (grafía provisional)",
+        "Serafina Hop (grafía provisional)",
+        "Drow disfrazada de Zogia",
+        "Archi",
+        "Gelbreak (grafía provisional)",
+        "Chilia"
+      ],
+      "ambito": "Kuroto, sesión 163",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "163-009",
+      "titulo": "Camile ordena con una voz conocida",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Camile domina a Banzo y le ordena atacar a Gelbreak; el líder reconoce la voz. Kazuki la golpea. La aparente Zogia cubre el área con oscuridad, pero el ataque necrótico de Gelbreak derriba a la impostora y revela que es otra persona, una drow. También cae el disfraz de Camile y se confirma que es Calista.",
+      "inicio": "02:53:01.920",
+      "fin": "03:04:01.190",
+      "cita": "tienen esa esa voz que has oído en tu",
+      "entidades": [
+        "Torneo de cazadores de la capital",
+        "Calista",
+        "Banzo",
+        "Gelbreak (grafía provisional)",
+        "Kazuki (grafía provisional)",
+        "Drow disfrazada de Zogia",
+        "Zogia (grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 163",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "163-010",
+      "titulo": "Dejar espacio para que gane la niña",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Gelbreak arroja el rapier y sale voluntariamente después de descubrir a Calista. Banzo, ya sin el dominio al romperse concentración, sonríe tras el golpe de Arwen y se deja caer, pidiéndole que gane. Quedan Arwen, Calista y Kazuki. La shogun se cura y se oculta, mientras las otras dos contendientes siguen intercambiando magia.",
+      "inicio": "03:03:02.200",
+      "fin": "03:13:05.630",
+      "cita": "dice, \"Como no ganes, me voy a cabrear",
+      "entidades": [
+        "Torneo de cazadores de la capital",
+        "Gelbreak (grafía provisional)",
+        "Calista",
+        "Banzo",
+        "Arwen",
+        "Kazuki (grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 163",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "163-011",
+      "titulo": "Arwen queda en pie",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Arwen resiste la jaula mental de Calista y acaba eliminándola con luz. Kazuki se transforma en Chilia para bromear y la niña vuelve a atacarlo creyendo continuar el juego. Lo derriba y su disfraz se deshace: Arwen es la última en pie. Banzo la alza ante el público y ella todavía puede curarlo.",
+      "inicio": "03:11:00.160",
+      "fin": "03:22:04.590",
+      "cita": "lo que ves es a Chilia en vez de a",
+      "entidades": [
+        "Torneo de cazadores de la capital",
+        "Arwen",
+        "Calista",
+        "Kazuki (grafía provisional)",
+        "Chilia",
+        "Banzo"
+      ],
+      "ambito": "Kuroto, sesión 163",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "163-012",
+      "titulo": "Premio y arresto",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Calista reparte su parte del premio entre los dos primeros. Kazuki recibe 1250 monedas y Arwen puede elegir un objeto, que decidirá después. Gelbreak ordena arrestar a la drow inconsciente que aparentaba ser Zogia; guardias la llevan a las celdas de palacio. El texto no pronuncia aquí un nombre inequívoco para esa prisionera. El público celebra a Arwen.",
+      "inicio": "03:21:00.560",
+      "fin": "03:24:56.760",
+      "cita": "Kazuki 1250",
+      "entidades": [
+        "Torneo de cazadores de la capital",
+        "Arwen",
+        "Kazuki (grafía provisional)",
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Drow disfrazada de Zogia"
+      ],
+      "ambito": "Kuroto, sesión 163",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    }
+  ],
+  "historia": {
+    "revisado_hasta": 163,
+    "etapas": [
+      {
+        "titulo": "Un día para celebrar y volver a probarse",
+        "texto": "El shogunato convoca un torneo para animar a la capital tras las crisis. El todos contra todos prohíbe consumibles y salir del recinto, con remates no letales. Antes de partir llegan noticias: la presencia de Nox ha disminuido mucho, Sirth sospecha fiebre abisal en Archi y Arwen consigue estabilizarlo con restauración. Serafina repara el Rompeolas y vuelve a estar prometida con Guxi. Kurobane entra con un collar nuevo, pide perdón y explica que Calista lo ha readmitido a prueba. Banzo lo acepta y nombra cazadora a Chilia con otro collar. Llegan al recinto entre saludos, una discusión todavía abierta de la pareja gobernante y dos inscripciones cuya apariencia no cuenta toda la verdad.",
+        "referencias": [
+          "163-001",
+          "163-002",
+          "163-003",
+          "163-004"
+        ]
+      },
+      {
+        "titulo": "Una familia se combate en serio",
+        "texto": "Sota presenta al grupo y comienza un despliegue de invisibilidad, oscuridad y controles. Kurobane se lleva a Channi a su refugio oscuro; Arwen responde con luz cegadora e invoca dos gansos gracias a su nuevo bastón. Kazuki reparte ataques mágicos, Serafina golpea y Guxi trata de localizar a los invisibles. Banzo encuentra una salida más simple y empuja fuera a ninja y pollito: ambos quedan eliminados sin morir. Gelbreak somete a buena parte del campo con magia mental. Archi cambia de plan, mientras Chilia vuelve una y otra vez con un hilo de vida y la aparente Zogia dispara un poder inusual. El gnomo pierde el vuelo y cae al suelo.",
+        "referencias": [
+          "163-005",
+          "163-006",
+          "163-007"
+        ]
+      },
+      {
+        "titulo": "Los nombres que ocultaba el combate",
+        "texto": "Las eliminaciones se aceleran. Una tormenta de Kazuki saca a Jin, Guxi y Serafina; Gelbreak termina de abatir a Archi y Chilia agota su margen para seguir. Camile domina a Banzo y le ordena ir contra el bardo, pero su voz resulta conocida. Los golpes de Gelbreak descubren a las dos infiltradas: la que aparentaba Zogia es una drow y la tímida Camile es Calista. Él abandona voluntariamente el combate tras verla. Banzo recupera su voluntad y, al recibir a Arwen, sonríe y se deja caer para dejarle el camino abierto, con la condición cariñosa de que gane.",
+        "referencias": [
+          "163-008",
+          "163-009",
+          "163-010"
+        ]
+      },
+      {
+        "titulo": "La protectora vence jugando",
+        "texto": "Arwen, Calista y Kazuki disputan el final. La niña resiste el encierro mental y termina sacando a la shogun con un rayo de luz. Kazuki toma el aspecto de Chilia; Arwen cree que el juego continúa, se lanza contra él y lo derriba. Queda sola en pie. Banzo la pasea en brazos ante un público que vitorea a su protectora. Calista cede su premio para repartirlo entre los primeros y Kazuki cobra 1250 monedas; Arwen deja para después elegir su objeto. Gelbreak manda detener a la drow inconsciente que usurpaba el aspecto de Zogia. La celebración concluye con heridas de competición y una identidad todavía por esclarecer.",
+        "referencias": [
+          "163-011",
+          "163-012"
+        ]
+      }
+    ]
+  },
+  "misiones": [
+    "Elegir el objeto de premio de Arwen.",
+    "Vigilar la sospecha de fiebre abisal de Archi.",
+    "Aclarar quién usurpó a Zogia y por qué."
+  ],
+  "preguntas": [
+    "¿Quién es la drow que competía como Zogia?",
+    "¿Cómo evolucionará la posible fiebre abisal de Archi?",
+    "¿Qué objeto escogerá Arwen por la victoria?"
+  ],
+  "nombres_dudosos": [
+    "Camile es explícitamente Calista disfrazada.",
+    "La drow que suplanta a Zogia no recibe nombre inequívoco pronunciado aquí; no se identifica por imagen ni por poderes parecidos.",
+    "Serafina precisa su nombre como Serafina Long Hop/Longhop durante la presentación."
+  ],
+  "contradicciones": [
+    "Las eliminaciones son no letales y no deben contarse como muertes de campaña.",
+    "Los actos de la falsa Zogia se atribuyen a la impostora, no a la joven de Ukio.",
+    "La charla sobre fiebre abisal es una sospecha clínica del personaje, no certeza absoluta."
+  ]
+}

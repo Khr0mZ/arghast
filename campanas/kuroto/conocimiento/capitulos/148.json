@@ -1,0 +1,401 @@
+{
+  "capitulo": 148,
+  "estado_revision": "revisado",
+  "fuente_sha256": "9168ae15ae9ba74a272d21715c7f4237b62807dbed5d6f257ea50dc9a72cda63",
+  "resumen": "La llegada de la perla somete a Calista a jornadas agotadoras y a otra tensión: dos soldados tritones aparecen muertos y decide ocultarlo por ahora, sin conocer aquí al culpable. Jin consigue aprobación para entrenar una decena de soldados de élite y recibe la coordinación del sur y sus accesos demoníacos. Kurobane se ocupará de los cultistas con nuevos informes y Banzo coordinará a los cazadores, además de investigar en secreto a Danifae y las esferas. La visitante exige informes sobre lo que sospecha que le reservan. Banzo, entretanto, lleva una prótesis equivocada de Archi que no devuelve normalidad a su mano perdida. En privado estudian afinidades posibles: Jin para fuego, Calista para agua y Jayate para rayo, sin probar ninguna. La shogun tiene fuego y rayo, Arwen lleva tierra y agua está oculta en un lugar que ella y Gelbreak conocen. Calista quiere investigar y destruirlas, pero el grupo advierte que hacerlo podría ser peligroso. Banzo inspecciona a Danifae con permiso: sigue suspendida y amordazada, conserva la araña muerta y el sensor no revela otra forma. Sus pupilas se alargan un instante; él no la hiere ni la libera. Calista recomienda a Kurobane el contacto de Tiari, mientras la supuesta relación de esa informante con Danifae queda como teoría. Una orden urgente lleva al grupo al sur. Hati reconoce mejoras estratégicas de Well, pero su patrulla tarda en regresar de una brecha que parecía menor. Calista y los cazadores salen a buscarla. Gelbreak revela a Banzo que el general fue pareja de la shogun, aunque mantiene que confía en ella. Kurobane ofrece ayuda para investigar discretamente a los tritones y recibe una posibilidad futura, no una operación encargada. En el camino la prótesis de Banzo se rompe; después aparecen samuráis muertos y un superviviente advierte del combate que aún continúa. Los demonios han desbordado la defensa y tres tritones terminan muertos además de las bajas locales. El intento de Calista de salvar al primero no evita su decapitación. Well lucha con su tridente mientras rivaliza con Gelbreak; los cazadores apoyan mediante control, movilidad y golpes. Banzo protege al guardián de parte del estallido del nue, libera después sus ancestros y acaba con la criatura, agotándose al terminar la furia. Kurobane remata al último tengu. Es una victoria contra los demonios, sin duelo entre aliados y sin que el dolor por las bajas desaparezca. Well llama novatos a los caídos y explica que quiso probarlos. Calista y Jin le exigen asumir su responsabilidad y coordinarse, pero él culpa a la preparación local, limita su obligación a su ejército y abandona los cuerpos. Sus pullas sobre su pasado con Calista y sus duelos mortales agravan la tensión sin desembocar en pelea. La revisión confirma equipo de reclutas, sin otros documentos en los demonios desaparecidos. Calista decide recoger a los samuráis y vuelve con Jin y Kurobane a buscar ayuda y hablar con el general. Banzo y Gelbreak quedan junto a los muertos: esa conversación y las consecuencias de la discusión tendrán que esperar.",
+  "afirmaciones": [
+    {
+      "id": "148-001",
+      "titulo": "Dos muertos y un encubrimiento",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Calista relata que aparecieron dos soldados tritones muertos en los barrios bajos, uno con un agujero en la cabeza y otro con el cuello roto. Banzo dice haberlos encontrado y llamado a Gelbreak. La shogun decide ocultar el asunto para evitar una crisis con los recién llegados. Sus sospechas no identifican al asesino ni confirman que los cazadores causaran ambas muertes.",
+      "inicio": "00:00:00.120",
+      "fin": "00:07:00.909",
+      "cita": "otro con el cuello partido. Y",
+      "entidades": [
+        "Calista",
+        "Banzo",
+        "Gelbreak (grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 148",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "148-002",
+      "titulo": "Una prótesis equivocada",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Banzo ha pedido ayuda a Archi y su socio para recuperar la mano. Recibe una prótesis provisional, pero es otra derecha para el lado donde falta la izquierda, con pulgar mal orientado. Antes del combate se desarma y deja de servirle. No tiene el brazo regenerado ni vuelve a usar normalmente armas a dos manos.",
+      "inicio": "00:03:00.680",
+      "fin": "00:13:01.069",
+      "cita": "derecha. Entonces con la mano, pero el",
+      "entidades": [
+        "Banzo",
+        "Archi",
+        "Prótesis provisional de Banzo"
+      ],
+      "ambito": "Kuroto, sesión 148",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "148-003",
+      "titulo": "Jin recibe coordinación del sur",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Jin presenta un plan para entrenar a unos diez soldados con potencial y crear un grupo de élite. Calista lo aprueba, pendiente de concretar el aislamiento del lugar, y le encarga coordinar el campamento sur, la Puerta Negra y las entradas demoníacas con ayuda del consejo militar. Él acepta pese a sus reservas. No sustituye por eso a todos los generales ni inaugura aquí el entrenamiento.",
+      "inicio": "00:17:00.399",
+      "fin": "00:26:02.750",
+      "cita": "grupo de élite dentro de las filas del",
+      "entidades": [
+        "Jin",
+        "Calista",
+        "Puerta Negra (Kuroto)"
+      ],
+      "ambito": "Kuroto, sesión 148",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "148-004",
+      "titulo": "Repartir cultistas, cazadores y secretos",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Calista entrega a Kurobane un libro y pautas para desmantelar cultistas. Banzo coordinará a los cazadores y se apoyará en Sirth; por mensaje secreto la shogun le pide continuar con Danifae y las esferas. La perla sospecha reservas, exige informes y oye una justificación de seguridad por los antiguos infiltrados. No recibe automáticamente lo dicho por mensaje o dentro del posterior silencio.",
+      "inicio": "00:24:01.080",
+      "fin": "00:34:02.070",
+      "cita": "enviar un te va a enviar un mensaje,",
+      "entidades": [
+        "Calista",
+        "Kurobane",
+        "Banzo",
+        "Sirth (grafía provisional)",
+        "Tritón velada de la comitiva"
+      ],
+      "ambito": "Kuroto, sesión 148",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "148-005",
+      "titulo": "Afinidades que todavía hay que probar",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "En la biblioteca protegida por silencio, Calista, Jin y Kurobane buscan personas capaces de sostener esferas. Jin propone probar fuego por su supervivencia a experimentos; su bendición anterior es de hielo. Calista argumenta su resistencia tritón al frío para agua. Sugieren a Jayate para rayo por la descarga que alteró su personalidad, aunque esté retirado del combate. Ninguna candidatura se prueba sosteniendo una esfera en esta sesión.",
+      "inicio": "00:37:01.119",
+      "fin": "00:48:02.710",
+      "cita": "Jayate.",
+      "entidades": [
+        "Calista",
+        "Jin",
+        "Kurobane",
+        "Jayate (grafía provisional)",
+        "Esferas elementales de Kuroto"
+      ],
+      "ambito": "Kuroto, sesión 148",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "148-006",
+      "titulo": "Calista quiere destruir las esferas",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "La shogun confirma que guarda fuego y rayo, que Arwen lleva tierra ingerida y que quiere investigar y después destruirlas por desconfianza hacia Danifae. Más tarde admite que el agua está a buen resguardo y ella y Gelbreak conocen dónde, sin revelar el lugar a los otros. No se destruye ninguna esfera ni se extrae la de Arwen; el peligro de destruirlas sigue siendo una duda.",
+      "inicio": "00:42:03.839",
+      "fin": "00:48:02.710",
+      "cita": "con las esferas es intentar destruirlas.",
+      "entidades": [
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Arwen",
+        "Esferas elementales de Kuroto"
+      ],
+      "ambito": "Kuroto, sesión 148",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "148-007",
+      "titulo": "Una inspección de Danifae, sin conversación",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Con autorización de Calista y Gelbreak, Banzo visita a Danifae, suspendida por cadenas, amordazada y con muñecas y tobillos lastimados. Le aparta ropa para comprobar la marca de araña muerta bajo el pecho y utiliza su sensor: ve a la misma prisionera, sin otra forma revelada. Da un golpe de espada al suelo, sin herirla. Sus pupilas se alargan como las de un gato y vuelven a la normalidad; él supera la salvación y pide que le tapen también los ojos. Ella no puede hablar y nadie le quita la mordaza.",
+      "inicio": "00:55:01.359",
+      "fin": "01:13:00.110",
+      "cita": "la araña alguna vez a Danizar?",
+      "entidades": [
+        "Banzo",
+        "Gelbreak (grafía provisional)",
+        "Danifae (grafía provisional)",
+        "Kurobane",
+        "Marca de araña de Danifae"
+      ],
+      "ambito": "Kuroto, sesión 148",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "148-008",
+      "titulo": "Un contacto con Tiari y una teoría",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Calista recomienda a Kurobane tratar con Tiari, líder de Cuchillas Negras, para obtener información contra cultistas mediante acuerdos de interés. Él relaciona ese contacto con un informante que Danifae mencionó antes y especula que podría ser Tiari. El director mantiene expresamente esa relación como teoría. No visitan la cofradía ni confirman un pacto oculto entre ambas aquí.",
+      "inicio": "01:20:01.000",
+      "fin": "01:31:00.910",
+      "cita": "Es una teoría. Entonces, es una teoría.",
+      "entidades": [
+        "Calista",
+        "Kurobane",
+        "Tiari (grafía provisional)",
+        "Cuchillas Negras",
+        "Danifae (grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 148",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "148-009",
+      "titulo": "El general no ha regresado",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Llegan por el portal al campamento del sur, donde hay ya muchos tritones. Hati explica que Well mejoró defensas y salió con soldados a una brecha que parecía menor, pero tarda demasiado. Los cazadores y Calista deciden buscarlo. Gelbreak da a su compañera capa resistente al fuego y protección antes de partir; ella prepara al grupo y no considera inofensiva la demora.",
+      "inicio": "01:30:00.960",
+      "fin": "01:46:02.430",
+      "cita": "y ves que entra, dice, \"General Hati y",
+      "entidades": [
+        "Hati (grafía provisional)",
+        "Well (general tritón, grafía provisional)",
+        "Calista",
+        "Banzo",
+        "Jin",
+        "Kurobane",
+        "Gelbreak (grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 148",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "148-010",
+      "titulo": "Un antiguo vínculo y una oferta de espionaje",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Gelbreak cuenta a Banzo que Well fue pareja de Calista y pide que, si hay conflicto, se lo deje a él; afirma confiar en ella y desconfiar del general. Calista, por su parte, considera la oferta de Kurobane de investigar discretamente a tritones si lo necesita, sin encargarle aún una operación concreta. No se reanuda la relación pasada ni se decide un duelo con el general.",
+      "inicio": "01:44:01.040",
+      "fin": "01:57:01.510",
+      "cita": "pareja,",
+      "entidades": [
+        "Gelbreak (grafía provisional)",
+        "Banzo",
+        "Well (general tritón, grafía provisional)",
+        "Calista",
+        "Kurobane"
+      ],
+      "ambito": "Kuroto, sesión 148",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "148-011",
+      "titulo": "Cadáveres en el camino y un superviviente",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Encuentran sangre y samuráis muertos a lo largo del camino, y un soldado muy herido avisa del ataque demoníaco antes de que Gelbreak lo sostenga. Adelante Well y su patrulla combaten a nue y tengu vinculados a Otakemaru. Calista intenta impedir una muerte tritón con magia, pero no logra evitar la decapitación. No son sombras incorpóreas: el director describe a los tengu como aarakocras contaminados.",
+      "inicio": "01:54:01.560",
+      "fin": "02:04:02.510",
+      "cita": "de soldados del shaunato muertos.",
+      "entidades": [
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Well (general tritón, grafía provisional)",
+        "Demonios de la brecha de Well",
+        "Otakemaru"
+      ],
+      "ambito": "Kuroto, sesión 148",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "148-012",
+      "titulo": "Combatir juntos entre rivalidades",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Well pelea ágilmente con un tridente de hielo mientras él y Gelbreak se provocan. Calista inmoviliza a un enemigo, Jin acelera sus ataques y Kurobane aturde a otro tengu. Banzo usa su furia y protege a Gelbreak de parte de una descarga del nue, devolviendo daño. La explosión eléctrica hace perder a Jin su concentración. Finalmente Banzo libera el grito ancestral contra el nue, lo mata y queda agotado sin furia; Kurobane acaba con el último tengu. No se enfrentan al general.",
+      "inicio": "02:03:00.920",
+      "fin": "02:40:00.590",
+      "cita": "ancestral scream, grito ancestral.",
+      "entidades": [
+        "Well (general tritón, grafía provisional)",
+        "Gelbreak (grafía provisional)",
+        "Calista",
+        "Jin",
+        "Kurobane",
+        "Banzo",
+        "Demonios de la brecha de Well",
+        "Furia ancestral de Banzo"
+      ],
+      "ambito": "Kuroto, sesión 148",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "148-013",
+      "titulo": "La discusión por las bajas",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Well informa de tres soldados propios muertos y más bajas entre los samuráis. Dice haber traído novatos para probarlos y probar a los demonios. Calista le exige responsabilidad y coordinación con Jin; él atribuye las muertes a mala formación y sostiene que manda su ejército y obedece a superiores. Jin le reprocha que deje los cadáveres. El general pasa por encima de uno sin tocarlo, como aclara el director: no lo pisotea.",
+      "inicio": "02:42:01.960",
+      "fin": "02:54:02.870",
+      "cita": "bastante novatillos. Quería probar a",
+      "entidades": [
+        "Well (general tritón, grafía provisional)",
+        "Calista",
+        "Jin",
+        "Gelbreak (grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 148",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "148-014",
+      "titulo": "El honor que proclama el general",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Well se niega a cargar con sus muertos y desprecia su nivel. Al preguntarle Banzo por sus duelos, responde que sigue vivo y por tanto los ha ganado, pues los tritones combaten a muerte o aceptan quedar como parias al retirarse. Menciona que Gelbreak tiene reputación entre ellos, menospreciando a sus rivales. Son afirmaciones del general, sin un registro de víctimas o combates nuevos mostrado.",
+      "inicio": "02:50:01.000",
+      "fin": "02:58:00.830",
+      "cita": "unos duelos.",
+      "entidades": [
+        "Well (general tritón, grafía provisional)",
+        "Banzo",
+        "Gelbreak (grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 148",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "148-015",
+      "titulo": "Regresar con cuerpos e informes pendientes",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Calista examina la equipación de los muertos y confirma armaduras mediocres y armas melladas, compatibles con soldados novatos. Los demonios han desaparecido y no dejan cuerpos ni documentos que registrar. Decide recoger a los caídos del shogunato y dejar los tritones a su propio ejército. Jin y Kurobane vuelven con ella para buscar carretas y que hable con Well; Banzo y Gelbreak quedan junto a los cuerpos para una conversación aún no representada. No se muestra el siguiente informe ni duelo.",
+      "inicio": "02:56:00.520",
+      "fin": "03:08:13.439",
+      "cita": "pues armaduras bastante mediocres,",
+      "entidades": [
+        "Calista",
+        "Jin",
+        "Kurobane",
+        "Banzo",
+        "Gelbreak (grafía provisional)",
+        "Well (general tritón, grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 148",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    }
+  ],
+  "historia": {
+    "revisado_hasta": 148,
+    "etapas": [
+      {
+        "titulo": "Reorganizarse bajo vigilancia",
+        "texto": "La llegada de la perla somete a Calista a jornadas agotadoras y a otra tensión: dos soldados tritones aparecen muertos y decide ocultarlo por ahora, sin conocer aquí al culpable. Jin consigue aprobación para entrenar una decena de soldados de élite y recibe la coordinación del sur y sus accesos demoníacos. Kurobane se ocupará de los cultistas con nuevos informes y Banzo coordinará a los cazadores, además de investigar en secreto a Danifae y las esferas. La visitante exige informes sobre lo que sospecha que le reservan. Banzo, entretanto, lleva una prótesis equivocada de Archi que no devuelve normalidad a su mano perdida.",
+        "referencias": [
+          "148-001",
+          "148-002",
+          "148-003",
+          "148-004"
+        ]
+      },
+      {
+        "titulo": "Esferas, candidatos y una prisionera que no habla",
+        "texto": "En privado estudian afinidades posibles: Jin para fuego, Calista para agua y Jayate para rayo, sin probar ninguna. La shogun tiene fuego y rayo, Arwen lleva tierra y agua está oculta en un lugar que ella y Gelbreak conocen. Calista quiere investigar y destruirlas, pero el grupo advierte que hacerlo podría ser peligroso. Banzo inspecciona a Danifae con permiso: sigue suspendida y amordazada, conserva la araña muerta y el sensor no revela otra forma. Sus pupilas se alargan un instante; él no la hiere ni la libera. Calista recomienda a Kurobane el contacto de Tiari, mientras la supuesta relación de esa informante con Danifae queda como teoría.",
+        "referencias": [
+          "148-005",
+          "148-006",
+          "148-007",
+          "148-008"
+        ]
+      },
+      {
+        "titulo": "Buscar al general de una brecha pequeña",
+        "texto": "Una orden urgente lleva al grupo al sur. Hati reconoce mejoras estratégicas de Well, pero su patrulla tarda en regresar de una brecha que parecía menor. Calista y los cazadores salen a buscarla. Gelbreak revela a Banzo que el general fue pareja de la shogun, aunque mantiene que confía en ella. Kurobane ofrece ayuda para investigar discretamente a los tritones y recibe una posibilidad futura, no una operación encargada. En el camino la prótesis de Banzo se rompe; después aparecen samuráis muertos y un superviviente advierte del combate que aún continúa.",
+        "referencias": [
+          "148-002",
+          "148-009",
+          "148-010",
+          "148-011"
+        ]
+      },
+      {
+        "titulo": "Salvar lo que queda de la patrulla",
+        "texto": "Los demonios han desbordado la defensa y tres tritones terminan muertos además de las bajas locales. El intento de Calista de salvar al primero no evita su decapitación. Well lucha con su tridente mientras rivaliza con Gelbreak; los cazadores apoyan mediante control, movilidad y golpes. Banzo protege al guardián de parte del estallido del nue, libera después sus ancestros y acaba con la criatura, agotándose al terminar la furia. Kurobane remata al último tengu. Es una victoria contra los demonios, sin duelo entre aliados y sin que el dolor por las bajas desaparezca.",
+        "referencias": [
+          "148-011",
+          "148-012"
+        ]
+      },
+      {
+        "titulo": "La responsabilidad no termina al vencer",
+        "texto": "Well llama novatos a los caídos y explica que quiso probarlos. Calista y Jin le exigen asumir su responsabilidad y coordinarse, pero él culpa a la preparación local, limita su obligación a su ejército y abandona los cuerpos. Sus pullas sobre su pasado con Calista y sus duelos mortales agravan la tensión sin desembocar en pelea. La revisión confirma equipo de reclutas, sin otros documentos en los demonios desaparecidos. Calista decide recoger a los samuráis y vuelve con Jin y Kurobane a buscar ayuda y hablar con el general. Banzo y Gelbreak quedan junto a los muertos: esa conversación y las consecuencias de la discusión tendrán que esperar.",
+        "referencias": [
+          "148-013",
+          "148-014",
+          "148-015"
+        ]
+      }
+    ]
+  },
+  "misiones": [
+    "Iniciar y coordinar el entrenamiento de élite aprobado para Jin.",
+    "Investigar esferas y afinidades sin ejecutar su destrucción antes de comprenderlas.",
+    "Desmantelar los cultistas usando informes y contactos revisados.",
+    "Recoger a los caídos y resolver la coordinación entre tropas locales y tritonas."
+  ],
+  "preguntas": [
+    "¿Quién mató a los dos soldados tritones en los barrios bajos y qué consecuencias tendrá ocultarlo?",
+    "¿Quién podrá sostener cada esfera y qué ocurriría al destruirlas?",
+    "¿Por qué Danifae conserva esa marca y qué significa el cambio de pupilas?",
+    "¿Tiene Tiari relación con el informante de Danifae?",
+    "¿Responderá Well por las bajas y coordinará sus fuerzas con Jin?",
+    "¿Qué necesita Banzo para recuperar una mano útil y dominar su nueva furia?"
+  ],
+  "nombres_dudosos": [
+    "Well/Wel/W/Wuel/Will: mismo general tritón por continuidad de escenas y rango; grafía provisional.",
+    "Jayate es candidato propuesto por el rayo que cambió su personalidad; no se le atribuye manipular la esfera sin una prueba.",
+    "El sensor de Banzo conserva la lectura de forma verdadera admitida por el director en esta mesa, sin extrapolar una regla general de clarividencia.",
+    "Los hermanos del general y de otras tramas no se fusionan por su rango o apariencia."
+  ],
+  "contradicciones": [
+    "Los muertos tritones del inicio y las tres bajas de la patrulla son episodios diferentes; no mezclar circunstancias ni autores.",
+    "Fuego y rayo están bajo custodia de Calista, tierra en Arwen y agua a resguardo en ubicación no revelada al grupo.",
+    "Las candidaturas de afinidad y la relación Danifae–Tiari son hipótesis, no resultados consumados.",
+    "Banzo golpea el suelo, no a la prisionera; ella sigue amordazada y no declara nada.",
+    "La prótesis defectuosa se rompe antes del combate; no se describe el brazo como regenerado.",
+    "El director aclara que Well pasa por encima de un cadáver sin tocarlo. No lo pisa ni escupe sobre él en esta escena.",
+    "Banzo termina agotado tras el grito, pero no cae inconsciente aquí como ocurrió en145.",
+    "La charla final de Calista con Well y la conversación de Banzo con Gelbreak no se representan antes del cierre."
+  ]
+}

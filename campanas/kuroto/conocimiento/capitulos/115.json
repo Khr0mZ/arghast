@@ -1,0 +1,416 @@
+{
+  "capitulo": 115,
+  "estado_revision": "revisado",
+  "fuente_sha256": "b07d7312e388f3faa9cdfa9722ba24128bc9556572e14756f9be6120e938172c",
+  "resumen": "Gur regresa de la visita al dominio de la Reina Cuervo y retoma su entrenamiento. En la base se encuentra con Shizuka, que usa a Gluglu para probar el dedo de la muerte. Gur termina de destrozar al no muerto y Lor Miao vuelve a animarlo. La escena deja al pez con menos miembros y al grupo ocupado por el desastre, sin presentar esas muertes como una pérdida definitiva. Banzo llega con un distintivo entregado por Rua y explica que se ocupará de protegerla con más dedicación. Calista y Gelbreak reaparecen tras unos días de ausencia. Ella dice haber solucionado el conflicto que tenía con él, pero no relata aquí toda esa conversación. Kurobani cuenta una lucha interna por el control de su cuerpo y atribuye a Osurei un episodio en el que el estoque de Calista lo atravesó; se mantiene como su relato de lo sucedido fuera de esta sesión. Durante el camino a una invitación de Fumuki, Calista le entrega el libro horrible que recuperó en la cripta. Continúa envuelto y sin estudiar: está saturada por sus otros problemas y confía la investigación a Kurobani, que promete informar. Una sirvienta invita a Banzo a cenar en la casa de Fumuki y permite que sus amigos lo acompañen. Shizuka prefiere quedarse; Gur, Calista, Gelbreak y Kurobani acuden. Banzo se muestra nervioso por el interés de la anfitriona. La residencia exhibe riqueza, comida, músicos y otros invitados nobles. Al entrar, la música se sincroniza con el pulso de los visitantes y disminuye su hostilidad. Calista descubre anillos azules en los músicos, una primera señal material de que el ambiente está intervenido. La comida favorece el deseo y el coqueteo; el vino hace que Banzo y Gur vean a los demás especialmente atractivos. Kurobani evita beber y Gelbreak rechaza tanto la bebida como la comida. Calista no entiende al principio por qué se siente tan alterada. Los invitados bailan, se acercan y se incomodan de maneras distintas: Kurobani se retira a meditar, mientras Gur mantiene encuentros íntimos fuera de la mesa. La narración distingue los efectos concretos del ambiente y la bebida de una obligación irresistible de actuar de una sola manera. Fumuki propone preguntas bajo una zona de verdad. Gelbreak supera el efecto y conserva la posibilidad de mentir, circunstancia que la anfitriona detecta. Banzo y Calista dicen que le confiarían su vida; ella señala a Danifae como alguien a quien no la confiaría. Kurobani reconoce que todavía no ha formado ese vínculo con los cazadores y desconfía de Maroxi. Banzo aprovecha el juego para preguntar por la continuidad de Rua. Fumuki condiciona su apoyo a salir de la crisis; otros invitados expresan apoyo presente, legitimidad o dependencia de los intereses comerciales de sus allegados. Son posiciones declaradas en la cena, no votos ya emitidos. Gelbreak propone buscar información para favorecer la posición de Rua y vuelve invisibles a Calista y a sí mismo. Entran en un despacho cerrado y él guarda unos papeles cuyo contenido no se muestra. Allí encuentran frascos con aromas que Calista reconoce de la comida y del vino. La coincidencia alimenta su explicación de la extraña velada, pero no sustituye un análisis de las sustancias. Mientras tanto, Kurobani rechaza con cortesía el interés de Shai y ella acaba dejándole una dirección para una posible conversación futura. Fumuki conduce a Banzo a su habitación, le dedica un poema y lo besa. Él reconoce que le gusta, pero al reparar en su nuevo distintivo decide que quiere conocerla mejor antes de acostarse con ella. La anfitriona acepta cambiar de plan: salen a curiosear entre los invitados y más tarde propone una próxima cita adaptada a las pruebas de Banzo. La fiesta termina cuando se apagan los efectos del ambiente. Banzo se despide del grupo y marcha al palacio para empezar sus tareas de vigilancia de Rua. De vuelta, Calista ofrece a Gelbreak el vino que se llevó con permiso de la anfitriona. Él, que no lo había bebido durante la fiesta, toma varios tragos, lo encuentra agradable y empieza a sentir calor. Ella recupera la botella. La cámara se aleja sin mostrar una conclusión posterior entre ambos ni revelar los papeles sustraídos. El libro entregado a Kurobani y las nuevas relaciones abiertas permanecen como hilos para otras sesiones.",
+  "afirmaciones": [
+    {
+      "id": "115-001",
+      "titulo": "Gluglu vuelve a levantarse",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Shizuka prueba el dedo de la muerte sobre Gluglu; Gur lo destroza después y Lor Miao vuelve a animarlo.",
+      "inicio": "00:02:00.000",
+      "fin": "00:08:00.000",
+      "entidades": [
+        "Gur (grafía provisional)",
+        "Shizuka (grafía provisional)",
+        "Gluglu (grafía provisional)",
+        "Lor Miao (grafía provisional)"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "La escena no es una muerte permanente del no muerto.",
+      "cita": "revivirlo. Y pues vu, qué va a hacer.",
+      "evidencia_cue": {
+        "inicio": "00:05:15.000",
+        "fin": "00:05:18.150"
+      }
+    },
+    {
+      "id": "115-002",
+      "titulo": "Un distintivo de Rua",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Banzo muestra el distintivo que Rua le ha dado y explica que protegerá a la gobernante de forma más dedicada.",
+      "inicio": "00:07:00.000",
+      "fin": "00:10:00.000",
+      "entidades": [
+        "Banzo",
+        "Rua (grafía provisional)",
+        "Distintivo de guardián de Rua"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "El distintivo y el posterior turno confirman la incorporación; no significa una relación sentimental con Rua.",
+      "cita": "me voy a ocupar de vigilar a Rúa de que",
+      "evidencia_cue": {
+        "inicio": "00:08:43.680",
+        "fin": "00:08:45.550"
+      }
+    },
+    {
+      "id": "115-003",
+      "titulo": "Kurobani habla de Osurei",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Kurobani relata una pugna por dominar su cuerpo y atribuye a Osurei un episodio previo en que el estoque de Calista lo atravesó.",
+      "inicio": "00:18:00.000",
+      "fin": "00:21:00.000",
+      "entidades": [
+        "Kurobani (grafía provisional)",
+        "Calista"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "Es recapitulación de hechos fuera de la escena actual y una grafía provisional; no se presupone identidad con otro huésped.",
+      "cita": "persona, Osurei pues no no es tanto, la",
+      "evidencia_cue": {
+        "inicio": "00:20:09.400",
+        "fin": "00:20:12.430"
+      }
+    },
+    {
+      "id": "115-004",
+      "titulo": "El libro cambia de custodia",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Calista entrega a Kurobani el libro horrible recuperado de la cripta, aún envuelto y sin estudiar, para que lo investigue e informe.",
+      "inicio": "00:47:00.000",
+      "fin": "00:50:00.000",
+      "entidades": [
+        "Calista",
+        "Kurobani (grafía provisional)",
+        "Libro horrible recuperado de la cripta"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "No es el otro libro que Calista dice haber traducido parcialmente; no se revelan contenidos del nuevo.",
+      "cita": "poco en esta lucha y quiero entregarte",
+      "evidencia_cue": {
+        "inicio": "00:48:45.040",
+        "fin": "00:48:48.109"
+      }
+    },
+    {
+      "id": "115-005",
+      "titulo": "Música que reduce la hostilidad",
+      "tipo": "explicacion_director",
+      "afirmacion": "La música de la casa de Fumuki se sincroniza con los latidos y favorece empatía y conversación; Calista ve anillos luminosos azules en los músicos.",
+      "inicio": "00:58:00.000",
+      "fin": "01:04:00.000",
+      "entidades": [
+        "Calista",
+        "Fumuki (grafía provisional)",
+        "Casa de Fumuki (grafía provisional)"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "La observación de anillos no identifica por sí sola su fabricación o todas sus propiedades.",
+      "cita": "llevan una especie de anillos, ¿sabes?",
+      "evidencia_cue": {
+        "inicio": "01:03:27.760",
+        "fin": "01:03:31.829"
+      }
+    },
+    {
+      "id": "115-006",
+      "titulo": "Comida y vino alterados",
+      "tipo": "explicacion_director",
+      "afirmacion": "El vino hace que Banzo y Gur vean a los demás más atractivos; la comida favorece el deseo y el coqueteo. Gelbreak no come ni bebe en la fiesta y Kurobani evita el vino.",
+      "inicio": "01:36:00.000",
+      "fin": "01:48:00.000",
+      "entidades": [
+        "Banzo",
+        "Gur (grafía provisional)",
+        "Calista",
+        "Hermano de Danifae (nombre pendiente)",
+        "Kurobani (grafía provisional)"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "El director distingue el efecto de embriaguez ordinaria y aclara que no obliga a actuar; no se asume consentimiento uniforme de todos.",
+      "cita": "Exacto. Afrodisíaca. Perfecto. Efecto",
+      "evidencia_cue": {
+        "inicio": "01:40:41.920",
+        "fin": "01:40:44.510"
+      }
+    },
+    {
+      "id": "115-007",
+      "titulo": "Zona de verdad con excepción",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "El juego de Fumuki usa una zona de verdad: Gelbreak supera el efecto, la anfitriona lo sabe y él tira engaño al responder.",
+      "inicio": "02:06:00.000",
+      "fin": "02:13:00.000",
+      "entidades": [
+        "Fumuki (grafía provisional)",
+        "Hermano de Danifae (nombre pendiente)"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "No se toman sus respuestas como garantía de sentimientos verdaderos por el solo hecho de estar en el juego.",
+      "cita": "Gelbreak. Lo que hace esas luces, ese",
+      "evidencia_cue": {
+        "inicio": "02:06:53.239",
+        "fin": "02:06:56.910"
+      }
+    },
+    {
+      "id": "115-008",
+      "titulo": "Apoyos políticos condicionados",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Banzo pregunta si Rua debe seguir al frente; Fumuki expresa apoyo condicionado a superar la crisis y los otros nobles explican sus posiciones.",
+      "inicio": "02:24:00.000",
+      "fin": "02:28:00.000",
+      "entidades": [
+        "Banzo",
+        "Rua (grafía provisional)",
+        "Fumuki (grafía provisional)"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "Son declaraciones sociales, no una votación; nombres y asignación de algunos nobles oscilan en la transcripción.",
+      "cita": "crisis, pues estaría mejor. A ver, Rua",
+      "evidencia_cue": {
+        "inicio": "02:25:44.479",
+        "fin": "02:25:46.510"
+      }
+    },
+    {
+      "id": "115-009",
+      "titulo": "Papeles sustraídos y frascos",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Gelbreak entra invisible con Calista en un despacho cerrado, guarda papeles no mostrados y ambos encuentran frascos cuyo olor ella relaciona con lo servido.",
+      "inicio": "02:54:00.000",
+      "fin": "03:04:00.000",
+      "entidades": [
+        "Hermano de Danifae (nombre pendiente)",
+        "Calista",
+        "Casa de Fumuki (grafía provisional)"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "No se revela información incriminatoria concreta ni se analiza químicamente el contenido de los frascos.",
+      "cita": "papeles, se gira y dice, \"Mira, aquí",
+      "evidencia_cue": {
+        "inicio": "03:01:23.800",
+        "fin": "03:01:25.110"
+      }
+    },
+    {
+      "id": "115-010",
+      "titulo": "Una invitación para Kurobani",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Después del rechazo cortés de Kurobani, Shai le deja una nota con su domicilio y una invitación para visitarla.",
+      "inicio": "03:08:00.000",
+      "fin": "03:11:00.000",
+      "entidades": [
+        "Kurobani (grafía provisional)",
+        "Shai (grafía provisional)"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "No se muestra una visita posterior ni aceptación de una relación.",
+      "cita": "yo vivo aquí. Cuando quieras, ven a",
+      "evidencia_cue": {
+        "inicio": "03:10:16.160",
+        "fin": "03:10:18.190"
+      }
+    },
+    {
+      "id": "115-011",
+      "titulo": "Banzo quiere conocerla primero",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Banzo dice a Fumuki que le gusta pero quiere conocerla antes de acostarse con ella; ella acepta salir a curiosear y plantea otro encuentro adaptado a él.",
+      "inicio": "02:48:00.000",
+      "fin": "02:51:00.000",
+      "entidades": [
+        "Banzo",
+        "Fumuki (grafía provisional)"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "La escena establece un límite de Banzo y no un encuentro sexual entre ambos.",
+      "cita": "conocerte un poco.\"",
+      "evidencia_cue": {
+        "inicio": "02:49:19.760",
+        "fin": "02:49:23.309"
+      }
+    },
+    {
+      "id": "115-012",
+      "titulo": "Comienza la vigilancia de palacio",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Al despedirse, Banzo marcha hacia palacio para empezar su turno como vigilante.",
+      "inicio": "03:16:00.000",
+      "fin": "03:19:00.000",
+      "entidades": [
+        "Banzo",
+        "Rua (grafía provisional)",
+        "Distintivo de guardián de Rua"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "El trabajo se inicia tras la fiesta; no se muestra un incidente durante ese turno.",
+      "cita": "vale. Tengo turno de Tengo turno. Ah, es",
+      "evidencia_cue": {
+        "inicio": "03:18:09.239",
+        "fin": "03:18:13.309"
+      }
+    },
+    {
+      "id": "115-013",
+      "titulo": "Gelbreak prueba el vino",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Calista ofrece a Gelbreak el vino que se llevó con permiso; él bebe varios tragos y dice sentir calor antes de que ella guarde la botella.",
+      "inicio": "03:17:00.000",
+      "fin": "03:20:00.000",
+      "entidades": [
+        "Calista",
+        "Hermano de Danifae (nombre pendiente)"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "La escena termina ahí, sin mostrar una relación íntima ni otra consecuencia posterior.",
+      "cita": "bueno. Te hace calor aquí, ¿eh?",
+      "evidencia_cue": {
+        "inicio": "03:19:49.640",
+        "fin": "03:19:53.790"
+      }
+    }
+  ],
+  "historia": {
+    "revisado_hasta": 115,
+    "etapas": [
+      {
+        "titulo": "Una base después de la misión",
+        "texto": "Gur regresa de la visita al dominio de la Reina Cuervo y retoma su entrenamiento. En la base se encuentra con Shizuka, que usa a Gluglu para probar el dedo de la muerte. Gur termina de destrozar al no muerto y Lor Miao vuelve a animarlo. La escena deja al pez con menos miembros y al grupo ocupado por el desastre, sin presentar esas muertes como una pérdida definitiva. Banzo llega con un distintivo entregado por Rua y explica que se ocupará de protegerla con más dedicación.",
+        "referencias": [
+          "115-001",
+          "115-002"
+        ]
+      },
+      {
+        "titulo": "Problemas que siguen entre visitas",
+        "texto": "Calista y Gelbreak reaparecen tras unos días de ausencia. Ella dice haber solucionado el conflicto que tenía con él, pero no relata aquí toda esa conversación. Kurobani cuenta una lucha interna por el control de su cuerpo y atribuye a Osurei un episodio en el que el estoque de Calista lo atravesó; se mantiene como su relato de lo sucedido fuera de esta sesión. Durante el camino a una invitación de Fumuki, Calista le entrega el libro horrible que recuperó en la cripta. Continúa envuelto y sin estudiar: está saturada por sus otros problemas y confía la investigación a Kurobani, que promete informar.",
+        "referencias": [
+          "115-003",
+          "115-004"
+        ]
+      },
+      {
+        "titulo": "La invitación de Fumuki",
+        "texto": "Una sirvienta invita a Banzo a cenar en la casa de Fumuki y permite que sus amigos lo acompañen. Shizuka prefiere quedarse; Gur, Calista, Gelbreak y Kurobani acuden. Banzo se muestra nervioso por el interés de la anfitriona. La residencia exhibe riqueza, comida, músicos y otros invitados nobles. Al entrar, la música se sincroniza con el pulso de los visitantes y disminuye su hostilidad. Calista descubre anillos azules en los músicos, una primera señal material de que el ambiente está intervenido.",
+        "referencias": [
+          "115-005"
+        ]
+      },
+      {
+        "titulo": "Una velada que altera los ánimos",
+        "texto": "La comida favorece el deseo y el coqueteo; el vino hace que Banzo y Gur vean a los demás especialmente atractivos. Kurobani evita beber y Gelbreak rechaza tanto la bebida como la comida. Calista no entiende al principio por qué se siente tan alterada. Los invitados bailan, se acercan y se incomodan de maneras distintas: Kurobani se retira a meditar, mientras Gur mantiene encuentros íntimos fuera de la mesa. La narración distingue los efectos concretos del ambiente y la bebida de una obligación irresistible de actuar de una sola manera.",
+        "referencias": [
+          "115-006"
+        ]
+      },
+      {
+        "titulo": "Verdades y confianza",
+        "texto": "Fumuki propone preguntas bajo una zona de verdad. Gelbreak supera el efecto y conserva la posibilidad de mentir, circunstancia que la anfitriona detecta. Banzo y Calista dicen que le confiarían su vida; ella señala a Danifae como alguien a quien no la confiaría. Kurobani reconoce que todavía no ha formado ese vínculo con los cazadores y desconfía de Maroxi. Banzo aprovecha el juego para preguntar por la continuidad de Rua. Fumuki condiciona su apoyo a salir de la crisis; otros invitados expresan apoyo presente, legitimidad o dependencia de los intereses comerciales de sus allegados. Son posiciones declaradas en la cena, no votos ya emitidos.",
+        "referencias": [
+          "115-007",
+          "115-008"
+        ]
+      },
+      {
+        "titulo": "Lo que se busca en las habitaciones",
+        "texto": "Gelbreak propone buscar información para favorecer la posición de Rua y vuelve invisibles a Calista y a sí mismo. Entran en un despacho cerrado y él guarda unos papeles cuyo contenido no se muestra. Allí encuentran frascos con aromas que Calista reconoce de la comida y del vino. La coincidencia alimenta su explicación de la extraña velada, pero no sustituye un análisis de las sustancias. Mientras tanto, Kurobani rechaza con cortesía el interés de Shai y ella acaba dejándole una dirección para una posible conversación futura.",
+        "referencias": [
+          "115-009",
+          "115-010"
+        ]
+      },
+      {
+        "titulo": "Banzo marca su propio ritmo",
+        "texto": "Fumuki conduce a Banzo a su habitación, le dedica un poema y lo besa. Él reconoce que le gusta, pero al reparar en su nuevo distintivo decide que quiere conocerla mejor antes de acostarse con ella. La anfitriona acepta cambiar de plan: salen a curiosear entre los invitados y más tarde propone una próxima cita adaptada a las pruebas de Banzo. La fiesta termina cuando se apagan los efectos del ambiente. Banzo se despide del grupo y marcha al palacio para empezar sus tareas de vigilancia de Rua.",
+        "referencias": [
+          "115-011",
+          "115-012"
+        ]
+      },
+      {
+        "titulo": "Un último sorbo",
+        "texto": "De vuelta, Calista ofrece a Gelbreak el vino que se llevó con permiso de la anfitriona. Él, que no lo había bebido durante la fiesta, toma varios tragos, lo encuentra agradable y empieza a sentir calor. Ella recupera la botella. La cámara se aleja sin mostrar una conclusión posterior entre ambos ni revelar los papeles sustraídos. El libro entregado a Kurobani y las nuevas relaciones abiertas permanecen como hilos para otras sesiones.",
+        "referencias": [
+          "115-013"
+        ]
+      }
+    ]
+  },
+  "misiones": [
+    "Investigar el libro de la cripta entregado a Kurobani.",
+    "Reunir información sobre apoyos políticos a Rua.",
+    "Iniciar la protección personal de Rua."
+  ],
+  "preguntas": [
+    "¿Qué contienen los papeles que Gelbreak sustrae del despacho de Fumuki?",
+    "¿Qué revelará Kurobani al estudiar el libro horrible de la cripta?",
+    "¿Continuará Banzo conociendo a Fumuki y acudirá Kurobani a la invitación de Shai?"
+  ],
+  "nombres_dudosos": [
+    "Fumuki/Fukumi/Fukami: se mantiene la ficha previa de la anfitriona.",
+    "Osurei/Osuray: nombre de la voluntad que Kurobani atribuye a su conflicto interno; identidad no conciliada.",
+    "Los nombres de las nobles oscilan Shai/Asashi y Hanae/Jonae; no se fusionan fichas por esta sola cena."
+  ],
+  "contradicciones": [
+    "Las respuestas de Gelbreak en la zona de verdad no quedan garantizadas por el hechizo, que ha superado.",
+    "No confundir el libro horrible de la cripta con el otro volumen cuyas traducciones parciales menciona Calista."
+  ]
+}

@@ -1,0 +1,374 @@
+{
+  "capitulo": 159,
+  "estado_revision": "revisado",
+  "fuente_sha256": "5a46f4920c14cf4157e062201cabc77d1fbb9b2a99799c4b87dad943c88e7192",
+  "resumen": "R3 intenta transmitir un mensaje incompleto de Archi cuando Banzo vuelve de buscarlo. Jin, Serafina y Hayate deciden seguirlo al taller, pero una explosión se adelanta al plan. Sobre los barrios bajos vuelan demonios y la gente huye. Los cazadores avisan a guardias y se unen a Calista y Tiari, que protegen civiles. Vencen a las criaturas próximas con control y ataques mientras refuerzos contienen otras calles. Calista cae un instante bajo un efecto y Gelbreak la despierta; el origen de la invasión sigue activo en Archivolt. Dentro encuentran a Víctor con la pierna aplastada. Lo estabilizan y Nori lo lleva a refugio antes de bajar al laboratorio. Allí el cuerpo de Archi está ocupado por una entidad que ha construido una conexión abisal. Las esferas de fuego y rayo sostienen el portal, de modo que romper depósitos secundarios no basta. Una flecha se desintegra al tratar de tocar un engarce. Banzo propone aguantar mientras Calista y Gelbreak buscan a Danifae, la única compatible que conocen. La shogun libera temporalmente a su enemiga y descubre que puede quitarse las cadenas sola. Cuatro cazadores sostienen una oleada que no termina. Hayate expulsa demonios a su plano, pero llegan reemplazos; Jin resiste agarres y filos, Serafina combate a corta distancia y Banzo cura y abre posiciones. El ocupante los hipnotiza hasta que vuelven sus compañeros y despiertan a algunos con pequeños golpes. Gelbreak aturde a buena parte del campo y la orden del rapier permite responder en grupo. Entre curas, aguardiente y espíritus abren camino a Danifae, que recibe un látigo de una figura drow efímera y alcanza la estructura. La entidad resiste destierro, se oculta y es localizada por dragón y clarividencia. Danifae retira las dos esferas y la puerta deja de mostrar el abismo y de aportar refuerzos. El ocupante se teletransporta fuera con el cuerpo de Archi; la conciencia verdadera no queda rescatada. Jin comprueba dolorosamente que resistir fuego no basta para tocar la esfera. La drow no acepta órdenes de cualquier cazador y el sensor tampoco encuentra al gnomo dentro de la fábrica. La amenaza se desplaza de una invasión abierta a una búsqueda sin paradero. Calista intenta controlar a Danifae, pero falla y debe negociar. La reclusa conserva la ventaja de poder transportar los objetos que el grupo no toca y propone volver a la cárcel con ellos. La shogun acepta mientras prepara asegurar todo en palacio, todavía sin realizar ese segundo paso. Danifae entrega armas y el látigo vivo muerde a Calista; ella lo neutraliza y encadena sus manos. La escolta parte con las esferas aún en poder de la drow, mientras los otros organizan buscar a Archi. El portal ha caído, pero ni la nueva reclusión ni la liberación del inventor se muestran al cierre.",
+  "afirmaciones": [
+    {
+      "id": "159-001",
+      "titulo": "Un mensaje entre pitidos",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Banzo vuelve tras buscar al gnomo en su taller cerrado. R3 emite un holograma recortado de Archi, con disculpas e instrucciones para llevarlo al taller y comunicar el mensaje a Calista. Jin, Serafina y Hayate, que regresa de su retiro y reconocimientos del norte, acuerdan ir. Antes de salir una explosión y humo de los barrios bajos anuncian una crisis.",
+      "inicio": "00:00:00.199",
+      "fin": "00:11:00.230",
+      "cita": "Jin. Saca un pequeño holograma de Archi",
+      "entidades": [
+        "Banzo",
+        "Jin",
+        "Serafina Hop (grafía provisional)",
+        "Hayate",
+        "Archi",
+        "R3 (autómata de Archi)",
+        "Archivolt Industries"
+      ],
+      "ambito": "Kuroto, sesión 159",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "159-002",
+      "titulo": "Demonios en la capital",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Hayate sobrevuela y detecta demonios que llegan desde una casa. El grupo avisa a guardias para contener monstruos y proteger población. Encuentran a Calista y Tiari ya combatiendo y priorizando civiles; la fuente apunta a Archivolt. Cazadores luchan mientras arqueros, samuráis y shinobis ayudan en otras calles. No se inventa un balance de víctimas civiles.",
+      "inicio": "00:10:02.880",
+      "fin": "00:24:01.750",
+      "cita": "civiles rápido.",
+      "entidades": [
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Banzo",
+        "Jin",
+        "Serafina Hop (grafía provisional)",
+        "Hayate",
+        "Tiari (grafía provisional)",
+        "Archivolt Industries"
+      ],
+      "ambito": "Kuroto, sesión 159",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "159-003",
+      "titulo": "Despejar acceso no resuelve la invasión",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "El grupo vence demonios con ataques, control, proyectiles e inspiración. Una criatura deja inconsciente por un momento a Calista y Gelbreak la despierta; otros provocan veneno. Con refuerzos asegurando calles, Tiari queda auxiliando fuera y los cazadores entran a buscar la causa. La shogun advierte que el gnomo lleva problemas recientes y pide máxima precaución.",
+      "inicio": "00:23:00.880",
+      "fin": "00:48:03.829",
+      "cita": "Y nada, pues estáis todos envenenados.",
+      "entidades": [
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Banzo",
+        "Jin",
+        "Serafina Hop (grafía provisional)",
+        "Hayate",
+        "Tiari (grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 159",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "159-004",
+      "titulo": "Víctor sale con vida",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Encuentran a Víctor arrastrándose, con una pierna aplastada. Dice que Archi le prohibía ver qué hacía abajo y que ha abierto un portal. Jin aplica primeros auxilios y Calista lo cura y estabiliza. Nori lo arrastra a una zona segura; la pierna sigue requiriendo tratamiento y no se representa una regeneración completa.",
+      "inicio": "00:48:03.839",
+      "fin": "00:52:01.109",
+      "cita": "vale, pues ves que pues un torniquete",
+      "entidades": [
+        "Calista",
+        "Jin",
+        "Víctor Frankenbolt (grafía provisional)",
+        "Nori (sirviente de Calista)",
+        "Archi",
+        "Archivolt Industries"
+      ],
+      "ambito": "Kuroto, sesión 159",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "159-005",
+      "titulo": "Dos esferas alimentan el abismo",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "El laboratorio subterráneo contiene una gran estructura de hierro y recipientes conectados que abre paso al abismo. El ser con cuerpo de Archi abandona la imitación y reconoce ser otro amigo que lo usó para conectar planos. Calista identifica fuego y rayo incrustados como energía principal. Destruir tanques auxiliares no basta para apagarlo y siguen saliendo demonios.",
+      "inicio": "00:51:00.960",
+      "fin": "01:00:02.069",
+      "cita": "Una es de fuego y la otra es eléctrica.",
+      "entidades": [
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Banzo",
+        "Jin",
+        "Serafina Hop (grafía provisional)",
+        "Hayate",
+        "Archi",
+        "Entidad del cristal rojo de Archi",
+        "Archivolt Industries",
+        "Portal abisal de Archivolt",
+        "Esfera elemental de fuego",
+        "Esfera elemental de rayo"
+      ],
+      "ambito": "Kuroto, sesión 159",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "159-006",
+      "titulo": "Aguantar mientras buscan a la prisionera",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Banzo se niega a retirarse y pide buscar a la única persona compatible con ambas esferas: Danifae. Calista y Gelbreak van a palacio mientras Banzo, Jin, Serafina y Hayate sostienen la oleada. Una flecha hacia el engarce se desintegra ante el aura eléctrica. En la celda Calista negocia una salida temporal; Danifae se libera sola de cadenas ante ellos y recibe solo una espada corta para extraer las esferas.",
+      "inicio": "00:58:01.240",
+      "fin": "01:27:01.229",
+      "cita": "y se pone frente a la celda de Danify.",
+      "entidades": [
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Banzo",
+        "Jin",
+        "Serafina Hop (grafía provisional)",
+        "Hayate",
+        "Danifae (grafía provisional)",
+        "Portal abisal de Archivolt",
+        "Esfera elemental de rayo",
+        "Esfera elemental de fuego"
+      ],
+      "ambito": "Kuroto, sesión 159",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "159-007",
+      "titulo": "Combate de aguante",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Mariliths, demonios mayores y criaturas menores rodean a los cuatro. Hayate devuelve algunos a su plano mediante palabra divina, pero entran otros. Jin soporta golpes y agarres, Banzo cura y abre posiciones y Serafina continúa a corta distancia. El ocupante de Archi los incapacita con un patrón; al llegar Calista y Gelbreak despiertan compañeros con golpes leves. Nadie de los cuatro queda muerto definitivamente.",
+      "inicio": "01:04:00.599",
+      "fin": "02:01:00.470",
+      "cita": "hipnotizado.",
+      "entidades": [
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Banzo",
+        "Jin",
+        "Serafina Hop (grafía provisional)",
+        "Hayate",
+        "Archi",
+        "Entidad del cristal rojo de Archi",
+        "Portal abisal de Archivolt"
+      ],
+      "ambito": "Kuroto, sesión 159",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "159-008",
+      "titulo": "Abrir un camino al portal",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Gelbreak aturde a gran parte de la oleada y Hayate cura a Jin. Calista usa la orden de su espada para añadir ataques y se protege con su defensa especial. Banzo descarga aguardiente y espíritus mientras el grupo abre camino. Una drow surgida de una araña entrega un arma a Danifae y se deshace; la reclusa despliega un látigo y trepa al portal para alcanzar las esferas.",
+      "inicio": "02:00:00.400",
+      "fin": "02:23:00.309",
+      "cita": "restrellar un látigo. Hací",
+      "entidades": [
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Banzo",
+        "Jin",
+        "Serafina Hop (grafía provisional)",
+        "Hayate",
+        "Danifae (grafía provisional)",
+        "Látigo de tres serpientes de Danifae",
+        "Portal abisal de Archivolt"
+      ],
+      "ambito": "Kuroto, sesión 159",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "159-009",
+      "titulo": "Extraer las fuentes",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "El ocupante de Archi resiste el intento de destierro mediante resistencia y luego se oculta. Calista en forma de dragón y la clarividencia de Banzo lo localizan. Danifae retira fuego y rayo, lleva ambos en las manos y el portal se apaga: los demonios que aún salían dejan de llegar y desaparece la visión del abismo. La entidad se teletransporta fuera con el cuerpo de Archi, sin rescatar al verdadero encerrado.",
+      "inicio": "02:16:01.119",
+      "fin": "02:38:00.230",
+      "cita": "las dos. Las desengancha las dos y coge",
+      "entidades": [
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Banzo",
+        "Jin",
+        "Serafina Hop (grafía provisional)",
+        "Hayate",
+        "Archi",
+        "Entidad del cristal rojo de Archi",
+        "Danifae (grafía provisional)",
+        "Portal abisal de Archivolt",
+        "Esfera elemental de fuego",
+        "Esfera elemental de rayo"
+      ],
+      "ambito": "Kuroto, sesión 159",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "159-010",
+      "titulo": "La compatibilidad sigue siendo un límite",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Danifae no obedece las prisas de Hayate y se reserva responder a quien la mandó. Jin toca la esfera de fuego y recibe daño pese a resistencia: no se demuestra compatible. Banzo no encuentra al gnomo en la fábrica con su sensor y R3 tampoco sabe dónde está. Serafina intenta razonar con la reclusa, que insinúa que nunca estuvo realmente impedida por su celda y se acerca a Calista.",
+      "inicio": "02:37:02.040",
+      "fin": "02:44:00.670",
+      "cita": "36 de daño de fuego.",
+      "entidades": [
+        "Banzo",
+        "Jin",
+        "Serafina Hop (grafía provisional)",
+        "Hayate",
+        "Archi",
+        "R3 (autómata de Archi)",
+        "Danifae (grafía provisional)",
+        "Esfera elemental de fuego"
+      ],
+      "ambito": "Kuroto, sesión 159",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "159-011",
+      "titulo": "Otra libertad negociada bajo amenaza",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Calista intenta dominar a Danifae y falla pese a palabras debilitantes y repeticiones. La drow los aparta con una orden, deja las esferas y después las recupera, aprovechando que no pueden tocarlas. Ofrece volver a la cárcel si mantiene las esferas y amenaza con lo que podría hacer el demonio fugado. La shogun acepta de forma táctica y comunica su intención de reducirla ya en palacio y asegurar los objetos, pero no lo ejecuta todavía.",
+      "inicio": "02:43:03.160",
+      "fin": "02:53:00.630",
+      "cita": "que no mere no merecerías otro trato.",
+      "entidades": [
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Banzo",
+        "Danifae (grafía provisional)",
+        "Entidad del cristal rojo de Archi",
+        "Esfera elemental de rayo",
+        "Esfera elemental de fuego"
+      ],
+      "ambito": "Kuroto, sesión 159",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "159-012",
+      "titulo": "Escoltar no equivale a encerrar",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Danifae entrega la espada corta y el látigo de tres serpientes vivas. Una muerde a Calista cuando lo toma; ella neutraliza el arma y las manos con cadenas mientras la prisionera sigue llevando las esferas. La escoltan hacia palacio, con Gelbreak como hermano al que molesta durante el camino. Los otros salen para atender heridas y organizar búsqueda de Archi. El cierre no muestra la nueva entrada en celda ni liberación de su conciencia.",
+      "inicio": "02:51:01.960",
+      "fin": "02:59:12.680",
+      "cita": "son serpientes.",
+      "entidades": [
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Banzo",
+        "Jin",
+        "Serafina Hop (grafía provisional)",
+        "Hayate",
+        "Archi",
+        "Danifae (grafía provisional)",
+        "Látigo de tres serpientes de Danifae",
+        "Esfera elemental de rayo",
+        "Esfera elemental de fuego"
+      ],
+      "ambito": "Kuroto, sesión 159",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    }
+  ],
+  "historia": {
+    "revisado_hasta": 159,
+    "etapas": [
+      {
+        "titulo": "La alarma ya está dentro de la ciudad",
+        "texto": "R3 intenta transmitir un mensaje incompleto de Archi cuando Banzo vuelve de buscarlo. Jin, Serafina y Hayate deciden seguirlo al taller, pero una explosión se adelanta al plan. Sobre los barrios bajos vuelan demonios y la gente huye. Los cazadores avisan a guardias y se unen a Calista y Tiari, que protegen civiles. Vencen a las criaturas próximas con control y ataques mientras refuerzos contienen otras calles. Calista cae un instante bajo un efecto y Gelbreak la despierta; el origen de la invasión sigue activo en Archivolt.",
+        "referencias": [
+          "159-001",
+          "159-002",
+          "159-003"
+        ]
+      },
+      {
+        "titulo": "Lo que alimenta una puerta al abismo",
+        "texto": "Dentro encuentran a Víctor con la pierna aplastada. Lo estabilizan y Nori lo lleva a refugio antes de bajar al laboratorio. Allí el cuerpo de Archi está ocupado por una entidad que ha construido una conexión abisal. Las esferas de fuego y rayo sostienen el portal, de modo que romper depósitos secundarios no basta. Una flecha se desintegra al tratar de tocar un engarce. Banzo propone aguantar mientras Calista y Gelbreak buscan a Danifae, la única compatible que conocen. La shogun libera temporalmente a su enemiga y descubre que puede quitarse las cadenas sola.",
+        "referencias": [
+          "159-004",
+          "159-005",
+          "159-006"
+        ]
+      },
+      {
+        "titulo": "Comprar tiempo con el cuerpo",
+        "texto": "Cuatro cazadores sostienen una oleada que no termina. Hayate expulsa demonios a su plano, pero llegan reemplazos; Jin resiste agarres y filos, Serafina combate a corta distancia y Banzo cura y abre posiciones. El ocupante los hipnotiza hasta que vuelven sus compañeros y despiertan a algunos con pequeños golpes. Gelbreak aturde a buena parte del campo y la orden del rapier permite responder en grupo. Entre curas, aguardiente y espíritus abren camino a Danifae, que recibe un látigo de una figura drow efímera y alcanza la estructura.",
+        "referencias": [
+          "159-007",
+          "159-008"
+        ]
+      },
+      {
+        "titulo": "Un portal cerrado y un enemigo suelto",
+        "texto": "La entidad resiste destierro, se oculta y es localizada por dragón y clarividencia. Danifae retira las dos esferas y la puerta deja de mostrar el abismo y de aportar refuerzos. El ocupante se teletransporta fuera con el cuerpo de Archi; la conciencia verdadera no queda rescatada. Jin comprueba dolorosamente que resistir fuego no basta para tocar la esfera. La drow no acepta órdenes de cualquier cazador y el sensor tampoco encuentra al gnomo dentro de la fábrica. La amenaza se desplaza de una invasión abierta a una búsqueda sin paradero.",
+        "referencias": [
+          "159-009",
+          "159-010"
+        ]
+      },
+      {
+        "titulo": "De vuelta hacia unas cadenas insuficientes",
+        "texto": "Calista intenta controlar a Danifae, pero falla y debe negociar. La reclusa conserva la ventaja de poder transportar los objetos que el grupo no toca y propone volver a la cárcel con ellos. La shogun acepta mientras prepara asegurar todo en palacio, todavía sin realizar ese segundo paso. Danifae entrega armas y el látigo vivo muerde a Calista; ella lo neutraliza y encadena sus manos. La escolta parte con las esferas aún en poder de la drow, mientras los otros organizan buscar a Archi. El portal ha caído, pero ni la nueva reclusión ni la liberación del inventor se muestran al cierre.",
+        "referencias": [
+          "159-011",
+          "159-012"
+        ]
+      }
+    ]
+  },
+  "misiones": [
+    "Buscar al ocupante fugado y liberar al verdadero Archi.",
+    "Asegurar las esferas y la vuelta de Danifae a reclusión.",
+    "Comprobar daños y atender a civiles y heridos."
+  ],
+  "preguntas": [
+    "¿Dónde se ha teletransportado el ocupante y cómo liberarán a Archi?",
+    "¿Podrán asegurar a Danifae y las dos esferas al llegar al palacio?",
+    "¿Cómo obtuvo también la esfera de fuego la entidad que usó el rayo robado?",
+    "¿Quién proporciona el látigo a Danifae y qué relación mantiene con ella?"
+  ],
+  "nombres_dudosos": [
+    "Hayate/Jayate/Jayate: veterano arquero vinculado al rayo, reutilizada grafía canónica Hayate sin importar hechos de otras campañas.",
+    "Víctor Frankenbolt conserva variantes ya registradas."
+  ],
+  "contradicciones": [
+    "La compatibilidad de Jin con el fuego no queda probada; la prueba le causa daño.",
+    "El portal apagado no implica captura del ocupante ni liberación de la conciencia de Archi.",
+    "Al final se inicia escolta hacia palacio; no se muestra ya sellada la celda.",
+    "Danifae mantiene las esferas en las manos pese a las cadenas. La intención de asegurarlas después es un plan."
+  ]
+}

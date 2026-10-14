@@ -1,0 +1,335 @@
+{
+  "capitulo": 158,
+  "estado_revision": "revisado",
+  "fuente_sha256": "6c6df0992380a4854a90ccae437836d23b22e45a38b6c85cfc092ea48c408d61",
+  "resumen": "Gelbreak comienza a ejercer el día de shogun ganado en la apuesta, pero Tap interrumpe con noticias de Serafina. Guxi la ha encontrado desangrándose y la ha estabilizado tras un ataque de la voluntad que domina a Kurobane. Calista comprueba sus heridas y la marca circular del pecho los lleva al monasterio. La capitana y el artífice piden salvarlo; la shogun se reserva matar si es preciso para proteger al resto. Tekel, un veterano kender recién vuelto de otro lugar, acepta acompañarlos por el frente sur. Encuentran a Kurobane dentro de una flor cristalina. Calista detiene la primera intención de ataque del elfo y detecta sombras vivas alrededor. Luz y hielo permiten comenzar un combate de control, fuerza y daño radiante en el que todos colaboran. Tras vencer a las criaturas, Osuray se manifiesta y transporta al grupo a un laberinto dentro de la mente del joven. Cada uno aparece separado, con trampas y oscuridad entre ellos. El propio cautivo oye que morirá para que la otra voluntad conserve su cuerpo. Mientras Calista busca con un doble y Tekel adopta visión bestial, Osuray atraviesa paredes y acosa a Serafina. Gelbreak y el kender atacan al Kurobane ensangrentado antes de que Guxi insista en distinguirlo del enemigo. El elfo lo inmoviliza y después le da una poción, mientras la capitana sigue recibiendo los golpes de Osuray. Ella cae y Guxi vuelve a levantarla. El grupo termina reuniéndose ante la sombra, con órdenes del rapier, dragón, proyectiles y curas para resistir. Tekel dispara, Guxi protege a su pareja y Calista y Gelbreak mantienen a Osuray ocupado. Kurobane logra liberarse del bloqueo, recuerda su misión y contrato y se enfrenta a su invasor con un brillo nuevo en el estoque. Lo derrota y todos regresan a la sala del monasterio. La flor está abierta, el joven sigue vivo y Serafina lo sostiene. Se disculpan y quieren atender la marca que dejó el ataque. Cuando el elfo se acerca con arma, el muchacho acepta de rodillas lo que cree su ejecución, pero recibe otro desenlace. Gelbreak se corta sujetando el filo y extrae las sombras de la espada de Kurobane para incorporarlas a la suya. El joven escucha gritos de Osuray y ve algo de su compañero que la transcripción no revela. Su nueva arma queda metálica y la oscuridad de sus poderes es mucho menor. Calista pide descanso antes de volver a investigar cultistas. Él cura, sonríe y deja la capucha antes de salir corriendo en un juego de persecución; Tekel la recoge y lo imita. Regresan vivos a la capital, sin mostrar todavía qué hará el arma cargada de sombras.",
+  "afirmaciones": [
+    {
+      "id": "158-001",
+      "titulo": "Un día de shogun interrumpido",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Calista relata que Gelbreak disfruta su día de shogun de la apuesta hasta que Tap avisa de Serafina herida. Ella moviliza la búsqueda de Kurobane. Serafina cuenta que fue a hablar con él, pero otra voluntad la apuñaló; Guxi la encontró desangrándose y la estabilizó. La escena del ataque no se reproduce completa ni equivale a intento libre del Kurobane recuperado.",
+      "inicio": "00:00:00.240",
+      "fin": "00:09:00.190",
+      "cita": "del suelo desangrándose",
+      "entidades": [
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Kurobane",
+        "Guxi",
+        "Serafina Hop (grafía provisional)",
+        "Tap (grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 158",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "158-002",
+      "titulo": "La herida apunta al monasterio",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Calista despierta a Serafina con agua y comprueba que Guxi cerró la hemorragia. La marca circular cortada en su pecho se reconoce como símbolo del monasterio. Ella y Guxi desean capturar con vida a Kurobane; la shogun advierte que no dudará en matarlo si pone a otros en peligro. El veterano kender Tekel, que volvió de un viaje provocado por un objeto, acepta acompañarlos.",
+      "inicio": "00:09:00.200",
+      "fin": "00:30:00.669",
+      "cita": "del monasterio. Vale,",
+      "entidades": [
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Kurobane",
+        "Guxi",
+        "Serafina Hop (grafía provisional)",
+        "Tekel (kender, grafía provisional)",
+        "Monasterio de las sombras"
+      ],
+      "ambito": "Kuroto, sesión 158",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "158-003",
+      "titulo": "Un regreso por el frente sur",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Van por portal al sur y al monasterio, entre tierras demoníacas. Calista inspira al grupo y pide precaución con sombras. Tekel toca la flauta y la shogun le pide reservarla para no llamar enemigos. Entran preparados con pociones y encuentran a Kurobane dentro de una flor cristalina; Gelbreak quiere atacarlo, pero ella lo detiene para buscar solución.",
+      "inicio": "00:30:00.679",
+      "fin": "00:42:00.109",
+      "cita": "Tenía una flauta, si mal no recuerdo.",
+      "entidades": [
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Kurobane",
+        "Guxi",
+        "Serafina Hop (grafía provisional)",
+        "Tekel (kender, grafía provisional)",
+        "Monasterio de las sombras",
+        "Flor cristalina del monasterio"
+      ],
+      "ambito": "Kuroto, sesión 158",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "158-004",
+      "titulo": "Luz, hielo y seres de sombra",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Calista detecta movimientos que no corresponden a sombras normales. Tekel se aproxima con sigilo; una antorcha las revela y la shogun congela agua para dificultarles moverse. Derrotan sombras y criaturas oscuras mediante control, ataques de Gelbreak, rayos de Guxi, golpes de Serafina y proyectiles radiantes de Tekel. Osuray se manifiesta desde Kurobane y los arrastra a su terreno mental.",
+      "inicio": "00:41:02.160",
+      "fin": "01:12:01.430",
+      "cita": "zona se queda como congelada y es pues",
+      "entidades": [
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Kurobane",
+        "Guxi",
+        "Serafina Hop (grafía provisional)",
+        "Tekel (kender, grafía provisional)",
+        "Osuray, voluntad sombría de Kurobane",
+        "Monasterio de las sombras",
+        "Flor cristalina del monasterio"
+      ],
+      "ambito": "Kuroto, sesión 158",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "158-005",
+      "titulo": "Separados en las barreras de una mente",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Aparecen dispersos en un laberinto con trampas. Kurobane oye que también morirá y Osuray tomará su cuerpo; su conciencia herida intenta llegar a compañeros sin poder atravesar sus propias barreras. Calista busca mediante un doble ilusorio y Tekel adopta rasgos bestiales para ver la oscuridad. Osuray atraviesa paredes, persigue a Serafina y reproduce golpes de monje y daño necrótico.",
+      "inicio": "01:12:01.440",
+      "fin": "01:30:00.229",
+      "cita": "Gurobane, y tu cuerpo será mío.\"",
+      "entidades": [
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Kurobane",
+        "Guxi",
+        "Serafina Hop (grafía provisional)",
+        "Tekel (kender, grafía provisional)",
+        "Osuray, voluntad sombría de Kurobane",
+        "Laberinto mental de Kurobane"
+      ],
+      "ambito": "Kuroto, sesión 158",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "158-006",
+      "titulo": "No confundir al cautivo con el enemigo",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Gelbreak persigue a Kurobane en oscuridad y lo inmoviliza y hiere, mientras Guxi le exige buscar a Osuray para no matar a su compañero. Tekel también dispara sin reconocer al joven en el globo oscuro y después para al advertirlo. Serafina sigue luchando contra la otra voluntad, incluso cuando se transforma temporalmente en oveja. La escena mantiene separados al Kurobane cautivo y al enemigo que quiere su cuerpo.",
+      "inicio": "01:30:00.239",
+      "fin": "01:53:04.510",
+      "cita": "oscuridad. Sera Kurobane,",
+      "entidades": [
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Kurobane",
+        "Guxi",
+        "Serafina Hop (grafía provisional)",
+        "Tekel (kender, grafía provisional)",
+        "Osuray, voluntad sombría de Kurobane",
+        "Laberinto mental de Kurobane"
+      ],
+      "ambito": "Kuroto, sesión 158",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "158-007",
+      "titulo": "Caídas y reencuentro",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Osuray derriba a Serafina y atraviesa paredes hacia los otros. Guxi rompe su oscuridad y corre a curarla, recuperándola antes de muerte definitiva. Gelbreak da una poción a Kurobane sin liberarlo de la inmovilización y luego se dirige al enemigo. Calista reúne el ataque con la orden de su rapier, se transforma en dragón y usa un aliento que también alcanza a aliados.",
+      "inicio": "01:51:00.840",
+      "fin": "02:09:59.990",
+      "cita": "y voy a curar a esta señora. Esta",
+      "entidades": [
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Kurobane",
+        "Guxi",
+        "Serafina Hop (grafía provisional)",
+        "Tekel (kender, grafía provisional)",
+        "Osuray, voluntad sombría de Kurobane",
+        "Laberinto mental de Kurobane"
+      ],
+      "ambito": "Kuroto, sesión 158",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "158-008",
+      "titulo": "El cautivo acaba con su sombra",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Tekel mantiene proyectiles y Guxi prioriza curar a Serafina. Calista resiste golpes y Gelbreak usa magia contra Osuray. Kurobane logra moverse, se acerca y afirma que aún tiene misión y contrato que cumplir. Su estoque cambia de brillo y acaba con la voluntad enemiga. Las sombras envuelven a todos y vuelven al monasterio; no muere el cazador ni quedan atrapados allí al cierre.",
+      "inicio": "02:09:00.199",
+      "fin": "02:22:01.630",
+      "cita": "contrato",
+      "entidades": [
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Kurobane",
+        "Guxi",
+        "Serafina Hop (grafía provisional)",
+        "Tekel (kender, grafía provisional)",
+        "Osuray, voluntad sombría de Kurobane",
+        "Laberinto mental de Kurobane",
+        "Monasterio de las sombras"
+      ],
+      "ambito": "Kuroto, sesión 158",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "158-009",
+      "titulo": "La flor se abre y vuelven las disculpas",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "La flor está abierta y Kurobane yace agotado recuperando la conciencia. Serafina lo sostiene y ambos se disculpan; él propone tratar después la marca de su pecho. Tekel intenta registrarlo, es advertido y luego roba cuarenta y ocho monedas a Guxi. Kurobane se arrodilla al acercarse Gelbreak armado, pero este no lo ejecuta.",
+      "inicio": "02:21:00.680",
+      "fin": "02:29:00.349",
+      "cita": "disculpa.",
+      "entidades": [
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Kurobane",
+        "Guxi",
+        "Serafina Hop (grafía provisional)",
+        "Tekel (kender, grafía provisional)",
+        "Flor cristalina del monasterio"
+      ],
+      "ambito": "Kuroto, sesión 158",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "158-010",
+      "titulo": "Las sombras cambian de arma",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Gelbreak toma por el filo el arma de Kurobane, se corta la mano y absorbe sus sombras, que incorpora a su propia arma. La del joven queda metálica y con empuñadura azulada; el director explica sus nuevas capacidades legendarias. Kurobane oye los gritos de Osuray durante la transferencia y recibe una visión privada de Gelbreak que no se describe en la transcripción. No se inventa su forma ni se concluye que la amenaza haya desaparecido de toda arma.",
+      "inicio": "02:28:02.840",
+      "fin": "02:33:00.309",
+      "cita": "gritos de Osuray, ¿vale?, que estaban",
+      "entidades": [
+        "Gelbreak (grafía provisional)",
+        "Kurobane",
+        "Osuray, voluntad sombría de Kurobane",
+        "Espada depurada de Kurobane",
+        "Arma de sombras de Gelbreak"
+      ],
+      "ambito": "Kuroto, sesión 158",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "158-011",
+      "titulo": "Recuperarse y volver al servicio",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Calista pide a Kurobane unos días de descanso y después retomar la infiltración de cultistas. Él conserva muchas menos sombras, cura y sonríe con mayor sinceridad. Abandona la capucha y sale corriendo jugando a perseguirse; Tekel la toma para imitarlo y vuelve con su flauta. Los compañeros regresan hacia la capital por distintos medios, mientras la pareja considera probar el arma nueva contra demonios. No se muestra esa prueba.",
+      "inicio": "02:32:03.040",
+      "fin": "02:42:11.200",
+      "cita": "tomes unos días de descanso para",
+      "entidades": [
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Kurobane",
+        "Guxi",
+        "Serafina Hop (grafía provisional)",
+        "Tekel (kender, grafía provisional)",
+        "Espada depurada de Kurobane",
+        "Arma de sombras de Gelbreak",
+        "Capucha abandonada por Kurobane"
+      ],
+      "ambito": "Kuroto, sesión 158",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    }
+  ],
+  "historia": {
+    "revisado_hasta": 158,
+    "etapas": [
+      {
+        "titulo": "Una herida entre compañeros",
+        "texto": "Gelbreak comienza a ejercer el día de shogun ganado en la apuesta, pero Tap interrumpe con noticias de Serafina. Guxi la ha encontrado desangrándose y la ha estabilizado tras un ataque de la voluntad que domina a Kurobane. Calista comprueba sus heridas y la marca circular del pecho los lleva al monasterio. La capitana y el artífice piden salvarlo; la shogun se reserva matar si es preciso para proteger al resto. Tekel, un veterano kender recién vuelto de otro lugar, acepta acompañarlos por el frente sur.",
+        "referencias": [
+          "158-001",
+          "158-002",
+          "158-003"
+        ]
+      },
+      {
+        "titulo": "La flor y el otro terreno",
+        "texto": "Encuentran a Kurobane dentro de una flor cristalina. Calista detiene la primera intención de ataque del elfo y detecta sombras vivas alrededor. Luz y hielo permiten comenzar un combate de control, fuerza y daño radiante en el que todos colaboran. Tras vencer a las criaturas, Osuray se manifiesta y transporta al grupo a un laberinto dentro de la mente del joven. Cada uno aparece separado, con trampas y oscuridad entre ellos. El propio cautivo oye que morirá para que la otra voluntad conserve su cuerpo.",
+        "referencias": [
+          "158-003",
+          "158-004",
+          "158-005"
+        ]
+      },
+      {
+        "titulo": "Salvar también exige distinguir",
+        "texto": "Mientras Calista busca con un doble y Tekel adopta visión bestial, Osuray atraviesa paredes y acosa a Serafina. Gelbreak y el kender atacan al Kurobane ensangrentado antes de que Guxi insista en distinguirlo del enemigo. El elfo lo inmoviliza y después le da una poción, mientras la capitana sigue recibiendo los golpes de Osuray. Ella cae y Guxi vuelve a levantarla. El grupo termina reuniéndose ante la sombra, con órdenes del rapier, dragón, proyectiles y curas para resistir.",
+        "referencias": [
+          "158-005",
+          "158-006",
+          "158-007"
+        ]
+      },
+      {
+        "titulo": "La voluntad vuelve a su dueño",
+        "texto": "Tekel dispara, Guxi protege a su pareja y Calista y Gelbreak mantienen a Osuray ocupado. Kurobane logra liberarse del bloqueo, recuerda su misión y contrato y se enfrenta a su invasor con un brillo nuevo en el estoque. Lo derrota y todos regresan a la sala del monasterio. La flor está abierta, el joven sigue vivo y Serafina lo sostiene. Se disculpan y quieren atender la marca que dejó el ataque. Cuando el elfo se acerca con arma, el muchacho acepta de rodillas lo que cree su ejecución, pero recibe otro desenlace.",
+        "referencias": [
+          "158-008",
+          "158-009"
+        ]
+      },
+      {
+        "titulo": "Una espada limpia y otra llena de sombras",
+        "texto": "Gelbreak se corta sujetando el filo y extrae las sombras de la espada de Kurobane para incorporarlas a la suya. El joven escucha gritos de Osuray y ve algo de su compañero que la transcripción no revela. Su nueva arma queda metálica y la oscuridad de sus poderes es mucho menor. Calista pide descanso antes de volver a investigar cultistas. Él cura, sonríe y deja la capucha antes de salir corriendo en un juego de persecución; Tekel la recoge y lo imita. Regresan vivos a la capital, sin mostrar todavía qué hará el arma cargada de sombras.",
+        "referencias": [
+          "158-010",
+          "158-011"
+        ]
+      }
+    ]
+  },
+  "misiones": [
+    "Recuperarse y tratar la marca de Serafina.",
+    "Retomar investigaciones de cultistas y observar el poder transferido."
+  ],
+  "preguntas": [
+    "¿Qué consecuencias tendrá absorber las sombras y los gritos de Osuray en el arma de Gelbreak?",
+    "¿Podrá Kurobane curar la marca que quedó en el pecho de Serafina?",
+    "¿Cómo cambiará Kurobane con sus poderes sombríos reducidos?"
+  ],
+  "nombres_dudosos": [
+    "Tekel/Tekel/Teker/Tequel: kender veterano, grafía pendiente.",
+    "Osuray conserva identidad corporal ligada a Kurobane pero se manifiesta como voluntad enemiga separada dentro de su mente."
+  ],
+  "contradicciones": [
+    "No atribuir al Kurobane recuperado la voluntad libre del ataque narrado al inicio: la escena distingue invasor y cautivo.",
+    "El contenido de la visión privada durante la absorción no está en la transcripción.",
+    "La caída de Serafina se remedia con curación antes de muerte definitiva.",
+    "El día de shogun de la apuesta ya se ejerce al comienzo de158."
+  ]
+}

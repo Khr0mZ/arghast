@@ -1,0 +1,327 @@
+{
+  "capitulo": 93,
+  "estado_revision": "revisado",
+  "fuente_sha256": "cdd74cfa1b5ff4ae601a2827fcfaff2ba08d0515f550644de5635e45bff988de",
+  "resumen": "Erk vuelve a la vida cotidiana después de su mala época con el alcohol. Explica que ya sabe que Sir no murió por haber curado a ella y a Hayate, aunque todavía busca comprender quién provocó su muerte. Higeki continúa cocinando en palacio y escucha rumores sobre una bendición abandonada. Calista ha decidido unirse a los cazadores y asumir tareas administrativas; también confirma que celebró con Ikari el rito tritón que había propuesto por las víctimas y que llevó pescado a Lor Miao. Banzo intenta construir su nuevo propósito visitando a Shizuka y acercándose al kamaitachi. Las presentaciones permiten a la emisaria empezar a conocer a compañeros muy distintos de la corte donde creció. La presencia de Calista hace aflorar el recuerdo del emisario del rey dragón. Gelbreak le cuenta que cree que Danifae le cortó el cuello, lo que alarma a la tritón. La información es indirecta para ella y el drow recomienda preguntar a quienes sí estuvieron presentes. También reitera su advertencia sobre las esferas: asegura que su hermana sirve a Lolth y que la matrona la envió a buscarlas, aunque admite que desconoce su función exacta. Recuerda haber declarado ante un ritual de verdad y remite a Aka. Calista lo interroga mientras el resto introduce bromas, y la desconfianza inicial de la emisaria hacia los drow se transforma en una rivalidad muy personal con Gelbreak. Banzo procura incluirlo en el grupo y lo anima a salir con ellos. Erk lleva a Calista a la tienda de Sugami. La modista reconoce el buen gusto de la tritón y propone regalarle vestidos si los luce y recomienda su negocio. Calista acepta y recibe un conjunto morado. La conversación incluye una preocupación real por la antigua borrachera de Erk, aunque pronto se llena de probadores, colores y croquetas. Higeki consigue un vestido de colores vivos; a Banzo intentan ceñirle un conjunto que apenas le permite moverse y que acaba sustituyendo por otra falda mientras lavan la suya. Gelbreak se deja convencer para probar ropa nueva. Erk y Calista le hacen creer que un batín es un traje elegante y lo envían a la calle orgulloso de un conjunto que todos los demás reconocen como una broma. Rua aparece en la calle con guardias y acompañantes. Al reconocer a Erk despide a su séquito y pide pasar el día con los cazadores, feliz de poder comprar sin que lo hagan todo por ella. Higeki prepara un banquete mágico y Rua presenta una acogida diplomática a Calista, quien se identifica como enviada del rey dragón del Oeste. La conversación alude al hijo de aquel monarca y a la intervención de los cazadores; Calista descubre que los relatos difundidos por su corte no contenían todos esos detalles. Rua advierte a Gelbreak de que lleva un batín y el drow comprende por fin la burla. En la tienda, los compañeros ayudan a una Sugami demasiado nerviosa para vender a la esposa del shogun. Rua escoge el vestido rosa y verde propuesto por Calista, paga con una bolsa de oro y sale encantada con su nueva ropa. En la taberna, Ushi intenta mantener el veto contra los cazadores. Rua escucha los daños que sufrió el local, paga otra compensación y logra que vuelva a admitirlos. Durante la sobremesa explica que la tos del shogun ha regresado y que ella asume cada vez más trabajo en palacio. También aclara que los nobles revisaron las críticas contra Guxi y determinaron que sí hacía bien su labor. Calista ofrece ayuda administrativa y Rua la recibe con gratitud, entregándole un sello de acceso a palacio; Banzo obtiene otro. La alegría se interrumpe cuando Rua menciona noticias imprecisas de guerra en Brunami. Banzo relata que vio arder su aldea y que atravesó poblaciones vacías o calcinadas antes de embarcar. Ella ofrece enviar informantes, pero él rehúsa para evitar exponer a su gente a más peligros. Entre cotilleos sobre Aka y Katari y comentarios sobre Blaze y Shigeru, Erk cuenta por fin la pérdida de una bendición de Sun Gukon. Rua se alarma por la defensa de Kuroto y pregunta si la cúpula sigue funcionando; Erk distingue la protección del dragón de los dones particulares de los cuatro guardianes. Calista propone acudir al guardián, buscar otro candidato y llevar al responsable para pedir disculpas. Banzo se ofrece a acompañar la expedición, pero todo queda en una posibilidad y Rua solicita que busquen remedio sin actuar con crueldad innecesaria. Higeki muestra su casco a Calista, que resiste su efecto; nadie consigue una nueva bendición durante la jornada. La rivalidad entre Calista y Gelbreak continúa con ilusiones y pequeños trucos de agua, aunque ninguno llega a atacar al otro. Al hacerse de noche acompañan a Rua de vuelta a palacio. La esposa del shogun está agradecida por una libertad que apenas disfrutaba y entrega cien monedas de oro a cada acompañante. Gelbreak comparte cincuenta con Banzo y ofrece parte a Calista, intentando dejar claro que no pretende perjudicarlos; ella acepta bajo la condición verbal de enseñarle modales. Rua anima a Banzo a hablar con Aka para formarse como guardaespaldas y reitera a Calista que puede ayudar con los documentos del palacio. Son invitaciones, todavía sin nombramiento efectivo. Calista y Erk la ayudan a acostarse antes de que el grupo regrese a su base, con nuevas amistades cortesanas y la rivalidad del día todavía encendida.",
+  "afirmaciones": [
+    {
+      "id": "93-001",
+      "titulo": "Duelo, trabajo y una ceremonia ya celebrada",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Erk dice haber dejado de beber al saber que la muerte de Sir no se debió a que curase a sus familiares. Calista se incorpora a los cazadores para ayudar con el papeleo, confirma que celebró el rito fúnebre tritón con Ikari y que cumplió su promesa de dar pescado a Lor Miao. Banzo visita a Shizuka y alimenta al kamaitachi.",
+      "inicio": "00:00:00.000",
+      "fin": "00:10:35.000",
+      "entidades": [
+        "Erk (grafía provisional)",
+        "Calista",
+        "Banzo",
+        "Yari (grafía provisional)"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "Son actividades entre sesiones declaradas por sus jugadores; el libro de invocación no recibe una lectura mostrada.",
+      "cita": "especie de de ritual de ritual fúnebre,",
+      "evidencia_cue": {
+        "inicio": "00:07:02.240",
+        "fin": "00:07:06.830"
+      }
+    },
+    {
+      "id": "93-002",
+      "titulo": "La muerte del emisario y la advertencia sobre las esferas",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Gelbreak cuenta a Calista que cree que Danifae degolló a un emisario del rey dragón y recuerda haber advertido bajo un ritual de verdad de que la matrona buscaba las esferas. Afirma que Danifae venera a Lolth y que escapó de la Infraoscuridad, pero reconoce desconocer la función concreta de los orbes.",
+      "inicio": "00:12:20.000",
+      "fin": "00:23:45.000",
+      "entidades": [
+        "Hermano de Danifae (nombre pendiente)",
+        "Danifae (grafía provisional)",
+        "Calista"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "La muerte del emisario llega a Calista como información indirecta y la intención de la matrona como afirmación del drow, no como un nuevo hecho observado.",
+      "cita": "Danify rajó a un",
+      "evidencia_cue": {
+        "inicio": "00:18:00.720",
+        "fin": "00:18:05.310"
+      }
+    },
+    {
+      "id": "93-003",
+      "titulo": "La oferta de Sugami y la broma al drow",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "La modista Sugami regala a Calista un vestido morado a cambio de promoción. Viste también a Higeki y prueba sin éxito un conjunto demasiado estrecho a Banzo. Erk y Calista convencen a Gelbreak de que un batín ridículo es un traje elegante; solo comprende el engaño cuando Rua se lo señala.",
+      "inicio": "00:33:35.000",
+      "fin": "01:25:40.000",
+      "entidades": [
+        "Sugami (grafía provisional)",
+        "Calista",
+        "Erk (grafía provisional)",
+        "Higeki (grafía provisional)",
+        "Banzo",
+        "Hermano de Danifae (nombre pendiente)",
+        "Rua (grafía provisional)"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "Las bromas y prejuicios de los interlocutores son actitudes suyas; no describen inferioridad real de las especies.",
+      "cita": "batín?",
+      "evidencia_cue": {
+        "inicio": "01:24:02.800",
+        "fin": "01:24:05.229"
+      }
+    },
+    {
+      "id": "93-004",
+      "titulo": "Rua sale con los cazadores y compra el vestido",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Rua despide a su séquito para pasar el día de compras con Erk y sus compañeros. Higeki ofrece un banquete mágico; Calista se presenta como emisaria de la corte del rey dragón del Oeste y Rua la invita a palacio. En la tienda escoge el vestido rosa y verde que propone Calista y paga a Sugami con una bolsa de oro.",
+      "inicio": "01:14:10.000",
+      "fin": "01:37:45.000",
+      "entidades": [
+        "Rua (grafía provisional)",
+        "Calista",
+        "Sugami (grafía provisional)",
+        "Erk (grafía provisional)",
+        "Higeki (grafía provisional)",
+        "Banzo"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "El precio del vestido no se cifra; la acogida diplomática no resuelve por sí misma la muerte del emisario.",
+      "cita": "que Rua dice me gusta este rosita me ha",
+      "evidencia_cue": {
+        "inicio": "01:35:37.520",
+        "fin": "01:35:40.270"
+      }
+    },
+    {
+      "id": "93-005",
+      "titulo": "Ushi levanta el veto tras la intervención de Rua",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Ushi intenta impedir la entrada de los cazadores a su taberna por los daños anteriores. Rua ofrece otra bolsa de oro para cubrirlos y obtiene que puedan volver a entrar. El tabernero los recibe y les sirve su mejor sake y té.",
+      "inicio": "01:38:35.000",
+      "fin": "01:43:45.000",
+      "entidades": [
+        "Rua (grafía provisional)",
+        "Ushi (grafía provisional)",
+        "Higeki (grafía provisional)",
+        "Calista"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "No se da la cuantía de la compensación ni se representa una reparación física completa de la pared.",
+      "cita": "vez el permiso a entrada a mis amigos.\"",
+      "evidencia_cue": {
+        "inicio": "01:41:32.560",
+        "fin": "01:41:35.990"
+      }
+    },
+    {
+      "id": "93-006",
+      "titulo": "La salud del shogun y una ayuda administrativa",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Rua explica que la tos del shogun ha regresado, que atribuyen su debilidad a la vejez y que ella debe atender más asuntos de palacio. Confirma que los nobles revisaron el trabajo de Guxi y concluyeron que sí cumplía sus obligaciones. Calista se ofrece a ayudarla y recibe un sello para entrar en palacio, como Banzo.",
+      "inicio": "01:43:45.000",
+      "fin": "01:51:10.000",
+      "entidades": [
+        "Rua (grafía provisional)",
+        "Calista",
+        "Banzo",
+        "Guxi (grafía provisional)"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "La atribución a la edad es la explicación de Rua; no es un diagnóstico independiente ni una confirmación de que no haya otras causas.",
+      "cita": "enfermo. Parece la vejez, le está",
+      "evidencia_cue": {
+        "inicio": "01:44:21.719",
+        "fin": "01:44:24.350"
+      }
+    },
+    {
+      "id": "93-007",
+      "titulo": "Banzo escucha noticias de la guerra de Brunami",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Rua ha oído que hay guerra en Brunami y no tiene detalles. Banzo relata que al partir vio su aldea arder y otras aldeas vacías o calcinadas. Rua ofrece enviar informantes; él declina para no arriesgar más vidas en aquellas tierras.",
+      "inicio": "01:54:00.000",
+      "fin": "01:59:25.000",
+      "entidades": [
+        "Rua (grafía provisional)",
+        "Banzo",
+        "Calista"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "El conflicto de Brunami se conoce mediante recuerdos de Banzo y rumores llegados a Rua; no se identifica aquí al ejército atacante.",
+      "cita": "nadie o estaban calcinadas.",
+      "evidencia_cue": {
+        "inicio": "01:58:13.800",
+        "fin": "01:58:17.109"
+      }
+    },
+    {
+      "id": "93-008",
+      "titulo": "Una bendición perdida que exige buscar remedio",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Erk informa a Rua de que Sun Gukon abandonó una bendición al dejar de sintonizar el objeto. Explica que la cúpula del dragón sigue funcionando. Calista propone volver al guardián con otro candidato y con el responsable para disculparse; Banzo se ofrece a acompañar. Rua pide una solución sin una dureza innecesaria.",
+      "inicio": "02:08:00.000",
+      "fin": "02:20:30.000",
+      "entidades": [
+        "Erk (grafía provisional)",
+        "Rua (grafía provisional)",
+        "Calista",
+        "Banzo",
+        "Sun Gukon (grafía provisional)"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "Se debate una futura expedición; no se recupera ninguna bendición ni se confirma que el guardián vaya a conceder otra.",
+      "cita": "La barrera no funciona?\"",
+      "evidencia_cue": {
+        "inicio": "02:11:34.480",
+        "fin": "02:11:36.870"
+      }
+    },
+    {
+      "id": "93-009",
+      "titulo": "Regreso a palacio y una rivalidad que continúa",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Los cazadores devuelven a Rua a palacio después de pasar el día con ella. Les entrega 100 monedas de oro a cada uno; Gelbreak da 50 a Banzo y ofrece dinero a Calista. Rua anima a Banzo a hablar con Aka sobre trabajar como guardaespaldas y reitera su oferta a Calista para ayudar con los documentos. Calista y Erk la ayudan a acostarse.",
+      "inicio": "02:20:30.000",
+      "fin": "02:38:10.000",
+      "entidades": [
+        "Rua (grafía provisional)",
+        "Calista",
+        "Erk (grafía provisional)",
+        "Banzo",
+        "Higeki (grafía provisional)",
+        "Hermano de Danifae (nombre pendiente)"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "La propuesta para Banzo no constituye un nombramiento formal. Las pullas entre Calista y Gelbreak continúan sin un combate ni una reconciliación definitiva.",
+      "cita": "100 monedas de oro cada uno.",
+      "evidencia_cue": {
+        "inicio": "02:31:06.640",
+        "fin": "02:31:12.710"
+      }
+    }
+  ],
+  "historia": {
+    "revisado_hasta": 93,
+    "etapas": [
+      {
+        "titulo": "Encontrar un lugar en la guilda",
+        "texto": "Erk vuelve a la vida cotidiana después de su mala época con el alcohol. Explica que ya sabe que Sir no murió por haber curado a ella y a Hayate, aunque todavía busca comprender quién provocó su muerte. Higeki continúa cocinando en palacio y escucha rumores sobre una bendición abandonada. Calista ha decidido unirse a los cazadores y asumir tareas administrativas; también confirma que celebró con Ikari el rito tritón que había propuesto por las víctimas y que llevó pescado a Lor Miao. Banzo intenta construir su nuevo propósito visitando a Shizuka y acercándose al kamaitachi. Las presentaciones permiten a la emisaria empezar a conocer a compañeros muy distintos de la corte donde creció.",
+        "referencias": [
+          "93-001"
+        ]
+      },
+      {
+        "titulo": "Información incómoda bajo una conversación burlesca",
+        "texto": "La presencia de Calista hace aflorar el recuerdo del emisario del rey dragón. Gelbreak le cuenta que cree que Danifae le cortó el cuello, lo que alarma a la tritón. La información es indirecta para ella y el drow recomienda preguntar a quienes sí estuvieron presentes. También reitera su advertencia sobre las esferas: asegura que su hermana sirve a Lolth y que la matrona la envió a buscarlas, aunque admite que desconoce su función exacta. Recuerda haber declarado ante un ritual de verdad y remite a Aka. Calista lo interroga mientras el resto introduce bromas, y la desconfianza inicial de la emisaria hacia los drow se transforma en una rivalidad muy personal con Gelbreak. Banzo procura incluirlo en el grupo y lo anima a salir con ellos.",
+        "referencias": [
+          "93-002"
+        ]
+      },
+      {
+        "titulo": "Moda, patrocinio y una broma que se alarga",
+        "texto": "Erk lleva a Calista a la tienda de Sugami. La modista reconoce el buen gusto de la tritón y propone regalarle vestidos si los luce y recomienda su negocio. Calista acepta y recibe un conjunto morado. La conversación incluye una preocupación real por la antigua borrachera de Erk, aunque pronto se llena de probadores, colores y croquetas. Higeki consigue un vestido de colores vivos; a Banzo intentan ceñirle un conjunto que apenas le permite moverse y que acaba sustituyendo por otra falda mientras lavan la suya. Gelbreak se deja convencer para probar ropa nueva. Erk y Calista le hacen creer que un batín es un traje elegante y lo envían a la calle orgulloso de un conjunto que todos los demás reconocen como una broma.",
+        "referencias": [
+          "93-003"
+        ]
+      },
+      {
+        "titulo": "Una escolta convertida en un día de libertad",
+        "texto": "Rua aparece en la calle con guardias y acompañantes. Al reconocer a Erk despide a su séquito y pide pasar el día con los cazadores, feliz de poder comprar sin que lo hagan todo por ella. Higeki prepara un banquete mágico y Rua presenta una acogida diplomática a Calista, quien se identifica como enviada del rey dragón del Oeste. La conversación alude al hijo de aquel monarca y a la intervención de los cazadores; Calista descubre que los relatos difundidos por su corte no contenían todos esos detalles. Rua advierte a Gelbreak de que lleva un batín y el drow comprende por fin la burla. En la tienda, los compañeros ayudan a una Sugami demasiado nerviosa para vender a la esposa del shogun. Rua escoge el vestido rosa y verde propuesto por Calista, paga con una bolsa de oro y sale encantada con su nueva ropa.",
+        "referencias": [
+          "93-003",
+          "93-004"
+        ]
+      },
+      {
+        "titulo": "Una mesa de té entre responsabilidades y heridas lejanas",
+        "texto": "En la taberna, Ushi intenta mantener el veto contra los cazadores. Rua escucha los daños que sufrió el local, paga otra compensación y logra que vuelva a admitirlos. Durante la sobremesa explica que la tos del shogun ha regresado y que ella asume cada vez más trabajo en palacio. También aclara que los nobles revisaron las críticas contra Guxi y determinaron que sí hacía bien su labor. Calista ofrece ayuda administrativa y Rua la recibe con gratitud, entregándole un sello de acceso a palacio; Banzo obtiene otro. La alegría se interrumpe cuando Rua menciona noticias imprecisas de guerra en Brunami. Banzo relata que vio arder su aldea y que atravesó poblaciones vacías o calcinadas antes de embarcar. Ella ofrece enviar informantes, pero él rehúsa para evitar exponer a su gente a más peligros.",
+        "referencias": [
+          "93-005",
+          "93-006",
+          "93-007"
+        ]
+      },
+      {
+        "titulo": "Las obligaciones vuelven incluso durante una fiesta",
+        "texto": "Entre cotilleos sobre Aka y Katari y comentarios sobre Blaze y Shigeru, Erk cuenta por fin la pérdida de una bendición de Sun Gukon. Rua se alarma por la defensa de Kuroto y pregunta si la cúpula sigue funcionando; Erk distingue la protección del dragón de los dones particulares de los cuatro guardianes. Calista propone acudir al guardián, buscar otro candidato y llevar al responsable para pedir disculpas. Banzo se ofrece a acompañar la expedición, pero todo queda en una posibilidad y Rua solicita que busquen remedio sin actuar con crueldad innecesaria. Higeki muestra su casco a Calista, que resiste su efecto; nadie consigue una nueva bendición durante la jornada.",
+        "referencias": [
+          "93-008"
+        ]
+      },
+      {
+        "titulo": "Regalos, agradecimientos y cuentas personales pendientes",
+        "texto": "La rivalidad entre Calista y Gelbreak continúa con ilusiones y pequeños trucos de agua, aunque ninguno llega a atacar al otro. Al hacerse de noche acompañan a Rua de vuelta a palacio. La esposa del shogun está agradecida por una libertad que apenas disfrutaba y entrega cien monedas de oro a cada acompañante. Gelbreak comparte cincuenta con Banzo y ofrece parte a Calista, intentando dejar claro que no pretende perjudicarlos; ella acepta bajo la condición verbal de enseñarle modales. Rua anima a Banzo a hablar con Aka para formarse como guardaespaldas y reitera a Calista que puede ayudar con los documentos del palacio. Son invitaciones, todavía sin nombramiento efectivo. Calista y Erk la ayudan a acostarse antes de que el grupo regrese a su base, con nuevas amistades cortesanas y la rivalidad del día todavía encendida.",
+        "referencias": [
+          "93-009"
+        ]
+      }
+    ]
+  },
+  "misiones": [
+    "Apoyar la administración de los cazadores y del palacio: Calista se incorpora y ofrece su ayuda a Rua.",
+    "Buscar cómo remediar la bendición perdida de Sun Gukon: propuesta de volver al guardián, sin expedición realizada.",
+    "Conocer la situación de Brunami: rumores de guerra, sin investigación aceptada por Banzo.",
+    "Rito tritón por las víctimas tanuki: realizado entre sesiones según Calista."
+  ],
+  "preguntas": [
+    "¿Cuál es la causa del regreso de la tos y de la debilidad del shogun?",
+    "¿Puede recuperarse la bendición abandonada y qué exigirá el guardián?",
+    "¿Qué ejército está arrasando las aldeas de Brunami y qué ocurrió con los habitantes de la aldea de Banzo?",
+    "¿Llegará Banzo a entrenar con Aka y ejercer como guardaespaldas del palacio?"
+  ],
+  "nombres_dudosos": [
+    "Sugami/Tsugami/Chugami/Suami: grafía provisional de la modista.",
+    "Untuar/Untar/Jelbert/Gelbreak alternan para el mismo drow; se conserva la ficha funcional hasta la normalización de identidades.",
+    "Rua llama Coratari a Katari durante el cotilleo sobre su relación con Aka."
+  ],
+  "contradicciones": [
+    "Los rumores de que Guxi incumplía sus tareas son desmentidos por Rua: afirma que los nobles revisaron su trabajo y lo encontraron correcto.",
+    "La descripción de Blaze como adulta o mujer hecha pertenece al cotilleo de los personajes; no sustituye el desfase de un mes y dos años establecido en 087 ni fija una edad nueva.",
+    "La localización oriental de la corte de Calista se corrige en la propia conversación a Oeste."
+  ]
+}

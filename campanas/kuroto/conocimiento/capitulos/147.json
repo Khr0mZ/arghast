@@ -1,0 +1,391 @@
+{
+  "capitulo": 147,
+  "estado_revision": "revisado",
+  "fuente_sha256": "effe372cce3eaf702a1bfbf94cf71fcaac8944065a61af46faec8238fca82c04",
+  "resumen": "El director da por estabilizada la crisis y retira sus penalidades generales. Jin prepara tropas y Calista sigue aprendiendo a defenderse, pero las alcantarillas requieren atención: una colonia vampira parece crecer tras la entrada de un lord y una cazadora ofrece colaborar. La misión del día será despejar el camino, no asaltar todavía al vampiro. Jin propone compartir su entrenamiento con otros generales y por fin entrega el vial de Nox a Calista, que lo enviará a analizar y prioriza cortar los ingresos cultistas. No hay aún resultados de laboratorio ni un nuevo campo abierto. Tras comprar provisiones y ropa, bajan por el desagüe del parque. Jin pregunta antes por aprender de los tritones y Gelbreak le aconseja hablar con Calista, pues su propia experiencia fue hostil. El hedor y la oscuridad dificultan orientarse. Saltos, ayuda física, un disco flotante y una jabalina usada como palanca permiten abrir paso; Gelbreak cae al agua sucia y soporta las bromas después de limpiarse. Hombres rata y enjambres los emboscan desde paredes y canales, pero la magia de Calista, los ataques de Jin y el poder psíquico del guardián superan la primera resistencia. Mientras abren otra válvula llega una rata monstruosa que regenera heridas entre más atacantes. Su carga tira a Calista al agua y la envenena. Gelbreak se enfurece y su descarga también alcanza a Jin, que logra sostener la concentración. La shogun inmoviliza enemigos y el grupo acaba con el gigante y dispersa a los supervivientes. Una poción y nueva salvación alivian el veneno de Calista. No han exterminado todas las ratas, pero abren una ruta hasta una puerta sellada rodeada de huesos y rastros de sangre. Cuatro vampiros los sorprenden y uno reduce la vida máxima de Jin mediante vómito sangriento. Calista adopta forma de dragón y Gelbreak usa el regalo de magia poderosa para un conjuro que aturde a los enemigos. Los derrotan y registran sus cuerpos: una nota parece una lista de ingredientes, sin llave ni fórmula completa. Calista coloca un símbolo de muerte en la puerta sin abrirla. Cuando un supuesto cadáver intenta levantarse tras Jin, la cazadora elfa lo remata con una flecha. La tensión de Calista hacia ella no detiene la cooperación prevista para la siguiente expedición. El regreso deja atrás las bromas sobre suciedad: en palacio vuelve la tritón velada y anuncia los primeros refuerzos. Sus guardias empiezan a ocupar puestos y sus estrategas tomarán el mando militar; ella se queda junto a Calista por orden de un superior aún sin nombre. También pretende reemplazar a Gelbreak por un guardián futuro. La shogun defiende su derecho a elegir y consigue que conserve el collar por ahora, mientras el drow exige probar al recién llegado cuando aparezca. La visitante ocupa una habitación de invitados y deja informes para mañana. Calista y Gelbreak se retiran preocupados, sin que la victoria de las cloacas haya resuelto esta nueva presión.",
+  "afirmaciones": [
+    {
+      "id": "147-001",
+      "titulo": "La crisis se estabiliza",
+      "tipo": "explicacion_director",
+      "afirmacion": "El director declara estabilizada la crisis y retira la tabla general que penalizaba al grupo al inicio. Todavía puede haber pérdidas económicas personales, pero dejan de aplicarse aquellas penalidades colectivas. Calista sigue entrenando con estoque y preparando la respuesta a las alcantarillas; Jin entrena tropas ante la llegada de refuerzos tritones.",
+      "inicio": "00:00:01.000",
+      "fin": "00:04:02.750",
+      "cita": "estabilizado, así que ya no sufriréis",
+      "entidades": [
+        "Calista",
+        "Jin"
+      ],
+      "ambito": "Kuroto, sesión 147",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "147-002",
+      "titulo": "Despejar el acceso, sin atacar aún al lord",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Calista reúne a Jin y Gelbreak con un mapa incompleto de las alcantarillas de Sho. Informa de un lord vampiro que crea vasallos y una cazadora dispuesta a colaborar. La misión de hoy es limpiar ratas y hombres rata hasta la colonia, para que un equipo posterior pueda enfrentarse al vampiro sin ese desgaste. No van preparados para asaltar al lord esta jornada.",
+      "inicio": "00:03:00.000",
+      "fin": "00:09:04.030",
+      "cita": "un lord vampiro que está parece ser",
+      "entidades": [
+        "Calista",
+        "Jin",
+        "Gelbreak (grafía provisional)",
+        "Alcantarillas de Sho",
+        "Lord vampiro de las alcantarillas",
+        "Cazadora elfa de vampiros"
+      ],
+      "ambito": "Kuroto, sesión 147",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "147-003",
+      "titulo": "Un entrenamiento compartido por generales",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Jin propone un campo de entrenamiento más exigente basado en su experiencia, sin repetir la crueldad de sus instructores. Calista pide traducir y organizar sus métodos con otros generales para que todos puedan aplicarlos. Él muestra una libreta roja antigua con ejercicios y se compromete a prepararlos después de la misión. No se inaugura un nuevo campo ni se aplica ya el programa.",
+      "inicio": "00:09:04.040",
+      "fin": "00:12:01.430",
+      "cita": "¿Ves que he sacado una pequeña libreta",
+      "entidades": [
+        "Jin",
+        "Calista",
+        "Libreta roja de entrenamiento de Jin"
+      ],
+      "ambito": "Kuroto, sesión 147",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "147-004",
+      "titulo": "El vial de Nox llega a Calista",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Jin recuerda el vial de Nox que conservaba desde la fábrica y se lo entrega a Calista, explicando su procedencia cultista y los destinos de las cajas. Ella decide enviarlo a analizar y presionar sus fuentes de ingresos. Su interpretación de que los cultistas están económicamente arrinconados es una hipótesis de la shogun. No conoce aún la composición ni se resuelve la exportación.",
+      "inicio": "00:11:02.560",
+      "fin": "00:16:04.150",
+      "cita": "vial ese que recogiste",
+      "entidades": [
+        "Jin",
+        "Calista",
+        "Nox"
+      ],
+      "ambito": "Kuroto, sesión 147",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "147-005",
+      "titulo": "La experiencia de Gelbreak con los tritones",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Jin pregunta a Gelbreak cómo conocer técnicas tritones antes de la llegada de tropas. Él relata desprecio hacia habitantes de superficie en la ciudad de Calista y encuentros violentos, y recomienda preguntarle a ella. Explica que unas bolitas que le dio permiten desarrollar branquias dolorosamente para respirar bajo el agua. No entrega ese recurso a Jin ni lo lleva hoy a una ciudad submarina.",
+      "inicio": "00:16:04.160",
+      "fin": "00:20:01.590",
+      "cita": "duele muchísimo, pero te salen branquias",
+      "entidades": [
+        "Jin",
+        "Gelbreak (grafía provisional)",
+        "Calista"
+      ],
+      "ambito": "Kuroto, sesión 147",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "147-006",
+      "titulo": "Equiparse y descender",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Compran comida, pociones y ropa en las tiendas, incluida Tsugami; Gelbreak regala a Calista traje y gorro y ella le ofrece comida antes de bajar. La shogun anima al grupo y otorga protección temporal. Entran por un desagüe de la zona del parque. El hedor y la oscuridad reducen la percepción; Jin no tiene visión nocturna y utilizan recursos para orientarlo.",
+      "inicio": "00:20:01.600",
+      "fin": "00:40:00.790",
+      "cita": "temporales.",
+      "entidades": [
+        "Calista",
+        "Jin",
+        "Gelbreak (grafía provisional)",
+        "Tsugami (grafía provisional)",
+        "Alcantarillas de Sho"
+      ],
+      "ambito": "Kuroto, sesión 147",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "147-007",
+      "titulo": "Discos y palancas para cruzar",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Jin salta sobre canales y ayuda a Calista a cruzar. Gelbreak resbala y cae en aguas sucias, sin contagio confirmado. Calista conjura por ritual un disco flotante y, con la jabalina de Jin como palanca, colaboran para abrir una válvula atascada. El disco permite acercarse sin pisar el agua; no resuelve por sí mismo todas las puertas ni la colonia vampira.",
+      "inicio": "00:39:00.440",
+      "fin": "00:54:02.589",
+      "cita": "Vale. Ah, para hacer palanca.",
+      "entidades": [
+        "Jin",
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Alcantarillas de Sho"
+      ],
+      "ambito": "Kuroto, sesión 147",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "147-008",
+      "titulo": "Primera emboscada de ratas",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Hombres rata con ballestas y enjambres descienden por agua y paredes y sorprenden a Jin y Calista; Gelbreak permanece alerta. Los enjambres resisten golpes por su número y se vuelven más agresivos al reducirse. Calista aleja enemigos con magia e inspira a los compañeros, Jin encadena ataques y Gelbreak emplea daño psíquico. Terminan con los atacantes y recogen una poción y una gran mochila; no se confirma enfermedad por las mordeduras.",
+      "inicio": "00:53:00.040",
+      "fin": "01:19:01.310",
+      "cita": "ballesta y va a intentar dispararos a",
+      "entidades": [
+        "Calista",
+        "Jin",
+        "Gelbreak (grafía provisional)",
+        "Hombres rata y enjambres de Sho"
+      ],
+      "ambito": "Kuroto, sesión 147",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "147-009",
+      "titulo": "La rata enorme envenena a Calista",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Otra tubería se abre mientras intentan avanzar y salen más hombres rata, enjambres y un monstruo enorme que regenera heridas. Carga contra Calista, la expulsa del disco hacia el agua y queda envenenada. Gelbreak reacciona con una descarga psíquica que también alcanza a Jin; este mantiene su concentración. El daño a su aliado no se presenta como ataque deliberado contra él.",
+      "inicio": "01:20:00.400",
+      "fin": "01:39:00.790",
+      "cita": "para ti. Estás envenenado.",
+      "entidades": [
+        "Calista",
+        "Jin",
+        "Gelbreak (grafía provisional)",
+        "Rata monstruosa de las alcantarillas",
+        "Hombres rata y enjambres de Sho"
+      ],
+      "ambito": "Kuroto, sesión 147",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "147-010",
+      "titulo": "Victoria, retirada enemiga y antídoto",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Calista inmoviliza enemigos y los compañeros siguen atacando hasta abatir al monstruo y dispersar a las ratas restantes, que huyen. Gelbreak ofrece a la shogun una poción: con la nueva salvación se alivia el envenenamiento. Ayudan a Jin a abrir otra válvula, él comprueba que no percibe gas inflamable y enciende una antorcha. El camino queda practicable, sin afirmar que cada rata de la red haya desaparecido.",
+      "inicio": "01:38:00.920",
+      "fin": "01:48:03.750",
+      "cita": "para tener des ventaja la ótica de",
+      "entidades": [
+        "Calista",
+        "Jin",
+        "Gelbreak (grafía provisional)",
+        "Rata monstruosa de las alcantarillas",
+        "Alcantarillas de Sho"
+      ],
+      "ambito": "Kuroto, sesión 147",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "147-011",
+      "titulo": "La puerta de la colonia y cuatro vasallos",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Llegan a estatuas funerarias, huesos y sangre antigua y reciente arrastrada hacia una puerta sellada. Antes de retirarse los emboscan cuatro vampiros que bajan de las paredes; uno vomita sangre sobre Jin y reduce quince puntos su vida máxima. Calista toma forma de dragón y Gelbreak usa el objeto de magia poderosa que ella le regaló para lanzar un conjuro de nivel nueve sin gastar espacio y aturdir a los enemigos. Jin y los bardos los derrotan, sin abrir la puerta ni llegar al lord.",
+      "inicio": "01:47:02.199",
+      "fin": "02:02:00.790",
+      "cita": "puntos de vida máxima.",
+      "entidades": [
+        "Calista",
+        "Jin",
+        "Gelbreak (grafía provisional)",
+        "Vasallos vampiros de las alcantarillas",
+        "Puerta sellada de la colonia vampira",
+        "Objeto de magia poderosa de Gelbreak"
+      ],
+      "ambito": "Kuroto, sesión 147",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "147-012",
+      "titulo": "Una lista y un sello de muerte",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Calista encuentra una nota ensangrentada que parece enumerar ingredientes, pero no una llave. Guarda el documento sin que se detalle una receta completa. Escucha silencio tras la puerta y coloca un símbolo de muerte para dañar a enemigos que entren o salgan. No se activa en pantalla, no abre el acceso ni se da por alcanzado al lord vampiro.",
+      "inicio": "02:01:03.199",
+      "fin": "02:07:06.669",
+      "cita": "ensangrentada.",
+      "entidades": [
+        "Calista",
+        "Nota ensangrentada de la colonia vampira",
+        "Sello de muerte de la puerta vampira",
+        "Puerta sellada de la colonia vampira"
+      ],
+      "ambito": "Kuroto, sesión 147",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "147-013",
+      "titulo": "La cazadora remata al superviviente",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Un vampiro que parecía muerto se levanta detrás de Jin y una flecha de la cazadora lo remata. Es una elfa de pelo rojo, ojos verdes y armadura verde, con ballesta y espada larga fina. Dice haber hablado con Banzo y pide ver a Gelbreak en la próxima expedición. Calista reacciona con celos y él le baja la mano antes de que lance un hechizo. La cooperación con la cazadora sigue prevista; no se pelean con ella ni se da su nombre aquí.",
+      "inicio": "02:05:00.320",
+      "fin": "02:12:00.709",
+      "cita": "una flecha.",
+      "entidades": [
+        "Jin",
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Cazadora elfa de vampiros",
+        "Vasallos vampiros de las alcantarillas"
+      ],
+      "ambito": "Kuroto, sesión 147",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "147-014",
+      "titulo": "Llegan tropas y una orden ajena",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Al regresar a palacio, la tritón velada los espera con su comitiva. Dice que los primeros soldados están llegando al puerto, que se movilizarán al sur y que también vendrán estrategas a tomar el mando. Anuncia que se quedará a guiar a Calista por orden directa de alguien a quien llama él. Sus guardias empiezan a distribuirse y pretende sustituir parte de los locales. No se identifica aún a ese superior.",
+      "inicio": "02:14:03.360",
+      "fin": "02:21:00.429",
+      "cita": "enviar los primeros soldados.",
+      "entidades": [
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Tritón velada de la comitiva",
+        "Comitiva tritón de Calista",
+        "Palacio de la shogun"
+      ],
+      "ambito": "Kuroto, sesión 147",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "147-015",
+      "titulo": "El guardián conserva el collar por ahora",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "La visitante pide a Gelbreak el collar de antiguo guardián porque enviarán uno más personal. Calista defiende que ella lo elige; la tritón permite que siga por ahora y anuncia que el nuevo candidato llegará en semanas por orden de él. Gelbreak dice que deberá probar su valía, sin duelo consumado. Calista lleva a la visitante al cuarto de invitados, acepta informes para el día siguiente y se retira preocupada con su guardián, que conserva su puesto en esta sesión.",
+      "inicio": "02:20:00.319",
+      "fin": "02:26:05.160",
+      "cita": "Cuando venga el nuevo destinatario para",
+      "entidades": [
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Tritón velada de la comitiva",
+        "Palacio de la shogun"
+      ],
+      "ambito": "Kuroto, sesión 147",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    }
+  ],
+  "historia": {
+    "revisado_hasta": 147,
+    "etapas": [
+      {
+        "titulo": "Una crisis menos y nuevos encargos",
+        "texto": "El director da por estabilizada la crisis y retira sus penalidades generales. Jin prepara tropas y Calista sigue aprendiendo a defenderse, pero las alcantarillas requieren atención: una colonia vampira parece crecer tras la entrada de un lord y una cazadora ofrece colaborar. La misión del día será despejar el camino, no asaltar todavía al vampiro. Jin propone compartir su entrenamiento con otros generales y por fin entrega el vial de Nox a Calista, que lo enviará a analizar y prioriza cortar los ingresos cultistas. No hay aún resultados de laboratorio ni un nuevo campo abierto.",
+        "referencias": [
+          "147-001",
+          "147-002",
+          "147-003",
+          "147-004"
+        ]
+      },
+      {
+        "titulo": "Atravesar la suciedad juntos",
+        "texto": "Tras comprar provisiones y ropa, bajan por el desagüe del parque. Jin pregunta antes por aprender de los tritones y Gelbreak le aconseja hablar con Calista, pues su propia experiencia fue hostil. El hedor y la oscuridad dificultan orientarse. Saltos, ayuda física, un disco flotante y una jabalina usada como palanca permiten abrir paso; Gelbreak cae al agua sucia y soporta las bromas después de limpiarse. Hombres rata y enjambres los emboscan desde paredes y canales, pero la magia de Calista, los ataques de Jin y el poder psíquico del guardián superan la primera resistencia.",
+        "referencias": [
+          "147-005",
+          "147-006",
+          "147-007",
+          "147-008"
+        ]
+      },
+      {
+        "titulo": "La carga del monstruo",
+        "texto": "Mientras abren otra válvula llega una rata monstruosa que regenera heridas entre más atacantes. Su carga tira a Calista al agua y la envenena. Gelbreak se enfurece y su descarga también alcanza a Jin, que logra sostener la concentración. La shogun inmoviliza enemigos y el grupo acaba con el gigante y dispersa a los supervivientes. Una poción y nueva salvación alivian el veneno de Calista. No han exterminado todas las ratas, pero abren una ruta hasta una puerta sellada rodeada de huesos y rastros de sangre.",
+        "referencias": [
+          "147-009",
+          "147-010",
+          "147-011"
+        ]
+      },
+      {
+        "titulo": "Vasallos tras el rastro de sangre",
+        "texto": "Cuatro vampiros los sorprenden y uno reduce la vida máxima de Jin mediante vómito sangriento. Calista adopta forma de dragón y Gelbreak usa el regalo de magia poderosa para un conjuro que aturde a los enemigos. Los derrotan y registran sus cuerpos: una nota parece una lista de ingredientes, sin llave ni fórmula completa. Calista coloca un símbolo de muerte en la puerta sin abrirla. Cuando un supuesto cadáver intenta levantarse tras Jin, la cazadora elfa lo remata con una flecha. La tensión de Calista hacia ella no detiene la cooperación prevista para la siguiente expedición.",
+        "referencias": [
+          "147-011",
+          "147-012",
+          "147-013"
+        ]
+      },
+      {
+        "titulo": "Una ayuda que exige obediencia",
+        "texto": "El regreso deja atrás las bromas sobre suciedad: en palacio vuelve la tritón velada y anuncia los primeros refuerzos. Sus guardias empiezan a ocupar puestos y sus estrategas tomarán el mando militar; ella se queda junto a Calista por orden de un superior aún sin nombre. También pretende reemplazar a Gelbreak por un guardián futuro. La shogun defiende su derecho a elegir y consigue que conserve el collar por ahora, mientras el drow exige probar al recién llegado cuando aparezca. La visitante ocupa una habitación de invitados y deja informes para mañana. Calista y Gelbreak se retiran preocupados, sin que la victoria de las cloacas haya resuelto esta nueva presión.",
+        "referencias": [
+          "147-014",
+          "147-015"
+        ]
+      }
+    ]
+  },
+  "misiones": [
+    "Preparar la siguiente expedición contra el lord vampiro tras despejar el acceso.",
+    "Analizar Nox y aclarar la lista ensangrentada sin atribuirle una fórmula inventada.",
+    "Organizar el entrenamiento común de tropas y la llegada de estrategas tritones.",
+    "Defender la autonomía de Calista y la continuidad de su guardián ante nuevas órdenes."
+  ],
+  "preguntas": [
+    "¿Quién es el lord vampiro y qué hay detrás de la puerta sellada?",
+    "¿Qué ingredientes y propósito tiene la nota ensangrentada?",
+    "¿Qué revelará el análisis de Nox?",
+    "¿Quién ordena a la visitante controlar a Calista y enviar otro guardián?",
+    "¿Se impondrá el nuevo candidato a Gelbreak y quién decidirá su valía?",
+    "¿Cómo se aplicará el plan de entrenamiento de Jin con generales y refuerzos tritones?"
+  ],
+  "nombres_dudosos": [
+    "La cazadora elfa de pelo rojo no recibe nombre fiable en esta sesión; no identificarla con otras elfas por semejanza.",
+    "La visitante vuelve a presentarse como perla o mujer velada, sin revelar aquí el nombre de él.",
+    "Jin sufre una pérdida concreta de quince de vida máxima; no se muestra una restauración específica de esa limitación.",
+    "El objeto de magia poderosa alternó anillo y collar en142; aquí lo llama collar al usarlo, sin crear un segundo regalo."
+  ],
+  "contradicciones": [
+    "La misión es despejar el camino; no se mata al lord ni se abre su puerta.",
+    "La crisis general se estabiliza, aunque las tablas personales aún puedan causar pérdidas económicas.",
+    "El símbolo de muerte queda colocado sin activación narrada y preparado contra enemigos, no contra cualquier aliado sin distinción.",
+    "Calista interpreta la droga como fuente de ingresos cultistas, pero el resultado del análisis sigue pendiente.",
+    "El collar del guardián no se entrega: se anuncia reemplazo futuro y una disputa, no destitución consumada.",
+    "La presencia de tropas tritones y sus órdenes se confirma sin identificar todavía al superior invocado por la visitante."
+  ]
+}

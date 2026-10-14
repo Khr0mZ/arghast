@@ -1,0 +1,310 @@
+{
+  "capitulo": 113,
+  "estado_revision": "revisado",
+  "fuente_sha256": "04b2f8376802dcdcedcdaf466ba915c11cd0cb5dcdd3e2d0e6cc88d2af3af1e5",
+  "resumen": "Arwen cuenta que ha ayudado a mejorar tierras del Sur y excavado trampas de hoyos y pinchos para los enemigos, sin registrar a quién podrían afectar. Jin sigue reuniendo metal del Norte para su gimnasio y atiende a Shizuka. Kurobani llega buscando a Guxi después de un mensaje, pero no lo encuentra. Promete a la niña enseñarle a ser ninja. Los juegos de Arwen con Gluglu molestan al gato, que pide silencio. Kurobani crea una zona silenciada y el juego continúa hasta que el no muerto se traga a la pequeña. Arwen se convierte en oso dentro de él y lo revienta. Lor Miao vuelve a animarlo poco después, de modo que la destrucción no es una pérdida permanente. La niña, ya en forma de oso, se alegra y sigue jugando. Un estruendo de pasos y muros rotos llega desde las calles. Arwen sale con Kurobani montado sobre ella y ambos siguen los destrozos hasta encontrarse con Jin, que ha salido del gimnasio. La modista se interpone en la carrera y reprende a los adultos por el aspecto de la niña. La atención vuelve al peligro: hay casas dañadas, surcos enormes y personas a las que los guardias intentan auxiliar. Danifae está ayudando a un herido y acepta acompañarlos pese a seguir desarmada. No consiguen darle un arma adecuada antes de encontrar la causa del desastre. Un gnomo intenta frenar con botones y órdenes a un gólem gigantesco que pierde piezas, emite vapor y sigue golpeando edificios. Al advertir a los cazadores, atribuye el aparato a Otakemaru y se presenta como quien va a detenerlo. Jin no acepta la explicación: lo ha visto intentar manejarlo. El gnomo es Archi, un artífice con armadura y un pequeño homúnculo que examina a los presentes y dispone de datos recibidos de Hayate. Sus telarañas logran sujetar brevemente la construcción. Arwen intenta derretir sus mecanismos con calentar metal, pero el calor lo potencia y quema las ataduras. La ayuda debe cambiar de método antes de agravar más el daño. Danifae ilumina al gólem para facilitar los ataques y luego emplea flechas como armas improvisadas en sus articulaciones. Jin comprueba que su espada no atraviesa la cubierta, mientras el frío sí rompe mecanismos. Kurobani identifica una estructura de adamantita que resiste armas comunes y se sube a los hombros para golpear las juntas, quemándose por el metal recalentado. Archi activa su armadura de guardián, se agranda y usa golpes de trueno y rayos. Jin sujeta el brazo armado y Arwen lanza una onda que hace saltar la enorme espada. Danifae da otra flecha a la niña para que use el asta como palo y esta rompe la punta de metal. La criatura ya desarmada sigue siendo peligrosa, pero sus golpes son menos devastadores. Jin levanta la espada caída pese al peso y al calor. Al estar hecha del mismo material, sus tajos abren ahora la armadura que antes rechazaba el filo. Repite el esfuerzo hasta dejar expuestos los mecanismos. Kurobani remata desde la zona dañada y el constructo cae destrozado, sin que ninguno de los presentes quede muerto. Arwen cura al ninja con sus hierbas y le deja visión doble como efecto pasajero. Al acercarse a Archi le reprocha llevar cosas de metal; el gnomo anima tuercas para distraerla. Jin se centra en las obligaciones del responsable: debe arreglar el daño de la ciudad o responder ante los calabozos. Archi vuelve invisible el armazón y pide ayuda para sacarlo sin que la ciudad conozca lo ocurrido. Presenta entonces la escena como una demostración de los cazadores y escribe su símbolo en el cielo. Parte del público aplaude y llega a tomar los muros rotos por una ilusión. La narración muestra cómo se construye esa impresión; no transforma los daños reales en un espectáculo planificado. Jin sigue exigiendo reparación. Arwen convoca osos para tirar del gólem y servir de monturas. Kurobani contacta a Guxi mediante una piedra comunicadora para presentarle al otro inventor, pero el artífice estaba descansando y no acude en ese momento. De regreso a la base el gólem queda a la vista de todos, sin pierna, sin brazo y partido. Jin insiste en acompañar a Archi a reparar la ciudad, mientras el gnomo pide examinar primero qué ha fallado. Archi se presenta con una larga cadena de nombres y el sobrenombre que quiere usar. Explica venir de la ciudad gnoma del Cono Sur, en Brunami; afirma que su ciudad no sufre la guerra como otras zonas. Busca un mineral que necesita para sus invenciones y ha dejado de encontrar en Kuroto. Hayate le habría informado de la situación y pedido ayuda. Son su explicación de llegada y su compromiso, sin arreglos terminados en pantalla. Kurobani habla con Arwen sobre los hoyos que ha encontrado cerca de las rutas del Sur. Ella admite haberlos hecho creyendo ayudar; él le pide que avise cuando prepare más. No se presenta una lista de soldados heridos por esas trampas. La niña intenta abrazarlo como oso y el ninja lo esquiva, provocando una nueva persecución con toda la manada fuera de la base. Jin permanece junto al recién llegado, vigilando que asuma su responsabilidad. El gimnasio está casi listo y ha sobrevivido al incidente, pero la ciudad conserva daños y la incorporación de Archi queda marcada por la desconfianza.",
+  "afirmaciones": [
+    {
+      "id": "113-001",
+      "titulo": "Gluglu destruido y reanimado",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Arwen relata labores agrícolas y trampas en el Sur. Durante el juego silenciado Gluglu la traga, ella se convierte en oso y lo revienta; Lor Miao vuelve a animarlo poco después.",
+      "inicio": "00:04:00.000",
+      "fin": "00:29:30.000",
+      "entidades": [
+        "Arwen",
+        "Kurobani (grafía provisional)",
+        "Gluglu (grafía provisional)",
+        "Lor Miao (grafía provisional)"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "No se atribuyen destrozos a Otakemaru ni se declara a Gluglu muerto de forma permanente.",
+      "cita": "Ah, y lo levanta de nuevo. Increíble.",
+      "evidencia_cue": {
+        "inicio": "00:27:24.600",
+        "fin": "00:27:27.440"
+      }
+    },
+    {
+      "id": "113-002",
+      "titulo": "Destrucción real en las calles",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Arwen y Kurobani siguen estruendos y se reúnen con Jin junto a edificios dañados. Danifae ayuda a un herido y acompaña al grupo desarmada.",
+      "inicio": "00:30:00.000",
+      "fin": "00:49:00.000",
+      "entidades": [
+        "Arwen",
+        "Kurobani (grafía provisional)",
+        "Jin",
+        "Danifae (grafía provisional)",
+        "Gimnasio de Jin"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "No se atribuyen destrozos a Otakemaru ni se declara a Gluglu muerto de forma permanente.",
+      "cita": "Ay, Dios mío, lo que faltaba. Destrozos.",
+      "evidencia_cue": {
+        "inicio": "00:37:48.880",
+        "fin": "00:37:51.829"
+      }
+    },
+    {
+      "id": "113-003",
+      "titulo": "El gólem es creación de Archi",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Archi intenta controlar con sus dispositivos un gólem que rompe la ciudad. Miente atribuyéndolo a Otakemaru, pero Jin lo identifica como creador. Su homúnculo dispone de información de Hayate. El calor de Arwen potencia al constructo y libera las telarañas.",
+      "inicio": "00:49:00.000",
+      "fin": "01:06:00.000",
+      "entidades": [
+        "Archi",
+        "Arwen",
+        "Kurobani (grafía provisional)",
+        "Jin",
+        "Danifae (grafía provisional)",
+        "Gólem descontrolado de Archi",
+        "Homúnculo de Archi"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "No se atribuyen destrozos a Otakemaru ni se declara a Gluglu muerto de forma permanente.",
+      "cita": "pues ves que como lo has hecho tú el",
+      "evidencia_cue": {
+        "inicio": "01:04:49.799",
+        "fin": "01:04:52.390"
+      }
+    },
+    {
+      "id": "113-004",
+      "titulo": "Las juntas y el desarme",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Los ataques comunes rebotan en la cubierta de adamantita. Frío, trueno y golpes a las juntas dañan al gólem. Jin lo sujeta y Arwen consigue que suelte la espada. Danifae ilumina al enemigo y usa flechas improvisadas.",
+      "inicio": "01:04:00.000",
+      "fin": "01:33:00.000",
+      "entidades": [
+        "Archi",
+        "Arwen",
+        "Kurobani (grafía provisional)",
+        "Jin",
+        "Danifae (grafía provisional)",
+        "Gólem descontrolado de Archi"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "No se atribuyen destrozos a Otakemaru ni se declara a Gluglu muerto de forma permanente.",
+      "cita": "si no son de adamantita.",
+      "evidencia_cue": {
+        "inicio": "01:12:26.320",
+        "fin": "01:12:30.470"
+      }
+    },
+    {
+      "id": "113-005",
+      "titulo": "El gólem cae y Jin exige reparación",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Jin usa la espada caída de adamantita para abrir la cubierta y Kurobani termina con el aparato. Arwen cura al ninja y le provoca visión doble. Jin exige a Archi que repare los destrozos.",
+      "inicio": "01:33:00.000",
+      "fin": "01:43:30.000",
+      "entidades": [
+        "Archi",
+        "Arwen",
+        "Kurobani (grafía provisional)",
+        "Jin",
+        "Gólem descontrolado de Archi"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "No se atribuyen destrozos a Otakemaru ni se declara a Gluglu muerto de forma permanente.",
+      "cita": "reparar todo el daño que vas a",
+      "evidencia_cue": {
+        "inicio": "01:43:06.719",
+        "fin": "01:43:11.550"
+      }
+    },
+    {
+      "id": "113-006",
+      "titulo": "Propaganda y transporte",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Archi oculta el armazón con invisibilidad y presenta al público lo ocurrido como un espectáculo de los cazadores, escribiendo el símbolo en el cielo. Arwen convoca osos para llevar el aparato y Kurobani contacta a Guxi mediante Ring Ring.",
+      "inicio": "01:42:00.000",
+      "fin": "02:01:00.000",
+      "entidades": [
+        "Archi",
+        "Arwen",
+        "Kurobani (grafía provisional)",
+        "Jin",
+        "Danifae (grafía provisional)",
+        "Gólem descontrolado de Archi",
+        "Piedras comunicadoras Ring Ring"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "No se atribuyen destrozos a Otakemaru ni se declara a Gluglu muerto de forma permanente.",
+      "cita": "cielo. y señala hacia el cielo la gente",
+      "evidencia_cue": {
+        "inicio": "01:45:06.159",
+        "fin": "01:45:09.870"
+      }
+    },
+    {
+      "id": "113-007",
+      "titulo": "Un mineral motiva al visitante",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Archi dice venir de la ciudad gnoma del Cono Sur en Brunami y buscar un mineral para sus inventos que escasea en Kuroto. Afirma que Hayate le informó y pidió ayuda. Promete enmendar el daño, sin reparación terminada aún.",
+      "inicio": "02:02:00.000",
+      "fin": "02:10:30.000",
+      "entidades": [
+        "Archi",
+        "Jin",
+        "Ciudad del Cono Sur (Brunami)",
+        "Gólem descontrolado de Archi"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "Motivos y procedencia declarados por Archi, sin resolver la escasez mineral ni acabar reparaciones.",
+      "cita": "un mineral que aquí",
+      "evidencia_cue": {
+        "inicio": "02:07:16.079",
+        "fin": "02:07:18.549"
+      }
+    },
+    {
+      "id": "113-008",
+      "titulo": "Las trampas requieren aviso",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Kurobani pregunta a Arwen por las trampas que ha visto en el Sur y ella admite hacerlas. Le pide avisar; no se confirma daño a víctimas concretas. Jin mantiene la vigilancia sobre Archi antes de reparar la ciudad.",
+      "inicio": "02:09:00.000",
+      "fin": "02:16:00.000",
+      "entidades": [
+        "Arwen",
+        "Kurobani (grafía provisional)",
+        "Jin",
+        "Archi"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "No se atribuyen destrozos a Otakemaru ni se declara a Gluglu muerto de forma permanente.",
+      "cita": "aquí trampas que",
+      "evidencia_cue": {
+        "inicio": "02:11:12.679",
+        "fin": "02:11:17.069"
+      }
+    }
+  ],
+  "historia": {
+    "revisado_hasta": 113,
+    "etapas": [
+      {
+        "titulo": "Pequeñas labores y un juego peligroso",
+        "texto": "Arwen cuenta que ha ayudado a mejorar tierras del Sur y excavado trampas de hoyos y pinchos para los enemigos, sin registrar a quién podrían afectar. Jin sigue reuniendo metal del Norte para su gimnasio y atiende a Shizuka. Kurobani llega buscando a Guxi después de un mensaje, pero no lo encuentra. Promete a la niña enseñarle a ser ninja. Los juegos de Arwen con Gluglu molestan al gato, que pide silencio. Kurobani crea una zona silenciada y el juego continúa hasta que el no muerto se traga a la pequeña. Arwen se convierte en oso dentro de él y lo revienta. Lor Miao vuelve a animarlo poco después, de modo que la destrucción no es una pérdida permanente. La niña, ya en forma de oso, se alegra y sigue jugando.",
+        "referencias": [
+          "113-001"
+        ]
+      },
+      {
+        "titulo": "Las pisadas que cruzan Sho",
+        "texto": "Un estruendo de pasos y muros rotos llega desde las calles. Arwen sale con Kurobani montado sobre ella y ambos siguen los destrozos hasta encontrarse con Jin, que ha salido del gimnasio. La modista se interpone en la carrera y reprende a los adultos por el aspecto de la niña. La atención vuelve al peligro: hay casas dañadas, surcos enormes y personas a las que los guardias intentan auxiliar. Danifae está ayudando a un herido y acepta acompañarlos pese a seguir desarmada. No consiguen darle un arma adecuada antes de encontrar la causa del desastre.",
+        "referencias": [
+          "113-002"
+        ]
+      },
+      {
+        "titulo": "Archi ante su invento",
+        "texto": "Un gnomo intenta frenar con botones y órdenes a un gólem gigantesco que pierde piezas, emite vapor y sigue golpeando edificios. Al advertir a los cazadores, atribuye el aparato a Otakemaru y se presenta como quien va a detenerlo. Jin no acepta la explicación: lo ha visto intentar manejarlo. El gnomo es Archi, un artífice con armadura y un pequeño homúnculo que examina a los presentes y dispone de datos recibidos de Hayate. Sus telarañas logran sujetar brevemente la construcción. Arwen intenta derretir sus mecanismos con calentar metal, pero el calor lo potencia y quema las ataduras. La ayuda debe cambiar de método antes de agravar más el daño.",
+        "referencias": [
+          "113-003"
+        ]
+      },
+      {
+        "titulo": "Buscar las juntas y quitar la espada",
+        "texto": "Danifae ilumina al gólem para facilitar los ataques y luego emplea flechas como armas improvisadas en sus articulaciones. Jin comprueba que su espada no atraviesa la cubierta, mientras el frío sí rompe mecanismos. Kurobani identifica una estructura de adamantita que resiste armas comunes y se sube a los hombros para golpear las juntas, quemándose por el metal recalentado. Archi activa su armadura de guardián, se agranda y usa golpes de trueno y rayos. Jin sujeta el brazo armado y Arwen lanza una onda que hace saltar la enorme espada. Danifae da otra flecha a la niña para que use el asta como palo y esta rompe la punta de metal. La criatura ya desarmada sigue siendo peligrosa, pero sus golpes son menos devastadores.",
+        "referencias": [
+          "113-004"
+        ]
+      },
+      {
+        "titulo": "Jin usa el arma del gólem",
+        "texto": "Jin levanta la espada caída pese al peso y al calor. Al estar hecha del mismo material, sus tajos abren ahora la armadura que antes rechazaba el filo. Repite el esfuerzo hasta dejar expuestos los mecanismos. Kurobani remata desde la zona dañada y el constructo cae destrozado, sin que ninguno de los presentes quede muerto. Arwen cura al ninja con sus hierbas y le deja visión doble como efecto pasajero. Al acercarse a Archi le reprocha llevar cosas de metal; el gnomo anima tuercas para distraerla. Jin se centra en las obligaciones del responsable: debe arreglar el daño de la ciudad o responder ante los calabozos.",
+        "referencias": [
+          "113-005"
+        ]
+      },
+      {
+        "titulo": "Una explicación fabricada para el público",
+        "texto": "Archi vuelve invisible el armazón y pide ayuda para sacarlo sin que la ciudad conozca lo ocurrido. Presenta entonces la escena como una demostración de los cazadores y escribe su símbolo en el cielo. Parte del público aplaude y llega a tomar los muros rotos por una ilusión. La narración muestra cómo se construye esa impresión; no transforma los daños reales en un espectáculo planificado. Jin sigue exigiendo reparación. Arwen convoca osos para tirar del gólem y servir de monturas. Kurobani contacta a Guxi mediante una piedra comunicadora para presentarle al otro inventor, pero el artífice estaba descansando y no acude en ese momento.",
+        "referencias": [
+          "113-006"
+        ]
+      },
+      {
+        "titulo": "Un visitante de Brunami bajo supervisión",
+        "texto": "De regreso a la base el gólem queda a la vista de todos, sin pierna, sin brazo y partido. Jin insiste en acompañar a Archi a reparar la ciudad, mientras el gnomo pide examinar primero qué ha fallado. Archi se presenta con una larga cadena de nombres y el sobrenombre que quiere usar. Explica venir de la ciudad gnoma del Cono Sur, en Brunami; afirma que su ciudad no sufre la guerra como otras zonas. Busca un mineral que necesita para sus invenciones y ha dejado de encontrar en Kuroto. Hayate le habría informado de la situación y pedido ayuda. Son su explicación de llegada y su compromiso, sin arreglos terminados en pantalla.",
+        "referencias": [
+          "113-007"
+        ]
+      },
+      {
+        "titulo": "Avisar antes de sembrar trampas",
+        "texto": "Kurobani habla con Arwen sobre los hoyos que ha encontrado cerca de las rutas del Sur. Ella admite haberlos hecho creyendo ayudar; él le pide que avise cuando prepare más. No se presenta una lista de soldados heridos por esas trampas. La niña intenta abrazarlo como oso y el ninja lo esquiva, provocando una nueva persecución con toda la manada fuera de la base. Jin permanece junto al recién llegado, vigilando que asuma su responsabilidad. El gimnasio está casi listo y ha sobrevivido al incidente, pero la ciudad conserva daños y la incorporación de Archi queda marcada por la desconfianza.",
+        "referencias": [
+          "113-008"
+        ]
+      }
+    ]
+  },
+  "misiones": [
+    "Detener el gólem que destruye Sho: cumplido.",
+    "Reparar los daños provocados por el invento de Archi: exigido y prometido, pendiente.",
+    "Investigar la escasez del mineral que busca Archi: pendiente.",
+    "Avisar de las trampas preparadas por Arwen: advertencia realizada."
+  ],
+  "preguntas": [
+    "¿Reparará Archi todos los daños causados en la ciudad?",
+    "¿Qué mineral necesita Archi y cómo afecta a su disponibilidad la corrupción del Sur?",
+    "¿Cómo se incorporará a la colaboración con Guxi y los cazadores?",
+    "¿Se localizarán y señalizarán las trampas de Arwen para proteger a los aliados?"
+  ],
+  "nombres_dudosos": [
+    "Augustus Archival Frederic Patrick Daniel Zulivan de Borbeng: cadena de nombres transcrita al presentarse Archi; grafía no verificada.",
+    "Cono Sur: ciudad gnoma declarada por el visitante, no toda la región meridional.",
+    "La cubierta se oye diamantita/adamantita; el director identifica su resistencia y la espada como adamantita."
+  ],
+  "contradicciones": [
+    "Archi atribuye al principio el gólem a Otakemaru para ocultar su autoría; admite después haberlo creado.",
+    "El espectáculo que presenta a los vecinos es una cobertura improvisada para daños reales.",
+    "Gluglu es destruido, pero Lor Miao lo reanima en la misma escena.",
+    "Jin conserva el gimnasio; los daños urbanos no prueban su destrucción."
+  ]
+}

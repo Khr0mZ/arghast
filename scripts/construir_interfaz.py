@@ -85,11 +85,27 @@ def main():
     theme = (ROOT / 'web/selva.css').read_text(encoding='utf-8')
     theme += '\n' + (ROOT / 'web/codice.css').read_text(encoding='utf-8')
     theme += '\n' + (ROOT / 'web/arghast.css').read_text(encoding='utf-8')
-    landscape = base64.b64encode((ROOT / 'web/assets/xoltacan-selva.webp').read_bytes()).decode('ascii')
-    theme = theme.replace('assets/xoltacan-selva.webp', 'data:image/webp;base64,' + landscape)
+    theme += '\n' + (ROOT / 'web/paletas.css').read_text(encoding='utf-8')
+    theme += '\n' + (ROOT / 'web/fuentes.css').read_text(encoding='utf-8')
+    theme += '\n' + (ROOT / 'web/tipografia.css').read_text(encoding='utf-8')
+    for font in sorted((ROOT / 'web/assets/fonts').glob('*.woff2')):
+        encoded = base64.b64encode(font.read_bytes()).decode('ascii')
+        theme = theme.replace('assets/fonts/' + font.name, 'data:font/woff2;base64,' + encoded)
+    for asset in ('xoltacan-selva.webp', 'kuroto-bosque.webp', 'arghast-mapa-oficial.webp',
+                  'arghast-drawer.webp', 'xoltacan-drawer.webp', 'kuroto-drawer.webp',
+                  'xoltacan-background.webp', 'kuroto-background.webp',
+                  'xoltacan-portada.webp', 'kuroto-portada.webp', 'lichpol-logo.webp',
+                  'xoltacan-panel-paleta.webp', 'kuroto-panel-paleta.webp',
+                  'xoltacan-topbar.webp', 'kuroto-topbar.webp',
+                  'arghast-topbar.webp', 'arghast-panel.webp'):
+        landscape = base64.b64encode((ROOT / 'web/assets' / asset).read_bytes()).decode('ascii')
+        theme = theme.replace('assets/' + asset, 'data:image/webp;base64,' + landscape)
+        template = template.replace('assets/' + asset, 'data:image/webp;base64,' + landscape)
     if template.count('<!-- DATA -->') != 1 or template.count('<!-- APP -->') != 1:
         raise ValueError('La plantilla necesita un marcador DATA y un marcador APP')
     world = build_world(build_data())
+    from vistas_kuroto import refresh
+    refresh(world['campaigns']['kuroto'])
     from exportar_kuroto import export
     export(world['campaigns']['kuroto'])
     # Cada transcripción de Kuroto se abre por separado para que 181 sesiones no
@@ -111,7 +127,8 @@ def main():
     output = output.replace('<!-- APP -->', '<script>' + script.replace('</script', '<\\/script') + '</script>')
     write(ROOT / 'xoltacan.html', output)
     write(ROOT / 'arghast.html', output)
-    print(f'arghast.html y xoltacan.html: {len(output.encode("utf-8")):,} bytes; archivo de campañas integrado.')
+    write(ROOT / 'kuroto.html', output)
+    print(f'arghast.html, xoltacan.html y kuroto.html: {len(output.encode("utf-8")):,} bytes; archivo de campañas integrado.')
 
 
 if __name__ == '__main__':

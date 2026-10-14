@@ -1,0 +1,320 @@
+{
+  "capitulo": 110,
+  "estado_revision": "revisado",
+  "fuente_sha256": "0d12e1e2512a8f204f945a41738981f40de6a7e56b3ea751a91573d8dcf2d6b7",
+  "resumen": "La sesión resume una investigación entre partidas: Aka, Gur, Banzo y Danifae visitaron la avanzadilla arrasada y localizaron un rastro. Ahora la comandante autoriza seguirlo con un grupo mayor, después de dejar otro mando al cargo del campamento. Palayer se incorpora desde el frente y Kurobani llega por el portal. La enfermedad de la crisis sigue debilitando la constitución de los presentes. La convivencia aún es tensa: el visitante teme que Danifae haya atacado a Calista y Aka prefiere mantenerla cerca para vigilarla, sin disponer de una prueba concluyente. La drow recibe sus armas para la salida y explica a Gur su esperanza de liberarse de la marca mediante las esferas. Palayer ofrece ayuda frente a Lolth, pero se niega a encubrir sus malas acciones. Llegan a la posición destruida, más recogida y con un puesto de vigilancia en preparación. Las huellas de humanoides que arrastraban cuerpos se desvanecen con la lluvia y parecen ocultadas deliberadamente. Aka consigue seguirlas cuando los otros no encuentran continuidad. El ruido de alas alerta al grupo, que avanza con cautela por un desfiladero. Danifae y Kurobani permanecen ocultos; Gur y la comandante hacen ruido suficiente para llamar la atención. Al fondo descubren un oficiante recitando en abisal ante un círculo donde yace un samurái vivo. Otros cuerpos abiertos se acumulan alrededor, y varias criaturas conservan fragmentos de las armaduras del shogunato. El oficiante no abandona el ritual al ser descubierto. Gur intenta romper su concentración con una bola de fuego y Kurobani le dispara desde su escondite, pero continúa recitando. Aka llama a los rezagados, bendice a parte del grupo y activa las alas de su capa. Los enemigos se lanzan al ataque: oni y samuráis deformados se benefician de aceleración y desplazamiento proporcionados por los otros cultistas. Gur aguanta en medio de varios mientras Danifae y la comandante combaten a los que se acercan por el otro flanco. Cuando Banzo entra en la pelea, se abre camino y atraviesa al oficiante con su arpón. El ritual queda interrumpido antes de completarse. Kurobani elimina a otro cultista y rompe su conjuro de apoyo. Banzo reduce los golpes que recibe Gur mediante sus ancestros y prueba el mandoble que este le regaló, llegando a arrancar un brazo a un oni. Gur rechaza que otra criatura lo convenza de unirse a ella. Palayer castiga con daño divino a los adversarios deformados y Aka y Danifae acaban con varios más. La drow mata al oni que ataca a Kurobani después de su caída al intentar escalar. El último cultista termina sujeto por Banzo, que lo estrella contra la frente de Gur hasta destrozarle la cabeza. Ambos celebran con otro cabezazo. No conservan un interrogado. Palayer se acerca al samurái del círculo: sigue vivo, abierto en canal y ahogándose en su sangre. Intenta cerrarle las heridas con su curación divina, pero el daño es demasiado profundo y continúa sufriendo. Aka lo mata con un disparo y dispone su cuerpo en actitud de respeto. Banzo cumple su orden de decapitarlo como rito de muerte honorable. Danifae examina las criaturas y señala que parecen no muertos semejantes a los soldados secuestrados. Otros restos son solo pieles de samuráis, vaciadas por los procesos del culto. La interpretación de Banzo sobre intentos fallidos del ritual sigue siendo una explicación propuesta, no una escena presenciada. Recogen elementos identificativos y material útil sin dejar que la necesidad de metal oculte la pérdida. Gur quiere llevar restos metálicos al herrero que carece de recursos. Al coger una espada de los no muertos, una sustancia negra sube por su brazo y recuerda a Aka la influencia de la Puerta Negra. La comandante dispara para desarmarlo y el negro vuelve al arma. Banzo propone trasladar una muestra y prueba sujetarla: le ocurre lo mismo. Palayer lo golpea en la muñeca como habían acordado y consigue separarlo. Danifae se niega a tocarla; cuando le recuerdan que puede coger orbes que queman, explica que se preparó antes de llegar a Kuroto para eso, sin revelar el procedimiento. Kurobani sí consigue transportar una espada bajo protección contra el bien y el mal, renovada por Aka durante el regreso. En el campamento guardan la espada en un recipiente de cristal. Los hilos negros lo golpean antes de retraerse; Aka lo encierra a su vez en un baúl con candado y conserva la única llave. Se plantea pedir a cazadores especializados que la investiguen. Palayer ha recogido y envuelto un libro de invocación del altar, distinto del que conocen de la base, y se lo entrega a Kurobani para que llegue a los eruditos. El visitante había interrumpido también el símbolo del lugar, dejando la marca de su orden. Danifae devuelve voluntariamente las espadas a la comandante y se ofrece para otra búsqueda. Gur y Banzo se disponen a llevar al herrero los metales seguros. Antes de marcharse, Banzo arrastra a Gur hasta el monje de Sun para intentar llevárselo. Intenta noquearlo mientras distraen su atención, pero el viajero lo derriba con un toque de bastón. Gur apenas entiende qué ocurre y también queda momentáneamente aturdido. El monje recuerda que Sun debe cumplir las pruebas y encontrar su camino; la prohibición de acceso es una dificultad que corresponde resolver al discípulo. A Banzo le pide que lo ayude como amigo, sin sustituir su aprendizaje por un secuestro del guía. El intento fracasa y la reunión entre Sun y el monje sigue pendiente.",
+  "afirmaciones": [
+    {
+      "id": "110-001",
+      "titulo": "Salida autorizada tras una visita previa",
+      "tipo": "explicacion_director",
+      "afirmacion": "Una escena escrita resumida al inicio sitúa a Aka, Gur, Banzo y Danifae investigando la avanzadilla y encontrando un rastro. Ahora Aka autoriza seguirlo y suma a Palayer y Kurobani; devuelve armas a la drow para la misión.",
+      "inicio": "00:00:00.000",
+      "fin": "00:19:00.000",
+      "entidades": [
+        "Aka",
+        "Gur (grafía provisional)",
+        "Banzo",
+        "Palayer (grafía provisional)",
+        "Kurobani (grafía provisional)",
+        "Danifae (grafía provisional)"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "La visita previa se resume por el director; no se reconstruyen detalles no narrados.",
+      "cita": "rastro, así que bueno, teníais esa pista",
+      "evidencia_cue": {
+        "inicio": "00:00:35.079",
+        "fin": "00:00:38.590"
+      }
+    },
+    {
+      "id": "110-002",
+      "titulo": "Un samurái vivo en el círculo",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Aka sigue rastros de humanoides que arrastraban cuerpos hasta un lugar con un samurái cautivo en un ritual, restos abiertos y criaturas con armadura del shogunato. El ruido descubre a parte del grupo.",
+      "inicio": "00:28:00.000",
+      "fin": "00:51:30.000",
+      "entidades": [
+        "Aka",
+        "Gur (grafía provisional)",
+        "Banzo",
+        "Palayer (grafía provisional)",
+        "Kurobani (grafía provisional)",
+        "Danifae (grafía provisional)",
+        "Lugar de sacrificio del rastro meridional",
+        "Samuráis transformados del rastro meridional",
+        "Samurái cautivo del ritual meridional"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "No se presume conocida la causa exacta de la contaminación ni el resultado de investigaciones posteriores.",
+      "cita": "uno de esos samuráis heridos que parece",
+      "evidencia_cue": {
+        "inicio": "00:50:00.000",
+        "fin": "00:50:03.510"
+      }
+    },
+    {
+      "id": "110-003",
+      "titulo": "Banzo interrumpe al oficiante",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "El cultista mantiene el ritual pese a fuego y flechas. Banzo llega y lo atraviesa con el arpón, acabando con su recitación. Los otros enemigos atacan con apoyo de conjuros de sus aliados.",
+      "inicio": "00:52:00.000",
+      "fin": "01:12:00.000",
+      "entidades": [
+        "Aka",
+        "Gur (grafía provisional)",
+        "Banzo",
+        "Palayer (grafía provisional)",
+        "Kurobani (grafía provisional)",
+        "Danifae (grafía provisional)",
+        "Lugar de sacrificio del rastro meridional",
+        "Samurái cautivo del ritual meridional"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "No se presume conocida la causa exacta de la contaminación ni el resultado de investigaciones posteriores.",
+      "cita": "Vale, quiero tirarle el arpón. Venga, a",
+      "evidencia_cue": {
+        "inicio": "01:11:10.239",
+        "fin": "01:11:13.390"
+      }
+    },
+    {
+      "id": "110-004",
+      "titulo": "El grupo elimina a los adversarios",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Los cazadores vencen a cultistas, oni y samuráis transformados. Banzo protege a Gur con sus ancestros. El último cultista muere cuando Banzo lo estrella contra la frente de Gur.",
+      "inicio": "01:12:00.000",
+      "fin": "01:47:00.000",
+      "entidades": [
+        "Aka",
+        "Gur (grafía provisional)",
+        "Banzo",
+        "Palayer (grafía provisional)",
+        "Kurobani (grafía provisional)",
+        "Danifae (grafía provisional)",
+        "Samuráis transformados del rastro meridional",
+        "Lugar de sacrificio del rastro meridional"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "No se presume conocida la causa exacta de la contaminación ni el resultado de investigaciones posteriores.",
+      "cita": "Le está comiendo la cabeza.",
+      "evidencia_cue": {
+        "inicio": "01:19:49.000",
+        "fin": "01:19:51.590"
+      }
+    },
+    {
+      "id": "110-005",
+      "titulo": "No logran salvar al cautivo",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Palayer intenta sanar al samurái abierto, pero sigue sufriendo y desangrándose. Aka le dispara y ordena un tratamiento honorable con decapitación. Otros restos son pieles vacías; Danifae identifica como no muertos a los soldados transformados.",
+      "inicio": "01:47:00.000",
+      "fin": "02:01:00.000",
+      "entidades": [
+        "Aka",
+        "Banzo",
+        "Palayer (grafía provisional)",
+        "Danifae (grafía provisional)",
+        "Samuráis transformados del rastro meridional",
+        "Samurái cautivo del ritual meridional",
+        "Lugar de sacrificio del rastro meridional"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "No se presume conocida la causa exacta de la contaminación ni el resultado de investigaciones posteriores.",
+      "cita": "estado limpiando la la sangre que me ha",
+      "evidencia_cue": {
+        "inicio": "01:47:55.960",
+        "fin": "01:47:57.709"
+      }
+    },
+    {
+      "id": "110-006",
+      "titulo": "Las espadas transportan una influencia negra",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Al coger armas de los no muertos, Gur y Banzo son invadidos por hilos negros y sus compañeros los desarman. Kurobani transporta una espada protegido por el conjuro de Aka. Danifae explica que preparó algo antes de llegar para tocar orbes, sin concretarlo.",
+      "inicio": "02:01:00.000",
+      "fin": "02:10:00.000",
+      "entidades": [
+        "Aka",
+        "Gur (grafía provisional)",
+        "Banzo",
+        "Palayer (grafía provisional)",
+        "Kurobani (grafía provisional)",
+        "Danifae (grafía provisional)",
+        "Espada contaminada de los samuráis no muertos"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "No se presume conocida la causa exacta de la contaminación ni el resultado de investigaciones posteriores.",
+      "cita": "enfrente, notas como algo negro sale de",
+      "evidencia_cue": {
+        "inicio": "02:03:08.760",
+        "fin": "02:03:13.069"
+      }
+    },
+    {
+      "id": "110-007",
+      "titulo": "Espada en vidrio, libro para estudiar",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "La espada queda en cristal dentro de un baúl cerrado, con Aka como única poseedora de la llave. Palayer entrega a Kurobani el libro recogido para los investigadores. Danifae devuelve sus armas a la comandante.",
+      "inicio": "02:09:00.000",
+      "fin": "02:19:00.000",
+      "entidades": [
+        "Aka",
+        "Palayer (grafía provisional)",
+        "Kurobani (grafía provisional)",
+        "Danifae (grafía provisional)",
+        "Espada contaminada de los samuráis no muertos",
+        "Libro de invocación del sacrificio meridional"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "No se presume conocida la causa exacta de la contaminación ni el resultado de investigaciones posteriores.",
+      "cita": "candado. Solo yo tengo la llave.",
+      "evidencia_cue": {
+        "inicio": "02:11:50.719",
+        "fin": "02:11:55.470"
+      }
+    },
+    {
+      "id": "110-008",
+      "titulo": "Banzo no consigue secuestrar al guía",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Banzo intenta noquear al monje para llevarlo hasta Sun, pero este lo derriba y aturde brevemente a Gur. Insiste en que el discípulo debe cumplir las pruebas y pide a su amigo que lo ayude a encontrar el camino.",
+      "inicio": "02:19:00.000",
+      "fin": "02:24:00.000",
+      "entidades": [
+        "Banzo",
+        "Gur (grafía provisional)",
+        "Monje Tan (grafía provisional)"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "No se presume conocida la causa exacta de la contaminación ni el resultado de investigaciones posteriores.",
+      "cita": "Gucon le mandé hacer unas pruebas hasta",
+      "evidencia_cue": {
+        "inicio": "02:22:24.960",
+        "fin": "02:22:29.070"
+      }
+    }
+  ],
+  "historia": {
+    "revisado_hasta": 110,
+    "etapas": [
+      {
+        "titulo": "Continuar la pista de la avanzadilla",
+        "texto": "La sesión resume una investigación entre partidas: Aka, Gur, Banzo y Danifae visitaron la avanzadilla arrasada y localizaron un rastro. Ahora la comandante autoriza seguirlo con un grupo mayor, después de dejar otro mando al cargo del campamento. Palayer se incorpora desde el frente y Kurobani llega por el portal. La enfermedad de la crisis sigue debilitando la constitución de los presentes. La convivencia aún es tensa: el visitante teme que Danifae haya atacado a Calista y Aka prefiere mantenerla cerca para vigilarla, sin disponer de una prueba concluyente. La drow recibe sus armas para la salida y explica a Gur su esperanza de liberarse de la marca mediante las esferas. Palayer ofrece ayuda frente a Lolth, pero se niega a encubrir sus malas acciones.",
+        "referencias": [
+          "110-001"
+        ]
+      },
+      {
+        "titulo": "Huellas que la lluvia casi borra",
+        "texto": "Llegan a la posición destruida, más recogida y con un puesto de vigilancia en preparación. Las huellas de humanoides que arrastraban cuerpos se desvanecen con la lluvia y parecen ocultadas deliberadamente. Aka consigue seguirlas cuando los otros no encuentran continuidad. El ruido de alas alerta al grupo, que avanza con cautela por un desfiladero. Danifae y Kurobani permanecen ocultos; Gur y la comandante hacen ruido suficiente para llamar la atención. Al fondo descubren un oficiante recitando en abisal ante un círculo donde yace un samurái vivo. Otros cuerpos abiertos se acumulan alrededor, y varias criaturas conservan fragmentos de las armaduras del shogunato.",
+        "referencias": [
+          "110-002"
+        ]
+      },
+      {
+        "titulo": "Interrumpir el sacrificio",
+        "texto": "El oficiante no abandona el ritual al ser descubierto. Gur intenta romper su concentración con una bola de fuego y Kurobani le dispara desde su escondite, pero continúa recitando. Aka llama a los rezagados, bendice a parte del grupo y activa las alas de su capa. Los enemigos se lanzan al ataque: oni y samuráis deformados se benefician de aceleración y desplazamiento proporcionados por los otros cultistas. Gur aguanta en medio de varios mientras Danifae y la comandante combaten a los que se acercan por el otro flanco. Cuando Banzo entra en la pelea, se abre camino y atraviesa al oficiante con su arpón. El ritual queda interrumpido antes de completarse.",
+        "referencias": [
+          "110-003"
+        ]
+      },
+      {
+        "titulo": "Una victoria sin prisioneros",
+        "texto": "Kurobani elimina a otro cultista y rompe su conjuro de apoyo. Banzo reduce los golpes que recibe Gur mediante sus ancestros y prueba el mandoble que este le regaló, llegando a arrancar un brazo a un oni. Gur rechaza que otra criatura lo convenza de unirse a ella. Palayer castiga con daño divino a los adversarios deformados y Aka y Danifae acaban con varios más. La drow mata al oni que ataca a Kurobani después de su caída al intentar escalar. El último cultista termina sujeto por Banzo, que lo estrella contra la frente de Gur hasta destrozarle la cabeza. Ambos celebran con otro cabezazo. No conservan un interrogado.",
+        "referencias": [
+          "110-004"
+        ]
+      },
+      {
+        "titulo": "Lo que no consiguen salvar",
+        "texto": "Palayer se acerca al samurái del círculo: sigue vivo, abierto en canal y ahogándose en su sangre. Intenta cerrarle las heridas con su curación divina, pero el daño es demasiado profundo y continúa sufriendo. Aka lo mata con un disparo y dispone su cuerpo en actitud de respeto. Banzo cumple su orden de decapitarlo como rito de muerte honorable. Danifae examina las criaturas y señala que parecen no muertos semejantes a los soldados secuestrados. Otros restos son solo pieles de samuráis, vaciadas por los procesos del culto. La interpretación de Banzo sobre intentos fallidos del ritual sigue siendo una explicación propuesta, no una escena presenciada. Recogen elementos identificativos y material útil sin dejar que la necesidad de metal oculte la pérdida.",
+        "referencias": [
+          "110-005"
+        ]
+      },
+      {
+        "titulo": "El peligro permanece en las armas",
+        "texto": "Gur quiere llevar restos metálicos al herrero que carece de recursos. Al coger una espada de los no muertos, una sustancia negra sube por su brazo y recuerda a Aka la influencia de la Puerta Negra. La comandante dispara para desarmarlo y el negro vuelve al arma. Banzo propone trasladar una muestra y prueba sujetarla: le ocurre lo mismo. Palayer lo golpea en la muñeca como habían acordado y consigue separarlo. Danifae se niega a tocarla; cuando le recuerdan que puede coger orbes que queman, explica que se preparó antes de llegar a Kuroto para eso, sin revelar el procedimiento. Kurobani sí consigue transportar una espada bajo protección contra el bien y el mal, renovada por Aka durante el regreso.",
+        "referencias": [
+          "110-006"
+        ]
+      },
+      {
+        "titulo": "Una muestra aislada y otro libro",
+        "texto": "En el campamento guardan la espada en un recipiente de cristal. Los hilos negros lo golpean antes de retraerse; Aka lo encierra a su vez en un baúl con candado y conserva la única llave. Se plantea pedir a cazadores especializados que la investiguen. Palayer ha recogido y envuelto un libro de invocación del altar, distinto del que conocen de la base, y se lo entrega a Kurobani para que llegue a los eruditos. El visitante había interrumpido también el símbolo del lugar, dejando la marca de su orden. Danifae devuelve voluntariamente las espadas a la comandante y se ofrece para otra búsqueda. Gur y Banzo se disponen a llevar al herrero los metales seguros.",
+        "referencias": [
+          "110-007"
+        ]
+      },
+      {
+        "titulo": "El guía no se deja llevar",
+        "texto": "Antes de marcharse, Banzo arrastra a Gur hasta el monje de Sun para intentar llevárselo. Intenta noquearlo mientras distraen su atención, pero el viajero lo derriba con un toque de bastón. Gur apenas entiende qué ocurre y también queda momentáneamente aturdido. El monje recuerda que Sun debe cumplir las pruebas y encontrar su camino; la prohibición de acceso es una dificultad que corresponde resolver al discípulo. A Banzo le pide que lo ayude como amigo, sin sustituir su aprendizaje por un secuestro del guía. El intento fracasa y la reunión entre Sun y el monje sigue pendiente.",
+        "referencias": [
+          "110-008"
+        ]
+      }
+    ]
+  },
+  "misiones": [
+    "Seguir el rastro de los cuerpos de la avanzadilla: cumplido.",
+    "Interrumpir el ritual y rescatar al samurái: ritual interrumpido; cautivo muere tras fracasar la curación.",
+    "Recoger pruebas e investigar el culto: espada aislada y libro recuperado, estudio pendiente.",
+    "Llevar al guía hasta Sun por la fuerza: intento fallido."
+  ],
+  "preguntas": [
+    "¿Qué es la influencia negra de la espada y cómo estudiarla sin contagio?",
+    "¿Qué explica el libro distinto recuperado del altar?",
+    "¿Qué preparación permite a Danifae tocar las esferas sin quemarse?",
+    "¿Cómo completará Sun sus pruebas y llegará hasta el guía?"
+  ],
+  "nombres_dudosos": [
+    "El monje se oye como Sen/Sanzan/Tank, conservado bajo la ficha previa Tan.",
+    "Los oficiantes y el samurái sacrificado no reciben nombre claro."
+  ],
+  "contradicciones": [
+    "La hipótesis de intentos fallidos del ritual se atribuye a Banzo; los restos son pieles, no supervivientes recuperados.",
+    "La curación de Palayer no salva al samurái, ejecutado después por Aka.",
+    "La protección permite llevar una muestra, pero no equivale a purificar la espada."
+  ]
+}

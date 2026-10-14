@@ -1,8 +1,6 @@
 name: Publicar Arghast en GitHub Pages
 
 on:
-  push:
-    branches: [main]
   workflow_dispatch:
 
 permissions:
@@ -42,6 +40,7 @@ jobs:
         run: |
           mkdir -p _site
           cp arghast.html _site/index.html
+          cp xoltacan.html kuroto.html _site/
           if [ -d transcripciones ]; then cp -R transcripciones _site/; fi
 
       - name: Configurar GitHub Pages

@@ -1,0 +1,490 @@
+{
+  "capitulo": 165,
+  "estado_revision": "revisado",
+  "fuente_sha256": "7b6d545ab8e51cf6d9ae0930b622753c21b59c69148676eb3fd856272435cfa9",
+  "resumen": "Los cazadores viajan a Conosur para conseguir planos de armaduras que Archi sitúa en NOKIA, su fábrica familiar. El inventor está inquieto y deja conocimientos cargados en R3 antes de partir. Calista se suma pese al intento de protegerla apartándola y el grupo prepara tapaderas: ancianos, fauno, comerciante y acompañante, con Banzo cubriendo sus tatuajes. Un contacto gnomo los guía por túneles a cambio de compañía de Kazuki. Ya dentro encuentran una ciudad mucho más vigilada. El investigador paraliza y deja inconsciente al contacto cuando no consigue su ayuda; Archi acaba guardándolo en un cofre desconvocado. Kazuki evita también una detención con teletransporte y cambio de aspecto. Calista y Gelbreak escuchan en una tienda la versión de Uma: los decretos de Hacha Oxidada cierran Conosur y sus fábricas trabajan para enanos. Ella identifica al tío Maximilian y a los primos que llevan NOKIA, y reclama a Archi promesas incumplidas. Él reaparece, la persuade y promete recuperar fábrica y ciudad. Sus compañeros le roban anillos para ponerlo en un aprieto sentimental, pero no hay boda. En paralelo Guxi y Serafina sostienen sus papeles ante Patrick Cerveza Fría, otro acreedor del inventor, y confirman por su relato que la industria se vuelca en los enanos. Se reúnen para entrar por dos vías: recepción para Archi y Banzo, mercancías y disfraces para los demás. Turbius permite entrar al primo; Trevor le señala el archivo abierto y Archi aparta a Tony mediante un accidente provocado. Volver al taller lo emociona, pero no impide que encuentre con Kazuki y Gelbreak el maletín de planos. Banzo, distraído, engancha túnica y armas en la maquinaria. Entonces llega Maximilian con unos enanos negociadores que reconocen a los infiltrados: son drow disfrazados. El líder resulta ser hermano de Gelbreak y un enemigo recordado por Banzo. El primer teletransporte queda bloqueado por los contraconjuros. Serafina pelea, Kazuki ralentiza y Calista localiza magos invisibles, mientras el veneno deja al goliat inconsciente. Archi sujeta parcialmente al líder con un anillo transformado y pide reunir a todos para salir. Un daño menor despierta a Banzo y la maquinaria devuelve sus armas como un hacha de dos cuchillas, que recoge para cubrir a los otros. Calista levanta niebla, cura y luego dispersa el humo que impide verse; Banzo facilita la retirada de Guxi. Archi deja el maletín a Gelbreak, activa un contador en su armadura y prepara una pistola que no dispara balas. Cuando están juntos la usa contra la frente del bardo: entrega allí un pergamino de teletransporte que evacua a los seis a Kuroto. El gnomo queda atrás cuando la cuenta llega a uno. No ven cuerpo, pero el director confirma su muerte al cerrar la trama. Calista exige a Guxi continuar las armaduras y discuten sobre duelo y urgencia de la guerra. R3 despliega la última herencia técnica de Archi para que otro pueda terminar el trabajo.",
+  "afirmaciones": [
+    {
+      "id": "165-001",
+      "titulo": "Armaduras para la guerra que viene",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Preparan una incursión en Conosur para obtener planos de armaduras en la fábrica de la familia de Archi. Calista consigue información y se une pese al intento de mantenerla fuera. Banzo busca cumplir una petición ancestral en montañas; Archi está inquieto y carga conocimientos en R3 antes de pedirle que venga. Viajan alrededor de una semana y preparan identidades para no ser reconocidos.",
+      "inicio": "00:09:01.720",
+      "fin": "00:22:00.990",
+      "cita": "vamos a una ciudad de nomos.",
+      "entidades": [
+        "Archi",
+        "Banzo",
+        "Guxi (grafía provisional)",
+        "Serafina Hop (grafía provisional)",
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Kazuki (grafía provisional)",
+        "R3 (autómata de Archi)",
+        "Conosur (grafía provisional)",
+        "NOKIA (fábrica de la familia de Archi)",
+        "Planos de armaduras de NOKIA"
+      ],
+      "ambito": "Kuroto, sesión 165",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "165-002",
+      "titulo": "Un plan depende de alguien poco fiable",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Archi propone un contrabandista y evitar a los enanos de la ciudad vinculada a Sueño Profundo. Explica que NOKIA es su empresa familiar y que los planos deberían estar en el despacho de su tío. Kazuki adopta aspecto de fauno para seducir al contacto, Guxi y Serafina aparentan negocio sexual y Banzo oculta tatuajes. Son tapaderas acordadas, no nuevas profesiones reales de los personajes.",
+      "inicio": "00:21:00.159",
+      "fin": "00:36:01.109",
+      "cita": "la fábrica Nokia. O sea, si no vamos a",
+      "entidades": [
+        "Archi",
+        "Banzo",
+        "Guxi (grafía provisional)",
+        "Serafina Hop (grafía provisional)",
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Kazuki (grafía provisional)",
+        "Conosur (grafía provisional)",
+        "NOKIA (fábrica de la familia de Archi)",
+        "Planos de armaduras de NOKIA",
+        "Richi/Hamon (contrabandista, grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 165",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "165-003",
+      "titulo": "Un salvoconducto a cambio de compañía",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "El contacto gnomo saluda y roba una bolsa a Archi, que lo detecta. Accede a guiarlos por túneles y consigue salvoconducto atraído por la forma de Kazuki. Calista aparenta anciana y Gelbreak toma aspecto de viejo. Al entrar, el contacto lleva a Kazuki detrás de unas rocas como pago pactado; los compañeros acuerdan ayudar si lo pide.",
+      "inicio": "00:35:01.000",
+      "fin": "00:51:05.390",
+      "cita": "salvoconducto de entrada? Ya sabes que",
+      "entidades": [
+        "Archi",
+        "Banzo",
+        "Guxi (grafía provisional)",
+        "Serafina Hop (grafía provisional)",
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Kazuki (grafía provisional)",
+        "Conosur (grafía provisional)",
+        "Richi/Hamon (contrabandista, grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 165",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "165-004",
+      "titulo": "Una ciudad cerrada y militarizada",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Encuentran muchas más vagonetas y guardias de aspecto enano, una presencia nueva para Archi. Calista va a una tienda de ropa con Gelbreak y Guxi y Serafina investigan el mercado bajo sus tapaderas. El inventor reconoce a una sastre a la que dejó plantada y evita inicialmente el encuentro. La ocupación y bloqueo se conocen después por declaraciones locales.",
+      "inicio": "00:50:00.760",
+      "fin": "00:58:00.630",
+      "cita": "enanos por la ciudad y no son enanos que",
+      "entidades": [
+        "Archi",
+        "Banzo",
+        "Guxi (grafía provisional)",
+        "Serafina Hop (grafía provisional)",
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Kazuki (grafía provisional)",
+        "Conosur (grafía provisional)",
+        "Uma (sastre de Conosur, grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 165",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "165-005",
+      "titulo": "El contacto no queda muerto",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Kazuki intenta pedir ayuda al contrabandista, pero este no se jugará la vida. Lo paraliza y lo golpea expresamente de forma no letal hasta dejarlo inconsciente; luego regresa. Archi teme que los delate al despertar. Más tarde unos guardias quieren detener al investigador por haber entrado en una ciudad cerrada; él se teletransporta y recupera su apariencia de fauno, escapando sin matar a esos guardias.",
+      "inicio": "00:57:01.359",
+      "fin": "01:21:02.149",
+      "cita": "Pum. Vale. Y lo dejas inconsciente.",
+      "entidades": [
+        "Archi",
+        "Banzo",
+        "Kazuki (grafía provisional)",
+        "Conosur (grafía provisional)",
+        "Richi/Hamon (contrabandista, grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 165",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "165-006",
+      "titulo": "Lo que cuenta una ex abandonada",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "La sastre Uma cuenta a Calista que la guerra ha cerrado la ciudad a importaciones y exportaciones y que el decreto de Hacha Oxidada la obliga a trabajar para enanos. Identifica como dueño de NOKIA a Maximilian y sus hijos Teddy, Tony, Trevor y Turbius. Archi reaparece y ella le reclama promesas y dinero. Él la persuade, promete recuperar fábrica y ciudad; Calista y Gelbreak roban dos anillos para comprometerlo, pero no se celebra una boda.",
+      "inicio": "01:21:02.159",
+      "fin": "01:40:00.109",
+      "cita": "Maximilian Tuerca Spier",
+      "entidades": [
+        "Archi",
+        "Banzo",
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Conosur (grafía provisional)",
+        "Uma (sastre de Conosur, grafía provisional)",
+        "Maximilian Tuercaspier (grafía provisional)",
+        "Primos de Archi de NOKIA",
+        "NOKIA (fábrica de la familia de Archi)",
+        "Anillos de Uma"
+      ],
+      "ambito": "Kuroto, sesión 165",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "165-007",
+      "titulo": "Guardar al testigo en un cofre",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Archi encuentra al contacto inconsciente, le arregla la ropa y le deja una nota antes de meterlo en un gran cofre que desconvoca. No se muestra una liberación posterior ni una muerte por ese acto. Luego entra con Banzo en la tienda de Uma y reconoce su deuda afectiva y económica sin resolverla mediante pago mostrado.",
+      "inicio": "01:27:02.199",
+      "fin": "01:31:01.470",
+      "cita": "lo meto lo meto dentro y cierro el cofre",
+      "entidades": [
+        "Archi",
+        "Banzo",
+        "Richi/Hamon (contrabandista, grafía provisional)",
+        "Cofre extradimensional de Archi",
+        "Uma (sastre de Conosur, grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 165",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "165-008",
+      "titulo": "El negocio encubre información",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Guxi y Serafina actúan como comerciante y acompañante ante Patrick Cerveza Fría en la Espuma Húmeda. Consiguen interés y un documento de futuros negocios, no una venta efectiva de ella. El tabernero dice que Archi le debe dinero y que la fábrica trabaja para los enanos. Regresan hacia NOKIA sin obtener un acceso secreto confirmado desde la taberna.",
+      "inicio": "01:43:01.040",
+      "fin": "01:58:00.910",
+      "cita": "hombre, a este hombre, ¿vale? a Patrick",
+      "entidades": [
+        "Archi",
+        "Guxi (grafía provisional)",
+        "Serafina Hop (grafía provisional)",
+        "Patrick Cerveza Fría (grafía provisional)",
+        "Taberna de la Espuma Húmeda",
+        "Conosur (grafía provisional)",
+        "NOKIA (fábrica de la familia de Archi)"
+      ],
+      "ambito": "Kuroto, sesión 165",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "165-009",
+      "titulo": "Dos formas de entrar",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Dividen la incursión. Archi y Banzo entran por recepción y el primo Turbius permite pasar al inventor tras discutir. Calista y Gelbreak se ocultan en vagonetas; Guxi hace invisibles a él y Serafina cuando casi detectan sus orejas. Kazuki copia a un trabajador y entra actuando. En el almacén Serafina recibe el pergamino para mantener el sigilo del grupo mientras otros conservan invisibilidad.",
+      "inicio": "01:56:00.639",
+      "fin": "02:23:01.349",
+      "cita": "te fijas aquellas otras vagonetas,",
+      "entidades": [
+        "Archi",
+        "Banzo",
+        "Guxi (grafía provisional)",
+        "Serafina Hop (grafía provisional)",
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Kazuki (grafía provisional)",
+        "Conosur (grafía provisional)",
+        "NOKIA (fábrica de la familia de Archi)",
+        "Primos de Archi de NOKIA"
+      ],
+      "ambito": "Kuroto, sesión 165",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "165-010",
+      "titulo": "Planos entre recuerdos y accidentes",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Archi se emociona al volver al taller de su infancia. Trevor le dice que el archivo está abierto y Teddy duerme allí; el inventor distrae a Tony con una tuerca proyectada. Archi, Kazuki y Gelbreak buscan los documentos y encuentran el maletín de armaduras. Mientras, un hilo de la túnica de Banzo engancha sus armas en la maquinaria, incluida la espada de Gur, que terminan transformándose sin que él lo pretendiera.",
+      "inicio": "02:22:02.120",
+      "fin": "02:43:03.030",
+      "cita": "maletín, ¿vale? que están ahí todos los",
+      "entidades": [
+        "Archi",
+        "Banzo",
+        "Guxi (grafía provisional)",
+        "Serafina Hop (grafía provisional)",
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Kazuki (grafía provisional)",
+        "NOKIA (fábrica de la familia de Archi)",
+        "Planos de armaduras de NOKIA",
+        "Primos de Archi de NOKIA"
+      ],
+      "ambito": "Kuroto, sesión 165",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "165-011",
+      "titulo": "Los enanos se quitan otra piel",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Maximilian entra con negociadores de aspecto enano. Uno reconoce al grupo, llama Iblit a Gelbreak y todos revelan ser drow disfrazados. El director identifica al líder como su hermano y sustituto de un general muerto en la Infraoscuridad. Banzo lo recuerda de una pelea en montañas nevadas. Gelbreak intenta teletransportar al grupo, pero la cadena de contraconjuros de numerosos magos impide salir.",
+      "inicio": "02:39:00.080",
+      "fin": "02:51:02.510",
+      "cita": "hermano de Jerbreck. ¡Ups!",
+      "entidades": [
+        "Archi",
+        "Banzo",
+        "Guxi (grafía provisional)",
+        "Serafina Hop (grafía provisional)",
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Kazuki (grafía provisional)",
+        "Maximilian Tuercaspier (grafía provisional)",
+        "Grontreír (hermano de Gelbreak, grafía provisional)",
+        "Drow infiltrados en NOKIA",
+        "NOKIA (fábrica de la familia de Archi)",
+        "Planos de armaduras de NOKIA"
+      ],
+      "ambito": "Kuroto, sesión 165",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "165-012",
+      "titulo": "Veneno y magos invisibles",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Serafina combate, Banzo engancha al líder con arpón y este corta su red. El veneno del hermano lo deja inconsciente. Calista localiza magos invisibles por sus ruidos y avisa; Kazuki ralentiza enemigos y Guxi dispara con magia y torretas. Archi inmoviliza parcialmente al líder con un anillo agrandado y entrega el maletín a Gelbreak, insistiendo en reunir a los compañeros para salir.",
+      "inicio": "02:50:02.479",
+      "fin": "03:11:00.590",
+      "cita": "Ahí te va el veneno y tirar salvación de",
+      "entidades": [
+        "Archi",
+        "Banzo",
+        "Guxi (grafía provisional)",
+        "Serafina Hop (grafía provisional)",
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Kazuki (grafía provisional)",
+        "Grontreír (hermano de Gelbreak, grafía provisional)",
+        "Drow infiltrados en NOKIA",
+        "NOKIA (fábrica de la familia de Archi)",
+        "Planos de armaduras de NOKIA",
+        "Anillos de Uma"
+      ],
+      "ambito": "Kuroto, sesión 165",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "165-013",
+      "titulo": "Armas nuevas entre las máquinas",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Un pequeño daño accidental despierta a Banzo. La maquinaria entrega un arma distinta, un hacha de mano de dos cuchillas surgida de sus armas atrapadas. La recoge y avanza a cubrir la retirada. No es una fabricación voluntaria previa ni se atribuyen estadísticas que no se leen completas. Los enemigos continúan hostigando mientras intentan reunirse.",
+      "inicio": "03:10:01.319",
+      "fin": "03:20:01.189",
+      "cita": "sale una especie de hacha, pero es como",
+      "entidades": [
+        "Archi",
+        "Banzo",
+        "Guxi (grafía provisional)",
+        "Serafina Hop (grafía provisional)",
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Kazuki (grafía provisional)",
+        "Grontreír (hermano de Gelbreak, grafía provisional)",
+        "Drow infiltrados en NOKIA",
+        "NOKIA (fábrica de la familia de Archi)",
+        "Hacha surgida de las armas de Banzo"
+      ],
+      "ambito": "Kuroto, sesión 165",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "165-014",
+      "titulo": "Humo para que nadie interrumpa",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Calista cubre con niebla y cura a Gelbreak mientras los demás se acercan. Archi activa un contador en su armadura y prepara la pistola para cuando estén juntos. Banzo facilita el movimiento de Guxi y se retira. Otra nube oculta al grupo incluso al bardo, por lo que Calista la dispersa con viento para que vuelva a ver a quienes debe evacuar.",
+      "inicio": "03:18:00.000",
+      "fin": "03:30:00.630",
+      "cita": "para crear esa nube, ¿vale? Eh, ¿dónde",
+      "entidades": [
+        "Archi",
+        "Banzo",
+        "Guxi (grafía provisional)",
+        "Serafina Hop (grafía provisional)",
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Kazuki (grafía provisional)",
+        "Drow infiltrados en NOKIA",
+        "NOKIA (fábrica de la familia de Archi)",
+        "Pistola de pergaminos de Archi",
+        "Armadura de combate de Archi"
+      ],
+      "ambito": "Kuroto, sesión 165",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "165-015",
+      "titulo": "El último disparo no lleva una bala",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Archi desea a Guxi que brille y dispara a la frente de Gelbreak con una pistola que transporta un pergamino de teletransporte. Se activa y envía a Calista, Gelbreak, Kazuki, Banzo, Guxi y Serafina a la base de Kuroto. El contador de su armadura llega a tres, dos, uno mientras él queda atrás: no aparece con ellos ni ven su cadáver durante la evacuación.",
+      "inicio": "03:29:01.080",
+      "fin": "03:34:00.229",
+      "cita": "con con el pergamino de de teleport",
+      "entidades": [
+        "Archi",
+        "Banzo",
+        "Guxi (grafía provisional)",
+        "Serafina Hop (grafía provisional)",
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Kazuki (grafía provisional)",
+        "R3 (autómata de Archi)",
+        "Pistola de pergaminos de Archi",
+        "Armadura de combate de Archi",
+        "NOKIA (fábrica de la familia de Archi)",
+        "Planos de armaduras de NOKIA"
+      ],
+      "ambito": "Kuroto, sesión 165",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "165-016",
+      "titulo": "Una herencia que también es una orden",
+      "tipo": "explicacion_director",
+      "afirmacion": "De regreso, Gelbreak conserva el maletín y Calista entrega a Guxi la responsabilidad de fabricar armaduras cuanto antes. Él reclama una disculpa por priorizar números ante la pérdida; ella responde que intenta evitar más muertos en la guerra. R3 muestra los conocimientos que Archi le cargó al inicio para ayudar al artífice. Aunque los personajes no han visto cuerpo, el director confirma fuera de escena que Archi murió y que quería cerrar su trama.",
+      "inicio": "03:32:01.399",
+      "fin": "03:38:16.520",
+      "cita": "cerrar el trama de Archi. Murió. Así que",
+      "entidades": [
+        "Archi",
+        "Banzo",
+        "Guxi (grafía provisional)",
+        "Serafina Hop (grafía provisional)",
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Kazuki (grafía provisional)",
+        "R3 (autómata de Archi)",
+        "Planos de armaduras de NOKIA",
+        "Armadura de combate de Archi"
+      ],
+      "ambito": "Kuroto, sesión 165",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    }
+  ],
+  "historia": {
+    "revisado_hasta": 165,
+    "etapas": [
+      {
+        "titulo": "Volver donde no quieren que pronuncien su nombre",
+        "texto": "Los cazadores viajan a Conosur para conseguir planos de armaduras que Archi sitúa en NOKIA, su fábrica familiar. El inventor está inquieto y deja conocimientos cargados en R3 antes de partir. Calista se suma pese al intento de protegerla apartándola y el grupo prepara tapaderas: ancianos, fauno, comerciante y acompañante, con Banzo cubriendo sus tatuajes. Un contacto gnomo los guía por túneles a cambio de compañía de Kazuki. Ya dentro encuentran una ciudad mucho más vigilada. El investigador paraliza y deja inconsciente al contacto cuando no consigue su ayuda; Archi acaba guardándolo en un cofre desconvocado. Kazuki evita también una detención con teletransporte y cambio de aspecto.",
+        "referencias": [
+          "165-001",
+          "165-002",
+          "165-003",
+          "165-004",
+          "165-005",
+          "165-007"
+        ]
+      },
+      {
+        "titulo": "Las deudas siguen en la ciudad",
+        "texto": "Calista y Gelbreak escuchan en una tienda la versión de Uma: los decretos de Hacha Oxidada cierran Conosur y sus fábricas trabajan para enanos. Ella identifica al tío Maximilian y a los primos que llevan NOKIA, y reclama a Archi promesas incumplidas. Él reaparece, la persuade y promete recuperar fábrica y ciudad. Sus compañeros le roban anillos para ponerlo en un aprieto sentimental, pero no hay boda. En paralelo Guxi y Serafina sostienen sus papeles ante Patrick Cerveza Fría, otro acreedor del inventor, y confirman por su relato que la industria se vuelca en los enanos. Se reúnen para entrar por dos vías: recepción para Archi y Banzo, mercancías y disfraces para los demás.",
+        "referencias": [
+          "165-006",
+          "165-008",
+          "165-009"
+        ]
+      },
+      {
+        "titulo": "La fábrica que fabrica otra trampa",
+        "texto": "Turbius permite entrar al primo; Trevor le señala el archivo abierto y Archi aparta a Tony mediante un accidente provocado. Volver al taller lo emociona, pero no impide que encuentre con Kazuki y Gelbreak el maletín de planos. Banzo, distraído, engancha túnica y armas en la maquinaria. Entonces llega Maximilian con unos enanos negociadores que reconocen a los infiltrados: son drow disfrazados. El líder resulta ser hermano de Gelbreak y un enemigo recordado por Banzo. El primer teletransporte queda bloqueado por los contraconjuros. Serafina pelea, Kazuki ralentiza y Calista localiza magos invisibles, mientras el veneno deja al goliat inconsciente. Archi sujeta parcialmente al líder con un anillo transformado y pide reunir a todos para salir.",
+        "referencias": [
+          "165-009",
+          "165-010",
+          "165-011",
+          "165-012"
+        ]
+      },
+      {
+        "titulo": "Un inventor se queda junto al contador",
+        "texto": "Un daño menor despierta a Banzo y la maquinaria devuelve sus armas como un hacha de dos cuchillas, que recoge para cubrir a los otros. Calista levanta niebla, cura y luego dispersa el humo que impide verse; Banzo facilita la retirada de Guxi. Archi deja el maletín a Gelbreak, activa un contador en su armadura y prepara una pistola que no dispara balas. Cuando están juntos la usa contra la frente del bardo: entrega allí un pergamino de teletransporte que evacua a los seis a Kuroto. El gnomo queda atrás cuando la cuenta llega a uno. No ven cuerpo, pero el director confirma su muerte al cerrar la trama. Calista exige a Guxi continuar las armaduras y discuten sobre duelo y urgencia de la guerra. R3 despliega la última herencia técnica de Archi para que otro pueda terminar el trabajo.",
+        "referencias": [
+          "165-013",
+          "165-014",
+          "165-015",
+          "165-016"
+        ]
+      }
+    ]
+  },
+  "misiones": [
+    "Construir las armaduras con los planos y el conocimiento de R3.",
+    "Atender la pérdida de Archi y las disputas del grupo.",
+    "Determinar lo ocurrido en la fábrica tras la evacuación.",
+    "Resolver la retención del contacto y las deudas dejadas en Conosur."
+  ],
+  "preguntas": [
+    "¿Qué alcance tuvo la explosión en NOKIA y qué pasó con los enemigos?",
+    "¿Podrá Guxi terminar a tiempo las armaduras?",
+    "¿Qué ocurrirá con el contacto retenido en el cofre?",
+    "¿Cómo afectará al grupo la pérdida de Archi y la respuesta de Calista?"
+  ],
+  "nombres_dudosos": [
+    "Richi/Richi Pincho Sigiloso y Hamon/Jamón aparecen intercambiados para el mismo contacto funcional; alias provisional pendiente.",
+    "Uma/Oma: sastre que reclama a Archi deudas y promesas.",
+    "Maximilian Tuercaspier/Caspier/Tuerca Spier: tío de Archi; no es Maximiliano/Toby pirata de 161.",
+    "Grontreír: hermano de Gelbreak cuyo nombre se muestra con ASR dudoso.",
+    "NOKIA: núcleo operativo de constructos de ingenieros arcanos del Conosur, según Archi."
+  ],
+  "contradicciones": [
+    "El director confirma la muerte de Archi al final; los personajes no ven cadáver ni impacto completo.",
+    "Los negocios sexuales son tapaderas; el contacto cae inconsciente de forma expresamente no letal.",
+    "La aparente presencia enana en la fábrica resulta drow disfrazados; no se concluye que todo enano de la ciudad sea una ilusión.",
+    "Maximilian queda sorprendido al revelarse los drow: no se da por confirmada complicidad informada."
+  ]
+}

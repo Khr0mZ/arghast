@@ -1,0 +1,316 @@
+{
+  "capitulo": 164,
+  "estado_revision": "revisado",
+  "fuente_sha256": "dadab9eb6f1657cb5de2da8916cb8a3c6759c9f02109ca92512d752d688b22e0",
+  "resumen": "Guxi termina su máquina portuaria y empieza a supervisar mercancías. Kurobane quiere aprovechar la información de Danifae y se suma Ikari, que sale por un rato de su taberna y vida familiar. La drow propone seguir el dinero de los cultistas hasta una casa de inversiones. Entran invisibles para buscar pruebas y evitar matar a personas cuya culpa desconocen. La actividad visible parece normal. Mientras el ninja alcanza la bóveda, Guxi detecta una cifra repetida en la contabilidad y la relacionan con una caja. Detienen la iniciativa de Danifae de atacar sola y coordinan una neutralización no letal de los tres empleados. La clave abre unas escaleras ocultas y una puerta cultista confirma que el banco esconde mucho más. El subsuelo contiene dormitorios y celdas. Kurobane despierta a dos cultistas al entrar y los mata; en otras salas los compañeros encuentran gente golpeada, hambrienta y encadenada. Les muestran el collar y prometen liberarlos cuando despejen el peligro. El ruido trae guardianes y criaturas convertidas. Ikari responde con magia y perro de sombra, Guxi sostiene torretas protectoras, el ninja maniobra mediante su eco y Danifae combate con látigo. Los símbolos del recinto remiten a demonios conocidos, pero no explican todavía el altar. La puerta central está cerrada; la drow presta herramientas y, al abrirla, descubren que los enemigos los esperaban. Rayos y daño necrótico reciben a los intrusos. Sakura carga la sala de miasma y veneno, destruye una torreta y controla el acceso. Ikari aturde a varios y rompe una parálisis, pero la oscuridad y el cuello de botella dificultan también ayudar a los compañeros. Guxi sobrevive a una desintegración; Kurobane roza la caída y se retira. Danifae apresa con el látigo mientras el tanuki invoca una mano que llega a sujetar a la líder. Ella lo incapacita y deshace sus efectos. Guxi la mata, aunque ni el control sobre Ikari ni todos los peligros del templo desaparecen inmediatamente. Todavía deben vencer refuerzos y resistir su aura. Ikari logra salir de su incapacidad y los cuatro terminan de destruir a los enemigos. Han sobrevivido muy castigados. Buscan respuestas en el altar y el cadáver de Sakura, pero no comprenden su función ni encuentran por sí mismos una prueba nueva concluyente. Danifae toma algo con tal rapidez que no identifican el objeto. Rechazan su propuesta de ofrecer una cabeza cortada y cumplen la promesa a los cautivos: los sacan a todos y avisan a guardias y shogunato de lo que se esconde bajo la casa de inversiones. Queda una prueba material contra el recinto y una pregunta pendiente para la drow que oculta parte del hallazgo.",
+  "afirmaciones": [
+    {
+      "id": "164-001",
+      "titulo": "Seguir el dinero",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Guxi ha terminado la máquina portuaria de Calista y supervisa mercancías. Kurobane trae información de Danifae sobre un templo cercano; Ikari se suma para dejar por un rato su taberna y familia. La drow explica que ha seguido ingresos de cultistas relacionados con capital y shogunato. Los lleva a una casa de inversiones donde, según ella, blanquean dinero, citando a Tiari pero sin prueba documental todavía.",
+      "inicio": "00:00:00.560",
+      "fin": "00:15:01.110",
+      "cita": "bastante dinero con la capital y con el",
+      "entidades": [
+        "Guxi (grafía provisional)",
+        "Kurobane",
+        "Danifae (grafía provisional)",
+        "Ikari",
+        "Casa de inversiones de la capital",
+        "Cultistas de Otakemaru"
+      ],
+      "ambito": "Kuroto, sesión 164",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "164-002",
+      "titulo": "Invisibles entre clientes normales",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "El grupo entra invisible buscando documentos sin matar a empleados comunes. Hay clientes, guardias privados y oficinas ordinarias. Guxi conoce la distribución y busca contabilidad, Ikari vigila y el ninja sube hacia la bóveda con Danifae. No encuentran símbolos incriminatorios a simple vista ni toman la actividad bancaria normal por prueba de culto.",
+      "inicio": "00:15:01.120",
+      "fin": "00:39:00.829",
+      "cita": "Siempre puedo hacernos invisibles a",
+      "entidades": [
+        "Guxi (grafía provisional)",
+        "Kurobane",
+        "Danifae (grafía provisional)",
+        "Ikari",
+        "Casa de inversiones de la capital"
+      ],
+      "ambito": "Kuroto, sesión 164",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "164-003",
+      "titulo": "Un número repetido",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Guxi identifica un número extraño repetido en documentos y lo relacionan con una caja fuerte vista por Kurobane. La drow estaba preparando atacar a una archivista y la detienen para coordinarse. El número se ilustra con cifras cambiantes: importa su repetición y función, no canonizar la broma numérica como clave exacta estable.",
+      "inicio": "00:39:00.839",
+      "fin": "00:54:00.430",
+      "cita": "45, 63, como diciendo números y después",
+      "entidades": [
+        "Guxi (grafía provisional)",
+        "Kurobane",
+        "Danifae (grafía provisional)",
+        "Ikari",
+        "Casa de inversiones de la capital",
+        "Código de la caja fuerte cultista"
+      ],
+      "ambito": "Kuroto, sesión 164",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "164-004",
+      "titulo": "Una bóveda que oculta escaleras",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Acuerdan neutralizar a los tres empleados de forma no letal y los dejan inconscientes, atados y amordazados. Al introducir el número se abre una caja fuerte que revela escaleras hacia abajo. En la humedad encuentran una puerta con símbolo cultista: aparece la prueba material de un recinto oculto bajo la entidad. No se atribuye culpabilidad a todos los trabajadores.",
+      "inicio": "00:53:00.640",
+      "fin": "01:03:01.789",
+      "cita": "y lo que veis es son unas escaleras.",
+      "entidades": [
+        "Guxi (grafía provisional)",
+        "Kurobane",
+        "Danifae (grafía provisional)",
+        "Ikari",
+        "Casa de inversiones de la capital",
+        "Código de la caja fuerte cultista",
+        "Templo cultista bajo la casa de inversiones"
+      ],
+      "ambito": "Kuroto, sesión 164",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "164-005",
+      "titulo": "Dormitorios y víctimas",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Kurobane investiga con su eco, entra mal en un dormitorio y mata a dos cultistas despertados. En otras habitaciones hallan cautivos: una geisha, un hombre desnutrido y un samurái entre ellos, además de otro grupo. Prometen sacarlos después para no exponerlos al combate. El collar de cazador ayuda a tranquilizarlos, sin que las heridas desaparezcan aún.",
+      "inicio": "01:03:01.799",
+      "fin": "01:19:02.149",
+      "cita": "Había una sala con prisioneros.",
+      "entidades": [
+        "Guxi (grafía provisional)",
+        "Kurobane",
+        "Danifae (grafía provisional)",
+        "Ikari",
+        "Templo cultista bajo la casa de inversiones",
+        "Cultistas de Otakemaru",
+        "Cautivos del templo bajo la casa de inversiones"
+      ],
+      "ambito": "Kuroto, sesión 164",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "164-006",
+      "titulo": "Un recinto que adora demonios",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Derrotan a un guardián de aliento gélido, criaturas convertidas y cultistas atraídos por ruido. Guxi protege con torretas, Ikari lanza magia y perro de sombra, Kurobane golpea desde posiciones de su eco y Danifae emplea látigo. Reconocen símbolos de demonios ya enfrentados en una pila ritual. El hallazgo demuestra culto demoníaco, sin describir un mecanismo de altar todavía desconocido.",
+      "inicio": "01:19:02.159",
+      "fin": "01:54:00.470",
+      "cita": "un nueve. Eh, ves símbolos, pero no",
+      "entidades": [
+        "Guxi (grafía provisional)",
+        "Kurobane",
+        "Danifae (grafía provisional)",
+        "Ikari",
+        "Templo cultista bajo la casa de inversiones",
+        "Cultistas de Otakemaru"
+      ],
+      "ambito": "Kuroto, sesión 164",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "164-007",
+      "titulo": "Los esperan tras la puerta",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Danifae presta herramientas al ninja para abrir la puerta central. Los enemigos preparan rayos y ataques, y la líder Sakura añade daño necrótico que destruye una torreta. La sala se carga de miasma y parálisis. Ikari logra aturdir a varios y romper la inmovilización de Kurobane; Sakura levanta una nube venenosa que oscurece el acceso.",
+      "inicio": "01:53:00.360",
+      "fin": "02:15:01.910",
+      "cita": "Sakura esta que la tenéis aquí en medio,",
+      "entidades": [
+        "Guxi (grafía provisional)",
+        "Kurobane",
+        "Danifae (grafía provisional)",
+        "Ikari",
+        "Templo cultista bajo la casa de inversiones",
+        "Cultistas de Otakemaru",
+        "Sakura (líder cultista, grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 164",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "164-008",
+      "titulo": "La oscuridad no protege de todo",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Entre veneno, rayos y refuerzos, el grupo intenta salir del cuello de botella. La líder resiste daño de fuerza y su desintegración hiere gravemente a Guxi, sin matarlo. Kurobane se acerca con sus copias, recibe tanto daño que roza la caída y debe retirarse; mantener oscuridad también limita la ayuda entre aliados. Danifae sujeta enemigos con látigo e Ikari intenta controlar con una mano mágica.",
+      "inicio": "02:13:00.320",
+      "fin": "02:42:02.269",
+      "cita": "desintegré,",
+      "entidades": [
+        "Guxi (grafía provisional)",
+        "Kurobane",
+        "Danifae (grafía provisional)",
+        "Ikari",
+        "Templo cultista bajo la casa de inversiones",
+        "Sakura (líder cultista, grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 164",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "164-009",
+      "titulo": "La líder cae y el control continúa",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "La mano de Ikari agarra a Sakura, pero ella lo incapacita con palabra de poder y rompe sus efectos. Guxi acaba matando a la líder. La incapacitación no cesa automáticamente con su muerte y el tanuki necesita superar la salvación después. El templo todavía aporta daño y refuerzos: no termina todo al caer la sacerdotisa.",
+      "inicio": "02:42:02.279",
+      "fin": "03:01:01.469",
+      "cita": "Toma para ti, Stun automático. Adiós,",
+      "entidades": [
+        "Guxi (grafía provisional)",
+        "Kurobane",
+        "Danifae (grafía provisional)",
+        "Ikari",
+        "Templo cultista bajo la casa de inversiones",
+        "Sakura (líder cultista, grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 164",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "164-010",
+      "titulo": "Limpiar el frente antes de rescatar",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Guxi reconstruye protección y dispara, Danifae elimina criaturas, Ikari se libera y usa heridas necróticas y Kurobane remata al último enemigo. El grupo queda vivo pero muy castigado. El cierre de combate permite investigar el altar sin comprender su función y volver a por los cautivos.",
+      "inicio": "03:00:02.880",
+      "fin": "03:12:00.550",
+      "cita": "uno menos. Está el último.",
+      "entidades": [
+        "Guxi (grafía provisional)",
+        "Kurobane",
+        "Danifae (grafía provisional)",
+        "Ikari",
+        "Templo cultista bajo la casa de inversiones",
+        "Cultistas de Otakemaru",
+        "Cautivos del templo bajo la casa de inversiones"
+      ],
+      "ambito": "Kuroto, sesión 164",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "164-011",
+      "titulo": "Algo desaparece entre sus dedos",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "La búsqueda del cadáver no da respuestas claras a los cazadores. Danifae encuentra algo y lo esconde con manos demasiado rápidas para identificarlo. Rechazan llevar la cabeza de la cultista como obsequio y sacan a todos los prisioneros. Se da por avisados guardias y shogunato sobre el templo bajo la casa de inversiones. Queda pendiente preguntar a la drow por lo que ocultó.",
+      "inicio": "03:11:02.520",
+      "fin": "03:16:13.560",
+      "cita": "veis que sus manos son demasiado rápidas",
+      "entidades": [
+        "Guxi (grafía provisional)",
+        "Kurobane",
+        "Danifae (grafía provisional)",
+        "Ikari",
+        "Templo cultista bajo la casa de inversiones",
+        "Casa de inversiones de la capital",
+        "Sakura (líder cultista, grafía provisional)",
+        "Cautivos del templo bajo la casa de inversiones",
+        "Objeto ocultado por Danifae en el templo"
+      ],
+      "ambito": "Kuroto, sesión 164",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    }
+  ],
+  "historia": {
+    "revisado_hasta": 164,
+    "etapas": [
+      {
+        "titulo": "Un templo se financia en la superficie",
+        "texto": "Guxi termina su máquina portuaria y empieza a supervisar mercancías. Kurobane quiere aprovechar la información de Danifae y se suma Ikari, que sale por un rato de su taberna y vida familiar. La drow propone seguir el dinero de los cultistas hasta una casa de inversiones. Entran invisibles para buscar pruebas y evitar matar a personas cuya culpa desconocen. La actividad visible parece normal. Mientras el ninja alcanza la bóveda, Guxi detecta una cifra repetida en la contabilidad y la relacionan con una caja. Detienen la iniciativa de Danifae de atacar sola y coordinan una neutralización no letal de los tres empleados. La clave abre unas escaleras ocultas y una puerta cultista confirma que el banco esconde mucho más.",
+        "referencias": [
+          "164-001",
+          "164-002",
+          "164-003",
+          "164-004"
+        ]
+      },
+      {
+        "titulo": "Prometer una salida a los encadenados",
+        "texto": "El subsuelo contiene dormitorios y celdas. Kurobane despierta a dos cultistas al entrar y los mata; en otras salas los compañeros encuentran gente golpeada, hambrienta y encadenada. Les muestran el collar y prometen liberarlos cuando despejen el peligro. El ruido trae guardianes y criaturas convertidas. Ikari responde con magia y perro de sombra, Guxi sostiene torretas protectoras, el ninja maniobra mediante su eco y Danifae combate con látigo. Los símbolos del recinto remiten a demonios conocidos, pero no explican todavía el altar. La puerta central está cerrada; la drow presta herramientas y, al abrirla, descubren que los enemigos los esperaban.",
+        "referencias": [
+          "164-005",
+          "164-006",
+          "164-007"
+        ]
+      },
+      {
+        "titulo": "El precio de quedarse en la puerta",
+        "texto": "Rayos y daño necrótico reciben a los intrusos. Sakura carga la sala de miasma y veneno, destruye una torreta y controla el acceso. Ikari aturde a varios y rompe una parálisis, pero la oscuridad y el cuello de botella dificultan también ayudar a los compañeros. Guxi sobrevive a una desintegración; Kurobane roza la caída y se retira. Danifae apresa con el látigo mientras el tanuki invoca una mano que llega a sujetar a la líder. Ella lo incapacita y deshace sus efectos. Guxi la mata, aunque ni el control sobre Ikari ni todos los peligros del templo desaparecen inmediatamente. Todavía deben vencer refuerzos y resistir su aura.",
+        "referencias": [
+          "164-007",
+          "164-008",
+          "164-009"
+        ]
+      },
+      {
+        "titulo": "La investigación no acaba con los cadáveres",
+        "texto": "Ikari logra salir de su incapacidad y los cuatro terminan de destruir a los enemigos. Han sobrevivido muy castigados. Buscan respuestas en el altar y el cadáver de Sakura, pero no comprenden su función ni encuentran por sí mismos una prueba nueva concluyente. Danifae toma algo con tal rapidez que no identifican el objeto. Rechazan su propuesta de ofrecer una cabeza cortada y cumplen la promesa a los cautivos: los sacan a todos y avisan a guardias y shogunato de lo que se esconde bajo la casa de inversiones. Queda una prueba material contra el recinto y una pregunta pendiente para la drow que oculta parte del hallazgo.",
+        "referencias": [
+          "164-010",
+          "164-011"
+        ]
+      }
+    ]
+  },
+  "misiones": [
+    "Interrogar a Danifae sobre el objeto que escondió.",
+    "Investigar las cuentas y responsabilidades de la casa de inversiones.",
+    "Comprobar si quedan más focos cultistas."
+  ],
+  "preguntas": [
+    "¿Qué retiró Danifae del cadáver de Sakura?",
+    "¿Quién financia y controla realmente la casa de inversiones?",
+    "¿Para qué sirve el altar del templo?"
+  ],
+  "nombres_dudosos": [
+    "Sakura es la grafía ASR dada a la líder, no se fusiona por parecido con otros personajes.",
+    "Ikari/Icari tanuki de taberna y familia: se conserva separado de jugadores y otros nombres similares."
+  ],
+  "contradicciones": [
+    "La expresión ASR «matar a esta gente y amordazarlos» se resuelve por contexto y director: empleados inconscientes, atados y amordazados; no muerte confirmada.",
+    "Derrotar este templo no confirma exterminio de todos los cultistas de la campaña.",
+    "El objeto de Danifae sigue desconocido: el director invita a preguntarle por escrito posteriormente."
+  ]
+}

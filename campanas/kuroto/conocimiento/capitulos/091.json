@@ -1,0 +1,324 @@
+{
+  "capitulo": 91,
+  "estado_revision": "revisado",
+  "fuente_sha256": "d298995f13d5d53ca7debda5e63a8242201fc3f3bf755b7e569b8490225ce965",
+  "resumen": "Calista y Banzo llegan en barco a Sho siguiendo la recomendación de Rodrigo y Gelbreak. Ikari y Shiru les ofrecen una visita mucho menos solemne que la imagen de los cazadores que imaginaba la emisaria: hay pan, bromas sobre el ejercicio de la cabeza, una biblioteca que el ciervo apenas puede aprovechar y una base llena de criaturas difíciles de clasificar. Banzo acepta inmediatamente la amistad que Shiru le ofrece mediante comida; el ciervo compra una caja de pan para compartir. Ikari prepara el letrero de su futuro local, El saco del tanuki, aunque todavía espera ayuda económica y no presenta un negocio abierto. Calista, acostumbrada a la corte, intenta adaptarse a una ciudad y unas costumbres que le resultan nuevas. En la base de Sho, Tip y Top siguen sin armas y bajo arresto doméstico pese a las averiguaciones sobre el asesinato. Lor Miao contempla a Calista como posible alimento. La tritón recurre a su magia para entender la conversación y deja clara su condición de persona y enviada de la corte del rey dragón. El nekomata explica con naturalidad que Gluglu también llegó de aquella corte y que se lo comió antes de revivirlo. La explicación horroriza a Calista; consigue apaciguar al gato prometiendo pescado. Su primera visita permite conocer una guilda acogedora y poderosa, pero también descuidada y peligrosa para quien desconoce las costumbres de sus habitantes. Inugami llega con una noticia concreta: el portal de Sho ya está conectado con la base de Ukio. Los cuatro lo prueban y aparecen en la sede original tras un viaje que revuelve el estómago de Calista. La red todavía no está terminada; faltan el sur y la conexión de Hakara, cuyo emplazamiento el constructor pregunta a los recién llegados. Shizuka recibe con entusiasmo a Calista y Banzo y anima a la barda a unirse a los cazadores. Al mismo tiempo reclama las visitas que le deben sus compañeros. Ha estado leyendo los libros de Sir y muestra una capacidad alarmante al lanzar un rayo desintegrador contra el perro de sombras que Ikari ofrece para practicar. Danifae, presente en la base, afirma haberla acompañado durante esas ausencias. Danifae entrega a Ikari un mapa de unas ruinas del bosque próximo a Ukio. Dice haber descubierto allí sacrificios de tanuki y advierte de las trampas que casi la alcanzaron. Para Ikari la noticia es personal y decide investigar; los otros tres le acompañan. Antes pasan por la taberna, donde Kitaro sirve una comida abundante, celebra todo lo que la guilda hizo por el pueblo y lamenta que sus miembros apenas regresen. Shiru vuelve a ver a Zogia y recuerda al tabernero sus primeros días de ciervo asustadizo, cuando recibía pan a escondidas. También se encuentran con la madame, que les reprocha haber dejado criaturas y una niña a cargo de los vecinos. Según cuenta, lleva meses ocupándose de alimentarlas y tuvieron que sacar a Shizuka del bosque. Calista y Banzo causan una impresión mucho más favorable que sus anfitriones. Las ruinas no parecen una base recién ocupada: la vegetación, el polvo, los papeles deshechos y el deterioro revelan un abandono prolongado. Calista detecta huellas de alguien que trató de pasar inadvertido y procura pisar sobre ellas. La oscuridad dificulta a Shiru y Banzo seguir a sus compañeros, y una trampa de dardos hiere a todos. Encuentran celdas con huesos pequeños y un almacén con máscaras, ropas y documentos en su mayoría ilegibles. Ikari conserva un diario de cultista para leerlo con tiempo; Calista recoge prendas y adopta un disfraz, pese al malestar que la máscara provoca al tanuki. Al abrir otra sala descubren el verdadero horror: un tanuki descuartizado sobre un círculo, como si algo mayor hubiera salido de su interior. Banzo reconoce palabras abisales relativas al poder y al sacrificio. Calista calcula que lleva muerto siete u ocho meses e Ikari copia las marcas, sin averiguar todavía qué criatura se invocó. Ikari quiere derrumbar el enclave donde profanaron a los suyos. Banzo cubre el cadáver como muestra de respeto, aunque no se narra que lo saquen para enterrarlo. Calista pide una última inspección y descubre un libro grueso, cerrado y con inscripciones que no entiende. En la cubierta aparecen un toro armado con mazo, un buey con espada y una puerta negra; entre ambos destaca un demonio de cuatro brazos que la llena de terror. Guarda el volumen sin abrirlo para consultarlo con alguien capaz de estudiarlo. Después Ikari destruye las columnas con sus rayos y los cuatro escapan antes de que los escombros bloqueen el paso. Vuelven a Ukio abatidos. Calista ofrece ayudar a celebrar un rito tritón por las víctimas esa noche, pero la ceremonia queda pendiente. También comparte con Ikari la desconfianza hacia Danifae: el lugar estaba abandonado desde hacía meses y su información parecía conducirlos a algo más que una operación activa. La posibilidad de que persiguiera los libros permanece como sospecha, mientras ambos documentos siguen sin una lectura completa.",
+  "afirmaciones": [
+    {
+      "id": "91-001",
+      "titulo": "De Hakara a una guilda desconcertante",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Calista y Banzo llegan en barco a Sho recomendados por Rodrigo y Gelbreak. Ikari y Shiru les muestran la ciudad y la base; Banzo estrecha su amistad con el ciervo compartiendo pan, mientras Calista intenta comprender las costumbres de los cazadores.",
+      "inicio": "00:00:00.000",
+      "fin": "00:44:30.000",
+      "entidades": [
+        "Shiru (grafía provisional)",
+        "Yari (grafía provisional)",
+        "Calista",
+        "Banzo",
+        "Base de los cazadores en Sho"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "El alcance se limita a los sucesos mostrados en esta sesión.",
+      "cita": "Panzo, eh, y lo ha ido conociendo un",
+      "evidencia_cue": {
+        "inicio": "00:01:19.880",
+        "fin": "00:01:22.190"
+      }
+    },
+    {
+      "id": "91-002",
+      "titulo": "Lor Miao cuenta el destino de Gluglu",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Lor Miao dice a Calista que Gluglu también vino de la corte del dragón y que se lo comió sin que le hubiesen avisado, tras lo cual lo revivió. Calista evita convertirse en otra presa ofreciéndose a conseguirle pescado.",
+      "inicio": "00:44:30.000",
+      "fin": "00:48:10.000",
+      "entidades": [
+        "Calista",
+        "Lor Miao (grafía provisional)"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "Es la explicación del nekomata, no una comprobación independiente de cada detalle del suceso pasado.",
+      "cita": "comí.\"",
+      "evidencia_cue": {
+        "inicio": "00:46:07.640",
+        "fin": "00:46:10.309"
+      }
+    },
+    {
+      "id": "91-003",
+      "titulo": "Primer viaje por el portal Sho–Ukio",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Inugami anuncia que el portal está terminado y conectado con Ukio; los cuatro lo atraviesan y llegan a la base original. El constructor aún tiene que conectar el sur y comprobar el emplazamiento de Hakara.",
+      "inicio": "00:49:45.000",
+      "fin": "01:02:00.000",
+      "entidades": [
+        "Inugami constructor de Ukio",
+        "Calista",
+        "Banzo",
+        "Yari (grafía provisional)",
+        "Shiru (grafía provisional)",
+        "Base de los cazadores en Sho",
+        "Base de los cazadores en Ukio"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "El alcance se limita a los sucesos mostrados en esta sesión.",
+      "cita": "momento lo tengo conectado a Ukio. Me",
+      "evidencia_cue": {
+        "inicio": "00:52:41.960",
+        "fin": "00:52:44.230"
+      }
+    },
+    {
+      "id": "91-004",
+      "titulo": "Shizuka, desintegración y una pista de Danifae",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Shizuka recibe a los recién llegados, lamenta el abandono de sus compañeros y practica un rayo desintegrador contra el perro de sombras de Ikari. Danifae entrega un mapa de unas ruinas próximas y asegura haber encontrado sacrificios de tanuki y trampas.",
+      "inicio": "01:05:25.000",
+      "fin": "01:20:15.000",
+      "entidades": [
+        "Shizuka (grafía provisional)",
+        "Danifae (grafía provisional)",
+        "Yari (grafía provisional)",
+        "Calista",
+        "Ruinas del ritual tanuki de Ukio"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "La existencia de la pista y del mapa es observada; el relato inicial de Danifae sobre lo encontrado sigue siendo una declaración suya.",
+      "cita": "sacrificando a los de tu",
+      "evidencia_cue": {
+        "inicio": "01:15:31.320",
+        "fin": "01:15:33.910"
+      }
+    },
+    {
+      "id": "91-005",
+      "titulo": "Las deudas afectivas de Ukio",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Kitaro reconoce cuánto ayudaron los cazadores a Ukio, pero les reprocha sus ausencias. La madame afirma que lleva meses alimentando a sus criaturas y que ha tenido que sacar a Shizuka del bosque; recibe con simpatía y promesas de regalos a Calista y Banzo.",
+      "inicio": "01:29:00.000",
+      "fin": "01:51:40.000",
+      "entidades": [
+        "Kitaro (grafía provisional)",
+        "Madame del burdel (grafía provisional Hana)",
+        "Shizuka (grafía provisional)",
+        "Yari (grafía provisional)",
+        "Shiru (grafía provisional)",
+        "Calista",
+        "Banzo"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "Los cuidados y el incidente del bosque son testimonios de los vecinos; no se muestran retrospectivamente.",
+      "cita": "trayendo otro, yo no voy a alimentar a",
+      "evidencia_cue": {
+        "inicio": "01:48:00.880",
+        "fin": "01:48:02.870"
+      }
+    },
+    {
+      "id": "91-006",
+      "titulo": "Un enclave abandonado con huellas discretas",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Las ruinas indicadas por Danifae presentan polvo y deterioro antiguos, pero Calista descubre huellas de una visitante que trató de ocultar su paso. Hay celdas con pequeños restos, una trampa de dardos y un almacén con ropas y máscaras de cultista; Ikari recoge un diario y Calista conserva disfraces.",
+      "inicio": "01:53:00.000",
+      "fin": "02:14:05.000",
+      "entidades": [
+        "Ruinas del ritual tanuki de Ukio",
+        "Yari (grafía provisional)",
+        "Calista",
+        "Diario del cultista de las ruinas tanuki"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "El tamaño de los huesos de las celdas no identifica por sí solo a todas sus víctimas; seguir las huellas no constituye una identificación forense de su autora.",
+      "cita": "encuentras un pequeño diario, también",
+      "evidencia_cue": {
+        "inicio": "02:10:43.520",
+        "fin": "02:10:46.750"
+      }
+    },
+    {
+      "id": "91-007",
+      "titulo": "El tanuki abierto en el círculo",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Encuentran un tanuki sacrificado y abierto sobre un círculo ritual, del que parece haber salido algo mayor que él. Banzo traduce palabras abisales como poder y sacrificio; Calista estima que el cadáver lleva allí siete u ocho meses. Ikari copia el círculo sin llegar a identificar la criatura invocada.",
+      "inicio": "02:16:00.000",
+      "fin": "02:23:55.000",
+      "entidades": [
+        "Ruinas del ritual tanuki de Ukio",
+        "Yari (grafía provisional)",
+        "Calista",
+        "Banzo"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "La interpretación necromántica y de canalización es aproximada; no se confirma que fuese un oni ni qué especie concreta salió.",
+      "cita": "como para una especie de sacrificio",
+      "evidencia_cue": {
+        "inicio": "02:17:58.359",
+        "fin": "02:18:01.190"
+      }
+    },
+    {
+      "id": "91-008",
+      "titulo": "Un libro que representa a los guardianes de la puerta",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Antes de destruir el enclave, Calista encuentra un volumen cerrado con inscripciones desconocidas. Su cubierta representa un toro con mazo, un buey con espada, una puerta negra y un demonio de cuatro brazos cuya imagen la aterra. Lo guarda para estudiarlo con personas mejor preparadas, sin abrirlo.",
+      "inicio": "02:26:00.000",
+      "fin": "02:31:15.000",
+      "entidades": [
+        "Calista",
+        "Libro de invocación de la Puerta Negra",
+        "Ruinas del ritual tanuki de Ukio"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "La imagen recuerda la amenaza de la Puerta Negra, pero el texto del libro aún no ha sido descifrado y no se verifica el nombre del demonio.",
+      "cita": "demonio con cuernos. y cuatro brazos,",
+      "evidencia_cue": {
+        "inicio": "02:29:42.279",
+        "fin": "02:29:45.990"
+      }
+    },
+    {
+      "id": "91-009",
+      "titulo": "Derrumbe y regreso con preguntas abiertas",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Tras permitir una última búsqueda, Ikari lanza rayos contra las columnas; todos salen antes de que el techo se desplome y el acceso quede bloqueado. De regreso a Ukio, Calista propone un rito tritón en memoria de las víctimas. Ella e Ikari desconfían de la información de Danifae y sospechan que pudiera interesarle algún libro.",
+      "inicio": "02:31:15.000",
+      "fin": "02:38:50.000",
+      "entidades": [
+        "Yari (grafía provisional)",
+        "Calista",
+        "Banzo",
+        "Shiru (grafía provisional)",
+        "Ruinas del ritual tanuki de Ukio",
+        "Diario del cultista de las ruinas tanuki",
+        "Libro de invocación de la Puerta Negra",
+        "Danifae (grafía provisional)"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "El rito se propone para esa noche y aún no se celebra. La intención de Danifae respecto a los libros es una sospecha de los personajes, no una revelación confirmada.",
+      "cita": "arriba y se está empezando derrumbar el",
+      "evidencia_cue": {
+        "inicio": "02:32:19.840",
+        "fin": "02:32:22.349"
+      }
+    }
+  ],
+  "historia": {
+    "revisado_hasta": 91,
+    "etapas": [
+      {
+        "titulo": "Una bienvenida entre pan, sake y desconcierto",
+        "texto": "Calista y Banzo llegan en barco a Sho siguiendo la recomendación de Rodrigo y Gelbreak. Ikari y Shiru les ofrecen una visita mucho menos solemne que la imagen de los cazadores que imaginaba la emisaria: hay pan, bromas sobre el ejercicio de la cabeza, una biblioteca que el ciervo apenas puede aprovechar y una base llena de criaturas difíciles de clasificar. Banzo acepta inmediatamente la amistad que Shiru le ofrece mediante comida; el ciervo compra una caja de pan para compartir. Ikari prepara el letrero de su futuro local, El saco del tanuki, aunque todavía espera ayuda económica y no presenta un negocio abierto. Calista, acostumbrada a la corte, intenta adaptarse a una ciudad y unas costumbres que le resultan nuevas.",
+        "referencias": [
+          "91-001"
+        ]
+      },
+      {
+        "titulo": "La embajada y el gato que confundía personas con comida",
+        "texto": "En la base de Sho, Tip y Top siguen sin armas y bajo arresto doméstico pese a las averiguaciones sobre el asesinato. Lor Miao contempla a Calista como posible alimento. La tritón recurre a su magia para entender la conversación y deja clara su condición de persona y enviada de la corte del rey dragón. El nekomata explica con naturalidad que Gluglu también llegó de aquella corte y que se lo comió antes de revivirlo. La explicación horroriza a Calista; consigue apaciguar al gato prometiendo pescado. Su primera visita permite conocer una guilda acogedora y poderosa, pero también descuidada y peligrosa para quien desconoce las costumbres de sus habitantes.",
+        "referencias": [
+          "91-001",
+          "91-002"
+        ]
+      },
+      {
+        "titulo": "Un enlace que ya funciona y una niña que no han visitado",
+        "texto": "Inugami llega con una noticia concreta: el portal de Sho ya está conectado con la base de Ukio. Los cuatro lo prueban y aparecen en la sede original tras un viaje que revuelve el estómago de Calista. La red todavía no está terminada; faltan el sur y la conexión de Hakara, cuyo emplazamiento el constructor pregunta a los recién llegados. Shizuka recibe con entusiasmo a Calista y Banzo y anima a la barda a unirse a los cazadores. Al mismo tiempo reclama las visitas que le deben sus compañeros. Ha estado leyendo los libros de Sir y muestra una capacidad alarmante al lanzar un rayo desintegrador contra el perro de sombras que Ikari ofrece para practicar. Danifae, presente en la base, afirma haberla acompañado durante esas ausencias.",
+        "referencias": [
+          "91-003",
+          "91-004"
+        ]
+      },
+      {
+        "titulo": "Una pista personal y los reproches del hogar",
+        "texto": "Danifae entrega a Ikari un mapa de unas ruinas del bosque próximo a Ukio. Dice haber descubierto allí sacrificios de tanuki y advierte de las trampas que casi la alcanzaron. Para Ikari la noticia es personal y decide investigar; los otros tres le acompañan. Antes pasan por la taberna, donde Kitaro sirve una comida abundante, celebra todo lo que la guilda hizo por el pueblo y lamenta que sus miembros apenas regresen. Shiru vuelve a ver a Zogia y recuerda al tabernero sus primeros días de ciervo asustadizo, cuando recibía pan a escondidas. También se encuentran con la madame, que les reprocha haber dejado criaturas y una niña a cargo de los vecinos. Según cuenta, lleva meses ocupándose de alimentarlas y tuvieron que sacar a Shizuka del bosque. Calista y Banzo causan una impresión mucho más favorable que sus anfitriones.",
+        "referencias": [
+          "91-004",
+          "91-005"
+        ]
+      },
+      {
+        "titulo": "Un archivo viejo sobre una matanza que sigue doliendo",
+        "texto": "Las ruinas no parecen una base recién ocupada: la vegetación, el polvo, los papeles deshechos y el deterioro revelan un abandono prolongado. Calista detecta huellas de alguien que trató de pasar inadvertido y procura pisar sobre ellas. La oscuridad dificulta a Shiru y Banzo seguir a sus compañeros, y una trampa de dardos hiere a todos. Encuentran celdas con huesos pequeños y un almacén con máscaras, ropas y documentos en su mayoría ilegibles. Ikari conserva un diario de cultista para leerlo con tiempo; Calista recoge prendas y adopta un disfraz, pese al malestar que la máscara provoca al tanuki. Al abrir otra sala descubren el verdadero horror: un tanuki descuartizado sobre un círculo, como si algo mayor hubiera salido de su interior. Banzo reconoce palabras abisales relativas al poder y al sacrificio. Calista calcula que lleva muerto siete u ocho meses e Ikari copia las marcas, sin averiguar todavía qué criatura se invocó.",
+        "referencias": [
+          "91-006",
+          "91-007"
+        ]
+      },
+      {
+        "titulo": "Salvar lo que se puede leer y sepultar el lugar",
+        "texto": "Ikari quiere derrumbar el enclave donde profanaron a los suyos. Banzo cubre el cadáver como muestra de respeto, aunque no se narra que lo saquen para enterrarlo. Calista pide una última inspección y descubre un libro grueso, cerrado y con inscripciones que no entiende. En la cubierta aparecen un toro armado con mazo, un buey con espada y una puerta negra; entre ambos destaca un demonio de cuatro brazos que la llena de terror. Guarda el volumen sin abrirlo para consultarlo con alguien capaz de estudiarlo. Después Ikari destruye las columnas con sus rayos y los cuatro escapan antes de que los escombros bloqueen el paso. Vuelven a Ukio abatidos. Calista ofrece ayudar a celebrar un rito tritón por las víctimas esa noche, pero la ceremonia queda pendiente. También comparte con Ikari la desconfianza hacia Danifae: el lugar estaba abandonado desde hacía meses y su información parecía conducirlos a algo más que una operación activa. La posibilidad de que persiguiera los libros permanece como sospecha, mientras ambos documentos siguen sin una lectura completa.",
+        "referencias": [
+          "91-007",
+          "91-008",
+          "91-009"
+        ]
+      }
+    ]
+  },
+  "misiones": [
+    "Investigar el sacrificio de tanuki: ruinas inspeccionadas y derrumbadas; diario, símbolos y volumen pendientes de estudio.",
+    "Completar la red de portales: Sho–Ukio operativo; conexiones sur y Hakara pendientes.",
+    "Celebrar el rito tritón por las víctimas: propuesta aceptada, aún no realizada."
+  ],
+  "preguntas": [
+    "¿Qué criatura surgió del tanuki y qué significan todos los símbolos del ritual?",
+    "¿Qué información contienen el diario y el volumen cerrado rescatados de las ruinas?",
+    "¿Qué pretendía Danifae al conducirlos a un enclave abandonado desde hacía meses?",
+    "¿Quién asumirá de forma estable el cuidado de Shizuka y de las criaturas de la base de Ukio?"
+  ],
+  "nombres_dudosos": [
+    "Jingokunomori/Jikokunomori: bosque cercano a Ukio; no se impone nueva grafía sobre el Bosque del Infierno.",
+    "Shiru es llamado Shiretsu/Siretsu; se mantiene la identidad del ciervo guerrero.",
+    "La madame es llamada Jone en la transcripción; se conserva la ficha funcional de la madame de Ukio."
+  ],
+  "contradicciones": [
+    "Danifae presenta una pista urgente sobre cultistas, pero el lugar está abandonado y el cadáver tiene siete u ocho meses. Esto despierta sospechas sin demostrar una mentira concreta sobre la existencia del sacrificio.",
+    "El comentario inicial considera el portal de Sho inactivo; Inugami llega después, anuncia su finalización y se prueba con éxito el enlace a Ukio."
+  ]
+}

@@ -1,0 +1,370 @@
+{
+  "capitulo": 146,
+  "estado_revision": "revisado",
+  "fuente_sha256": "b5f79d4b20ee780ef871f51ddc9cd036d4b603651a28e11685090b1038d16ac4",
+  "resumen": "Guxi termina la comunicación del campamento del sur: ya existen piedras en Ukio y la base cazadora y solo queda palacio. Calista recibe su informe sobre unos guardianes que no restaurarán la protección y mantiene urgente la defensa de los puertos. La exploración de alcantarillas añade hombres rata y otras presencias a sus preocupaciones. Una discusión anterior con Gelbreak quedó encauzada gracias a Banzo, pero hoy intenta salir del trabajo y acompaña al artífice hacia el puerto. Allí está el acceso mágico al Spa de las Maravillas, donde Serafina ya busca distancia y reposo. El anfitrión se multiplica entre piscinas y tratamientos, y el grupo deja el equipo en vestuarios. Calista y Serafina se apartan a la sauna para hablar. La capitana distingue al forastero de la flor marina, un sueño íntimo y la ayuda de Kurobane, sin afirmar sexo con ninguno; sus temores sobre Guxi siguen siendo su interpretación. Calista muestra la cicatriz y relata el ataque de Danifae, advirtiendo que no tome sus insinuaciones como verdad. El calor termina por afectarla y Serafina la conduce al agua fría. Más tarde reciben manicura, mientras Guxi gana una apuesta de resistencia a Nori y explica su pasado administrativo. Las dos mujeres beben y gastan bromas: Nomi huye con el bañador encogido y Gelbreak acaba entre cosquillas. Guxi aprovecha el encuentro para pedir hablar. Cuenta el abandono infantil, la ausencia paterna y aquel primer amor no correspondido, a cuya boda fue invitado. Dice que su frase nació del recuerdo y que desea a Serafina, no a la otra mujer. Ella expone cuánto le duele sentirse reemplazada y utilizada otra vez. Sigue amándolo, pero necesita pensar y no le da una respuesta inmediata. Él acepta esperar: la conversación abre sinceridad sin restituir el compromiso. La pausa se rompe cuando una tortuga dragón emerge destrozando la piscina. Los encuentra con poco equipo y a Calista todavía ebria. Serafina recupera sus vendas, Gelbreak se protege con copias, Guxi crea torretas y la shogun se transforma en dragón de agua. Los alientos de fuego castigan al grupo. Guxi decide acelerar a Serafina, que aprovecha sus golpes y movilidad para sostener la lucha. El último disparo de una torreta hunde al monstruo muerto; Gelbreak impide que Calista lo persiga y la ayuda a salir. Guxi cura las heridas de Serafina con su consentimiento, sin que eso la obligue a perdonarlo. El encargado habla de apariciones recurrentes de tortugas y de contratar control de plagas, sin confesar una trampa. Recuperan sus pertenencias y regresan a los muelles. Calista y Gelbreak quieren continuar de tabernas, pero Serafina rechaza acompañarlos para tener espacio después del combate y de la discusión. Guxi queda cerca, cabizbajo, manteniendo la promesa de esperar.",
+  "afirmaciones": [
+    {
+      "id": "146-001",
+      "titulo": "Las comunicaciones ya unen tres instalaciones",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Guxi confirma que la piedra del campamento del sur está terminada y que ya están las de Ukio y la base cazadora. Solo falta palacio, cuya instalación calcula en uno o dos días. Informa a Calista de que los guardianes son fuerzas de la naturaleza que no les darán otra protección. Ella asume que deberán defenderse por sus medios; no se instala aquí todavía la piedra de palacio.",
+      "inicio": "00:00:00.080",
+      "fin": "00:18:02.510",
+      "cita": "menos en la piedra del campamento sur la",
+      "entidades": [
+        "Guxi",
+        "Calista",
+        "Proyecto de torre resonadora de Guxi"
+      ],
+      "ambito": "Kuroto, sesión 146",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "146-002",
+      "titulo": "Puertos urgentes y alcantarillas inquietantes",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Calista relata una exploración de alcantarillas donde vio hombres rata y otras presencias perturbadoras. Una discusión con Gelbreak por celos e inseguridad en combate terminó con mediación de Banzo. Ahora exige a Guxi avanzar en la protección portuaria frente a mercenarios e infiltrados, pues teme perder recursos de guerra. Él acepta buscar ideas y la acompaña al puerto; no entrega aún el invento ni elimina la amenaza.",
+      "inicio": "00:00:00.080",
+      "fin": "00:19:01.390",
+      "cita": "los puertos,",
+      "entidades": [
+        "Calista",
+        "Guxi",
+        "Gelbreak (grafía provisional)",
+        "Banzo",
+        "Alcantarillas de Sho"
+      ],
+      "ambito": "Kuroto, sesión 146",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "146-003",
+      "titulo": "Un acceso mágico al Spa de las Maravillas",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Serafina busca relajarse y amenaza al rakshasa encargado cuando desconfía de su péndulo. Él explica que permite transportarla, ella acepta mirarlo y desaparece hacia el spa. Guxi, Calista y Gelbreak siguen el mismo acceso. La pareja reconoce ropajes del desierto de Amnem y acude con intención de investigar. El recurso mágico de transporte no prueba por sí solo engaño o secuestro.",
+      "inicio": "00:24:01.960",
+      "fin": "00:36:00.190",
+      "cita": "mire aquí y ves que saca un péndulo.",
+      "entidades": [
+        "Serafina Hop (grafía provisional)",
+        "Guxi",
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Racterion (grafía provisional)",
+        "Spa de las Maravillas"
+      ],
+      "ambito": "Kuroto, sesión 146",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "146-004",
+      "titulo": "Un resort con copias de su anfitrión",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "El spa ofrece piscinas fría, caliente y central, tratamientos de uñas y saunas. Dejan armaduras y armas en los vestuarios; Gelbreak guarda las suyas en su bolsa. El encargado aparece en varios puntos y muestra una copia de sí mismo ante Calista y Serafina. Ellas se separan para pasar tiempo juntas, investigar y dar espacio a Serafina, que evita por ahora hablar con Guxi.",
+      "inicio": "00:33:00.679",
+      "fin": "00:57:01.630",
+      "cita": "puerta, hace como un otro grnito pequeño",
+      "entidades": [
+        "Calista",
+        "Serafina Hop (grafía provisional)",
+        "Guxi",
+        "Gelbreak (grafía provisional)",
+        "Racterion (grafía provisional)",
+        "Spa de las Maravillas"
+      ],
+      "ambito": "Kuroto, sesión 146",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "146-005",
+      "titulo": "Serafina distingue sueño y realidad",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Serafina cuenta a Calista que otro forastero amable le regaló una flor marina y protagonizó un sueño íntimo suyo. Aclara que no hubo relación física con él; también dice que Kurobane le prestó su cama y durmió en la mesa. Afirma que su único contacto carnal reciente ha sido con Guxi. Su interpretación de que él ama a otra mujer sigue siendo su temor, no una confirmación de los sentimientos del artífice.",
+      "inicio": "01:00:00.760",
+      "fin": "01:10:00.430",
+      "cita": "soñé nada más este la poderosa",
+      "entidades": [
+        "Serafina Hop (grafía provisional)",
+        "Calista",
+        "Guxi",
+        "Kurobane",
+        "Forastero de la flor marina"
+      ],
+      "ambito": "Kuroto, sesión 146",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "146-006",
+      "titulo": "La cicatriz y la advertencia sobre Danifae",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Serafina ve una gran cicatriz en el abdomen de Calista. La shogun cuenta que Danifae la apuñaló en el bosque tras ayudar a Gur con su maestro y casi murió desangrada. Añade la amenaza contra Arwen y su intención de llevar a la prisionera a juicio cuando sea oportuno. Le recomienda desconfiar de sus palabras. No se celebra juicio ni se convierte su hipérbole sobre mentiras en prueba de que cada acusación de Danifae sea falsa.",
+      "inicio": "01:12:02.800",
+      "fin": "01:17:02.390",
+      "cita": "gran gran cicatriz que está en la parte",
+      "entidades": [
+        "Calista",
+        "Serafina Hop (grafía provisional)",
+        "Danifae (grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 146",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "146-007",
+      "titulo": "Calor, manicura y una apuesta",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "La sauna reseca y marea a Calista; Serafina la ayuda a llegar al agua fría y se recupera. Reciben manicura y sombreros que protegen del sol. Guxi compite con Nori por resistir más tiempo en la sauna, le cuenta su pasado administrativo y gana ciento cincuenta monedas. Gelbreak recibe un cóctel que permite hablar y respirar bajo el agua. Nadie muere por el calor ni se confirma un envenenamiento.",
+      "inicio": "01:18:01.239",
+      "fin": "01:46:00.870",
+      "cita": "que sean 150",
+      "entidades": [
+        "Calista",
+        "Serafina Hop (grafía provisional)",
+        "Guxi",
+        "Nori (grafía provisional)",
+        "Gelbreak (grafía provisional)",
+        "Sombreros fashion del spa"
+      ],
+      "ambito": "Kuroto, sesión 146",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "146-008",
+      "titulo": "El pasado administrativo de Guxi",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Guxi explica a Nori que trabajó como administrativo del shogunato, perdió el puesto por errores ajenos y no pudo entonces reunir pruebas suficientes. Dice que ya cuenta con ellas, recuperó su condición cazadora y no quiere volver al antiguo puesto aunque Calista se lo ofrezca. Es su relato biográfico, sin una nueva sentencia o restitución administrativa mostrada aquí.",
+      "inicio": "01:39:00.400",
+      "fin": "01:44:06.229",
+      "cita": "administrativos",
+      "entidades": [
+        "Guxi",
+        "Nori (grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 146",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "146-009",
+      "titulo": "Las bromas de dos amigas ebrias",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Serafina gana una competición de bebida que deja a ambas ebrias. Calista encoge el bañador de Nomi y el noble se retira incómodo. Después intentan sorprender a Gelbreak en el agua; él las detecta y terminan haciéndole cosquillas, pese a una orden que Serafina consigue resistir. No hay combate con los nobles ni castigo posterior mostrado por las bromas.",
+      "inicio": "01:45:01.199",
+      "fin": "02:04:01.629",
+      "cita": "encogerle al bañador.",
+      "entidades": [
+        "Serafina Hop (grafía provisional)",
+        "Calista",
+        "Nomi (grafía provisional)",
+        "Gelbreak (grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 146",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "146-010",
+      "titulo": "Guxi cuenta lo que despertó la carta",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Guxi pide hablar con Serafina y cuenta que su madre lo abandonó a los seis años, su padre era ausente y su maestro fue su figura paterna. A los dieciséis convivió con dos nuevos hermanos; la mujer, su primer amor no correspondido, prefirió al otro y ahora van a casarse entre sí. Atribuye su frase a la nostalgia de aquella etapa y afirma que ya no la ama. Pide una oportunidad con Serafina sin que su explicación obligue a ella a perdonarlo.",
+      "inicio": "02:03:00.679",
+      "fin": "02:13:05.830",
+      "cita": "Cuando tenía 6 años, mi madre",
+      "entidades": [
+        "Guxi",
+        "Serafina Hop (grafía provisional)",
+        "Hermanastra de Guxi",
+        "Padre bardo de Guxi"
+      ],
+      "ambito": "Kuroto, sesión 146",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "146-011",
+      "titulo": "Serafina pide tiempo, sin reconciliación",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Serafina expresa sentirse usada y herida como en su pasado pirata, teme que los sentimientos de Guxi cambien al ver a su primer amor y no acepta que se acerque mientras habla. Dice que sigue amándolo, pero necesita pensar antes de responder si volverán. Él acepta esperar. La conversación no restaura el compromiso ni confirma como hecho que él esté enamorado de la otra mujer.",
+      "inicio": "02:10:00.719",
+      "fin": "02:24:02.070",
+      "cita": "pensarlo",
+      "entidades": [
+        "Serafina Hop (grafía provisional)",
+        "Guxi"
+      ],
+      "ambito": "Kuroto, sesión 146",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "146-012",
+      "titulo": "Una tortuga dragón rompe el descanso",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Tiembla el spa y una enorme tortuga dragón rompe la piscina. Ataca con aliento ígneo y golpes mientras los visitantes tienen el equipo guardado y Calista sigue ebria. Serafina recupera las vendas, Gelbreak usa duplicados e inspiración, Guxi invoca torretas y Calista adopta forma de dragón de agua. El monstruo no es uno de los guardianes de la prueba anterior ni se demuestra que el anfitrión lo haya enviado.",
+      "inicio": "02:22:00.280",
+      "fin": "02:39:59.990",
+      "cita": "una enorme tortuga dragón.",
+      "entidades": [
+        "Serafina Hop (grafía provisional)",
+        "Guxi",
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Tortuga dragón del Spa de las Maravillas",
+        "Spa de las Maravillas"
+      ],
+      "ambito": "Kuroto, sesión 146",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "146-013",
+      "titulo": "Confianza en combate y victoria",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Calista reprende al monstruo con magia mental y aliento acuático mientras Gelbreak aguanta con sus copias. Guxi acelera a Serafina, confiando en ella para golpear más veces y retirarse con movilidad. Tras varios alientos que hieren al grupo, el artífice acierta el último golpe con una torreta: la tortuga se hunde muerta en el mar. Gelbreak detiene a Calista, que pretende seguirla, y la ayuda a recuperarse.",
+      "inicio": "02:39:01.279",
+      "fin": "02:55:02.469",
+      "cita": "con el haste, así que otro ataque.",
+      "entidades": [
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Guxi",
+        "Serafina Hop (grafía provisional)",
+        "Tortuga dragón del Spa de las Maravillas"
+      ],
+      "ambito": "Kuroto, sesión 146",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "146-014",
+      "titulo": "Curarse no resuelve la ruptura",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Guxi ofrece curar a Serafina y ella permite que cierre sus heridas, sin prometer reconciliación. Racterion lamenta otra aparición de esas tortugas y habla de necesitar control de plagas. Recuperan sus cosas y vuelven a los muelles. Calista invita a Serafina a seguir de tabernas, pero ella prefiere respirar y estar tranquila. Se separan con la pareja aún rota y Guxi aceptando el tiempo que le piden.",
+      "inicio": "02:54:00.920",
+      "fin": "03:04:13.479",
+      "cita": "el tiempo que necesites.",
+      "entidades": [
+        "Guxi",
+        "Serafina Hop (grafía provisional)",
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Racterion (grafía provisional)",
+        "Spa de las Maravillas"
+      ],
+      "ambito": "Kuroto, sesión 146",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    }
+  ],
+  "historia": {
+    "revisado_hasta": 146,
+    "etapas": [
+      {
+        "titulo": "Trabajo que avanza y descanso aplazado",
+        "texto": "Guxi termina la comunicación del campamento del sur: ya existen piedras en Ukio y la base cazadora y solo queda palacio. Calista recibe su informe sobre unos guardianes que no restaurarán la protección y mantiene urgente la defensa de los puertos. La exploración de alcantarillas añade hombres rata y otras presencias a sus preocupaciones. Una discusión anterior con Gelbreak quedó encauzada gracias a Banzo, pero hoy intenta salir del trabajo y acompaña al artífice hacia el puerto. Allí está el acceso mágico al Spa de las Maravillas, donde Serafina ya busca distancia y reposo.",
+        "referencias": [
+          "146-001",
+          "146-002",
+          "146-003"
+        ]
+      },
+      {
+        "titulo": "Lo que cuentan mientras descansan",
+        "texto": "El anfitrión se multiplica entre piscinas y tratamientos, y el grupo deja el equipo en vestuarios. Calista y Serafina se apartan a la sauna para hablar. La capitana distingue al forastero de la flor marina, un sueño íntimo y la ayuda de Kurobane, sin afirmar sexo con ninguno; sus temores sobre Guxi siguen siendo su interpretación. Calista muestra la cicatriz y relata el ataque de Danifae, advirtiendo que no tome sus insinuaciones como verdad. El calor termina por afectarla y Serafina la conduce al agua fría. Más tarde reciben manicura, mientras Guxi gana una apuesta de resistencia a Nori y explica su pasado administrativo.",
+        "referencias": [
+          "146-004",
+          "146-005",
+          "146-006",
+          "146-007",
+          "146-008"
+        ]
+      },
+      {
+        "titulo": "Una conversación que no puede cerrarse de golpe",
+        "texto": "Las dos mujeres beben y gastan bromas: Nomi huye con el bañador encogido y Gelbreak acaba entre cosquillas. Guxi aprovecha el encuentro para pedir hablar. Cuenta el abandono infantil, la ausencia paterna y aquel primer amor no correspondido, a cuya boda fue invitado. Dice que su frase nació del recuerdo y que desea a Serafina, no a la otra mujer. Ella expone cuánto le duele sentirse reemplazada y utilizada otra vez. Sigue amándolo, pero necesita pensar y no le da una respuesta inmediata. Él acepta esperar: la conversación abre sinceridad sin restituir el compromiso.",
+        "referencias": [
+          "146-009",
+          "146-010",
+          "146-011"
+        ]
+      },
+      {
+        "titulo": "El spa bajo ataque",
+        "texto": "La pausa se rompe cuando una tortuga dragón emerge destrozando la piscina. Los encuentra con poco equipo y a Calista todavía ebria. Serafina recupera sus vendas, Gelbreak se protege con copias, Guxi crea torretas y la shogun se transforma en dragón de agua. Los alientos de fuego castigan al grupo. Guxi decide acelerar a Serafina, que aprovecha sus golpes y movilidad para sostener la lucha. El último disparo de una torreta hunde al monstruo muerto; Gelbreak impide que Calista lo persiga y la ayuda a salir.",
+        "referencias": [
+          "146-012",
+          "146-013"
+        ]
+      },
+      {
+        "titulo": "El tiempo que todavía necesitan",
+        "texto": "Guxi cura las heridas de Serafina con su consentimiento, sin que eso la obligue a perdonarlo. El encargado habla de apariciones recurrentes de tortugas y de contratar control de plagas, sin confesar una trampa. Recuperan sus pertenencias y regresan a los muelles. Calista y Gelbreak quieren continuar de tabernas, pero Serafina rechaza acompañarlos para tener espacio después del combate y de la discusión. Guxi queda cerca, cabizbajo, manteniendo la promesa de esperar.",
+        "referencias": [
+          "146-014"
+        ]
+      }
+    ]
+  },
+  "misiones": [
+    "Terminar la instalación de la piedra de palacio y diseñar protección para los puertos.",
+    "Investigar las presencias en las alcantarillas sin dar la exploración por resuelta.",
+    "Respetar el tiempo que pide Serafina antes de decidir el futuro de la pareja."
+  ],
+  "preguntas": [
+    "¿Cuándo quedará instalada la piedra de palacio y qué protección portuaria preparará Guxi?",
+    "¿Qué esconden los hombres rata y las otras presencias de las alcantarillas?",
+    "¿Qué decidirá Serafina después de escuchar a Guxi?",
+    "¿Quién es el forastero de la flor marina y cómo se relaciona con el sueño de Serafina?",
+    "¿Se llevará a juicio a Danifae por el ataque a Calista y la amenaza a Arwen?"
+  ],
+  "nombres_dudosos": [
+    "Racterion/Raquectio/Rterion: nombre del rakshasa encargado, provisional.",
+    "Nori en la sauna y Nomi del bañador se mantienen separados por roles y grafías; no fusionarlos automáticamente.",
+    "El forastero de la flor no es Kurobane: la conversación los distingue.",
+    "Calista compra un anillo de sintonización a Gelbreak; los guantes que recibe no se identifican con precisión, por lo que no se inventa su efecto."
+  ],
+  "contradicciones": [
+    "Serafina pide tiempo: no se reconcilian al terminar la sesión.",
+    "Su afirmación de que Guxi ama a otra es interpretación dolida; él declara lo contrario y atribuye la frase a nostalgia.",
+    "La aclaración sobre Kurobane en146 matiza las bromas sobre una noche intensa en145: aquí dice que él durmió en mesa y ella en cama, sin contacto carnal.",
+    "El transporte por péndulo y la duplicación del anfitrión son hechos mágicos, no evidencia suficiente de una conspiración.",
+    "La tortuga es una criatura diferente de los guardianes de145 y cae muerta sin resurgir en esta sesión.",
+    "La piedra del sur está terminada; palacio sigue pendiente. No confundir el viaje al spa con instalación realizada."
+  ]
+}

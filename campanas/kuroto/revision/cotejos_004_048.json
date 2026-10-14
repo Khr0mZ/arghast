@@ -1,0 +1,3419 @@
+[
+  {
+    "id": "K01-P01",
+    "estado": "pendiente",
+    "respuesta": "El grupo pregunta por esa posibilidad y el herrero reconoce las hojas, pero esta sesión no muestra un encargo cerrado ni un objeto terminado.",
+    "pendiente": "No se confirma el desenlace en el capítulo 3. Revisar las sesiones posteriores.",
+    "referencias": [
+      "01-021",
+      "01-022"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K01-P02",
+    "estado": "pendiente",
+    "respuesta": "El nombre aparece durante las presentaciones de la taberna. No basta para fijar la organización o atribuir la pertenencia a un personaje concreto.",
+    "pendiente": "No se confirma el desenlace en el capítulo 3. Revisar las sesiones posteriores.",
+    "referencias": [
+      "01-003"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K01-P03",
+    "estado": "resuelta",
+    "respuesta": "Al final del capítulo 2, el herrero entrega a Tokugawa cincuenta monedas de plata por las armas dejadas para vender. La recapitulación confirma que eran suyas.",
+    "pendiente": "",
+    "referencias": [
+      "01-007",
+      "02-026"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K02-P01",
+    "estado": "resuelta",
+    "respuesta": "Humiko paga veinte monedas por persona y retiene diez por los desperfectos. Cuando Tokugawa ofrece ayudar en la reparación, devuelve las diez a todos: treinta monedas de oro cada uno.",
+    "pendiente": "",
+    "referencias": [
+      "02-024",
+      "02-025"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K02-P02",
+    "estado": "pendiente",
+    "respuesta": "Promete colaborar para recuperar el descuento del grupo; Humiko acepta y queda esperando su visita. La sesión termina sin mostrar esos trabajos.",
+    "pendiente": "No se confirma el desenlace en el capítulo 3. Revisar las sesiones posteriores.",
+    "referencias": [
+      "02-025"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K02-P03",
+    "estado": "pendiente",
+    "respuesta": "La intención de llevarlo al tabernero se expresa al recoger el libro, pero no se escenifica su entrega en esta sesión.",
+    "pendiente": "No se confirma el desenlace en el capítulo 3. Revisar las sesiones posteriores.",
+    "referencias": [
+      "02-012"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K03-P01",
+    "estado": "resuelta",
+    "respuesta": "No. Acepta marcharse con el estudioso y el zombi restante vuelve a la tumba. La familia recibe la explicación y los cazadores cobran sin matar al gato.",
+    "pendiente": "",
+    "referencias": [
+      "03-018",
+      "03-019",
+      "03-021"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K03-P02",
+    "estado": "parcial",
+    "respuesta": "En el capítulo 10, el estudioso cuenta que estuvo en la universidad, escribió informes para su patrón o director e intentó pactar con el nekomata. El gato continúa en la taberna: no se muestra un traslado permanente ni un acuerdo de cuidados ya ejecutado.",
+    "pendiente": "Comprobar si el nekomata llega a trasladarse y en qué condiciones de cuidado o pacto.",
+    "referencias": [
+      "03-018",
+      "10-001"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K03-P03",
+    "estado": "pendiente",
+    "respuesta": "Al comenzar el capítulo 5, los cazadores siguen sin conseguir reparar la estatua: se habla de un mes intentándolo. La promesa continúa sin cumplimiento confirmado en ese punto.",
+    "pendiente": "Comprobar si se repara o sustituye la estatua.",
+    "referencias": [
+      "05-002"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K04-P01",
+    "estado": "parcial",
+    "respuesta": "La madame afirma que dejó de matar tras pactar protección y que ahora obtiene comida en las cloacas. Los nuevos vínculos de cuidado sostienen la convivencia, pero no constituyen una verificación independiente de cada muerte posterior.",
+    "pendiente": "Verificación independiente del cumplimiento íntegro del pacto.",
+    "referencias": [
+      "04-011",
+      "04-012",
+      "33-005",
+      "39-005"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K04-P02",
+    "estado": "parcial",
+    "respuesta": "Jin reconoce que convivir con yokai ha cambiado su criterio y sigue trabajando con quienes aceptaron la tregua. El epílogo conserva a esa familia reunida; no se representa una conversación específica que repare la discusión del burdel.",
+    "pendiente": "Reconciliación explícita respecto a aquel acuerdo.",
+    "referencias": [
+      "04-012",
+      "15-003",
+      "182-001"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K04-P03",
+    "estado": "parcial",
+    "respuesta": "En10 el estudioso cuenta que estuvo en la universidad y trató de pactar con el gato. El nekomata sigue en la taberna al abrirse la escena, sin instalación universitaria permanente mostrada.",
+    "pendiente": "Comprobar visita o instalación efectiva y condiciones del acuerdo universitario.",
+    "referencias": [
+      "04-001",
+      "05-001",
+      "10-001"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K04-P04",
+    "estado": "pendiente",
+    "respuesta": "Po no vuelve a encontrar en los hechos revisados al caballero dragón que buscaba. Las historias de un caballero y dragón representadas en la fiesta144 son un cuento y no resuelven su misión.",
+    "pendiente": "¿Consigue Po encontrar al caballero dragón?",
+    "referencias": [
+      "04-002"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K05-P01",
+    "estado": "parcial",
+    "respuesta": "Al pasar cerca de la aldea en la sesión9 se oyen risas y actividad de tanuki. Ya hay habitantes despiertos, sin precisar cuándo terminó el castigo ni su criterio.",
+    "pendiente": "Fecha, alcance y criterio del fin del sueño.",
+    "referencias": [
+      "05-012",
+      "09-005"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K05-P02",
+    "estado": "pendiente",
+    "respuesta": "Los baku de026 y049 tienen conflictos propios; no se identifica a ninguno como respuesta a aquella promesa de llamada del baku liberado005.",
+    "pendiente": "¿Responde el baku a una llamada futura en sueños?",
+    "referencias": [
+      "05-013"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K05-P03",
+    "estado": "parcial",
+    "respuesta": "La sesión6 confirma que el alquimista ya figura entre los comercios disponibles; aún no establece el nombre del responsable.",
+    "pendiente": "Identidad y relación del alquimista con la compañía.",
+    "referencias": [
+      "05-014",
+      "06-015"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K05-P04",
+    "estado": "pendiente",
+    "respuesta": "No se acredita la sustitución de la estatua familiar de Meilink. Los templos y estatuas que Sun patrocina después son otros encargos.",
+    "pendiente": "¿Consigue Sun Gukon sustituir la estatua?",
+    "referencias": [
+      "05-002"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K06-P01",
+    "estado": "resuelta",
+    "respuesta": "La sesión7 muestra al antiguo ronin trabajando con Kitaro y sirviendo las mesas.",
+    "pendiente": "",
+    "referencias": [
+      "06-014",
+      "07-001"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K06-P02",
+    "estado": "pendiente",
+    "respuesta": "El alquimista de Ukio atiende encargos y sorteos, pero su grafía personal sigue incierta. Asami abre después otra tienda de objetos y no se la convierte en el mismo alquimista por compartir oficio.",
+    "pendiente": "¿Quién es el alquimista de Ukio y qué relación establece con la compañía?",
+    "referencias": [
+      "06-015"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K06-P03",
+    "estado": "pendiente",
+    "respuesta": "Shiro continúa sirviendo y ayudando a Kitaro. No aparece una nueva evaluación que demuestre haber corregido su antiguo criterio de confundir viajeros con yokai.",
+    "pendiente": "¿Se mantiene estable el criterio del ronin al identificar futuros yokai?",
+    "referencias": [
+      "06-002",
+      "06-009",
+      "06-014"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K07-P01",
+    "estado": "pendiente",
+    "respuesta": "No se identifica quién dejó aquel laúd al alcance del músico. Otros bardos, biwa y objetos musicales posteriores no prueban la procedencia de ese ejemplar.",
+    "pendiente": "¿De dónde procedía el laúd y quién lo dejó al alcance del músico?",
+    "referencias": [
+      "07-015"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K07-P02",
+    "estado": "pendiente",
+    "respuesta": "No se documenta una recuperación social o económica específica de Yayi tras el siglo transcurrido. La propuesta de sucursal no acredita que se realizara.",
+    "pendiente": "¿Cómo se adapta Yayi al siglo transcurrido y al contacto con Ukio?",
+    "referencias": [
+      "07-015",
+      "07-016",
+      "07-018"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K07-P03",
+    "estado": "parcial",
+    "respuesta": "La araña conserva su condición no muerta, muere otra vez por fuego y el nekomata vuelve a animarla tras ser rescatado.",
+    "pendiente": "Consecuencias duraderas y límites de esa condición.",
+    "referencias": [
+      "07-017",
+      "08-005",
+      "08-012",
+      "08-015"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K07-P04",
+    "estado": "parcial",
+    "respuesta": "La posible sucursal se discute cuando Shiro sirve a Kitaro. No se acredita después una apertura o regreso efectivo para gestionar La Mangosta Borracha.",
+    "pendiente": "Ejecución de esa propuesta.",
+    "referencias": [
+      "07-018",
+      "09-001"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K08-P01",
+    "estado": "pendiente",
+    "respuesta": "El aspecto de calavera y el rito no bastan para asignar un nombre propio o identificar inequívocamente aquel culto con uno posterior.",
+    "pendiente": "¿Qué entidad de aspecto de calavera pretendían invocar y de qué culto eran los oficiantes?",
+    "referencias": [
+      "08-016",
+      "08-017"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K08-P02",
+    "estado": "pendiente",
+    "respuesta": "No aparece una traducción o conclusión atribuida inequívocamente a ese libro en habla profunda. Los numerosos libros rituales posteriores se conservan separados.",
+    "pendiente": "¿Qué descubre el estudio posterior del libro en habla profunda?",
+    "referencias": [
+      "08-016"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K08-P03",
+    "estado": "pendiente",
+    "respuesta": "No se narra la evacuación ni recuperación del kappa cautivo que quedó sin sacar. Los kappa rescatados en otros campamentos no se identifican como él.",
+    "pendiente": "¿Se recupera y abandona el laboratorio el kappa cautivo?",
+    "referencias": [
+      "08-009",
+      "08-018"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K08-P04",
+    "estado": "resuelta",
+    "respuesta": "Peluso es acogido y después trasladado a la base reformada. Es la criatura de polvo, no un alias del nekomata.",
+    "pendiente": "",
+    "referencias": [
+      "08-019",
+      "13-001"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K09-P01",
+    "estado": "pendiente",
+    "respuesta": "La reapertura del templo confirma el rescate, pero no añade un segundo testimonio que resuelva la disputa de sacerdocio original.",
+    "pendiente": "¿Se explica más adelante la disputa por el sacerdocio de Ukio con otro testimonio?",
+    "referencias": [
+      "09-014"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K09-P02",
+    "estado": "resuelta",
+    "respuesta": "La base terminada se muestra en13 con dormitorios, estudio, alquimia, sala común y estancia para yokai.",
+    "pendiente": "",
+    "referencias": [
+      "09-001",
+      "12-001",
+      "13-001"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K09-P03",
+    "estado": "pendiente",
+    "respuesta": "Las curaciones y recuperación de las kitsune muestran trabajo del templo, sin definir un límite universal de su protección divina.",
+    "pendiente": "¿Qué alcance y límites tiene la protección divina del sacerdote?",
+    "referencias": [
+      "09-015",
+      "09-016"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K10-P01",
+    "estado": "parcial",
+    "respuesta": "Se aplican pagos del reparto de pesca y luego se negocian nuevas reparaciones con Haru. La propiedad no queda transferida inequívocamente por ello.",
+    "pendiente": "La discrepancia entre usufructo y propiedad descrita en012.",
+    "referencias": [
+      "15-013",
+      "35-004"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K10-P02",
+    "estado": "pendiente",
+    "respuesta": "No se acredita una fabricación o entrega final con esa cabeza y ese cráneo concretos. Las numerosas piezas recogidas por el enano no sustituyen esa trazabilidad.",
+    "pendiente": "¿Qué hace el enano con la cabeza de la nure-onna y el otro cráneo?",
+    "referencias": [
+      "10-012"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K10-P03",
+    "estado": "pendiente",
+    "respuesta": "El estudioso informa a sus superiores, pero no presenta conclusiones institucionales posteriores de la universidad sobre aquel informe.",
+    "pendiente": "¿Qué conclusiones obtiene la universidad del informe sobre los yokai?",
+    "referencias": [
+      "10-001"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K10-P04",
+    "estado": "pendiente",
+    "respuesta": "Hay encuentros marinos posteriores, incluidos umibozu y corte submarina, pero no se identifica ninguno como la criatura colosal concreta del relato de Haru.",
+    "pendiente": "¿Aparece la criatura colosal mencionada por el pescador en las historias del mar?",
+    "referencias": [
+      "10-003",
+      "10-014"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K11-P01",
+    "estado": "parcial",
+    "respuesta": "El desastre elemental014 se presenta después de las muertes divinas y exige mando elemental y combate contra un titán.",
+    "pendiente": "No se reduce toda consecuencia futura a este único desastre.",
+    "referencias": [
+      "14-001",
+      "14-007",
+      "14-016"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K11-P02",
+    "estado": "parcial",
+    "respuesta": "Las moiras y la Reina Cuervo siguen interviniendo en el destino de Sirth, incluida su muerte y la propuesta de retorno. No se vincula cada prueba posterior al mensaje original dirigido también a Akira.",
+    "pendiente": "Lo esperado de Akira y alcance exacto de la advertencia inicial.",
+    "referencias": [
+      "11-015",
+      "11-022",
+      "78-004",
+      "78-008",
+      "99-007"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K11-P03",
+    "estado": "pendiente",
+    "respuesta": "No se documenta un destino inequívoco de cada muestra y el pergamino divino. Las muestras negras de dragón y árboles se recogen en otras escenas y no se fusionan con éstas.",
+    "pendiente": "¿Qué destino reciben el pergamino divino y las muestras del líquido y el tentáculo?",
+    "referencias": [
+      "11-011",
+      "11-014",
+      "11-016",
+      "11-022"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K11-P04",
+    "estado": "pendiente",
+    "respuesta": "La victoria del viñedo no se acompaña de una comprobación global de todos los focos de Bakasura. Las otras infecciones se describen por separado.",
+    "pendiente": "¿Se extingue toda la infección o quedan focos de Bakasura fuera del viñedo?",
+    "referencias": [
+      "11-019"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K11-P05",
+    "estado": "pendiente",
+    "respuesta": "No se recupera una conexión explícita entre aquel campamento, los pergaminos y la recomendación de buscar una bruja.",
+    "pendiente": "¿Qué relación tiene el campamento con los pergaminos y la persona que recomendaba buscar una bruja?",
+    "referencias": [
+      "11-014",
+      "11-016"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K12-P01",
+    "estado": "parcial",
+    "respuesta": "El kamaitachi vive en la base, compite con Shizuka y recibe cuidados y su parte de premio. El episodio de dominio073 no prueba una agresión libre suya. La aceptación actual no demuestra retrospectivamente consentimiento a la captura inicial.",
+    "pendiente": "Consentimiento de origen y una seguridad permanente que no se puede deducir de estar alojado.",
+    "referencias": [
+      "12-014",
+      "12-016",
+      "13-001",
+      "51-010",
+      "51-012",
+      "73-004",
+      "73-007"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K12-P02",
+    "estado": "pendiente",
+    "respuesta": "La semejanza del sello sugiere relación, pero ningún testimonio posterior identifica al portador o propietario del anillo y su vínculo con los magos del laboratorio.",
+    "pendiente": "¿Qué relación tiene el anillo con el laboratorio y sus magos?",
+    "referencias": [
+      "12-015"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K12-P03",
+    "estado": "resuelta",
+    "respuesta": "La puerta está instalada en la base reformada cuando Kitaro la enseña en13.",
+    "pendiente": "",
+    "referencias": [
+      "12-011",
+      "12-016",
+      "13-001"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K12-P04",
+    "estado": "resuelta",
+    "respuesta": "Kitaro presenta las reformas terminadas en13; Peluso ya recorre sus habitaciones.",
+    "pendiente": "",
+    "referencias": [
+      "12-001",
+      "13-001"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K12-P05",
+    "estado": "pendiente",
+    "respuesta": "Los ingresos y reparaciones del barco continúan. Ninguna escena aclara expresamente la diferencia entre el usufructo pactado y la propiedad afirmada después.",
+    "pendiente": "¿Cómo se resuelve la diferencia entre usufructo y la propiedad del barco descrita en esta sesión?",
+    "referencias": [
+      "12-002"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K13-P01",
+    "estado": "parcial",
+    "respuesta": "Los tres mujina continúan en la base y se emocionan al saber vivos a sus parientes Tip y Top. Ese vínculo confirma integración doméstica, sin una escena que cierre su miedo concreto al enano.",
+    "pendiente": "Reparación de aquel temor.",
+    "referencias": [
+      "13-013",
+      "13-014",
+      "73-004"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K13-P02",
+    "estado": "pendiente",
+    "respuesta": "No se identifica el destino del cuarto mujina que escapó. La posterior presentación de Tip y Top no demuestra que uno sea ese individuo.",
+    "pendiente": "¿Adónde fue el cuarto mujina que se separó en el bosque?",
+    "referencias": [
+      "13-010",
+      "13-014"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K13-P03",
+    "estado": "resuelta",
+    "respuesta": "El caparazón se convierte en maza mágica y luego en estoque con empuñadura de caparazón. La petición inicial de protección cambia de resultado: no se entrega una armadura.",
+    "pendiente": "",
+    "referencias": [
+      "27-003",
+      "27-006",
+      "21-003"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K13-P04",
+    "estado": "parcial",
+    "respuesta": "Vuelven a participar en torneos y obtienen premios públicos, pero las escenas no muestran una rectificación explícita de todos los rumores citados por los mujina.",
+    "pendiente": "Una aclaración pública específica de aquella reputación.",
+    "referencias": [
+      "13-009",
+      "13-015",
+      "27-004",
+      "27-010",
+      "51-012"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K14-P01",
+    "estado": "pendiente",
+    "respuesta": "No se identifica al mandante del impostor que mató a Kitaro. La amenaza general de Otakemaru no atribuye por sí sola cada asesinato a una orden suya.",
+    "pendiente": "¿Quién envió al impostor de Yusuf y qué otros ataques prepara?",
+    "referencias": [
+      "14-017"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K14-P02",
+    "estado": "pendiente",
+    "respuesta": "No hay identificación inequívoca de aquella figura tuerta observada en el cierre. Los enemigos posteriores no se fusionan sólo por anunciar otra amenaza.",
+    "pendiente": "¿Quién es la figura tuerta de la ciudad arruinada y qué relación tiene con esa amenaza?",
+    "referencias": [
+      "14-017"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K14-P03",
+    "estado": "resuelta",
+    "respuesta": "En15 ambas niñas están vivas y alojadas en la base. La mayor corre y juega; la bebé toma biberón y Tekel logra dormirla. No queda una escena de hospitalización pendiente para confirmar que regresaron.",
+    "pendiente": "",
+    "referencias": [
+      "14-005",
+      "14-006",
+      "14-008",
+      "15-001",
+      "15-014"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K14-P04",
+    "estado": "pendiente",
+    "respuesta": "No se recupera el contenido exacto de la comunicación divina recibida durante aquel viaje. Las pruebas posteriores de Sirth tratan otros momentos de su destino.",
+    "pendiente": "¿Qué mensaje recibió Shiri de su dios durante el viaje?",
+    "referencias": [
+      "14-004"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K14-P05",
+    "estado": "parcial",
+    "respuesta": "El anillo de tierra pasa de Sun a Zia y luego a Shiru, sin compromiso matrimonial. Los anillos se usan en aventuras, pero no queda acreditada una entrega separada del premio reservado a Kitaro.",
+    "pendiente": "Destino explícito de ese premio y trazabilidad completa de cada anillo.",
+    "referencias": [
+      "14-003",
+      "14-007",
+      "22-003",
+      "23-002"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K14-P06",
+    "estado": "resuelta",
+    "respuesta": "Shiro sostiene la taberna tras el asesinato. Jin completa el rito que devuelve a Kitaro como retornado, una sola segunda oportunidad.",
+    "pendiente": "",
+    "referencias": [
+      "15-002",
+      "18-007",
+      "18-008"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K15-P01",
+    "estado": "parcial",
+    "respuesta": "La crianza se reparte entre Sirth, compañeros, aprendices y vecinos; Madame Jone acepta cuidados temporales. Más tarde Shizuka dice que Danifae cuida de ella y del bebé. Jin termina asumiéndola como hija y el epílogo lo muestra dedicado a ella. No consta un acuerdo cerrado de crianza específicamente con Tekel.",
+    "pendiente": "Funciones permanentes de Tekel y cuidado posterior del bebé.",
+    "referencias": [
+      "15-001",
+      "15-014",
+      "39-003",
+      "39-005",
+      "70-002",
+      "95-004",
+      "182-008"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K15-P02",
+    "estado": "pendiente",
+    "respuesta": "Se observan conexiones del robo entre comercios, sin un plano completo posterior ni un cierre de seguridad documentado de toda esa red. Los túneles de Ikari tienen otro origen.",
+    "pendiente": "¿Qué más conecta la red de túneles y cómo se protege el pueblo de otra intrusión?",
+    "referencias": [
+      "15-005",
+      "15-006",
+      "15-007",
+      "15-013"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K15-P03",
+    "estado": "parcial",
+    "respuesta": "El grupo devuelve oro y joyas a negocios y la pescadería recupera su caja. Tekel cobra por las losas que había recogido. No queda conformidad individual documentada sobre toda compensación y pérdida consumida.",
+    "pendiente": "Aceptación detallada de todas las compensaciones.",
+    "referencias": [
+      "15-012",
+      "15-013"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K15-P04",
+    "estado": "resuelta",
+    "respuesta": "Shiru estrena el escudo arrojadizo y utiliza sus maniobras para soltarse de agarres; Jin usa el empuje de Masamune contra el kitsune. Son cambios observados, no sólo propiedades del inventario.",
+    "pendiente": "",
+    "referencias": [
+      "15-012",
+      "17-006",
+      "19-006"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K16-P01",
+    "estado": "pendiente",
+    "respuesta": "El felino mata a su dueño durante la provocación, pero no se prueba que cometiera el homicidio previo del vecino. Ese crimen queda sin autor confirmado.",
+    "pendiente": "¿Quién mató al vecino encontrado antes del combate y qué evidencia vincula o excluye al felino?",
+    "referencias": [
+      "16-003",
+      "16-008"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K16-P02",
+    "estado": "resuelta",
+    "respuesta": "Carro confirmado en 017 y caja fría entregada por el alquimista por cincuenta monedas en 019.",
+    "pendiente": "",
+    "referencias": [
+      "17-001",
+      "19-002"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K16-P03",
+    "estado": "resuelta",
+    "respuesta": "Los preparativos privados de Jin culminan en el rito para devolver a Kitaro; explica por qué lo ocultó y la deuda que quería pagar.",
+    "pendiente": "",
+    "referencias": [
+      "18-001",
+      "18-002",
+      "18-008"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K16-P04",
+    "estado": "pendiente",
+    "respuesta": "Los mujina siguen formando parte de la base; no hay una prueba específica de que aprendieran cuidados infantiles más allá de las órdenes literales que fallaron.",
+    "pendiente": "¿Aprenderán los mujina a cuidar de las niñas más allá de obedecer literalmente?",
+    "referencias": [
+      "16-001",
+      "16-009"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K17-P01",
+    "estado": "parcial",
+    "respuesta": "Bill y Zia pasan a defender Ukio, combatir y ayudar en rescates; Shiru mantiene un vínculo afectuoso con Zia. Bill sigue vigilando el pueblo evacuado en166. Los destinos dudosos de nombres durante139 no se convierten en una muerte o resurrección inequívoca de Zia.",
+    "pendiente": "Desenlace individual completo de cada aprendiz.",
+    "referencias": [
+      "17-009",
+      "28-002",
+      "28-003",
+      "50-004",
+      "139-006",
+      "139-015",
+      "166-001"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K17-P02",
+    "estado": "parcial",
+    "respuesta": "Los recuerdos de los guardianes y los libros finales explican persecución, tala y caza histórica de yokais, contexto para su hostilidad. No dan una biografía o motivación individual comprobada de aquel kitsune.",
+    "pendiente": "Causa personal exacta del ataque017.",
+    "referencias": [
+      "17-004",
+      "17-005",
+      "17-006",
+      "175-007",
+      "177-009",
+      "180-007"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K17-P03",
+    "estado": "pendiente",
+    "respuesta": "No se escenifica una devolución completa de los bienes que Tekel dice haber salvado del incendio.",
+    "pendiente": "¿Devolverá Tekel todas las cosas que dice haber salvado del fuego?",
+    "referencias": [
+      "17-008"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K17-P04",
+    "estado": "parcial",
+    "respuesta": "Los cazadores y aprendices reparan el incendio y vuelven a trabajar. No aparece balance posterior de la cosecha concreta perdida en017; las reconstrucciones de otros ataques no la compensan automáticamente.",
+    "pendiente": "Resultado de esa cosecha y alcance económico de los daños.",
+    "referencias": [
+      "17-007",
+      "19-001",
+      "19-002"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K18-P01",
+    "estado": "resuelta",
+    "respuesta": "Kitaro vuelve a dirigir la taberna, agradece la segunda oportunidad y explica que ya no necesita comer ni dormir. Shiro continúa sirviendo; no se borra el asesinato por haber vuelto como retornado.",
+    "pendiente": "",
+    "referencias": [
+      "18-007",
+      "19-003",
+      "39-005"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K18-P02",
+    "estado": "pendiente",
+    "respuesta": "No se registra un conjuro o procedimiento que quite expresamente la maldición de momia de Jin. Que vuelva a actuar y recibir ayuda no reconstruye esa escena ausente.",
+    "pendiente": "¿Cuándo y cómo se elimina la maldición de momia que bloquea las curas de Jin?",
+    "referencias": [
+      "18-005"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K18-P03",
+    "estado": "pendiente",
+    "respuesta": "El rito se vincula a una estatua que alimenta el sueño y permite una segunda oportunidad, pero no recibe identificación más precisa ni se convierte en uno de los nuevos devoradores por semejanza.",
+    "pendiente": "¿Qué es exactamente la entidad o reliquia que se alimenta de los sueños durante el ritual?",
+    "referencias": [
+      "18-003",
+      "18-007"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K18-P04",
+    "estado": "pendiente",
+    "respuesta": "No se documenta que Tekel devuelva todos los objetos que recogió de los vecinos dormidos.",
+    "pendiente": "¿Restituirá Tekel los objetos recogidos de quienes estaban dormidos?",
+    "referencias": [
+      "18-008"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K19-P01",
+    "estado": "resuelta",
+    "respuesta": "El avance del sur culmina en la ofensiva de 180 y el combate de 181: Otakemaru es derrotado, se disuelve y sus supervivientes recuperan la forma yokai.",
+    "pendiente": "",
+    "referencias": [
+      "180-001",
+      "180-003",
+      "181-010",
+      "181-012"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K19-P02",
+    "estado": "pendiente",
+    "respuesta": "El oni muere antes de completar un mensaje contrastable. La campaña demuestra la hostilidad del bando de Otakemaru, sin recuperar sus palabras no pronunciadas.",
+    "pendiente": "¿Por qué el oni busca específicamente a los cazadores y qué mensaje pretendía comunicar?",
+    "referencias": [
+      "19-007",
+      "19-009"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K19-P03",
+    "estado": "parcial",
+    "respuesta": "Intentan dejarla con aprendices y luego organizan cuidadores, pero Shizuka se cuela y sigue acompañando misiones. El secuestro174–176 y su irrupción final180 confirman que ninguna norma estable evita toda exposición.",
+    "pendiente": "No hay protocolo final acordado y documentado.",
+    "referencias": [
+      "20-001",
+      "20-002",
+      "20-004",
+      "20-010",
+      "39-003",
+      "176-003",
+      "180-011"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K20-P01",
+    "estado": "parcial",
+    "respuesta": "El inugami vuelve y termina la sala de entrenamiento, después enseña transformación canina a Maroxi.",
+    "pendiente": "Los asuntos concretos que debía resolver en Sho no se explican por el mero regreso.",
+    "referencias": [
+      "21-002",
+      "22-002",
+      "39-001"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K20-P02",
+    "estado": "parcial",
+    "respuesta": "El shinobi perdonado reaparece tras la destrucción de su clan y funda una nueva red financiada por cazadores. No se identifica con certeza una autoridad superior que ordenara la primera agresión ni se atribuye a ese clan cada ataque shinobi posterior.",
+    "pendiente": "Mandante de aquella emboscada y represalias específicas.",
+    "referencias": [
+      "20-007",
+      "20-008",
+      "24-002",
+      "26-001"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K20-P03",
+    "estado": "resuelta",
+    "respuesta": "El casino de Ukio se concreta y produce ingresos que Wishi comunica en Sho bajo el nombre del enano; Maroxi suplanta su identidad para cobrarlos.",
+    "pendiente": "",
+    "referencias": [
+      "40-006",
+      "45-001",
+      "47-002",
+      "52-001",
+      "52-004"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K20-P04",
+    "estado": "pendiente",
+    "respuesta": "No se documenta claramente una segunda caja fría distinta de la entregada en019. El cofre común posterior cumple otra función.",
+    "pendiente": "¿Se entrega la segunda caja fría encargada?",
+    "referencias": [
+      "20-003"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K20-P05",
+    "estado": "pendiente",
+    "respuesta": "La niña vuelve a prometer obediencia, pero no se registra un protocolo o sanción concreta por burlar aquella lección de Bill y Zia.",
+    "pendiente": "¿Qué medidas tomarán al descubrir que Shizuka burló a Bill y Zia?",
+    "referencias": [
+      "20-010"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K21-P01",
+    "estado": "parcial",
+    "respuesta": "La fantasma deja el grupo al ser entregada al shogun y vuelve como figurilla mini yurei. El enano la envía a explorar en031. Ese uso no demuestra consentimiento ni vigencia de las condiciones que aceptó en la vasija.",
+    "pendiente": "Voluntad y cumplimiento de las condiciones originales.",
+    "referencias": [
+      "21-009",
+      "21-010",
+      "27-010",
+      "31-005"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K21-P02",
+    "estado": "pendiente",
+    "respuesta": "No se narra una muerte posterior de Po seguida de una decisión de resucitarlo o respetar su negativa. Las muertes y deseos de otros personajes no prueban qué habrían hecho con él.",
+    "pendiente": "¿Se respetará la voluntad de Po de no ser devuelto a la vida si muere?",
+    "referencias": [
+      "21-004"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K21-P03",
+    "estado": "resuelta",
+    "respuesta": "La zona de entrenamiento aparece construida y Sota practica con Shizuka.",
+    "pendiente": "",
+    "referencias": [
+      "21-002",
+      "22-002"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K21-P04",
+    "estado": "parcial",
+    "respuesta": "El casino abre, el enano detecta ingresos cobrados por otro y acuerda una clave para entregas. El lector sabe por escenas previas que Maroxi se suplantaba; no implica que el enano lo haya identificado.",
+    "pendiente": "Consecuencias del descubrimiento y eficacia futura de la clave.",
+    "referencias": [
+      "40-006",
+      "47-002",
+      "52-001",
+      "52-004"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K21-P05",
+    "estado": "resuelta",
+    "respuesta": "Shiru recoge la daga y la entrega a Zia.",
+    "pendiente": "",
+    "referencias": [
+      "21-004",
+      "23-002"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K22-P01",
+    "estado": "resuelta",
+    "respuesta": "El epílogo muestra a Ikari reconstruyendo una aldea hospitalaria con su familia y refugiados, abierta a humanos y yokais.",
+    "pendiente": "",
+    "referencias": [
+      "182-010"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K22-P02",
+    "estado": "resuelta",
+    "respuesta": "La ofensiva muestra transformación forzada de yokais en demonios y exterminio de quienes no se transforman o no siguen a Otakemaru. Su derrota devuelve la forma yokai a los supervivientes, sin resucitar a los muertos. Esto explica que el bando ataque también a los suyos.",
+    "pendiente": "",
+    "referencias": [
+      "22-005",
+      "22-008",
+      "22-011",
+      "170-005",
+      "170-009",
+      "181-012"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K22-P03",
+    "estado": "pendiente",
+    "respuesta": "Los poderes nuevos de Hayate se usan en mesa, pero no aparece un relato completo del procedimiento inicial de Shiri para recuperarlo tras el rayo.",
+    "pendiente": "¿Qué hizo exactamente Shiri para recuperar a Hayate y qué límites tienen sus nuevos poderes?",
+    "referencias": [
+      "22-001",
+      "22-009"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K22-P04",
+    "estado": "parcial",
+    "respuesta": "Zia entrega a Shiru el anillo que recibió de Sun y rechaza explícitamente el cortejo del mono. Hay continuidad de su vínculo con el sátiro.",
+    "pendiente": "Evolución posterior del vínculo, sin convertir el anillo en matrimonio.",
+    "referencias": [
+      "23-002",
+      "34-002"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K22-P05",
+    "estado": "pendiente",
+    "respuesta": "El casino acaba operativo, pero no hay contabilidad final que separe toda la madera recogida bajo promesa defensiva entre muralla y negocio privado.",
+    "pendiente": "¿Se destinará la madera recogida a defensa, casino o ambos proyectos?",
+    "referencias": [
+      "22-001",
+      "22-006"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K23-P01",
+    "estado": "parcial",
+    "respuesta": "El título conduce a encargos, acceso al shogun y suministros. Los pagos posteriores dependen del contrato:78 ordena revisar atrasos de Maroxi y distingue a Hayate voluntario de Sun, que firma. No hay una nómina universal demostrada por el título inicial.",
+    "pendiente": "Abono final de cada atraso y condiciones de todos los integrantes.",
+    "referencias": [
+      "23-010",
+      "24-003",
+      "24-001",
+      "53-001",
+      "75-010",
+      "78-002"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K23-P02",
+    "estado": "parcial",
+    "respuesta": "La fantasma entregada al shogun reaparece como mini yurei entregado al enano. Eso fija destino inmediato, no demuestra voluntad libre ni cumplimiento de sus antiguas condiciones.",
+    "pendiente": "Agencia de la fantasma y condiciones de posesión.",
+    "referencias": [
+      "23-010",
+      "27-010"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K23-P03",
+    "estado": "pendiente",
+    "respuesta": "Jin y el enano vuelven a compartir tareas, sin una reconciliación explícita sobre la jorogumo y la parálisis de represalia.",
+    "pendiente": "¿Se reconcilian Jin y el enano tras la muerte de la jorogumo y la parálisis de represalia?",
+    "referencias": [
+      "23-009"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K23-P04",
+    "estado": "resuelta",
+    "respuesta": "Hitoshi entrega estoque con empuñadura de caparazón conservando capacidades.",
+    "pendiente": "",
+    "referencias": [
+      "23-003",
+      "27-003",
+      "27-006"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K24-P01",
+    "estado": "resuelta",
+    "respuesta": "Se identifica el objetivo como banco de Sho; el robo todavía no se realiza.",
+    "pendiente": "",
+    "referencias": [
+      "24-006",
+      "27-002"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K24-P02",
+    "estado": "parcial",
+    "respuesta": "Kimiko sigue gestionando encargos y cobra la mitad del trabajo de Tanaka, pero ese pago no confirma haber aceptado la propuesta inicial de instalarse en la base ni una comisión concreta para Jin.",
+    "pendiente": "Aceptación de la base y del reparto propuesto por Jin.",
+    "referencias": [
+      "24-010",
+      "35-005",
+      "35-010"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K24-P03",
+    "estado": "resuelta",
+    "respuesta": "El shinobi funda una red clandestina de robo financiada por cazadores; no elige el abandono del delito.",
+    "pendiente": "",
+    "referencias": [
+      "24-009",
+      "26-001"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K24-P04",
+    "estado": "parcial",
+    "respuesta": "Mufasa y Cleo participan entre los defensores de Ukio y en rescates posteriores. El enfrentamiento139 los da por muertos y el recuento de reanimados no aclara de forma inequívoca cada destino. No se desarrolla un desenlace del cortejo de Cleo al bardo.",
+    "pendiente": "Vínculo romántico y situación individual al final.",
+    "referencias": [
+      "24-005",
+      "24-010",
+      "28-002",
+      "52-003",
+      "139-006",
+      "139-015"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K25-P01",
+    "estado": "resuelta",
+    "respuesta": "Gxi exige registros y regularización, acompaña misiones y ayuda con equipo, puertas y trámites. Su evaluación aprueba con56/100 y después se integra como funcionario y artífice. El epílogo muestra su paso a una escuela pública.",
+    "pendiente": "",
+    "referencias": [
+      "25-001",
+      "25-009",
+      "26-002",
+      "38-003",
+      "182-013"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K25-P02",
+    "estado": "pendiente",
+    "respuesta": "No se identifica al hablante del trono helado. Las apariciones de guardianes posteriores no comparten una identidad probada con esa voz.",
+    "pendiente": "¿Quién era la voz que anunció su regreso al tocar el trono?",
+    "referencias": [
+      "25-003"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K25-P03",
+    "estado": "pendiente",
+    "respuesta": "El lugar aparece como lago cuando el enano vuelve. No se explica el mecanismo de desaparición ni se demuestra el reencuentro con el mismo templo.",
+    "pendiente": "¿Cómo apareció y desapareció el templo, y puede volver a encontrarse?",
+    "referencias": [
+      "25-003",
+      "25-009"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K25-P04",
+    "estado": "pendiente",
+    "respuesta": "No se documenta que alguien complete la enciclopedia en el libro vacío. El Yokédex regalado por Asami es un volumen diferente y no acredita la redacción del primero.",
+    "pendiente": "¿Quién redactará la enciclopedia y qué información registrará realmente?",
+    "referencias": [
+      "25-008"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K26-P01",
+    "estado": "pendiente",
+    "respuesta": "Se identifica el símbolo de Otakemaru y el efecto de control del collar, pero no el taller, inventor o colocador concreto de aquel dispositivo.",
+    "pendiente": "¿Quién fabrica y coloca los collares de Otakemaru para controlar yokai?",
+    "referencias": [
+      "26-008",
+      "26-009"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K26-P02",
+    "estado": "parcial",
+    "respuesta": "La madame presenta cuentas ordenadas; Kimiko recibe pautas y sigue mostrando resistencia.",
+    "pendiente": "Regularización del gremio y nueva revisión.",
+    "referencias": [
+      "26-002",
+      "27-003"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K26-P03",
+    "estado": "pendiente",
+    "respuesta": "Gxi sospecha el secretismo y recibe indicios de actividades ocultas, sin una escena inequívoca de descubrimiento y resolución de toda la financiación inicial del clan.",
+    "pendiente": "¿Descubrirá Gxi la cofradía clandestina que financian sus compañeros?",
+    "referencias": [
+      "26-001"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K26-P04",
+    "estado": "parcial",
+    "respuesta": "La red consigue munición, herramientas y algunos ingresos, con dos agentes muertos ya en027. Aka financia reclutas y Banzo paga al último disponible para buscar a Archi, sin que ese contrato pruebe un hallazgo.",
+    "pendiente": "Resultado de esa búsqueda y coste final de las operaciones.",
+    "referencias": [
+      "26-001",
+      "27-002",
+      "35-005",
+      "39-006",
+      "73-003",
+      "160-002"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K27-P01",
+    "estado": "parcial",
+    "respuesta": "La mini yurei se utiliza como exploradora invisible y devuelve una mano de la carreta. No hay declaración posterior de que el antiguo espíritu conserve voluntad libre.",
+    "pendiente": "Agencia, consentimiento y destino final de la figurilla.",
+    "referencias": [
+      "27-010",
+      "31-005"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K27-P02",
+    "estado": "pendiente",
+    "respuesta": "No se representa el robo al banco de Sho por ese plan. La infiltración bancaria164 persigue a cultistas y no se convierte en ejecución del golpe de los documentos antiguos.",
+    "pendiente": "¿Qué hará el grupo con el plan para robar el banco de Sho?",
+    "referencias": [
+      "27-002"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K27-P03",
+    "estado": "parcial",
+    "respuesta": "Los cazadores siguen financiando y reclutando agentes después de la pérdida; Aka paga por dos más en073. No se documenta un duelo o cambio de normas específico por las dos muertes027.",
+    "pendiente": "Respuesta personal a esas bajas.",
+    "referencias": [
+      "27-002",
+      "73-003"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K27-P04",
+    "estado": "parcial",
+    "respuesta": "Hitoshi entrega cuatro capas con los materiales; la mochila de fase aún no se entrega.",
+    "pendiente": "Entrega y propiedades finales de la mochila.",
+    "referencias": [
+      "27-003",
+      "28-007"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K28-P01",
+    "estado": "pendiente",
+    "respuesta": "La captura del bakeneko detiene la invasión, pero la pesquisa no encuentra vínculo probado con Otakemaru. No se atribuye retroactivamente por existir ataques posteriores suyos.",
+    "pendiente": "¿Qué provocó el ataque de los gatos y existe un vínculo demostrable con Otakemaru?",
+    "referencias": [
+      "28-002",
+      "28-006"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K28-P02",
+    "estado": "parcial",
+    "respuesta": "El bardo convive con el gato y la niña queda jugando con él sin ataque mostrado.",
+    "pendiente": "Condiciones de cuidado y seguridad a largo plazo.",
+    "referencias": [
+      "28-006",
+      "31-002"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K28-P03",
+    "estado": "parcial",
+    "respuesta": "El enano y Hiki vuelven a trabajar juntos y hacen música en045. Esa colaboración rebaja el aislamiento del primer encuentro, pero no equivale a una reconciliación verbal sobre la hostilidad original.",
+    "pendiente": "Reconciliación explícita entre ambos.",
+    "referencias": [
+      "28-001",
+      "28-003",
+      "45-001"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K28-P04",
+    "estado": "pendiente",
+    "respuesta": "No se muestra una indemnización, reparación o resurrección específica de las dos víctimas mortales de aquella invasión de gatos.",
+    "pendiente": "¿Qué reparación reciben los vecinos muertos o afectados por el asalto?",
+    "referencias": [
+      "28-002",
+      "28-007"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K29-P01",
+    "estado": "resuelta",
+    "respuesta": "Shiri reconoce al paseante y el contratante se identifica como Stolos, inventor del líquido y responsable declarado de alterar y reanimar al dragón. Se mantiene separado de Talos, personaje inicial.",
+    "pendiente": "",
+    "referencias": [
+      "38-002",
+      "38-007"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K29-P02",
+    "estado": "parcial",
+    "respuesta": "Stolos se atribuye la sustancia y sus efectos sobre vivos y muertos. El experimento sobre una dodomeki explota el cadáver; Sirth cura después a infectados a costa de absorber el mal. No hay mecanismo universal descrito para cualquier dosis o criatura.",
+    "pendiente": "Mecanismo completo y límites reproducibles.",
+    "referencias": [
+      "29-005",
+      "38-004",
+      "38-007",
+      "39-009",
+      "66-001",
+      "78-003"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K29-P03",
+    "estado": "pendiente",
+    "respuesta": "La contaminación del lago se muestra al espectador. Ninguna pesquisa posterior comunica inequívocamente esa misma escena y localización a los cazadores.",
+    "pendiente": "¿Se investigará el lago contaminado y cómo alcanzará esa información a los cazadores?",
+    "referencias": [
+      "29-009"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K29-P04",
+    "estado": "pendiente",
+    "respuesta": "Ragnar devuelve madera a su primo, pero no se identifica un producto terminado de ese encargo concreto.",
+    "pendiente": "¿Qué construirá Takashi con la madera que entrega Ragnar?",
+    "referencias": [
+      "29-002",
+      "29-008"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K30-P01",
+    "estado": "pendiente",
+    "respuesta": "Se limpia la amenaza de las cloacas y se paga el trabajo. No queda una escena inequívoca de piscina y accesos completamente reparados.",
+    "pendiente": "¿Se reparan la piscina y los accesos y se limpian las cloacas?",
+    "referencias": [
+      "30-010"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K30-P02",
+    "estado": "resuelta",
+    "respuesta": "La madame confirma haber entregado cincuenta monedas por la faena.",
+    "pendiente": "",
+    "referencias": [
+      "30-006",
+      "31-003"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K30-P03",
+    "estado": "resuelta",
+    "respuesta": "Ikari reencuentra a su primo Mosto y los refugiados. En070 reconoce la voz del jefe del ataque a su aldea cuando vuelve a atacar la base y presencia su derrota. Tras la guerra reconstruye una aldea abierta con familia y refugiados.",
+    "pendiente": "",
+    "referencias": [
+      "30-003",
+      "30-004",
+      "70-006",
+      "70-009",
+      "182-010"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K30-P04",
+    "estado": "parcial",
+    "respuesta": "Gxi les hace formularios y los lleva a una prueba supervisada. Maroxi aparece después como firmante con atrasos y los tres siguen integrados en la compañía. No se conserva una ceremonia de firma inequívoca de cada uno en aquel momento inicial.",
+    "pendiente": "Trámite exacto individual de Erk e Ikari.",
+    "referencias": [
+      "30-005",
+      "30-009",
+      "31-001",
+      "78-002"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K31-P01",
+    "estado": "resuelta",
+    "respuesta": "Kasay describe la muestra como sangre demoníaca y en038–039 se distingue expresamente del líquido del dragón. No se identifican ambas sustancias por compartir color.",
+    "pendiente": "",
+    "referencias": [
+      "31-007",
+      "32-004",
+      "38-002",
+      "39-003"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K31-P02",
+    "estado": "pendiente",
+    "respuesta": "La carreta encontrada por los novatos no era el transporte de la mochila. No se recupera después una entrega o localización inequívoca de ese envío.",
+    "pendiente": "¿Dónde está el transporte que llevaba la mochila del enano?",
+    "referencias": [
+      "31-003",
+      "31-005"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K31-P03",
+    "estado": "pendiente",
+    "respuesta": "No se representa una respuesta concreta del shogun que identifique a las víctimas de esa carreta y su misión.",
+    "pendiente": "¿Qué información dará el shogun sobre las víctimas de la caravana?",
+    "referencias": [
+      "31-005"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K31-P04",
+    "estado": "parcial",
+    "respuesta": "Los tres se integran en bodas, rescates y la búsqueda de guardianes. Ikari acaba reconstruyendo una aldea y Maroxi llega a ser firmante del gremio. La convivencia real no documenta cada formulario inicial ni un destino final individual de Erk.",
+    "pendiente": "Trazabilidad administrativa y desenlaces no narrados.",
+    "referencias": [
+      "31-001",
+      "31-004",
+      "31-006",
+      "32-008",
+      "78-002",
+      "182-010"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K32-P01",
+    "estado": "parcial",
+    "respuesta": "Las atacantes acusan a los cazadores de matar a los suyos y aliarse con el shogun. Las memorias finales muestran la persecución antigua que contextualiza ese rechazo, pero no identifican al organizador concreto de la emboscada de la boda.",
+    "pendiente": "Autor material de la organización y vínculo exacto con las atacantes.",
+    "referencias": [
+      "32-007",
+      "32-008",
+      "177-008",
+      "180-007"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K32-P02",
+    "estado": "parcial",
+    "respuesta": "Asami es la especialista buscada, instala una máquina con la sangre y colabora con materiales. Maroxi consigue después un arma material de cristal mediante la pesquisa de Saya, no por una fabricación onmyō demostrada.",
+    "pendiente": "Alcance de la fabricación que Asami podría realizar con esa sangre.",
+    "referencias": [
+      "32-004",
+      "33-006",
+      "35-003",
+      "59-008"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K32-P03",
+    "estado": "parcial",
+    "respuesta": "Ikari regresa con los ingredientes comprados; también se recoge y usa el carro nuevo.",
+    "pendiente": "No se muestra cobro de las doscientas monedas de escolta.",
+    "referencias": [
+      "32-004",
+      "32-009",
+      "33-001"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K32-P04",
+    "estado": "resuelta",
+    "respuesta": "Hayate ubica Ciudad Cóndor. Más adelante Erk encuentra a Crek en el poblado del Sur: la mujer afirma ser su madre y canta la melodía que la joven recuerda desde el huevo, contando que robaron sus huevos. Ambas recuperan plumaje rojo durante el abrazo.",
+    "pendiente": "",
+    "referencias": [
+      "39-002",
+      "74-009"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K33-P01",
+    "estado": "resuelta",
+    "respuesta": "La madre sana, agradece el cuidado y decide volver al bosque con Koi.",
+    "pendiente": "",
+    "referencias": [
+      "39-004"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K33-P02",
+    "estado": "parcial",
+    "respuesta": "Ikari relaciona las cuatro posiciones con templos antiguos y los ubica en el mapa.",
+    "pendiente": "Dioses o bestias exactos, función actual y motivo del culto.",
+    "referencias": [
+      "36-001",
+      "37-001"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K33-P03",
+    "estado": "resuelta",
+    "respuesta": "Asami abre tienda en Ukio y convierte la sangre en una máquina de pociones y pergaminos por150monedas la tirada. Compensa a Maroxi y entrega o vende pociones concretas.",
+    "pendiente": "",
+    "referencias": [
+      "35-003",
+      "35-004"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K33-P04",
+    "estado": "pendiente",
+    "respuesta": "Se mantiene la contradicción del nombre Sota aplicado al cliente inugami frente a su presentación posterior sin nombre. El shinobi llamado shiro no se fusiona por ello con el tabernero Shiro ni con el presentador de torneos.",
+    "pendiente": "¿Qué nombre propio debe usarse para el inugami y el shinobi que aquí se presenta como shiro?",
+    "referencias": [
+      "33-003",
+      "33-004"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K34-P01",
+    "estado": "resuelta",
+    "respuesta": "La madre sana, agradece el cuidado y decide volver al bosque con Koi.",
+    "pendiente": "",
+    "referencias": [
+      "39-004"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K34-P02",
+    "estado": "pendiente",
+    "respuesta": "No se muestra una sanción por llevarse los tres premios ni se comprueba la licencia de aquella feria. Otras ferias posteriores no identifican a la misma organización.",
+    "pendiente": "¿Qué consecuencias tendrá llevarse los tres premios y qué ocurrió con los permisos de la feria?",
+    "referencias": [
+      "34-008",
+      "34-009"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K34-P03",
+    "estado": "resuelta",
+    "respuesta": "Hitoshi fabrica brazaletes de escamas para Sun; Asami ya ha utilizado la sangre en la máquina de pociones y pergaminos. No se confunden estos materiales con la muestra del dragón.",
+    "pendiente": "",
+    "referencias": [
+      "35-003",
+      "37-008"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K34-P04",
+    "estado": "parcial",
+    "respuesta": "Lealín acepta una futura cita con Sun y participa en cuidados y defensa. El epílogo reúne a Sun con Lea y Kim, pero no se ha demostrado aquí que Lea y Lealín sean la misma identidad.",
+    "pendiente": "La continuidad nominal Lea/Lealín y el desenlace inequívoco de aquel cortejo.",
+    "referencias": [
+      "34-002",
+      "34-004",
+      "34-006",
+      "39-005",
+      "139-006",
+      "182-001"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K35-P01",
+    "estado": "resuelta",
+    "respuesta": "La madre sana, agradece el cuidado y decide volver al bosque con Koi.",
+    "pendiente": "",
+    "referencias": [
+      "39-004"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K35-P02",
+    "estado": "pendiente",
+    "respuesta": "La madriguera estaba vacía cuando recuperaron la gema. Las dodomeki de otros encuentros comparten rasgos, pero no se identifica a las criaturas concretas ni una vuelta a esa guarida.",
+    "pendiente": "¿Quiénes eran las criaturas del tesoro y vuelven tras cerrar la madriguera?",
+    "referencias": [
+      "35-008",
+      "35-010"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K35-P03",
+    "estado": "pendiente",
+    "respuesta": "Los alquileres del gato para pescar y de Koi para la forja quedan en propuesta. La madre y la cría se marchan al bosque; no se demuestra un contrato de alquiler realizado.",
+    "pendiente": "¿Se concreta alguno de los alquileres de yokai que propone Sun?",
+    "referencias": [
+      "35-004"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K35-P04",
+    "estado": "parcial",
+    "respuesta": "Tang Sanzan se presenta como autor del libro y conocido del verdadero Rey Mono. Demuestra que Sun no es ese protagonista, aunque le permite aspirar al papel mediante pruebas.",
+    "pendiente": "La entrega inicial del volumen no queda atribuida automáticamente a Tang por ser su autor.",
+    "referencias": [
+      "46-003",
+      "46-008"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K35-P05",
+    "estado": "parcial",
+    "respuesta": "Chami confirma el efecto comercial de la ropa de la boda y pacta sesiones de poses y dibujos con reparto de ingresos.",
+    "pendiente": "Sesiones posteriores y evolución del acuerdo.",
+    "referencias": [
+      "35-001",
+      "42-002"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K36-P01",
+    "estado": "resuelta",
+    "respuesta": "Las cuatro posiciones señalan templos de guardianes cardinales. Toshi confirma la ruta y las expediciones obtienen sus favores para acceder al protector celeste. Es mapa distinto del de los dos puestos militares.",
+    "pendiente": "",
+    "referencias": [
+      "37-001",
+      "40-003",
+      "40-010",
+      "44-003",
+      "79-004"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K36-P02",
+    "estado": "parcial",
+    "respuesta": "Asami conserva cuatro colmillos y un corazón para trabajar, descartando el otro órgano.",
+    "pendiente": "Resultado de los trabajos.",
+    "referencias": [
+      "36-006",
+      "37-008"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K36-P03",
+    "estado": "parcial",
+    "respuesta": "Se encuentran árboles corrompidos en Sho y después más osarios. El director explica en140 que nacen donde sangró Otakemaru y que el debilitamiento de la barrera deja extender su magia. No se identifica un oficiante concreto de la activación036.",
+    "pendiente": "Responsable o desencadenante inmediato de aquel primer osario.",
+    "referencias": [
+      "36-003",
+      "36-007",
+      "47-006",
+      "47-007",
+      "140-014",
+      "140-016"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K37-P01",
+    "estado": "pendiente",
+    "respuesta": "La reacción de Asami relaciona las sombras con una antigüedad preocupante, sin identificar inequívocamente a su autor inmediato ni la frase de nombre dudoso que consideraba muerto.",
+    "pendiente": "¿Quién está detrás de las sombras y por qué Asami considera imposible su aparición?",
+    "referencias": [
+      "37-006"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K37-P02",
+    "estado": "resuelta",
+    "respuesta": "Los santuarios conservan guardianes que exigen pruebas y otorgan favores. El culto intenta matarlos, y la búsqueda culmina en la cúpula del dragón celeste. Más tarde los recuerdos revelan cómo la expansión humana y la persecución de yokais precipitaron la guerra antigua.",
+    "pendiente": "",
+    "referencias": [
+      "37-001",
+      "40-003",
+      "40-010",
+      "44-010",
+      "64-003",
+      "79-008",
+      "169-011",
+      "175-007",
+      "177-009",
+      "180-007"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K37-P03",
+    "estado": "resuelta",
+    "respuesta": "La búsqueda de un arma material de cristal culmina en el cementerio: Maroxi supera la prueba de la espada y vuelve con un rapier vinculado. No es el arma de sombra que desapareció con el general.",
+    "pendiente": "",
+    "referencias": [
+      "37-003",
+      "59-007",
+      "59-008",
+      "59-010"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K37-P04",
+    "estado": "parcial",
+    "respuesta": "Asami combina materiales y presenta un corrosivo verde que disuelve madera y deforma metal.",
+    "pendiente": "Trampas u objeto terminado y uso del corazón.",
+    "referencias": [
+      "37-008",
+      "39-006"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K38-P01",
+    "estado": "pendiente",
+    "respuesta": "Stolos declara alianza y necesidad de favores, pero no reaparece una identidad anterior contrastada ni la contraprestación concreta que esperaba de Otakemaru.",
+    "pendiente": "¿Quién es realmente Stolos y qué favores espera de Otakemaru?",
+    "referencias": [
+      "38-007"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K38-P02",
+    "estado": "pendiente",
+    "respuesta": "Los puntos militares del mapa quedan señalados, sin una identificación posterior inequívoca de Batallón Carmesí y del puesto C incompleto.",
+    "pendiente": "¿Qué son Batallón Carmesí y el puesto del sur marcado C?",
+    "referencias": [
+      "38-008"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K38-P03",
+    "estado": "parcial",
+    "respuesta": "El uso sobre la dodomeki fracasa; los infectados pueden ser tratados por Sirth, pero absorber el mal lo enferma. La derrota de Otakemaru libera a supervivientes transformados. Ninguna de esas escenas prueba un uso seguro general del invento declarado por Stolos.",
+    "pendiente": "Procedimiento neutralizador reproducible y alcance exacto del líquido de Stolos.",
+    "referencias": [
+      "38-004",
+      "38-007",
+      "39-009",
+      "66-001",
+      "78-003",
+      "181-012"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K38-P04",
+    "estado": "pendiente",
+    "respuesta": "No se da nombre ni explicación inequívoca al guardaespaldas de cuchilla nacida del brazo. No se lo fusiona con otros generales por apariencia o rol.",
+    "pendiente": "¿Quién es el acompañante de cuchilla orgánica?",
+    "referencias": [
+      "38-007",
+      "38-008"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K39-P01",
+    "estado": "resuelta",
+    "respuesta": "La búsqueda conduce al Sur, donde Crek reconoce a Erk, cuenta que robaron sus huevos y canta la melodía que la joven recuerda. Erk acepta el abrazo y ambas recuperan plumas rojas. La respuesta no se obtuvo en una visita demostrada a la anciana de Ciudad Cóndor.",
+    "pendiente": "",
+    "referencias": [
+      "39-002",
+      "74-009"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K39-P02",
+    "estado": "parcial",
+    "respuesta": "El mímico continúa atado en la base de Sho en066; el posible comprador mencionado en047 no acredita una venta.",
+    "pendiente": "Comprador, venta o cuidado definitivo.",
+    "referencias": [
+      "47-001",
+      "66-002"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K39-P03",
+    "estado": "pendiente",
+    "respuesta": "La muestra entra por las heridas y el cadáver explota. No se obtiene una explicación posterior del fallo ni una dosis o condición que lo prediga.",
+    "pendiente": "¿Por qué el líquido hizo explotar a la dodomeki en vez de mantenerla reanimada?",
+    "referencias": [
+      "39-009"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K39-P04",
+    "estado": "pendiente",
+    "respuesta": "Asami demuestra el preparado corrosivo, pero no entrega una trampa terminada identificada como producto de esa mezcla.",
+    "pendiente": "¿Qué trampas elabora Asami con el preparado corrosivo?",
+    "referencias": [
+      "39-006"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K40-P01",
+    "estado": "resuelta",
+    "respuesta": "Toshi identifica los cuatro guardianes y sus dominios; las expediciones los despiertan y obtienen favores. Los libros y recuerdos finales revelan versiones enfrentadas de la colonización y persecución. No se inventa lectura literal de páginas ilegibles que nunca se recuperaron.",
+    "pendiente": "",
+    "referencias": [
+      "44-003",
+      "44-007",
+      "44-009",
+      "40-009",
+      "79-004",
+      "180-007"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K40-P02",
+    "estado": "pendiente",
+    "respuesta": "Toshi identifica a sus captores y su interés en templos, pero no se nombra al mandante del secuestro ni se cuenta toda la infiltración de la guardia.",
+    "pendiente": "¿Quién ordenó el secuestro y cuántos guardias sirven al culto?",
+    "referencias": [
+      "40-007",
+      "40-009"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K40-P03",
+    "estado": "resuelta",
+    "respuesta": "La colaboración con Danifae alterna sospechas, hurtos y negociaciones hasta la ruptura168: roba las cuatro esferas, mata a Calista y su ritual manifiesta un avatar de Lolth. El epílogo conserva su búsqueda abierta, sin restitución de confianza demostrada.",
+    "pendiente": "",
+    "referencias": [
+      "40-004",
+      "40-009",
+      "70-005",
+      "104-003",
+      "168-003",
+      "168-006",
+      "168-007",
+      "182-006"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K40-P04",
+    "estado": "parcial",
+    "respuesta": "La casa del patio se entrega y el mímico acaba atado en la base de Sho. No se describe cómo terminó el proyecto de venderlo.",
+    "pendiente": "Destino definitivo del mímico.",
+    "referencias": [
+      "44-001",
+      "66-002"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K41-P01",
+    "estado": "parcial",
+    "respuesta": "La convivencia desemboca en agresión: LorMiau alterado mata a Gluglu y lo levanta como zombi; ambos quedan encerrados.",
+    "pendiente": "Curación del gato y del pez; la caracola sigue sin devolución descrita.",
+    "referencias": [
+      "44-002",
+      "48-005",
+      "48-006",
+      "48-009"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K41-P02",
+    "estado": "parcial",
+    "respuesta": "El reino marino reclama a Sur y amenaza con castigo. El viaje56 alcanza su palacio y descubre que quien ordenó la agresión fue el príncipe; el rey ofrece alianza y una perla de ayuda.",
+    "pendiente": "La precisión geográfica del reino y cualquier reclamación posterior.",
+    "referencias": [
+      "56-002",
+      "56-006",
+      "56-010",
+      "56-011"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K41-P03",
+    "estado": "resuelta",
+    "respuesta": "Maroxi envía madera y el shogun confirma terminado el barco; los cazadores zarpan con tres marineros hacia Hakara. Es distinto del préstamo para el templo occidental.",
+    "pendiente": "",
+    "referencias": [
+      "52-001",
+      "55-004",
+      "55-005"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K41-P04",
+    "estado": "pendiente",
+    "respuesta": "El reino recibe noticias y reclama a Sur, pero no se representa al ningyo superviviente dando su informe ni se especifican sus palabras.",
+    "pendiente": "¿Qué informa a su rey el ningyo que consiguió escapar?",
+    "referencias": [
+      "41-008"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K42-P01",
+    "estado": "parcial",
+    "respuesta": "Los oficios producen materiales y piezas: Corco mina, Gur tala, Erk recolecta y Gxi fabrica joyería y busca un maestro. Hay progresos comprobados, no un inventario final íntegro de toda materia reunida por los cuatro.",
+    "pendiente": "Balance final individual de materiales y nivel.",
+    "referencias": [
+      "42-006",
+      "48-001",
+      "48-004",
+      "61-007",
+      "62-001"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K42-P02",
+    "estado": "resuelta",
+    "respuesta": "No mantienen siempre una conducta pacífica: Gur derriba al enano tras el rescate045 y provoca una explosión en la taberna079. Corco también se enzarza con los mujina. La incorporación no borra los conflictos ni daños.",
+    "pendiente": "",
+    "referencias": [
+      "42-007",
+      "42-008",
+      "45-007",
+      "48-003",
+      "79-002"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K42-P03",
+    "estado": "resuelta",
+    "respuesta": "El shogun y Rau entregan la casa restaurada del patio con cofre. No se describe aún resolución de cuidado del mímico.",
+    "pendiente": "",
+    "referencias": [
+      "44-001"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K43-P01",
+    "estado": "pendiente",
+    "respuesta": "Wishi sospecha de una rival y duda que la muerte aparente sea definitiva. Ninguna escena posterior confirma que la agresora sea esa mujer concreta o que haya vuelto.",
+    "pendiente": "¿Era la agresora realmente la rival y sobrevivió al combate?",
+    "referencias": [
+      "43-004",
+      "43-005",
+      "43-008"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K43-P02",
+    "estado": "pendiente",
+    "respuesta": "La ubicación del burdel rival y la autoría del sabotaje no reciben comprobación. La rivalidad comercial es una hipótesis de Wishi, no un confesión de la agresora.",
+    "pendiente": "¿Dónde está su burdel y por qué atacaron el traslado?",
+    "referencias": [
+      "43-008",
+      "43-009"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K43-P03",
+    "estado": "parcial",
+    "respuesta": "Kasumi vende cosméticos con promesas no verificadas y participa en el rescate de almas, donde pierde la suya y la recupera al romperse la caja. No hay progreso de alquimia ni retorno al burdel rival que se demuestre después.",
+    "pendiente": "Aprendizaje ulterior y proyecto de dirigir otro establecimiento.",
+    "referencias": [
+      "43-002",
+      "43-009",
+      "45-001",
+      "45-005",
+      "45-006"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K43-P04",
+    "estado": "pendiente",
+    "respuesta": "La puerta se promete, pero no se muestra su entrega definitiva. Las puertas reforzadas de Haru y Jone en Ukio son anteriores y distintas.",
+    "pendiente": "¿Entrega Gxi la puerta prometida al burdel de Sho?",
+    "referencias": [
+      "43-009"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K44-P01",
+    "estado": "resuelta",
+    "respuesta": "Danifae recibe la primera esfera y después afirma buscar liberarse de Lolth con cuatro. Al romperlas en168 su tatuaje recibe la energía y emerge una figura que el director identifica como avatar de Lolth; el resultado observado supera su explicación inicial.",
+    "pendiente": "",
+    "referencias": [
+      "45-001",
+      "104-003",
+      "168-006",
+      "168-007"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K44-P02",
+    "estado": "resuelta",
+    "respuesta": "Los guardianes restantes conceden sus dones y las cuatro bendiciones permiten entrar en la prueba celeste. Kogan Dragon levanta la cúpula al norte tras el sacrificio del grupo, aunque advierte que las tropas de Otakemaru sí podrán entrar.",
+    "pendiente": "",
+    "referencias": [
+      "50-012",
+      "64-009",
+      "64-010",
+      "79-003",
+      "79-004",
+      "79-008"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K44-P03",
+    "estado": "pendiente",
+    "respuesta": "La nota ordena destruir al guardián y otros cultistas atacan santuarios. No aparece la firma de esa orden ni un recuento completo de todos los enviados.",
+    "pendiente": "¿Quién dio la orden de destruir al guardián y qué ocurrió con otros enviados?",
+    "referencias": [
+      "44-010"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K44-P04",
+    "estado": "resuelta",
+    "respuesta": "La convivencia desemboca en la muerte de Gluglu y su reanimación como zombi por LorMiau. El gato se cura después; ambos siguen en la casa y Gluglu permanece podrido y reanimado en169. La niña sigue tratándolos como parte del hogar. No se presenta como una curación del pez.",
+    "pendiente": "",
+    "referencias": [
+      "44-002",
+      "48-005",
+      "48-006",
+      "48-009",
+      "55-002",
+      "169-002",
+      "182-005"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K45-P01",
+    "estado": "pendiente",
+    "respuesta": "El observador de rojo desaparece sin presentarse. Ningún reconocimiento posterior lo identifica como Stolos, Tang o un general sólo por color y presencia.",
+    "pendiente": "¿Quién era el observador vestido de rojo y por qué no intervino?",
+    "referencias": [
+      "45-003",
+      "45-007"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K45-P02",
+    "estado": "resuelta",
+    "respuesta": "La promesa de abrir otro templo se sustituye por la declaración de un ritual contra la marca de Lolth. La activación efectiva de cuatro esferas desemboca en la manifestación del avatar de la diosa, no en un templo visitado.",
+    "pendiente": "",
+    "referencias": [
+      "45-001",
+      "104-003",
+      "168-006",
+      "168-007"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K45-P03",
+    "estado": "pendiente",
+    "respuesta": "La caja se rompe y libera las almas conservadas. No se narra reconstrucción, recuperación útil o nuevo uso de ese mismo artefacto.",
+    "pendiente": "¿Podría reconstruirse o usarse de nuevo la caja rota?",
+    "referencias": [
+      "45-006",
+      "45-008"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K46-P01",
+    "estado": "parcial",
+    "respuesta": "Shizuka deja de mostrarse sólo enfadada y concede a Sun una previsión antes de partir en169. La colaboración y el cuidado reaparecen, pero no hay una disculpa explícita documentada sobre el título que la decepcionó.",
+    "pendiente": "Conversación concreta de reparación.",
+    "referencias": [
+      "47-002",
+      "169-003",
+      "169-004"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K46-P02",
+    "estado": "parcial",
+    "respuesta": "Tang niega que Sun ya sea el Rey Mono; la nube reconoce a otro compañero histórico. Un macaco intenta robar el título y el monje lo desenmascara. Shen muestra otras encarnaciones y Sun culmina su camino como protector de Arwen, rechazando la inmortalidad. Se distingue ese destino de convertir toda afirmación inicial en biografía comprobada.",
+    "pendiente": "Identidad histórica completa del verdadero Rey Mono; no se confirma por el autoproclamado ladrón.",
+    "referencias": [
+      "46-003",
+      "46-008",
+      "72-005",
+      "72-009",
+      "72-010",
+      "169-005",
+      "177-002",
+      "179-008",
+      "179-009",
+      "179-010"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K46-P03",
+    "estado": "parcial",
+    "respuesta": "La nube lo acompaña, es llamada y robada por el rival en072 y el monje la devuelve a Sun. Más tarde sigue usándola en combate.",
+    "pendiente": "No equivale a una obediencia ilimitada o irrevocable.",
+    "referencias": [
+      "72-005",
+      "72-009",
+      "175-005"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K46-P04",
+    "estado": "pendiente",
+    "respuesta": "Ikari deja la piel de serpiente al herrero de Sho. No hay una entrega posterior inequívoca de un producto hecho con ese encargo.",
+    "pendiente": "¿Qué fabricará el herrero con la piel de serpiente?",
+    "referencias": [
+      "46-001"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K47-P01",
+    "estado": "parcial",
+    "respuesta": "Erk reconoce al mago que infectaba árboles de Sho cuando ataca Ukio. Ikari reconoce su voz del ataque a su aldea. Jin lo decapita tras el combate.",
+    "pendiente": "No recibe nombre propio ni se explica otro lugar concreto de plantación.",
+    "referencias": [
+      "70-006",
+      "70-009"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K47-P02",
+    "estado": "resuelta",
+    "respuesta": "Los dirigentes meridionales explican que las comunidades aarakocra son custodias de los guardianes. El templo norteño se alcanza por la ruta de Cóndor y contiene a Genbu.",
+    "pendiente": "",
+    "referencias": [
+      "64-002",
+      "64-003",
+      "74-007",
+      "74-008"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K47-P03",
+    "estado": "parcial",
+    "respuesta": "Maroxi entrega muestras a Asami para estudiar. La investigación posterior explica que árboles nacen de sangre de Otakemaru y que el deterioro de la protección permite extender la corrupción, pero no se muestra el informe final específico sobre aquel puñado de tierra.",
+    "pendiente": "Informe de Asami y destino de la muestra original.",
+    "referencias": [
+      "47-007",
+      "47-008",
+      "52-005",
+      "140-014",
+      "140-016"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K47-P04",
+    "estado": "pendiente",
+    "respuesta": "El posible comprador no recibe nombre ni paga en escena. El mímico sigue atado en la base en066.",
+    "pendiente": "¿Quién es el posible comprador del mímico y aceptará pagarlo?",
+    "referencias": [
+      "47-001"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K48-P01",
+    "estado": "parcial",
+    "respuesta": "Sirth cura a LorMiau y lo muestra recuperado en055. Gluglu continúa zombi; todavía se lo presenta podrido y reanimado por el gato en169. La libertad que muestra en el epílogo no demuestra reversión de ese estado.",
+    "pendiente": "Una recuperación explícita de la vida normal de Gluglu.",
+    "referencias": [
+      "55-002",
+      "66-002",
+      "169-002",
+      "182-005"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K48-P02",
+    "estado": "parcial",
+    "respuesta": "Tip y Top llegan a ser arrestados por un homicidio, pero Ciari admite que aceptó un encargo para incriminarlos. La acusación no sirve para demostrar que violaron aquella norma.",
+    "pendiente": "Disciplina y convivencia posterior, sin atribuirles el asesinato preparado por terceros.",
+    "referencias": [
+      "48-003",
+      "88-001",
+      "88-007"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K48-P03",
+    "estado": "parcial",
+    "respuesta": "El clérigo revela posteriormente que el nekomata bebió sangre de Otakemaru procedente del árbol y consigue curarlo. En048 sólo se veía vial vacío y Shizuka lo asociaba con el del clérigo; no se borra esa diferencia retrospectivamente.",
+    "pendiente": "Medidas de almacenamiento y destino de otras muestras.",
+    "referencias": [
+      "48-007",
+      "48-008",
+      "55-002",
+      "78-003"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K49-P01",
+    "estado": "resuelta",
+    "respuesta": "Katari devuelve al grupo al plano físico y Mitsune despierta y abraza a su madre.",
+    "pendiente": "",
+    "referencias": [
+      "49-014"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K49-P02",
+    "estado": "resuelta",
+    "respuesta": "No consiguen frenar las pesadillas ni expulsar la presencia que oye Katari. El baku muere pidiendo ayuda para la niña.",
+    "pendiente": "",
+    "referencias": [
+      "49-011",
+      "49-012",
+      "49-013"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K49-P03",
+    "estado": "pendiente",
+    "respuesta": "Katari escucha una voz ajena que reclama los sueños y Kuroto; la conversación no prueba por sí misma una identidad.",
+    "pendiente": "Identificar al hablante mediante evidencia posterior.",
+    "referencias": [
+      "49-012"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K49-P04",
+    "estado": "parcial",
+    "respuesta": "Cael vuelve en082 buscando a los cazadores y dispuesto a combatir a Otakemaru, y participa en rescates y viajes del gremio.",
+    "pendiente": "No se aporta una firma de ingreso que la participación por sí sola no demuestra.",
+    "referencias": [
+      "82-002",
+      "82-004",
+      "82-008"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K49-P05",
+    "estado": "parcial",
+    "respuesta": "Katari se presenta como enviada del protector y participa en la prueba del templo celeste; en 107 el dragón le encarga vigilar a los elegidos y evitar otra bendición perdida.",
+    "pendiente": "La misión tiene desarrollo confirmado, sin reducir todos sus deberes a una orden única.",
+    "referencias": [
+      "69-009",
+      "79-005",
+      "107-007"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K49-P06",
+    "estado": "parcial",
+    "respuesta": "Gur encuentra en el capítulo 51 a un herrero de Ukio dispuesto a fabricar dos camas y le entrega la madera de los sueños. En el 54, después de llevar más madera, el director confirma que las dos están terminadas. No se muestra todavía la entrega a Mitsune y su madre en Sho.",
+    "pendiente": "Traslado y entrega de las dos camas a la familia.",
+    "referencias": [
+      "49-015",
+      "51-005",
+      "54-001"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K49-P07",
+    "estado": "resuelta",
+    "respuesta": "En 51 aún seguía rabioso y Sirth pidió no llevarlo al torneo. En el capítulo 55 el clérigo anuncia que lo ha curado: había bebido por accidente una muestra de sangre de Otakemaru recogida bajo los árboles tras la invasión de Sho. El nekomata recuperado queda encargado de vigilar la base durante el viaje al norte.",
+    "pendiente": "",
+    "referencias": [
+      "49-001",
+      "51-010",
+      "55-002",
+      "55-004"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K50-P01",
+    "estado": "resuelta",
+    "respuesta": "Superan la prueba y Seiryu bendice objetos de los cuatro cazadores.",
+    "pendiente": "",
+    "referencias": [
+      "50-009",
+      "50-010",
+      "50-011",
+      "50-012"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K50-P02",
+    "estado": "parcial",
+    "respuesta": "En053 el orbe frío se atribuye ya a Jin, aunque Shiru lo recogió en050. Danifae se lo lleva de Jin en070 mediante engaño y encantamiento. El tramo confirma el destino y conserva el hueco del traspaso Shiru–Jin.",
+    "pendiente": "Entrega intermedia no mostrada y ausencia de una entrega directa Shiru–Danifae.",
+    "referencias": [
+      "50-003",
+      "50-008",
+      "50-012",
+      "53-002",
+      "70-005"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K50-P03",
+    "estado": "resuelta",
+    "respuesta": "Danifae afirma buscar liberarse de Lolth y finalmente rompe los cuatro orbes. La energía llega a su marca y emerge un avatar de la diosa. El desenlace observado no confirma que la liberación prometida haya funcionado.",
+    "pendiente": "",
+    "referencias": [
+      "104-003",
+      "104-007",
+      "168-006",
+      "168-007"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K50-P04",
+    "estado": "resuelta",
+    "respuesta": "El camino de Sun culmina en 179: Kogane lo reconoce protector de la nueva guardiana, vence a Shen y rechaza la inmortalidad para permanecer con su familia. El epílogo lo muestra enseñando a otra generación. Es una nueva responsabilidad, sin inventar una restitución retroactiva de cada bendición perdida.",
+    "pendiente": "",
+    "referencias": [
+      "179-008",
+      "179-009",
+      "179-010",
+      "182-009"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K50-P05",
+    "estado": "parcial",
+    "respuesta": "Las comunidades aarakocra se identifican como protectoras de los guardianes y explican devastaciones de las comunidades oriental y occidental.",
+    "pendiente": "Causa exacta y cronología del abandono de ese santuario oriental.",
+    "referencias": [
+      "50-008",
+      "74-008"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K51-P01",
+    "estado": "parcial",
+    "respuesta": "El encargo y el primer material entregados en 51 se completan con más madera. Al comienzo del 54 el director confirma que el herrero ha fabricado las dos camas. Sigue sin narrarse su llegada a la familia.",
+    "pendiente": "Confirmar traslado y entrega en Sho.",
+    "referencias": [
+      "51-005",
+      "54-001"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K51-P02",
+    "estado": "resuelta",
+    "respuesta": "Gur y Katari ganan; Shizuka y el kamaitachi quedan segundos y Corco con el mercader terceros. Los premios se entregan.",
+    "pendiente": "",
+    "referencias": [
+      "51-009",
+      "51-010",
+      "51-011",
+      "51-012"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K51-P03",
+    "estado": "parcial",
+    "respuesta": "El herrero acepta que acuda en su tiempo libre para aprender.",
+    "pendiente": "Seguir si empieza y progresa en el oficio.",
+    "referencias": [
+      "51-006"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K51-P04",
+    "estado": "resuelta",
+    "respuesta": "Sirth confirma en 55 que el nekomata ya está curado y explica que su alteración comenzó al beber sangre de Otakemaru dejada en un recipiente al alcance.",
+    "pendiente": "",
+    "referencias": [
+      "51-010",
+      "55-002"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K52-P01",
+    "estado": "resuelta",
+    "respuesta": "Al desaparecer la yuki-onna cesa la tormenta y los cautivos se descongelan y regresan a sus familias. El aldeano muerto durante el combate no revive.",
+    "pendiente": "",
+    "referencias": [
+      "52-006",
+      "52-011",
+      "52-012"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K52-P02",
+    "estado": "pendiente",
+    "respuesta": "Recuerda una yokai parecida, pero no confirma que sea esta misma.",
+    "pendiente": "Contrastar identidad y relación previa.",
+    "referencias": [
+      "52-007"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K52-P03",
+    "estado": "parcial",
+    "respuesta": "Asami acepta estudiar los huesos; el hallazgo posterior de laboratorios confirma experimentos con cuerpos y máscaras, pero no entrega una conclusión atribuida a ella sobre esa muestra.",
+    "pendiente": "Resultado específico de Asami y devolución de materiales.",
+    "referencias": [
+      "52-005",
+      "63-004",
+      "63-012"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K52-P04",
+    "estado": "parcial",
+    "respuesta": "Maroxi y Mufasa acuerdan el intercambio, pero copiar requiere tiempo y no se muestra completado.",
+    "pendiente": "Confirmar el aprendizaje efectivo.",
+    "referencias": [
+      "52-012"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K52-P05",
+    "estado": "parcial",
+    "respuesta": "Las escenas anteriores muestran a Maroxi suplantando al enano para cobrar el casino. Esto identifica al lector un autor confirmado, sin convertir ese conocimiento en descubrimiento del perjudicado.",
+    "pendiente": "Quién descubre la suplantación y si la clave impide nuevos cobros.",
+    "referencias": [
+      "40-006",
+      "47-002",
+      "52-001",
+      "52-004"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K53-P01",
+    "estado": "resuelta",
+    "respuesta": "La mujer muere bajo el ataque del perro de Ikari después de que Shiru la hiera gravemente. El shogun recibe el informe.",
+    "pendiente": "",
+    "referencias": [
+      "53-003",
+      "53-008",
+      "53-009",
+      "53-011"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K53-P02",
+    "estado": "parcial",
+    "respuesta": "Se curan y sacan algunos supervivientes. Hay cadáveres y quedan capullos en el techo cuando empieza el incendio; no se registra el estado de todos.",
+    "pendiente": "Destino de los no revisados y resultado de la intervención de los soldados.",
+    "referencias": [
+      "53-005",
+      "53-010",
+      "53-011"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K53-P03",
+    "estado": "resuelta",
+    "respuesta": "No: el shogun recuerda que esa tarea ya estaba pagada. Guxi solo había ofrecido invitar a comida y bebida.",
+    "pendiente": "",
+    "referencias": [
+      "53-003",
+      "53-011",
+      "53-012"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K53-P04",
+    "estado": "resuelta",
+    "respuesta": "En 70 Danifae despierta a Jin, lo hechiza con su persuasión y obtiene el orbe que él conservaba, afirmando que ya tiene tres. La escena no completa por sí sola la procedencia de los otros dos.",
+    "pendiente": "",
+    "referencias": [
+      "70-004",
+      "70-005"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K53-P05",
+    "estado": "pendiente",
+    "respuesta": "Se ve el sello y su interés, pero no se explica el contenido.",
+    "pendiente": "Recuperar contenido y consecuencias de que lo conserve.",
+    "referencias": [
+      "53-002"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K54-P01",
+    "estado": "parcial",
+    "respuesta": "Las camas están fabricadas y el shogun ofrece colaboración de su carpintero para llevar adelante el proyecto.",
+    "pendiente": "Entrega final a Mitsune y su madre, que no se acredita por tenerlas terminadas.",
+    "referencias": [
+      "54-001",
+      "56-012"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K54-P02",
+    "estado": "resuelta",
+    "respuesta": "No: acaba inconsciente y vivo. Cuatro compañeros vencen después juntos al adversario.",
+    "pendiente": "",
+    "referencias": [
+      "54-005",
+      "54-006",
+      "54-007",
+      "54-008"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K54-P03",
+    "estado": "resuelta",
+    "respuesta": "Kuma se presenta como maestro y entrena a Gur; más adelante lo acompaña y traga el orbe de fuego. Su papel de sensei queda confirmado, sin confundirlo con cada demonio nombrado por terceros.",
+    "pendiente": "",
+    "referencias": [
+      "54-006",
+      "54-010",
+      "76-010"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K54-P04",
+    "estado": "parcial",
+    "respuesta": "Kuma afirma que no mata y dice no conocer al metamorfo. Los compañeros no lo identifican como el enemigo, pero esa declaración no prueba por sí sola toda su historia.",
+    "pendiente": "Contrastar identidad del asesino y posibles relaciones posteriores.",
+    "referencias": [
+      "54-004",
+      "54-005",
+      "54-009",
+      "54-010"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K54-P05",
+    "estado": "parcial",
+    "respuesta": "Valgra identifica su búsqueda como el Demonio de la Garra, ligado a su familia; Ermitaño relaciona su historia con Belcebú. No hay localización final inequívoca ni prueba de que Kuma sea ese enemigo.",
+    "pendiente": "Localización e identidad comprobada del perseguidor.",
+    "referencias": [
+      "54-004",
+      "54-009",
+      "54-010",
+      "57-005"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K54-P06",
+    "estado": "resuelta",
+    "respuesta": "En 70 Danifae despierta a Jin, lo hechiza con su persuasión y obtiene el orbe que él conservaba, afirmando que ya tiene tres. La escena no completa por sí sola la procedencia de los otros dos.",
+    "pendiente": "",
+    "referencias": [
+      "70-004",
+      "70-005"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K55-P01",
+    "estado": "resuelta",
+    "respuesta": "Sirth anuncia la cura y explica que bebió sangre de Otakemaru de una muestra dejada al alcance.",
+    "pendiente": "",
+    "referencias": [
+      "55-002"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K55-P02",
+    "estado": "parcial",
+    "respuesta": "Sirth no consigue devolverle la vida en055. LorMiau relata después haberlo devorado y reanimado; en169 sigue podrido y el gato lo anima otra vez. El epílogo lo muestra libre por la calle sin demostrar cura ni atribuirla al clérigo.",
+    "pendiente": "El destino posterior se conoce, pero no se demuestra la intervención de Sirth que planteaba la pregunta.",
+    "referencias": [
+      "55-002",
+      "91-002",
+      "113-001",
+      "169-002",
+      "182-005"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K55-P03",
+    "estado": "resuelta",
+    "respuesta": "Terminado, zarpa de Sho con tres marineros y alcanza Hakara tras sobrevivir al umibozu.",
+    "pendiente": "",
+    "referencias": [
+      "55-004",
+      "55-005",
+      "55-008",
+      "55-009"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K55-P04",
+    "estado": "resuelta",
+    "respuesta": "La expedición064 sigue la ruta de Cóndor, alcanza el templo y encuentra a Genbu; obtiene la bendición tras combatir.",
+    "pendiente": "",
+    "referencias": [
+      "64-002",
+      "64-003",
+      "64-009",
+      "64-010"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K55-P05",
+    "estado": "parcial",
+    "respuesta": "Guxi encuentra al joyero y trata de demostrar su oficio. Falla la pieza, pero consigue que lo avise cuando tenga trabajos para ayudar.",
+    "pendiente": "Encargos posteriores y aprendizaje concreto.",
+    "referencias": [
+      "61-007"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K55-P06",
+    "estado": "pendiente",
+    "respuesta": "La compra de piedras incluye la promesa de tenerlo en cuenta al aprender. El anillo de la travesía no se entrega a Corco ni tiene propiedades cerradas.",
+    "pendiente": "Fabricación, propiedades y entrega.",
+    "referencias": [
+      "55-001",
+      "55-005"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K55-P07",
+    "estado": "parcial",
+    "respuesta": "La trompetilla ayuda parcialmente a Corco. El libro de Maroxi no ofrece remedio para su sordera.",
+    "pendiente": "Curación efectiva o cambio permanente del problema.",
+    "referencias": [
+      "59-001"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K56-P01",
+    "estado": "resuelta",
+    "respuesta": "El verdadero rey interviene, pide perdón por las órdenes de su hijo y entrega una perla para simbolizar paz y ayuda. El shogun recibe el acuerdo.",
+    "pendiente": "",
+    "referencias": [
+      "56-010",
+      "56-011",
+      "56-012"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K56-P02",
+    "estado": "resuelta",
+    "respuesta": "No la buscan ni la entregan. El verdadero rey asume resolver ese asunto después de desautorizar al príncipe.",
+    "pendiente": "",
+    "referencias": [
+      "56-002",
+      "56-003",
+      "56-005",
+      "56-010"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K56-P03",
+    "estado": "resuelta",
+    "respuesta": "Danifae lo toma de rehén y le corta el cuello al empezar el combate. El diálogo posterior lo reconoce como muerto.",
+    "pendiente": "",
+    "referencias": [
+      "56-007",
+      "56-008"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K56-P04",
+    "estado": "resuelta",
+    "respuesta": "El rey rechaza esa cesión y ofrece prestarlo cuando lo soliciten mediante la perla. Se habla de otro barco para Katari, sin identificar una entrega concreta aquí.",
+    "pendiente": "",
+    "referencias": [
+      "56-006",
+      "56-011"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K56-P05",
+    "estado": "parcial",
+    "respuesta": "Se acuerdan compensaciones y quinientas monedas por persona; el barco y el arma se hablan sin mostrar su recepción física.",
+    "pendiente": "Entrega, naturaleza y condiciones de esos bienes.",
+    "referencias": [
+      "56-011"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K56-P06",
+    "estado": "parcial",
+    "respuesta": "El shogun distingue los contratos de los voluntarios: Sun firma, Hayate sigue voluntario y ordena revisar y pagar los atrasos que correspondan a Maroxi.",
+    "pendiente": "Confirmación del abono efectivo y de un sueldo general para todos.",
+    "referencias": [
+      "75-010",
+      "78-002"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K56-P07",
+    "estado": "pendiente",
+    "respuesta": "El shogun propone colaboración entre su carpintero y el herrero. No hay entrega a Mitsune y su madre.",
+    "pendiente": "Resolver la continuidad del encargo y llevar los muebles a la familia.",
+    "referencias": [
+      "56-012"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K56-P08",
+    "estado": "pendiente",
+    "respuesta": "Se entrega el objeto y se propone transformar raciones y producir un efecto, sin cerrar sus reglas.",
+    "pendiente": "Propiedades confirmadas y uso posterior.",
+    "referencias": [
+      "56-013"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K57-P01",
+    "estado": "resuelta",
+    "respuesta": "Al vencer a los kachutengu cae la ilusión, lo encuentran atado y lo devuelven a Hakara.",
+    "pendiente": "",
+    "referencias": [
+      "57-008",
+      "57-009",
+      "57-010",
+      "57-011",
+      "57-012"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K57-P02",
+    "estado": "resuelta",
+    "respuesta": "La flor recogida en57 se entrega en58: Katari la lleva a la alquimista de Hakara, que la acepta y paga cinco monedas de oro.",
+    "pendiente": "",
+    "referencias": [
+      "57-004",
+      "57-005",
+      "58-011"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K57-P03",
+    "estado": "parcial",
+    "respuesta": "El dragón de sombras pide ayudar a la enviada azul para despertar al protector de Kuroto. Katari e Ikari participan efectivamente en la prueba de Kogan que levanta la cúpula. No se demuestra con ello la identidad completa ni el parentesco entre ambos dragones.",
+    "pendiente": "Relación precisa con el dragón que habló desde Shadowfell.",
+    "referencias": [
+      "57-006",
+      "79-005",
+      "79-008"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K57-P04",
+    "estado": "parcial",
+    "respuesta": "El drow explica bajo zona de verdad que Danifae es su hermana, que abandonó voluntariamente su sociedad y teme el poder de su madre. Antes reconoce que mintió al no saber si eran aliados de ella.",
+    "pendiente": "No se demuestra con ello cada circunstancia de la prisión y el portal que contó inicialmente.",
+    "referencias": [
+      "57-007",
+      "65-005",
+      "65-006",
+      "65-007"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K57-P05",
+    "estado": "parcial",
+    "respuesta": "Dai lamenta el material alterado. Gelbreak toma algunas y lo niega. No se realiza análisis completo.",
+    "pendiente": "Naturaleza del líquido, uso y destino de las piezas.",
+    "referencias": [
+      "57-008",
+      "57-011"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K57-P06",
+    "estado": "pendiente",
+    "respuesta": "Valgra comparte su búsqueda y Ermitaño aporta información religiosa, pero el enemigo no se presenta.",
+    "pendiente": "Localización e identidad del adversario.",
+    "referencias": [
+      "57-005"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K58-P01",
+    "estado": "resuelta",
+    "respuesta": "Guxi le entrega el formulario, lo firma y recibe una copia.",
+    "pendiente": "",
+    "referencias": [
+      "58-002",
+      "58-009"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K58-P02",
+    "estado": "resuelta",
+    "respuesta": "Recibe y firma el contrato, con copia entregada por el artífice.",
+    "pendiente": "",
+    "referencias": [
+      "58-002",
+      "58-009"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K58-P03",
+    "estado": "resuelta",
+    "respuesta": "En privado reconoce que es una amiga de su madre y le pide seguir la corriente. La presentación familiar no demuestra una filiación biológica.",
+    "pendiente": "",
+    "referencias": [
+      "58-008"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K58-P04",
+    "estado": "parcial",
+    "respuesta": "Se combate a figuras tratadas como no muertos. Joshua afirma después que son personas vivas sostenidas por placas mágicas. No hay liberación ni recuento final documentados.",
+    "pendiente": "Resolver la discrepancia y el destino de quienes quedan.",
+    "referencias": [
+      "58-003",
+      "58-005",
+      "58-007"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K58-P05",
+    "estado": "parcial",
+    "respuesta": "Gelbreak declara que es hermano de Danifae y teme que las esferas den poder a su madre. Pide discreción para evitar que ella informe a la matrona.",
+    "pendiente": "La función exacta de las reliquias todavía la desconoce en esa conversación.",
+    "referencias": [
+      "65-005",
+      "65-006",
+      "65-007"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K58-P06",
+    "estado": "resuelta",
+    "respuesta": "Katari la entrega y recibe cinco monedas.",
+    "pendiente": "",
+    "referencias": [
+      "58-011"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K58-P07",
+    "estado": "pendiente",
+    "respuesta": "Gelbreak se los quita durante un abrazo y luego intenta convertir otra mentira en una reclamación al shogunato. No devuelve el dinero en la sesión.",
+    "pendiente": "Descubrimiento, devolución o consecuencias del robo.",
+    "referencias": [
+      "58-008",
+      "58-009"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K59-P01",
+    "estado": "resuelta",
+    "respuesta": "Abandona los ataques a la espada, suelta su otro rapier y la toma por la empuñadura mediante su poder psiónico. El arma acepta vincularse con él.",
+    "pendiente": "",
+    "referencias": [
+      "59-007",
+      "59-008",
+      "59-010"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K59-P02",
+    "estado": "pendiente",
+    "respuesta": "Vencen a los enemigos del encuentro y dejan de excavar, pero no se demuestra que desaparezca la oscuridad ni toda la maldición.",
+    "pendiente": "Estado posterior del lugar y sus muertos.",
+    "referencias": [
+      "59-005",
+      "59-006",
+      "59-009",
+      "59-010"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K59-P03",
+    "estado": "parcial",
+    "respuesta": "Ella estudia la posibilidad y pide ver sus habilidades y hablar con su marido. El primer intento de poción falla; no hay acuerdo final.",
+    "pendiente": "Confirmar aceptación y condiciones.",
+    "referencias": [
+      "59-002",
+      "59-004"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K59-P04",
+    "estado": "parcial",
+    "respuesta": "Saya autentifica el fragmento y lo usa para explicar ejército, guerra antigua y localización de espadas y templo.",
+    "pendiente": "Conclusiones nuevas del estudio prolongado y devolución del fragmento.",
+    "referencias": [
+      "59-003",
+      "59-004"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K59-P05",
+    "estado": "resuelta",
+    "respuesta": "La ruta pendiente culmina en064 con la llegada al santuario del Norte y la prueba de Genbu.",
+    "pendiente": "",
+    "referencias": [
+      "64-002",
+      "64-003",
+      "64-009",
+      "64-010"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K60-P01",
+    "estado": "resuelta",
+    "respuesta": "En 66 el director confirma que Sirth ha tratado durante semanas a Erk, Hayate y su hermano y que los tres están curados.",
+    "pendiente": "",
+    "referencias": [
+      "66-001"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K60-P02",
+    "estado": "resuelta",
+    "respuesta": "Al inicio de 62 el director confirma que Hayate y Erk quedaron infectados; en 66 confirma que ambos y el hermano rescatado están curados tras el tratamiento de Sirth.",
+    "pendiente": "",
+    "referencias": [
+      "62-001",
+      "66-001"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K60-P03",
+    "estado": "resuelta",
+    "respuesta": "Suzaku reconoce a Aka como elegida tras su sacrificio. Erk encuentra antes en el Sur a Crek, que se presenta como su madre y recuerda los huevos robados; su melodía y el cambio de plumaje enlazan a ambas.",
+    "pendiente": "",
+    "referencias": [
+      "76-004",
+      "76-008",
+      "76-011",
+      "74-009"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K60-P04",
+    "estado": "resuelta",
+    "respuesta": "La expedición064 alcanza el templo que no pudieron visitar al rescatar a Zarim y obtiene el favor de Genbu.",
+    "pendiente": "",
+    "referencias": [
+      "64-002",
+      "64-003",
+      "64-009",
+      "64-010"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K60-P05",
+    "estado": "resuelta",
+    "respuesta": "Zarim se lo entrega y sus propiedades se explican en mesa.",
+    "pendiente": "",
+    "referencias": [
+      "60-009"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K61-P01",
+    "estado": "pendiente",
+    "respuesta": "El cervan lo reconoce, entra en pánico y relata una persecución antigua, sin explicar el motivo.",
+    "pendiente": "Identidad, causa de la caza y forma de detenerla.",
+    "referencias": [
+      "61-003",
+      "61-004",
+      "61-005",
+      "61-006"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K61-P02",
+    "estado": "parcial",
+    "respuesta": "Shiru fabrica una prótesis tras perder el cuerno y más tarde la mejora con acero y bisagra. Eso compensa la pérdida sin recuperar el cuerno natural arrebatado.",
+    "pendiente": "Destino del trofeo original.",
+    "referencias": [
+      "63-001",
+      "85-001",
+      "89-001"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K61-P03",
+    "estado": "resuelta",
+    "respuesta": "Carta y paquete llegan, con un breve olvido corregido por la cartera. Recibe el rodillo mágico.",
+    "pendiente": "",
+    "referencias": [
+      "61-008",
+      "61-009"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K61-P04",
+    "estado": "parcial",
+    "respuesta": "Fracasa en la demostración, pero consigue que el artesano lo avise para futuros trabajos.",
+    "pendiente": "Comprobar los encargos y el progreso del aprendizaje.",
+    "referencias": [
+      "61-007"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K62-P01",
+    "estado": "parcial",
+    "respuesta": "La tos de Ermitaño desaparece tras morir la bruja, pero falta revisar al vecino de la taberna.",
+    "pendiente": "Comprobar la ausencia de enfermedad y traducir las notas.",
+    "referencias": [
+      "62-002",
+      "62-003",
+      "62-009",
+      "62-011"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K62-P02",
+    "estado": "pendiente",
+    "respuesta": "Las notas se recuperan sin traducir y el mal se distingue de la sangre de Otakemaru.",
+    "pendiente": "Traducir y estudiar el procedimiento.",
+    "referencias": [
+      "62-011"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K62-P03",
+    "estado": "pendiente",
+    "respuesta": "Aceptan el trato y Gur gana dejándolo inconsciente, pero no se muestra la transferencia.",
+    "pendiente": "Comprobar la entrega y el uso posterior.",
+    "referencias": [
+      "62-010"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K62-P04",
+    "estado": "pendiente",
+    "respuesta": "Una escena final la muestra extendiéndose sin que el grupo la vea.",
+    "pendiente": "Investigar su causa y sus consecuencias.",
+    "referencias": [
+      "62-011"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K62-P05",
+    "estado": "resuelta",
+    "respuesta": "El director confirma que sí y que parten a la capital a buscar tratamiento.",
+    "pendiente": "",
+    "referencias": [
+      "62-001"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  }
+]

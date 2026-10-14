@@ -33,31 +33,27 @@
 <body>
   <aside id="sidebar" aria-label="Navegación de la enciclopedia">
     <a class="brand" href="#campanas" aria-label="Arghast, elegir campaña">
-      <svg class="brand-symbol" viewBox="0 0 48 48" aria-hidden="true"><circle cx="24" cy="24" r="21" fill="none" stroke="currentColor" stroke-width=".7"/><circle cx="24" cy="14" r="5" fill="none" stroke="currentColor"/><path d="M9 34h30M13 29h22M17 24h14M20 20h8M13 29v5m4-10v5m3-9v4m8-4v4m3 0v5m4 0v5M24 3v3m0 32v7M3 24h3m36 0h3" fill="none" stroke="currentColor" stroke-width="1"/></svg>
+      <img class="brand-symbol" src="assets/lichpol-logo.webp" alt="Lichpol" width="44" height="44">
       <span class="brand-name">Arghast</span>
-      <span class="brand-subtitle">Un mundo. Muchas historias.</span>
     </a>
     <div class="campaign-picker"><label for="campaign-selector">Estás explorando</label><select id="campaign-selector" aria-label="Elegir campaña"><option value="">Elegir campaña</option><option value="xoltacan">Xoltacan</option><option value="kuroto">Kuroto</option></select><a href="#campanas">Ver las campañas <span aria-hidden="true">↗</span></a></div>
-    <div class="nav-label">Explorar el archivo</div>
+    <div class="nav-label">Archivo</div>
     <nav class="nav-links">
       <a href="#inicio" class="active"><span class="nav-symbol" aria-hidden="true">⌂</span>Portada</a>
-      <a href="#cronologia"><span class="nav-symbol" aria-hidden="true">◷</span>Cronología</a>
-      <a href="#capitulos"><span class="nav-symbol" aria-hidden="true">▤</span>Capítulos</a>
+      <a href="#cronologia"><span class="nav-symbol" aria-hidden="true">◷</span>Acontecimientos</a>
+      <a href="#capitulos"><span class="nav-symbol" aria-hidden="true">▤</span>Crónicas</a>
       <a href="#personajes"><span class="nav-symbol" aria-hidden="true">♙</span>Personajes</a>
       <a href="#atlas"><span class="nav-symbol" aria-hidden="true">◇</span>Lugares</a>
       <a href="#facciones"><span class="nav-symbol" aria-hidden="true">⚑</span>Facciones</a>
-      <a href="#objetos"><span class="nav-symbol" aria-hidden="true">◈</span>Objetos</a>
+      <a href="#objetos"><span class="nav-symbol" aria-hidden="true">◈</span>Vestigios</a>
     </nav>
-    <div class="nav-label">Hilos de la campaña</div>
+    <div class="nav-label">Campaña</div>
     <nav class="nav-links">
       <a href="#misiones"><span class="nav-symbol" aria-hidden="true">↗</span>Misiones</a>
-      <a href="#misterios"><span class="nav-symbol" aria-hidden="true">✧</span>Preguntas y desenlaces</a>
+      <a href="#misterios"><span class="nav-symbol" aria-hidden="true">✧</span>Misterios y desenlaces</a>
       <a href="#relaciones"><span class="nav-symbol" aria-hidden="true">⌘</span>Relaciones</a>
     </nav>
     <div class="sidebar-bottom">
-      <div class="archive-label">Enciclopedia verificable</div>
-      <p class="sidebar-note">Cada acontecimiento conserva su fuente. Los enigmas siguen abiertos hasta que la campaña los resuelve.</p>
-      <div class="sidebar-rule"></div>
       <div id="app-stats" class="sidebar-stats">Cargando el archivo…</div>
     </div>
   </aside>
@@ -71,13 +67,12 @@
         <input id="global-search" type="search" placeholder="Buscar personajes, lugares, acontecimientos…" autocomplete="off" spellcheck="false">
         <button id="search-clear" type="button" aria-label="Borrar búsqueda" title="Borrar búsqueda">×</button>
       </div>
-      <span class="topbar-seal">Selva · Mar · Memoria</span>
     </header>
     <div class="content-wrap">
       <div id="breadcrumbs" aria-label="Ruta de navegación"><span>Archivo</span><span aria-hidden="true">/</span><span>Portada</span></div>
       <div id="search-status" role="status" aria-live="polite"></div>
       <main id="content" tabindex="-1"><div class="loading">Abriendo el archivo de Arghast…</div></main>
-      <footer class="footer"><span class="footer-mark">Arghast · Un mundo, muchas historias</span><span>Archivos por campaña · Referencias por capítulo y minuto</span></footer>
+      <footer class="footer"><a href="#metodo">Fuentes y método</a></footer>
     </div>
   </div>
   <!-- DATA -->

@@ -1,0 +1,356 @@
+{
+  "capitulo": 121,
+  "estado_revision": "revisado",
+  "fuente_sha256": "45bcb3b09d34faab50461289c06dba6b7c41984739db9034d707f13680d9cade",
+  "resumen": "La búsqueda de ingredientes aún no empieza. Banzo cuenta otra visita de la matriarca y una tentación cuya elección no detalla. Calista sí refiere una consecuencia concreta: la visitante le arrebató el recuerdo de sus padres. Vuelve agotada y asustada, pese a intentar mostrarse cordial. Se recapitula también que el eructo de Arwen rompió el peñasco y que la esfera sigue dentro de la niña; la sesión no reproduce esa escena ni convierte la recapitulación en una extracción. Kurobani reúne a Banzo, Gur, Guxi, Calista y Gelbreak para regresar al monasterio donde se crió. Quiere información sobre las antiguas luchas contra Otakemaru y sobre el poder que lleva dentro. Gelbreak entrega los papeles que ha investigado, pero lo presiona para que explique el riesgo a quienes lo acompañan. Viajan en el barco de Guxi hasta Ukio y usan el portal que aún conecta con el campamento del sur. La falta de combustible y el cansancio de los soldados dan contexto a un trayecto que no se resuelve mediante los portales rotos de Sho. En el camino, Kurobani explica que su maestro portaba el poder antes de morir en el ataque al templo. Él fue el receptáculo más próximo y recibió a otro ser, vinculado al nombre heredado de su orden, Sosuray u Osurei. Cuando sus ojos se oscurecen, esa voluntad toma el control. Las marcas de su mano derecha, en cambio, son recordatorios de compañeros caídos. Su explicación distingue la oscuridad del brazo y el pacto de las cicatrices que se hace para recordar. También reconoce que el huésped quiere completar una venganza. Pasan por su base para comprobar la Biblia. Kurobani se tranquiliza al encontrarla y, convencido por sus compañeros, la lleva para no dejarla sola. La idea de meterla en una bolsa mágica provoca dudas por su capacidad de absorber magia. Termina entregándosela a Gur, que la guarda en su mochila por ser el menos dependiente de hechizos, aunque ya conoce el daño de tocarla. Kurobani recoge además un cuaderno propio; su contenido no se expone por completo. Las puertas ennegrecidas, las pintadas de cultistas y los cadáveres descompuestos reciben al grupo. Kurobani recuerda los entrenamientos y admite que volver le cuesta. Él y Guxi revisan la habitación del maestro, donde recuperan libros y una llave oxidada cuya cerradura no identifican. Los otros entran por el agua al patio, con una flor negra y siete estatuas. Al acercarse, Calista roza un pétalo y cae dormida; Gelbreak la saca del agua y la protege mientras los demás siguen buscando. Gur y Banzo eliminan zombis después de asegurarse de que Kurobani no quiere conservarlos. En la biblioteca encuentran pergaminos chamuscados sobre los anteriores portadores y sus batallas, y Guxi recupera una historia que remite a un ataque de hace mil años. La información está incompleta y necesita reconstrucción. Gur encuentra un manual de entrenamiento que interpreta con entusiasmo; al practicar hace caer estanterías. El accidente revela un hueco con el diario del maestro. Kurobani lee una referencia a un niño hallado en un antiguo pueblo y guarda el volumen para estudiarlo en privado. No se desarrollan aquí todas las entradas ni se da por cierta una revelación de nacimiento que todavía no se ha leído. Un tirón eleva a Kurobani y lo arrastra hacia las estatuas. El hilo visible se multiplica hacia los otros monumentos y la flor; de ellos salen sombras que atacan. Los compañeros intentan sobrevivir y liberar al ninja. Gur usa fuego, Banzo cruza golpes y coordina con él un lanzamiento mediante arpón, Guxi apoya con torretas y velocidad, y Calista despierta y vuelve al combate. Algunas sombras drenan fuerza y dejan a Kurobani muy debilitado. Aunque derrotan a las criaturas, el hilo continúa atrayéndolo. Calista intenta apartarlo con viento, pero la atracción aumenta. Banzo rompe parte de la estatua y la oscuridad de Kurobani se intensifica; los disparos atraviesan el hilo. Gelbreak termina desintegrando el monumento. Entonces una forma humanoide de humo sigue el vínculo y entra en Kurobani. Una pequeña oscuridad mágica lo envuelve y la voz anuncia que aquel al que llaman Kurobani ya no está con ellos. Se dirige a Calista como alguien que ella conoció antes. La destrucción del foco no ha sido la solución que esperaban. Guxi corta la magia de velocidad y aprovechan el aturdimiento del cuerpo para actuar. Banzo lo saca de la oscuridad; Gur arroja el martillo y Banzo continúa con golpes no mortales hasta dejarlo inconsciente. La narración interior muestra a la otra voluntad declarando suyo el cuerpo y encerrando a Kurobani en una cárcel mental. Esa imagen no es conocimiento automático de quienes lo sujetan por fuera. Calista intenta curarlo y aconseja retenerlo; Guxi lo carga y vuela hacia el campamento. Gelbreak teletransporta al resto a Sho. La escena deja al amigo contenido físicamente, sin restaurar su control.",
+  "afirmaciones": [
+    {
+      "id": "121-001",
+      "titulo": "Calista pierde el recuerdo de sus padres",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Calista recapitula que la matriarca le arrebató el recuerdo de sus padres durante otra visita onírica; Banzo cuenta una tentación sin precisar su elección.",
+      "inicio": "00:03:00.000",
+      "fin": "00:07:30.000",
+      "entidades": [
+        "Calista",
+        "Banzo",
+        "Marcas de araña por la carta de la matriarca"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "No se reproduce el sueño entero ni se identifica un pacto de Banzo no declarado.",
+      "cita": "recuerdo de sus padres y la pez ahora",
+      "evidencia_cue": {
+        "inicio": "00:07:02.960",
+        "fin": "00:07:04.909"
+      }
+    },
+    {
+      "id": "121-002",
+      "titulo": "Viaje al monasterio",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Kurobani solicita ayuda para volver a su monasterio y el grupo viaja en el barco de Guxi a Ukio, usando desde allí el portal al sur.",
+      "inicio": "00:17:00.000",
+      "fin": "00:40:00.000",
+      "entidades": [
+        "Kurobani (grafía provisional)",
+        "Guxi (grafía provisional)",
+        "Barco a motor de Guxi",
+        "Monasterio de Kurobani"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "Se busca información y ayuda para el huésped, no se ha recuperado aún la institución.",
+      "cita": "monasterio es peligroso,",
+      "evidencia_cue": {
+        "inicio": "00:18:12.320",
+        "fin": "00:18:14.630"
+      }
+    },
+    {
+      "id": "121-003",
+      "titulo": "El huésped y el nombre heredado",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Kurobani explica que recibió al morir su maestro una voluntad vinculada al nombre heredado de la orden, que toma su cuerpo cuando los ojos se vuelven negros.",
+      "inicio": "00:41:00.000",
+      "fin": "00:46:30.000",
+      "entidades": [
+        "Kurobani (grafía provisional)"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "Sosuray/Osurei oscila en la transcripción; no confundir al portador humano con toda encarnación histórica del nombre.",
+      "cita": "receptáculo más cercano era yo, pues",
+      "evidencia_cue": {
+        "inicio": "00:43:19.960",
+        "fin": "00:43:26.589"
+      }
+    },
+    {
+      "id": "121-004",
+      "titulo": "Gur custodia la Biblia",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Kurobani recupera la Biblia de su base y acaba entregándosela a Gur para llevarla fuera de bolsas mágicas.",
+      "inicio": "00:48:00.000",
+      "fin": "00:56:00.000",
+      "entidades": [
+        "Kurobani (grafía provisional)",
+        "Gur (grafía provisional)",
+        "Libro horrible recuperado de la cripta"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "El volumen continúa envuelto; la custodia no implica que Gur pueda abrirlo sin riesgo.",
+      "cita": "Vale, pues se la guarda en su mochila.",
+      "evidencia_cue": {
+        "inicio": "00:52:40.599",
+        "fin": "00:52:44.710"
+      }
+    },
+    {
+      "id": "121-005",
+      "titulo": "La llave y los restos del maestro",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Guxi encuentra una llave oxidada en la habitación del maestro; Kurobani recupera libros entre los restos del monasterio.",
+      "inicio": "01:08:00.000",
+      "fin": "01:14:30.000",
+      "entidades": [
+        "Guxi (grafía provisional)",
+        "Kurobani (grafía provisional)",
+        "Monasterio de Kurobani",
+        "Llave oxidada del maestro de Kurobani"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "No se identifica la cerradura concreta ni se abre una cámara con ella.",
+      "cita": "cae por el cajón y ves una pequeña llave",
+      "evidencia_cue": {
+        "inicio": "01:13:28.120",
+        "fin": "01:13:31.590"
+      }
+    },
+    {
+      "id": "121-006",
+      "titulo": "Una flor duerme a Calista",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Un pétalo de la flor ennegrecida roza a Calista y la deja dormida; Gelbreak la recoge y la saca del agua.",
+      "inicio": "01:22:00.000",
+      "fin": "01:27:00.000",
+      "entidades": [
+        "Calista",
+        "Hermano de Danifae (nombre pendiente)",
+        "Monasterio de Kurobani"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "El sueño no es una muerte ni un secuestro por el drow; posteriormente despierta.",
+      "cita": "suelo dormida.",
+      "evidencia_cue": {
+        "inicio": "01:23:57.760",
+        "fin": "01:23:59.189"
+      }
+    },
+    {
+      "id": "121-007",
+      "titulo": "Pergaminos y diario",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "El grupo recupera pergaminos dañados e historia del monasterio. Al caer estanterías por Gur se revela el diario del maestro, que Kurobani guarda tras leer una alusión a un niño encontrado.",
+      "inicio": "01:38:00.000",
+      "fin": "01:53:00.000",
+      "entidades": [
+        "Kurobani (grafía provisional)",
+        "Guxi (grafía provisional)",
+        "Gur (grafía provisional)",
+        "Diario del maestro de Kurobani",
+        "Pergaminos de los antiguos portadores de Kurobani"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "La historia de hace mil años no fecha el soporte actual; el diario no se lee entero ni resuelve el origen del niño.",
+      "cita": "pequeño diario,",
+      "evidencia_cue": {
+        "inicio": "01:50:52.000",
+        "fin": "01:50:53.910"
+      }
+    },
+    {
+      "id": "121-008",
+      "titulo": "Sombras y fuerza drenada",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Los hilos arrastran a Kurobani hacia estatuas de las que salen sombras. El grupo las derrota, pero el vínculo continúa y el ninja pierde fuerza por sus ataques.",
+      "inicio": "01:53:00.000",
+      "fin": "02:45:00.000",
+      "entidades": [
+        "Kurobani (grafía provisional)",
+        "Guxi (grafía provisional)",
+        "Gur (grafía provisional)",
+        "Banzo",
+        "Calista",
+        "Hermano de Danifae (nombre pendiente)",
+        "Monasterio de Kurobani"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "La derrota de las sombras no corta el vínculo que lo mantiene suspendido.",
+      "cita": "recibe daño de fuerza igual al daño",
+      "evidencia_cue": {
+        "inicio": "02:13:22.480",
+        "fin": "02:13:25.589"
+      }
+    },
+    {
+      "id": "121-009",
+      "titulo": "Otra voluntad tras la estatua",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Gelbreak desintegra la estatua; una forma de humo entra en Kurobani y una voz afirma que el humano ya no está con ellos.",
+      "inicio": "02:44:00.000",
+      "fin": "02:52:00.000",
+      "entidades": [
+        "Kurobani (grafía provisional)",
+        "Hermano de Danifae (nombre pendiente)",
+        "Calista",
+        "Banzo"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "Se observa control ajeno; no se identifica por esta escena toda la naturaleza histórica del huésped.",
+      "cita": "y Jebre desintegra la estatua literal.",
+      "evidencia_cue": {
+        "inicio": "02:48:21.120",
+        "fin": "02:48:26.309"
+      }
+    },
+    {
+      "id": "121-010",
+      "titulo": "Inconsciente y encerrado por dentro",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Guxi corta la velocidad mágica y Gur y Banzo dejan inconsciente a Kurobani con golpes no mortales. La narración interior muestra a otra voluntad encerrándolo en una cárcel mental.",
+      "inicio": "02:51:00.000",
+      "fin": "02:59:00.000",
+      "entidades": [
+        "Kurobani (grafía provisional)",
+        "Guxi (grafía provisional)",
+        "Gur (grafía provisional)",
+        "Banzo",
+        "Calista"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "testigos del cuerpo inconsciente; cárcel mental solo en escena interior"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "alta",
+      "limitacion": "La cárcel mental es escena interior; los compañeros solo ven el cuerpo inconsciente. Guxi lo lleva hacia el campamento y el resto vuelve a Sho.",
+      "cita": "cárcel,",
+      "evidencia_cue": {
+        "inicio": "02:55:02.560",
+        "fin": "02:55:03.870"
+      }
+    }
+  ],
+  "historia": {
+    "revisado_hasta": 121,
+    "etapas": [
+      {
+        "titulo": "Los sueños ya quitan recuerdos",
+        "texto": "La búsqueda de ingredientes aún no empieza. Banzo cuenta otra visita de la matriarca y una tentación cuya elección no detalla. Calista sí refiere una consecuencia concreta: la visitante le arrebató el recuerdo de sus padres. Vuelve agotada y asustada, pese a intentar mostrarse cordial. Se recapitula también que el eructo de Arwen rompió el peñasco y que la esfera sigue dentro de la niña; la sesión no reproduce esa escena ni convierte la recapitulación en una extracción.",
+        "referencias": [
+          "121-001"
+        ]
+      },
+      {
+        "titulo": "Kurobani pide volver a casa",
+        "texto": "Kurobani reúne a Banzo, Gur, Guxi, Calista y Gelbreak para regresar al monasterio donde se crió. Quiere información sobre las antiguas luchas contra Otakemaru y sobre el poder que lleva dentro. Gelbreak entrega los papeles que ha investigado, pero lo presiona para que explique el riesgo a quienes lo acompañan. Viajan en el barco de Guxi hasta Ukio y usan el portal que aún conecta con el campamento del sur. La falta de combustible y el cansancio de los soldados dan contexto a un trayecto que no se resuelve mediante los portales rotos de Sho.",
+        "referencias": [
+          "121-002"
+        ]
+      },
+      {
+        "titulo": "Un nombre heredado y un huésped",
+        "texto": "En el camino, Kurobani explica que su maestro portaba el poder antes de morir en el ataque al templo. Él fue el receptáculo más próximo y recibió a otro ser, vinculado al nombre heredado de su orden, Sosuray u Osurei. Cuando sus ojos se oscurecen, esa voluntad toma el control. Las marcas de su mano derecha, en cambio, son recordatorios de compañeros caídos. Su explicación distingue la oscuridad del brazo y el pacto de las cicatrices que se hace para recordar. También reconoce que el huésped quiere completar una venganza.",
+        "referencias": [
+          "121-003"
+        ]
+      },
+      {
+        "titulo": "El libro cambia de manos",
+        "texto": "Pasan por su base para comprobar la Biblia. Kurobani se tranquiliza al encontrarla y, convencido por sus compañeros, la lleva para no dejarla sola. La idea de meterla en una bolsa mágica provoca dudas por su capacidad de absorber magia. Termina entregándosela a Gur, que la guarda en su mochila por ser el menos dependiente de hechizos, aunque ya conoce el daño de tocarla. Kurobani recoge además un cuaderno propio; su contenido no se expone por completo.",
+        "referencias": [
+          "121-004"
+        ]
+      },
+      {
+        "titulo": "Lo que queda del monasterio",
+        "texto": "Las puertas ennegrecidas, las pintadas de cultistas y los cadáveres descompuestos reciben al grupo. Kurobani recuerda los entrenamientos y admite que volver le cuesta. Él y Guxi revisan la habitación del maestro, donde recuperan libros y una llave oxidada cuya cerradura no identifican. Los otros entran por el agua al patio, con una flor negra y siete estatuas. Al acercarse, Calista roza un pétalo y cae dormida; Gelbreak la saca del agua y la protege mientras los demás siguen buscando. Gur y Banzo eliminan zombis después de asegurarse de que Kurobani no quiere conservarlos.",
+        "referencias": [
+          "121-005",
+          "121-006"
+        ]
+      },
+      {
+        "titulo": "Historia dañada y un diario oculto",
+        "texto": "En la biblioteca encuentran pergaminos chamuscados sobre los anteriores portadores y sus batallas, y Guxi recupera una historia que remite a un ataque de hace mil años. La información está incompleta y necesita reconstrucción. Gur encuentra un manual de entrenamiento que interpreta con entusiasmo; al practicar hace caer estanterías. El accidente revela un hueco con el diario del maestro. Kurobani lee una referencia a un niño hallado en un antiguo pueblo y guarda el volumen para estudiarlo en privado. No se desarrollan aquí todas las entradas ni se da por cierta una revelación de nacimiento que todavía no se ha leído.",
+        "referencias": [
+          "121-007"
+        ]
+      },
+      {
+        "titulo": "Los hilos de las estatuas",
+        "texto": "Un tirón eleva a Kurobani y lo arrastra hacia las estatuas. El hilo visible se multiplica hacia los otros monumentos y la flor; de ellos salen sombras que atacan. Los compañeros intentan sobrevivir y liberar al ninja. Gur usa fuego, Banzo cruza golpes y coordina con él un lanzamiento mediante arpón, Guxi apoya con torretas y velocidad, y Calista despierta y vuelve al combate. Algunas sombras drenan fuerza y dejan a Kurobani muy debilitado. Aunque derrotan a las criaturas, el hilo continúa atrayéndolo.",
+        "referencias": [
+          "121-008"
+        ]
+      },
+      {
+        "titulo": "Destruir la estatua no libera al ninja",
+        "texto": "Calista intenta apartarlo con viento, pero la atracción aumenta. Banzo rompe parte de la estatua y la oscuridad de Kurobani se intensifica; los disparos atraviesan el hilo. Gelbreak termina desintegrando el monumento. Entonces una forma humanoide de humo sigue el vínculo y entra en Kurobani. Una pequeña oscuridad mágica lo envuelve y la voz anuncia que aquel al que llaman Kurobani ya no está con ellos. Se dirige a Calista como alguien que ella conoció antes. La destrucción del foco no ha sido la solución que esperaban.",
+        "referencias": [
+          "121-009"
+        ]
+      },
+      {
+        "titulo": "La voluntad que queda presa",
+        "texto": "Guxi corta la magia de velocidad y aprovechan el aturdimiento del cuerpo para actuar. Banzo lo saca de la oscuridad; Gur arroja el martillo y Banzo continúa con golpes no mortales hasta dejarlo inconsciente. La narración interior muestra a la otra voluntad declarando suyo el cuerpo y encerrando a Kurobani en una cárcel mental. Esa imagen no es conocimiento automático de quienes lo sujetan por fuera. Calista intenta curarlo y aconseja retenerlo; Guxi lo carga y vuela hacia el campamento. Gelbreak teletransporta al resto a Sho. La escena deja al amigo contenido físicamente, sin restaurar su control.",
+        "referencias": [
+          "121-010"
+        ]
+      }
+    ]
+  },
+  "misiones": [
+    "Recuperar información del monasterio y estudiar los pergaminos y el diario.",
+    "Contener el cuerpo de Kurobani y devolverle el control.",
+    "Buscar los ingredientes de la espada para las marcas de Calista y Banzo."
+  ],
+  "preguntas": [
+    "¿Cómo liberarán a Kurobani de su prisión mental y de la voluntad que controla su cuerpo?",
+    "¿Qué explicará el diario sobre el niño encontrado y los anteriores portadores?",
+    "¿Qué puerta abre la llave oxidada del maestro?",
+    "¿Podrá Calista recuperar el recuerdo de sus padres?"
+  ],
+  "nombres_dudosos": [
+    "Sosuray/Osurei/Osurai: nombre heredado ligado al huésped de Kurobani; no fijar grafía sin contraste.",
+    "La orden se pronuncia como vigiladores/vigilantes silentes; denominación provisional."
+  ],
+  "contradicciones": [
+    "Desintegrar la estatua intensifica el cambio de control, en lugar de liberar de inmediato a Kurobani.",
+    "Las cicatrices de memoria de la mano derecha se distinguen de la oscuridad del brazo izquierdo.",
+    "La recapitulación de sueños no revela cuál fue la elección privada de Banzo."
+  ]
+}

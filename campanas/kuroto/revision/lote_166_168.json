@@ -1,0 +1,1541 @@
+{
+  "revisados": [
+    166,
+    167,
+    168
+  ],
+  "entidades": [
+    {
+      "nombre": "Arwen",
+      "tipo": "personaje",
+      "descripcion": "Druida que contiene la plaga mientras una esfera la desgarra por dentro.",
+      "nota": "",
+      "etiquetas": [
+        "Arwen"
+      ],
+      "referencias": [],
+      "historia": {
+        "revisado_hasta": 168,
+        "etapas": [
+          {
+            "titulo": "Ser salvada por quien antes solo miraba la muerte",
+            "texto": "Pide ayuda, cura a Tapón y a sus compañeros y soporta parálisis y dolor creciente. Chilia extrae el orbe y evita su muerte. Queda malherida y es llevada para recibir atención.",
+            "referencias": [
+              "166-001",
+              "166-002",
+              "166-003",
+              "166-004",
+              "166-005",
+              "166-006",
+              "166-007",
+              "166-008",
+              "166-009"
+            ]
+          },
+          {
+            "titulo": "Reencarnar un alma y abrazar a quien no puede despedirse",
+            "texto": "Prepara el festín y entrega la caja de Danifae sin conocer su sentido. Salva a May, cura a sus amigos y libera con reencarnación el alma de Calista. Huye del dragón y protege a Serafina con libertad de movimiento. Tras la marcha de Lolth permanece junto a Banzo.",
+            "referencias": [
+              "168-001",
+              "168-002",
+              "168-003",
+              "168-004",
+              "168-005",
+              "168-006",
+              "168-007",
+              "168-008",
+              "168-009"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Banzo",
+      "tipo": "personaje",
+      "descripcion": "Goliat que protege a la niña y descubre los límites de su trato.",
+      "nota": "",
+      "etiquetas": [
+        "Banzo"
+      ],
+      "referencias": [],
+      "historia": {
+        "revisado_hasta": 168,
+        "etapas": [
+          {
+            "titulo": "La amenaza a la drow no impide que tome el orbe",
+            "texto": "Organiza la defensa, reconoce a Tapón y combate. Ataca a Danifae y queda paralizado. Intenta detener a la poseída, sobrevive a un corte y ve cómo la drow se regenera de otro semejante antes de llevarse la esfera.",
+            "referencias": [
+              "166-001",
+              "166-002",
+              "166-003",
+              "166-004",
+              "166-005",
+              "166-006",
+              "166-007",
+              "166-008",
+              "166-009"
+            ]
+          },
+          {
+            "titulo": "De las cuentas pendientes a una retirada ensangrentada",
+            "texto": "Oye la confesión privada de Kurobane y habla con Calista de su acuerdo con Danifae. Queda paralizado y después ayuda al grupo, cae varias veces ante el general y sobrevive gracias a curas. Al final advierte que palacio no debe quedar sin sus dos protectores.",
+            "referencias": [
+              "167-001",
+              "167-002",
+              "167-003",
+              "167-004",
+              "167-005",
+              "167-006",
+              "167-007",
+              "167-008"
+            ]
+          },
+          {
+            "titulo": "La canción no basta para impedir el destierro",
+            "texto": "Promete ayudar a liberar a Calista. Persigue a Danifae, rompe un encantamiento y canta al dragón para recuperar a su hermano. Salta a combatir a Lolth, pero ella destierra al drow y le arranca sus espíritus. Devastado, reparte tareas para la ciudad y entrega el collar para Sirth.",
+            "referencias": [
+              "168-001",
+              "168-002",
+              "168-003",
+              "168-004",
+              "168-005",
+              "168-006",
+              "168-007",
+              "168-008",
+              "168-009"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Channi (grafía provisional)",
+      "tipo": "personaje",
+      "descripcion": "Compañera que ayuda a Arwen y remata al dragón con luz.",
+      "nota": "",
+      "etiquetas": [
+        "Channi (grafía provisional)"
+      ],
+      "referencias": [],
+      "historia": {
+        "revisado_hasta": 166,
+        "etapas": [
+          {
+            "titulo": "Las alas preparadas para curar se acercan también a Chilia",
+            "texto": "Ayuda a levantarse a la druida, combate y se recupera de las heridas. Termina con el espectro. Abraza a Chilia tras el castigo y vuelve con la niña al buscar ayuda.",
+            "referencias": [
+              "166-001",
+              "166-002",
+              "166-003",
+              "166-004",
+              "166-005",
+              "166-006",
+              "166-007",
+              "166-009"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Kazuki",
+      "tipo": "personaje",
+      "descripcion": "Mago que ve la esfera y las intenciones que la rodean.",
+      "nota": "",
+      "etiquetas": [
+        "Kazuki"
+      ],
+      "referencias": [],
+      "historia": {
+        "revisado_hasta": 166,
+        "etapas": [
+          {
+            "titulo": "La lectura de pensamientos no basta para impedir la pérdida",
+            "texto": "Combate, pierde movilidad y cae, pero Arwen lo levanta. Detecta el interés de Danifae y la magia de tierra, sin poder alzar el orbe. Tras la posesión y la retirada lleva a las pequeñas a buscar ayuda.",
+            "referencias": [
+              "166-001",
+              "166-003",
+              "166-004",
+              "166-005",
+              "166-006",
+              "166-007",
+              "166-008",
+              "166-009"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Danifae (grafía provisional)",
+      "tipo": "personaje",
+      "descripcion": "Drow que aprovecha la extracción para hacerse con el tercer orbe.",
+      "nota": "",
+      "etiquetas": [
+        "Danifae (grafía provisional)"
+      ],
+      "referencias": [],
+      "historia": {
+        "revisado_hasta": 168,
+        "etapas": [
+          {
+            "titulo": "Las arañas cierran lo que derriba al goliat",
+            "texto": "Combate y paraliza a Banzo al ser atacada. Mantiene el interés por la esfera y la recoge después de que Chilia la extraiga. Un corte se cierra por arañas; se va con tres y promete marcharse con una más.",
+            "referencias": [
+              "166-001",
+              "166-002",
+              "166-004",
+              "166-005",
+              "166-006",
+              "166-007",
+              "166-008",
+              "166-009"
+            ]
+          },
+          {
+            "titulo": "La información y el pacto siguen produciendo consecuencias",
+            "texto": "Kurobane confiesa en privado haberle revelado la localización de los orbes. Banzo explica a Calista el pacto que intentaba protegerla. La advertencia de que sigue libre hace regresar a ambos nobles a palacio; no se muestra una nueva acción de ella allí.",
+            "referencias": [
+              "167-002",
+              "167-003",
+              "167-008"
+            ]
+          },
+          {
+            "titulo": "La sonrisa se convierte en terror al despertar la araña",
+            "texto": "Envía el paquete por Arwen y muestra las cuatro esferas ante Banzo. Las rompe y absorbe su energía. Su piel se deshace y emerge una figura rejuvenecida con su aspecto, identificada como avatar de Lolth. No se presenta como una salida voluntaria e intacta de la misma drow.",
+            "referencias": [
+              "168-001",
+              "168-002",
+              "168-003",
+              "168-005",
+              "168-006",
+              "168-007"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Chilia (grafía provisional)",
+      "tipo": "personaje",
+      "descripcion": "Parca que pierde su condición por salvar a Arwen.",
+      "nota": "",
+      "etiquetas": [
+        "Chilia (grafía provisional)"
+      ],
+      "referencias": [],
+      "historia": {
+        "revisado_hasta": 166,
+        "etapas": [
+          {
+            "titulo": "La primera elección propia deja su cuerpo a merced de otra voluntad",
+            "texto": "Al principio observa la pelea, pero el sufrimiento de la niña la inquieta. Extrae el orbe para salvarla y la Reina la vuelve mortal. Lady Marrow la posee y usa la Marca de la Muerte para huir.",
+            "referencias": [
+              "166-001",
+              "166-002",
+              "166-003",
+              "166-004",
+              "166-005",
+              "166-007",
+              "166-008",
+              "166-009"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Reina Cuervo (Kuroto)",
+      "tipo": "personaje",
+      "descripcion": "Reina que sanciona la intervención de su parca.",
+      "nota": "",
+      "etiquetas": [
+        "Reina Cuervo (Kuroto)"
+      ],
+      "referencias": [],
+      "historia": {
+        "revisado_hasta": 166,
+        "etapas": [
+          {
+            "titulo": "Evitar una muerte destinada rompe el servicio",
+            "texto": "Aparece al salvarse Arwen, retira hilos y poder a Chilia y la deja mortal. Su decisión facilita la posesión explicada al final, sin atribuirle un acuerdo deliberado con Lady Marrow.",
+            "referencias": [
+              "166-007",
+              "166-009"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Lady Marrow (grafía provisional)",
+      "tipo": "personaje",
+      "descripcion": "Entidad que esperaba un cuerpo vivo con la Marca de la Muerte.",
+      "nota": "",
+      "etiquetas": [
+        "Lady Marrow (grafía provisional)"
+      ],
+      "referencias": [],
+      "historia": {
+        "revisado_hasta": 166,
+        "etapas": [
+          {
+            "titulo": "La mortalidad de Chilia abre la puerta que buscaba",
+            "texto": "Se lanza dentro de la recién castigada, reclama su marca y hiere a quienes intentan impedirlo. Huye volando en el cuerpo poseído. El director explica por qué no podía actuar mientras Chilia era parca.",
+            "referencias": [
+              "166-008",
+              "166-009"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Tapón (grafía provisional)",
+      "tipo": "personaje",
+      "descripcion": "Kamaitachi liberado antes por Banzo y encontrado herido.",
+      "nota": "",
+      "etiquetas": [
+        "Tapón (grafía provisional)"
+      ],
+      "referencias": [],
+      "historia": {
+        "revisado_hasta": 166,
+        "etapas": [
+          {
+            "titulo": "Volver a sonreír no basta para hacer seguro el bosque",
+            "texto": "Arwen lo cura y el goliat lo reconoce. Había intentado frenar a los muertos que destruyen su casa. Acepta retirarse hacia la aldea, sin querer abandonar definitivamente el bosque.",
+            "referencias": [
+              "166-002"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Zogia (grafía provisional)",
+      "tipo": "personaje",
+      "descripcion": "Defensora de Ukio que sigue la expedición como enlace.",
+      "nota": "",
+      "etiquetas": [
+        "Zogia (grafía provisional)"
+      ],
+      "referencias": [],
+      "historia": {
+        "revisado_hasta": 166,
+        "etapas": [
+          {
+            "titulo": "Quedarse oculta para poder pedir ayuda",
+            "texto": "Recibe la orden de avisar a Bill y Lealín si fracasan. Sigue al grupo y presencia lo ocurrido; se retira con ellos al final.",
+            "referencias": [
+              "166-001",
+              "166-009"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Bill",
+      "tipo": "personaje",
+      "descripcion": "Defensor que permanece en el Ukio evacuado.",
+      "nota": "",
+      "etiquetas": [
+        "Bill"
+      ],
+      "referencias": [],
+      "historia": {
+        "revisado_hasta": 166,
+        "etapas": [
+          {
+            "titulo": "El último aviso debe salir por el portal",
+            "texto": "Informa de la evacuación y recibe instrucciones para pedir ayuda al shogunato si Zogia vuelve con malas noticias.",
+            "referencias": [
+              "166-001"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Lealín (grafía provisional)",
+      "tipo": "personaje",
+      "descripcion": "Defensora que queda con Bill en Ukio.",
+      "nota": "",
+      "etiquetas": [
+        "Lealín (grafía provisional)"
+      ],
+      "referencias": [],
+      "historia": {
+        "revisado_hasta": 166,
+        "etapas": [
+          {
+            "titulo": "Vigilar un pueblo vacío mientras otros contienen la plaga",
+            "texto": "No sabe dónde está Sun tras su peregrinación. Banzo la deja preparada para transmitir el aviso de Zogia y sostener el último puesto.",
+            "referencias": [
+              "166-001"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Ukio (grafía provisional)",
+      "tipo": "lugar",
+      "descripcion": "Pueblo evacuado ante el avance de muertos y podredumbre.",
+      "nota": "",
+      "etiquetas": [
+        "Ukio (grafía provisional)"
+      ],
+      "referencias": [],
+      "historia": {
+        "revisado_hasta": 166,
+        "etapas": [
+          {
+            "titulo": "Los comercios cerrados dejan sitio a una defensa mínima",
+            "texto": "Calista ha trasladado habitantes y refugiados. Tres defensores permanecen y el grupo parte al bosque para evitar que la oleada llegue hasta ellos.",
+            "referencias": [
+              "166-001",
+              "166-002"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Jigoku Nomori (grafía provisional)",
+      "tipo": "lugar",
+      "descripcion": "Bosque cuya vegetación está siendo devorada por la corrupción.",
+      "nota": "",
+      "etiquetas": [
+        "Jigoku Nomori (grafía provisional)"
+      ],
+      "referencias": [],
+      "historia": {
+        "revisado_hasta": 166,
+        "etapas": [
+          {
+            "titulo": "La muerte que avanza es también el escenario de una posesión",
+            "texto": "Trampas y plantas ayudan a rastrear. El grupo encuentra a Tapón, combate muertos y un espectro y pierde allí el orbe y a Chilia, mientras salva a Arwen.",
+            "referencias": [
+              "166-001",
+              "166-002",
+              "166-003",
+              "166-004",
+              "166-005",
+              "166-006",
+              "166-007",
+              "166-008",
+              "166-009"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Dragón espectral del bosque de Ukio",
+      "tipo": "personaje",
+      "descripcion": "Dragón translúcido que combate entre la oleada de no muertos.",
+      "nota": "",
+      "etiquetas": [
+        "Dragón espectral del bosque de Ukio"
+      ],
+      "referencias": [],
+      "historia": {
+        "revisado_hasta": 166,
+        "etapas": [
+          {
+            "titulo": "Los alientos paralizan y las niñas responden con luz",
+            "texto": "Se oculta como distorsión, se teletransporta y derriba a Kazuki. Recibe ataques y luz solar hasta que Channi termina con su manifestación. No se identifica como otro dragón conocido por parecido.",
+            "referencias": [
+              "166-003",
+              "166-004",
+              "166-005",
+              "166-006"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Esfera de tierra de Arwen",
+      "tipo": "objeto",
+      "descripcion": "Orbe de tierra tragado por Arwen que intenta salir de su cuerpo.",
+      "nota": "",
+      "etiquetas": [
+        "Esfera de tierra de Arwen"
+      ],
+      "referencias": [],
+      "historia": {
+        "revisado_hasta": 166,
+        "etapas": [
+          {
+            "titulo": "La extracción salva a su portadora y termina en manos de la drow",
+            "texto": "Provoca dolor, sangre y peso extremo. Chilia lo extrae; Kazuki detecta tierra pero no puede levantarlo. Danifae lo recoge como tercera esfera.",
+            "referencias": [
+              "166-004",
+              "166-005",
+              "166-006",
+              "166-007",
+              "166-008",
+              "166-009"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Marca de la muerte de Chilia",
+      "tipo": "objeto",
+      "descripcion": "Marca que porta Chilia por su descendencia y que Lady Marrow quiere usar.",
+      "nota": "",
+      "etiquetas": [
+        "Marca de la muerte de Chilia"
+      ],
+      "referencias": [],
+      "historia": {
+        "revisado_hasta": 166,
+        "etapas": [
+          {
+            "titulo": "Un cuerpo vivo permite la posesión",
+            "texto": "Al dejar de ser parca queda expuesta a la entidad. Esta entra en su cuerpo, reclama la marca y huye con sus capacidades, según la explicación final del director.",
+            "referencias": [
+              "166-008",
+              "166-009"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Pacto de Banzo con Danifae",
+      "tipo": "objeto",
+      "descripcion": "Trato entre Banzo y Danifae cuyo efecto no es simétrico.",
+      "nota": "",
+      "etiquetas": [
+        "Pacto de Banzo con Danifae"
+      ],
+      "referencias": [],
+      "historia": {
+        "revisado_hasta": 168,
+        "etapas": [
+          {
+            "titulo": "Dos cortes no producen la misma caída",
+            "texto": "La posesión hiere a ambos. El goliat solo se mantiene por su resistencia y la drow recibe costuras de araña antes de morir. El director señala el truco del pacto; no se inventa aquí su cláusula completa.",
+            "referencias": [
+              "166-008",
+              "166-009"
+            ]
+          },
+          {
+            "titulo": "Una promesa personal no ata de la misma forma a los dos",
+            "texto": "El goliat explica que ofreció su vida para proteger a Calista y Gelbreak y admite que su intento de matar a la drow fracasó. La conversación no acredita que el pacto esté anulado.",
+            "referencias": [
+              "167-002",
+              "167-003"
+            ]
+          },
+          {
+            "titulo": "El fracaso de protección exige distinguir drow y avatar",
+            "texto": "Banzo sigue intentando atacar a Danifae y luego a la figura emergida. La muerte de Calista demuestra el fracaso de la protección buscada; no se inventa aquí una cláusula que explique por completo el estado jurídico o mágico del pacto.",
+            "referencias": [
+              "168-001",
+              "168-003",
+              "168-005",
+              "168-006",
+              "168-007",
+              "168-008",
+              "168-009"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Hacha doble de Banzo",
+      "tipo": "objeto",
+      "descripcion": "Nueva arma de Banzo que despliega dos filos de hacha.",
+      "nota": "",
+      "etiquetas": [
+        "Hacha doble de Banzo"
+      ],
+      "referencias": [],
+      "historia": {
+        "revisado_hasta": 166,
+        "etapas": [
+          {
+            "titulo": "Activarla cambia su alcance y su forma de atacar",
+            "texto": "El goliat activa su modo doble durante la pelea, hiere masas y dragón y la utiliza al enfrentarse a Danifae. Se conservan las aclaraciones de mesa sin convertir cada intento en una regla nueva.",
+            "referencias": [
+              "166-005",
+              "166-006",
+              "166-008"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "No muertos del avance sobre Ukio",
+      "tipo": "faccion",
+      "descripcion": "Esqueletos samuráis y masas de zombis que avanzan hacia Ukio.",
+      "nota": "",
+      "etiquetas": [
+        "No muertos del avance sobre Ukio"
+      ],
+      "referencias": [],
+      "historia": {
+        "revisado_hasta": 166,
+        "etapas": [
+          {
+            "titulo": "La horda retiene al grupo junto al espectro",
+            "texto": "Se levantan del suelo, disparan y sepultan enemigos bajo cuerpos. Tras caer el dragón vuelven a quedar enterrados; no se narra una evacuación con vida de los muertos.",
+            "referencias": [
+              "166-003",
+              "166-004",
+              "166-005",
+              "166-006"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Kurobane (grafía provisional)",
+      "tipo": "personaje",
+      "descripcion": "Monje que confiesa una filtración y remata al general.",
+      "nota": "",
+      "etiquetas": [
+        "Kurobane (grafía provisional)"
+      ],
+      "referencias": [],
+      "historia": {
+        "revisado_hasta": 168,
+        "etapas": [
+          {
+            "titulo": "La victoria deja heridas que la curación corriente no borra",
+            "texto": "Admite ante Banzo haber informado a Danifae sobre los orbes. Combate con sombras, cae y es levantado. Acelerado por Ikari, encadena ataques hasta destruir al general. Pierde piel y vida máxima y deben cargarlo al retirarse.",
+            "referencias": [
+              "167-001",
+              "167-002",
+              "167-004",
+              "167-005",
+              "167-006",
+              "167-007",
+              "167-008"
+            ]
+          },
+          {
+            "titulo": "Una nueva marca recuerda a quien no logró proteger",
+            "texto": "Banzo le reafirma el acceso a la base. Persigue a Danifae y divide sus sombras para avisar a vecinos. Combate a Icardaria y la mata, sin derrotar al avatar que ha emergido. Tras su marcha se marca el pecho por Calista.",
+            "referencias": [
+              "168-001",
+              "168-002",
+              "168-003",
+              "168-004",
+              "168-005",
+              "168-006",
+              "168-007",
+              "168-008",
+              "168-009"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Calista",
+      "tipo": "personaje",
+      "descripcion": "Shogun que comparte la defensa y escucha el pacto de Banzo.",
+      "nota": "",
+      "etiquetas": [
+        "Calista"
+      ],
+      "referencias": [],
+      "historia": {
+        "revisado_hasta": 168,
+        "etapas": [
+          {
+            "titulo": "El consejo que imagina todavía está por construir",
+            "texto": "Escucha la explicación del goliat y reconoce su propia responsabilidad en que Danifae siga viva. Plantea dejar el trono por un consejo cuando sea libre. Combate, cura a Banzo y corre con Gelbreak a palacio tras la advertencia final.",
+            "referencias": [
+              "167-001",
+              "167-003",
+              "167-004",
+              "167-005",
+              "167-006",
+              "167-007",
+              "167-008"
+            ]
+          },
+          {
+            "titulo": "El alma sale y el cadáver sigue en manos de Gelbreak",
+            "texto": "Es encontrada sin vida tras tortura y mutilación. May sobrevive como testigo aterrorizada. Arwen usa reencarnación y libera una luz del cuerpo sin resucitarlo. Gelbreak se lleva sus restos y es desterrado con ellos.",
+            "referencias": [
+              "168-001",
+              "168-002",
+              "168-003",
+              "168-004",
+              "168-007",
+              "168-009"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Gelbreak",
+      "tipo": "personaje",
+      "descripcion": "Compañero que impulsa un diálogo y sostiene la defensa con magia.",
+      "nota": "",
+      "etiquetas": [
+        "Gelbreak"
+      ],
+      "referencias": [],
+      "historia": {
+        "revisado_hasta": 168,
+        "etapas": [
+          {
+            "titulo": "Volver a palacio sin un teletransporte disponible",
+            "texto": "Anima a Banzo a hablar con Calista. Durante la batalla aturde o destruye enemigos y presta apoyo. Tras recordar que la drow sigue libre, vuelve corriendo con Calista, sin mostrar todavía qué encuentran al llegar.",
+            "referencias": [
+              "167-001",
+              "167-003",
+              "167-004",
+              "167-005",
+              "167-008"
+            ]
+          },
+          {
+            "titulo": "Una lágrima responde a la canción antes de desaparecer",
+            "texto": "Pide a Banzo ayuda para liberar a Calista y recibe las aletas de ella en una caja. Al encontrarla muerta se transforma, culpa a sus compañeros y destruye parte de Sho. La canción lo vuelve contra Lolth, pero el avatar lo destierra con el cadáver. El mapa deja de localizarlo en la isla.",
+            "referencias": [
+              "168-001",
+              "168-002",
+              "168-003",
+              "168-004",
+              "168-006",
+              "168-007",
+              "168-009"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Jin",
+      "tipo": "personaje",
+      "descripcion": "Paladín que protege a sus aliados y recibe un mandoble de fuego.",
+      "nota": "",
+      "etiquetas": [
+        "Jin"
+      ],
+      "referencias": [],
+      "historia": {
+        "revisado_hasta": 167,
+        "etapas": [
+          {
+            "titulo": "La curación colectiva prepara la última respuesta",
+            "texto": "Rompe redes y combate mientras la puerta limita acciones. Al eliminar al último enemigo menor activa una cura que vuelve a levantar a Banzo y Kurobane. Toca el hacha del general, que se adapta como mandoble y le transmite un calor vigorizante.",
+            "referencias": [
+              "167-001",
+              "167-004",
+              "167-005",
+              "167-006",
+              "167-008"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Serafina",
+      "tipo": "personaje",
+      "descripcion": "Combatiente que sostiene el frente y ayuda a levantar al monje.",
+      "nota": "",
+      "etiquetas": [
+        "Serafina"
+      ],
+      "referencias": [],
+      "historia": {
+        "revisado_hasta": 168,
+        "etapas": [
+          {
+            "titulo": "Cargar con quien ha quedado sin fuerzas",
+            "texto": "Se mueve entre adversarios y mantiene la presión durante las parálisis. Da una poción a Kurobane cuando cae. Tras la victoria el grupo debe transportarlo por sus graves heridas.",
+            "referencias": [
+              "167-001",
+              "167-004",
+              "167-005",
+              "167-006",
+              "167-007",
+              "167-008"
+            ]
+          },
+          {
+            "titulo": "La libertad de movimiento permite seguir resistiendo",
+            "texto": "Protege a Guxi y a Arwen de Gelbreak. Recibe la protección de la druida y continúa actuando cuando otros quedan paralizados. Ataca al avatar y falla el intento de impedir su marcha. Luego acompaña a sus amigos y recibe el encargo de avisar a Sun.",
+            "referencias": [
+              "168-001",
+              "168-002",
+              "168-003",
+              "168-004",
+              "168-005",
+              "168-006",
+              "168-007",
+              "168-008",
+              "168-009"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Ikari",
+      "tipo": "personaje",
+      "descripcion": "Cazador que conserva refugios reservados y acelera a los heridos.",
+      "nota": "",
+      "etiquetas": [
+        "Ikari"
+      ],
+      "referencias": [],
+      "historia": {
+        "revisado_hasta": 167,
+        "etapas": [
+          {
+            "titulo": "De rana a devolver velocidad al último esfuerzo",
+            "texto": "Dispone de túneles cuya información no se comparte por completo. Interviene con magia, sufre una transformación en rana que el daño rompe y después acelera a Banzo y Kurobane para el cierre.",
+            "referencias": [
+              "167-001",
+              "167-004",
+              "167-005",
+              "167-006",
+              "167-007",
+              "167-008"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Puerta Negra del sur de Kuroto",
+      "tipo": "lugar",
+      "descripcion": "Paso enemigo cuya guarida hiere cazadores y regenera demonios.",
+      "nota": "",
+      "etiquetas": [
+        "Puerta Negra del sur de Kuroto"
+      ],
+      "referencias": [],
+      "historia": {
+        "revisado_hasta": 167,
+        "etapas": [
+          {
+            "titulo": "La oleada retrocede, pero la cúpula no cambia de dueño",
+            "texto": "Limita acciones y reacciones y sostiene al bando demoníaco. Tras destruir al general queda abierto el paso, todavía bajo la protección que el grupo necesita resolver.",
+            "referencias": [
+              "167-001",
+              "167-004",
+              "167-005",
+              "167-006",
+              "167-007",
+              "167-008"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Campamento del Sur del shogunato",
+      "tipo": "lugar",
+      "descripcion": "Base de preparación y destino de la retirada tras la batalla.",
+      "nota": "",
+      "etiquetas": [
+        "Campamento del Sur del shogunato"
+      ],
+      "referencias": [],
+      "historia": {
+        "revisado_hasta": 167,
+        "etapas": [
+          {
+            "titulo": "Regresar vivos para poder volver a la puerta",
+            "texto": "Es escenario de secretos y diálogos antes de la alarma. Los cazadores vuelven con Kurobane cargado y Banzo herido, pensando en acudir de nuevo a los guardianes.",
+            "referencias": [
+              "167-001",
+              "167-002",
+              "167-003",
+              "167-008"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Tropas de Otakemaru",
+      "tipo": "faccion",
+      "descripcion": "Fuerzas demoníacas de una tercera oleada contra el sur.",
+      "nota": "",
+      "etiquetas": [
+        "Tropas de Otakemaru"
+      ],
+      "referencias": [],
+      "historia": {
+        "revisado_hasta": 167,
+        "etapas": [
+          {
+            "titulo": "El empuje principal cae ante un grupo exhausto",
+            "texto": "Combina enemigos alados, arácnidos, ruedas y grandes combatientes. La guarida los regenera. Tras morir el general, las tropas retroceden ante la defensa del shogunato.",
+            "referencias": [
+              "167-001",
+              "167-004",
+              "167-005",
+              "167-006",
+              "167-007",
+              "167-008"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "General demoníaco de la tercera oleada",
+      "tipo": "personaje",
+      "descripcion": "General demoníaco con hacha, cabeza de lobo y cola de serpiente.",
+      "nota": "",
+      "etiquetas": [
+        "General demoníaco de la tercera oleada"
+      ],
+      "referencias": [],
+      "historia": {
+        "revisado_hasta": 167,
+        "etapas": [
+          {
+            "titulo": "El último obstáculo deja daño persistente y un arma",
+            "texto": "Derriba repetidamente a Banzo y Kurobane, reduce vida máxima y transforma a Ikari. El monje lo remata y desaparece, dejando un hacha que responde al toque de Jin. No se le atribuye un nombre que no está fijado en el texto.",
+            "referencias": [
+              "167-006",
+              "167-007",
+              "167-008"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Nue de la tercera oleada",
+      "tipo": "personaje",
+      "descripcion": "Bestias que sostienen tormentas durante la defensa de la puerta.",
+      "nota": "",
+      "etiquetas": [
+        "Nue de la tercera oleada"
+      ],
+      "referencias": [],
+      "historia": {
+        "revisado_hasta": 167,
+        "etapas": [
+          {
+            "titulo": "Paralizar no basta para apagar sus áreas",
+            "texto": "Sus efectos siguen dañando a los cazadores aunque la estrategia intente cortar concentración. El director distingue esa capacidad de un conjuro; el grupo debe acabar con sus portadores.",
+            "referencias": [
+              "167-005"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Mandoble ígneo de Jin",
+      "tipo": "objeto",
+      "descripcion": "Arma del general que se adapta como mandoble al tocarla Jin.",
+      "nota": "",
+      "etiquetas": [
+        "Mandoble ígneo de Jin"
+      ],
+      "referencias": [],
+      "historia": {
+        "revisado_hasta": 167,
+        "etapas": [
+          {
+            "titulo": "El fuego se siente como fuerza y no como quemadura",
+            "texto": "Tras la victoria Jin toca el hacha abandonada. Se transforma en espada de fuego, lo vigoriza y queda descrita con daño ígneo y facultades de descarga y aura.",
+            "referencias": [
+              "167-008"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Guxi",
+      "tipo": "personaje",
+      "descripcion": "Artífice que sobrevive al dragón y busca devolver orden a Sho.",
+      "nota": "",
+      "etiquetas": [
+        "Guxi"
+      ],
+      "referencias": [],
+      "historia": {
+        "revisado_hasta": 168,
+        "etapas": [
+          {
+            "titulo": "La sonrisa prometida incluye ahora la del goliat",
+            "texto": "Pasea con Serafina antes del desastre. Intenta contener al dragón con fuerza, ataca y aporta apoyos sin poder revertir la transformación. Tras la derrota acepta contar bajas y reparar la ciudad, y recuerda a Banzo que deben permanecer juntos.",
+            "referencias": [
+              "168-001",
+              "168-002",
+              "168-003",
+              "168-004",
+              "168-006",
+              "168-007",
+              "168-008",
+              "168-009"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Lolth (avatar en Kuroto)",
+      "tipo": "personaje",
+      "descripcion": "Avatar de Lolth que emerge tras consumir la energía de los orbes.",
+      "nota": "",
+      "etiquetas": [
+        "Lolth (avatar en Kuroto)"
+      ],
+      "referencias": [],
+      "historia": {
+        "revisado_hasta": 168,
+        "etapas": [
+          {
+            "titulo": "Destierra al dragón y deja al goliat sin ancestros",
+            "texto": "La nueva figura llama hijo a Gelbreak y se comunica con él en privado. Detiene el tiempo, lo destierra con Calista y arranca los espíritus de Banzo. Tras someter al grupo con magia, abre un portal a Amnem y se marcha sin ser derrotada.",
+            "referencias": [
+              "168-006",
+              "168-007",
+              "168-008",
+              "168-009"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Icardaria (grafía provisional)",
+      "tipo": "personaje",
+      "descripcion": "Sacerdotisa demoníaca que espera junto a Danifae.",
+      "nota": "",
+      "etiquetas": [
+        "Icardaria (grafía provisional)"
+      ],
+      "referencias": [],
+      "historia": {
+        "revisado_hasta": 168,
+        "etapas": [
+          {
+            "titulo": "El veneno fracasa y su alegría no impide volver al abismo",
+            "texto": "Intenta someter a Banzo y atacarlo con veneno, frustrado por el festín. Sonríe al aparecer la figura de Lolth. Kurobane la remata: se deshace como una vela viscosa y vuelve al abismo, sin que eso represente destruir a la diosa.",
+            "referencias": [
+              "168-003",
+              "168-005",
+              "168-006",
+              "168-007"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "May (grafía provisional)",
+      "tipo": "personaje",
+      "descripcion": "Testigo aterrorizada que sobrevive al ataque a palacio.",
+      "nota": "",
+      "etiquetas": [
+        "May (grafía provisional)"
+      ],
+      "referencias": [],
+      "historia": {
+        "revisado_hasta": 168,
+        "etapas": [
+          {
+            "titulo": "Arwen la saca de la pelea que sigue al asesinato",
+            "texto": "Relata entrecortadamente rapidez y tortura. La druida la cura y la conduce a salvo cuando Gelbreak se transforma. No se la cuenta entre los cónsules muertos.",
+            "referencias": [
+              "168-003",
+              "168-004"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Tsugami (grafía provisional)",
+      "tipo": "personaje",
+      "descripcion": "Costurera que recibe las prendas de Calista.",
+      "nota": "",
+      "etiquetas": [
+        "Tsugami (grafía provisional)"
+      ],
+      "referencias": [],
+      "historia": {
+        "revisado_hasta": 168,
+        "etapas": [
+          {
+            "titulo": "La última visita ordinaria antes del paquete",
+            "texto": "Gelbreak entra con ropa para arreglar mientras Banzo espera. Sale de la tienda antes de que Arwen entregue la caja y cambie el curso de la noche.",
+            "referencias": [
+              "168-001"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Palacio del shogun en Sho",
+      "tipo": "lugar",
+      "descripcion": "Sede del shogunato donde encuentran a Calista y otros muertos.",
+      "nota": "",
+      "etiquetas": [
+        "Palacio del shogun en Sho"
+      ],
+      "referencias": [],
+      "historia": {
+        "revisado_hasta": 168,
+        "etapas": [
+          {
+            "titulo": "La transformación destruye la sala del trono",
+            "texto": "Guardias, tritones y cónsules yacen muertos; May permanece viva. Gelbreak se transforma y rompe columnas y paredes mientras sus compañeros intentan contenerlo y evacuar.",
+            "referencias": [
+              "168-002",
+              "168-003",
+              "168-004",
+              "168-009"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Sho",
+      "tipo": "lugar",
+      "descripcion": "Capital atacada desde dentro por el asesinato y el dragón.",
+      "nota": "",
+      "etiquetas": [
+        "Sho"
+      ],
+      "referencias": [],
+      "historia": {
+        "revisado_hasta": 168,
+        "etapas": [
+          {
+            "titulo": "De las mesas de insectos al recuento de bajas",
+            "texto": "Arwen prepara una fiesta por sus calles. El hallazgo en palacio desencadena persecuciones y un aliento que destruye casas. Kurobane avisa a vecinos; al final el grupo dispone reparación y recuento sin inventar un número total.",
+            "referencias": [
+              "168-001",
+              "168-002",
+              "168-003",
+              "168-004",
+              "168-006",
+              "168-007",
+              "168-008",
+              "168-009"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Cuatro esferas elementales de Kuroto",
+      "tipo": "objeto",
+      "descripcion": "Conjunto elemental que Danifae consigue reunir.",
+      "nota": "",
+      "etiquetas": [
+        "Cuatro esferas elementales de Kuroto"
+      ],
+      "referencias": [],
+      "historia": {
+        "revisado_hasta": 168,
+        "etapas": [
+          {
+            "titulo": "La energía se consume al despertar la araña",
+            "texto": "La drow muestra las cuatro esferas y las rompe. Sus energías rodean el cuerpo y alimentan el tatuaje; la aparición de Lolth sigue al proceso. No quedan simplemente guardadas para recuperarlas como antes.",
+            "referencias": [
+              "168-003",
+              "168-006",
+              "168-007"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Mapa de seguimiento de los drow",
+      "tipo": "objeto",
+      "descripcion": "Mapa que localiza puntos de los drow dentro de Kuroto.",
+      "nota": "",
+      "etiquetas": [
+        "Mapa de seguimiento de los drow"
+      ],
+      "referencias": [],
+      "historia": {
+        "revisado_hasta": 168,
+        "etapas": [
+          {
+            "titulo": "Un punto sirve para perseguir y una ausencia no marca una tumba",
+            "texto": "Banzo sigue el punto rojo que sale de palacio. Al final ya no hay marca de Gelbreak en Kuroto tras el destierro. La ausencia por alcance no demuestra su muerte.",
+            "referencias": [
+              "168-002",
+              "168-009"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Espíritus ancestrales de Banzo",
+      "tipo": "objeto",
+      "descripcion": "Voces y presencias ancestrales que acompañaban a Banzo desde niño.",
+      "nota": "",
+      "etiquetas": [
+        "Espíritus ancestrales de Banzo"
+      ],
+      "referencias": [],
+      "historia": {
+        "revisado_hasta": 168,
+        "etapas": [
+          {
+            "titulo": "Lolth las arranca sin que el goliat pueda impedirlo",
+            "texto": "El avatar ve miles de goliats tras él y le retira esa conexión, su furia y sus espíritus. Banzo queda vacío y recuerda la prueba de infancia que le permitió oírlos. No se establece aquí cómo recuperarlos.",
+            "referencias": [
+              "168-008",
+              "168-009"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Desierto de Amnem (grafía provisional)",
+      "tipo": "lugar",
+      "descripcion": "Desierto eterno que el director identifica como destino del portal.",
+      "nota": "",
+      "etiquetas": [
+        "Desierto de Amnem (grafía provisional)"
+      ],
+      "referencias": [],
+      "historia": {
+        "revisado_hasta": 168,
+        "etapas": [
+          {
+            "titulo": "El avatar sale de Kuroto bajo el sol",
+            "texto": "La grieta abierta por Lolth muestra un desierto inmenso. El director lo identifica como Amnem por los mapas de Arghast; el grupo no la sigue a través del portal.",
+            "referencias": [
+              "168-009"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Collar de líder de los cazadores",
+      "tipo": "objeto",
+      "descripcion": "Insignia del liderazgo de los cazadores que Banzo deja para Sirth.",
+      "nota": "",
+      "etiquetas": [
+        "Collar de líder de los cazadores"
+      ],
+      "referencias": [],
+      "historia": {
+        "revisado_hasta": 168,
+        "etapas": [
+          {
+            "titulo": "La confianza cambia de manos en medio del duelo",
+            "texto": "Banzo reafirma su autoridad para dejar entrar a Kurobane al inicio. Tras el desastre entrega su collar para que lo reciba Sirth, a quien considera más preparado; el nombramiento efectivo y la aceptación todavía no se muestran.",
+            "referencias": [
+              "168-001",
+              "168-009"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Cazadores de Kuroto",
+      "tipo": "faccion",
+      "descripcion": "Cazadores que deben sostener Kuroto tras perder a su shogun.",
+      "nota": "",
+      "etiquetas": [
+        "Cazadores de Kuroto"
+      ],
+      "referencias": [],
+      "historia": {
+        "revisado_hasta": 168,
+        "etapas": [
+          {
+            "titulo": "Las tareas inmediatas son contar, avisar y reparar",
+            "texto": "El grupo sobrevive al dragón y al avatar. Banzo organiza avisos, recuento de bajas y reconstrucción y ofrece su collar a Sirth. Guxi pide seguir unidos para proteger las sonrisas de los que quedan.",
+            "referencias": [
+              "168-001",
+              "168-004",
+              "168-007",
+              "168-008",
+              "168-009"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Banquete de insectos de Arwen",
+      "tipo": "objeto",
+      "descripcion": "Festín de insectos repartido por Arwen para una celebración.",
+      "nota": "",
+      "etiquetas": [
+        "Banquete de insectos de Arwen"
+      ],
+      "referencias": [],
+      "historia": {
+        "revisado_hasta": 168,
+        "etapas": [
+          {
+            "titulo": "La comida que parecía una broma salva del veneno",
+            "texto": "Quienes lo comen reciben la protección del festín, importante contra Icardaria. Guxi no lo había comido. La sorpresa que motivó la fiesta resulta ser el paquete cruel de Danifae.",
+            "referencias": [
+              "168-001",
+              "168-002",
+              "168-005"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "preguntas": [
+    {
+      "id": "K166-P01",
+      "capitulo": 166,
+      "pregunta": "¿Se salva Arwen del orbe que lleva dentro?",
+      "estado": "resuelta",
+      "respuesta": "Chilia lo extrae y evita la muerte; la niña sigue malherida y es llevada para ser atendida.",
+      "pendiente": "",
+      "referencias": [
+        "166-007",
+        "166-009"
+      ],
+      "revisado_hasta": 166,
+      "requiere_actualizacion": false
+    },
+    {
+      "id": "K166-P02",
+      "capitulo": 166,
+      "pregunta": "¿Quién conserva la esfera de tierra?",
+      "estado": "resuelta",
+      "respuesta": "Danifae la recoge al final y queda con tres orbes.",
+      "pendiente": "",
+      "referencias": [
+        "166-008",
+        "166-009"
+      ],
+      "revisado_hasta": 166,
+      "requiere_actualizacion": false
+    },
+    {
+      "id": "K166-P03",
+      "capitulo": 166,
+      "pregunta": "¿Qué le ocurre a Chilia por salvar a la niña?",
+      "estado": "resuelta",
+      "respuesta": "La Reina la vuelve mortal y Lady Marrow aprovecha para poseerla y usar la Marca de la Muerte.",
+      "pendiente": "",
+      "referencias": [
+        "166-007",
+        "166-008",
+        "166-009"
+      ],
+      "revisado_hasta": 166,
+      "requiere_actualizacion": false
+    },
+    {
+      "id": "K166-P04",
+      "capitulo": 166,
+      "pregunta": "¿Pueden recuperar a Chilia de la posesión?",
+      "estado": "pendiente",
+      "respuesta": "La criatura huye volando en su cuerpo.",
+      "pendiente": "Encontrarla y separar ambas voluntades, si resulta posible.",
+      "referencias": [
+        "166-008",
+        "166-009"
+      ],
+      "revisado_hasta": 166,
+      "requiere_actualizacion": true
+    },
+    {
+      "id": "K166-P05",
+      "capitulo": 166,
+      "pregunta": "¿Qué cláusulas oculta el pacto de Banzo con Danifae?",
+      "estado": "parcial",
+      "respuesta": "Las arañas cierran la herida de ella antes de morir, mientras el goliat queda a un punto por su propia resistencia.",
+      "pendiente": "Aclarar la asimetría y la obligación completa.",
+      "referencias": [
+        "166-008",
+        "166-009"
+      ],
+      "revisado_hasta": 166,
+      "requiere_actualizacion": true
+    },
+    {
+      "id": "K167-P01",
+      "capitulo": 167,
+      "pregunta": "¿Se identifica a un espía entre los aliados?",
+      "estado": "pendiente",
+      "respuesta": "La anticipación enemiga genera sospechas; la confesión mental de Kurobane explica una entrega concreta de información a Danifae, no demuestra una red de espionaje de Otakemaru.",
+      "pendiente": "Distinguir la filtración confesada de la hipótesis general.",
+      "referencias": [
+        "167-001",
+        "167-002"
+      ],
+      "revisado_hasta": 167,
+      "requiere_actualizacion": true
+    },
+    {
+      "id": "K167-P02",
+      "capitulo": 167,
+      "pregunta": "¿Calista abandona ya el trono y forma un consejo?",
+      "estado": "parcial",
+      "respuesta": "Expresa esa intención como proyecto para cuando sea libre.",
+      "pendiente": "Comprobar si llega a ejecutarse.",
+      "referencias": [
+        "167-003"
+      ],
+      "revisado_hasta": 167,
+      "requiere_actualizacion": true
+    },
+    {
+      "id": "K167-P03",
+      "capitulo": 167,
+      "pregunta": "¿Sobreviven Banzo y Kurobane al general?",
+      "estado": "resuelta",
+      "respuesta": "Los levantan varias veces y Kurobane termina al general. Ambos se retiran vivos; el monje conserva daño de vida máxima y debe ser transportado.",
+      "pendiente": "",
+      "referencias": [
+        "167-006",
+        "167-007",
+        "167-008"
+      ],
+      "revisado_hasta": 167,
+      "requiere_actualizacion": false
+    },
+    {
+      "id": "K167-P04",
+      "capitulo": 167,
+      "pregunta": "¿Qué ocurre en palacio mientras están fuera Calista y Gelbreak?",
+      "estado": "pendiente",
+      "respuesta": "Banzo les advierte de que Danifae sigue libre y regresan corriendo. No se muestra todavía lo ocurrido allí.",
+      "pendiente": "Cotejar el regreso y el estado de los orbes.",
+      "referencias": [
+        "167-008"
+      ],
+      "revisado_hasta": 167,
+      "requiere_actualizacion": true
+    },
+    {
+      "id": "K167-P05",
+      "capitulo": 167,
+      "pregunta": "¿Queda liberada la cúpula después de repeler la oleada?",
+      "estado": "parcial",
+      "respuesta": "La puerta queda abierta, pero la barrera sigue protegiendo al enemigo.",
+      "pendiente": "Revisitar a los guardianes y recuperar el acceso.",
+      "referencias": [
+        "167-001",
+        "167-008"
+      ],
+      "revisado_hasta": 167,
+      "requiere_actualizacion": true
+    },
+    {
+      "id": "K168-P01",
+      "capitulo": 168,
+      "pregunta": "¿Vuelve Calista a la vida después de la reencarnación?",
+      "estado": "resuelta",
+      "respuesta": "No. El alma sale como luz y el cadáver permanece vacío; Gelbreak se lleva ese cuerpo y es desterrado con él.",
+      "pendiente": "",
+      "referencias": [
+        "168-003",
+        "168-004",
+        "168-007"
+      ],
+      "revisado_hasta": 168,
+      "requiere_actualizacion": false
+    },
+    {
+      "id": "K168-P02",
+      "capitulo": 168,
+      "pregunta": "¿Dónde queda Gelbreak tras la aparición?",
+      "estado": "pendiente",
+      "respuesta": "Lolth lo destierra con los restos de Calista; el mapa ya no lo localiza en Kuroto.",
+      "pendiente": "Encontrarlo y conocer el destino del cuerpo sin confundir ausencia con muerte.",
+      "referencias": [
+        "168-007",
+        "168-009"
+      ],
+      "revisado_hasta": 168,
+      "requiere_actualizacion": true
+    },
+    {
+      "id": "K168-P03",
+      "capitulo": 168,
+      "pregunta": "¿Qué consigue Danifae al reunir los cuatro orbes?",
+      "estado": "resuelta",
+      "respuesta": "Los rompe y la energía alimenta la araña. Su piel se rompe y emerge la figura que el director identifica como avatar de Lolth.",
+      "pendiente": "",
+      "referencias": [
+        "168-006",
+        "168-007"
+      ],
+      "revisado_hasta": 168,
+      "requiere_actualizacion": false
+    },
+    {
+      "id": "K168-P04",
+      "capitulo": 168,
+      "pregunta": "¿Puede Banzo recuperar a los espíritus que Lolth le arranca?",
+      "estado": "pendiente",
+      "respuesta": "Pierde las voces, los espíritus y su furia ancestral.",
+      "pendiente": "Averiguar si puede restaurar esa conexión.",
+      "referencias": [
+        "168-008",
+        "168-009"
+      ],
+      "revisado_hasta": 168,
+      "requiere_actualizacion": true
+    },
+    {
+      "id": "K168-P05",
+      "capitulo": 168,
+      "pregunta": "¿Muere Lolth en el combate?",
+      "estado": "resuelta",
+      "respuesta": "No. Kurobane mata a Icardaria; el avatar de Lolth resiste y abandona Kuroto mediante un portal al Desierto de Amnem.",
+      "pendiente": "",
+      "referencias": [
+        "168-007",
+        "168-008",
+        "168-009"
+      ],
+      "revisado_hasta": 168,
+      "requiere_actualizacion": false
+    },
+    {
+      "id": "K168-P06",
+      "capitulo": 168,
+      "pregunta": "¿Acepta Sirth el liderazgo de los cazadores?",
+      "estado": "pendiente",
+      "respuesta": "Banzo entrega su collar para él y pide avisarlo, pero no se muestra su recepción ni aceptación.",
+      "pendiente": "Comprobar el relevo y la organización tras la muerte de Calista.",
+      "referencias": [
+        "168-009"
+      ],
+      "revisado_hasta": 168,
+      "requiere_actualizacion": true
+    }
+  ],
+  "propuestas_alias": []
+}

@@ -1,0 +1,439 @@
+{
+  "capitulo": 143,
+  "estado_revision": "revisado",
+  "fuente_sha256": "77a166bdfdd5f64a2f6f0b012667471907914819151576a9bd6baded582c800c",
+  "resumen": "Arwen encuentra a un viajero emplumado que busca a su ave y después a Channi, criatura de pico y hojas que acaba de robar a un cliente. Le ofrece comida y amistad sin confirmar de qué mundo viene. Banzo intenta enseñar a la niña a no romper cosas y Jin le financia una lanza adecuada a su única mano. La salida cambia de rumbo cuando ven a un enfermo arrastrado por un guardia: Arwen lo muerde y él toca la cara de Jin. Banzo pide aislamiento y aviso al gobierno. En los barrios bajos encuentran más víctimas y a Tiari, que investiga una droga y les advierte del contagio. Jin y Arwen ya presentan signos negros y agotamiento. Ella cura a Jin antes de atenderse y acompaña la investigación cada vez más somnolienta. En la funeraria el examen con guantes descubre pinchazos y daño por la sangre, sin parásito visible. Arwen reencarna el alma de un muerto hacia otra vida y rastrea el olor químico y metálico hasta una casa cerrada, mientras Channi aprende el peligro de robar a los vendedores locales. Arwen no logra abrir la cerradura como cucaracha y los adultos entran rompiendo puerta y trampilla. El ruido alerta al sótano, donde los reciben con rayos. Vencen al primer cultista, pero mandar de nuevo a Arwen delante la deja expuesta a otros tres. La niña termina casi muerta, elimina su contagio con restauración y recibe curas de Channi y una poción de Tiari. Banzo comprende el peligro al que la ha expuesto. Entre tanques de líquido verde, Jin recoge una muestra y las cajas revelan Nox, un ancla y destinos de exportación; aún desconocen quién controla esos envíos. Una cultista enmascarada los espera en otra sala. Arwen disipa la nube del pasillo, pero la mujer abre un portal abisal y deja entrar dos serpientes de seis brazos. Sus múltiples ataques, paradas y teletransportes desbordan al grupo. La jefa huye por teleportación y cierra el portal sin retirar a los demonios. Arwen pide auxilio a Chilia por su cuervo, y la monje emerge para ayudarla cuando una cola la aprisiona. Banzo, Jin, Tiari y las druidas sostienen el combate hasta vencer. Channi cae inconsciente bajo los ataques finales y Arwen la cura y regenera, de modo que sale viva de su primera expedición con los cazadores. El sujeto de los experimentos está muerto y no puede aportar testimonio. Arwen intenta romper la maquinaria y deja a sus osos golpeándola, pero los retira antes de probar una destrucción completa. Los papeles que recoge se convierten en bandera sin ser leídos. El grupo prepara un hilo de Nox para incendiar los depósitos desde fuera; el fuego no lo prende ni provoca la explosión esperada. Tampoco queda sellada la entrada con plantas. Tiari les reprocha la falta de pruebas ordenadas y pregunta por el ancla. Jin sale a informar a Calista; Banzo permanece con ella vigilando la fábrica, mientras siguen abiertos el origen de la droga, los envíos y la identidad de la fugitiva.",
+  "afirmaciones": [
+    {
+      "id": "143-001",
+      "titulo": "Un hombre desplazado busca a su ave",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Arwen conoce en la taberna a un hombre con plumas y marcas blancas que dice haber aparecido de repente en Kuroto y perdido a su gran amigo pájaro. Acepta su ofrecimiento de ayuda, señala una dirección y sale corriendo a enorme velocidad. No se encuentra al ave ni se confirma de dónde proviene.",
+      "inicio": "00:06:01.039",
+      "fin": "00:12:00.550",
+      "cita": "Ah, yo pájaro, ¿no? Pero amigo pájaro.",
+      "entidades": [
+        "Arwen",
+        "Viajero emplumado de la taberna"
+      ],
+      "ambito": "Kuroto, sesión 143",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "143-002",
+      "titulo": "Channi se incorpora al grupo",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Arwen descubre a una criatura con pico y aspecto de hojas y plumas robando siete monedas a un comensal. Se presenta como Chanclick, llamada Channi durante la sesión. Arwen la invita a comer y la presenta a Banzo y Jin. Channi cuenta que viene de muy lejos, de un lugar de grandes plantas, y se perdió. No se confirma que proceda del Feywild de Arwen.",
+      "inicio": "00:12:00.560",
+      "fin": "00:30:01.669",
+      "cita": "Yo soy Chanclick.",
+      "entidades": [
+        "Arwen",
+        "Channi (grafía provisional)",
+        "Banzo",
+        "Jin"
+      ],
+      "ambito": "Kuroto, sesión 143",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "143-003",
+      "titulo": "Un enfermo contagia a dos cazadores",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Un guardia lleva a las celdas a un hombre demacrado, con costras, brazo ennegrecido y conducta errática. Arwen lo muerde cuando intenta tocarla y él alcanza la cara de Jin. Banzo pide aislamiento y aviso a la shogun. La cautela inicial sobre contagio se confirma después con síntomas en ambos, sin atribuirlos a Channi.",
+      "inicio": "00:30:01.679",
+      "fin": "00:40:02.150",
+      "cita": "todo el brazo cangrenado.",
+      "entidades": [
+        "Arwen",
+        "Jin",
+        "Banzo"
+      ],
+      "ambito": "Kuroto, sesión 143",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "143-004",
+      "titulo": "Una lanza financiada por Jin",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Banzo vende armas sobrantes y busca un arma manejable con su única mano. Jin lo convence de cambiar la espada elegida por una lanza mejorada y paga su compra. El cálculo inicial de doscientas cincuenta monedas se corrige durante la transacción a veinticinco. La dificultad por el brazo perdido vuelve a afectar sus acciones durante la expedición.",
+      "inicio": "00:39:00.280",
+      "fin": "00:45:01.790",
+      "cita": "cuesta 250 y ya está y vas a hacer",
+      "entidades": [
+        "Banzo",
+        "Jin"
+      ],
+      "ambito": "Kuroto, sesión 143",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "143-005",
+      "titulo": "Tiari identifica una droga",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "En los barrios bajos ven más enfermos y el tabernero Chocote no aporta el origen. Tiari impide que Arwen toque a un moribundo, le da caramelos y explica que busca al vendedor de una droga peligrosa y contagiosa. Arwen y Jin presentan cansancio y signos negros en encías y cara, con reducción de vitalidad. Ella los acompaña para observar su forma de investigar, sin aceptar resolverlo todo por ellos.",
+      "inicio": "00:45:01.800",
+      "fin": "01:09:01.510",
+      "cita": "Bueno, si son bastante contagiosos.",
+      "entidades": [
+        "Tiari (grafía provisional)",
+        "Arwen",
+        "Jin",
+        "Banzo",
+        "Chocote (grafía provisional)",
+        "Nox"
+      ],
+      "ambito": "Kuroto, sesión 143",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "143-006",
+      "titulo": "Channi aprende límites y Arwen cura a Jin",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Un vendedor detecta el intento de robo de Channi y amenaza con desplumarla sin llegar a cortarle el pico. Arwen, aún enferma, utiliza restauración sobre Jin: desaparecen su cansancio adquirido y la limitación de vida. Prefiere ayudarlo antes que tratarse ella. Banzo la carga y trata de proteger a las pequeñas mientras Tiari cuestiona su preparación.",
+      "inicio": "01:09:01.520",
+      "fin": "01:30:01.629",
+      "cita": "máximo.",
+      "entidades": [
+        "Channi (grafía provisional)",
+        "Arwen",
+        "Jin",
+        "Banzo",
+        "Tiari (grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 143",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "143-007",
+      "titulo": "El cadáver revela administración y rastro",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "En la funeraria investigan un muerto de la misma dolencia. Arwen distingue hedor corporal, olor químico y metal. Jin usa guantes y observa múltiples pinchazos, gangrena y daño agresivo por el sistema sanguíneo; no encuentra parásitos. Arwen reencarna el alma según la regla del director, en una criatura por nacer, sin resucitar allí el cadáver, y sigue el olor químico y metálico hacia una casa.",
+      "inicio": "01:30:01.639",
+      "fin": "01:45:00.550",
+      "cita": "que tiene varios pinchazos por los",
+      "entidades": [
+        "Arwen",
+        "Jin",
+        "Nox",
+        "Funeraria de los barrios bajos"
+      ],
+      "ambito": "Kuroto, sesión 143",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "143-008",
+      "titulo": "Entrada ruidosa a una casa cerrada",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Arwen entra como cucaracha pero no consigue abrir desde dentro. Jin atraviesa la puerta por la fuerza mientras Banzo choca con la pared; luego fuerzan una trampilla. Tiari critica el ruido, y cubre a Arwen con una capa que la niña cree buen escondite. Descienden entre olor químico y maquinaria, dejando advertidos a quienes aguardan abajo.",
+      "inicio": "01:45:00.560",
+      "fin": "02:01:03.430",
+      "cita": "atraviesas la puerta. Yo yo no llego, o",
+      "entidades": [
+        "Arwen",
+        "Jin",
+        "Banzo",
+        "Tiari (grafía provisional)",
+        "Fábrica subterránea de Nox"
+      ],
+      "ambito": "Kuroto, sesión 143",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "143-009",
+      "titulo": "Los cultistas emboscan a los cazadores",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Un cultista recibe al grupo con un rayo. Los osos de Arwen, Jin y la lanza de Banzo lo vencen. Arwen protege a Jin con magia y Channi le ofrece bayas curativas. Al explorar más, mandan a la niña transformada al frente y cultistas preparados disparan tres rayos a la cucaracha; pierde la forma y queda gravemente herida. Tiari se adelanta al combate.",
+      "inicio": "02:00:00.280",
+      "fin": "02:19:00.070",
+      "cita": "de un rayo y me vais a hacer todos",
+      "entidades": [
+        "Arwen",
+        "Jin",
+        "Banzo",
+        "Channi (grafía provisional)",
+        "Tiari (grafía provisional)",
+        "Cultistas de la fábrica de Nox",
+        "Fábrica subterránea de Nox"
+      ],
+      "ambito": "Kuroto, sesión 143",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "143-010",
+      "titulo": "Arwen se recupera del contagio y las heridas",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Otro rayo deja a Arwen casi muerta. Ella se refugia y elimina mediante restauración su enfermedad, cansancio y límite de vida. Channi la cura con varios conjuros y Tiari le da una poción; la niña se recupera y vuelve a investigar. Banzo se queda conmocionado por haberla puesto en peligro. La curación se muestra, sin establecer un antídoto fabricado de Nox.",
+      "inicio": "02:18:01.880",
+      "fin": "02:33:01.389",
+      "cita": "está curando esa enfermedad que tiene,",
+      "entidades": [
+        "Arwen",
+        "Channi (grafía provisional)",
+        "Banzo",
+        "Tiari (grafía provisional)",
+        "Nox"
+      ],
+      "ambito": "Kuroto, sesión 143",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "143-011",
+      "titulo": "Nox preparado para exportación",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "En los tanques y viales hay un líquido verde de olor químico intenso. Jin recoge un vial para que alguien capacitado lo examine. Arwen encuentra cajas con un ancla y letras que no sabe leer; Banzo lee Nox y destinos Puerto de las Espadas, Farun y Roca Viva. Las tuberías continúan a otras salas. Arwen recoge plantas diversas de una mesa, sin deducir por ello la fórmula exacta.",
+      "inicio": "02:30:00.920",
+      "fin": "02:44:01.030",
+      "cita": "es el dibujo de un ancla",
+      "entidades": [
+        "Arwen",
+        "Jin",
+        "Banzo",
+        "Nox",
+        "Cajas de Nox con ancla",
+        "Fábrica subterránea de Nox",
+        "Puerto de las Espadas (Kuroto)"
+      ],
+      "ambito": "Kuroto, sesión 143",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "143-012",
+      "titulo": "La jefa abre un portal abisal",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Tras romper Banzo una caja en su frustración, encuentran cultistas preparados y una mujer enmascarada que se burla de su lentitud. Arwen disipa una nube dañina que ciega el pasillo. La mujer abre un portal al Abismo y hace entrar dos demonios serpentinos de seis brazos con espadas y cola, antes de protegerse con magia. No recibe nombre propio ni se identifica con Rua o Tiari.",
+      "inicio": "02:44:01.040",
+      "fin": "03:00:02.349",
+      "cita": "abre una puerta al mismísimo abismo, a",
+      "entidades": [
+        "Banzo",
+        "Arwen",
+        "Jefa cultista enmascarada de Nox",
+        "Cultistas de la fábrica de Nox",
+        "Mariliths de la fábrica de Nox"
+      ],
+      "ambito": "Kuroto, sesión 143",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "143-013",
+      "titulo": "La jefa escapa y las mariliths permanecen",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Los demonios atacan repetidamente, paran golpes y se teletransportan. La jefa enmascarada declara que los deja entretenidos, se teletransporta y cierra el portal, pero las criaturas siguen allí. Banzo mata a un cultista y uno de los demonios queda temporalmente aletargado; otro queda encantado con Channi por un efecto de la mesa. Ninguna de esas treguas acaba la batalla.",
+      "inicio": "02:54:02.479",
+      "fin": "03:22:01.189",
+      "cita": "nada, eh, os tira el teleport. Se tira",
+      "entidades": [
+        "Jefa cultista enmascarada de Nox",
+        "Mariliths de la fábrica de Nox",
+        "Banzo",
+        "Channi (grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 143",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "143-014",
+      "titulo": "Arwen llama a Chilia por el cuervo",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Al verse superados, Arwen usa su cuervo para llamar a Chilia. La monje emerge de su boca mientras una marilith inmoviliza a la niña con la cola. Arwen le indica que Channi es amiga y pide ayuda contra la serpiente. Chilia golpea con poder de muerte y se suma al combate. La escena confirma su llegada efectiva, no solo un mensaje sin respuesta.",
+      "inicio": "03:15:00.960",
+      "fin": "03:42:00.269",
+      "cita": "de la boca del del cuervo es que sale",
+      "entidades": [
+        "Arwen",
+        "Chilia (grafía provisional)",
+        "Channi (grafía provisional)",
+        "Mariliths de la fábrica de Nox"
+      ],
+      "ambito": "Kuroto, sesión 143",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "143-015",
+      "titulo": "Victoria y rescate de Channi",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Banzo acaba con una marilith; Arwen se desplaza, ciega a otro cultista y Jin y Chilia continúan el combate. La serpiente restante se ensaña con Channi y la deja inconsciente. Tras caer el último demonio, Arwen corre a curarla y regenerarla. Chilia ayuda a limpiar enemigos y la nueva compañera sobrevive; Tiari también participa, aunque el veneno no sea eficaz contra estos demonios.",
+      "inicio": "03:39:00.640",
+      "fin": "03:57:01.149",
+      "cita": "no regenerar,",
+      "entidades": [
+        "Banzo",
+        "Arwen",
+        "Jin",
+        "Chilia (grafía provisional)",
+        "Channi (grafía provisional)",
+        "Tiari (grafía provisional)",
+        "Mariliths de la fábrica de Nox"
+      ],
+      "ambito": "Kuroto, sesión 143",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "143-016",
+      "titulo": "Un sujeto muerto y máquinas por destruir",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "El hombre sujeto a una máquina está muerto, con quemaduras, cortes y el vientre abierto: no lo rescatan con vida. Arwen descubre la caldera y trata de destruir engranajes con palo y dientes; al fallar invoca osos que golpean la instalación. Recoge papeles para una bandera sin leerlos y retira después a los animales. No se comprueba que toda la maquinaria haya quedado inservible.",
+      "inicio": "03:57:01.159",
+      "fin": "04:07:00.269",
+      "cita": "está un poco muerto, ¿no?",
+      "entidades": [
+        "Arwen",
+        "Fábrica subterránea de Nox",
+        "Papeles de la fábrica de Nox"
+      ],
+      "ambito": "Kuroto, sesión 143",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "143-017",
+      "titulo": "El plan de incendio falla",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Banzo y sus compañeros tienden un hilo del líquido desde los depósitos hasta la salida para prenderlo. El intento de Jin con fuego no provoca la combustión o explosión que pretendían. Tampoco consiguen un cierre vegetal duradero. Tiari cuestiona qué pruebas van a presentar y el significado aún desconocido del ancla. Jin sale a informar a Calista mientras Banzo y Tiari quedan vigilando. La fábrica no queda destruida ni la droga neutralizada por este plan.",
+      "inicio": "03:59:00.880",
+      "fin": "04:15:44.520",
+      "cita": "ves como un un depósito como con fuego,",
+      "entidades": [
+        "Banzo",
+        "Jin",
+        "Tiari (grafía provisional)",
+        "Nox",
+        "Fábrica subterránea de Nox",
+        "Cajas de Nox con ancla",
+        "Calista"
+      ],
+      "ambito": "Kuroto, sesión 143",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    }
+  ],
+  "historia": {
+    "revisado_hasta": 143,
+    "etapas": [
+      {
+        "titulo": "Una nueva amiga y una ciudad enferma",
+        "texto": "Arwen encuentra a un viajero emplumado que busca a su ave y después a Channi, criatura de pico y hojas que acaba de robar a un cliente. Le ofrece comida y amistad sin confirmar de qué mundo viene. Banzo intenta enseñar a la niña a no romper cosas y Jin le financia una lanza adecuada a su única mano. La salida cambia de rumbo cuando ven a un enfermo arrastrado por un guardia: Arwen lo muerde y él toca la cara de Jin. Banzo pide aislamiento y aviso al gobierno.",
+        "referencias": [
+          "143-001",
+          "143-002",
+          "143-003",
+          "143-004"
+        ]
+      },
+      {
+        "titulo": "Tiari y el rastro de Nox",
+        "texto": "En los barrios bajos encuentran más víctimas y a Tiari, que investiga una droga y les advierte del contagio. Jin y Arwen ya presentan signos negros y agotamiento. Ella cura a Jin antes de atenderse y acompaña la investigación cada vez más somnolienta. En la funeraria el examen con guantes descubre pinchazos y daño por la sangre, sin parásito visible. Arwen reencarna el alma de un muerto hacia otra vida y rastrea el olor químico y metálico hasta una casa cerrada, mientras Channi aprende el peligro de robar a los vendedores locales.",
+        "referencias": [
+          "143-005",
+          "143-006",
+          "143-007"
+        ]
+      },
+      {
+        "titulo": "La investigación se convierte en una emboscada",
+        "texto": "Arwen no logra abrir la cerradura como cucaracha y los adultos entran rompiendo puerta y trampilla. El ruido alerta al sótano, donde los reciben con rayos. Vencen al primer cultista, pero mandar de nuevo a Arwen delante la deja expuesta a otros tres. La niña termina casi muerta, elimina su contagio con restauración y recibe curas de Channi y una poción de Tiari. Banzo comprende el peligro al que la ha expuesto. Entre tanques de líquido verde, Jin recoge una muestra y las cajas revelan Nox, un ancla y destinos de exportación; aún desconocen quién controla esos envíos.",
+        "referencias": [
+          "143-008",
+          "143-009",
+          "143-010",
+          "143-011"
+        ]
+      },
+      {
+        "titulo": "La jefa escapa y quedan los demonios",
+        "texto": "Una cultista enmascarada los espera en otra sala. Arwen disipa la nube del pasillo, pero la mujer abre un portal abisal y deja entrar dos serpientes de seis brazos. Sus múltiples ataques, paradas y teletransportes desbordan al grupo. La jefa huye por teleportación y cierra el portal sin retirar a los demonios. Arwen pide auxilio a Chilia por su cuervo, y la monje emerge para ayudarla cuando una cola la aprisiona. Banzo, Jin, Tiari y las druidas sostienen el combate hasta vencer. Channi cae inconsciente bajo los ataques finales y Arwen la cura y regenera, de modo que sale viva de su primera expedición con los cazadores.",
+        "referencias": [
+          "143-012",
+          "143-013",
+          "143-014",
+          "143-015"
+        ]
+      },
+      {
+        "titulo": "Un laboratorio que no consiguen borrar",
+        "texto": "El sujeto de los experimentos está muerto y no puede aportar testimonio. Arwen intenta romper la maquinaria y deja a sus osos golpeándola, pero los retira antes de probar una destrucción completa. Los papeles que recoge se convierten en bandera sin ser leídos. El grupo prepara un hilo de Nox para incendiar los depósitos desde fuera; el fuego no lo prende ni provoca la explosión esperada. Tampoco queda sellada la entrada con plantas. Tiari les reprocha la falta de pruebas ordenadas y pregunta por el ancla. Jin sale a informar a Calista; Banzo permanece con ella vigilando la fábrica, mientras siguen abiertos el origen de la droga, los envíos y la identidad de la fugitiva.",
+        "referencias": [
+          "143-016",
+          "143-017"
+        ]
+      }
+    ]
+  },
+  "misiones": [
+    "Informar a Calista del contagio por Nox y mantener aisladas las víctimas.",
+    "Investigar la jefa fugitiva y el emblema de ancla de las cajas.",
+    "Asegurar la fábrica, conservar pruebas y frenar envíos de Nox a otros puertos."
+  ],
+  "preguntas": [
+    "¿Quién dirige la distribución de Nox y qué identidad tiene la jefa cultista fugitiva?",
+    "¿A quién pertenece el ancla y llegaron ya envíos a Puerto de las Espadas, Farun o Roca Viva?",
+    "¿Cómo se tratará a los demás contagiados y quedará realmente neutralizada la fábrica?",
+    "¿Qué información contienen los papeles que Arwen convirtió en bandera?",
+    "¿De dónde vienen Channi y el viajero emplumado, y dónde está el ave que busca?"
+  ],
+  "nombres_dudosos": [
+    "Chanclick/Channi/Chani/Chan: presentación y diminutivos de una misma participante; grafía exacta provisional, no confundir con Jin.",
+    "Chilia/Chiria/Chilea: se conserva la variante del bloque, sin fusionar otros nombres solo por parecido.",
+    "Farun y Roca Viva son destinos leídos en cajas: no se visitan ni se identifica aquí su organización política.",
+    "Chocote es tabernero de barrios bajos; no confundir con Usui de la taberna inicial.",
+    "La frase del fuego en los subtítulos es defectuosa; el desenlace mostrado es que no arde el hilo como pretendían, sin explosión."
+  ],
+  "contradicciones": [
+    "Tiari atribuye inicialmente el mal a una droga; las pruebas posteriores muestran pinchazos, líquido y rastro de fábrica, pero no dan fórmula ni antídoto específico.",
+    "Los gestos despectivos del guardia y del tabernero son sus opiniones sobre los pobres, no la voz editorial.",
+    "El reencarnar del director lleva el alma a un nacimiento futuro; no aparece otro adulto ni vuelve a hablar el cadáver.",
+    "La jefa cultista huye; no muere con sus subordinados. Las mariliths permanecen al cerrarse el portal.",
+    "Una encantación cómica del chat no convierte en alianza permanente la reacción temporal del demonio a Channi.",
+    "No se presentan los papeles como pruebas leídas ni el intento de fuego como destrucción consumada."
+  ]
+}

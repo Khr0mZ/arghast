@@ -1,0 +1,389 @@
+{
+  "capitulo": 123,
+  "estado_revision": "revisado",
+  "fuente_sha256": "fe8686012460d450b56fb3bc77f119f3b6bc7801926c991ff1058b53b4d95ab2",
+  "resumen": "Archi convierte la base en un taller: su mapa rúnico quiere localizar soldados y distinguir a los que siguen operativos. Por ahora admite una sola piedra y necesita recursos. Calista ve una oportunidad y ofrece financiarlo, aunque el inventor protege su único prototipo. Guxi tiene una preocupación más inmediata: reclama sus documentos a Gelbreak y descubre que pudieron quedar esparcidos tras el robo de su bolsa en una pelea con Banzo. Este sale a recuperarlos. Antes de saber el resultado, una mensajera convoca a los cazadores al banquete de Yuichi. En la residencia conocen mejor a Kazuki, noble de otro plano que vive principalmente en el Feywild con su esposa. El guerrero asegura que los cazadores le han inspirado a intervenir contra la crisis y ofrece explorar ayuda. Archi deja invisible a Ralph buscando pequeños objetos de valor. Yuichi recibe a sus invitados con regalos: planos de mejora para Guxi y botellas para Calista y Kazuki. Calista corresponde con dos anillos destinados al matrimonio. La sonrisa del anfitrión cuando recuerda que ahora tienen algo suyo invita a pensar en una contrapartida, sin demostrar todavía un pacto. La ostentación de Yuichi incluye pinturas y tratados. Una imagen recuerda el combate de hace mil años contra Otakemaru; Calista y Kazuki reconocen en otro documento la incorporación del norte al shogunato. Guxi toma notas de los contratos y habla con Wakayama, partidario declarado de Rua. Explica que los cazadores se organizan como fuerza independiente y que cada uno decidirá su voto. Kazuki alerta de los regalos interesados, mientras Calista y Gelbreak recorren un salón de viejas rivalidades, pullas y conversaciones con nobles. Un súbito cambio hace que la noche parezca día. Gelbreak vuelve invisibles a Calista y a sí mismo para investigar la casa; una puerta conduce solo a habitaciones y una aguja le alcanza al abrirla. Archi, que puede verlos, acepta distraer al anfitrión. Kazuki también explora bajo otro aspecto y con invisibilidad. Un intento de leer pensamientos se corrige por incompatibilidad de concentración: no se conserva esa información y solo llega a oír murmullos. Guxi mantiene las conversaciones del salón. Cuando Yuichi llama a cenar, Archi entretiene a una sirvienta y facilita que Calista y Gelbreak salgan de su escondite y se reincorporen. No se ha encontrado el despacho buscado ni recuperado documentos. Durante la cena, Yuichi pregunta cuánto cuesta la lealtad. Calista defiende el bienestar de Kuroto; Guxi declara no estar ligado a nadie en ese momento; Kazuki niega que la seguridad tenga precio y afirma que apoyará a Rua, agradecido por la ayuda dada a su familia al cruzar el portal. El anfitrión dice que quiere comprobar su fidelidad. Después exige imaginar negocios: Guxi propone una educación general, Kazuki una academia y Calista nuevas rutas marítimas. Yuichi se inclina por el comercio, cuestiona la rentabilidad de las otras propuestas y desprecia a los barrios bajos. La conversación culmina con la hipótesis de vender a un rey: Guxi y Kazuki rechazan que el dinero compre su compromiso, Archi se sitúa del lado económicamente favorable y Calista remite al bien de Kuroto. Yuichi niega estar proponiendo un golpe de Estado. Archi atrae el interés del anfitrión al describir la tecnología de Conosur y sus posibilidades comerciales. Yuichi lo invita a una visita futura, pero no concede en escena el taller ni la financiación. Al despedirse, Gelbreak declara su condición de segundo hijo de una segunda casa drow; Archi reconoce la ciudad citada, con grafía todavía incierta. Yuichi anuncia otra reunión con Calista antes de la votación. Los cazadores vuelven con obsequios y nuevas posibilidades de negociación, no con un voto asegurado ni un acuerdo firmado. Tampoco se resuelve aquí el destino de los papeles de Guxi o el resultado preciso de las andanzas de Ralph.",
+  "afirmaciones": [
+    {
+      "id": "123-001",
+      "titulo": "Un mapa para localizar al ejército",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Archi presenta un mapa rúnico que quiere localizar soldados mediante piedras y distinguir su estado. Admite que el prototipo solo funciona con una piedra. Calista ofrece financiarlo; él no entrega su único ejemplar.",
+      "inicio": "00:04:00.200",
+      "fin": "00:12:02.990",
+      "cita": "ejército tenga un objeto piedra.",
+      "entidades": [
+        "Archi",
+        "Calista",
+        "Mapa localizador de Archi"
+      ],
+      "ambito": "Kuroto, sesión 123",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "123-002",
+      "titulo": "Los documentos de Guxi se han perdido",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Guxi reclama sus documentos a Gelbreak. El drow descubre que pudieron perderse cuando le robaron la bolsa en una pelea con Banzo. Este sale a buscarlos y una mensajera convoca a los cazadores a casa de Yuichi.",
+      "inicio": "00:12:03.000",
+      "fin": "00:18:00.630",
+      "cita": "Te ser sincero, necesito esos papeles lo",
+      "entidades": [
+        "Guxi",
+        "Gelbreak (grafía provisional)",
+        "Banzo (grafía provisional)",
+        "Yuichi (grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 123",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "123-003",
+      "titulo": "Kazuki ofrece colaborar",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Kazuki se presenta como noble residente en otro plano, principalmente el Feywild, y guerrero. Declara que los cazadores le inspiraron a ayudar contra la crisis y que él y su esposa han formado la guardia de su reino. Ofrece explorar apoyo político y económico, sin declararse cazador.",
+      "inicio": "00:27:03.320",
+      "fin": "00:40:01.589",
+      "cita": "Pertenezco a la nobleza de otro plano.",
+      "entidades": [
+        "Kazuki",
+        "Calista",
+        "Cazadores de Kuroto",
+        "Feywild"
+      ],
+      "ambito": "Kuroto, sesión 123",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "123-004",
+      "titulo": "Ralph queda invisible",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Archi vuelve invisible a Ralph y lo envía a buscar pequeños objetos de valor en el recibidor. La sesión termina sin especificar qué consigue; el director lo deja para después.",
+      "inicio": "00:39:00.680",
+      "fin": "00:42:02.630",
+      "cita": "Diciéndole, \"Ejecuta la orde.\" Entonces,",
+      "entidades": [
+        "Archi",
+        "Ralph"
+      ],
+      "ambito": "Kuroto, sesión 123",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "123-005",
+      "titulo": "Regalos del anfitrión",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Yuichi da a Guxi antiguos planos de mejora de armas y armaduras, a Calista una botella presentada como bebida de su tierra y a Kazuki sake del año de su nacimiento. Calista corresponde con dos anillos para el matrimonio. El anfitrión subraya que ahora tienen algo suyo.",
+      "inicio": "00:45:00.240",
+      "fin": "00:51:00.470",
+      "cita": "Eh, contiene una mejora de armaduras y",
+      "entidades": [
+        "Yuichi (grafía provisional)",
+        "Guxi",
+        "Calista",
+        "Kazuki",
+        "Planos de mejora de Yuichi"
+      ],
+      "ambito": "Kuroto, sesión 123",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "123-006",
+      "titulo": "Historia expuesta entre riquezas",
+      "tipo": "explicacion_director",
+      "afirmacion": "La casa exhibe pinturas del antiguo combate contra Otakemaru y tratados. Calista y Kazuki reconocen el sello de un shogun anterior en el acuerdo por el que el norte se incorporó al shogunato. Guxi toma notas de los contratos, incluidos los relativos a las carreteras de Sho.",
+      "inicio": "00:54:02.280",
+      "fin": "01:00:00.150",
+      "cita": "veis papeles, parecen tratados o firmas",
+      "entidades": [
+        "Casa de Yuichi",
+        "Yuichi (grafía provisional)",
+        "Guxi",
+        "Calista",
+        "Kazuki",
+        "Sho (grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 123",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "123-007",
+      "titulo": "Wakayama apoya a Rua",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Kazuki advierte sobre los regalos interesados. Calista dice buscar el futuro de Kuroto. Guxi conversa con Wakayama, que se declara favorable a Rua y quiere resolver la elección para afrontar a la criatura del sur. El ingeniero explica que cada cazador decide por sí mismo su voto.",
+      "inicio": "01:00:00.160",
+      "fin": "01:36:00.669",
+      "cita": "Espero que sí. Yo estoy a favor de Rua.",
+      "entidades": [
+        "Kazuki",
+        "Calista",
+        "Guxi",
+        "Wakayama (grafía provisional)",
+        "Rua (grafía provisional)",
+        "Cazadores de Kuroto"
+      ],
+      "ambito": "Kuroto, sesión 123",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "123-008",
+      "titulo": "Infiltración sin documentos",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Cuando la noche cambia súbitamente en día, Gelbreak vuelve invisibles a Calista y a sí mismo para buscar un despacho. Una aguja disparada le alcanza al abrir una puerta; conserva la concentración y solo encuentran habitaciones. Archi los ve y acuerda distraer al anfitrión. No recuperan documentación.",
+      "inicio": "01:36:00.679",
+      "fin": "01:43:00.109",
+      "cita": "Estamos buscando archivos para los",
+      "entidades": [
+        "Gelbreak (grafía provisional)",
+        "Calista",
+        "Archi",
+        "Casa de Yuichi"
+      ],
+      "ambito": "Kuroto, sesión 123",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "123-009",
+      "titulo": "La lectura de pensamientos se revoca",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Kazuki adopta una apariencia roja con cuernos y uniforme antes de hacerse invisible. Su intento de leer pensamientos se corrige por el conflicto de concentración y esa información no queda adquirida. Solo escucha murmullos y referencias vagas a notas o diplomas.",
+      "inicio": "01:43:00.119",
+      "fin": "01:51:01.750",
+      "cita": "Pero te rompes la concentración.",
+      "entidades": [
+        "Kazuki",
+        "Casa de Yuichi"
+      ],
+      "ambito": "Kuroto, sesión 123",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "123-010",
+      "titulo": "Vuelta a la cena",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Guxi conversa con la esposa de Yuichi sobre negocios y su expulsión del shogunato. Archi propone al anfitrión una alianza económica. Cuando este reclama a todos para cenar, el gnomo distrae a una sirvienta y permite que Calista y Gelbreak vuelvan después de ocultarse en un baño.",
+      "inicio": "01:51:01.760",
+      "fin": "02:03:03.189",
+      "cita": "me interesa bastante los negocios de de",
+      "entidades": [
+        "Guxi",
+        "Archi",
+        "Yuichi (grafía provisional)",
+        "Calista",
+        "Gelbreak (grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 123",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "123-011",
+      "titulo": "Preguntas sobre la lealtad",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Yuichi pregunta por el precio de la lealtad. Calista condiciona el apoyo al bienestar de Kuroto; Guxi afirma que no está ligado a nadie en ese momento. Kazuki dice que la seguridad no tiene precio y apoyará a Rua por ayudar a su familia al cruzar el portal. El anfitrión minimiza el peso del voto de un noble no regente.",
+      "inicio": "02:03:03.199",
+      "fin": "02:09:00.270",
+      "cita": "cuál es el precio de la lealtad de los",
+      "entidades": [
+        "Yuichi (grafía provisional)",
+        "Calista",
+        "Guxi",
+        "Kazuki",
+        "Rua (grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 123",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "123-012",
+      "titulo": "Educación, academia o comercio",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Guxi propone invertir en educación para toda la población; Kazuki, en una academia de entrenamiento; y Calista, en rutas marítimas. Yuichi favorece el comercio, cuestiona la rentabilidad de los otros proyectos y rechaza que todos reciban educación, además de despreciar a los barrios bajos. No se firma un acuerdo.",
+      "inicio": "02:09:00.280",
+      "fin": "02:18:01.589",
+      "cita": "educación en política o algo?",
+      "entidades": [
+        "Yuichi (grafía provisional)",
+        "Guxi",
+        "Calista",
+        "Kazuki"
+      ],
+      "ambito": "Kuroto, sesión 123",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "123-013",
+      "titulo": "Traicionar a un rey",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Yuichi plantea si aceptarían dinero para traicionar a un rey. Guxi dice que su compromiso se gana con actos; Kazuki rechaza venderlo; Archi se inclina por el lado económicamente favorable; y Calista remite al bien de Kuroto. El anfitrión niega estar proponiendo un golpe de Estado.",
+      "inicio": "02:15:02.000",
+      "fin": "02:22:00.790",
+      "cita": "por traicionar a un rey, ¿lo haríais?",
+      "entidades": [
+        "Yuichi (grafía provisional)",
+        "Guxi",
+        "Kazuki",
+        "Archi",
+        "Calista"
+      ],
+      "ambito": "Kuroto, sesión 123",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "123-014",
+      "titulo": "Tecnología y futuras visitas",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Archi describe la tecnología de Conosur y proyectos de comercio y transporte. Yuichi se interesa e invita al inventor a regresar. Dice que el antiguo shogun restringía extranjeros y comercio y cree que Rua seguiría ese camino; esta última es su opinión, no una decisión de Rua demostrada.",
+      "inicio": "02:21:00.399",
+      "fin": "02:27:02.510",
+      "cita": "visitar un día de estos. hablaremos",
+      "entidades": [
+        "Archi",
+        "Yuichi (grafía provisional)",
+        "Conosur (grafía provisional)",
+        "Rua (grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 123",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "123-015",
+      "titulo": "Despedida sin pacto",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Gelbreak se presenta como segundo hijo de la segunda casa de una ciudad drow cuya grafía suena Ches Farak. Archi reconoce el lugar como una gran ciudad drow del oeste de Brunami. Yuichi promete otra reunión con Calista antes de la votación. No se muestra la recuperación de los papeles ni se concede financiación.",
+      "inicio": "02:27:02.520",
+      "fin": "02:34:37.920",
+      "cita": "Jbreak Utuar, \"Segundo hijo de la",
+      "entidades": [
+        "Gelbreak (grafía provisional)",
+        "Archi",
+        "Yuichi (grafía provisional)",
+        "Calista",
+        "Ches Farak (grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 123",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    }
+  ],
+  "historia": {
+    "revisado_hasta": 123,
+    "etapas": [
+      {
+        "titulo": "Ingenios y urgencias antes del banquete",
+        "texto": "Archi convierte la base en un taller: su mapa rúnico quiere localizar soldados y distinguir a los que siguen operativos. Por ahora admite una sola piedra y necesita recursos. Calista ve una oportunidad y ofrece financiarlo, aunque el inventor protege su único prototipo. Guxi tiene una preocupación más inmediata: reclama sus documentos a Gelbreak y descubre que pudieron quedar esparcidos tras el robo de su bolsa en una pelea con Banzo. Este sale a recuperarlos. Antes de saber el resultado, una mensajera convoca a los cazadores al banquete de Yuichi.",
+        "referencias": [
+          "123-001",
+          "123-002"
+        ]
+      },
+      {
+        "titulo": "Un aliado y unos presentes con intención",
+        "texto": "En la residencia conocen mejor a Kazuki, noble de otro plano que vive principalmente en el Feywild con su esposa. El guerrero asegura que los cazadores le han inspirado a intervenir contra la crisis y ofrece explorar ayuda. Archi deja invisible a Ralph buscando pequeños objetos de valor. Yuichi recibe a sus invitados con regalos: planos de mejora para Guxi y botellas para Calista y Kazuki. Calista corresponde con dos anillos destinados al matrimonio. La sonrisa del anfitrión cuando recuerda que ahora tienen algo suyo invita a pensar en una contrapartida, sin demostrar todavía un pacto.",
+        "referencias": [
+          "123-003",
+          "123-004",
+          "123-005"
+        ]
+      },
+      {
+        "titulo": "Cortesía e historia entre las paredes",
+        "texto": "La ostentación de Yuichi incluye pinturas y tratados. Una imagen recuerda el combate de hace mil años contra Otakemaru; Calista y Kazuki reconocen en otro documento la incorporación del norte al shogunato. Guxi toma notas de los contratos y habla con Wakayama, partidario declarado de Rua. Explica que los cazadores se organizan como fuerza independiente y que cada uno decidirá su voto. Kazuki alerta de los regalos interesados, mientras Calista y Gelbreak recorren un salón de viejas rivalidades, pullas y conversaciones con nobles.",
+        "referencias": [
+          "123-006",
+          "123-007"
+        ]
+      },
+      {
+        "titulo": "Buscar información y volver sin botín documental",
+        "texto": "Un súbito cambio hace que la noche parezca día. Gelbreak vuelve invisibles a Calista y a sí mismo para investigar la casa; una puerta conduce solo a habitaciones y una aguja le alcanza al abrirla. Archi, que puede verlos, acepta distraer al anfitrión. Kazuki también explora bajo otro aspecto y con invisibilidad. Un intento de leer pensamientos se corrige por incompatibilidad de concentración: no se conserva esa información y solo llega a oír murmullos. Guxi mantiene las conversaciones del salón. Cuando Yuichi llama a cenar, Archi entretiene a una sirvienta y facilita que Calista y Gelbreak salgan de su escondite y se reincorporen. No se ha encontrado el despacho buscado ni recuperado documentos.",
+        "referencias": [
+          "123-008",
+          "123-009",
+          "123-010"
+        ]
+      },
+      {
+        "titulo": "Lo que cada uno entiende por lealtad",
+        "texto": "Durante la cena, Yuichi pregunta cuánto cuesta la lealtad. Calista defiende el bienestar de Kuroto; Guxi declara no estar ligado a nadie en ese momento; Kazuki niega que la seguridad tenga precio y afirma que apoyará a Rua, agradecido por la ayuda dada a su familia al cruzar el portal. El anfitrión dice que quiere comprobar su fidelidad. Después exige imaginar negocios: Guxi propone una educación general, Kazuki una academia y Calista nuevas rutas marítimas. Yuichi se inclina por el comercio, cuestiona la rentabilidad de las otras propuestas y desprecia a los barrios bajos. La conversación culmina con la hipótesis de vender a un rey: Guxi y Kazuki rechazan que el dinero compre su compromiso, Archi se sitúa del lado económicamente favorable y Calista remite al bien de Kuroto. Yuichi niega estar proponiendo un golpe de Estado.",
+        "referencias": [
+          "123-011",
+          "123-012",
+          "123-013"
+        ]
+      },
+      {
+        "titulo": "Puertas abiertas y compromisos por concretar",
+        "texto": "Archi atrae el interés del anfitrión al describir la tecnología de Conosur y sus posibilidades comerciales. Yuichi lo invita a una visita futura, pero no concede en escena el taller ni la financiación. Al despedirse, Gelbreak declara su condición de segundo hijo de una segunda casa drow; Archi reconoce la ciudad citada, con grafía todavía incierta. Yuichi anuncia otra reunión con Calista antes de la votación. Los cazadores vuelven con obsequios y nuevas posibilidades de negociación, no con un voto asegurado ni un acuerdo firmado. Tampoco se resuelve aquí el destino de los papeles de Guxi o el resultado preciso de las andanzas de Ralph.",
+        "referencias": [
+          "123-014",
+          "123-015"
+        ]
+      }
+    ]
+  },
+  "misiones": [
+    "Recuperar los documentos de Guxi: Banzo sale a buscarlos; sin desenlace mostrado.",
+    "Negociar apoyo a Rua: contactos abiertos, sin voto emitido.",
+    "Conseguir financiación para los inventos: ofertas y futura visita, sin contrato.",
+    "Buscar documentos de Yuichi: incursión sin documentación recuperada."
+  ],
+  "preguntas": [
+    "¿Recupera Banzo los documentos perdidos de Guxi?",
+    "¿Qué contraprestación espera Yuichi y a quién apoyará en la votación?",
+    "¿Se financian los inventos de Archi y se concreta una alianza comercial?"
+  ],
+  "nombres_dudosos": [
+    "Guxi / Guxy / Uxi; Gelbreak / Jbreak / Jerbreak: grafías provisionales.",
+    "Kazuki se distingue del jugador Caniz; Noen parece apellido o tratamiento.",
+    "Yuichi / Uichi; Wakayama / Guacayama; Rua / Ruba: grafías provisionales.",
+    "Conosur / Cono Sur y Ches Farak: grafías pendientes de audio."
+  ],
+  "contradicciones": [
+    "La lectura de pensamientos se revoca por incompatibilidad de concentración y no queda como conocimiento adquirido.",
+    "Los cambios de hora, sordera, mutismo y ceguera responden a cartas de la mesa; no se fija una causa diegética duradera."
+  ]
+}

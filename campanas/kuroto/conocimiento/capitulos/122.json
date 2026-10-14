@@ -1,0 +1,360 @@
+{
+  "capitulo": 122,
+  "estado_revision": "revisado",
+  "fuente_sha256": "f6e53d055bcd076456eb5e8145244d3d4a9aea6a264fc97165116048bb71826b",
+  "resumen": "Osuray sigue al mando del cuerpo de Kurobani, que permanece atado en la base. Banzo ha intentado convencer a la sombra de colaborar con el humano y explica que, según lo hablado, la destrucción de la estatua ha ligado sus destinos. Danifae propuso un contrato mágico y Calista lo redacta para ambos: no dañar a civiles ni cazadores, ni ocultar información importante sobre Otakemaru o su origen. Osuray firma y queda libre de las ataduras. El pacto regula su conducta; no devuelve a Kurobani el control ni demuestra que los otros conozcan los secretos intercambiados con Danifae. Los habitantes de Sho se distraen con regalos caídos del cielo y disfraces extraños. Calista propone investigarlos y el grupo encuentra una invitación al circo de Dame Le Blanc, donde prometen cumplir deseos. Gur viste su martillo con un traje que lo vuelve aparentemente anciano y lo llama Aurelio. Banzo se prueba otro: su aspecto se transforma en mujer y el vestido queda adherido, ocultando la armadura. Calista y Osuray evitan ponerse los suyos. Las transformaciones se ven en escena, sin que impliquen un cambio permanente de identidad. En el circo, Gur y Banzo se acercan al cañón del gorila. El goliat sale disparado y consigue aterrizar de pie en un cojín que los artistas colocan a tiempo. Gelbreak se aleja con Calista y prueba una mezcla de traje animal y bufón: queda con aspecto de animal peludo y payaso, y no puede desprenderse de la ropa sin dolor. Calista lo frena cuando intenta arrancarla con el estoque. Mientras los artistas entretienen al público, la música conduce al grupo a un sueño o trance que abre un espectáculo mucho más privado. Gelbreak sueña una playa y una estrella de sonrisa familiar. Cuando la luz cae en un pozo, salta para sostenerla y acaba preso en telarañas ante una araña enorme. Intenta salvarla, pero la criatura la hiere y apaga su luz antes de que él vuelva a caer. Su contenido no identifica públicamente a la persona dentro de la estrella. Gur imagina una horda próspera con familia y compañeros; las voces se vuelven insoportables y las cabezas explotan. Rechaza atacar a los suyos, interpreta que lo están manipulando y su trono cae al vacío. Todo ello pertenece a las visiones, sin muertes reales de esas familias. Kurobani sueña con Calista en una casa junto al mar y denuncia que la escena es falsa. Su brazo se oscurece y la figura se hunde aterrada mientras el sueño se destruye. En el de Banzo, Rua y dos hijos comparten una reunión feliz con antiguos compañeros. La sombra cae allí desde otro sueño y dice que nada es real. Banzo reconoce la ruptura, la desafía clavándole un útil y ambos caen. Los cuatro terminan viéndose en el abismo antes de despertar en el circo. Las parejas, hijos y tragedias de esas escenas son material onírico, no acontecimientos posteriores confirmados. Dame Le Blanc revela que es una bufona conocida por Gelbreak como Koisy. Afirma haber disfrutado de lo que esconden y presenta al grupo como protagonistas del combate contra un dragón de globos. Gelbreak aparece sobre una cuerda floja y Calista queda atada más arriba, con criaturas de globo quemando su sujeción. La bufona intercepta su magia al principio para mantenerlo dentro del número. Abajo, Osuray y Banzo atacan al dragón, que usa electricidad estática, tartas cegadoras y risas mágicas. Banzo escala el cuerpo de goma y después se mete en su garganta. Gur cree que sigue atrapado en un sueño y responsabiliza a Gelbreak. Destroza uno de los postes que sostiene las cuerdas, lanza fuego hacia lo alto y luego hiere gravemente al drow con jabalinas. Calista le grita que están despiertos y acaba inmovilizándolo para detener los ataques, mientras cura a Gelbreak. La bufona contempla y anima el desorden en vez de sofocarlo. En el interior del cuerpo tomado, Kurobani intenta intervenir por Calista, pero Osuray rechaza al humano; más tarde acepta ejecutar los rescates, advirtiendo que tendrán un precio. Osuray aprovecha sombras y agilidad para alcanzar a Calista, cortar sus ataduras y llevarla suavemente al suelo. Después salta hasta Gelbreak y consigue bajarlo con ayuda de la magia de sus compañeros. Cuando ambos están a salvo, Koisy da por acabado el espectáculo: hace implosionar al dragón en confeti y desaparece. La criatura se retira por voluntad de la anfitriona; el grupo no la mata en un desenlace de combate. El circo queda vacío y los disfraces no se disipan todos automáticamente. Aunque el espectáculo haya terminado, Gur insiste en salir del supuesto sueño y sigue intentando golpear a Gelbreak. El drow recurre a su influencia de sombras y Calista vuelve a intentar detenerlo. Finalmente Gelbreak la toma y se teletransporta con ella fuera del circo, mientras Osuray ya se ha marchado. Gur prende fuego a la carpa buscando acabar con la experiencia y Banzo se queda a su lado, tratando de sacarlo. Las explosiones los dejan chamuscados; ambos sobreviven y la fuerza del estallido rompe el disfraz adherido de Banzo. La sesión termina con los bárbaros allí, sin una reconciliación narrada.",
+  "afirmaciones": [
+    {
+      "id": "122-001",
+      "titulo": "Contrato para las dos voluntades",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Calista prepara un contrato mágico para Kurobani y Osuray, con prohibiciones de dañar a civiles y cazadores u ocultar información importante; Osuray firma y lo liberan.",
+      "inicio": "00:20:00.000",
+      "fin": "00:36:30.000",
+      "entidades": [
+        "Kurobani (grafía provisional)",
+        "Osuray, voluntad sombría de Kurobane",
+        "Calista",
+        "Banzo",
+        "Contrato de Kurobani y Osuray"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "No se muestra al humano recuperando el mando ni se revelan los secretos de Danifae por esta firma.",
+      "cita": "Gluglu que vaya a firmar.",
+      "evidencia_cue": {
+        "inicio": "00:33:26.200",
+        "fin": "00:33:29.909"
+      }
+    },
+    {
+      "id": "122-002",
+      "titulo": "Los disfraces se adhieren",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Los regalos del circo transforman el martillo de Gur y el aspecto de Banzo; el vestido del goliat queda adherido y no puede rasgarlo sin dolor.",
+      "inicio": "00:41:00.000",
+      "fin": "00:52:00.000",
+      "entidades": [
+        "Gur (grafía provisional)",
+        "Banzo",
+        "Disfraces adheridos del circo de Dame Le Blanc",
+        "Circo de Dame Le Blanc"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "Son efectos de los disfraces; no se describe una transformación permanente de la identidad de Banzo.",
+      "cita": "notas como eso se pega a tu piel, a tu",
+      "evidencia_cue": {
+        "inicio": "00:46:47.720",
+        "fin": "00:46:50.069"
+      }
+    },
+    {
+      "id": "122-003",
+      "titulo": "Gelbreak se viste y no puede quitárselo",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Gelbreak mezcla disfraz animal y bufón y descubre que no puede quitarlo; Calista impide que se hiera intentando arrancarlo con el estoque.",
+      "inicio": "01:05:00.000",
+      "fin": "01:20:00.000",
+      "entidades": [
+        "Hermano de Danifae (nombre pendiente)",
+        "Calista",
+        "Disfraces adheridos del circo de Dame Le Blanc"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "Las ventajas mecánicas no eliminan la imposibilidad de desvestirse normalmente.",
+      "cita": "notas como esa cremallera que te",
+      "evidencia_cue": {
+        "inicio": "01:17:20.560",
+        "fin": "01:17:22.830"
+      }
+    },
+    {
+      "id": "122-004",
+      "titulo": "Visiones privadas, no hechos exteriores",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "La música lleva al grupo a sueños o trance: las escenas felices se deforman y los cuatro protagonistas caen a un vacío antes de despertar en el circo.",
+      "inicio": "01:20:00.000",
+      "fin": "02:10:00.000",
+      "entidades": [
+        "Gur (grafía provisional)",
+        "Banzo",
+        "Kurobani (grafía provisional)",
+        "Hermano de Danifae (nombre pendiente)"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "cada soñante conoce su visión; el cruce final es compartido"
+      ],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "alta",
+      "limitacion": "Las familias, tragedias y figura estelar pertenecen a los sueños. No se identifica lo que la imagen privada no permite ver.",
+      "cita": "ese momento sentís un sueño muy muy",
+      "evidencia_cue": {
+        "inicio": "01:20:22.120",
+        "fin": "01:20:25.270"
+      }
+    },
+    {
+      "id": "122-005",
+      "titulo": "La bufona revela el espectáculo",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Dame Le Blanc se revela como una bufona a la que Gelbreak llama Koisy; invoca un dragón de globos y coloca al drow en una cuerda y a Calista atada por encima.",
+      "inicio": "02:09:00.000",
+      "fin": "02:14:00.000",
+      "entidades": [
+        "Koishi (grafía provisional)",
+        "Calista",
+        "Hermano de Danifae (nombre pendiente)",
+        "Dragón de globos del circo",
+        "Circo de Dame Le Blanc"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "Gelbreak alude a dos encuentros anteriores, sin que esta sesión los reconstruya.",
+      "cita": "coge, toma la máscara, tira hacia arriba",
+      "evidencia_cue": {
+        "inicio": "02:10:22.760",
+        "fin": "02:10:26.229"
+      }
+    },
+    {
+      "id": "122-006",
+      "titulo": "Combate de globos y magia",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Osuray y Banzo atacan al dragón, que produce electricidad, tartas cegadoras y risa mágica; la anfitriona impide al principio que Gelbreak use magia.",
+      "inicio": "02:13:00.000",
+      "fin": "02:51:00.000",
+      "entidades": [
+        "Osuray, voluntad sombría de Kurobane",
+        "Banzo",
+        "Dragón de globos del circo",
+        "Hermano de Danifae (nombre pendiente)"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "El combate sucede tras despertar; no se presenta a los compañeros aún dentro de sus sueños individuales.",
+      "cita": "¿eh? Una tarta golpea a los jugadores y",
+      "evidencia_cue": {
+        "inicio": "02:25:15.319",
+        "fin": "02:25:17.670"
+      }
+    },
+    {
+      "id": "122-007",
+      "titulo": "Gur ataca a Gelbreak",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Gur cree seguir soñando, destruye un poste y ataca a Gelbreak con jabalinas, hiriéndolo gravemente. Calista lo inmoviliza y cura al drow.",
+      "inicio": "02:33:00.000",
+      "fin": "03:05:30.000",
+      "entidades": [
+        "Gur (grafía provisional)",
+        "Hermano de Danifae (nombre pendiente)",
+        "Calista"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "Su creencia no convierte los ataques en imaginarios ni demuestra una orden de Koisy.",
+      "cita": "Gur, no estamos soñando, que me voy a",
+      "evidencia_cue": {
+        "inicio": "03:02:41.920",
+        "fin": "03:02:44.070"
+      }
+    },
+    {
+      "id": "122-008",
+      "titulo": "Los rescates y la retirada de Koisy",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Osuray rescata de las alturas a Calista y después a Gelbreak. La bufona da por terminado el espectáculo, disuelve el dragón en confeti y desaparece.",
+      "inicio": "03:05:00.000",
+      "fin": "03:24:00.000",
+      "entidades": [
+        "Osuray, voluntad sombría de Kurobane",
+        "Calista",
+        "Hermano de Danifae (nombre pendiente)",
+        "Koishi (grafía provisional)",
+        "Dragón de globos del circo"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "El dragón no muere por un golpe final de los cazadores; el humano Kurobani no recupera el control por el rescate.",
+      "cita": "coge y explota en un montón de confeti y",
+      "evidencia_cue": {
+        "inicio": "03:22:55.439",
+        "fin": "03:22:58.150"
+      }
+    },
+    {
+      "id": "122-009",
+      "titulo": "Gelbreak se marcha con Calista",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Después de la retirada de la anfitriona, Gur vuelve a atacar y Gelbreak termina teletransportándose con Calista fuera del circo.",
+      "inicio": "03:23:00.000",
+      "fin": "03:28:00.000",
+      "entidades": [
+        "Gur (grafía provisional)",
+        "Hermano de Danifae (nombre pendiente)",
+        "Calista",
+        "Banzo"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "Banzo permanece con Gur, sin acompañar ese traslado.",
+      "cita": "Me teletransporto. Me voy.",
+      "evidencia_cue": {
+        "inicio": "03:27:48.000",
+        "fin": "03:27:50.229"
+      }
+    },
+    {
+      "id": "122-010",
+      "titulo": "Incendio y supervivencia",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Gur incendia la carpa; Banzo se queda intentando arrastrarlo. Las explosiones los dejan chamuscados y rompen el disfraz de Banzo, pero ambos sobreviven.",
+      "inicio": "03:26:00.000",
+      "fin": "03:30:30.000",
+      "entidades": [
+        "Gur (grafía provisional)",
+        "Banzo",
+        "Circo de Dame Le Blanc",
+        "Disfraces adheridos del circo de Dame Le Blanc"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "La narración final no los deja muertos ni certifica que el disfraz de Gelbreak también se haya retirado.",
+      "cita": "disfraz. Avanzo",
+      "evidencia_cue": {
+        "inicio": "03:29:24.359",
+        "fin": "03:29:27.389"
+      }
+    }
+  ],
+  "historia": {
+    "revisado_hasta": 122,
+    "etapas": [
+      {
+        "titulo": "Un cuerpo retenido y una firma",
+        "texto": "Osuray sigue al mando del cuerpo de Kurobani, que permanece atado en la base. Banzo ha intentado convencer a la sombra de colaborar con el humano y explica que, según lo hablado, la destrucción de la estatua ha ligado sus destinos. Danifae propuso un contrato mágico y Calista lo redacta para ambos: no dañar a civiles ni cazadores, ni ocultar información importante sobre Otakemaru o su origen. Osuray firma y queda libre de las ataduras. El pacto regula su conducta; no devuelve a Kurobani el control ni demuestra que los otros conozcan los secretos intercambiados con Danifae.",
+        "referencias": [
+          "122-001"
+        ]
+      },
+      {
+        "titulo": "Regalos para una ciudad en crisis",
+        "texto": "Los habitantes de Sho se distraen con regalos caídos del cielo y disfraces extraños. Calista propone investigarlos y el grupo encuentra una invitación al circo de Dame Le Blanc, donde prometen cumplir deseos. Gur viste su martillo con un traje que lo vuelve aparentemente anciano y lo llama Aurelio. Banzo se prueba otro: su aspecto se transforma en mujer y el vestido queda adherido, ocultando la armadura. Calista y Osuray evitan ponerse los suyos. Las transformaciones se ven en escena, sin que impliquen un cambio permanente de identidad.",
+        "referencias": [
+          "122-002"
+        ]
+      },
+      {
+        "titulo": "Diversión que atrapa",
+        "texto": "En el circo, Gur y Banzo se acercan al cañón del gorila. El goliat sale disparado y consigue aterrizar de pie en un cojín que los artistas colocan a tiempo. Gelbreak se aleja con Calista y prueba una mezcla de traje animal y bufón: queda con aspecto de animal peludo y payaso, y no puede desprenderse de la ropa sin dolor. Calista lo frena cuando intenta arrancarla con el estoque. Mientras los artistas entretienen al público, la música conduce al grupo a un sueño o trance que abre un espectáculo mucho más privado.",
+        "referencias": [
+          "122-003"
+        ]
+      },
+      {
+        "titulo": "Sueños que se rompen",
+        "texto": "Gelbreak sueña una playa y una estrella de sonrisa familiar. Cuando la luz cae en un pozo, salta para sostenerla y acaba preso en telarañas ante una araña enorme. Intenta salvarla, pero la criatura la hiere y apaga su luz antes de que él vuelva a caer. Su contenido no identifica públicamente a la persona dentro de la estrella. Gur imagina una horda próspera con familia y compañeros; las voces se vuelven insoportables y las cabezas explotan. Rechaza atacar a los suyos, interpreta que lo están manipulando y su trono cae al vacío. Todo ello pertenece a las visiones, sin muertes reales de esas familias.",
+        "referencias": [
+          "122-004"
+        ]
+      },
+      {
+        "titulo": "Dos voluntades dentro del sueño",
+        "texto": "Kurobani sueña con Calista en una casa junto al mar y denuncia que la escena es falsa. Su brazo se oscurece y la figura se hunde aterrada mientras el sueño se destruye. En el de Banzo, Rua y dos hijos comparten una reunión feliz con antiguos compañeros. La sombra cae allí desde otro sueño y dice que nada es real. Banzo reconoce la ruptura, la desafía clavándole un útil y ambos caen. Los cuatro terminan viéndose en el abismo antes de despertar en el circo. Las parejas, hijos y tragedias de esas escenas son material onírico, no acontecimientos posteriores confirmados.",
+        "referencias": [
+          "122-004"
+        ]
+      },
+      {
+        "titulo": "La anfitriona quita la máscara",
+        "texto": "Dame Le Blanc revela que es una bufona conocida por Gelbreak como Koisy. Afirma haber disfrutado de lo que esconden y presenta al grupo como protagonistas del combate contra un dragón de globos. Gelbreak aparece sobre una cuerda floja y Calista queda atada más arriba, con criaturas de globo quemando su sujeción. La bufona intercepta su magia al principio para mantenerlo dentro del número. Abajo, Osuray y Banzo atacan al dragón, que usa electricidad estática, tartas cegadoras y risas mágicas. Banzo escala el cuerpo de goma y después se mete en su garganta.",
+        "referencias": [
+          "122-005",
+          "122-006"
+        ]
+      },
+      {
+        "titulo": "Gur confunde al compañero con el engaño",
+        "texto": "Gur cree que sigue atrapado en un sueño y responsabiliza a Gelbreak. Destroza uno de los postes que sostiene las cuerdas, lanza fuego hacia lo alto y luego hiere gravemente al drow con jabalinas. Calista le grita que están despiertos y acaba inmovilizándolo para detener los ataques, mientras cura a Gelbreak. La bufona contempla y anima el desorden en vez de sofocarlo. En el interior del cuerpo tomado, Kurobani intenta intervenir por Calista, pero Osuray rechaza al humano; más tarde acepta ejecutar los rescates, advirtiendo que tendrán un precio.",
+        "referencias": [
+          "122-007"
+        ]
+      },
+      {
+        "titulo": "Dos rescates, ningún dragón vencido",
+        "texto": "Osuray aprovecha sombras y agilidad para alcanzar a Calista, cortar sus ataduras y llevarla suavemente al suelo. Después salta hasta Gelbreak y consigue bajarlo con ayuda de la magia de sus compañeros. Cuando ambos están a salvo, Koisy da por acabado el espectáculo: hace implosionar al dragón en confeti y desaparece. La criatura se retira por voluntad de la anfitriona; el grupo no la mata en un desenlace de combate. El circo queda vacío y los disfraces no se disipan todos automáticamente.",
+        "referencias": [
+          "122-008"
+        ]
+      },
+      {
+        "titulo": "La pelea continúa tras el telón",
+        "texto": "Aunque el espectáculo haya terminado, Gur insiste en salir del supuesto sueño y sigue intentando golpear a Gelbreak. El drow recurre a su influencia de sombras y Calista vuelve a intentar detenerlo. Finalmente Gelbreak la toma y se teletransporta con ella fuera del circo, mientras Osuray ya se ha marchado. Gur prende fuego a la carpa buscando acabar con la experiencia y Banzo se queda a su lado, tratando de sacarlo. Las explosiones los dejan chamuscados; ambos sobreviven y la fuerza del estallido rompe el disfraz adherido de Banzo. La sesión termina con los bárbaros allí, sin una reconciliación narrada.",
+        "referencias": [
+          "122-009",
+          "122-010"
+        ]
+      }
+    ]
+  },
+  "misiones": [
+    "Vigilar el cumplimiento del contrato de las dos voluntades.",
+    "Investigar los regalos y efectos del circo.",
+    "Restablecer la seguridad y confianza tras los ataques de Gur."
+  ],
+  "preguntas": [
+    "¿Qué busca Koisy al explorar los sueños de los cazadores?",
+    "¿Cómo se quitará Gelbreak el disfraz adherido?",
+    "¿Aceptarán Gur y los demás lo ocurrido fuera del supuesto sueño?",
+    "¿Cumplirá Osuray el contrato y recuperará Kurobani alguna vez el control?"
+  ],
+  "nombres_dudosos": [
+    "Dame Le Blanc y Koisy/Coisy: la anfitriona revela su disfraz, grafía provisional.",
+    "Osuray/Osurei: voluntad que ocupa a Kurobani.",
+    "Aurelio: nombre con el que Gur llama al martillo tras ponerle el disfraz anciano."
+  ],
+  "contradicciones": [
+    "Las escenas oníricas no confirman hijos, matrimonios o muertes futuras ni la identidad visible de la estrella.",
+    "La retirada del dragón la decide la bufona; no se narra una victoria mortal contra ella.",
+    "La creencia de Gur de que continúa soñando contradice el despertar explícito: sus ataques y el incendio tienen consecuencias reales en escena."
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "fecha": "2026-10-14",
+  "alcance": "Catálogo disponible de Kuroto, numerado del 1 al 182, sin capítulo 92 recuperado.",
+  "lectores_en_paralelo": 4,
+  "capitulos_revisados": 181,
+  "palabras_en_relatos_de_capitulo": 122417,
+  "evidencias_con_cita_validada": 2092,
+  "fichas_con_historia": 1257,
+  "tipos": {
+    "personaje": 465,
+    "lugar": 217,
+    "faccion": 114,
+    "objeto": 461
+  },
+  "preguntas_cotejadas_hasta_182": 767,
+  "preguntas": {
+    "resuelta": 229,
+    "parcial": 252,
+    "pendiente": 286
+  },
+  "preguntas_pendientes_de_cotejo": 0,
+  "originales_vtt_con_sha256_comprobado": 359,
+  "transcripciones_de_youtube": 178,
+  "transcripciones_locales_whisper": [
+    96,
+    135,
+    136
+  ],
+  "transcripciones_por_sesion_sin_conexion": 181,
+  "enlaces_markdown_comprobados": 1438,
+  "enlaces_markdown_ausentes": 0,
+  "pruebas_datos": {
+    "comando": "python -m unittest discover -s scripts -p 'test_*.py'",
+    "resultado": "OK",
+    "cantidad": 41
+  },
+  "pruebas_navegador": {
+    "comando": "node scripts/probar_interfaz.mjs",
+    "resultado": "OK",
+    "cantidad": 187,
+    "nombres_y_destinos_compartidos_entre_campanas": true,
+    "terminos_comunes": [
+      "Crónicas",
+      "Acontecimientos",
+      "Personajes",
+      "Lugares",
+      "Facciones",
+      "Vestigios",
+      "Misiones",
+      "Misterios y desenlaces",
+      "Relaciones"
+    ],
+    "acciones_de_portada": {
+      "Abrir las crónicas": "#capitulos",
+      "Seguir los misterios": "#misterios"
+    },
+    "fondos_en_toda_el_area_de_contenido": true,
+    "mapa_original_intacto_sha256": "44e3cebf32ac43e9c7d7a791e8f42bf8d59534091121d2ef6b09590abcd170a6",
+    "identidades_visuales_separadas": {
+      "arghast": "Mar gris azulado, ocres y nieve del mapa",
+      "xoltacan": "Sombras, oliva, azules de cielo y caliza; amarillo y rojo oficiales",
+      "kuroto": "Crema, turquesa, coral cerezo y marron oficiales"
+    },
+    "anchos_comprobados": [
+      320,
+      390,
+      768,
+      1440
+    ],
+    "apertura": "Archivos locales sin servidor; cambio de campaña; búsqueda; historias; evidencias; subtítulos de YouTube y Whisper.",
+    "mapa_oficial_en_contenido_de_arghast": true,
+    "drawers_exclusivos_y_fondos_distintos_de_portadas": true,
+    "registro_imagenes": "web/assets/fondos-exclusivos.generacion.json",
+    "portadas_aportadas_completas_y_logo_lichpol": true,
+    "contraste_texto_y_controles_minimo_4_5": true,
+    "paletas": "web/paletas.css",
+    "muestreo_de_paletas": "web/assets/paletas-muestreo.json",
+    "scrollbars_finas_y_colores_por_vista": true,
+    "tres_drawers_alineados_a_la_derecha": true,
+    "lemas_de_interfaz_retirados": true,
+    "materiales_ilustrados_en_paneles": "web/assets/materiales-paneles-paleta.generacion.json",
+    "paletas_hex_aportadas_por_usuario": "config/paletas_campanas.json",
+    "hex_de_texto_y_marcos_contrastados_con_lista_del_usuario": true,
+    "bordes_y_cifras_comunes_sin_arcoiris_por_categoria": true,
+    "texturas_recoloreadas_segun_paletas_del_usuario": true,
+    "tres_topbars_con_texturas_exclusivas": true,
+    "atlas_de_arghast_con_panel_y_cifras_reales": true,
+    "registro_cabeceras_y_atlas": "web/assets/cabeceras-atlas.generacion.json",
+    "tipografias_tematicas": {
+      "arghast": "Cinzel 600",
+      "xoltacan": "Macondo 400",
+      "kuroto": "Kaisei Tokumin 700"
+    },
+    "glifos_espanoles_verificados_en_motor_del_navegador": true,
+    "fuentes_incrustadas_sin_conexion_y_licencias_incluidas": true
+  },
+  "xoltacan_conservado": {
+    "capitulos": 39,
+    "evidencias": 946,
+    "fichas": 137
+  },
+  "publicacion": "Cambios exclusivamente locales. Sin git push ni despliegue. Requiere aprobación expresa del usuario sobre esta versión.",
+  "limites": [
+    "El capítulo 92 no figura en la lista ni en el catálogo público del canal consultado; no se inventa su contenido.",
+    "Las transcripciones automáticas conservan sus límites y las grafías inciertas. No hay cotejo completo palabra por palabra del audio.",
+    "Cotejo completo de una pregunta no equivale a misterio resuelto: las tramas sin respuesta permanecen abiertas."
+  ]
+}

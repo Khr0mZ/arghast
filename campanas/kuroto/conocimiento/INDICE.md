@@ -1,6 +1,6 @@
 # Kuroto · Índice de la crónica
 
-181 vídeos catalogados; 178 transcripciones disponibles; 1 sesiones revisadas.
+181 vídeos catalogados; 181 transcripciones disponibles; 181 sesiones revisadas.
 
 ## Fichas con relato
 
@@ -14,187 +14,1434 @@
 - [Bosque del Infierno](entidades/008-bosque-del-infierno.md) · lugar
 - [Kuroto](entidades/009-kuroto.md) · lugar
 - [Cuchillas del kamaitachi](entidades/010-cuchillas-del-kamaitachi.md) · objeto
+- [Jin](entidades/011-jin.md) · personaje
+- [Shiru](entidades/012-shiru.md) · personaje
+- [Humiko (grafía provisional)](entidades/013-humiko-grafía-provisional.md) · personaje
+- [Señor Abaki (grafía provisional)](entidades/014-señor-abaki-grafía-provisional.md) · personaje
+- [Familia Baki (grafía provisional)](entidades/015-familia-baki-grafía-provisional.md) · faccion
+- [Casa de la familia Baki](entidades/016-casa-de-la-familia-baki.md) · lugar
+- [Sho](entidades/017-sho.md) · lugar
+- [Recetario de cocina de la casa Baki](entidades/018-recetario-de-cocina-de-la-casa-baki.md) · objeto
+- [Estudioso de la universidad (nombre pendiente)](entidades/019-estudioso-de-la-universidad-nombre-pendiente.md) · personaje
+- [Akira](entidades/020-akira.md) · personaje
+- [Hayate](entidades/021-hayate.md) · personaje
+- [Lor Miau (grafía provisional)](entidades/022-lor-miau-grafía-provisional.md) · personaje
+- [Familia de pescadores (nombres pendientes)](entidades/023-familia-de-pescadores-nombres-pendientes.md) · personaje
+- [Casa de los pescadores](entidades/024-casa-de-los-pescadores.md) · lugar
+- [Universidad (nombre pendiente)](entidades/025-universidad-nombre-pendiente.md) · faccion
+- [Estatua de Meilink (grafía provisional)](entidades/026-estatua-de-meilink-grafía-provisional.md) · objeto
+- [Po (grafía provisional)](entidades/027-po-grafía-provisional.md) · personaje
+- [Madame del burdel (grafía provisional Hana)](entidades/028-madame-del-burdel-grafía-provisional-hana.md) · personaje
+- [Burdel de Ukio](entidades/029-burdel-de-ukio.md) · lugar
+- [Tienda de Hana (grafía provisional)](entidades/030-tienda-de-hana-grafía-provisional.md) · lugar
+- [Yokai del burdel](entidades/031-yokai-del-burdel.md) · faccion
+- [Baku del claro](entidades/032-baku-del-claro.md) · personaje
+- [Tanuki ladrones de sake](entidades/033-tanuki-ladrones-de-sake.md) · faccion
+- [Aldea de los tanuki](entidades/034-aldea-de-los-tanuki.md) · lugar
+- [Trabajadora que denuncia el burdel (nombre pendiente)](entidades/035-trabajadora-que-denuncia-el-burdel-nombre-pendiente.md) · personaje
+- [Ronin del sake (nombre pendiente)](entidades/036-ronin-del-sake-nombre-pendiente.md) · personaje
+- [Hino Yama (grafía provisional)](entidades/037-hino-yama-grafía-provisional.md) · personaje
+- [Tarutaru (grafía provisional)](entidades/038-tarutaru-grafía-provisional.md) · personaje
+- [Araña de Tarutaru](entidades/039-araña-de-tarutaru.md) · personaje
+- [Tanuki de las dos jarras](entidades/040-tanuki-de-las-dos-jarras.md) · personaje
+- [Puente del río de Jigoku](entidades/041-puente-del-río-de-jigoku.md) · lugar
+- [Kappa del puente](entidades/042-kappa-del-puente.md) · faccion
+- [Muslos de kappa](entidades/043-muslos-de-kappa.md) · objeto
+- [Alquimista de Ukio (nombre pendiente)](entidades/044-alquimista-de-ukio-nombre-pendiente.md) · personaje
+- [Leñador que denuncia Yayi (nombre pendiente)](entidades/045-leñador-que-denuncia-yayi-nombre-pendiente.md) · personaje
+- [Yayi (grafía provisional)](entidades/046-yayi-grafía-provisional.md) · lugar
+- [Ernesto (búho familiar)](entidades/047-ernesto-búho-familiar.md) · personaje
+- [Músico de cabeza de laúd](entidades/048-músico-de-cabeza-de-laúd.md) · personaje
+- [Aldeanos transformados de Yayi](entidades/049-aldeanos-transformados-de-yayi.md) · faccion
+- [La Mangosta Borracha (Yayi)](entidades/050-la-mangosta-borracha-yayi.md) · lugar
+- [Panadero de Yayi (nombre pendiente)](entidades/051-panadero-de-yayi-nombre-pendiente.md) · personaje
+- [Diario del músico de Yayi](entidades/052-diario-del-músico-de-yayi.md) · objeto
+- [Cabeza de laúd del músico](entidades/053-cabeza-de-laúd-del-músico.md) · objeto
+- [Laboratorio clandestino de Ukio](entidades/054-laboratorio-clandestino-de-ukio.md) · lugar
+- [Ritualistas del laboratorio de Ukio](entidades/055-ritualistas-del-laboratorio-de-ukio.md) · faccion
+- [Libro ritual del laboratorio](entidades/056-libro-ritual-del-laboratorio.md) · objeto
+- [Yumi del nekomata](entidades/057-yumi-del-nekomata.md) · objeto
+- [Peluso (criatura de polvo)](entidades/058-peluso-criatura-de-polvo.md) · personaje
+- [Kamaitachi cautivo](entidades/059-kamaitachi-cautivo.md) · personaje
+- [Paraguas cautivo de una pata](entidades/060-paraguas-cautivo-de-una-pata.md) · personaje
+- [Kappa cautivo del laboratorio](entidades/061-kappa-cautivo-del-laboratorio.md) · personaje
+- [Akaname cautivo del laboratorio](entidades/062-akaname-cautivo-del-laboratorio.md) · personaje
+- [Templo cerrado de Ukio](entidades/063-templo-cerrado-de-ukio.md) · lugar
+- [Mímico del laboratorio](entidades/064-mímico-del-laboratorio.md) · personaje
+- [Pergamino de apertura del laboratorio](entidades/065-pergamino-de-apertura-del-laboratorio.md) · objeto
+- [Sacerdote budista de Ukio (nombre pendiente)](entidades/066-sacerdote-budista-de-ukio-nombre-pendiente.md) · personaje
+- [Herminia (grafía provisional)](entidades/067-herminia-grafía-provisional.md) · personaje
+- [Monte Sudo (grafía provisional)](entidades/068-monte-sudo-grafía-provisional.md) · lugar
+- [Monjes rivales del monte Sudo](entidades/069-monjes-rivales-del-monte-sudo.md) · faccion
+- [Objetos animados del camino al monte](entidades/070-objetos-animados-del-camino-al-monte.md) · faccion
+- [Cazador enano del tambor (nombre pendiente)](entidades/071-cazador-enano-del-tambor-nombre-pendiente.md) · personaje
+- [Haru (pescador)](entidades/072-haru-pescador.md) · personaje
+- [Barco del pescador de Kyushu](entidades/073-barco-del-pescador-de-kyushu.md) · objeto
+- [Mar de Kyushu (grafía provisional)](entidades/074-mar-de-kyushu-grafía-provisional.md) · lugar
+- [Costa de Brunamonti (grafía provisional)](entidades/075-costa-de-brunamonti-grafía-provisional.md) · lugar
+- [Gruta submarina de Kyushu](entidades/076-gruta-submarina-de-kyushu.md) · lugar
+- [Nure-onna de la gruta de Kyushu](entidades/077-nure-onna-de-la-gruta-de-kyushu.md) · personaje
+- [Kappa de la gruta de Kyushu](entidades/078-kappa-de-la-gruta-de-kyushu.md) · faccion
+- [Kappa gigante de Kyushu](entidades/079-kappa-gigante-de-kyushu.md) · personaje
+- [Pergaminos de burbuja de aire](entidades/080-pergaminos-de-burbuja-de-aire.md) · objeto
+- [Cráneos de la gruta de Kyushu](entidades/081-cráneos-de-la-gruta-de-kyushu.md) · objeto
+- [Daga de risa mecánica](entidades/082-daga-de-risa-mecánica.md) · objeto
+- [Caparazón del kappa gigante](entidades/083-caparazón-del-kappa-gigante.md) · objeto
+- [Sopa de kappa](entidades/084-sopa-de-kappa.md) · objeto
+- [Sirth (grafía provisional)](entidades/085-sirth-grafía-provisional.md) · personaje
+- [Amaterasu (grafía provisional)](entidades/086-amaterasu-grafía-provisional.md) · personaje
+- [Susano (grafía provisional)](entidades/087-susano-grafía-provisional.md) · personaje
+- [Bakasura (grafía provisional)](entidades/088-bakasura-grafía-provisional.md) · personaje
+- [Moiras del bosque](entidades/089-moiras-del-bosque.md) · faccion
+- [Humano empalado del camino](entidades/090-humano-empalado-del-camino.md) · personaje
+- [Espada corta del empalado](entidades/091-espada-corta-del-empalado.md) · objeto
+- [Sustancia negra de Bakasura](entidades/092-sustancia-negra-de-bakasura.md) · objeto
+- [Frasco de sustancia negra de Shiri](entidades/093-frasco-de-sustancia-negra-de-shiri.md) · objeto
+- [Campamento de los expedicionarios](entidades/094-campamento-de-los-expedicionarios.md) · lugar
+- [Expedicionarios del campamento](entidades/095-expedicionarios-del-campamento.md) · faccion
+- [Carta a Elara firmada Gloria](entidades/096-carta-a-elara-firmada-gloria.md) · objeto
+- [Frasco del tentáculo del campamento](entidades/097-frasco-del-tentáculo-del-campamento.md) · objeto
+- [Pergamino divino del campamento](entidades/098-pergamino-divino-del-campamento.md) · objeto
+- [Viñedo de Bakasura](entidades/099-viñedo-de-bakasura.md) · lugar
+- [Manifestaciones de Bakasura](entidades/100-manifestaciones-de-bakasura.md) · faccion
+- [La Pesca de los Cazadores](entidades/101-la-pesca-de-los-cazadores.md) · lugar
+- [Lavanderas de Ukio](entidades/102-lavanderas-de-ukio.md) · faccion
+- [Ribera de las lavanderas](entidades/103-ribera-de-las-lavanderas.md) · lugar
+- [Pulpo de manos de la ribera](entidades/104-pulpo-de-manos-de-la-ribera.md) · personaje
+- [Trucha gigante del río](entidades/105-trucha-gigante-del-río.md) · objeto
+- [Cabaña de los objetos animados](entidades/106-cabaña-de-los-objetos-animados.md) · lugar
+- [Objetos animados de la cabaña](entidades/107-objetos-animados-de-la-cabaña.md) · faccion
+- [Puerta de los mil ojos](entidades/108-puerta-de-los-mil-ojos.md) · personaje
+- [Sandalias animadas de la cabaña](entidades/109-sandalias-animadas-de-la-cabaña.md) · objeto
+- [Kamaitachi de la cabaña](entidades/110-kamaitachi-de-la-cabaña.md) · personaje
+- [Anillo de los magos de papel (nombre pendiente)](entidades/111-anillo-de-los-magos-de-papel-nombre-pendiente.md) · objeto
+- [Torneo de artes marciales de Ukio](entidades/112-torneo-de-artes-marciales-de-ukio.md) · lugar
+- [Sota (presentador de torneos, grafía provisional)](entidades/113-sota-presentador-de-torneos-grafía-provisional.md) · personaje
+- [Hiro (ronin del torneo, grafía provisional)](entidades/114-hiro-ronin-del-torneo-grafía-provisional.md) · personaje
+- [Yusha (maga del torneo, grafía provisional)](entidades/115-yusha-maga-del-torneo-grafía-provisional.md) · personaje
+- [Pareja del sacerdote y shinobi del torneo](entidades/116-pareja-del-sacerdote-y-shinobi-del-torneo.md) · faccion
+- [Mujina del torneo](entidades/117-mujina-del-torneo.md) · faccion
+- [Herrero de Ukio](entidades/118-herrero-de-ukio.md) · personaje
+- [Yusuf (identidad real pendiente)](entidades/119-yusuf-identidad-real-pendiente.md) · personaje
+- [Vendedor que suplanta a Yusuf](entidades/120-vendedor-que-suplanta-a-yusuf.md) · personaje
+- [Anillo del kebab de Kitaro](entidades/121-anillo-del-kebab-de-kitaro.md) · objeto
+- [Templo de Sun Gukon](entidades/122-templo-de-sun-gukon.md) · lugar
+- [Shizuka (grafía provisional)](entidades/123-shizuka-grafía-provisional.md) · personaje
+- [Bebé del templo (nombre pendiente)](entidades/124-bebé-del-templo-nombre-pendiente.md) · personaje
+- [Familia del templo de Sun Gukon](entidades/125-familia-del-templo-de-sun-gukon.md) · faccion
+- [Carta de Shizuka (grafía provisional)](entidades/126-carta-de-shizuka-grafía-provisional.md) · objeto
+- [Caja musical de la familia del templo](entidades/127-caja-musical-de-la-familia-del-templo.md) · objeto
+- [Bastón extensible de Eggi](entidades/128-bastón-extensible-de-eggi.md) · objeto
+- [Anillos de mando elemental](entidades/129-anillos-de-mando-elemental.md) · objeto
+- [Esfera del templo de Sun Gukon](entidades/130-esfera-del-templo-de-sun-gukon.md) · objeto
+- [Yoki (ciudad arruinada, grafía provisional)](entidades/131-yoki-ciudad-arruinada-grafía-provisional.md) · lugar
+- [Costa del volcán de Yoki](entidades/132-costa-del-volcán-de-yoki.md) · lugar
+- [Elementales del volcán](entidades/133-elementales-del-volcán.md) · faccion
+- [Mefrits del volcán](entidades/134-mefrits-del-volcán.md) · faccion
+- [Barcos encallados del volcán](entidades/135-barcos-encallados-del-volcán.md) · objeto
+- [Titán del volcán de Yoki](entidades/136-titán-del-volcán-de-yoki.md) · personaje
+- [Figura tuerta de la ciudad arruinada](entidades/137-figura-tuerta-de-la-ciudad-arruinada.md) · personaje
+- [Tekel](entidades/138-tekel.md) · personaje
+- [Túneles de los robos de Ukio](entidades/139-túneles-de-los-robos-de-ukio.md) · lugar
+- [Cueva de la ladrona de Ukio](entidades/140-cueva-de-la-ladrona-de-ukio.md) · lugar
+- [Dodomeki ladrona (grafía provisional)](entidades/141-dodomeki-ladrona-grafía-provisional.md) · personaje
+- [Mímicos de la cueva del robo](entidades/142-mímicos-de-la-cueva-del-robo.md) · faccion
+- [Escudo improvisado de Shiru](entidades/143-escudo-improvisado-de-shiru.md) · objeto
+- [Masamune de Jin](entidades/144-masamune-de-jin.md) · objeto
+- [Mímico muerto para la base](entidades/145-mímico-muerto-para-la-base.md) · objeto
+- [Vagabundo del gato (nombre pendiente)](entidades/146-vagabundo-del-gato-nombre-pendiente.md) · personaje
+- [Gato del vagabundo (especie pendiente)](entidades/147-gato-del-vagabundo-especie-pendiente.md) · personaje
+- [Vecino asesinado de Ukio (nombre pendiente)](entidades/148-vecino-asesinado-de-ukio-nombre-pendiente.md) · personaje
+- [Samuráis de Ukio](entidades/149-samuráis-de-ukio.md) · faccion
+- [Casa abandonada del vagabundo](entidades/150-casa-abandonada-del-vagabundo.md) · lugar
+- [Pergamino de Jin (contenido pendiente)](entidades/151-pergamino-de-jin-contenido-pendiente.md) · objeto
+- [Bill](entidades/152-bill.md) · personaje
+- [Zia (grafía provisional)](entidades/153-zia-grafía-provisional.md) · personaje
+- [Kitsune incendiario](entidades/154-kitsune-incendiario.md) · personaje
+- [Mausoleo del Crepúsculo](entidades/155-mausoleo-del-crepúsculo.md) · lugar
+- [Entidad del ritual del Crepúsculo](entidades/156-entidad-del-ritual-del-crepúsculo.md) · personaje
+- [Guardianes del mausoleo](entidades/157-guardianes-del-mausoleo.md) · faccion
+- [Urna funeraria de Kitaro](entidades/158-urna-funeraria-de-kitaro.md) · objeto
+- [Reliquia de la segunda oportunidad](entidades/159-reliquia-de-la-segunda-oportunidad.md) · objeto
+- [Látigo de las penumbras](entidades/160-látigo-de-las-penumbras.md) · objeto
+- [Ballesta de la luz](entidades/161-ballesta-de-la-luz.md) · objeto
+- [Otakemaru](entidades/162-otakemaru.md) · personaje
+- [Oni emisario de Otakemaru](entidades/163-oni-emisario-de-otakemaru.md) · personaje
+- [Caja de frío de la base](entidades/164-caja-de-frío-de-la-base.md) · objeto
+- [Equipo de entrenamiento de Shizuka](entidades/165-equipo-de-entrenamiento-de-shizuka.md) · objeto
+- [Nure-onna del río](entidades/166-nure-onna-del-río.md) · faccion
+- [Cabeza del emisario oni](entidades/167-cabeza-del-emisario-oni.md) · objeto
+- [Guadaña del emisario oni](entidades/168-guadaña-del-emisario-oni.md) · objeto
+- [Tierras al sur de las montañas de Kuroto](entidades/169-tierras-al-sur-de-las-montañas-de-kuroto.md) · lugar
+- [Sota (inugami, grafía provisional)](entidades/170-sota-inugami-grafía-provisional.md) · personaje
+- [Shinobi del camino a Sho](entidades/171-shinobi-del-camino-a-sho.md) · faccion
+- [Carruaje de Sota](entidades/172-carruaje-de-sota.md) · objeto
+- [Maza de caparazón del enano](entidades/173-maza-de-caparazón-del-enano.md) · objeto
+- [Daga ornamental para Zia (encargo pendiente)](entidades/174-daga-ornamental-para-zia-encargo-pendiente.md) · objeto
+- [Noppera-bo del cementerio (grafía provisional)](entidades/175-noppera-bo-del-cementerio-grafía-provisional.md) · faccion
+- [Fantasma del mausoleo (nombre pendiente)](entidades/176-fantasma-del-mausoleo-nombre-pendiente.md) · personaje
+- [Vasijas espirituales del mausoleo](entidades/177-vasijas-espirituales-del-mausoleo.md) · objeto
+- [Fantasma en un pote](entidades/178-fantasma-en-un-pote.md) · objeto
+- [Romu (grafía provisional)](entidades/179-romu-grafía-provisional.md) · personaje
+- [Kimiko (grafía provisional)](entidades/180-kimiko-grafía-provisional.md) · personaje
+- [Mercenarios de Kimiko](entidades/181-mercenarios-de-kimiko.md) · faccion
+- [Zona de entrenamiento de la base](entidades/182-zona-de-entrenamiento-de-la-base.md) · lugar
+- [Chapa del rayo de Hayate](entidades/183-chapa-del-rayo-de-hayate.md) · objeto
+- [Oni del ataque a los tanuki](entidades/184-oni-del-ataque-a-los-tanuki.md) · personaje
+- [Cultistas de Otakemaru](entidades/185-cultistas-de-otakemaru.md) · faccion
+- [Piel del oni del poblado](entidades/186-piel-del-oni-del-poblado.md) · objeto
+- [Máscara del culto de Otakemaru](entidades/187-máscara-del-culto-de-otakemaru.md) · objeto
+- [Tanuki del bosque](entidades/188-tanuki-del-bosque.md) · faccion
+- [Anillo de tierra de Sun Gukon](entidades/189-anillo-de-tierra-de-sun-gukon.md) · objeto
+- [Shogun de Sho (nombre pendiente)](entidades/190-shogun-de-sho-nombre-pendiente.md) · personaje
+- [Samuráis de Sho](entidades/191-samuráis-de-sho.md) · faccion
+- [Cazadores de Kuroto](entidades/192-cazadores-de-kuroto.md) · faccion
+- [Casa de la jorogumo de Sho](entidades/193-casa-de-la-jorogumo-de-sho.md) · lugar
+- [Jorogumo de Sho](entidades/194-jorogumo-de-sho.md) · personaje
+- [Arañas de la casa de Sho](entidades/195-arañas-de-la-casa-de-sho.md) · faccion
+- [Shinobi perdonado (nombre pendiente)](entidades/196-shinobi-perdonado-nombre-pendiente.md) · personaje
+- [Base del clan shinobi](entidades/197-base-del-clan-shinobi.md) · lugar
+- [Mufasa (grafía provisional)](entidades/198-mufasa-grafía-provisional.md) · personaje
+- [Cleo (grafía provisional)](entidades/199-cleo-grafía-provisional.md) · personaje
+- [Dodomeki de la base shinobi](entidades/200-dodomeki-de-la-base-shinobi.md) · faccion
+- [Planes de robo del clan shinobi](entidades/201-planes-de-robo-del-clan-shinobi.md) · objeto
+- [Pieles de los dodomeki de la base](entidades/202-pieles-de-los-dodomeki-de-la-base.md) · objeto
+- [Gxi (artífice, grafía provisional)](entidades/203-gxi-artífice-grafía-provisional.md) · personaje
+- [Templo helado de los gigantes](entidades/204-templo-helado-de-los-gigantes.md) · lugar
+- [Trono de la reina de los gigantes](entidades/205-trono-de-la-reina-de-los-gigantes.md) · objeto
+- [Troll helado del templo](entidades/206-troll-helado-del-templo.md) · personaje
+- [Guardianes menores del templo helado](entidades/207-guardianes-menores-del-templo-helado.md) · faccion
+- [Capa de resistencia al hielo](entidades/208-capa-de-resistencia-al-hielo.md) · objeto
+- [Piel y carne del troll helado](entidades/209-piel-y-carne-del-troll-helado.md) · objeto
+- [Libro inagotable de la enciclopedia](entidades/210-libro-inagotable-de-la-enciclopedia.md) · objeto
+- [Shinobi al servicio de los cazadores](entidades/211-shinobi-al-servicio-de-los-cazadores.md) · faccion
+- [Bosque del sueño de los baku](entidades/212-bosque-del-sueño-de-los-baku.md) · lugar
+- [Baku del collar rojo](entidades/213-baku-del-collar-rojo.md) · personaje
+- [Copias del baku del sueño](entidades/214-copias-del-baku-del-sueño.md) · faccion
+- [Collar rojo del baku](entidades/215-collar-rojo-del-baku.md) · objeto
+- [Bolsa de polvos de hada](entidades/216-bolsa-de-polvos-de-hada.md) · objeto
+- [Mosto (grafía provisional)](entidades/217-mosto-grafía-provisional.md) · personaje
+- [Estoque de caparazón del enano](entidades/218-estoque-de-caparazón-del-enano.md) · objeto
+- [Mochila de piel de araña de fase (encargo pendiente)](entidades/219-mochila-de-piel-de-araña-de-fase-encargo-pendiente.md) · objeto
+- [Torneo del shogun en Sho](entidades/220-torneo-del-shogun-en-sho.md) · lugar
+- [Yokai cautivos del torneo de Sho](entidades/221-yokai-cautivos-del-torneo-de-sho.md) · faccion
+- [Carcaj del relámpago de Hayate](entidades/222-carcaj-del-relámpago-de-hayate.md) · objeto
+- [Gafas de la noche de Gxi](entidades/223-gafas-de-la-noche-de-gxi.md) · objeto
+- [Figurilla de la mini yurei](entidades/224-figurilla-de-la-mini-yurei.md) · objeto
+- [Hiki (grafía provisional)](entidades/225-hiki-grafía-provisional.md) · personaje
+- [Zombis del asalto de Ukio](entidades/226-zombis-del-asalto-de-ukio.md) · faccion
+- [Gatos del asalto de Ukio](entidades/227-gatos-del-asalto-de-ukio.md) · faccion
+- [Bakeneko capturado en Ukio](entidades/228-bakeneko-capturado-en-ukio.md) · personaje
+- [Capa de dodomeki](entidades/229-capa-de-dodomeki.md) · objeto
+- [Capa del brazo cortado](entidades/230-capa-del-brazo-cortado.md) · objeto
+- [Capa del troll helado](entidades/231-capa-del-troll-helado.md) · objeto
+- [Capa de regeneración de oni](entidades/232-capa-de-regeneración-de-oni.md) · objeto
+- [Takashi (carpintero, grafía provisional)](entidades/233-takashi-carpintero-grafía-provisional.md) · personaje
+- [Ragnar (grafía provisional)](entidades/234-ragnar-grafía-provisional.md) · personaje
+- [Bosque de secuoyas de Ragnar](entidades/235-bosque-de-secuoyas-de-ragnar.md) · lugar
+- [Dragón verde de Ragnar](entidades/236-dragón-verde-de-ragnar.md) · personaje
+- [Líquido negro del dragón](entidades/237-líquido-negro-del-dragón.md) · objeto
+- [Escamas del dragón verde de Ragnar](entidades/238-escamas-del-dragón-verde-de-ragnar.md) · objeto
+- [Stolos (científico, grafía provisional)](entidades/239-stolos-científico-grafía-provisional.md) · personaje
+- [Lago del hombre pálido (localización pendiente)](entidades/240-lago-del-hombre-pálido-localización-pendiente.md) · lugar
+- [Seguidores del buconismo](entidades/241-seguidores-del-buconismo.md) · faccion
+- [Erk (grafía provisional)](entidades/242-erk-grafía-provisional.md) · personaje
+- [Maroxi](entidades/243-maroxi.md) · personaje
+- [Ikari (grafía provisional)](entidades/244-ikari-grafía-provisional.md) · personaje
+- [Cloacas de Ukio](entidades/245-cloacas-de-ukio.md) · lugar
+- [Cubo gelatinoso de las cloacas](entidades/246-cubo-gelatinoso-de-las-cloacas.md) · personaje
+- [Akaname de las cloacas](entidades/247-akaname-de-las-cloacas.md) · faccion
+- [Anillo de metamagia de Ikari](entidades/248-anillo-de-metamagia-de-ikari.md) · objeto
+- [Noppera-bo del bosque](entidades/249-noppera-bo-del-bosque.md) · faccion
+- [Carruaje destruido del bosque](entidades/250-carruaje-destruido-del-bosque.md) · objeto
+- [Ruedas infernales del camino](entidades/251-ruedas-infernales-del-camino.md) · faccion
+- [Sangre negra de las ruedas](entidades/252-sangre-negra-de-las-ruedas.md) · objeto
+- [Megáfono de taumaturgia del enano](entidades/253-megáfono-de-taumaturgia-del-enano.md) · objeto
+- [Guantes de la balista de Gxi](entidades/254-guantes-de-la-balista-de-gxi.md) · objeto
+- [Kasay (alquimista de Sho)](entidades/255-kasay-alquimista-de-sho.md) · personaje
+- [Rua (grafía provisional)](entidades/256-rua-grafía-provisional.md) · personaje
+- [Atacantes yokai de la boda](entidades/257-atacantes-yokai-de-la-boda.md) · faccion
+- [Palacio del shogun de Sho](entidades/258-palacio-del-shogun-de-sho.md) · lugar
+- [Rapier de la tragedia de Hiki](entidades/259-rapier-de-la-tragedia-de-hiki.md) · objeto
+- [Desenfunde de Maroxi](entidades/260-desenfunde-de-maroxi.md) · objeto
+- [Botella de sake inagotable de Ikari](entidades/261-botella-de-sake-inagotable-de-ikari.md) · objeto
+- [Arco de traspasar de Erk](entidades/262-arco-de-traspasar-de-erk.md) · objeto
+- [Carro regalado por el shogun](entidades/263-carro-regalado-por-el-shogun.md) · objeto
+- [Caja común de los cazadores](entidades/264-caja-común-de-los-cazadores.md) · objeto
+- [Asami (grafía provisional)](entidades/265-asami-grafía-provisional.md) · personaje
+- [Firefox (kitsune, apodo de Maroxi)](entidades/266-firefox-kitsune-apodo-de-maroxi.md) · personaje
+- [Koi (kitsune, grafía provisional)](entidades/267-koi-kitsune-grafía-provisional.md) · personaje
+- [Oni de la cueva de los kitsune](entidades/268-oni-de-la-cueva-de-los-kitsune.md) · personaje
+- [Cueva de los kitsune](entidades/269-cueva-de-los-kitsune.md) · lugar
+- [Mercader insectoide del Basurero (nombre pendiente)](entidades/270-mercader-insectoide-del-basurero-nombre-pendiente.md) · personaje
+- [Mapa de cuatro marcas de los cultistas](entidades/271-mapa-de-cuatro-marcas-de-los-cultistas.md) · objeto
+- [Loto de cortejo de Sun](entidades/272-loto-de-cortejo-de-sun.md) · objeto
+- [Lealín (grafía provisional)](entidades/273-lealín-grafía-provisional.md) · personaje
+- [Feria anual de Ukio](entidades/274-feria-anual-de-ukio.md) · lugar
+- [Llave que lo abre todo](entidades/275-llave-que-lo-abre-todo.md) · objeto
+- [Bolsa de comida infinita de la feria](entidades/276-bolsa-de-comida-infinita-de-la-feria.md) · objeto
+- [Caja de bromas de la feria](entidades/277-caja-de-bromas-de-la-feria.md) · objeto
+- [Libro del Rey Mono](entidades/278-libro-del-rey-mono.md) · objeto
+- [Chami (costurera de Sho)](entidades/279-chami-costurera-de-sho.md) · personaje
+- [Oda Tanaka (grafía provisional)](entidades/280-oda-tanaka-grafía-provisional.md) · personaje
+- [Mansión de Oda Tanaka](entidades/281-mansión-de-oda-tanaka.md) · lugar
+- [Hiroshi (mayordomo de Tanaka)](entidades/282-hiroshi-mayordomo-de-tanaka.md) · personaje
+- [Kaori (cocinera de Tanaka)](entidades/283-kaori-cocinera-de-tanaka.md) · personaje
+- [Yumi (doncella de Tanaka)](entidades/284-yumi-doncella-de-tanaka.md) · personaje
+- [Takeshi (jardinero de Tanaka)](entidades/285-takeshi-jardinero-de-tanaka.md) · personaje
+- [Máquina mágica de Asami](entidades/286-máquina-mágica-de-asami.md) · objeto
+- [Tienda de Asami en Ukio](entidades/287-tienda-de-asami-en-ukio.md) · lugar
+- [Gema familiar de Tanaka](entidades/288-gema-familiar-de-tanaka.md) · objeto
+- [Manual de protecciones de Hiroshi](entidades/289-manual-de-protecciones-de-hiroshi.md) · objeto
+- [Carta de embargo de Kaori](entidades/290-carta-de-embargo-de-kaori.md) · objeto
+- [Libro de leyendas de Kuroto de Maroxi](entidades/291-libro-de-leyendas-de-kuroto-de-maroxi.md) · objeto
+- [Madriguera del robo a Tanaka](entidades/292-madriguera-del-robo-a-tanaka.md) · lugar
+- [No muertos de las armaduras antiguas](entidades/293-no-muertos-de-las-armaduras-antiguas.md) · faccion
+- [Mangual de columna y calavera de Shiru](entidades/294-mangual-de-columna-y-calavera-de-shiru.md) · objeto
+- [Árboles yoco del bosque (grafía provisional)](entidades/295-árboles-yoco-del-bosque-grafía-provisional.md) · faccion
+- [Osario de los árboles yoco](entidades/296-osario-de-los-árboles-yoco.md) · lugar
+- [Engendros vampíricos de los yoco](entidades/297-engendros-vampíricos-de-los-yoco.md) · faccion
+- [Restos vampíricos recogidos por Maroxi](entidades/298-restos-vampíricos-recogidos-por-maroxi.md) · objeto
+- [Símbolo del ejército antiguo de Kuroto](entidades/299-símbolo-del-ejército-antiguo-de-kuroto.md) · objeto
+- [Sombras errantes de Ukio](entidades/300-sombras-errantes-de-ukio.md) · faccion
+- [Generales sombríos de Ukio (enra, grafía provisional)](entidades/301-generales-sombríos-de-ukio-enra-grafía-provisional.md) · faccion
+- [Yokédex de Asami](entidades/302-yokédex-de-asami.md) · objeto
+- [Brazaletes de escamas verdes de Sun](entidades/303-brazaletes-de-escamas-verdes-de-sun.md) · objeto
+- [Almacén de la araña modificada](entidades/304-almacén-de-la-araña-modificada.md) · lugar
+- [Araña madre modificada del almacén](entidades/305-araña-madre-modificada-del-almacén.md) · personaje
+- [Huevos de la araña modificada](entidades/306-huevos-de-la-araña-modificada.md) · objeto
+- [Guardaespaldas de cuchilla orgánica (nombre pendiente)](entidades/307-guardaespaldas-de-cuchilla-orgánica-nombre-pendiente.md) · personaje
+- [Mapa del almacén del científico](entidades/308-mapa-del-almacén-del-científico.md) · objeto
+- [Batallón Carmesí (punto del mapa)](entidades/309-batallón-carmesí-punto-del-mapa.md) · lugar
+- [Puesto C (nombre incompleto)](entidades/310-puesto-c-nombre-incompleto.md) · lugar
+- [Archivo de Gxi sobre Otakemaru](entidades/311-archivo-de-gxi-sobre-otakemaru.md) · objeto
+- [Montes Dorados](entidades/312-montes-dorados.md) · lugar
+- [Corrosivo verde de Asami](entidades/313-corrosivo-verde-de-asami.md) · objeto
+- [Cueva del robo durante el viaje a Sho](entidades/314-cueva-del-robo-durante-el-viaje-a-sho.md) · lugar
+- [Dodomeki del robo del campamento](entidades/315-dodomeki-del-robo-del-campamento.md) · faccion
+- [Mímicos y monedas de la cueva del campamento](entidades/316-mímicos-y-monedas-de-la-cueva-del-campamento.md) · faccion
+- [Mímico cautivo del viaje a Sho](entidades/317-mímico-cautivo-del-viaje-a-sho.md) · personaje
+- [Lenguas de mímico del campamento](entidades/318-lenguas-de-mímico-del-campamento.md) · objeto
+- [Brazo de dodomeki de Ikari](entidades/319-brazo-de-dodomeki-de-ikari.md) · objeto
+- [Ciudad Cóndor](entidades/320-ciudad-cóndor.md) · lugar
+- [Biblioteca de Toshi](entidades/321-biblioteca-de-toshi.md) · lugar
+- [Danifae (grafía provisional)](entidades/322-danifae-grafía-provisional.md) · personaje
+- [Toshi (bibliotecario de Sho)](entidades/323-toshi-bibliotecario-de-sho.md) · personaje
+- [Biaco (grafía provisional)](entidades/324-biaco-grafía-provisional.md) · personaje
+- [Libro de los cuatro guardianes del archivo](entidades/325-libro-de-los-cuatro-guardianes-del-archivo.md) · objeto
+- [Wishi (encargado del burdel de Sho)](entidades/326-wishi-encargado-del-burdel-de-sho.md) · personaje
+- [Casino de la madame en Ukio](entidades/327-casino-de-la-madame-en-ukio.md) · lugar
+- [Almacén Jaiki de Sho](entidades/328-almacén-jaiki-de-sho.md) · lugar
+- [Samuráis cómplices del secuestro de Toshi](entidades/329-samuráis-cómplices-del-secuestro-de-toshi.md) · faccion
+- [Samurái cómplice capturado en Sho](entidades/330-samurái-cómplice-capturado-en-sho.md) · personaje
+- [Notas de Toshi sobre los guardianes](entidades/331-notas-de-toshi-sobre-los-guardianes.md) · objeto
+- [Suzaku (grafía provisional)](entidades/332-suzaku-grafía-provisional.md) · personaje
+- [Genbu](entidades/333-genbu.md) · personaje
+- [Seiryu (grafía provisional)](entidades/334-seiryu-grafía-provisional.md) · personaje
+- [Ben (pescador del poblado atacado)](entidades/335-ben-pescador-del-poblado-atacado.md) · personaje
+- [Poblado pesquero Kera (grafía provisional)](entidades/336-poblado-pesquero-kera-grafía-provisional.md) · lugar
+- [Ningyo del ataque al poblado pesquero](entidades/337-ningyo-del-ataque-al-poblado-pesquero.md) · faccion
+- [Caracola de Gluglu](entidades/338-caracola-de-gluglu.md) · objeto
+- [Cofradía del poblado pesquero](entidades/339-cofradía-del-poblado-pesquero.md) · lugar
+- [Samito (tiburón humanoide, grafía provisional)](entidades/340-samito-tiburón-humanoide-grafía-provisional.md) · personaje
+- [Barco prometido por los pescadores](entidades/341-barco-prometido-por-los-pescadores.md) · objeto
+- [Gluglu (grafía provisional)](entidades/342-gluglu-grafía-provisional.md) · personaje
+- [Sur (sirena, grafía provisional)](entidades/343-sur-sirena-grafía-provisional.md) · personaje
+- [Instructor del shogun (nombre pendiente)](entidades/344-instructor-del-shogun-nombre-pendiente.md) · personaje
+- [Biwa-bokuboku del bosque del instructor](entidades/345-biwa-bokuboku-del-bosque-del-instructor.md) · faccion
+- [Islote del baile del instructor](entidades/346-islote-del-baile-del-instructor.md) · lugar
+- [Liras de los biwa del bosque](entidades/347-liras-de-los-biwa-del-bosque.md) · objeto
+- [Negocio de poses y vestidos de Erk](entidades/348-negocio-de-poses-y-vestidos-de-erk.md) · objeto
+- [Permisos de profesión del rescate](entidades/349-permisos-de-profesión-del-rescate.md) · objeto
+- [Funcionaria de pagos de Sho (nombre pendiente)](entidades/350-funcionaria-de-pagos-de-sho-nombre-pendiente.md) · personaje
+- [Oficina gubernamental de pagos de Sho](entidades/351-oficina-gubernamental-de-pagos-de-sho.md) · lugar
+- [Gur (grafía provisional)](entidades/352-gur-grafía-provisional.md) · personaje
+- [Corco](entidades/353-corco.md) · personaje
+- [Kasumi (grafía provisional)](entidades/354-kasumi-grafía-provisional.md) · personaje
+- [Trabajadoras asesinadas del traslado a Sho](entidades/355-trabajadoras-asesinadas-del-traslado-a-sho.md) · faccion
+- [Carro de las trabajadoras de Ukio](entidades/356-carro-de-las-trabajadoras-de-ukio.md) · objeto
+- [Rival de la madame de cabello armado (nombre incierto)](entidades/357-rival-de-la-madame-de-cabello-armado-nombre-incierto.md) · personaje
+- [Mujeres serpiente del ataque al traslado](entidades/358-mujeres-serpiente-del-ataque-al-traslado.md) · faccion
+- [Restos de las serpientes del traslado](entidades/359-restos-de-las-serpientes-del-traslado.md) · objeto
+- [Base de los cazadores en el patio de Sho](entidades/360-base-de-los-cazadores-en-el-patio-de-sho.md) · lugar
+- [Templo de Biaco (oeste)](entidades/361-templo-de-biaco-oeste.md) · lugar
+- [Barco prestado para el templo del Oeste](entidades/362-barco-prestado-para-el-templo-del-oeste.md) · objeto
+- [Guantes de cuero de Hayate](entidades/363-guantes-de-cuero-de-hayate.md) · objeto
+- [Carta de Danifae sobre la esfera azul](entidades/364-carta-de-danifae-sobre-la-esfera-azul.md) · objeto
+- [Esfera azul del templo del Oeste](entidades/365-esfera-azul-del-templo-del-oeste.md) · objeto
+- [Libro histórico de Byakko](entidades/366-libro-histórico-de-byakko.md) · objeto
+- [Orden de destruir al guardián occidental](entidades/367-orden-de-destruir-al-guardián-occidental.md) · objeto
+- [Túnica del relámpago de Maroxi](entidades/368-túnica-del-relámpago-de-maroxi.md) · objeto
+- [Guantes del viento de Sun](entidades/369-guantes-del-viento-de-sun.md) · objeto
+- [Anillo del relámpago de Hayate](entidades/370-anillo-del-relámpago-de-hayate.md) · objeto
+- [Botas del viento de Erk](entidades/371-botas-del-viento-de-erk.md) · objeto
+- [Caja de almas de Sho](entidades/372-caja-de-almas-de-sho.md) · objeto
+- [Yurei devorador de almas de Sho](entidades/373-yurei-devorador-de-almas-de-sho.md) · personaje
+- [Observador de rojo de la cueva de almas](entidades/374-observador-de-rojo-de-la-cueva-de-almas.md) · personaje
+- [Cenizas del devorador de almas](entidades/375-cenizas-del-devorador-de-almas.md) · objeto
+- [Herrero de Sho (nombre pendiente)](entidades/376-herrero-de-sho-nombre-pendiente.md) · personaje
+- [Aiko (panadera, grafía provisional)](entidades/377-aiko-panadera-grafía-provisional.md) · personaje
+- [Tang Sanzan (grafía provisional)](entidades/378-tang-sanzan-grafía-provisional.md) · personaje
+- [Templo de las pruebas del Rey Mono](entidades/379-templo-de-las-pruebas-del-rey-mono.md) · lugar
+- [Guardianes cuervo del templo del Rey Mono](entidades/380-guardianes-cuervo-del-templo-del-rey-mono.md) · faccion
+- [Objetos de la prueba del reflejo](entidades/381-objetos-de-la-prueba-del-reflejo.md) · objeto
+- [Nube voladora de Sun (nombre provisional Jinduyu)](entidades/382-nube-voladora-de-sun-nombre-provisional-jinduyu.md) · personaje
+- [Árbol corrupto del ataque a Sho](entidades/383-árbol-corrupto-del-ataque-a-sho.md) · personaje
+- [No muertos de la invasión de Sho](entidades/384-no-muertos-de-la-invasión-de-sho.md) · faccion
+- [Sacerdote del abanico del ataque a Sho](entidades/385-sacerdote-del-abanico-del-ataque-a-sho.md) · personaje
+- [Muestra de tierra y huesos del cerezo de Sho](entidades/386-muestra-de-tierra-y-huesos-del-cerezo-de-sho.md) · objeto
+- [Asaltantes mujina Tip y Top](entidades/387-asaltantes-mujina-tip-y-top.md) · faccion
+- [Tip (mujina)](entidades/388-tip-mujina.md) · personaje
+- [Top (mujina)](entidades/389-top-mujina.md) · personaje
+- [Colgante artesanal de Gxi](entidades/390-colgante-artesanal-de-gxi.md) · objeto
+- [Carta de Erk sobre la invasión de Sho](entidades/391-carta-de-erk-sobre-la-invasión-de-sho.md) · objeto
+- [Caja fuerte común de los cazadores](entidades/392-caja-fuerte-común-de-los-cazadores.md) · objeto
+- [Higeki (grafía provisional)](entidades/393-higeki-grafía-provisional.md) · personaje
+- [Katari (grafía provisional)](entidades/394-katari-grafía-provisional.md) · personaje
+- [Cael (grafía provisional)](entidades/395-cael-grafía-provisional.md) · personaje
+- [Baku que protege a Mitsune (grafía provisional)](entidades/396-baku-que-protege-a-mitsune-grafía-provisional.md) · personaje
+- [Mitsune (grafía provisional)](entidades/397-mitsune-grafía-provisional.md) · personaje
+- [Madre de Mitsune (nombre pendiente)](entidades/398-madre-de-mitsune-nombre-pendiente.md) · personaje
+- [Mundo de los sueños](entidades/399-mundo-de-los-sueños.md) · lugar
+- [Taberna de Ushi en Sho](entidades/400-taberna-de-ushi-en-sho.md) · lugar
+- [Madera traída del mundo de los sueños](entidades/401-madera-traída-del-mundo-de-los-sueños.md) · objeto
+- [Templo del Este de Seiryu](entidades/402-templo-del-este-de-seiryu.md) · lugar
+- [Orbe frío del Templo del Este](entidades/403-orbe-frío-del-templo-del-este.md) · objeto
+- [Nube de Sun Gukon](entidades/404-nube-de-sun-gukon.md) · objeto
+- [Lea (grafía provisional)](entidades/405-lea-grafía-provisional.md) · personaje
+- [Base de los cazadores en Ukio](entidades/406-base-de-los-cazadores-en-ukio.md) · lugar
+- [Armadura de frío de Shiru](entidades/407-armadura-de-frío-de-shiru.md) · objeto
+- [Colgante congelado de Ikari](entidades/408-colgante-congelado-de-ikari.md) · objeto
+- [Toque de hielo de Jin](entidades/409-toque-de-hielo-de-jin.md) · objeto
+- [Anillo Bloque de hielo de Sun Gukon](entidades/410-anillo-bloque-de-hielo-de-sun-gukon.md) · objeto
+- [Kamaitachi de los cazadores de Ukio](entidades/411-kamaitachi-de-los-cazadores-de-ukio.md) · personaje
+- [Segundo torneo de Ukio](entidades/412-segundo-torneo-de-ukio.md) · lugar
+- [El Basurero de Ukio](entidades/413-el-basurero-de-ukio.md) · lugar
+- [Yuki-onna de la nevada de Ukio](entidades/414-yuki-onna-de-la-nevada-de-ukio.md) · personaje
+- [Lobos de la yuki-onna](entidades/415-lobos-de-la-yuki-onna.md) · personaje
+- [Libro de yokai de Maroxi](entidades/416-libro-de-yokai-de-maroxi.md) · objeto
+- [Restos del árbol de control de muertos](entidades/417-restos-del-árbol-de-control-de-muertos.md) · objeto
+- [Libro de conjuros de Mufasa](entidades/418-libro-de-conjuros-de-mufasa.md) · objeto
+- [Guxi](entidades/419-guxi.md) · personaje
+- [Shogun de Kuroto](entidades/420-shogun-de-kuroto.md) · personaje
+- [Cubil de la jorogumo bajo Sho](entidades/421-cubil-de-la-jorogumo-bajo-sho.md) · lugar
+- [Jorogumo del cubil de Sho](entidades/422-jorogumo-del-cubil-de-sho.md) · personaje
+- [Cautivos del cubil de Sho](entidades/423-cautivos-del-cubil-de-sho.md) · personaje
+- [Araña mutilada del cubil de Sho](entidades/424-araña-mutilada-del-cubil-de-sho.md) · personaje
+- [Richard (samurái, grafía provisional)](entidades/425-richard-samurái-grafía-provisional.md) · personaje
+- [Barco de los cazadores en construcción](entidades/426-barco-de-los-cazadores-en-construcción.md) · objeto
+- [Base de los cazadores en Sho](entidades/427-base-de-los-cazadores-en-sho.md) · lugar
+- [Aka (grafía provisional)](entidades/428-aka-grafía-provisional.md) · personaje
+- [Kuma (grafía provisional)](entidades/429-kuma-grafía-provisional.md) · personaje
+- [Valgra (grafía provisional)](entidades/430-valgra-grafía-provisional.md) · personaje
+- [José Luis (samurái)](entidades/431-josé-luis-samurái.md) · personaje
+- [Puerta Este de Sho](entidades/432-puerta-este-de-sho.md) · lugar
+- [Camas para la familia de Mitsune](entidades/433-camas-para-la-familia-de-mitsune.md) · objeto
+- [Umibozu de la travesía al norte](entidades/434-umibozu-de-la-travesía-al-norte.md) · personaje
+- [Hakara](entidades/435-hakara.md) · lugar
+- [Anko (posadera, grafía provisional)](entidades/436-anko-posadera-grafía-provisional.md) · personaje
+- [Posada de Anko en Hakara](entidades/437-posada-de-anko-en-hakara.md) · lugar
+- [Sangre de Otakemaru](entidades/438-sangre-de-otakemaru.md) · objeto
+- [Anillo fabricado por Guxi durante la travesía](entidades/439-anillo-fabricado-por-guxi-durante-la-travesía.md) · objeto
+- [Trompetilla para el oído de Corco](entidades/440-trompetilla-para-el-oído-de-corco.md) · objeto
+- [Mariscal del Rey dragón del Oeste](entidades/441-mariscal-del-rey-dragón-del-oeste.md) · personaje
+- [Rey dragón del mar del Oeste](entidades/442-rey-dragón-del-mar-del-oeste.md) · personaje
+- [Príncipe del mar del Oeste](entidades/443-príncipe-del-mar-del-oeste.md) · personaje
+- [Palacio del Rey dragón del Oeste](entidades/444-palacio-del-rey-dragón-del-oeste.md) · lugar
+- [Barco mágico del Mariscal](entidades/445-barco-mágico-del-mariscal.md) · objeto
+- [Esferas del barco del Mariscal](entidades/446-esferas-del-barco-del-mariscal.md) · objeto
+- [Perla del mar](entidades/447-perla-del-mar.md) · objeto
+- [Embarcadero real de Sho](entidades/448-embarcadero-real-de-sho.md) · lugar
+- [Carpintero real del shogunato](entidades/449-carpintero-real-del-shogunato.md) · personaje
+- [Pañuelo de Aka](entidades/450-pañuelo-de-aka.md) · objeto
+- [Ermitaño](entidades/451-ermitaño.md) · personaje
+- [Gelbreak (grafía provisional)](entidades/452-gelbreak-grafía-provisional.md) · personaje
+- [Dai (joyero, grafía provisional)](entidades/453-dai-joyero-grafía-provisional.md) · personaje
+- [Cueva de recolección de Dai](entidades/454-cueva-de-recolección-de-dai.md) · lugar
+- [Shadowfell](entidades/455-shadowfell.md) · lugar
+- [Dragón de sombras que auxilia a Ikari](entidades/456-dragón-de-sombras-que-auxilia-a-ikari.md) · personaje
+- [Kachutengu de la cueva de Dai](entidades/457-kachutengu-de-la-cueva-de-dai.md) · personaje
+- [Flor roja para la alquimista de Hakara](entidades/458-flor-roja-para-la-alquimista-de-hakara.md) · objeto
+- [Chikako (grafía provisional)](entidades/459-chikako-grafía-provisional.md) · personaje
+- [Notas de recolección de Dai](entidades/460-notas-de-recolección-de-dai.md) · objeto
+- [Demonio de la Garra](entidades/461-demonio-de-la-garra.md) · personaje
+- [Gemas ennegrecidas de la cueva de Dai](entidades/462-gemas-ennegrecidas-de-la-cueva-de-dai.md) · objeto
+- [Chad Dickinson (grafía provisional)](entidades/463-chad-dickinson-grafía-provisional.md) · personaje
+- [Shigeru](entidades/464-shigeru.md) · personaje
+- [Prisión bajo el camino de Hakara](entidades/465-prisión-bajo-el-camino-de-hakara.md) · lugar
+- [Bobby (esqueleto de tiranosaurio)](entidades/466-bobby-esqueleto-de-tiranosaurio.md) · personaje
+- [Joshua (mayordomo, grafía provisional)](entidades/467-joshua-mayordomo-grafía-provisional.md) · personaje
+- [Amiga de la madre de Gelbreak (nombre pendiente)](entidades/468-amiga-de-la-madre-de-gelbreak-nombre-pendiente.md) · personaje
+- [Cautivos con placas de la prisión de Hakara](entidades/469-cautivos-con-placas-de-la-prisión-de-hakara.md) · personaje
+- [Contratos de Ermitaño y Shigeru](entidades/470-contratos-de-ermitaño-y-shigeru.md) · objeto
+- [Placas de los cautivos de Hakara](entidades/471-placas-de-los-cautivos-de-hakara.md) · objeto
+- [Saya (grafía provisional)](entidades/472-saya-grafía-provisional.md) · personaje
+- [Cementerio de la antigua civilización](entidades/473-cementerio-de-la-antigua-civilización.md) · lugar
+- [Rapier de cristal de Maroxi](entidades/474-rapier-de-cristal-de-maroxi.md) · objeto
+- [Fragmento de armadura de la antigua civilización](entidades/475-fragmento-de-armadura-de-la-antigua-civilización.md) · objeto
+- [Mapa de Saya](entidades/476-mapa-de-saya.md) · objeto
+- [Espíritu armado del cementerio](entidades/477-espíritu-armado-del-cementerio.md) · personaje
+- [Sombras del cementerio de Hakara](entidades/478-sombras-del-cementerio-de-hakara.md) · personaje
+- [Zarim (grafía provisional)](entidades/479-zarim-grafía-provisional.md) · personaje
+- [Aldea de los protectores del Norte](entidades/480-aldea-de-los-protectores-del-norte.md) · lugar
+- [Madre de Hayate (nombre pendiente)](entidades/481-madre-de-hayate-nombre-pendiente.md) · personaje
+- [Arco del protector del Norte](entidades/482-arco-del-protector-del-norte.md) · objeto
+- [Infección negra de los protectores](entidades/483-infección-negra-de-los-protectores.md) · objeto
+- [Protectores del Sur](entidades/484-protectores-del-sur.md) · faccion
+- [Chin (grafía provisional)](entidades/485-chin-grafía-provisional.md) · personaje
+- [Cazador del cuerno de Shiru (nombre pendiente)](entidades/486-cazador-del-cuerno-de-shiru-nombre-pendiente.md) · personaje
+- [Coto de caza del perseguidor de Shiru](entidades/487-coto-de-caza-del-perseguidor-de-shiru.md) · lugar
+- [Joyero de Hakara (nombre pendiente)](entidades/488-joyero-de-hakara-nombre-pendiente.md) · personaje
+- [Correo de Kuroto](entidades/489-correo-de-kuroto.md) · faccion
+- [Rodillo mágico de Shiru](entidades/490-rodillo-mágico-de-shiru.md) · objeto
+- [Cuerno arrebatado a Shiru](entidades/491-cuerno-arrebatado-a-shiru.md) · objeto
+- [Perro de sombras de Ikari](entidades/492-perro-de-sombras-de-ikari.md) · personaje
+- [Bruja de los kodamas corruptos](entidades/493-bruja-de-los-kodamas-corruptos.md) · personaje
+- [Kodamas corruptos](entidades/494-kodamas-corruptos.md) · personaje
+- [Cueva de la bruja de Hakara](entidades/495-cueva-de-la-bruja-de-hakara.md) · lugar
+- [Enfermedad ritual de la bruja](entidades/496-enfermedad-ritual-de-la-bruja.md) · objeto
+- [Notas silvanas de la bruja](entidades/497-notas-silvanas-de-la-bruja.md) · objeto
+- [Poción de crecimiento de Shigeru](entidades/498-poción-de-crecimiento-de-shigeru.md) · objeto
+- [Aldeanos de Hakara](entidades/499-aldeanos-de-hakara.md) · faccion
+- [Hermano de Jin (nombre pendiente)](entidades/500-hermano-de-jin-nombre-pendiente.md) · personaje
+- [Laboratorio de las montañas](entidades/501-laboratorio-de-las-montañas.md) · lugar
+- [Yasuna (grafía provisional)](entidades/502-yasuna-grafía-provisional.md) · objeto
+- [Proyecto Humare Cata (grafía provisional)](entidades/503-proyecto-humare-cata-grafía-provisional.md) · objeto
+- [Templo del Norte de Genbu](entidades/504-templo-del-norte-de-genbu.md) · lugar
+- [Montañas Yoki](entidades/505-montañas-yoki.md) · lugar
+- [Esfera marrón del Templo del Norte](entidades/506-esfera-marrón-del-templo-del-norte.md) · objeto
+- [Casco de la mirada glamurosa](entidades/507-casco-de-la-mirada-glamurosa.md) · objeto
+- [Anillo del aliento venenoso](entidades/508-anillo-del-aliento-venenoso.md) · objeto
+- [Armadura de piedra de Ermitaño](entidades/509-armadura-de-piedra-de-ermitaño.md) · objeto
+- [Capa de la piedra](entidades/510-capa-de-la-piedra.md) · objeto
+- [Blaze (grafía provisional)](entidades/511-blaze-grafía-provisional.md) · personaje
+- [Madre de Danifae (nombre pendiente)](entidades/512-madre-de-danifae-nombre-pendiente.md) · personaje
+- [Bruni (grafía provisional)](entidades/513-bruni-grafía-provisional.md) · lugar
+- [Aneco (grafía provisional)](entidades/514-aneco-grafía-provisional.md) · personaje
+- [Jacara (grafía provisional)](entidades/515-jacara-grafía-provisional.md) · lugar
+- [Segundo torneo del shogun](entidades/516-segundo-torneo-del-shogun.md) · lugar
+- [Notas de refuerzo de muros](entidades/517-notas-de-refuerzo-de-muros.md) · objeto
+- [Aruco](entidades/518-aruco.md) · objeto
+- [Carcaj del veneno](entidades/519-carcaj-del-veneno.md) · objeto
+- [Honorable armadura del shogun](entidades/520-honorable-armadura-del-shogun.md) · objeto
+- [Capucha de la memoria](entidades/521-capucha-de-la-memoria.md) · objeto
+- [Bandana de la meditación](entidades/522-bandana-de-la-meditación.md) · objeto
+- [Infinito](entidades/523-infinito.md) · personaje
+- [Casa de inversiones de Sho](entidades/524-casa-de-inversiones-de-sho.md) · lugar
+- [Libro de cuentas de la casa de inversiones](entidades/525-libro-de-cuentas-de-la-casa-de-inversiones.md) · objeto
+- [Tres cajas fuertes de la casa de inversiones](entidades/526-tres-cajas-fuertes-de-la-casa-de-inversiones.md) · objeto
+- [Llave pequeña de la casa de inversiones](entidades/527-llave-pequeña-de-la-casa-de-inversiones.md) · objeto
+- [Liber (grafía provisional)](entidades/528-liber-grafía-provisional.md) · lugar
+- [Emisario kender de Liber (nombre pendiente)](entidades/529-emisario-kender-de-liber-nombre-pendiente.md) · personaje
+- [Pan (grafía provisional)](entidades/530-pan-grafía-provisional.md) · personaje
+- [Phoenix (grafía provisional)](entidades/531-phoenix-grafía-provisional.md) · personaje
+- [Cometa maldita de Pan](entidades/532-cometa-maldita-de-pan.md) · objeto
+- [Jóvenes aspirantes de Liber](entidades/533-jóvenes-aspirantes-de-liber.md) · faccion
+- [Fortaleza del rescate de Phoenix](entidades/534-fortaleza-del-rescate-de-phoenix.md) · lugar
+- [Soldado Roco (grafía provisional)](entidades/535-soldado-roco-grafía-provisional.md) · personaje
+- [Valerio Montemuro (grafía provisional)](entidades/536-valerio-montemuro-grafía-provisional.md) · personaje
+- [Recetario incompleto de la fortaleza](entidades/537-recetario-incompleto-de-la-fortaleza.md) · objeto
+- [Pociones de crecimiento y reducción de la fortaleza](entidades/538-pociones-de-crecimiento-y-reducción-de-la-fortaleza.md) · objeto
+- [Cora de Liber (grafía provisional)](entidades/539-cora-de-liber-grafía-provisional.md) · personaje
+- [Mujer araña de la fortaleza](entidades/540-mujer-araña-de-la-fortaleza.md) · personaje
+- [Araña carroñera de la fortaleza](entidades/541-araña-carroñera-de-la-fortaleza.md) · personaje
+- [Carcaj eficiente de Liber](entidades/542-carcaj-eficiente-de-liber.md) · objeto
+- [Muñeco parlante de Liber](entidades/543-muñeco-parlante-de-liber.md) · objeto
+- [Abuelo de Aka (representación onírica)](entidades/544-abuelo-de-aka-representación-onírica.md) · personaje
+- [Deidad del asesinato en el sueño de Sir (identificación de Blaze)](entidades/545-deidad-del-asesinato-en-el-sueño-de-sir-identificación-de-blaze.md) · personaje
+- [Sueño ensangrentado de Sir](entidades/546-sueño-ensangrentado-de-sir.md) · lugar
+- [Sueño de infancia de Aka](entidades/547-sueño-de-infancia-de-aka.md) · lugar
+- [Kogan Dragon (grafía provisional)](entidades/548-kogan-dragon-grafía-provisional.md) · personaje
+- [Bebé kender de la base de Ukio](entidades/549-bebé-kender-de-la-base-de-ukio.md) · personaje
+- [Perro yokai de la base de Ukio](entidades/550-perro-yokai-de-la-base-de-ukio.md) · personaje
+- [Collar luminoso de Shizuka](entidades/551-collar-luminoso-de-shizuka.md) · objeto
+- [Orbe de Jin sustraído por Danifae](entidades/552-orbe-de-jin-sustraído-por-danifae.md) · objeto
+- [Líder cultista del ataque a Ukio (nombre pendiente)](entidades/553-líder-cultista-del-ataque-a-ukio-nombre-pendiente.md) · personaje
+- [Bastón de sombras de Yari](entidades/554-bastón-de-sombras-de-yari.md) · objeto
+- [Plano de acceso a la base de Ukio](entidades/555-plano-de-acceso-a-la-base-de-ukio.md) · objeto
+- [Conductor humano de la caravana atacada (nombre pendiente)](entidades/556-conductor-humano-de-la-caravana-atacada-nombre-pendiente.md) · personaje
+- [Mapa de posibles templos de Suzaku](entidades/557-mapa-de-posibles-templos-de-suzaku.md) · objeto
+- [Aldea Miyamoto (grafía provisional)](entidades/558-aldea-miyamoto-grafía-provisional.md) · lugar
+- [Campamento del Sur del shogunato](entidades/559-campamento-del-sur-del-shogunato.md) · lugar
+- [Caravana atacada del camino al sur](entidades/560-caravana-atacada-del-camino-al-sur.md) · lugar
+- [Yokai ladrones de monedas del camino al sur](entidades/561-yokai-ladrones-de-monedas-del-camino-al-sur.md) · faccion
+- [Arco mágico del conductor humano](entidades/562-arco-mágico-del-conductor-humano.md) · objeto
+- [Kutuma (grafía provisional)](entidades/563-kutuma-grafía-provisional.md) · personaje
+- [Puerta enorme de las montañas del sur](entidades/564-puerta-enorme-de-las-montañas-del-sur.md) · lugar
+- [Altar de Hayate](entidades/565-altar-de-hayate.md) · lugar
+- [Macaco rival del Rey Mono (nombre pendiente)](entidades/566-macaco-rival-del-rey-mono-nombre-pendiente.md) · personaje
+- [Monje de las pruebas del Rey Mono (nombre pendiente)](entidades/567-monje-de-las-pruebas-del-rey-mono-nombre-pendiente.md) · personaje
+- [Monos de Sun Gukon](entidades/568-monos-de-sun-gukon.md) · faccion
+- [Anillo de hielo de Sun Gukon](entidades/569-anillo-de-hielo-de-sun-gukon.md) · objeto
+- [Copy Cat](entidades/570-copy-cat.md) · objeto
+- [Guantes del tigre de Sun Gukon](entidades/571-guantes-del-tigre-de-sun-gukon.md) · objeto
+- [Musina guardianes de Ukio](entidades/572-musina-guardianes-de-ukio.md) · faccion
+- [Puerta yokai de la base de Ukio](entidades/573-puerta-yokai-de-la-base-de-ukio.md) · personaje
+- [Kamaitachi de la base de Ukio](entidades/574-kamaitachi-de-la-base-de-ukio.md) · personaje
+- [Inugami constructor de Ukio](entidades/575-inugami-constructor-de-ukio.md) · personaje
+- [Rumba de Ukio](entidades/576-rumba-de-ukio.md) · personaje
+- [Felino protector del bebé de Ukio](entidades/577-felino-protector-del-bebé-de-ukio.md) · personaje
+- [Invocador del segundo asalto a Ukio (nombre pendiente)](entidades/578-invocador-del-segundo-asalto-a-ukio-nombre-pendiente.md) · personaje
+- [Esfera de dominio del segundo asalto a Ukio](entidades/579-esfera-de-dominio-del-segundo-asalto-a-ukio.md) · objeto
+- [Mapa de rutas al templo del sur](entidades/580-mapa-de-rutas-al-templo-del-sur.md) · objeto
+- [Piedras de tormenta de Hayate](entidades/581-piedras-de-tormenta-de-hayate.md) · objeto
+- [Wakaryama (grafía provisional)](entidades/582-wakaryama-grafía-provisional.md) · lugar
+- [Tengu espadachín de Wakaryama](entidades/583-tengu-espadachín-de-wakaryama.md) · personaje
+- [Aarakocra infectados de Wakaryama](entidades/584-aarakocra-infectados-de-wakaryama.md) · faccion
+- [Aarakocra protectores del sur](entidades/585-aarakocra-protectores-del-sur.md) · faccion
+- [Defensor aarakocra superviviente del sur (nombre pendiente)](entidades/586-defensor-aarakocra-superviviente-del-sur-nombre-pendiente.md) · personaje
+- [Poblado aarakocra del sur](entidades/587-poblado-aarakocra-del-sur.md) · lugar
+- [Crek (grafía provisional)](entidades/588-crek-grafía-provisional.md) · personaje
+- [Arco del protector del Sur](entidades/589-arco-del-protector-del-sur.md) · objeto
+- [Financiero del balneario (nombre pendiente)](entidades/590-financiero-del-balneario-nombre-pendiente.md) · personaje
+- [Balneario de la misión de Guxi](entidades/591-balneario-de-la-misión-de-guxi.md) · lugar
+- [Penny (grafía provisional)](entidades/592-penny-grafía-provisional.md) · personaje
+- [Hija mayor del financiero (nombre pendiente)](entidades/593-hija-mayor-del-financiero-nombre-pendiente.md) · personaje
+- [Prototipo mecánico del balneario](entidades/594-prototipo-mecánico-del-balneario.md) · objeto
+- [Caja negra del prototipo](entidades/595-caja-negra-del-prototipo.md) · objeto
+- [Documentos contables del financiero](entidades/596-documentos-contables-del-financiero.md) · objeto
+- [Llave de las cajas del financiero](entidades/597-llave-de-las-cajas-del-financiero.md) · objeto
+- [Tres esferas reunidas por Danifae](entidades/598-tres-esferas-reunidas-por-danifae.md) · objeto
+- [Palayer (grafía provisional)](entidades/599-palayer-grafía-provisional.md) · personaje
+- [Templo de Suzaku](entidades/600-templo-de-suzaku.md) · lugar
+- [Ataúd de Palayer](entidades/601-ataúd-de-palayer.md) · objeto
+- [Antorchas regeneradoras de Suzaku](entidades/602-antorchas-regeneradoras-de-suzaku.md) · objeto
+- [Armadura del Fénix de Palayer](entidades/603-armadura-del-fénix-de-palayer.md) · objeto
+- [Anillo de fuego de Gur](entidades/604-anillo-de-fuego-de-gur.md) · objeto
+- [Gorro de las chispas](entidades/605-gorro-de-las-chispas.md) · objeto
+- [Capa llameante de Aka](entidades/606-capa-llameante-de-aka.md) · objeto
+- [Esfera roja del templo de Suzaku](entidades/607-esfera-roja-del-templo-de-suzaku.md) · objeto
+- [Eilistraee (Kuroto)](entidades/608-eilistraee-kuroto.md) · personaje
+- [Árbol navideño de la base de Ukio](entidades/609-árbol-navideño-de-la-base-de-ukio.md) · objeto
+- [Krampus (grafía provisional)](entidades/610-krampus-grafía-provisional.md) · personaje
+- [Elfos de Krampus](entidades/611-elfos-de-krampus.md) · faccion
+- [Rodolfo](entidades/612-rodolfo.md) · personaje
+- [Chilia (grafía provisional)](entidades/613-chilia-grafía-provisional.md) · personaje
+- [Siltara (grafía provisional)](entidades/614-siltara-grafía-provisional.md) · personaje
+- [Narae (grafía provisional)](entidades/615-narae-grafía-provisional.md) · personaje
+- [Cueva de las tres guías shadar-kai](entidades/616-cueva-de-las-tres-guías-shadar-kai.md) · lugar
+- [Criatura de Bhaal](entidades/617-criatura-de-bhaal.md) · personaje
+- [Templo celeste de Kogan Dragon](entidades/618-templo-celeste-de-kogan-dragon.md) · lugar
+- [Libros de los guardianes del templo celeste](entidades/619-libros-de-los-guardianes-del-templo-celeste.md) · objeto
+- [Cúpula protectora de Kuroto](entidades/620-cúpula-protectora-de-kuroto.md) · objeto
+- [Ushi (grafía provisional)](entidades/621-ushi-grafía-provisional.md) · personaje
+- [Suertelandia](entidades/622-suertelandia.md) · lugar
+- [La Suerte (diablo)](entidades/623-la-suerte-diablo.md) · personaje
+- [Fortuna de Suertelandia](entidades/624-fortuna-de-suertelandia.md) · personaje
+- [Prosperidad de Suertelandia](entidades/625-prosperidad-de-suertelandia.md) · personaje
+- [Niña de la piruleta de Suertelandia](entidades/626-niña-de-la-piruleta-de-suertelandia.md) · personaje
+- [Florete del control de la tragedia](entidades/627-florete-del-control-de-la-tragedia.md) · objeto
+- [Musashi (grafía provisional)](entidades/628-musashi-grafía-provisional.md) · personaje
+- [Ayame (grafía provisional)](entidades/629-ayame-grafía-provisional.md) · personaje
+- [Kagero (grafía provisional)](entidades/630-kagero-grafía-provisional.md) · personaje
+- [Ogama de Miyamoto](entidades/631-ogama-de-miyamoto.md) · personaje
+- [Kappa del ataque a Miyamoto](entidades/632-kappa-del-ataque-a-miyamoto.md) · faccion
+- [General de la expedición a la Puerta Negra (nombre por confirmar)](entidades/633-general-de-la-expedición-a-la-puerta-negra-nombre-por-confirmar.md) · personaje
+- [Puerta Negra del sur de Kuroto](entidades/634-puerta-negra-del-sur-de-kuroto.md) · lugar
+- [Criatura alada roja de la Puerta Negra](entidades/635-criatura-alada-roja-de-la-puerta-negra.md) · personaje
+- [Arco del comandante de Aka](entidades/636-arco-del-comandante-de-aka.md) · objeto
+- [Representante de la casa de inversiones en el juicio (nombre incierto)](entidades/637-representante-de-la-casa-de-inversiones-en-el-juicio-nombre-incierto.md) · personaje
+- [Pistola de los shogun de Guxi](entidades/638-pistola-de-los-shogun-de-guxi.md) · objeto
+- [Anciana de la casa con patas de gallina](entidades/639-anciana-de-la-casa-con-patas-de-gallina.md) · personaje
+- [Casa con patas de gallina del cenagal](entidades/640-casa-con-patas-de-gallina-del-cenagal.md) · lugar
+- [Cenagal exterior a la cúpula de Kuroto](entidades/641-cenagal-exterior-a-la-cúpula-de-kuroto.md) · lugar
+- [Reloj de arena de la anciana](entidades/642-reloj-de-arena-de-la-anciana.md) · objeto
+- [Brújula de los deseos](entidades/643-brújula-de-los-deseos.md) · objeto
+- [Piedra lunar de Higeki](entidades/644-piedra-lunar-de-higeki.md) · objeto
+- [Lobos no muertos del cenagal](entidades/645-lobos-no-muertos-del-cenagal.md) · faccion
+- [Nagari (grafía provisional)](entidades/646-nagari-grafía-provisional.md) · lugar
+- [Sacerdote de la Calma de Nagari](entidades/647-sacerdote-de-la-calma-de-nagari.md) · personaje
+- [Culto de la Calma de Nagari](entidades/648-culto-de-la-calma-de-nagari.md) · faccion
+- [Hoz radiante de Ermitaño](entidades/649-hoz-radiante-de-ermitaño.md) · objeto
+- [Chauntea (grafía provisional)](entidades/650-chauntea-grafía-provisional.md) · personaje
+- [Rodrigo](entidades/651-rodrigo.md) · personaje
+- [Relato del rey león de Rodrigo](entidades/652-relato-del-rey-león-de-rodrigo.md) · lugar
+- [Simba del relato de Rodrigo](entidades/653-simba-del-relato-de-rodrigo.md) · personaje
+- [Scar del relato de Rodrigo](entidades/654-scar-del-relato-de-rodrigo.md) · personaje
+- [Hienas del relato de Rodrigo](entidades/655-hienas-del-relato-de-rodrigo.md) · faccion
+- [Padre adoptivo y maestro de Blaze (nombre por confirmar)](entidades/656-padre-adoptivo-y-maestro-de-blaze-nombre-por-confirmar.md) · personaje
+- [Blaz (ciudad de origen de Blaze)](entidades/657-blaz-ciudad-de-origen-de-blaze.md) · lugar
+- [Demonio de la profecía de Blaze](entidades/658-demonio-de-la-profecía-de-blaze.md) · personaje
+- [Carta de despedida de Blaze](entidades/659-carta-de-despedida-de-blaze.md) · objeto
+- [Brazaletes de llama de Blaze y Shigeru](entidades/660-brazaletes-de-llama-de-blaze-y-shigeru.md) · objeto
+- [Tip y Top](entidades/661-tip-y-top.md) · personaje
+- [José Miguel, víctima de Sho (nombre variable)](entidades/662-josé-miguel-víctima-de-sho-nombre-variable.md) · personaje
+- [Timmy (grafía provisional)](entidades/663-timmy-grafía-provisional.md) · personaje
+- [Cuchillos Negros](entidades/664-cuchillos-negros.md) · faccion
+- [Ciari (grafía provisional)](entidades/665-ciari-grafía-provisional.md) · personaje
+- [Calle del Lucero Perdido](entidades/666-calle-del-lucero-perdido.md) · lugar
+- [Carta de contacto de los Cuchillos Negros](entidades/667-carta-de-contacto-de-los-cuchillos-negros.md) · objeto
+- [Arco de los Cuchillos Negros](entidades/668-arco-de-los-cuchillos-negros.md) · objeto
+- [Prótesis de cuerno de Shiru](entidades/669-prótesis-de-cuerno-de-shiru.md) · objeto
+- [Locales proyectados de Ikari](entidades/670-locales-proyectados-de-ikari.md) · lugar
+- [Lich/Paul del especial de aniversario](entidades/671-lich-paul-del-especial-de-aniversario.md) · personaje
+- [Calista](entidades/672-calista.md) · personaje
+- [Banzo](entidades/673-banzo.md) · personaje
+- [Pescador informante de Hakara](entidades/674-pescador-informante-de-hakara.md) · personaje
+- [Tabernera de Hakara](entidades/675-tabernera-de-hakara.md) · personaje
+- [Gran Monte de los Melocotoneros](entidades/676-gran-monte-de-los-melocotoneros.md) · lugar
+- [Macaco de seis orejas, impostor del Rey Mono](entidades/677-macaco-de-seis-orejas-impostor-del-rey-mono.md) · personaje
+- [Tito (mono de Ukio)](entidades/678-tito-mono-de-ukio.md) · personaje
+- [Ruinas del ritual tanuki de Ukio](entidades/679-ruinas-del-ritual-tanuki-de-ukio.md) · lugar
+- [Diario del cultista de las ruinas tanuki](entidades/680-diario-del-cultista-de-las-ruinas-tanuki.md) · objeto
+- [Libro de invocación de la Puerta Negra](entidades/681-libro-de-invocación-de-la-puerta-negra.md) · objeto
+- [Tsugami (grafía provisional)](entidades/682-tsugami-grafía-provisional.md) · personaje
+- [Arwen](entidades/683-arwen.md) · personaje
+- [Espíritu felino de Arwen](entidades/684-espíritu-felino-de-arwen.md) · personaje
+- [Cueva de Arwen](entidades/685-cueva-de-arwen.md) · lugar
+- [Araña con cabeza de toro de la cueva de Arwen](entidades/686-araña-con-cabeza-de-toro-de-la-cueva-de-arwen.md) · personaje
+- [Serpientes humanoides del río próximo a Sho](entidades/687-serpientes-humanoides-del-río-próximo-a-sho.md) · personaje
+- [Asgar](entidades/688-asgar.md) · personaje
+- [Guardián equino de la Puerta Negra](entidades/689-guardián-equino-de-la-puerta-negra.md) · personaje
+- [Demonios del plano de la Puerta Negra](entidades/690-demonios-del-plano-de-la-puerta-negra.md) · personaje
+- [Yuichi, comerciante naval (grafía provisional)](entidades/691-yuichi-comerciante-naval-grafía-provisional.md) · personaje
+- [Isoko (grafía provisional)](entidades/692-isoko-grafía-provisional.md) · personaje
+- [Jonae (grafía provisional)](entidades/693-jonae-grafía-provisional.md) · personaje
+- [Shiryu Nori (grafía provisional)](entidades/694-shiryu-nori-grafía-provisional.md) · personaje
+- [Tamai Anari (grafía provisional)](entidades/695-tamai-anari-grafía-provisional.md) · personaje
+- [Nomi (grafía provisional)](entidades/696-nomi-grafía-provisional.md) · personaje
+- [Fumuki (grafía provisional)](entidades/697-fumuki-grafía-provisional.md) · personaje
+- [Collar de perla negra de Calista](entidades/698-collar-de-perla-negra-de-calista.md) · objeto
+- [Min (grafía provisional)](entidades/699-min-grafía-provisional.md) · personaje
+- [Playa entre los planos elementales](entidades/700-playa-entre-los-planos-elementales.md) · lugar
+- [Colgante espiritual de Katari](entidades/701-colgante-espiritual-de-katari.md) · objeto
+- [Gambón, druida del lago (grafía provisional)](entidades/702-gambón-druida-del-lago-grafía-provisional.md) · personaje
+- [Orbe pétreo tragado por Arwen](entidades/703-orbe-pétreo-tragado-por-arwen.md) · objeto
+- [Anillo negro de Arwen](entidades/704-anillo-negro-de-arwen.md) · objeto
+- [Esmeralda para los anillos de Guxi](entidades/705-esmeralda-para-los-anillos-de-guxi.md) · objeto
+- [Reina Cuervo (Kuroto)](entidades/706-reina-cuervo-kuroto.md) · personaje
+- [Catedral de la Reina Cuervo en Shadowfell](entidades/707-catedral-de-la-reina-cuervo-en-shadowfell.md) · lugar
+- [Relicario de Hayate transformado por la Reina Cuervo](entidades/708-relicario-de-hayate-transformado-por-la-reina-cuervo.md) · objeto
+- [Sombras del camino a la Reina Cuervo](entidades/709-sombras-del-camino-a-la-reina-cuervo.md) · personaje
+- [Hierbas sospechosas de la cocina de palacio](entidades/710-hierbas-sospechosas-de-la-cocina-de-palacio.md) · objeto
+- [Carta amorosa manchada para Ruquita](entidades/711-carta-amorosa-manchada-para-ruquita.md) · objeto
+- [Samurái de la marca del cuello (palacio, capítulo 100)](entidades/712-samurái-de-la-marca-del-cuello-palacio-capítulo-100.md) · personaje
+- [Lencería hallada junto al estanque de palacio](entidades/713-lencería-hallada-junto-al-estanque-de-palacio.md) · objeto
+- [Caniza (grafía provisional)](entidades/714-caniza-grafía-provisional.md) · personaje
+- [Templo de invocación y prisión de tanuki](entidades/715-templo-de-invocación-y-prisión-de-tanuki.md) · lugar
+- [Tanuki supervivientes del poblado de Ikari](entidades/716-tanuki-supervivientes-del-poblado-de-ikari.md) · personaje
+- [Libros de nigromancia del templo tanuki](entidades/717-libros-de-nigromancia-del-templo-tanuki.md) · objeto
+- [Líder cultista del templo tanuki](entidades/718-líder-cultista-del-templo-tanuki.md) · personaje
+- [Caja de caramelos infinitos](entidades/719-caja-de-caramelos-infinitos.md) · objeto
+- [Takuromo (grafía provisional)](entidades/720-takuromo-grafía-provisional.md) · lugar
+- [Budista de Takuromo (nombre pendiente)](entidades/721-budista-de-takuromo-nombre-pendiente.md) · personaje
+- [Tengu atacantes de Takuromo](entidades/722-tengu-atacantes-de-takuromo.md) · faccion
+- [Prisión de las pruebas en Shadowfell](entidades/723-prisión-de-las-pruebas-en-shadowfell.md) · lugar
+- [Recolector de energía de las pruebas](entidades/724-recolector-de-energía-de-las-pruebas.md) · objeto
+- [Urna del alma voluntaria de Hayate](entidades/725-urna-del-alma-voluntaria-de-hayate.md) · objeto
+- [Orbe de fuego extraído de Kuma](entidades/726-orbe-de-fuego-extraído-de-kuma.md) · objeto
+- [Kurobane (grafía provisional)](entidades/727-kurobane-grafía-provisional.md) · personaje
+- [Ministerio de las Sombras](entidades/728-ministerio-de-las-sombras.md) · faccion
+- [Ratón artífice de la base de Ukio (nombre pendiente)](entidades/729-ratón-artífice-de-la-base-de-ukio-nombre-pendiente.md) · personaje
+- [Torneo de Sho](entidades/730-torneo-de-sho.md) · lugar
+- [Nue atacante del torneo de Sho](entidades/731-nue-atacante-del-torneo-de-sho.md) · personaje
+- [Sota, anunciante del torneo de Sho](entidades/732-sota-anunciante-del-torneo-de-sho.md) · personaje
+- [El mejor amigo](entidades/733-el-mejor-amigo.md) · objeto
+- [Rompehuesos](entidades/734-rompehuesos.md) · objeto
+- [Danza de Eilistraee (grafía provisional)](entidades/735-danza-de-eilistraee-grafía-provisional.md) · objeto
+- [Capa de protección de Jin](entidades/736-capa-de-protección-de-jin.md) · objeto
+- [Daga hallada en el lugar del ataque a Calista](entidades/737-daga-hallada-en-el-lugar-del-ataque-a-calista.md) · objeto
+- [Mandoble de Gur regalado a Banzo](entidades/738-mandoble-de-gur-regalado-a-banzo.md) · objeto
+- [Templo cultista de las rutas meridionales](entidades/739-templo-cultista-de-las-rutas-meridionales.md) · lugar
+- [Líder cultista Hidoshi (grafía provisional)](entidades/740-líder-cultista-hidoshi-grafía-provisional.md) · personaje
+- [Libros rituales y mapa recuperados del templo meridional](entidades/741-libros-rituales-y-mapa-recuperados-del-templo-meridional.md) · objeto
+- [Monje Tan (grafía provisional)](entidades/742-monje-tan-grafía-provisional.md) · personaje
+- [Anillos de amor de Aka y Katari](entidades/743-anillos-de-amor-de-aka-y-katari.md) · objeto
+- [Bola de regalo de Danifae para Arwen](entidades/744-bola-de-regalo-de-danifae-para-arwen.md) · objeto
+- [Avanzadilla arrasada del Sur](entidades/745-avanzadilla-arrasada-del-sur.md) · lugar
+- [Espada contaminada de los samuráis no muertos](entidades/746-espada-contaminada-de-los-samuráis-no-muertos.md) · objeto
+- [Lugar de sacrificio del rastro meridional](entidades/747-lugar-de-sacrificio-del-rastro-meridional.md) · lugar
+- [Libro de invocación del sacrificio meridional](entidades/748-libro-de-invocación-del-sacrificio-meridional.md) · objeto
+- [Samuráis transformados del rastro meridional](entidades/749-samuráis-transformados-del-rastro-meridional.md) · personaje
+- [Samurái cautivo del ritual meridional](entidades/750-samurái-cautivo-del-ritual-meridional.md) · personaje
+- [Pájaro mecánico de Guxi](entidades/751-pájaro-mecánico-de-guxi.md) · objeto
+- [Nomi Kazuki (grafía provisional)](entidades/752-nomi-kazuki-grafía-provisional.md) · personaje
+- [Shai (grafía provisional)](entidades/753-shai-grafía-provisional.md) · personaje
+- [Ayuko](entidades/754-ayuko.md) · personaje
+- [Montaro (grafía provisional)](entidades/755-montaro-grafía-provisional.md) · personaje
+- [Hanae (grafía provisional)](entidades/756-hanae-grafía-provisional.md) · personaje
+- [Carta de la matriarca para Gelbreak](entidades/757-carta-de-la-matriarca-para-gelbreak.md) · objeto
+- [Marcas de araña por la carta de la matriarca](entidades/758-marcas-de-araña-por-la-carta-de-la-matriarca.md) · objeto
+- [Wasabi](entidades/759-wasabi.md) · personaje
+- [Cripta antigua ocupada por cultistas](entidades/760-cripta-antigua-ocupada-por-cultistas.md) · lugar
+- [Libro horrible recuperado de la cripta](entidades/761-libro-horrible-recuperado-de-la-cripta.md) · objeto
+- [Ginoyama](entidades/762-ginoyama.md) · personaje
+- [Archi](entidades/763-archi.md) · personaje
+- [Gólem descontrolado de Archi](entidades/764-gólem-descontrolado-de-archi.md) · objeto
+- [Homúnculo de Archi](entidades/765-homúnculo-de-archi.md) · personaje
+- [Piedras comunicadoras Ring Ring](entidades/766-piedras-comunicadoras-ring-ring.md) · objeto
+- [Ciudad del Cono Sur (Brunami)](entidades/767-ciudad-del-cono-sur-brunami.md) · lugar
+- [Chicokage (grafía provisional)](entidades/768-chicokage-grafía-provisional.md) · lugar
+- [Torre negra de Chicokage (grafía provisional)](entidades/769-torre-negra-de-chicokage-grafía-provisional.md) · lugar
+- [Distintivo de guardián de Rua](entidades/770-distintivo-de-guardián-de-rua.md) · objeto
+- [Casa de Fumuki (grafía provisional)](entidades/771-casa-de-fumuki-grafía-provisional.md) · lugar
+- [Ruinas orientales de la Biblia de Otakemaru](entidades/772-ruinas-orientales-de-la-biblia-de-otakemaru.md) · lugar
+- [Estoque negro del sarcófago oriental](entidades/773-estoque-negro-del-sarcófago-oriental.md) · objeto
+- [Espejo de la Vida, la Muerte y el Deseo](entidades/774-espejo-de-la-vida-la-muerte-y-el-deseo.md) · objeto
+- [Cristal del portal retirado por Maroxi](entidades/775-cristal-del-portal-retirado-por-maroxi.md) · objeto
+- [Templo montañoso del Espejo de la Vida, la Muerte y el Deseo](entidades/776-templo-montañoso-del-espejo-de-la-vida-la-muerte-y-el-deseo.md) · lugar
+- [Barco a motor de Guxi](entidades/777-barco-a-motor-de-guxi.md) · objeto
+- [Isla Espejismo](entidades/778-isla-espejismo.md) · lugar
+- [Maestro Kakashi de Guxi (grafía provisional)](entidades/779-maestro-kakashi-de-guxi-grafía-provisional.md) · personaje
+- [Suiro (grafía provisional)](entidades/780-suiro-grafía-provisional.md) · personaje
+- [Falsa hidra de la isla Espejismo](entidades/781-falsa-hidra-de-la-isla-espejismo.md) · personaje
+- [Piedra de comida de la isla Espejismo](entidades/782-piedra-de-comida-de-la-isla-espejismo.md) · objeto
+- [Huevo del aboleth recogido por Calista](entidades/783-huevo-del-aboleth-recogido-por-calista.md) · objeto
+- [Residencia de Yasuoka](entidades/784-residencia-de-yasuoka.md) · lugar
+- [Fotografía de la reunión de Yasuoka](entidades/785-fotografía-de-la-reunión-de-yasuoka.md) · objeto
+- [Yasuoka (grafía provisional)](entidades/786-yasuoka-grafía-provisional.md) · personaje
+- [Bosque de la Luna (Brunami occidental)](entidades/787-bosque-de-la-luna-brunami-occidental.md) · lugar
+- [Cavernas plateadas de la audiencia de Eilistraee](entidades/788-cavernas-plateadas-de-la-audiencia-de-eilistraee.md) · lugar
+- [Proyecto de espada lunar contra la red de Lolth](entidades/789-proyecto-de-espada-lunar-contra-la-red-de-lolth.md) · objeto
+- [Monasterio de Kurobani](entidades/790-monasterio-de-kurobani.md) · lugar
+- [Llave oxidada del maestro de Kurobani](entidades/791-llave-oxidada-del-maestro-de-kurobani.md) · objeto
+- [Diario del maestro de Kurobani](entidades/792-diario-del-maestro-de-kurobani.md) · objeto
+- [Pergaminos de los antiguos portadores de Kurobani](entidades/793-pergaminos-de-los-antiguos-portadores-de-kurobani.md) · objeto
+- [Contrato de Kurobani y Osuray](entidades/794-contrato-de-kurobani-y-osuray.md) · objeto
+- [Circo de Dame Le Blanc](entidades/795-circo-de-dame-le-blanc.md) · lugar
+- [Koishi (grafía provisional)](entidades/796-koishi-grafía-provisional.md) · personaje
+- [Dragón de globos del circo](entidades/797-dragón-de-globos-del-circo.md) · personaje
+- [Disfraces adheridos del circo de Dame Le Blanc](entidades/798-disfraces-adheridos-del-circo-de-dame-le-blanc.md) · objeto
+- [Osuray, voluntad sombría de Kurobane](entidades/799-osuray-voluntad-sombría-de-kurobane.md) · personaje
+- [Kazuki](entidades/800-kazuki.md) · personaje
+- [Yuichi (grafía provisional)](entidades/801-yuichi-grafía-provisional.md) · personaje
+- [Casa de Yuichi](entidades/802-casa-de-yuichi.md) · lugar
+- [Mapa localizador de Archi](entidades/803-mapa-localizador-de-archi.md) · objeto
+- [Planos de mejora de Yuichi](entidades/804-planos-de-mejora-de-yuichi.md) · objeto
+- [Osuray (grafía provisional)](entidades/805-osuray-grafía-provisional.md) · personaje
+- [Templo de Bhaal bajo Sho](entidades/806-templo-de-bhaal-bajo-sho.md) · lugar
+- [Anillo de deuda de la cofradía](entidades/807-anillo-de-deuda-de-la-cofradía.md) · objeto
+- [Cofradía de las dagas (nombre pendiente)](entidades/808-cofradía-de-las-dagas-nombre-pendiente.md) · faccion
+- [Taller del engranaje (nombre pendiente)](entidades/809-taller-del-engranaje-nombre-pendiente.md) · lugar
+- [Ches Farak (grafía provisional)](entidades/810-ches-farak-grafía-provisional.md) · lugar
+- [Conosur (grafía provisional)](entidades/811-conosur-grafía-provisional.md) · lugar
+- [Feywild](entidades/812-feywild.md) · lugar
+- [Ralph](entidades/813-ralph.md) · personaje
+- [Wakayama (grafía provisional)](entidades/814-wakayama-grafía-provisional.md) · personaje
+- [Biblia de Osuray (título pendiente)](entidades/815-biblia-de-osuray-título-pendiente.md) · objeto
+- [Tilia (grafía provisional)](entidades/816-tilia-grafía-provisional.md) · personaje
+- [Bajos fondos de Sho](entidades/817-bajos-fondos-de-sho.md) · lugar
+- [Jefa de la cofradía (nombre pendiente)](entidades/818-jefa-de-la-cofradía-nombre-pendiente.md) · personaje
+- [Libro ritual de Bhaal](entidades/819-libro-ritual-de-bhaal.md) · objeto
+- [Selûne (Kuroto)](entidades/820-selûne-kuroto.md) · personaje
+- [Sacerdotisa de Selûne (Sistina, grafía provisional)](entidades/821-sacerdotisa-de-selûne-sistina-grafía-provisional.md) · personaje
+- [Jakajara (grafía provisional)](entidades/822-jakajara-grafía-provisional.md) · lugar
+- [Ermita de Selûne del norte](entidades/823-ermita-de-selûne-del-norte.md) · lugar
+- [Luna de Kuroto](entidades/824-luna-de-kuroto.md) · lugar
+- [Dragón lunar del altar](entidades/825-dragón-lunar-del-altar.md) · personaje
+- [Altar lunar](entidades/826-altar-lunar.md) · lugar
+- [Plata imbuida en la Luna](entidades/827-plata-imbuida-en-la-luna.md) · objeto
+- [Corazón del dragón lunar](entidades/828-corazón-del-dragón-lunar.md) · objeto
+- [Restos del dragón lunar](entidades/829-restos-del-dragón-lunar.md) · objeto
+- [Lágrima de Gelbreak](entidades/830-lágrima-de-gelbreak.md) · objeto
+- [Espada para cortar los hilos](entidades/831-espada-para-cortar-los-hilos.md) · objeto
+- [Dados del maestro de Gur](entidades/832-dados-del-maestro-de-gur.md) · objeto
+- [Montañas de la frontera sur](entidades/833-montañas-de-la-frontera-sur.md) · lugar
+- [Guerreros alados de Otakemaru](entidades/834-guerreros-alados-de-otakemaru.md) · faccion
+- [Refugio de los cultistas de la montaña](entidades/835-refugio-de-los-cultistas-de-la-montaña.md) · lugar
+- [Tap (yokai rescatado)](entidades/836-tap-yokai-rescatado.md) · personaje
+- [Kappa cautivo de la montaña](entidades/837-kappa-cautivo-de-la-montaña.md) · personaje
+- [Líder cultista de la montaña](entidades/838-líder-cultista-de-la-montaña.md) · personaje
+- [Notas para destruir algo (objetivo pendiente)](entidades/839-notas-para-destruir-algo-objetivo-pendiente.md) · objeto
+- [Materiales rituales de la montaña](entidades/840-materiales-rituales-de-la-montaña.md) · objeto
+- [Esfera ingerida por Arwen (identidad pendiente)](entidades/841-esfera-ingerida-por-arwen-identidad-pendiente.md) · objeto
+- [Serafina](entidades/842-serafina.md) · personaje
+- [Tienda de Tsugami](entidades/843-tienda-de-tsugami.md) · lugar
+- [Gorro de Serafina](entidades/844-gorro-de-serafina.md) · objeto
+- [Piedra retirada del barco de Guxi](entidades/845-piedra-retirada-del-barco-de-guxi.md) · objeto
+- [Puerto de Sho](entidades/846-puerto-de-sho.md) · lugar
+- [Shogunato de Kuroto](entidades/847-shogunato-de-kuroto.md) · faccion
+- [Barco Perdición Metálica](entidades/848-barco-perdición-metálica.md) · objeto
+- [Struck (grafía provisional)](entidades/849-struck-grafía-provisional.md) · personaje
+- [Jester (grafía provisional)](entidades/850-jester-grafía-provisional.md) · personaje
+- [Casino de Jester](entidades/851-casino-de-jester.md) · lugar
+- [Tickets del gran premio de Jester](entidades/852-tickets-del-gran-premio-de-jester.md) · objeto
+- [Base de los cazadores de Sho](entidades/853-base-de-los-cazadores-de-sho.md) · lugar
+- [Guardián bovino de la Puerta Negra](entidades/854-guardián-bovino-de-la-puerta-negra.md) · personaje
+- [Demonios menores de la Puerta Negra](entidades/855-demonios-menores-de-la-puerta-negra.md) · faccion
+- [General Hati (grafía provisional)](entidades/856-general-hati-grafía-provisional.md) · personaje
+- [Matrona Britia (grafía provisional)](entidades/857-matrona-britia-grafía-provisional.md) · personaje
+- [Plano de Lolth](entidades/858-plano-de-lolth.md) · lugar
+- [Templo de los hilos de la matrona](entidades/859-templo-de-los-hilos-de-la-matrona.md) · lugar
+- [Efigies de seda de los marcados](entidades/860-efigies-de-seda-de-los-marcados.md) · objeto
+- [Reliquia del portal drow](entidades/861-reliquia-del-portal-drow.md) · objeto
+- [Espada demoníaca usada en el portal](entidades/862-espada-demoníaca-usada-en-el-portal.md) · objeto
+- [Demonios de la sala de los hilos](entidades/863-demonios-de-la-sala-de-los-hilos.md) · faccion
+- [Lago de Eilistraee](entidades/864-lago-de-eilistraee.md) · lugar
+- [Camaro de los artífices](entidades/865-camaro-de-los-artífices.md) · objeto
+- [Templos de los cuatro guardianes](entidades/866-templos-de-los-cuatro-guardianes.md) · lugar
+- [Eromov (Kuroto)](entidades/867-eromov-kuroto.md) · personaje
+- [Cuicapalli (Kuroto)](entidades/868-cuicapalli-kuroto.md) · lugar
+- [Xoltacan (Kuroto)](entidades/869-xoltacan-kuroto.md) · lugar
+- [Ruta de Cuicapalli a Tutucán (Kuroto)](entidades/870-ruta-de-cuicapalli-a-tutucán-kuroto.md) · lugar
+- [Posadero lagarto de Cuicapalli (Kuroto)](entidades/871-posadero-lagarto-de-cuicapalli-kuroto.md) · personaje
+- [Herrero tabaxi de Cuicapalli (Kuroto)](entidades/872-herrero-tabaxi-de-cuicapalli-kuroto.md) · personaje
+- [Criatura acuática del camino (Kuroto)](entidades/873-criatura-acuática-del-camino-kuroto.md) · personaje
+- [Pinky (Kuroto)](entidades/874-pinky-kuroto.md) · personaje
+- [Cipo (Kuroto)](entidades/875-cipo-kuroto.md) · personaje
+- [Brontosaurios del camino (Kuroto)](entidades/876-brontosaurios-del-camino-kuroto.md) · personaje
+- [Depredadores de la ruta (Kuroto)](entidades/877-depredadores-de-la-ruta-kuroto.md) · personaje
+- [Anillo ofrecido a Serafina](entidades/878-anillo-ofrecido-a-serafina.md) · objeto
+- [Manzanas de Koishi](entidades/879-manzanas-de-koishi.md) · objeto
+- [Grimorio de Kazuki](entidades/880-grimorio-de-kazuki.md) · objeto
+- [José Luis (guardia de Rua)](entidades/881-josé-luis-guardia-de-rua.md) · personaje
+- [Espada invocada de Otakemaru](entidades/882-espada-invocada-de-otakemaru.md) · objeto
+- [Collar de guardián de Banzo](entidades/883-collar-de-guardián-de-banzo.md) · objeto
+- [Azufre dejado por Rua](entidades/884-azufre-dejado-por-rua.md) · objeto
+- [Capa de oni prestada a Gur](entidades/885-capa-de-oni-prestada-a-gur.md) · objeto
+- [Aldea aarakocra del sur](entidades/886-aldea-aarakocra-del-sur.md) · lugar
+- [Asaltantes de la aldea aarakocra](entidades/887-asaltantes-de-la-aldea-aarakocra.md) · faccion
+- [Nota abisal «sur»](entidades/888-nota-abisal-sur.md) · objeto
+- [Soraya (grafía provisional)](entidades/889-soraya-grafía-provisional.md) · personaje
+- [Nori Onishi (grafía provisional)](entidades/890-nori-onishi-grafía-provisional.md) · personaje
+- [Fukami (grafía provisional)](entidades/891-fukami-grafía-provisional.md) · personaje
+- [Anri (grafía provisional)](entidades/892-anri-grafía-provisional.md) · personaje
+- [Asahi (grafía provisional)](entidades/893-asahi-grafía-provisional.md) · personaje
+- [Pulseras gemelas de perla](entidades/894-pulseras-gemelas-de-perla.md) · objeto
+- [Muestra de sangre del dragón lunar](entidades/895-muestra-de-sangre-del-dragón-lunar.md) · objeto
+- [Salón de bailes del palacio de Sho](entidades/896-salón-de-bailes-del-palacio-de-sho.md) · lugar
+- [Mei (grafía provisional)](entidades/897-mei-grafía-provisional.md) · personaje
+- [Advertencia de veneno de Mei](entidades/898-advertencia-de-veneno-de-mei.md) · objeto
+- [Fragmento de talón de Nori](entidades/899-fragmento-de-talón-de-nori.md) · objeto
+- [Vial entregado por Mei](entidades/900-vial-entregado-por-mei.md) · objeto
+- [Yokai del cabello vivo en palacio](entidades/901-yokai-del-cabello-vivo-en-palacio.md) · personaje
+- [Detector de yokai de la base](entidades/902-detector-de-yokai-de-la-base.md) · objeto
+- [Espada del shogun de Kuroto](entidades/903-espada-del-shogun-de-kuroto.md) · objeto
+- [Cultista disfrazado de Alfonso](entidades/904-cultista-disfrazado-de-alfonso.md) · personaje
+- [Regalos de la coronación de Calista](entidades/905-regalos-de-la-coronación-de-calista.md) · objeto
+- [Mandatos de Lord Nedelco](entidades/906-mandatos-de-lord-nedelco.md) · objeto
+- [Ojo del contemplador de Maroxi](entidades/907-ojo-del-contemplador-de-maroxi.md) · objeto
+- [Arma legendaria buscada por Maroxi](entidades/908-arma-legendaria-buscada-por-maroxi.md) · objeto
+- [Comitiva tritona de la coronación](entidades/909-comitiva-tritona-de-la-coronación.md) · faccion
+- [Flor de medianoche](entidades/910-flor-de-medianoche.md) · objeto
+- [Libro de venenos con página arrancada](entidades/911-libro-de-venenos-con-página-arrancada.md) · objeto
+- [Biblioteca del palacio de Sho](entidades/912-biblioteca-del-palacio-de-sho.md) · lugar
+- [Sirvienta coaccionada del palacio](entidades/913-sirvienta-coaccionada-del-palacio.md) · personaje
+- [Flores y carta de Hanae](entidades/914-flores-y-carta-de-hanae.md) · objeto
+- [Empleado ausente del banquete (identidad pendiente)](entidades/915-empleado-ausente-del-banquete-identidad-pendiente.md) · personaje
+- [Cocinas del palacio de Sho](entidades/916-cocinas-del-palacio-de-sho.md) · lugar
+- [Celdas del palacio de Sho](entidades/917-celdas-del-palacio-de-sho.md) · lugar
+- [Armadura de combate de Archi](entidades/918-armadura-de-combate-de-archi.md) · objeto
+- [Víctor Franklon Bolt (grafía provisional)](entidades/919-víctor-franklon-bolt-grafía-provisional.md) · personaje
+- [Esqueleto gigante de Ukio](entidades/920-esqueleto-gigante-de-ukio.md) · personaje
+- [Marcas de muerte del esqueleto](entidades/921-marcas-de-muerte-del-esqueleto.md) · objeto
+- [Muestras óseas del gigante de Ukio](entidades/922-muestras-óseas-del-gigante-de-ukio.md) · objeto
+- [Defensores de Ukio](entidades/923-defensores-de-ukio.md) · faccion
+- [Zogia (grafía provisional)](entidades/924-zogia-grafía-provisional.md) · personaje
+- [Base de los cazadores de Ukio](entidades/925-base-de-los-cazadores-de-ukio.md) · lugar
+- [Gestora de mercenarios de Ukio (nombre pendiente)](entidades/926-gestora-de-mercenarios-de-ukio-nombre-pendiente.md) · personaje
+- [Comercios de Ukio](entidades/927-comercios-de-ukio.md) · faccion
+- [Poción radiante de Arwen](entidades/928-poción-radiante-de-arwen.md) · objeto
+- [Montaña de huesos del bosque](entidades/929-montaña-de-huesos-del-bosque.md) · lugar
+- [Árboles de la sangre de Otakemaru](entidades/930-árboles-de-la-sangre-de-otakemaru.md) · personaje
+- [Dragones constructos de huesos](entidades/931-dragones-constructos-de-huesos.md) · personaje
+- [Sangre negra del bosque](entidades/932-sangre-negra-del-bosque.md) · objeto
+- [Proyecto de torre resonadora de Guxi](entidades/933-proyecto-de-torre-resonadora-de-guxi.md) · objeto
+- [Yamato (consejero)](entidades/934-yamato-consejero.md) · personaje
+- [Capitán viajero sin barco](entidades/935-capitán-viajero-sin-barco.md) · personaje
+- [Shakti (grafía provisional)](entidades/936-shakti-grafía-provisional.md) · personaje
+- [Cloudonson (Kuroto, grafía provisional)](entidades/937-cloudonson-kuroto-grafía-provisional.md) · personaje
+- [Tripulación maldita de Cloudonson (Kuroto)](entidades/938-tripulación-maldita-de-cloudonson-kuroto.md) · faccion
+- [Sombrero de Cloudonson (Kuroto)](entidades/939-sombrero-de-cloudonson-kuroto.md) · objeto
+- [Sombra nocturna del viaje](entidades/940-sombra-nocturna-del-viaje.md) · personaje
+- [Bote a la deriva con libros de monje](entidades/941-bote-a-la-deriva-con-libros-de-monje.md) · objeto
+- [Vendas rojas del bote](entidades/942-vendas-rojas-del-bote.md) · objeto
+- [Ballena del arrecife](entidades/943-ballena-del-arrecife.md) · personaje
+- [Arrecife de la ruta a Brunami](entidades/944-arrecife-de-la-ruta-a-brunami.md) · lugar
+- [Pez payaso de las corrientes](entidades/945-pez-payaso-de-las-corrientes.md) · personaje
+- [Barco de los vampiros piratas](entidades/946-barco-de-los-vampiros-piratas.md) · objeto
+- [Vampiros piratas del mar de Kyushi](entidades/947-vampiros-piratas-del-mar-de-kyushi.md) · faccion
+- [Anillo del capitán vampiro](entidades/948-anillo-del-capitán-vampiro.md) · objeto
+- [Brunami del Este (Kuroto)](entidades/949-brunami-del-este-kuroto.md) · lugar
+- [Puerto de las Espadas (Kuroto)](entidades/950-puerto-de-las-espadas-kuroto.md) · lugar
+- [Hati (grafía provisional)](entidades/951-hati-grafía-provisional.md) · personaje
+- [Palacio de la shogun](entidades/952-palacio-de-la-shogun.md) · lugar
+- [Kashi (alquimista, grafía provisional)](entidades/953-kashi-alquimista-grafía-provisional.md) · personaje
+- [Collar de la sirena de Calista](entidades/954-collar-de-la-sirena-de-calista.md) · objeto
+- [Objeto de magia poderosa de Gelbreak](entidades/955-objeto-de-magia-poderosa-de-gelbreak.md) · objeto
+- [Gimnasio de Jin](entidades/956-gimnasio-de-jin.md) · lugar
+- [Cuchillas Negras](entidades/957-cuchillas-negras.md) · faccion
+- [Víctor Frankenbolt (grafía provisional)](entidades/958-víctor-frankenbolt-grafía-provisional.md) · personaje
+- [Frank (carlino robótico)](entidades/959-frank-carlino-robótico.md) · objeto
+- [Archivolt Industries](entidades/960-archivolt-industries.md) · faccion
+- [Tiari (grafía provisional)](entidades/961-tiari-grafía-provisional.md) · personaje
+- [Anillo de Cuchillas Negras de Archi](entidades/962-anillo-de-cuchillas-negras-de-archi.md) · objeto
+- [Escudo elemental de Archi](entidades/963-escudo-elemental-de-archi.md) · objeto
+- [Fragmento de gema del callejón](entidades/964-fragmento-de-gema-del-callejón.md) · objeto
+- [Tritón velada de la comitiva](entidades/965-tritón-velada-de-la-comitiva.md) · personaje
+- [Comitiva tritón de Calista](entidades/966-comitiva-tritón-de-calista.md) · faccion
+- [Channi (grafía provisional)](entidades/967-channi-grafía-provisional.md) · personaje
+- [Viajero emplumado de la taberna](entidades/968-viajero-emplumado-de-la-taberna.md) · personaje
+- [Chocote (grafía provisional)](entidades/969-chocote-grafía-provisional.md) · personaje
+- [Nox](entidades/970-nox.md) · objeto
+- [Funeraria de los barrios bajos](entidades/971-funeraria-de-los-barrios-bajos.md) · lugar
+- [Fábrica subterránea de Nox](entidades/972-fábrica-subterránea-de-nox.md) · lugar
+- [Cultistas de la fábrica de Nox](entidades/973-cultistas-de-la-fábrica-de-nox.md) · faccion
+- [Cajas de Nox con ancla](entidades/974-cajas-de-nox-con-ancla.md) · objeto
+- [Jefa cultista enmascarada de Nox](entidades/975-jefa-cultista-enmascarada-de-nox.md) · personaje
+- [Mariliths de la fábrica de Nox](entidades/976-mariliths-de-la-fábrica-de-nox.md) · faccion
+- [Papeles de la fábrica de Nox](entidades/977-papeles-de-la-fábrica-de-nox.md) · objeto
+- [Lord de Puerto de las Espadas interesado en Kuroto](entidades/978-lord-de-puerto-de-las-espadas-interesado-en-kuroto.md) · personaje
+- [Takiki (grafía provisional)](entidades/979-takiki-grafía-provisional.md) · personaje
+- [Casa del té de la zona alta](entidades/980-casa-del-té-de-la-zona-alta.md) · lugar
+- [Anillos defensivos de Calista](entidades/981-anillos-defensivos-de-calista.md) · objeto
+- [Akuki (grafía provisional)](entidades/982-akuki-grafía-provisional.md) · personaje
+- [Padre bardo de Guxi](entidades/983-padre-bardo-de-guxi.md) · personaje
+- [Piratas de la infancia de Serafina](entidades/984-piratas-de-la-infancia-de-serafina.md) · faccion
+- [Sota (grafía provisional)](entidades/985-sota-grafía-provisional.md) · personaje
+- [Hermanastra de Guxi](entidades/986-hermanastra-de-guxi.md) · personaje
+- [Mecanismo del altar de Biaco](entidades/987-mecanismo-del-altar-de-biaco.md) · objeto
+- [Flor de rayo ofrecida a Biaco](entidades/988-flor-de-rayo-ofrecida-a-biaco.md) · objeto
+- [Gucón (grafía provisional)](entidades/989-gucón-grafía-provisional.md) · personaje
+- [Dragón de la esencia de Kuroto](entidades/990-dragón-de-la-esencia-de-kuroto.md) · personaje
+- [Esferas elementales de Kuroto](entidades/991-esferas-elementales-de-kuroto.md) · objeto
+- [Campana de los cazadores ofrecida al dragón](entidades/992-campana-de-los-cazadores-ofrecida-al-dragón.md) · objeto
+- [Guardianes elementales de Kuroto](entidades/993-guardianes-elementales-de-kuroto.md) · faccion
+- [Guardián fénix de Kuroto](entidades/994-guardián-fénix-de-kuroto.md) · personaje
+- [Furia ancestral de Banzo](entidades/995-furia-ancestral-de-banzo.md) · objeto
+- [Alcantarillas de Sho](entidades/996-alcantarillas-de-sho.md) · lugar
+- [Racterion (grafía provisional)](entidades/997-racterion-grafía-provisional.md) · personaje
+- [Spa de las Maravillas](entidades/998-spa-de-las-maravillas.md) · lugar
+- [Forastero de la flor marina](entidades/999-forastero-de-la-flor-marina.md) · personaje
+- [Nori (grafía provisional)](entidades/1000-nori-grafía-provisional.md) · personaje
+- [Sombreros fashion del spa](entidades/1001-sombreros-fashion-del-spa.md) · objeto
+- [Tortuga dragón del Spa de las Maravillas](entidades/1002-tortuga-dragón-del-spa-de-las-maravillas.md) · personaje
+- [Lord vampiro de las alcantarillas](entidades/1003-lord-vampiro-de-las-alcantarillas.md) · personaje
+- [Cazadora elfa de vampiros](entidades/1004-cazadora-elfa-de-vampiros.md) · personaje
+- [Libreta roja de entrenamiento de Jin](entidades/1005-libreta-roja-de-entrenamiento-de-jin.md) · objeto
+- [Hombres rata y enjambres de Sho](entidades/1006-hombres-rata-y-enjambres-de-sho.md) · faccion
+- [Rata monstruosa de las alcantarillas](entidades/1007-rata-monstruosa-de-las-alcantarillas.md) · personaje
+- [Vasallos vampiros de las alcantarillas](entidades/1008-vasallos-vampiros-de-las-alcantarillas.md) · faccion
+- [Puerta sellada de la colonia vampira](entidades/1009-puerta-sellada-de-la-colonia-vampira.md) · objeto
+- [Nota ensangrentada de la colonia vampira](entidades/1010-nota-ensangrentada-de-la-colonia-vampira.md) · objeto
+- [Sello de muerte de la puerta vampira](entidades/1011-sello-de-muerte-de-la-puerta-vampira.md) · objeto
+- [Prótesis provisional de Banzo](entidades/1012-prótesis-provisional-de-banzo.md) · objeto
+- [Jayate (grafía provisional)](entidades/1013-jayate-grafía-provisional.md) · personaje
+- [Marca de araña de Danifae](entidades/1014-marca-de-araña-de-danifae.md) · objeto
+- [Wel (general tritón, grafía provisional)](entidades/1015-wel-general-tritón-grafía-provisional.md) · personaje
+- [Demonios de la brecha de Well](entidades/1016-demonios-de-la-brecha-de-well.md) · faccion
+- [Ignacio (búho familiar)](entidades/1017-ignacio-búho-familiar.md) · personaje
+- [Jigoku Nomori (grafía provisional)](entidades/1018-jigoku-nomori-grafía-provisional.md) · lugar
+- [Nigromante de Jigoku Nomori](entidades/1019-nigromante-de-jigoku-nomori.md) · personaje
+- [Ganso feérico invocado por Arwen](entidades/1020-ganso-feérico-invocado-por-arwen.md) · personaje
+- [Cuerpo marcado del nigromante](entidades/1021-cuerpo-marcado-del-nigromante.md) · objeto
+- [Igor (mayordomo)](entidades/1022-igor-mayordomo.md) · personaje
+- [Mansión de Alister](entidades/1023-mansión-de-alister.md) · lugar
+- [Vino de Fukami servido en la mansión](entidades/1024-vino-de-fukami-servido-en-la-mansión.md) · objeto
+- [Alister (grafía provisional)](entidades/1025-alister-grafía-provisional.md) · personaje
+- [Jardín de la mansión de Alister](entidades/1026-jardín-de-la-mansión-de-alister.md) · lugar
+- [Bambolina (grafía provisional)](entidades/1027-bambolina-grafía-provisional.md) · personaje
+- [Collar de Bambolina](entidades/1028-collar-de-bambolina.md) · objeto
+- [Reservas de sangre de Alister](entidades/1029-reservas-de-sangre-de-alister.md) · objeto
+- [Documentos de la mansión de Alister](entidades/1030-documentos-de-la-mansión-de-alister.md) · objeto
+- [Acceso de la mansión a las alcantarillas](entidades/1031-acceso-de-la-mansión-a-las-alcantarillas.md) · objeto
+- [Verbin (cazadora de vampiros, grafía provisional)](entidades/1032-verbin-cazadora-de-vampiros-grafía-provisional.md) · personaje
+- [Vampiros del baile de Alister](entidades/1033-vampiros-del-baile-de-alister.md) · faccion
+- [Colgante de la sirena de Serafina](entidades/1034-colgante-de-la-sirena-de-serafina.md) · objeto
+- [Sombra del Desierto](entidades/1035-sombra-del-desierto.md) · personaje
+- [Kappa superviviente de Jigoku Nomori](entidades/1036-kappa-superviviente-de-jigoku-nomori.md) · personaje
+- [Conejo feérico de Arwen](entidades/1037-conejo-feérico-de-arwen.md) · personaje
+- [Kodama con la Marca de la Muerte](entidades/1038-kodama-con-la-marca-de-la-muerte.md) · personaje
+- [Marca de la Muerte](entidades/1039-marca-de-la-muerte.md) · objeto
+- [Don Purlock (grafía provisional)](entidades/1040-don-purlock-grafía-provisional.md) · personaje
+- [Thomson (mercader, grafía provisional)](entidades/1041-thomson-mercader-grafía-provisional.md) · personaje
+- [Asaltantes del taller de Thomson](entidades/1042-asaltantes-del-taller-de-thomson.md) · faccion
+- [Guardia de Puerto de las Espadas](entidades/1043-guardia-de-puerto-de-las-espadas.md) · faccion
+- [Cristales para el escáner de mercancías](entidades/1044-cristales-para-el-escáner-de-mercancías.md) · objeto
+- [Mineral exótico de Archi](entidades/1045-mineral-exótico-de-archi.md) · objeto
+- [Contrato mágico de la flota de Purlock](entidades/1046-contrato-mágico-de-la-flota-de-purlock.md) · objeto
+- [O Fortune (grafía provisional)](entidades/1047-o-fortune-grafía-provisional.md) · personaje
+- [Polvo alucinógeno investigado por Kazuki](entidades/1048-polvo-alucinógeno-investigado-por-kazuki.md) · objeto
+- [Alquimista de Ukio que analiza el polvo](entidades/1049-alquimista-de-ukio-que-analiza-el-polvo.md) · personaje
+- [Tanukis refugiados del árbol](entidades/1050-tanukis-refugiados-del-árbol.md) · faccion
+- [Kodama enfermo de Jigoku Nomori](entidades/1051-kodama-enfermo-de-jigoku-nomori.md) · personaje
+- [Cultistas muertos de Jigoku Nomori](entidades/1052-cultistas-muertos-de-jigoku-nomori.md) · faccion
+- [Ismira (dríade, grafía provisional)](entidades/1053-ismira-dríade-grafía-provisional.md) · personaje
+- [Capilla de Ilmarrow Ball](entidades/1054-capilla-de-ilmarrow-ball.md) · lugar
+- [Ilmarrow Ball (grafía provisional)](entidades/1055-ilmarrow-ball-grafía-provisional.md) · personaje
+- [Casa de Ball (grafía provisional)](entidades/1056-casa-de-ball-grafía-provisional.md) · faccion
+- [Libro de la Marca de la Muerte](entidades/1057-libro-de-la-marca-de-la-muerte.md) · objeto
+- [Tierra del sarcófago de Ilmarrow Ball](entidades/1058-tierra-del-sarcófago-de-ilmarrow-ball.md) · objeto
+- [Islil (perla velada, grafía provisional)](entidades/1059-islil-perla-velada-grafía-provisional.md) · personaje
+- [Aqua (mayor de las perlas)](entidades/1060-aqua-mayor-de-las-perlas.md) · personaje
+- [Rey Dragón acuático de Aistia](entidades/1061-rey-dragón-acuático-de-aistia.md) · personaje
+- [Aistia (grafía provisional)](entidades/1062-aistia-grafía-provisional.md) · lugar
+- [Palacio del Rey Dragón de Aistia](entidades/1063-palacio-del-rey-dragón-de-aistia.md) · lugar
+- [Esfera elemental de agua](entidades/1064-esfera-elemental-de-agua.md) · objeto
+- [Bayas de adaptación acuática](entidades/1065-bayas-de-adaptación-acuática.md) · objeto
+- [Incursión propuesta tras la Puerta Negra](entidades/1066-incursión-propuesta-tras-la-puerta-negra.md) · objeto
+- [Renless (general tritón, grafía provisional)](entidades/1067-renless-general-tritón-grafía-provisional.md) · personaje
+- [Binlis (estratega tritón, grafía provisional)](entidades/1068-binlis-estratega-tritón-grafía-provisional.md) · personaje
+- [Rapier de la perla mayor](entidades/1069-rapier-de-la-perla-mayor.md) · objeto
+- [Cubil subterráneo de Alister](entidades/1070-cubil-subterráneo-de-alister.md) · lugar
+- [Mapa de localización de Calista](entidades/1071-mapa-de-localización-de-calista.md) · objeto
+- [Tropas de contención del nido vampiro](entidades/1072-tropas-de-contención-del-nido-vampiro.md) · faccion
+- [Puerta de sangre del nido vampiro](entidades/1073-puerta-de-sangre-del-nido-vampiro.md) · objeto
+- [Llaves del cubil vampiro](entidades/1074-llaves-del-cubil-vampiro.md) · objeto
+- [Collar de cazador abandonado por Kurobane](entidades/1075-collar-de-cazador-abandonado-por-kurobane.md) · objeto
+- [Libros de investigación de Kurobane](entidades/1076-libros-de-investigación-de-kurobane.md) · objeto
+- [Broche de compromiso de Calista](entidades/1077-broche-de-compromiso-de-calista.md) · objeto
+- [Vendas legendarias de Serafina](entidades/1078-vendas-legendarias-de-serafina.md) · objeto
+- [Nori (sirviente de Calista)](entidades/1079-nori-sirviente-de-calista.md) · personaje
+- [Esfera elemental de rayo](entidades/1080-esfera-elemental-de-rayo.md) · objeto
+- [Artefacto de ocultación de la esfera de rayo](entidades/1081-artefacto-de-ocultación-de-la-esfera-de-rayo.md) · objeto
+- [Entidad del cristal rojo de Archi](entidades/1082-entidad-del-cristal-rojo-de-archi.md) · personaje
+- [Cristal rojo que encierra a Archi](entidades/1083-cristal-rojo-que-encierra-a-archi.md) · objeto
+- [Pistolera drow de los cuentos](entidades/1084-pistolera-drow-de-los-cuentos.md) · personaje
+- [Cuentos transportadores de las niñas](entidades/1085-cuentos-transportadores-de-las-niñas.md) · objeto
+- [Anillo de protección regalado a Banzo](entidades/1086-anillo-de-protección-regalado-a-banzo.md) · objeto
+- [Monasterio de las sombras](entidades/1087-monasterio-de-las-sombras.md) · lugar
+- [Laberinto mental de Kurobane](entidades/1088-laberinto-mental-de-kurobane.md) · lugar
+- [Flor cristalina del monasterio](entidades/1089-flor-cristalina-del-monasterio.md) · objeto
+- [Espada depurada de Kurobane](entidades/1090-espada-depurada-de-kurobane.md) · objeto
+- [Arma de sombras de Gelbreak](entidades/1091-arma-de-sombras-de-gelbreak.md) · objeto
+- [Capucha abandonada por Kurobane](entidades/1092-capucha-abandonada-por-kurobane.md) · objeto
+- [Tap (grafía provisional)](entidades/1093-tap-grafía-provisional.md) · personaje
+- [R3 (autómata de Archi)](entidades/1094-r3-autómata-de-archi.md) · personaje
+- [Portal abisal de Archivolt](entidades/1095-portal-abisal-de-archivolt.md) · objeto
+- [Esfera elemental de fuego](entidades/1096-esfera-elemental-de-fuego.md) · objeto
+- [Látigo de tres serpientes de Danifae](entidades/1097-látigo-de-tres-serpientes-de-danifae.md) · objeto
+- [Bastón de olmo de Arwen](entidades/1098-bastón-de-olmo-de-arwen.md) · objeto
+- [Flor de Loto](entidades/1099-flor-de-loto.md) · objeto
+- [Rompeolas](entidades/1100-rompeolas.md) · objeto
+- [Sharky (pirata tiburón, grafía provisional)](entidades/1101-sharky-pirata-tiburón-grafía-provisional.md) · personaje
+- [Maximiliano (apodado Toby)](entidades/1102-maximiliano-apodado-toby.md) · personaje
+- [Pistola GXI Prototype](entidades/1103-pistola-gxi-prototype.md) · objeto
+- [Barco metálico del shogunato](entidades/1104-barco-metálico-del-shogunato.md) · objeto
+- [Tazgorat (grafía provisional)](entidades/1105-tazgorat-grafía-provisional.md) · personaje
+- [Torneo de cazadores de la capital](entidades/1106-torneo-de-cazadores-de-la-capital.md) · objeto
+- [Drow disfrazada de Zogia](entidades/1107-drow-disfrazada-de-zogia.md) · personaje
+- [Casa de inversiones de la capital](entidades/1108-casa-de-inversiones-de-la-capital.md) · lugar
+- [Templo cultista bajo la casa de inversiones](entidades/1109-templo-cultista-bajo-la-casa-de-inversiones.md) · lugar
+- [Sakura (líder cultista, grafía provisional)](entidades/1110-sakura-líder-cultista-grafía-provisional.md) · personaje
+- [Cautivos del templo bajo la casa de inversiones](entidades/1111-cautivos-del-templo-bajo-la-casa-de-inversiones.md) · personaje
+- [Código de la caja fuerte cultista](entidades/1112-código-de-la-caja-fuerte-cultista.md) · objeto
+- [Objeto ocultado por Danifae en el templo](entidades/1113-objeto-ocultado-por-danifae-en-el-templo.md) · objeto
+- [NOKIA (fábrica de la familia de Archi)](entidades/1114-nokia-fábrica-de-la-familia-de-archi.md) · lugar
+- [Planos de armaduras de NOKIA](entidades/1115-planos-de-armaduras-de-nokia.md) · objeto
+- [Richi/Hamon (contrabandista, grafía provisional)](entidades/1116-richi-hamon-contrabandista-grafía-provisional.md) · personaje
+- [Uma (sastre de Conosur, grafía provisional)](entidades/1117-uma-sastre-de-conosur-grafía-provisional.md) · personaje
+- [Maximilian Tuercaspier (grafía provisional)](entidades/1118-maximilian-tuercaspier-grafía-provisional.md) · personaje
+- [Primos de Archi de NOKIA](entidades/1119-primos-de-archi-de-nokia.md) · personaje
+- [Grontreír (hermano de Gelbreak, grafía provisional)](entidades/1120-grontreír-hermano-de-gelbreak-grafía-provisional.md) · personaje
+- [Drow infiltrados en NOKIA](entidades/1121-drow-infiltrados-en-nokia.md) · faccion
+- [Pistola de pergaminos de Archi](entidades/1122-pistola-de-pergaminos-de-archi.md) · objeto
+- [Hacha surgida de las armas de Banzo](entidades/1123-hacha-surgida-de-las-armas-de-banzo.md) · objeto
+- [Patrick Cerveza Fría (grafía provisional)](entidades/1124-patrick-cerveza-fría-grafía-provisional.md) · personaje
+- [Taberna de la Espuma Húmeda](entidades/1125-taberna-de-la-espuma-húmeda.md) · lugar
+- [Anillos de Uma](entidades/1126-anillos-de-uma.md) · objeto
+- [Cofre extradimensional de Archi](entidades/1127-cofre-extradimensional-de-archi.md) · objeto
+- [Lady Marrow (grafía provisional)](entidades/1128-lady-marrow-grafía-provisional.md) · personaje
+- [Tapón (grafía provisional)](entidades/1129-tapón-grafía-provisional.md) · personaje
+- [Dragón espectral del bosque de Ukio](entidades/1130-dragón-espectral-del-bosque-de-ukio.md) · personaje
+- [Esfera de tierra de Arwen](entidades/1131-esfera-de-tierra-de-arwen.md) · objeto
+- [Marca de la muerte de Chilia](entidades/1132-marca-de-la-muerte-de-chilia.md) · objeto
+- [Pacto de Banzo con Danifae](entidades/1133-pacto-de-banzo-con-danifae.md) · objeto
+- [Hacha doble de Banzo](entidades/1134-hacha-doble-de-banzo.md) · objeto
+- [No muertos del avance sobre Ukio](entidades/1135-no-muertos-del-avance-sobre-ukio.md) · faccion
+- [Tropas de Otakemaru](entidades/1136-tropas-de-otakemaru.md) · faccion
+- [General demoníaco de la tercera oleada](entidades/1137-general-demoníaco-de-la-tercera-oleada.md) · personaje
+- [Nue de la tercera oleada](entidades/1138-nue-de-la-tercera-oleada.md) · personaje
+- [Mandoble ígneo de Jin](entidades/1139-mandoble-ígneo-de-jin.md) · objeto
+- [Lolth (avatar en Kuroto)](entidades/1140-lolth-avatar-en-kuroto.md) · personaje
+- [Icardaria (grafía provisional)](entidades/1141-icardaria-grafía-provisional.md) · personaje
+- [May (grafía provisional)](entidades/1142-may-grafía-provisional.md) · personaje
+- [Palacio del shogun en Sho](entidades/1143-palacio-del-shogun-en-sho.md) · lugar
+- [Cuatro esferas elementales de Kuroto](entidades/1144-cuatro-esferas-elementales-de-kuroto.md) · objeto
+- [Mapa de seguimiento de los drow](entidades/1145-mapa-de-seguimiento-de-los-drow.md) · objeto
+- [Espíritus ancestrales de Banzo](entidades/1146-espíritus-ancestrales-de-banzo.md) · objeto
+- [Desierto de Amnem (grafía provisional)](entidades/1147-desierto-de-amnem-grafía-provisional.md) · lugar
+- [Collar de líder de los cazadores](entidades/1148-collar-de-líder-de-los-cazadores.md) · objeto
+- [Banquete de insectos de Arwen](entidades/1149-banquete-de-insectos-de-arwen.md) · objeto
+- [Shen (grafía provisional)](entidades/1150-shen-grafía-provisional.md) · personaje
+- [Cristal incrustado en Biaco](entidades/1151-cristal-incrustado-en-biaco.md) · objeto
+- [Bastón de Sun Gukon](entidades/1152-bastón-de-sun-gukon.md) · objeto
+- [Tengus del templo de Biaco](entidades/1153-tengus-del-templo-de-biaco.md) · personaje
+- [Visión antigua de Kuroto recibida por Serafina](entidades/1154-visión-antigua-de-kuroto-recibida-por-serafina.md) · objeto
+- [Espinilleras doradas de Sun Gukon](entidades/1155-espinilleras-doradas-de-sun-gukon.md) · objeto
+- [Véspera (grafía provisional)](entidades/1156-véspera-grafía-provisional.md) · personaje
+- [Silus (grafía provisional)](entidades/1157-silus-grafía-provisional.md) · personaje
+- [Campamento de exterminio tras la Puerta Negra](entidades/1158-campamento-de-exterminio-tras-la-puerta-negra.md) · lugar
+- [Yokais prisioneros del campamento](entidades/1159-yokais-prisioneros-del-campamento.md) · faccion
+- [Demonios del campamento del sur](entidades/1160-demonios-del-campamento-del-sur.md) · faccion
+- [Tanuki rescatado por Véspera](entidades/1161-tanuki-rescatado-por-véspera.md) · personaje
+- [Tengu que se rinde ante Véspera](entidades/1162-tengu-que-se-rinde-ante-véspera.md) · personaje
+- [Juramento quebrado de Véspera](entidades/1163-juramento-quebrado-de-véspera.md) · objeto
+- [Muestra de tierra del páramo](entidades/1164-muestra-de-tierra-del-páramo.md) · objeto
+- [Mausoleo que construye Banzo](entidades/1165-mausoleo-que-construye-banzo.md) · lugar
+- [Bosque de Ukio](entidades/1166-bosque-de-ukio.md) · lugar
+- [Templo arruinado del bosque de Ukio](entidades/1167-templo-arruinado-del-bosque-de-ukio.md) · lugar
+- [No muertos de Lady Marrow](entidades/1168-no-muertos-de-lady-marrow.md) · faccion
+- [Brote tras la muerte de Chilia](entidades/1169-brote-tras-la-muerte-de-chilia.md) · objeto
+- [Collares abandonados por los cazadores](entidades/1170-collares-abandonados-por-los-cazadores.md) · objeto
+- [Evilius (grafía provisional)](entidades/1171-evilius-grafía-provisional.md) · personaje
+- [Campamento de Evilius](entidades/1172-campamento-de-evilius.md) · lugar
+- [Jezebel (montura de Véspera, grafía provisional)](entidades/1173-jezebel-montura-de-véspera-grafía-provisional.md) · personaje
+- [Guarnición de Evilius](entidades/1174-guarnición-de-evilius.md) · faccion
+- [Hacha protectora de Véspera](entidades/1175-hacha-protectora-de-véspera.md) · objeto
+- [Debilitamiento mental de Palayer](entidades/1176-debilitamiento-mental-de-palayer.md) · objeto
+- [Campamento aliado del frente sur](entidades/1177-campamento-aliado-del-frente-sur.md) · lugar
+- [Regalo de Otakemaru](entidades/1178-regalo-de-otakemaru.md) · objeto
+- [Recuerdo incrustado en Seiryu](entidades/1179-recuerdo-incrustado-en-seiryu.md) · objeto
+- [Visión del primer poblado de Sho](entidades/1180-visión-del-primer-poblado-de-sho.md) · objeto
+- [Flor blanca de Arwen para Kazuki](entidades/1181-flor-blanca-de-arwen-para-kazuki.md) · objeto
+- [Tiburones del templo de Seiryu](entidades/1182-tiburones-del-templo-de-seiryu.md) · personaje
+- [Ranas del templo de Seiryu](entidades/1183-ranas-del-templo-de-seiryu.md) · personaje
+- [Capa dorada de Sun Gukon](entidades/1184-capa-dorada-de-sun-gukon.md) · objeto
+- [Frío de Arwen tras la promesa a Seiryu](entidades/1185-frío-de-arwen-tras-la-promesa-a-seiryu.md) · objeto
+- [Bortrack (grafía provisional)](entidades/1186-bortrack-grafía-provisional.md) · personaje
+- [Aragoria (grafía provisional)](entidades/1187-aragoria-grafía-provisional.md) · personaje
+- [Campamento de Aragoria](entidades/1188-campamento-de-aragoria.md) · lugar
+- [Libro de cánticos de Aragoria](entidades/1189-libro-de-cánticos-de-aragoria.md) · objeto
+- [Yokai de polvo rescatado en el campamento de Aragoria](entidades/1190-yokai-de-polvo-rescatado-en-el-campamento-de-aragoria.md) · personaje
+- [Kappa rescatado en el campamento de Aragoria](entidades/1191-kappa-rescatado-en-el-campamento-de-aragoria.md) · personaje
+- [Guarnición de Aragoria](entidades/1192-guarnición-de-aragoria.md) · faccion
+- [Extracción de las sombras de Kurobane](entidades/1193-extracción-de-las-sombras-de-kurobane.md) · objeto
+- [Recuerdo incrustado en Genbu](entidades/1194-recuerdo-incrustado-en-genbu.md) · objeto
+- [Visión de la expansión humana por Kuroto](entidades/1195-visión-de-la-expansión-humana-por-kuroto.md) · objeto
+- [Cinta dorada de Sun Gukon](entidades/1196-cinta-dorada-de-sun-gukon.md) · objeto
+- [Acidez de Arwen tras Genbu](entidades/1197-acidez-de-arwen-tras-genbu.md) · objeto
+- [Arañas taurinas del templo de Genbu](entidades/1198-arañas-taurinas-del-templo-de-genbu.md) · personaje
+- [Árbol de la sepultura de Chilia](entidades/1199-árbol-de-la-sepultura-de-chilia.md) · lugar
+- [Plantas del templo de Genbu](entidades/1200-plantas-del-templo-de-genbu.md) · personaje
+- [Cala de la tumba de Calista](entidades/1201-cala-de-la-tumba-de-calista.md) · lugar
+- [Carta del secuestro de Shizuka](entidades/1202-carta-del-secuestro-de-shizuka.md) · objeto
+- [Presencia con rostro de Danifae ante Banzo](entidades/1203-presencia-con-rostro-de-danifae-ante-banzo.md) · personaje
+- [Retorno de Banzo por costura de arañas](entidades/1204-retorno-de-banzo-por-costura-de-arañas.md) · objeto
+- [Tumba de Calista](entidades/1205-tumba-de-calista.md) · lugar
+- [Hacha de Bortrack](entidades/1206-hacha-de-bortrack.md) · objeto
+- [Visión de Banzo tras su decapitación](entidades/1207-visión-de-banzo-tras-su-decapitación.md) · objeto
+- [Espada de madera dejada por Shizuka](entidades/1208-espada-de-madera-dejada-por-shizuka.md) · objeto
+- [Dibujo del hermano de Jin](entidades/1209-dibujo-del-hermano-de-jin.md) · objeto
+- [Inu (grafía provisional)](entidades/1210-inu-grafía-provisional.md) · personaje
+- [Emperador celestial de Shen](entidades/1211-emperador-celestial-de-shen.md) · personaje
+- [Recuerdo de la fundación de los cazadores](entidades/1212-recuerdo-de-la-fundación-de-los-cazadores.md) · objeto
+- [Llamas de Suzaku](entidades/1213-llamas-de-suzaku.md) · objeto
+- [Advertencia tras los cuatro guardianes](entidades/1214-advertencia-tras-los-cuatro-guardianes.md) · objeto
+- [Balakir (grafía provisional)](entidades/1215-balakir-grafía-provisional.md) · personaje
+- [Torre del último general](entidades/1216-torre-del-último-general.md) · lugar
+- [Tengu rendido del último campamento](entidades/1217-tengu-rendido-del-último-campamento.md) · personaje
+- [Garrote florido de Channi](entidades/1218-garrote-florido-de-channi.md) · objeto
+- [Palacio del dragón dorado](entidades/1219-palacio-del-dragón-dorado.md) · lugar
+- [Bastón del Rey Mono](entidades/1220-bastón-del-rey-mono.md) · objeto
+- [Arco Almalenora (grafía provisional)](entidades/1221-arco-almalenora-grafía-provisional.md) · objeto
+- [Corona de plumas de fénix](entidades/1222-corona-de-plumas-de-fénix.md) · objeto
+- [Monte de las encarnaciones de Sun](entidades/1223-monte-de-las-encarnaciones-de-sun.md) · lugar
+- [Fortaleza de Otakemaru](entidades/1224-fortaleza-de-otakemaru.md) · lugar
+- [Libros de las dos versiones de Kuroto](entidades/1225-libros-de-las-dos-versiones-de-kuroto.md) · objeto
+- [Moto fantasma de Guxi](entidades/1226-moto-fantasma-de-guxi.md) · objeto
+- [Silla motorizada de Arwen](entidades/1227-silla-motorizada-de-arwen.md) · objeto
+- [Escudo extensible de Véspera](entidades/1228-escudo-extensible-de-véspera.md) · objeto
+- [Deseo de Shizuka](entidades/1229-deseo-de-shizuka.md) · objeto
+- [Puerta de oscuridad de la fortaleza](entidades/1230-puerta-de-oscuridad-de-la-fortaleza.md) · objeto
+- [Cuatro pruebas de la fortaleza](entidades/1231-cuatro-pruebas-de-la-fortaleza.md) · lugar
+- [Caja de Sun para Serafina](entidades/1232-caja-de-sun-para-serafina.md) · objeto
+- [Sutras de Sun](entidades/1233-sutras-de-sun.md) · objeto
+- [Elementales de tierra de Arwen](entidades/1234-elementales-de-tierra-de-arwen.md) · personaje
+- [Yokais liberados de la transformación](entidades/1235-yokais-liberados-de-la-transformación.md) · faccion
+- [Campo de la batalla final](entidades/1236-campo-de-la-batalla-final.md) · lugar
+- [Lord Enma (grafía provisional)](entidades/1237-lord-enma-grafía-provisional.md) · personaje
+- [Collar de campeón](entidades/1238-collar-de-campeón.md) · objeto
+- [Cascabel de Véspera](entidades/1239-cascabel-de-véspera.md) · objeto
+- [Hacha ceremonial de Véspera](entidades/1240-hacha-ceremonial-de-véspera.md) · objeto
+- [Reencarnación de Kurobane](entidades/1241-reencarnación-de-kurobane.md) · objeto
+- [Sun Kim (grafía provisional)](entidades/1242-sun-kim-grafía-provisional.md) · personaje
+- [Colgante de cenizas de Kurobane](entidades/1243-colgante-de-cenizas-de-kurobane.md) · objeto
+- [Rutas de Tiari hacia la Infraoscuridad](entidades/1244-rutas-de-tiari-hacia-la-infraoscuridad.md) · objeto
+- [Hacha de Banzo confiada a Palayer](entidades/1245-hacha-de-banzo-confiada-a-palayer.md) · objeto
+- [Collar de Palayer para Banzo](entidades/1246-collar-de-palayer-para-banzo.md) · objeto
+- [Escuela pública de Guxi en Sho](entidades/1247-escuela-pública-de-guxi-en-sho.md) · lugar
+- [Pétalos](entidades/1248-pétalos.md) · lugar
+- [Pacto de paz entre humanos y yokais](entidades/1249-pacto-de-paz-entre-humanos-y-yokais.md) · faccion
+- [Hijos de Banzo y Palayer](entidades/1250-hijos-de-banzo-y-palayer.md) · personaje
+- [Hijos de Guxi y Serafina](entidades/1251-hijos-de-guxi-y-serafina.md) · personaje
+- [Las crónicas de un hermano perdido](entidades/1252-las-crónicas-de-un-hermano-perdido.md) · objeto
+- [Brunami](entidades/1253-brunami.md) · lugar
+- [Infraoscuridad](entidades/1254-infraoscuridad.md) · lugar
+- [Aldea tanuki de Ikari](entidades/1255-aldea-tanuki-de-ikari.md) · lugar
+- [Jone](entidades/1256-jone.md) · personaje
+- [Franken Bolt (grafía provisional)](entidades/1257-franken-bolt-grafía-provisional.md) · personaje
 
 ## Sesiones
 
 - [001 · El Bosque de Cuchillas](capitulos/001.md) · revisado
-- [002 · Contrato de Limpieza](../derivados/002/lectura.md) · transcripción; lectura editorial pendiente
-- [003 · ¡No podemos Descansar!](../derivados/003/lectura.md) · transcripción; lectura editorial pendiente
-- [004 · Un Burdel Espeluznante](../derivados/004/lectura.md) · transcripción; lectura editorial pendiente
-- [005 · Sueños de Borrachos](../derivados/005/lectura.md) · transcripción; lectura editorial pendiente
-- [006 · El Ronin y el Yokai](../derivados/006/lectura.md) · transcripción; lectura editorial pendiente
-- [007 · Una Aldea Abandonada](../derivados/007/lectura.md) · transcripción; lectura editorial pendiente
-- [008 · ¿Dónde está el Gato?](../derivados/008/lectura.md) · transcripción; lectura editorial pendiente
-- [009 · La Venganza de los Sacerdotes](../derivados/009/lectura.md) · transcripción; lectura editorial pendiente
-- [010 · Sopa de Tortuga](../derivados/010/lectura.md) · transcripción; lectura editorial pendiente
-- [011 · Se Avecina Tormenta](../derivados/011/lectura.md) · transcripción; lectura editorial pendiente
-- [012 · Un Montón de Cosas](../derivados/012/lectura.md) · transcripción; lectura editorial pendiente
-- [013 · El Torneo](../derivados/013/lectura.md) · transcripción; lectura editorial pendiente
-- [014 · Consecuencias](../derivados/014/lectura.md) · transcripción; lectura editorial pendiente
-- [015 · Atrapa al Ladrón](../derivados/015/lectura.md) · transcripción; lectura editorial pendiente
-- [016 · Cuanto más comas....](../derivados/016/lectura.md) · transcripción; lectura editorial pendiente
-- [017 · ¡Fuego!](../derivados/017/lectura.md) · transcripción; lectura editorial pendiente
-- [018 · Tierra Removida](../derivados/018/lectura.md) · transcripción; lectura editorial pendiente
-- [019 · Entrenar a mi Kender](../derivados/019/lectura.md) · transcripción; lectura editorial pendiente
-- [020 · Un Viaje Movidito](../derivados/020/lectura.md) · transcripción; lectura editorial pendiente
-- [021 · Sustos](../derivados/021/lectura.md) · transcripción; lectura editorial pendiente
-- [022 · Mapaches en Peligro](../derivados/022/lectura.md) · transcripción; lectura editorial pendiente
-- [023 · Un Favor para el Shogun](../derivados/023/lectura.md) · transcripción; lectura editorial pendiente
-- [024 · Local Clandestino](../derivados/024/lectura.md) · transcripción; lectura editorial pendiente
-- [025 · Un Funcionario Respetable](../derivados/025/lectura.md) · transcripción; lectura editorial pendiente
-- [026 · Malos Sueños](../derivados/026/lectura.md) · transcripción; lectura editorial pendiente
-- [027 · El Torneo de Sho](../derivados/027/lectura.md) · transcripción; lectura editorial pendiente
-- [028 · La Venganza de los Gatitos](../derivados/028/lectura.md) · transcripción; lectura editorial pendiente
-- [029 · Un Carpintero en Apuros](../derivados/029/lectura.md) · transcripción; lectura editorial pendiente
-- [030 · Limpiar las Cañerías](../derivados/030/lectura.md) · transcripción; lectura editorial pendiente
-- [031 · Peligro en el Camino](../derivados/031/lectura.md) · transcripción; lectura editorial pendiente
-- [032 · La Boda del Shogun](../derivados/032/lectura.md) · transcripción; lectura editorial pendiente
-- [033 · Huérfano de Fuego](../derivados/033/lectura.md) · transcripción; lectura editorial pendiente
-- [034 · El Festival](../derivados/034/lectura.md) · transcripción; lectura editorial pendiente
-- [035 · Un Robo en la casa del Noble](../derivados/035/lectura.md) · transcripción; lectura editorial pendiente
-- [036 · En las Profundidades del Bosque](../derivados/036/lectura.md) · transcripción; lectura editorial pendiente
-- [037 · Las Sombras del Pasado](../derivados/037/lectura.md) · transcripción; lectura editorial pendiente
-- [038 · Un lio Pegajoso](../derivados/038/lectura.md) · transcripción; lectura editorial pendiente
-- [039 · Acampar en el Camino](../derivados/039/lectura.md) · transcripción; lectura editorial pendiente
-- [040 · El Bibliotecario](../derivados/040/lectura.md) · transcripción; lectura editorial pendiente
-- [041 · Desde lo Profundo](../derivados/041/lectura.md) · transcripción; lectura editorial pendiente
-- [042 · El Instructor](../derivados/042/lectura.md) · transcripción; lectura editorial pendiente
-- [043 · Problemas de Geishas](../derivados/043/lectura.md) · transcripción; lectura editorial pendiente
-- [044 · El Guardián del Oeste](../derivados/044/lectura.md) · transcripción; lectura editorial pendiente
-- [045 · Devuélveme mi Alma](../derivados/045/lectura.md) · transcripción; lectura editorial pendiente
-- [046 · Las Pruebas de Wukong](../derivados/046/lectura.md) · transcripción; lectura editorial pendiente
-- [047 · Los Cerezos Malditos](../derivados/047/lectura.md) · transcripción; lectura editorial pendiente
-- [048 · "Miau"](../derivados/048/lectura.md) · transcripción; lectura editorial pendiente
-- [049 · Baku-Baku](../derivados/049/lectura.md) · transcripción; lectura editorial pendiente
-- [050 · El Guardián del Este](../derivados/050/lectura.md) · transcripción; lectura editorial pendiente
-- [051 · El Segundo Torneo de Ukyio](../derivados/051/lectura.md) · transcripción; lectura editorial pendiente
-- [052 · Nieve en Verano](../derivados/052/lectura.md) · transcripción; lectura editorial pendiente
-- [053 · El Cubil](../derivados/053/lectura.md) · transcripción; lectura editorial pendiente
-- [054 · Rojo](../derivados/054/lectura.md) · transcripción; lectura editorial pendiente
-- [055 · El Mar de Kiushi](../derivados/055/lectura.md) · transcripción; lectura editorial pendiente
-- [056 · Diplomacia pasada por agua](../derivados/056/lectura.md) · transcripción; lectura editorial pendiente
-- [057 · Cosas Brillantes](../derivados/057/lectura.md) · transcripción; lectura editorial pendiente
-- [058 · El Bardo Legendario](../derivados/058/lectura.md) · transcripción; lectura editorial pendiente
-- [059 · La Espada de Cristal](../derivados/059/lectura.md) · transcripción; lectura editorial pendiente
-- [060 · Los Protectores de los Guardianes](../derivados/060/lectura.md) · transcripción; lectura editorial pendiente
-- [061 · Temporada de Caza](../derivados/061/lectura.md) · transcripción; lectura editorial pendiente
-- [062 · Bruja de Sangre "Especial Halloween"](../derivados/062/lectura.md) · transcripción; lectura editorial pendiente
-- [063 · Laboratorio Experimental](../derivados/063/lectura.md) · transcripción; lectura editorial pendiente
-- [064 · El Guardián del Norte](../derivados/064/lectura.md) · transcripción; lectura editorial pendiente
-- [065 · Controlar las Llamas](../derivados/065/lectura.md) · transcripción; lectura editorial pendiente
-- [066 · El Segundo Torneo de Sho](../derivados/066/lectura.md) · transcripción; lectura editorial pendiente
-- [067 · Estafa en la Casa de Inversiones](../derivados/067/lectura.md) · transcripción; lectura editorial pendiente
-- [068 · Problemas en Liber](../derivados/068/lectura.md) · transcripción; lectura editorial pendiente
-- [069 · Sueños en llamas](../derivados/069/lectura.md) · transcripción; lectura editorial pendiente
-- [070 · Vuelta a Casa](../derivados/070/lectura.md) · transcripción; lectura editorial pendiente
-- [071 · Wakare No Yama](../derivados/071/lectura.md) · transcripción; lectura editorial pendiente
-- [072 · El Rey Mono](../derivados/072/lectura.md) · transcripción; lectura editorial pendiente
-- [073 · Mis Yokais](../derivados/073/lectura.md) · transcripción; lectura editorial pendiente
-- [074 · Ultimo Bastión](../derivados/074/lectura.md) · transcripción; lectura editorial pendiente
-- [075 · Onsen](../derivados/075/lectura.md) · transcripción; lectura editorial pendiente
-- [076 · El Guardián del Sur](../derivados/076/lectura.md) · transcripción; lectura editorial pendiente
-- [077 · Especial Navidad](../derivados/077/lectura.md) · transcripción; lectura editorial pendiente
-- [078 · El destino de Shirz](../derivados/078/lectura.md) · transcripción; lectura editorial pendiente
-- [079 · El Ultimo Guardián](../derivados/079/lectura.md) · transcripción; lectura editorial pendiente
-- [080 · Suertelandia](../derivados/080/lectura.md) · transcripción; lectura editorial pendiente
-- [081 · Héroe del Pueblo](../derivados/081/lectura.md) · transcripción; lectura editorial pendiente
-- [082 · La Comandante](../derivados/082/lectura.md) · transcripción; lectura editorial pendiente
-- [083 · El Juicio](../derivados/083/lectura.md) · transcripción; lectura editorial pendiente
-- [084 · ¿Donde esta Gur?](../derivados/084/lectura.md) · transcripción; lectura editorial pendiente
-- [085 · Plegarias de Bondad](../derivados/085/lectura.md) · transcripción; lectura editorial pendiente
-- [086 · El Rey Selina](../derivados/086/lectura.md) · transcripción; lectura editorial pendiente
-- [087 · Lágrimas de Fuego](../derivados/087/lectura.md) · transcripción; lectura editorial pendiente
-- [088 · Manchas del Pasado](../derivados/088/lectura.md) · transcripción; lectura editorial pendiente
-- [089 · Especial 3 años de Twitch](../derivados/089/lectura.md) · transcripción; lectura editorial pendiente
-- [090 · Sombras de Guerra](../derivados/090/lectura.md) · transcripción; lectura editorial pendiente
-- [091 · La Guarida](../derivados/091/lectura.md) · transcripción; lectura editorial pendiente
-- [093 · Escoltas del Shogunato](../derivados/093/lectura.md) · transcripción; lectura editorial pendiente
-- [094 · La Salvaje](../derivados/094/lectura.md) · transcripción; lectura editorial pendiente
-- [095 · La Puerta Negra Parte 2](../derivados/095/lectura.md) · transcripción; lectura editorial pendiente
-- [096 · El Baile](https://www.youtube.com/watch?v=xU1sxIKdRL4) · transcripción pendiente
-- [097 · Una Cálida tarde de Verano](../derivados/097/lectura.md) · transcripción; lectura editorial pendiente
-- [098 · Un Lio en el Bosque](../derivados/098/lectura.md) · transcripción; lectura editorial pendiente
-- [099 · La Sombra de Shirz](../derivados/099/lectura.md) · transcripción; lectura editorial pendiente
-- [100 · Rumores de Palacio](../derivados/100/lectura.md) · transcripción; lectura editorial pendiente
-- [101 · Un Rescate de Pelotas](../derivados/101/lectura.md) · transcripción; lectura editorial pendiente
-- [102 · Recaudación](../derivados/102/lectura.md) · transcripción; lectura editorial pendiente
-- [103 · El Foso de los Lamentos Eternos](../derivados/103/lectura.md) · transcripción; lectura editorial pendiente
-- [104 · En el Vientre de la Bestia](../derivados/104/lectura.md) · transcripción; lectura editorial pendiente
-- [105 · Esto está hecho un asco...](../derivados/105/lectura.md) · transcripción; lectura editorial pendiente
-- [106 · El Tercer Torneo de Sho](../derivados/106/lectura.md) · transcripción; lectura editorial pendiente
-- [107 · El Perdón](../derivados/107/lectura.md) · transcripción; lectura editorial pendiente
-- [108 · La magia de Ootakemaru](../derivados/108/lectura.md) · transcripción; lectura editorial pendiente
-- [109 · Las Defensas de la Puerta](../derivados/109/lectura.md) · transcripción; lectura editorial pendiente
-- [110 · Sacrificios](../derivados/110/lectura.md) · transcripción; lectura editorial pendiente
-- [111 · La Muerte del Shogun](../derivados/111/lectura.md) · transcripción; lectura editorial pendiente
-- [112 · Los Muertos de Ootakemaru](../derivados/112/lectura.md) · transcripción; lectura editorial pendiente
-- [113 · Invento Fallido](../derivados/113/lectura.md) · transcripción; lectura editorial pendiente
-- [114 · Atracción Sombría](../derivados/114/lectura.md) · transcripción; lectura editorial pendiente
-- [115 · En la Mesa de Fukami-hime](../derivados/115/lectura.md) · transcripción; lectura editorial pendiente
-- [116 · Otro Templo Cultista](../derivados/116/lectura.md) · transcripción; lectura editorial pendiente
-- [117 · El Espejo del Pacto](../derivados/117/lectura.md) · transcripción; lectura editorial pendiente
-- [118 · Isla Espejismo](../derivados/118/lectura.md) · transcripción; lectura editorial pendiente
-- [119 · Sin Dinero no se Gana una Guerra](../derivados/119/lectura.md) · transcripción; lectura editorial pendiente
-- [120 · El Hilo Maldito Parte 1](../derivados/120/lectura.md) · transcripción; lectura editorial pendiente
-- [121 · El Monasterio Perdido](../derivados/121/lectura.md) · transcripción; lectura editorial pendiente
-- [122 · Sorpresa! Pide un Deseo](../derivados/122/lectura.md) · transcripción; lectura editorial pendiente
-- [123 · La Importancia de la Economía](../derivados/123/lectura.md) · transcripción; lectura editorial pendiente
-- [124 · El Avatar del Asesinato](../derivados/124/lectura.md) · transcripción; lectura editorial pendiente
-- [125 · El Hilo Maldito Parte 2](../derivados/125/lectura.md) · transcripción; lectura editorial pendiente
-- [126 · Gur-Icidio](../derivados/126/lectura.md) · transcripción; lectura editorial pendiente
-- [127 · Grumete Borracho](../derivados/127/lectura.md) · transcripción; lectura editorial pendiente
-- [128 · Apuestas en los Bajos Fondos](../derivados/128/lectura.md) · transcripción; lectura editorial pendiente
-- [129 · La Puerta Negra Parte 3](../derivados/129/lectura.md) · transcripción; lectura editorial pendiente
-- [130 · El Hilo Maldito Parte 3](../derivados/130/lectura.md) · transcripción; lectura editorial pendiente
-- [131 · Bienvenidos a Xoltacan](../derivados/131/lectura.md) · transcripción; lectura editorial pendiente
-- [132 · Miniyos](../derivados/132/lectura.md) · transcripción; lectura editorial pendiente
-- [133 · Traición en el Shogunato](../derivados/133/lectura.md) · transcripción; lectura editorial pendiente
-- [134 · Catástrofe](../derivados/134/lectura.md) · transcripción; lectura editorial pendiente
-- [135 · El Último Baile](https://www.youtube.com/watch?v=SyXIdBFD7Os) · transcripción pendiente
-- [136 · Las Votaciones](https://www.youtube.com/watch?v=t33F7z6KUNo) · transcripción pendiente
-- [137 · Nuevo Shogun](../derivados/137/lectura.md) · transcripción; lectura editorial pendiente
-- [138 · Intento de Asesinato](../derivados/138/lectura.md) · transcripción; lectura editorial pendiente
-- [139 · Los Muertos de Jigoku No Mori](../derivados/139/lectura.md) · transcripción; lectura editorial pendiente
-- [140 · Hierbas en el Bosque](../derivados/140/lectura.md) · transcripción; lectura editorial pendiente
-- [141 · De Piratas va la Cosa](../derivados/141/lectura.md) · transcripción; lectura editorial pendiente
-- [142 · De Compras](../derivados/142/lectura.md) · transcripción; lectura editorial pendiente
-- [143 · El Nox](../derivados/143/lectura.md) · transcripción; lectura editorial pendiente
-- [144 · Una Obra en la Casa del Té](../derivados/144/lectura.md) · transcripción; lectura editorial pendiente
-- [145 · Regreso ante el Guardián](../derivados/145/lectura.md) · transcripción; lectura editorial pendiente
-- [146 · Juegos en el Spa](../derivados/146/lectura.md) · transcripción; lectura editorial pendiente
-- [147 · Ratas!](../derivados/147/lectura.md) · transcripción; lectura editorial pendiente
-- [148 · La Llegada de las Mareas](../derivados/148/lectura.md) · transcripción; lectura editorial pendiente
-- [149 · Muertos en el Bosque](../derivados/149/lectura.md) · transcripción; lectura editorial pendiente
-- [150 · La Mascarada](../derivados/150/lectura.md) · transcripción; lectura editorial pendiente
-- [151 · Replantar el Bosque](../derivados/151/lectura.md) · transcripción; lectura editorial pendiente
-- [152 · Tratos y Espadas](../derivados/152/lectura.md) · transcripción; lectura editorial pendiente
-- [153 · La Tumba del Bosque](../derivados/153/lectura.md) · transcripción; lectura editorial pendiente
-- [154 · Reino Bajo el Mar Parte 1](../derivados/154/lectura.md) · transcripción; lectura editorial pendiente
-- [155 · Reino Bajo el Mar Parte 2](../derivados/155/lectura.md) · transcripción; lectura editorial pendiente
-- [156 · Beso de Sangre](../derivados/156/lectura.md) · transcripción; lectura editorial pendiente
-- [157 · Las Pruebas de Banzo](../derivados/157/lectura.md) · transcripción; lectura editorial pendiente
-- [158 · Iluminar la Oscuridad](../derivados/158/lectura.md) · transcripción; lectura editorial pendiente
-- [159 · El Portal](../derivados/159/lectura.md) · transcripción; lectura editorial pendiente
-- [160 · Caballeros de la Muerte](../derivados/160/lectura.md) · transcripción; lectura editorial pendiente
-- [161 · Grumete de Poca Monta](../derivados/161/lectura.md) · transcripción; lectura editorial pendiente
-- [162 · Salvar al Gnomo](../derivados/162/lectura.md) · transcripción; lectura editorial pendiente
-- [163 · Nuevo Torneo de Sho](../derivados/163/lectura.md) · transcripción; lectura editorial pendiente
-- [164 · El Ultimo Templo Cultista](../derivados/164/lectura.md) · transcripción; lectura editorial pendiente
-- [165 · Viaje a Cono Sur](../derivados/165/lectura.md) · transcripción; lectura editorial pendiente
-- [166 · Ejército de la Muerte](../derivados/166/lectura.md) · transcripción; lectura editorial pendiente
-- [167 · Tercera Oleada](../derivados/167/lectura.md) · transcripción; lectura editorial pendiente
-- [168 · Atrapados en la Telaraña](../derivados/168/lectura.md) · transcripción; lectura editorial pendiente
-- [169 · Relámpagos del Oeste](../derivados/169/lectura.md) · transcripción; lectura editorial pendiente
-- [170 · Asalto al Sur](../derivados/170/lectura.md) · transcripción; lectura editorial pendiente
-- [171 · La Muerte es el Principio](../derivados/171/lectura.md) · transcripción; lectura editorial pendiente
-- [172 · Festival Demoníaco](../derivados/172/lectura.md) · transcripción; lectura editorial pendiente
-- [173 · Inundación en el Este](../derivados/173/lectura.md) · transcripción; lectura editorial pendiente
-- [174 · Corrosión Abisal](../derivados/174/lectura.md) · transcripción; lectura editorial pendiente
-- [175 · Pedregada en el Norte](../derivados/175/lectura.md) · transcripción; lectura editorial pendiente
-- [176 · Tú me perteneces](../derivados/176/lectura.md) · transcripción; lectura editorial pendiente
-- [177 · Llamarada en el Sur](../derivados/177/lectura.md) · transcripción; lectura editorial pendiente
-- [178 · Fuego del Abismo](../derivados/178/lectura.md) · transcripción; lectura editorial pendiente
-- [179 · El Resurgir del Guardian](../derivados/179/lectura.md) · transcripción; lectura editorial pendiente
-- [180 · La Guarida del Demonio](../derivados/180/lectura.md) · transcripción; lectura editorial pendiente
-- [181 · Ootakemaru](../derivados/181/lectura.md) · transcripción; lectura editorial pendiente
-- [182 · Hasta Pronto Kuroto!](../derivados/182/lectura.md) · transcripción; lectura editorial pendiente
+- [002 · Contrato de Limpieza](capitulos/002.md) · revisado
+- [003 · ¡No podemos Descansar!](capitulos/003.md) · revisado
+- [004 · Un Burdel Espeluznante](capitulos/004.md) · revisado
+- [005 · Sueños de Borrachos](capitulos/005.md) · revisado
+- [006 · El Ronin y el Yokai](capitulos/006.md) · revisado
+- [007 · Una Aldea Abandonada](capitulos/007.md) · revisado
+- [008 · ¿Dónde está el Gato?](capitulos/008.md) · revisado
+- [009 · La Venganza de los Sacerdotes](capitulos/009.md) · revisado
+- [010 · Sopa de Tortuga](capitulos/010.md) · revisado
+- [011 · Se Avecina Tormenta](capitulos/011.md) · revisado
+- [012 · Un Montón de Cosas](capitulos/012.md) · revisado
+- [013 · El Torneo](capitulos/013.md) · revisado
+- [014 · Consecuencias](capitulos/014.md) · revisado
+- [015 · Atrapa al Ladrón](capitulos/015.md) · revisado
+- [016 · Cuanto más comas....](capitulos/016.md) · revisado
+- [017 · ¡Fuego!](capitulos/017.md) · revisado
+- [018 · Tierra Removida](capitulos/018.md) · revisado
+- [019 · Entrenar a mi Kender](capitulos/019.md) · revisado
+- [020 · Un Viaje Movidito](capitulos/020.md) · revisado
+- [021 · Sustos](capitulos/021.md) · revisado
+- [022 · Mapaches en Peligro](capitulos/022.md) · revisado
+- [023 · Un Favor para el Shogun](capitulos/023.md) · revisado
+- [024 · Local Clandestino](capitulos/024.md) · revisado
+- [025 · Un Funcionario Respetable](capitulos/025.md) · revisado
+- [026 · Malos Sueños](capitulos/026.md) · revisado
+- [027 · El Torneo de Sho](capitulos/027.md) · revisado
+- [028 · La Venganza de los Gatitos](capitulos/028.md) · revisado
+- [029 · Un Carpintero en Apuros](capitulos/029.md) · revisado
+- [030 · Limpiar las Cañerías](capitulos/030.md) · revisado
+- [031 · Peligro en el Camino](capitulos/031.md) · revisado
+- [032 · La Boda del Shogun](capitulos/032.md) · revisado
+- [033 · Huérfano de Fuego](capitulos/033.md) · revisado
+- [034 · El Festival](capitulos/034.md) · revisado
+- [035 · Un Robo en la casa del Noble](capitulos/035.md) · revisado
+- [036 · En las Profundidades del Bosque](capitulos/036.md) · revisado
+- [037 · Las Sombras del Pasado](capitulos/037.md) · revisado
+- [038 · Un lio Pegajoso](capitulos/038.md) · revisado
+- [039 · Acampar en el Camino](capitulos/039.md) · revisado
+- [040 · El Bibliotecario](capitulos/040.md) · revisado
+- [041 · Desde lo Profundo](capitulos/041.md) · revisado
+- [042 · El Instructor](capitulos/042.md) · revisado
+- [043 · Problemas de Geishas](capitulos/043.md) · revisado
+- [044 · El Guardián del Oeste](capitulos/044.md) · revisado
+- [045 · Devuélveme mi Alma](capitulos/045.md) · revisado
+- [046 · Las Pruebas de Wukong](capitulos/046.md) · revisado
+- [047 · Los Cerezos Malditos](capitulos/047.md) · revisado
+- [048 · "Miau"](capitulos/048.md) · revisado
+- [049 · Baku-Baku](capitulos/049.md) · revisado
+- [050 · El Guardián del Este](capitulos/050.md) · revisado
+- [051 · El Segundo Torneo de Ukyio](capitulos/051.md) · revisado
+- [052 · Nieve en Verano](capitulos/052.md) · revisado
+- [053 · El Cubil](capitulos/053.md) · revisado
+- [054 · Rojo](capitulos/054.md) · revisado
+- [055 · El Mar de Kiushi](capitulos/055.md) · revisado
+- [056 · Diplomacia pasada por agua](capitulos/056.md) · revisado
+- [057 · Cosas Brillantes](capitulos/057.md) · revisado
+- [058 · El Bardo Legendario](capitulos/058.md) · revisado
+- [059 · La Espada de Cristal](capitulos/059.md) · revisado
+- [060 · Los Protectores de los Guardianes](capitulos/060.md) · revisado
+- [061 · Temporada de Caza](capitulos/061.md) · revisado
+- [062 · Bruja de Sangre "Especial Halloween"](capitulos/062.md) · revisado
+- [063 · Laboratorio Experimental](capitulos/063.md) · revisado
+- [064 · El Guardián del Norte](capitulos/064.md) · revisado
+- [065 · Controlar las Llamas](capitulos/065.md) · revisado
+- [066 · El Segundo Torneo de Sho](capitulos/066.md) · revisado
+- [067 · Estafa en la Casa de Inversiones](capitulos/067.md) · revisado
+- [068 · Problemas en Liber](capitulos/068.md) · revisado
+- [069 · Sueños en llamas](capitulos/069.md) · revisado
+- [070 · Vuelta a Casa](capitulos/070.md) · revisado
+- [071 · Wakare No Yama](capitulos/071.md) · revisado
+- [072 · El Rey Mono](capitulos/072.md) · revisado
+- [073 · Mis Yokais](capitulos/073.md) · revisado
+- [074 · Ultimo Bastión](capitulos/074.md) · revisado
+- [075 · Onsen](capitulos/075.md) · revisado
+- [076 · El Guardián del Sur](capitulos/076.md) · revisado
+- [077 · Especial Navidad](capitulos/077.md) · revisado
+- [078 · El destino de Shirz](capitulos/078.md) · revisado
+- [079 · El Ultimo Guardián](capitulos/079.md) · revisado
+- [080 · Suertelandia](capitulos/080.md) · revisado
+- [081 · Héroe del Pueblo](capitulos/081.md) · revisado
+- [082 · La Comandante](capitulos/082.md) · revisado
+- [083 · El Juicio](capitulos/083.md) · revisado
+- [084 · ¿Donde esta Gur?](capitulos/084.md) · revisado
+- [085 · Plegarias de Bondad](capitulos/085.md) · revisado
+- [086 · El Rey Selina](capitulos/086.md) · revisado
+- [087 · Lágrimas de Fuego](capitulos/087.md) · revisado
+- [088 · Manchas del Pasado](capitulos/088.md) · revisado
+- [089 · Especial 3 años de Twitch](capitulos/089.md) · revisado
+- [090 · Sombras de Guerra](capitulos/090.md) · revisado
+- [091 · La Guarida](capitulos/091.md) · revisado
+- [093 · Escoltas del Shogunato](capitulos/093.md) · revisado
+- [094 · La Salvaje](capitulos/094.md) · revisado
+- [095 · La Puerta Negra Parte 2](capitulos/095.md) · revisado
+- [096 · El Baile](capitulos/096.md) · revisado
+- [097 · Una Cálida tarde de Verano](capitulos/097.md) · revisado
+- [098 · Un Lio en el Bosque](capitulos/098.md) · revisado
+- [099 · La Sombra de Shirz](capitulos/099.md) · revisado
+- [100 · Rumores de Palacio](capitulos/100.md) · revisado
+- [101 · Un Rescate de Pelotas](capitulos/101.md) · revisado
+- [102 · Recaudación](capitulos/102.md) · revisado
+- [103 · El Foso de los Lamentos Eternos](capitulos/103.md) · revisado
+- [104 · En el Vientre de la Bestia](capitulos/104.md) · revisado
+- [105 · Esto está hecho un asco...](capitulos/105.md) · revisado
+- [106 · El Tercer Torneo de Sho](capitulos/106.md) · revisado
+- [107 · El Perdón](capitulos/107.md) · revisado
+- [108 · La magia de Ootakemaru](capitulos/108.md) · revisado
+- [109 · Las Defensas de la Puerta](capitulos/109.md) · revisado
+- [110 · Sacrificios](capitulos/110.md) · revisado
+- [111 · La Muerte del Shogun](capitulos/111.md) · revisado
+- [112 · Los Muertos de Ootakemaru](capitulos/112.md) · revisado
+- [113 · Invento Fallido](capitulos/113.md) · revisado
+- [114 · Atracción Sombría](capitulos/114.md) · revisado
+- [115 · En la Mesa de Fukami-hime](capitulos/115.md) · revisado
+- [116 · Otro Templo Cultista](capitulos/116.md) · revisado
+- [117 · El Espejo del Pacto](capitulos/117.md) · revisado
+- [118 · Isla Espejismo](capitulos/118.md) · revisado
+- [119 · Sin Dinero no se Gana una Guerra](capitulos/119.md) · revisado
+- [120 · El Hilo Maldito Parte 1](capitulos/120.md) · revisado
+- [121 · El Monasterio Perdido](capitulos/121.md) · revisado
+- [122 · Sorpresa! Pide un Deseo](capitulos/122.md) · revisado
+- [123 · La Importancia de la Economía](capitulos/123.md) · revisado
+- [124 · El Avatar del Asesinato](capitulos/124.md) · revisado
+- [125 · El Hilo Maldito Parte 2](capitulos/125.md) · revisado
+- [126 · Gur-Icidio](capitulos/126.md) · revisado
+- [127 · Grumete Borracho](capitulos/127.md) · revisado
+- [128 · Apuestas en los Bajos Fondos](capitulos/128.md) · revisado
+- [129 · La Puerta Negra Parte 3](capitulos/129.md) · revisado
+- [130 · El Hilo Maldito Parte 3](capitulos/130.md) · revisado
+- [131 · Bienvenidos a Xoltacan](capitulos/131.md) · revisado
+- [132 · Miniyos](capitulos/132.md) · revisado
+- [133 · Traición en el Shogunato](capitulos/133.md) · revisado
+- [134 · Catástrofe](capitulos/134.md) · revisado
+- [135 · El Último Baile](capitulos/135.md) · revisado
+- [136 · Las Votaciones](capitulos/136.md) · revisado
+- [137 · Nuevo Shogun](capitulos/137.md) · revisado
+- [138 · Intento de Asesinato](capitulos/138.md) · revisado
+- [139 · Los Muertos de Jigoku No Mori](capitulos/139.md) · revisado
+- [140 · Hierbas en el Bosque](capitulos/140.md) · revisado
+- [141 · De Piratas va la Cosa](capitulos/141.md) · revisado
+- [142 · De Compras](capitulos/142.md) · revisado
+- [143 · El Nox](capitulos/143.md) · revisado
+- [144 · Una Obra en la Casa del Té](capitulos/144.md) · revisado
+- [145 · Regreso ante el Guardián](capitulos/145.md) · revisado
+- [146 · Juegos en el Spa](capitulos/146.md) · revisado
+- [147 · Ratas!](capitulos/147.md) · revisado
+- [148 · La Llegada de las Mareas](capitulos/148.md) · revisado
+- [149 · Muertos en el Bosque](capitulos/149.md) · revisado
+- [150 · La Mascarada](capitulos/150.md) · revisado
+- [151 · Replantar el Bosque](capitulos/151.md) · revisado
+- [152 · Tratos y Espadas](capitulos/152.md) · revisado
+- [153 · La Tumba del Bosque](capitulos/153.md) · revisado
+- [154 · Reino Bajo el Mar Parte 1](capitulos/154.md) · revisado
+- [155 · Reino Bajo el Mar Parte 2](capitulos/155.md) · revisado
+- [156 · Beso de Sangre](capitulos/156.md) · revisado
+- [157 · Las Pruebas de Banzo](capitulos/157.md) · revisado
+- [158 · Iluminar la Oscuridad](capitulos/158.md) · revisado
+- [159 · El Portal](capitulos/159.md) · revisado
+- [160 · Caballeros de la Muerte](capitulos/160.md) · revisado
+- [161 · Grumete de Poca Monta](capitulos/161.md) · revisado
+- [162 · Salvar al Gnomo](capitulos/162.md) · revisado
+- [163 · Nuevo Torneo de Sho](capitulos/163.md) · revisado
+- [164 · El Ultimo Templo Cultista](capitulos/164.md) · revisado
+- [165 · Viaje a Cono Sur](capitulos/165.md) · revisado
+- [166 · Ejército de la Muerte](capitulos/166.md) · revisado
+- [167 · Tercera Oleada](capitulos/167.md) · revisado
+- [168 · Atrapados en la Telaraña](capitulos/168.md) · revisado
+- [169 · Relámpagos del Oeste](capitulos/169.md) · revisado
+- [170 · Asalto al Sur](capitulos/170.md) · revisado
+- [171 · La Muerte es el Principio](capitulos/171.md) · revisado
+- [172 · Festival Demoníaco](capitulos/172.md) · revisado
+- [173 · Inundación en el Este](capitulos/173.md) · revisado
+- [174 · Corrosión Abisal](capitulos/174.md) · revisado
+- [175 · Pedregada en el Norte](capitulos/175.md) · revisado
+- [176 · Tú me perteneces](capitulos/176.md) · revisado
+- [177 · Llamarada en el Sur](capitulos/177.md) · revisado
+- [178 · Fuego del Abismo](capitulos/178.md) · revisado
+- [179 · El Resurgir del Guardian](capitulos/179.md) · revisado
+- [180 · La Guarida del Demonio](capitulos/180.md) · revisado
+- [181 · Ootakemaru](capitulos/181.md) · revisado
+- [182 · Hasta Pronto Kuroto!](capitulos/182.md) · revisado

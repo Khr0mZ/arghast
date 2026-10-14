@@ -1,0 +1,387 @@
+{
+  "capitulo": 145,
+  "estado_revision": "revisado",
+  "fuente_sha256": "a1fd8cc31616aaa75a0c3fa390d2ce7562461a254b7799225af3ecc9a26315cf",
+  "resumen": "La confianza de la sesión anterior se rompe entre encuentros: Serafina se quita el anillo tras una frase de Guxi sobre casarse con su hermanastra, su primer amor sin lazo de sangre. Busca compañía en Kurobane y él se hunde en la bebida. Banzo necesita a ambos para preguntar por las esferas y la cúpula; exige profesionalidad y logra que el artífice posponga abandonar la isla y vuelva a ponerse el collar. Sirth acompaña al grupo y ofrece consuelo. Durante el viaje, Guxi afirma querer a Serafina y Banzo propone asistir a la boda familiar, pero el plan no recibe aún respuesta de ella. El permiso portuario permite llegar a una isla que se alza sobre las nubes. Kurobane recuerda el templo del oeste y sus trampas, aunque Banzo recibe dos descargas antes de pasar. Intentan presentar respeto con armas dejadas en la entrada y una flor nacida entre rayos, pero rezos, libros y retos de combate no convocan al guardián. Sirth repara en el aparato del altar: tras los fallos anteriores, tigre en el centro y rayo al oeste hacen aparecer a Biaco. La descarga que Kurobane se provoca con su estoque no le entrega un poder nuevo. Biaco mantiene que la cúpula no puede restaurarse y que la esencia elegida sigue perteneciendo a Gucón, sin poder transferirla a Kurobane. Finalmente los envía al dragón. Este explica que las esferas encierran esencia elemental pura, solo sostenida por alguien afín a cada elemento, y no sabe el resultado de reunirlas. Recibe la campana de los cazadores sin asumir una deuda. Rechaza la pretensión de Kurobane de ser campeón y lo obliga a distinguir luchar por otros de ofrecer una muerte inútil. Él y los guardianes se describen como esencia de Kuroto: no son dioses, no desean adoración y no subordinan su existencia a quién gobierne la isla. Los cuatro guardianes se materializan y comienza una prueba real. Guxi protege con torretas, Sirth combina eco y magia de muerte, Serafina golpea y retrocede y Kurobane entrega un estoque a Banzo. El fénix cae y renace antes de ser abatido otra vez. El aliento acuático deja a Kurobane inconsciente; Banzo estrena una furia de ancestros y calor que le permite continuar contra tigre, tortuga y dragón. Sirth ayuda a levantar al caído. Al liberar los espíritus para rematar al último enemigo, Banzo pierde la furia y se desploma con él. Es una victoria de la prueba, no la muerte definitiva de los seres elementales. Los guardianes se levantan sanos y admiten que el grupo gana fuerza, pero no conceden otra súplica ni explican la misión futura de Kurobane. Él vuelve a tensarse; Banzo intenta golpearlo para detenerlo, pero el joven advierte el gesto y acepta retirarse sin ser derribado. El líder vuelve a caer agotado y deben cargarlo. El dragón los devuelve al templo anunciando otro encuentro cuando estén preparados. Regresan al barco con más información sobre la naturaleza de las esferas y sus interlocutores, sin reparar la cúpula, recuperar una bendición o conseguir un nuevo campeón.",
+  "afirmaciones": [
+    {
+      "id": "145-001",
+      "titulo": "Un compromiso roto entre sesiones",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Serafina cuenta que se quitó el anillo y rompió con Guxi tras oír que, al recibir la invitación a la boda de su hermanastra, él deseaba haber sido el novio. Ella busca compañía en Kurobane y pasa la noche con él, sin conocer su condición vampírica. Guxi bebe hasta que Archi lo despierta y se siente culpable. La ruptura cambia la situación todavía vigente en la sesión anterior.",
+      "inicio": "00:18:00.240",
+      "fin": "00:27:02.389",
+      "cita": "hermanastra",
+      "entidades": [
+        "Serafina Hop (grafía provisional)",
+        "Guxi",
+        "Kurobane"
+      ],
+      "ambito": "Kuroto, sesión 145",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "145-002",
+      "titulo": "Banzo reúne una misión y disciplina",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Banzo prepara ofrendas e investigación de las esferas y la cúpula en el templo del oeste. Pide a Serafina trabajar profesionalmente con Guxi y ella acepta pese a la ruptura. Yamato registra el funcionamiento de la base. Sirth se ofrece a acompañarlos a hablar con los guardianes; aclara que nunca fue líder oficial de los cazadores.",
+      "inicio": "00:27:02.399",
+      "fin": "00:45:01.349",
+      "cita": "esto sea simplemente profesional, a mí",
+      "entidades": [
+        "Banzo",
+        "Serafina Hop (grafía provisional)",
+        "Guxi",
+        "Kurobane",
+        "Sirth (grafía provisional)",
+        "Yamato (consejero)"
+      ],
+      "ambito": "Kuroto, sesión 145",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "145-003",
+      "titulo": "Guxi aplaza abandonar a los cazadores",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "En el campamento del sur Banzo encuentra a Guxi trabajando en las comunicaciones. El artífice dice querer abandonar la isla y entrega su collar, pero Banzo le exige pensar en el compromiso con el grupo y acompañarlo primero a la misión. Guxi vuelve a ponérselo bajo la ropa y pospone la decisión. No se consuma su renuncia ni sale de Kuroto.",
+      "inicio": "00:45:01.359",
+      "fin": "00:58:01.349",
+      "cita": "líder y mi collar de cazador eran",
+      "entidades": [
+        "Banzo",
+        "Guxi"
+      ],
+      "ambito": "Kuroto, sesión 145",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "145-004",
+      "titulo": "Un viaje entre apoyo y tensión",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Sirth escucha y consuela a Serafina. En el barco ella mantiene distancia de Guxi y conversa con Kurobane, mientras el artífice se refugia en la sala de máquinas. Guxi explica a Banzo que su hermanastra no comparte sangre con él, fue su primer amor y se casará en un mes; afirma amar ahora a Serafina y no haber querido decir aquella frase. Banzo propone asistir juntos a la boda como forma de demostrarlo, sin que Serafina acepte ese plan aquí.",
+      "inicio": "00:57:00.400",
+      "fin": "01:24:01.030",
+      "cita": "a una boda extraña de tu primer amor y",
+      "entidades": [
+        "Sirth (grafía provisional)",
+        "Serafina Hop (grafía provisional)",
+        "Guxi",
+        "Banzo",
+        "Kurobane",
+        "Hermanastra de Guxi"
+      ],
+      "ambito": "Kuroto, sesión 145",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "145-005",
+      "titulo": "Templo del oeste sobre la tormenta",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Consiguen permiso en el puerto de Sho y navegan hacia una isla montañosa. Suben sobre las nubes hasta el templo azul y blanco del tigre del oeste. Kurobane guía por su visita anterior con Gucón y Coratari. Las placas activan rayos entre estatuas: Banzo recibe descargas al intentar pasar, mientras los demás utilizan agacharse, volar o saltar. No muere ningún viajero en el acceso.",
+      "inicio": "01:06:00.720",
+      "fin": "01:36:01.709",
+      "cita": "llegáis a subir más arriba de las nubes",
+      "entidades": [
+        "Banzo",
+        "Kurobane",
+        "Guxi",
+        "Serafina Hop (grafía provisional)",
+        "Templo de Biaco (oeste)"
+      ],
+      "ambito": "Kuroto, sesión 145",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "145-006",
+      "titulo": "Ofrendas sin respuesta y un mecanismo olvidado",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Banzo propone dejar armas en la entrada y ofrecer una flor que crece con los rayos. Las oraciones y las búsquedas de un ritual no producen respuesta. Kurobane toca un rayo con su estoque y recibe una descarga, sin ganar bendición permanente. Sirth señala el aparato del altar: dos piezas, tigre y rayo, circulan por raíles entre centro y puntos cardinales. Los libros solo repiten tigre blanco, rayo y oeste.",
+      "inicio": "01:35:02.480",
+      "fin": "02:01:00.750",
+      "cita": "¿vale? Y hay una especie de como aparato",
+      "entidades": [
+        "Banzo",
+        "Kurobane",
+        "Sirth (grafía provisional)",
+        "Guxi",
+        "Serafina Hop (grafía provisional)",
+        "Mecanismo del altar de Biaco",
+        "Flor de rayo ofrecida a Biaco",
+        "Templo de Biaco (oeste)"
+      ],
+      "ambito": "Kuroto, sesión 145",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "145-007",
+      "titulo": "Biaco recibe la llamada",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Tras varios intentos, el tigre queda en el centro y Banzo pone el rayo en el oeste: una gran descarga hace aparecer a Biaco. El guardián recuerda los errores de los cazadores, insiste en que la cúpula rota no puede restaurarse y no echa de menos la esfera retirada. Afirma que las esferas no dañarán templos ni guardianes y reclama que dejen de exigirle respuestas o favores. Sus declaraciones no muestran una cúpula reparada.",
+      "inicio": "02:00:00.560",
+      "fin": "02:16:00.109",
+      "cita": "el oeste el rayo",
+      "entidades": [
+        "Banzo",
+        "Kurobane",
+        "Biaco (grafía provisional)",
+        "Mecanismo del altar de Biaco",
+        "Esferas elementales de Kuroto",
+        "Cúpula protectora de Kuroto"
+      ],
+      "ambito": "Kuroto, sesión 145",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "145-008",
+      "titulo": "La esencia de Gucón no se transfiere",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Kurobane pide ver al dragón y controlar su sombra, recordando una misión especial pendiente. Biaco le dice que no es elegido, que la esencia de Gucón sigue siendo suya y no se puede transferir. Después, entre reproches a las nuevas peticiones, envía al grupo con rayos a una sala dorada ante el dragón. No entrega aquella esencia a Kurobane.",
+      "inicio": "02:15:00.719",
+      "fin": "02:25:04.190",
+      "cita": "No va a poder ser transferida. Creo que",
+      "entidades": [
+        "Kurobane",
+        "Biaco (grafía provisional)",
+        "Gucón (grafía provisional)",
+        "Dragón de la esencia de Kuroto"
+      ],
+      "ambito": "Kuroto, sesión 145",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "145-009",
+      "titulo": "Lo que contienen las esferas",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "El dragón describe las esferas como esencia elemental pura. Solo alguien afín al elemento puede sostenerla y cada persona puede sostener una. Ante la pregunta por reunirlas dice que no sabe qué ocurriría. Banzo entrega una campana con el símbolo de los cazadores como compromiso y el dragón la deja junto a sus libros sin mostrar especial interés.",
+      "inicio": "02:24:05.160",
+      "fin": "02:31:00.590",
+      "cita": "Es esencia elemental pura.",
+      "entidades": [
+        "Dragón de la esencia de Kuroto",
+        "Banzo",
+        "Esferas elementales de Kuroto",
+        "Campana de los cazadores ofrecida al dragón"
+      ],
+      "ambito": "Kuroto, sesión 145",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "145-010",
+      "titulo": "El dragón rechaza plegarias y campeones",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Kurobane ofrece cuerpo y alma y desea ser campeón; el dragón lo encierra brevemente entre los dedos para preguntarle qué protegería su muerte. Lo libera y rechaza tanto el sacrificio vacío como nombrar un campeón. Dice que no es dios: él y los guardianes son esencia de Kuroto y no les importa si la tierra está gobernada por mortales, demonios u otras criaturas. No buscan adoración, perdón o ruegos. Kurobane cambia su discurso a luchar y seguir vivo.",
+      "inicio": "02:30:00.120",
+      "fin": "02:48:01.150",
+      "cita": "la última vez que estuve ante un dios",
+      "entidades": [
+        "Kurobane",
+        "Dragón de la esencia de Kuroto",
+        "Guardianes elementales de Kuroto"
+      ],
+      "ambito": "Kuroto, sesión 145",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "145-011",
+      "titulo": "Una prueba contra cuatro guardianes",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "El dragón desaparece y se materializan cuatro guardianes de rayo, agua, tierra y fuego. Banzo aparta a Kurobane reprochándole arriesgar a los compañeros y luego enfrenta al tigre sin arma propia; recoge un estoque que Kurobane le deja. Sirth utiliza su eco, magia de muerte y protección; Guxi da vida temporal con torretas y Serafina combate con las vendas. El ave de fuego cae ante el hielo de Guxi y renace, de modo que su primera caída no termina la prueba.",
+      "inicio": "02:45:01.560",
+      "fin": "03:15:00.830",
+      "cita": "los cuatro guardianes?",
+      "entidades": [
+        "Banzo",
+        "Kurobane",
+        "Sirth (grafía provisional)",
+        "Guxi",
+        "Serafina Hop (grafía provisional)",
+        "Biaco (grafía provisional)",
+        "Sieru (guardián acuático, grafía provisional)",
+        "Genbu (grafía provisional)",
+        "Guardián fénix de Kuroto",
+        "Guardianes elementales de Kuroto"
+      ],
+      "ambito": "Kuroto, sesión 145",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "145-012",
+      "titulo": "Una furia ancestral gana a costa de Banzo",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Kurobane vuelve a abatir al fénix, pero el aliento helado del dragón de agua lo deja inconsciente. Banzo manifiesta una nueva furia con calor y grandes ancestros, vence al tigre y a Genbu y golpea al último guardián. Sirth se hiere para ayudar a Kurobane y Guxi y Serafina sostienen el combate. Banzo libera finalmente los espíritus contra el guardián acuático: termina su furia, no podrá reactivarla durante diez minutos y cae inconsciente a la vez que cae el enemigo. No han matado permanentemente a los guardianes.",
+      "inicio": "03:15:00.840",
+      "fin": "03:42:02.670",
+      "cita": "espíritus en los brazos también y lo",
+      "entidades": [
+        "Banzo",
+        "Kurobane",
+        "Sirth (grafía provisional)",
+        "Guxi",
+        "Serafina Hop (grafía provisional)",
+        "Biaco (grafía provisional)",
+        "Genbu (grafía provisional)",
+        "Sieru (guardián acuático, grafía provisional)",
+        "Guardián fénix de Kuroto",
+        "Furia ancestral de Banzo"
+      ],
+      "ambito": "Kuroto, sesión 145",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "145-013",
+      "titulo": "Los guardianes se alzan y niegan otra exigencia",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Los cuatro guardianes se levantan totalmente curados y reconocen el crecimiento de fuerza del grupo. Kurobane vuelve a pedir ayuda y saber su misión, pero le dicen que no consiste en una orden suya contra un demonio y que deberá esperar. El combate solo les concede marcharse. Banzo se despierta e intenta detener a Kurobane con un golpe, pero este advierte el movimiento, lo frena antes de recibirlo y acepta irse. No se concede título de campeón ni poder nuevo.",
+      "inicio": "03:39:02.160",
+      "fin": "03:51:00.110",
+      "cita": "totalmente curados. ¿Veis que sus",
+      "entidades": [
+        "Kurobane",
+        "Banzo",
+        "Guardianes elementales de Kuroto"
+      ],
+      "ambito": "Kuroto, sesión 145",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "145-014",
+      "titulo": "Regreso sin reparar la cúpula",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Banzo vuelve a desmayarse por el agotamiento y lo ayudan a transportar. El dragón reaparece y dice que volverán a verse cuando estén listos; los devuelve al templo de Biaco, donde recuperan lo dejado y regresan al barco. El director recalca que han de entender a los guardianes como esencia del lugar, no como dioses obligados a ayudar. No obtienen restauración de la barrera, explicación completa de la misión ni respuesta a lo que sucedería reuniendo esferas.",
+      "inicio": "03:48:02.840",
+      "fin": "03:56:00.990",
+      "cita": "cuando estéis listos.\"",
+      "entidades": [
+        "Banzo",
+        "Kurobane",
+        "Sirth (grafía provisional)",
+        "Guxi",
+        "Serafina Hop (grafía provisional)",
+        "Dragón de la esencia de Kuroto",
+        "Guardianes elementales de Kuroto",
+        "Cúpula protectora de Kuroto"
+      ],
+      "ambito": "Kuroto, sesión 145",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    }
+  ],
+  "historia": {
+    "revisado_hasta": 145,
+    "etapas": [
+      {
+        "titulo": "Una ruptura y una misión compartida",
+        "texto": "La confianza de la sesión anterior se rompe entre encuentros: Serafina se quita el anillo tras una frase de Guxi sobre casarse con su hermanastra, su primer amor sin lazo de sangre. Busca compañía en Kurobane y él se hunde en la bebida. Banzo necesita a ambos para preguntar por las esferas y la cúpula; exige profesionalidad y logra que el artífice posponga abandonar la isla y vuelva a ponerse el collar. Sirth acompaña al grupo y ofrece consuelo. Durante el viaje, Guxi afirma querer a Serafina y Banzo propone asistir a la boda familiar, pero el plan no recibe aún respuesta de ella.",
+        "referencias": [
+          "145-001",
+          "145-002",
+          "145-003",
+          "145-004"
+        ]
+      },
+      {
+        "titulo": "Encontrar la forma de llamar al tigre",
+        "texto": "El permiso portuario permite llegar a una isla que se alza sobre las nubes. Kurobane recuerda el templo del oeste y sus trampas, aunque Banzo recibe dos descargas antes de pasar. Intentan presentar respeto con armas dejadas en la entrada y una flor nacida entre rayos, pero rezos, libros y retos de combate no convocan al guardián. Sirth repara en el aparato del altar: tras los fallos anteriores, tigre en el centro y rayo al oeste hacen aparecer a Biaco. La descarga que Kurobane se provoca con su estoque no le entrega un poder nuevo.",
+        "referencias": [
+          "145-005",
+          "145-006",
+          "145-007"
+        ]
+      },
+      {
+        "titulo": "Respuestas que no son favores",
+        "texto": "Biaco mantiene que la cúpula no puede restaurarse y que la esencia elegida sigue perteneciendo a Gucón, sin poder transferirla a Kurobane. Finalmente los envía al dragón. Este explica que las esferas encierran esencia elemental pura, solo sostenida por alguien afín a cada elemento, y no sabe el resultado de reunirlas. Recibe la campana de los cazadores sin asumir una deuda. Rechaza la pretensión de Kurobane de ser campeón y lo obliga a distinguir luchar por otros de ofrecer una muerte inútil. Él y los guardianes se describen como esencia de Kuroto: no son dioses, no desean adoración y no subordinan su existencia a quién gobierne la isla.",
+        "referencias": [
+          "145-007",
+          "145-008",
+          "145-009",
+          "145-010"
+        ]
+      },
+      {
+        "titulo": "Luchar hasta el agotamiento",
+        "texto": "Los cuatro guardianes se materializan y comienza una prueba real. Guxi protege con torretas, Sirth combina eco y magia de muerte, Serafina golpea y retrocede y Kurobane entrega un estoque a Banzo. El fénix cae y renace antes de ser abatido otra vez. El aliento acuático deja a Kurobane inconsciente; Banzo estrena una furia de ancestros y calor que le permite continuar contra tigre, tortuga y dragón. Sirth ayuda a levantar al caído. Al liberar los espíritus para rematar al último enemigo, Banzo pierde la furia y se desploma con él. Es una victoria de la prueba, no la muerte definitiva de los seres elementales.",
+        "referencias": [
+          "145-011",
+          "145-012"
+        ]
+      },
+      {
+        "titulo": "Aprender a marcharse",
+        "texto": "Los guardianes se levantan sanos y admiten que el grupo gana fuerza, pero no conceden otra súplica ni explican la misión futura de Kurobane. Él vuelve a tensarse; Banzo intenta golpearlo para detenerlo, pero el joven advierte el gesto y acepta retirarse sin ser derribado. El líder vuelve a caer agotado y deben cargarlo. El dragón los devuelve al templo anunciando otro encuentro cuando estén preparados. Regresan al barco con más información sobre la naturaleza de las esferas y sus interlocutores, sin reparar la cúpula, recuperar una bendición o conseguir un nuevo campeón.",
+        "referencias": [
+          "145-013",
+          "145-014"
+        ]
+      }
+    ]
+  },
+  "misiones": [
+    "Investigar afinidades y uso de las esferas sin confundirlas con las esencias de los elegidos.",
+    "Comprender la relación de los guardianes con Kuroto y esperar la misión de Kurobane.",
+    "Decidir el futuro de Guxi entre los cazadores después de la ruptura."
+  ],
+  "preguntas": [
+    "¿Qué ocurriría al reunir las esferas y quién pretende hacerlo?",
+    "¿Cuál es la misión especial de Kurobane y cuándo estará listo para conocerla?",
+    "¿Qué hará Guxi tras la misión y podrán él y Serafina resolver la ruptura?",
+    "¿Qué comprensión o actos esperan los guardianes antes de otro encuentro?",
+    "¿Cómo afecta a Banzo el poder ancestral y su agotamiento?"
+  ],
+  "nombres_dudosos": [
+    "Biaco/Biaku/Viaco y Sieru: variantes de ASR, conservar roles y elementos.",
+    "La hermanastra de Guxi no comparte sangre y no recibe nombre; no identificarla con otra mujer por su rol.",
+    "El señor dragón rechaza explícitamente ser dios, aunque personajes sigan llamándolo así.",
+    "Osuray comparte identidad con Kurobane según revisión entre bloques; los cambios de ojos y sombra no crean una persona nueva independiente."
+  ],
+  "contradicciones": [
+    "La ruptura cambia de nuevo la situación sentimental: no usar la confirmación del compromiso en144 como estado vigente después de145.",
+    "La renuncia de Guxi queda aplazada y el collar vuelve a su cuello. No ha abandonado los cazadores al final.",
+    "El retorno plenamente curado de los guardianes impide describirlos como muertos definitivos.",
+    "Las esferas elementales y la esencia de elegido de Gucón son asuntos distintos; no presentar una transferencia autorizada.",
+    "El dragón no conoce el resultado de reunir esferas; no fabricar propósito, ritual o catástrofe concreta.",
+    "Banzo intenta un golpe para contener a Kurobane, pero este lo intercepta: no inventar pérdida de conocimiento causada por ese golpe.",
+    "El combate no restaura cúpula, no concede nueva bendición y no revela la misión especial."
+  ]
+}

@@ -1,0 +1,17 @@
+/* Display families are local; reading paragraphs retain their existing fonts. */
+:root { --font-display:'Cinzel',Georgia,serif; --font-display-weight:600; }
+body[data-view="world"] { --font-display:'Cinzel',Georgia,serif; --font-display-weight:600; }
+body[data-campaign="xoltacan"][data-view="campaign"],.world-campaign-xoltacan { --font-display:'Macondo',Georgia,serif; --font-display-weight:400; }
+body[data-campaign="kuroto"][data-view="campaign"],.world-campaign-kuroto { --font-display:'Kaisei Tokumin',Georgia,serif; --font-display-weight:700; }
+body[data-view] :is(.hero-title,.world-hero h1,.campaign-card-body h2,.section-head h1,.section-head h2,.card-title,.story-heading h2,.story-prose h3,.document h1,.document h2,.document h3) { font-family:var(--font-display); font-weight:var(--font-display-weight); font-style:normal; letter-spacing:0; line-height:1.25; font-synthesis:none; }
+body[data-view] #page-title { font-family:var(--font-display); font-weight:var(--font-display-weight); letter-spacing:0; }
+body[data-view="campaign"][data-campaign] .nav-links a { font-family:var(--font-display); font-weight:var(--font-display-weight); font-size:15px; line-height:1.6; }
+body[data-campaign="xoltacan"][data-view="campaign"] .nav-links a { font-size:17px; }
+body[data-view] .brand-name { font-family:'Cinzel',Georgia,serif; font-size:26px; font-weight:600; letter-spacing:-.5px; line-height:1.3; }
+body[data-view="campaign"][data-campaign] .hero-title { line-height:1.18; }
+body[data-view] .campaign-card-body h2 { line-height:1.2; }
+@media(max-width:650px) {
+  body[data-view="world"] .world-hero h1 { font-size:clamp(36px,10vw,58px); }
+  body[data-view="campaign"][data-campaign] .hero-title { font-size:37px; }
+  body[data-view] .card-title { font-size:24px; }
+}

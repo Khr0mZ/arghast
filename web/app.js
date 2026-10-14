@@ -2,7 +2,7 @@
   'use strict';
   const archive = JSON.parse(document.getElementById('xoltacan-data').textContent);
   const campaignMetadata=archive.campaignMetadata||{xoltacan:{id:'xoltacan',name:'Xoltacan',tagline:'Entre la selva y el mar'}};
-  const requestedCampaign=new URLSearchParams(location.search).get('campana');
+  const requestedCampaign=new URLSearchParams(location.search).get('campana')||(location.pathname.endsWith('/kuroto.html')?'kuroto':null);
   const campaignId=Object.hasOwn(campaignMetadata,requestedCampaign)?requestedCampaign:'xoltacan';
   const campaign=campaignMetadata[campaignId];
   const data = campaignId==='xoltacan'?archive:archive.campaigns[campaignId];
@@ -15,11 +15,16 @@
   const chapters = new Map(data.chapters.map(c => [c.capitulo, c]));
   const entities = new Map(data.entities.map(e => [e.name, e]));
   const entityAliases = new Map(data.entities.flatMap(e=>e.aliases.map(label=>[label,e])));
+  const sections={inicio:'Portada',capitulos:'Crónicas',cronologia:'Acontecimientos',personajes:'Personajes',atlas:'Lugares',facciones:'Facciones',objetos:'Vestigios',misiones:'Misiones',misterios:'Misterios y desenlaces',relaciones:'Relaciones',metodo:'Fuentes y método',nombres:'Nombres y equivalencias'};
+  document.querySelectorAll('#sidebar .nav-links a').forEach(link=>{
+    const label=sections[link.hash.slice(1)];
+    if(label)link.replaceChildren(link.querySelector('.nav-symbol'),document.createTextNode(label));
+  });
   const categories = {
-    personaje:{route:'personajes',title:'Personajes',copy:'Protagonistas, habitantes y criaturas, con sus apariciones y evolución.',search:'Buscar un personaje'},
-    lugar:{route:'atlas',title:'Lugares',copy:'Ciudades, regiones, ruinas y establecimientos documentados.',search:'Buscar un lugar',document:'atlas',overview:'Contexto geográfico y rutas'},
-    faccion:{route:'facciones',title:'Facciones',copy:'Organizaciones, tribus y autoridades, con sus intereses y conflictos.',search:'Buscar una facción',document:'facciones',overview:'Contexto político y conflictos'},
-    objeto:{route:'objetos',title:'Objetos',copy:'Armas, artefactos, embarcaciones y otros objetos documentados.',search:'Buscar un objeto'}
+    personaje:{route:'personajes',title:sections.personajes,copy:'Protagonistas, habitantes y criaturas, con sus apariciones y evolución.',search:'Buscar un personaje'},
+    lugar:{route:'atlas',title:sections.atlas,copy:'Ciudades, regiones, ruinas y establecimientos documentados.',search:'Buscar un lugar',document:'atlas',overview:'Contexto geográfico y rutas'},
+    faccion:{route:'facciones',title:sections.facciones,copy:'Organizaciones, tribus y autoridades, con sus intereses y conflictos.',search:'Buscar una facción',document:'facciones',overview:'Contexto político y conflictos'},
+    objeto:{route:'objetos',title:sections.objetos,copy:'Armas, artefactos, embarcaciones y otros objetos con historia.',search:'Buscar un vestigio'}
   };
   const labels = {hecho_confirmado:'Acción confirmada',declaracion_personaje:'Declaración',explicacion_director:'Dirección',especulacion_jugadores:'Teoría',desconocido:'Sin confirmar'};
   const classes = {hecho_confirmado:'confirmed',declaracion_personaje:'statement',explicacion_director:'director',especulacion_jugadores:'speculation',desconocido:'speculation'};
@@ -73,21 +78,15 @@
     return url.href;
   }
   function worldHome() {
-    heading('Elige tu próxima crónica','Arghast · Archivo de campañas');
+    heading('Campañas','Arghast');
     document.title='Arghast · Archivo de campañas';
-    content.innerHTML=`<section class="world-hero"><p class="eyebrow">Las crónicas de un mundo</p><div class="world-compass" aria-hidden="true">✧</div><h1>Arghast</h1><p>Dos campañas. Sus propias aventuras.<br>Elige qué historia quieres explorar.</p></section><div class="world-campaigns">${Object.values(campaignMetadata).map(meta=>{const dataset=meta.id==='xoltacan'?archive:archive.campaigns[meta.id];const reviewed=dataset.chapters.filter(c=>c.estado==='revisado').length;return `<a class="world-campaign world-campaign-${meta.id}" href="${esc(campaignURL(meta.id))}"><div class="campaign-landscape" aria-hidden="true">${meta.id==='kuroto'?'<svg viewBox="0 0 600 260" preserveAspectRatio="xMidYMid slice"><circle cx="426" cy="76" r="45" fill="#bd745d"/><path d="m0 260 140-108 65 39 110-140 100 132 70-54 115 90v41Z" fill="#243e3e"/><path d="m247 137 68-86 64 84-38-15-23 20-25-20Z" fill="#c9c5ae"/><path d="M62 260V40m-18 5h38M49 70h27m-27 32h27m-14 35L25 98m37 77 43-49M540 260V12m-18 34h39m-38 43h38m-21 57-34-45m34 102 46-65" fill="none" stroke="#8f9d7e" stroke-width="5" opacity=".7"/></svg>':''}</div><div class="campaign-card-body"><span class="eyebrow">${esc(meta.setting)}</span><h2>${esc(meta.name)}</h2><p>${esc(meta.description)}</p><div class="campaign-progress"><span>${dataset.chapters.length} vídeos catalogados</span><span>${reviewed} capítulos revisados</span></div><span class="campaign-enter">Explorar ${esc(meta.name)} <span aria-hidden="true">→</span></span></div></a>`;}).join('')}</div><p class="archive-note">Cada campaña conserva su propio archivo. Las búsquedas, las fichas y los capítulos pertenecen siempre a la campaña que elijas.</p>`;
+    const worlds=Object.values(campaignMetadata).map(meta=>meta.id==='xoltacan'?archive:archive.campaigns[meta.id]);
+    const worldChapters=worlds.reduce((total,dataset)=>total+dataset.chapters.length,0);
+    content.innerHTML=`<section class="world-hero"><h1>Arghast</h1><p>Selecciona una campaña.</p><div class="world-summary" aria-label="Contenido del archivo"><span><strong>${worlds.length}</strong> campañas</span><span><strong>${worldChapters}</strong> crónicas</span></div></section><div class="world-campaigns">${Object.values(campaignMetadata).map(meta=>{const dataset=meta.id==='xoltacan'?archive:archive.campaigns[meta.id];const reviewed=dataset.chapters.filter(c=>c.estado==='revisado').length;return `<a class="world-campaign world-campaign-${meta.id}" href="${esc(campaignURL(meta.id))}"><div class="campaign-landscape" aria-hidden="true"></div><div class="campaign-card-body"><span class="eyebrow">${esc(meta.setting)}</span><h2>${esc(meta.name)}</h2><div class="campaign-progress"><span>${reviewed} crónicas revisadas</span></div><span class="campaign-enter">Explorar ${esc(meta.name)} <span aria-hidden="true">→</span></span></div></a>`;}).join('')}</div>`;
   }
   function pendingSection(title,copy) {
     heading(title,campaign.name+' · Archivo en preparación');
-    content.innerHTML=`<div class="section-head"><div><p class="eyebrow">${esc(campaign.name)}</p><h1>${esc(title)}</h1></div></div><div class="empty pending-content"><h2>Esta parte de la crónica está por escribir</h2><p>${esc(copy||'El catálogo está incorporado. Falta recuperar y revisar las transcripciones antes de redactar fichas y relatos con evidencias.')}</p><a class="primary-button" href="#capitulos">Explorar los capítulos →</a></div>`;
-  }
-  function kurotoHome() {
-    heading('El archivo de Kuroto','Arghast · Kuroto');
-    const available=data.chapters.filter(chapter=>chapter.transcripcion_disponible).length;
-    const progress=reviewedCount<data.chapters.length?`<div class="campaign-status"><span class="eyebrow">Progreso del archivo</span><h2>La crónica, página a página.</h2><p>${available} de ${data.chapters.length} transcripciones disponibles. ${reviewedCount} ${reviewedCount===1?'sesión revisada':'sesiones revisadas'}; ${data.chapters.length-reviewedCount} pendientes de lectura editorial. Los relatos publicados indican hasta qué capítulo llegan.</p></div>`:'';
-    const latestReviewed=data.chapters.filter(chapter=>chapter.estado==='revisado').at(-1);
-    const opening=latestReviewed?`<section class="section-head"><div><p class="eyebrow">Última sesión revisada · Capítulo ${latestReviewed.capitulo}</p><h2>${esc(latestReviewed.titulo)}</h2><p>${esc(short(latestReviewed.resumen,420))}</p><a class="primary-button" href="#capitulo/${latestReviewed.capitulo}">Leer el relato →</a></div></section><div class="expedition-links"><a class="expedition-link" href="#personajes">${crest('personaje')}<div><strong>Los protagonistas</strong><small>Sus historias en Kuroto</small></div><span aria-hidden="true">↗</span></a><a class="expedition-link" href="#atlas">${crest('lugar')}<div><strong>Entre la niebla</strong><small>Lugares y acontecimientos</small></div><span aria-hidden="true">↗</span></a><a class="expedition-link" href="#objetos">${crest('objeto')}<div><strong>Los vestigios</strong><small>Objetos con historia</small></div><span aria-hidden="true">↗</span></a></div>`:'';
-    content.innerHTML=`<section class="hero kuroto-hero"><div><p class="eyebrow">Aventuras en Kuroto · Lichpol</p><h1 class="hero-title">Tras el velo<br>de <em>Kuroto.</em></h1><p class="hero-copy">Otra campaña del mundo de Arghast. Recorre su catálogo y consulta sus fuentes, en una ambientación de inspiración japonesa.</p><div class="hero-actions"><a class="primary-button" href="#capitulos">Abrir las crónicas →</a><a class="secondary-button" href="${esc(data.catalog.playlist_url)}" target="_blank" rel="noopener noreferrer">Lista oficial ↗</a></div></div><div class="kuroto-seal" aria-hidden="true">KU<br>RO<br>TO</div></section><div class="stat-grid"><a class="stat" href="#capitulos"><strong>${data.chapters.length}</strong><span>Vídeos catalogados</span></a><a class="stat" href="#capitulos"><strong>${reviewedCount}</strong><span>Capítulos revisados</span></a><a class="stat" href="#capitulos"><strong>${available}</strong><span>Transcripciones disponibles</span></a><a class="stat" href="#capitulos"><strong>${data.catalog.capitulos_ausentes.length}</strong><span>Capítulo por localizar</span></a></div>${progress}${opening}<div class="expedition-links"><a class="expedition-link" href="#capitulos">${crest('objeto')}<div><strong>Las sesiones</strong><small>Del capítulo 1 al 182</small></div><span aria-hidden="true">↗</span></a><a class="expedition-link" href="#metodo">${crest('faccion')}<div><strong>El archivo</strong><small>Fuentes y progreso</small></div><span aria-hidden="true">↗</span></a><a class="expedition-link" href="#campanas">${crest('lugar')}<div><strong>Arghast</strong><small>Elegir otra campaña</small></div><span aria-hidden="true">↗</span></a></div>`;
+    content.innerHTML=`<div class="section-head"><div><p class="eyebrow">${esc(campaign.name)}</p><h1>${esc(title)}</h1></div></div><div class="empty pending-content"><h2>Contenido pendiente de revisión</h2><p>${esc(copy||'El catálogo está incorporado. Falta recuperar y revisar las transcripciones antes de redactar fichas y relatos con evidencias.')}</p><a class="primary-button" href="#capitulos">Explorar los capítulos →</a></div>`;
   }
   function event(f,detail=false) {
     return `<article class="event" id="fact-${esc(f.id)}"><div class="event-time"><strong>${String(f.capitulo).padStart(2,'0')}</strong><small>${clock(f.inicio)}</small></div><div class="event-body"><div class="card-meta">${badge(f)}<span>${esc(f.id)}</span></div><h3><a href="#registro/${f.id}">${esc(f.titulo)}</a></h3><p>${esc(detail?f.afirmacion:short(f.afirmacion,300))}</p>${detail?`<div class="evidence"><span class="eyebrow">Cita literal de los subtítulos</span><blockquote class="quote">${esc(f.cita)}</blockquote><a class="source-link" href="${sourceURL(f)}" target="_blank" rel="noopener noreferrer">Ver en YouTube · ${clock(f.evidencia_cue?.inicio || f.inicio)} ${icons.arrow}</a></div>${f.limitacion?`<p class="limitations"><strong>Alcance de la evidencia.</strong> ${esc(f.limitacion)}</p>`:''}<div class="chips">${f.entidades.map(chip).join('')}</div>`:`<a class="source-link" href="#registro/${f.id}">Consultar evidencia ${icons.arrow}</a>`}</div></article>`;
@@ -109,7 +108,7 @@
     return `<span class="card-crest" aria-hidden="true"><svg viewBox="0 0 32 32">${paths[type]||paths.personaje}</svg></span>`;
   }
   function entityType(name) {
-    return {personaje:'Personajes',lugar:'Lugares',faccion:'Facciones',objeto:'Objetos'}[entities.get(name)?.type] || 'Referencia del pasaje';
+    return categories[entities.get(name)?.type]?.title || 'Referencia del pasaje';
   }
   function filters() {
     return `<div class="filters"><label>Capítulo<select class="filter-select" data-filter="chapter"><option value="">Todos los capítulos</option>${data.chapters.map(c=>`<option value="${c.capitulo}" ${String(c.capitulo)===state.chapter?'selected':''}>${String(c.capitulo).padStart(2,'0')} · ${esc(short(c.titulo,45))}</option>`).join('')}</select></label><label>Evidencia<select class="filter-select" data-filter="kind"><option value="">Todos los tipos</option>${Object.entries(labels).map(([key,label])=>`<option value="${key}" ${state.kind===key?'selected':''}>${label}</option>`).join('')}</select></label><button class="secondary-button" data-reset>Restablecer</button></div>`;
@@ -121,17 +120,38 @@
     const empty='<div class="empty"><h3>No hay resultados</h3><p>Prueba otra grafía del nombre o quita algún filtro. Una búsqueda vacía no prueba que el dato falte en la campaña.</p></div>';
     return `<div class="toolbar"><span class="count">${list.length} ${list.length===1?'resultado':'resultados'}</span>${list.length?`<span>Mostrando ${start+1}–${Math.min(start+size,list.length)}</span>`:''}</div><div class="${render===entityCard?'grid':'list'}">${list.length?list.slice(start,start+size).map(f=>render(f)).join(''):empty}</div>${count>1?`<nav class="pagination" aria-label="Paginación"><button class="secondary-button" data-page="${state.page-1}" ${state.page===1?'disabled':''}>← Anterior</button><span>Página ${state.page} de ${count}</span><button class="secondary-button" data-page="${state.page+1}" ${state.page===count?'disabled':''}>Siguiente →</button></nav>`:''}`;
   }
+  function homeActions() {
+    return `<div class="hero-actions"><a class="primary-button" href="#capitulos">Abrir las crónicas <span aria-hidden="true">→</span></a><a class="secondary-button" href="#misterios">Seguir los misterios</a></div>`;
+  }
+  function campaignHero() {
+    const kuroto=campaignId==='kuroto';
+    const title=esc(campaign.name);
+    const copy='Crónicas y transcripciones de la partida.';
+    const landscape='<div class="hero-art" role="img" aria-label="Portada de '+esc(campaign.name)+'"></div>';
+    return `<section class="hero${kuroto?' kuroto-hero':''}"><div><h1 class="hero-title">${title}</h1><p class="hero-copy">${copy}</p>${homeActions()}</div>${landscape}</section>`;
+  }
+  function homeStats() {
+    const items=[['capitulos',data.chapters.length],['cronologia',data.facts.length],['personajes',data.entities.filter(e=>e.type==='personaje').length],['atlas',data.entities.filter(e=>e.type==='lugar').length]];
+    return `<div class="stat-grid">${items.map(([route,count])=>`<a class="stat" href="#${route}"><strong>${count}</strong><span>${sections[route]}</span></a>`).join('')}</div>`;
+  }
+  function homeShortcuts() {
+    const items=[...Object.entries(categories).map(([type,category])=>({route:category.route,type,copy:{personaje:'Sus historias y caminos',lugar:'Escenarios de la aventura',faccion:'Alianzas, poderes y conflictos',objeto:'Objetos con historia'}[type]})),{route:'misiones',type:'objeto',copy:'Objetivos y consecuencias'},{route:'relaciones',type:'faccion',copy:'Los vínculos de la campaña'}];
+    return `<nav class="expedition-links" aria-label="Explorar la campaña">${items.map(item=>`<a class="expedition-link" href="#${item.route}">${crest(item.type)}<div><strong>${sections[item.route]}</strong></div><span aria-hidden="true">↗</span></a>`).join('')}</nav>`;
+  }
   function home() {
-    if(campaignId==='kuroto')return kurotoHome();
-    heading('La memoria de Xoltacan','Archivo de campaña');
-    content.innerHTML=`<section class="hero"><div><p class="eyebrow">Aventuras en Xoltacan · Lichpol</p><h1 class="hero-title">Adéntrate en<br>la <em>memoria de la isla.</em></h1><p class="hero-copy">Entre la selva y el mar, cada historia deja un rastro. Explora los personajes, lugares y secretos de Xoltacan, con sus capítulos, minutos y evidencias.</p><div class="hero-actions"><a class="primary-button" href="#cronologia">Explorar la cronología <span>→</span></a><a class="secondary-button" href="#misterios">Seguir los misterios</a></div></div><div class="hero-art" aria-hidden="true"></div><div class="hero-caption" aria-hidden="true">Cuaderno de exploración<span>Xoltacan · Isla selvática</span></div></section><div class="stat-grid"><a class="stat" href="#capitulos"><strong>${data.chapters.length}</strong><span>Capítulos documentados</span></a><a class="stat" href="#cronologia"><strong>${data.facts.length}</strong><span>Registros con evidencia</span></a><a class="stat" href="#personajes"><strong>${data.entities.filter(e=>e.type==='personaje').length}</strong><span>Personajes documentados</span></a><a class="stat" href="#misterios"><strong>${(data.seguimiento?.estados.pendiente||0)+(data.seguimiento?.estados.parcial||0)}</strong><span>Preguntas pendientes</span></a></div><nav class="expedition-links" aria-label="Explorar Xoltacan"><a class="expedition-link" href="#atlas"><svg viewBox="0 0 32 32" aria-hidden="true"><path d="m4 8 8-3 9 3 7-3v21l-7 3-9-3-8 3Zm8-3v21M21 8v21M15 17c0-5 5-8 9-8 0 6-4 10-9 8Zm0 0 6-5"/></svg><div><strong>La isla</strong><small>Lugares y rutas</small></div><span aria-hidden="true">↗</span></a><a class="expedition-link" href="#personajes"><svg viewBox="0 0 32 32" aria-hidden="true"><circle cx="16" cy="10" r="5"/><path d="M6 28v-4c0-5 4-8 10-8s10 3 10 8v4M3 28h26"/></svg><div><strong>Sus habitantes</strong><small>Personajes y criaturas</small></div><span aria-hidden="true">↗</span></a><a class="expedition-link" href="#capitulos"><svg viewBox="0 0 32 32" aria-hidden="true"><path d="M16 8C12 5 7 5 3 7v20c4-2 9-2 13 1 4-3 9-3 13-1V7c-4-2-9-2-13 1Zm0 0v20M7 12h5m-5 5h5m8-5h5m-5 5h5"/></svg><div><strong>Las crónicas</strong><small>La aventura, sesión a sesión</small></div><span aria-hidden="true">↗</span></a></nav><section><div class="section-head"><div><p class="eyebrow">Último capítulo del catálogo</p><h2>${esc(chapters.get(data.chapters.at(-1).capitulo).titulo)}</h2></div><a href="#capitulo/${data.chapters.at(-1).capitulo}">Leer capítulo →</a></div>${data.facts.filter(f=>f.capitulo===data.chapters.at(-1).capitulo).slice(-3).map(f=>event(f)).join('')}</section><p class="archive-note">Crónica objetiva basada en subtítulos automáticos. Las declaraciones y teorías conservan su atribución; los nombres dudosos siguen señalados. <a href="#metodo">Consultar el método →</a></p>`;
+    heading(sections.inicio,'Arghast · '+campaign.name);
+    const available=data.chapters.filter(chapter=>chapter.transcripcion_disponible||data.transcriptFiles?.[String(chapter.capitulo)]||data.transcripts[String(chapter.capitulo)]?.length).length;
+    const progress=reviewedCount<data.chapters.length?`<div class="campaign-status"><span class="eyebrow">Progreso del archivo</span><h2>Revisión pendiente</h2><p>${available} de ${data.chapters.length} transcripciones disponibles. ${reviewedCount} sesiones revisadas; ${data.chapters.length-reviewedCount} pendientes de lectura editorial.</p></div>`:'';
+    const latest=data.chapters.filter(chapter=>chapter.estado==='revisado').at(-1);
+    const latestStory=latest?`<section class="home-latest"><div class="section-head"><div><p class="eyebrow">Última crónica · ${chapterName(latest.capitulo)}</p><h2>${esc(latest.titulo)}</h2><p>${esc(short(latest.resumen,420))}</p></div><a class="primary-button" href="#capitulo/${latest.capitulo}">Leer el relato →</a></div></section>`:'';
+    content.innerHTML=campaignHero()+homeStats()+progress+homeShortcuts()+latestStory+`<nav class="hero-actions archive-actions" aria-label="Consultar el archivo"><a class="secondary-button" href="#metodo">${sections.metodo}</a><a class="secondary-button" href="#campanas">Elegir campaña</a></nav>`;
   }
   function chapterList() {
-    heading('Los capítulos',campaign.name+' · Episodios');
+    heading(sections.capitulos,campaign.name+' · Sesión a sesión');
     const terms=fold(state.chapterQuery).trim().split(/\s+/).filter(Boolean);
     const list=data.chapters.filter(c=>terms.every(term=>fold(c.capitulo+' '+c.titulo).includes(term)));
     const gap=data.catalog?.capitulos_ausentes||[];
-    content.innerHTML=`<div class="section-head"><div><p class="eyebrow">${esc(campaign.name)} · Sesión a sesión</p><h1>Los capítulos</h1><p>${data.chapters.length} vídeos catalogados · ${reviewedCount} capítulos revisados.</p></div></div>${gap.length?`<p class="notice">El capítulo ${gap.join(', ')} no figura en la lista consultada. Conservamos la numeración original, sin rellenar ese hueco.</p>`:''}<div class="filters"><label>Buscar un capítulo<input id="chapter-search" type="search" value="${esc(state.chapterQuery)}" placeholder="Número o título…"></label></div><div class="grid chapter-grid">${list.map(c=>`<a class="card chapter-card" href="#capitulo/${c.capitulo}"><span class="card-crest" aria-hidden="true">${String(c.capitulo).padStart(2,'0')}</span><span class="card-tag">${chapterName(c.capitulo)}${c.duracion?' · '+clock(c.duracion):''}</span><h2 class="card-title">${esc(c.titulo)}</h2><p class="card-copy">${esc(c.resumen?short(c.resumen,190):c.transcripcion_disponible?'Transcripción incorporada. Lectura y relato pendientes.':'Vídeo localizado. Transcripción y relato pendientes.')}</p><div class="card-meta"><span>${c.registros.length} registros</span><span>${c.estado==='revisado'?'Revisado':'Pendiente de revisión'} ${icons.arrow}</span></div></a>`).join('')||'<div class="empty">No hay capítulos que coincidan con esta búsqueda.</div>'}</div>`;
+    content.innerHTML=`<div class="section-head"><div><p class="eyebrow">${esc(campaign.name)} · Sesión a sesión</p><h1>${sections.capitulos}</h1><p>${data.chapters.length} vídeos catalogados · ${reviewedCount} capítulos revisados.</p></div></div>${gap.length?`<p class="notice">El capítulo ${gap.join(', ')} no figura en la lista consultada. Conservamos la numeración original, sin rellenar ese hueco.</p>`:''}<div class="filters"><label>Buscar un capítulo<input id="chapter-search" type="search" value="${esc(state.chapterQuery)}" placeholder="Número o título…"></label></div><div class="grid chapter-grid">${list.map(c=>`<a class="card chapter-card" href="#capitulo/${c.capitulo}"><span class="card-crest" aria-hidden="true">${String(c.capitulo).padStart(2,'0')}</span><span class="card-tag">${chapterName(c.capitulo)}${c.duracion?' · '+clock(c.duracion):''}</span><h2 class="card-title">${esc(c.titulo)}</h2><p class="card-copy">${esc(c.resumen?short(c.resumen,190):c.transcripcion_disponible?'Transcripción incorporada. Lectura y relato pendientes.':'Vídeo localizado. Transcripción y relato pendientes.')}</p><div class="card-meta"><span>${c.registros.length} registros</span><span>${c.estado==='revisado'?'Revisado':'Pendiente de revisión'} ${icons.arrow}</span></div></a>`).join('')||'<div class="empty">No hay capítulos que coincidan con esta búsqueda.</div>'}</div>`;
   }
   function chapterView(n) {
     const c=chapters.get(n); if(!c)return missing();
@@ -145,7 +165,7 @@
     else body=`<div class="document"><p class="limitations">${state.tab==='preguntas'?'Estas preguntas describen lo desconocido en este capítulo. Consulta los misterios actuales para ver respuestas posteriores.':'Información y cautelas conservadas en la revisión del capítulo.'}</p><ul>${(c[state.tab] || []).map(line=>`<li>${inline(line)}</li>`).join('') || '<li>Sin entradas en esta sección.</li>'}</ul></div>`;
     const sourceNotes=[...(c.nombres||[]),...(c.contradicciones||[])];
     const notes=sourceNotes.length?`<details class="context-details"><summary>Notas sobre las fuentes de este capítulo</summary><div class="document"><ul>${sourceNotes.map(text=>`<li>${inline(text)}</li>`).join('')}</ul></div></details>`:'';
-    content.innerHTML=`<div class="section-head"><div><p class="eyebrow">${chapterName(n)} · ${c.registros.length} registros</p><h1>${esc(c.titulo)}</h1></div><a class="secondary-button" href="${esc(c.url)}" target="_blank" rel="noopener noreferrer">Abrir episodio ↗</a></div><nav class="detail-tabs" aria-label="Secciones del capítulo">${Object.entries(tabs).map(([key,label])=>`<button data-tab="${key}" class="${state.tab===key?'active':''}" aria-pressed="${state.tab===key}">${label}</button>`).join('')}</nav>${body}${notes}<nav class="chapter-nav">${chapters.has(n-1)?`<a href="#capitulo/${n-1}">← ${chapterName(n-1)}</a>`:'<span></span>'}<a href="#capitulos">Todos los capítulos</a>${chapters.has(n+1)?`<a href="#capitulo/${n+1}">${chapterName(n+1)} →</a>`:'<span></span>'}</nav>`;
+    content.innerHTML=`<div class="section-head"><div><p class="eyebrow">${chapterName(n)} · ${c.registros.length} registros</p><h1>${esc(c.titulo)}</h1></div><a class="secondary-button" href="${esc(c.url)}" target="_blank" rel="noopener noreferrer">Abrir episodio ↗</a></div><nav class="detail-tabs" aria-label="Secciones del capítulo">${Object.entries(tabs).map(([key,label])=>`<button data-tab="${key}" class="${state.tab===key?'active':''}" aria-pressed="${state.tab===key}">${label}</button>`).join('')}</nav>${body}${notes}<nav class="chapter-nav">${chapters.has(n-1)?`<a href="#capitulo/${n-1}">← ${chapterName(n-1)}</a>`:'<span></span>'}<a href="#capitulos">Volver a las crónicas</a>${chapters.has(n+1)?`<a href="#capitulo/${n+1}">${chapterName(n+1)} →</a>`:'<span></span>'}</nav>`;
   }
   function transcriptView(n) {
     const all=data.transcripts[String(n)] || [];
@@ -154,7 +174,9 @@
     if(!all.length)return '<div class="empty"><h2>Transcripción pendiente</h2><p>El vídeo está localizado, pero su transcripción todavía no se ha incorporado. Puedes abrir el episodio desde su ficha.</p></div>';
     const terms=fold(state.transcriptQuery).trim().split(/\s+/).filter(Boolean);
     const rows=all.filter(row=>terms.every(term=>fold(row[1]).includes(term)));
-    return `<p class="limitations">Lectura derivada de subtítulos automáticos, con texto original de cada segmento. El reconocimiento puede contener errores; no se identifican hablantes automáticamente.</p><div class="filters"><label class="transcript-search">Buscar en esta transcripción<input type="search" id="transcript-search" value="${esc(state.transcriptQuery)}" placeholder="Una palabra o un nombre…"></label></div><div class="toolbar"><span>${rows.length} segmentos · se muestran ${Math.min(rows.length,state.transcriptLimit)}</span></div><div class="transcript">${rows.slice(0,state.transcriptLimit).map(([t,s])=>`<div class="transcript-row"><a href="${esc(chapters.get(n).url)}&t=${Math.floor(secs(t))}s" target="_blank" rel="noopener noreferrer">${clock(t)}</a><p>${esc(s)}</p></div>`).join('') || '<div class="empty">No hay coincidencias en esta transcripción.</div>'}</div>${rows.length>state.transcriptLimit?'<button class="secondary-button" data-transcript-more>Mostrar más segmentos</button>':''}`;
+    const provenance=chapters.get(n).fuente_transcripcion;
+    const note=provenance?'Transcripción automática generada localmente del audio con Whisper '+provenance.modelo+'. YouTube no ofrece una pista de subtítulos para este vídeo.':'Lectura derivada de los subtítulos automáticos de YouTube, con texto original de cada segmento.';
+    return `<p class="limitations">${esc(note)} El reconocimiento puede contener errores; no se identifican hablantes automáticamente.</p><div class="filters"><label class="transcript-search">Buscar en esta transcripción<input type="search" id="transcript-search" value="${esc(state.transcriptQuery)}" placeholder="Una palabra o un nombre…"></label></div><div class="toolbar"><span>${rows.length} segmentos · se muestran ${Math.min(rows.length,state.transcriptLimit)}</span></div><div class="transcript">${rows.slice(0,state.transcriptLimit).map(([t,s])=>`<div class="transcript-row"><a href="${esc(chapters.get(n).url)}&t=${Math.floor(secs(t))}s" target="_blank" rel="noopener noreferrer">${clock(t)}</a><p>${esc(s)}</p></div>`).join('') || '<div class="empty">No hay coincidencias en esta transcripción.</div>'}</div>${rows.length>state.transcriptLimit?'<button class="secondary-button" data-transcript-more>Mostrar más segmentos</button>':''}`;
   }
   function recordView(id) {
     const f=facts.get(id); if(!f)return missing();
@@ -170,17 +192,17 @@
   }
   function questionView(id) {
     const q=questions.get(id);if(!q)return missing();
-    heading(q.id,'Preguntas y desenlaces · '+chapterName(q.capitulo));
+    heading(q.id,sections.misterios+' · '+chapterName(q.capitulo));
     const evidence=q.referencias.map(id=>event(facts.get(id),true)).join('');
-    content.innerHTML=`<div class="section-head"><a href="#misterios" class="secondary-button">← Preguntas y desenlaces</a><a href="#capitulo/${q.capitulo}">${chapterName(q.capitulo)} · Origen</a></div>${questionCard(q)}${evidence?`<h2>Evidencias de la respuesta</h2><div class="list">${evidence}</div>`:'<p class="archive-note">No se ha localizado una respuesta posterior en los capítulos cotejados. Esto no demuestra que el asunto carezca de solución en el mundo de la campaña.</p>'}`;
+    content.innerHTML=`<div class="section-head"><a href="#misterios" class="secondary-button">← ${sections.misterios}</a><a href="#capitulo/${q.capitulo}">${chapterName(q.capitulo)} · Origen</a></div>${questionCard(q)}${evidence?`<h2>Evidencias de la respuesta</h2><div class="list">${evidence}</div>`:'<p class="archive-note">No se ha localizado una respuesta posterior en los capítulos cotejados. Esto no demuestra que el asunto carezca de solución en el mundo de la campaña.</p>'}`;
   }
   function questionList() {
-    if(!reviewedCount)return pendingSection('Preguntas y desenlaces','Las preguntas y sus respuestas se documentarán después de leer las sesiones de '+campaign.name+'. No se consideran resueltas por no tener todavía entradas.');
-    heading('Preguntas y desenlaces','Seguimiento de la campaña');
+    if(!reviewedCount)return pendingSection(sections.misterios,'Las preguntas y sus respuestas se documentarán después de leer las sesiones de '+campaign.name+'. No se consideran resueltas por no tener todavía entradas.');
+    heading(sections.misterios,'Seguimiento de la campaña');
     const all=[...questions.values()],terms=fold(state.questionQuery).trim().split(/\s+/).filter(Boolean);
     const list=all.filter(q=>(!state.questionStatus||q.estado===state.questionStatus)&&terms.every(t=>fold(q.pregunta+' '+q.respuesta+' '+q.pendiente+' '+q.id+' '+q.referencias.join(' ')).includes(t)));
     const counts=data.seguimiento.estados;
-    content.innerHTML=`<div class="section-head"><div><p class="eyebrow">Del planteamiento a la última evidencia</p><h1>Preguntas y desenlaces</h1><p>${all.length} preguntas históricas · ${counts.resuelta||0} resueltas · ${counts.parcial||0} parciales · ${counts.pendiente||0} pendientes${counts.sin_revisar?` · ${counts.sin_revisar} sin revisar`:''}</p></div></div><p class="section-description">Cada pregunta conserva su contexto original y se enlaza con respuestas posteriores. Una nueva pista no cierra por sí sola un misterio. ${data.seguimiento.por_actualizar?`${data.seguimiento.por_actualizar} entradas necesitan cotejar los capítulos nuevos.`:`Cotejo completo hasta el capítulo ${data.seguimiento.ultimo_capitulo}.`}</p><div class="filters"><label>Buscar una pregunta o respuesta<input id="question-search" type="search" value="${esc(state.questionQuery)}" placeholder="Nombre, asunto o referencia…"></label><label>Estado<select class="filter-select" data-filter="questionStatus"><option value="">Todos los estados</option>${Object.entries(questionStates).map(([key,label])=>`<option value="${key}" ${state.questionStatus===key?'selected':''}>${label}</option>`).join('')}</select></label></div>${paginated(list,questionCard,20)}<details class="context-details"><summary>Síntesis de las tramas principales</summary><article class="document">${markdown(data.documents.misterios?.text||'')}</article></details>`;
+    content.innerHTML=`<div class="section-head"><div><p class="eyebrow">Del planteamiento a la última evidencia</p><h1>${sections.misterios}</h1><p>${all.length} preguntas históricas · ${counts.resuelta||0} resueltas · ${counts.parcial||0} parciales · ${counts.pendiente||0} pendientes${counts.sin_revisar?` · ${counts.sin_revisar} sin revisar`:''}</p></div></div><p class="section-description">Cada pregunta conserva su contexto original y se enlaza con respuestas posteriores. Una nueva pista no cierra por sí sola un misterio. ${data.seguimiento.por_actualizar?`${data.seguimiento.por_actualizar} entradas necesitan cotejar los capítulos nuevos.`:`Cotejo completo hasta el capítulo ${data.seguimiento.ultimo_capitulo}.`}</p><div class="filters"><label>Buscar una pregunta o respuesta<input id="question-search" type="search" value="${esc(state.questionQuery)}" placeholder="Nombre, asunto o referencia…"></label><label>Estado<select class="filter-select" data-filter="questionStatus"><option value="">Todos los estados</option>${Object.entries(questionStates).map(([key,label])=>`<option value="${key}" ${state.questionStatus===key?'selected':''}>${label}</option>`).join('')}</select></label></div>${paginated(list,questionCard,20)}<details class="context-details"><summary>Síntesis de las tramas principales</summary><article class="document">${markdown(documentText(data.documents.misterios,sections.misterios))}</article></details>`;
   }
   function entityList(type) {
     const category=categories[type];
@@ -189,7 +211,7 @@
     const terms=fold(state.entityQuery).trim().split(/\s+/).filter(Boolean);
     const list=data.entities.filter(e=>e.type===type&&terms.every(t=>fold(e.name+' '+e.aliases.join(' ')).includes(t)));
     const doc=data.documents[category.document];
-    const overview=doc?`<details class="context-details"><summary>${esc(category.overview)}</summary><article class="document">${markdown(doc.text)}</article></details>`:'';
+    const overview=doc?`<details class="context-details"><summary>${esc(category.overview)}</summary><article class="document">${markdown(documentText(doc,category.title))}</article></details>`:'';
     content.innerHTML=`<div class="section-head"><div><p class="eyebrow">${esc(campaign.name)} · Enciclopedia</p><h1>${category.title}</h1><p>${category.copy}</p></div></div><div class="filters"><label>${category.search}<input id="entity-search" type="search" value="${esc(state.entityQuery)}" placeholder="Nombre o variante…"></label></div>${paginated(list,entityCard,36)}${overview}`;
   }
   function entityView(name) {
@@ -200,19 +222,18 @@
     content.innerHTML=`<a class="source-link" href="#${category.route}">← Volver a ${category.title.toLowerCase()}</a><div class="section-head"><div><p class="eyebrow">${entityType(e.name)} · ${e.facts.length} registros</p><h1>${esc(e.name)}</h1></div></div>${e.description?`<p class="${e.history?'entity-intro':'chapter-summary'}">${esc(e.description)}</p>`:''}${e.history?entityHistory(e):''}${e.note?`<details class="context-details"><summary>Identificación y referencias</summary><div class="document"><p>${esc(e.note)}</p><p>${refs}</p></div></details>`:''}${e.history?'<div class="section-head"><div><p class="eyebrow">Los acontecimientos que sostienen el relato</p><h2>Registros y evidencias</h2></div></div>':''}${paginated(e.facts.map(id=>facts.get(id)),f=>event(f,true),25)}`;
   }
   function entityHistory(e) {
-    const titles={personaje:'Su historia en '+campaign.name,lugar:'Historia y acontecimientos',faccion:'Intereses y evolución',objeto:'Origen y recorrido'};
-    const captions={personaje:'El camino recorrido',lugar:'Los escenarios de la aventura',faccion:'Los poderes de la isla',objeto:'Las huellas de un objeto'};
-    return narrativeHistory(e.history,{kind:e.type,title:titles[e.type],kicker:captions[e.type]+' · Hasta el capítulo '+e.history.revisado_hasta});
+    const titles={personaje:'Historia',lugar:'Historia y acontecimientos',faccion:'Intereses y evolución',objeto:'Origen y recorrido'};
+    return narrativeHistory(e.history,{kind:e.type,title:titles[e.type],kicker:'Hasta el capítulo '+e.history.revisado_hasta});
   }
   function narrativeHistory(history,{kind,title,kicker}) {
-    return `<section class="character-story narrative-story" data-story-kind="${esc(kind)}" aria-labelledby="narrative-story-title"><header class="story-heading"><div class="story-emblem" aria-hidden="true">${crest(kind==='capitulo'?'objeto':kind)}</div><div><p class="eyebrow">${esc(kicker)}</p><h2 id="narrative-story-title">${esc(title)}</h2></div></header><div class="story-stages">${history.etapas.map((stage,index)=>`<article class="story-stage"><div class="story-step" aria-hidden="true">${String(index+1).padStart(2,'0')}</div><div class="story-prose"><h3>${esc(stage.titulo)}</h3><p>${esc(stage.texto)}</p><nav class="story-sources" aria-label="Fuentes de ${esc(stage.titulo)}"><span>En la crónica</span>${stage.referencias.map(id=>{const f=facts.get(id);return `<a href="#registro/${id}" title="${esc(f.titulo)}">${id} <span>· ${clock(f.evidencia_cue?.inicio||f.inicio)}</span></a>`;}).join('')}</nav></div></article>`).join('')}</div></section>`;
+    return `<section class="character-story narrative-story" data-story-kind="${esc(kind)}" aria-labelledby="narrative-story-title"><header class="story-heading"><div class="story-emblem" aria-hidden="true">${crest(kind==='capitulo'?'objeto':kind)}</div><div><p class="eyebrow">${esc(kicker)}</p><h2 id="narrative-story-title">${esc(title)}</h2></div></header><div class="story-stages">${history.etapas.map((stage,index)=>`<article class="story-stage"><div class="story-step" aria-hidden="true">${String(index+1).padStart(2,'0')}</div><div class="story-prose"><h3>${esc(stage.titulo)}</h3><p>${esc(stage.texto)}</p><nav class="story-sources" aria-label="Fuentes de ${esc(stage.titulo)}"><span>Fuentes</span>${stage.referencias.map(id=>{const f=facts.get(id);return `<a href="#registro/${id}" title="${esc(f.titulo)}">${id} <span>· ${clock(f.evidencia_cue?.inicio||f.inicio)}</span></a>`;}).join('')}</nav></div></article>`).join('')}</div></section>`;
   }
   function listing(query='') {
-    if(!reviewedCount)return pendingSection(query?'Buscar en '+campaign.name:'Cronología','Todavía no hay acontecimientos revisados de '+campaign.name+'. Puedes buscar por número o título en su catálogo de capítulos.');
+    if(!reviewedCount)return pendingSection(query?'Buscar en '+campaign.name:sections.cronologia,'Todavía no hay acontecimientos revisados de '+campaign.name+'. Puedes buscar por número o título en su catálogo de capítulos.');
     const results=matched(query,state.chapter,state.kind);
-    heading(query?'Resultados de búsqueda':'Cronología de acontecimientos',query?'Búsqueda · '+query:'Campaña · Capítulo y minuto');
+    heading(query?'Resultados de búsqueda':sections.cronologia,query?'Búsqueda · '+query:'Campaña · Capítulo y minuto');
     document.getElementById('search-status').textContent=query?`${results.length} resultados para ${query}`:'';
-    content.innerHTML=`<div class="section-head"><div><p class="eyebrow">El archivo, con sus evidencias</p><h1>${query?`Resultados para «${esc(query)}»`:'Cronología de acontecimientos'}</h1><p>${query?'Se buscan todos los términos, ignorando acentos, en registros y equivalencias documentadas.':'Orden de capítulos y minutos del vídeo. No equivale a un calendario interno entre los grupos de la campaña.'}</p></div></div>${filters()}${paginated(results)}`;
+    content.innerHTML=`<div class="section-head"><div><p class="eyebrow">El archivo, con sus evidencias</p><h1>${query?`Resultados para «${esc(query)}»`:sections.cronologia}</h1><p>${query?'Se buscan todos los términos, ignorando acentos, en registros y equivalencias documentadas.':'Orden de capítulos y minutos del vídeo. No equivale a un calendario interno entre los grupos de la campaña.'}</p></div></div>${filters()}${paginated(results)}`;
   }
   function targetLink(raw,label) {
     if(/^https:\/\//i.test(raw))return `<a href="${esc(raw)}" target="_blank" rel="noopener noreferrer">${label}</a>`;
@@ -242,10 +263,14 @@
     }
     return out.join('');
   }
+  function documentText(doc,title) {
+    return (doc?.text||'').replace(/^# [^\r\n]+/,'# '+title);
+  }
   function documentView(key) {
     const doc=data.documents[key];if(!doc)return !reviewedCount?pendingSection({misiones:'Misiones',relaciones:'Relaciones',metodo:'Fuentes y método'}[key]||'Archivo de '+campaign.name):missing();
-    heading(doc.title,'Enciclopedia · '+doc.title);
-    content.innerHTML='<article class="document">'+markdown(doc.text)+'</article>';
+    const title=sections[key]||doc.title;
+    heading(title,'Enciclopedia · '+title);
+    content.innerHTML='<article class="document">'+markdown(documentText(doc,title))+'</article>';
   }
   function missing(){heading('No se encontró la entrada');content.innerHTML='<div class="empty"><h1>Esta entrada no está en el archivo.</h1><p>Vuelve al índice o busca otra grafía.</p><a class="primary-button" href="#inicio">Ir al inicio</a></div>';}
   function current(){const parts=location.hash.slice(1).split('/');let value='';try{value=decodeURIComponent(parts.slice(1).join('/'));}catch{}return [parts[0]||(archive.world&&!Object.hasOwn(campaignMetadata,requestedCampaign)?'campanas':'inicio'),value];}
@@ -256,10 +281,9 @@
     document.body.dataset.view=worldView?'world':'campaign';
     document.getElementById('campaign-selector').value=worldView?'':campaignId;
     document.getElementById('campaign-context').textContent=worldView?'El mundo de Arghast':'Arghast / '+campaign.name;
-    document.querySelector('.topbar-seal').textContent=worldView?'Un mundo · Dos campañas':campaign.tagline;
     document.querySelector('.search-box').hidden=worldView;
     document.querySelectorAll('#sidebar .nav-label,#sidebar .nav-links').forEach(node=>node.hidden=worldView);
-    document.getElementById('app-stats').textContent=worldView?Object.keys(campaignMetadata).length+' campañas independientes':`${data.chapters.length} capítulos · ${data.facts.length} registros`;
+    document.getElementById('app-stats').textContent=worldView?Object.keys(campaignMetadata).length+' campañas independientes':`${data.chapters.length} crónicas · ${data.facts.length} acontecimientos`;
     if(route==='entidades'){history.replaceState(null,'','#personajes');return render(true);}
     if(route!=='busqueda'){document.getElementById('search-status').textContent='';if(reset)searchInput.value='';}
     if(reset){state.page=1;state.tab='relato';state.chapterQuery='';state.entityQuery='';state.questionQuery='';state.questionStatus='';state.transcriptQuery='';state.transcriptLimit=120;}
@@ -287,7 +311,7 @@
   document.getElementById('campaign-selector').addEventListener('change',eventObject=>{const id=eventObject.target.value;if(Object.hasOwn(campaignMetadata,id))location.assign(campaignURL(id));else location.hash='campanas';});
   document.addEventListener('keydown',eventObject=>{if((eventObject.ctrlKey||eventObject.metaKey)&&eventObject.key.toLowerCase()==='k'){eventObject.preventDefault();searchInput.focus();searchInput.select();}if(eventObject.key==='Escape'){document.getElementById('sidebar').classList.remove('open');document.getElementById('menu-toggle')?.setAttribute('aria-expanded','false');}});
   window.addEventListener('hashchange',()=>{render(true);window.scrollTo(0,0);});
-  document.getElementById('app-stats').textContent=`${data.chapters.length} capítulos · ${data.facts.length} registros`;
+  document.getElementById('app-stats').textContent=`${data.chapters.length} crónicas · ${data.facts.length} acontecimientos`;
   for(const [id,value] of [['count-chapters',data.chapters.length],['count-facts',data.facts.length],['count-entities',data.entities.length]])if(document.getElementById(id))document.getElementById(id).textContent=value;
   render();
 })();

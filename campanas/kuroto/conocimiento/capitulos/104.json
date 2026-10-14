@@ -1,0 +1,333 @@
+{
+  "capitulo": 104,
+  "estado_revision": "revisado",
+  "fuente_sha256": "d0107e93dc2588471602b3508eb43410d9f34c2aafd8418863294f99261f4d6c",
+  "resumen": "Sun Gukon se ha instalado en Ukio para ayudar a la población, atender a los animales y aprender con Lea, evitando además el rechazo que percibe entre algunos cazadores por sus decisiones. Calista sigue colaborando con Rua y la administración. Ha enviado a varios compañeros la información de las plantas halladas en palacio: tienen propiedades calmantes y pueden resultar tóxicas en dosis altas, aunque la cantidad encontrada no era grande. La información no prueba que se haya envenenado al shogun. Gur ha dedicado tiempo a llevar comida, madera y reparaciones a pueblos del Sur. Caniza ha restaurado una pequeña ermita, prepara rituales funerarios y trata de integrarse en la orden. Una crisis de mantenimiento estropea varias piezas del equipo. La carta que llega de palacio parece ofrecer al mono la oportunidad de explicar su falta. La salida se retrasa por otra disputa. Caniza pide a Gur que espere para combatir; Gur lo golpea con el mandoble antes de que hayan empezado. El recién llegado reclama que sus compañeros reconozcan lo ocurrido y su pasividad. Shizuka intenta que se sienten con una orden mágica, pero no se resuelve la protesta. Acaban saliendo a batirse. Caniza descarga sus golpes y comprueba enseguida la superioridad de Gur. Se rinde y se aparta; el campeón lo persigue y lo hiere por la espalda pese a la rendición. La normalidad con que los demás explican esa conducta aumenta la desconfianza de Caniza. Recibe ayuda para levantarse y se cura antes de volver a escuchar a Shizuka. La escena no se reduce a un entrenamiento aceptado sin reservas. Animada por Shizuka, Danifae deja sus espadas en el suelo, se arrodilla y pide disculpas. Reconoce su irritabilidad y haber intentado dañar a Arwen por la esfera que la niña tragó. Calista exige que el arrepentimiento se demuestre con acciones. La drow muestra la marca de araña bajo el pecho y explica que necesita reunir cuatro esferas de los templos guardianes para un ritual con el que espera librarse del látigo de Lolth. Caniza reconoce la marca de la diosa, pero no puede verificar su función ni que el ritual funcione. Danifae propone ayudar al maestro de Gur a expulsar el orbe que lo enferma; reconoce que también pretende recuperarlo. La compañía le permite acompañarlos, con distintos grados de confianza. En palacio Sun admite su egoísmo al renunciar a la bendición de Biaco para conservar el bastón del anterior Rey Mono y ofrece aceptar el castigo. Rua dice haber recibido informes de Aka y Katari: la cúpula está rota y los yokai continúan atravesándola. Atribuye el problema a la bendición perdida. Le quita el collar de cazador y lo expulsa de la orden; prohíbe su acceso a las instalaciones hasta que repare lo ocurrido. La decisión le resulta dolorosa y deja abierta la vuelta si consigue arreglarlo. Sun llora, acepta y se retira. Gur propone ir de nuevo al guardián y pedir ayuda. No hay en esta sesión una nueva bendición ni una readmisión. Kuma vuelve a vomitar lava. El restablecimiento intentado por Caniza no lo alivia. Danifae aporta un pergamino de agrandar y propone aprovechar que el maestro crece con los golpes para entrar en su cuerpo y sacar la esfera. Se alejan de la ciudad antes de hacerlo gigantesco. Sun se encarga de mantener el conjuro mientras el oni abre la boca. La compañía baja con una cuerda y atraviesa un interior abrasador, lleno de restos y conductos que expulsan líquidos dañinos. Caniza y Sun avanzan por las paredes; Calista soporta con dificultad el calor y la suciedad. En el estómago encuentran una criatura acurrucada. Antes de confirmar su intención, Gur dispara accidentalmente una bola de fuego de su anillo. El ser absorbe las llamas y convoca dos elementales. Danifae ilumina al adversario para facilitar los golpes de Gur y combate a los elementales. Caniza trata de contener uno y cae; la drow lo levanta con una poción. Calista cura repetidamente al campeón y añade protección mágica, aunque sus intentos de paralizar al enemigo no prosperan. Sun conserva el agrandamiento y usa copias y ataques a distancia antes de bajar para ayudar. Gur aguanta un golpe que parecía definitivo y devuelve el ataque. Acaba partiendo el casco de la criatura principal, pero su explosión lo deja inconsciente. Danifae termina con el elemental restante y los compañeros curan al campeón. El rescate requiere el trabajo de todos y deja heridas importantes. Danifae encuentra entre los líquidos una esfera transparente que contiene fuego y la guarda sin quemarse. Calista acepta que la conserve por la ayuda prestada, pero Caniza pide custodiarla. La drow se la entrega: quema al komuso y abrasa la tela con que intenta envolverla. No pueden explicar todavía por qué Danifae la sujeta indemne. Después de discutirlo, Caniza se la devuelve y la drow permanece como portadora. El estómago empieza a reaccionar y todos corren a salir. Cuatro vuelven por la boca; Gur elige la otra dirección y acaba expulsado por el intestino. Al recuperar su tamaño, Kuma dice que ya no se encuentra mal. El orbe ha salido y la enfermedad que arrastraba queda aliviada. Gur se lava en un lago mientras los demás atienden sus quemaduras. Calista se aparta con Danifae para una conversación que anuncia como importante, pero cuyo contenido no se representa. Caniza pregunta a Sun si quiere volver a la orden después de lo que ha visto. El mono sostiene que debe compensar sus faltas y que allí ha encontrado una familia; no pretende marcharse por haber recibido el castigo. Caniza le ofrece ayuda pese a sus propias reservas sobre el grupo. La compañía vuelve hacia la capital con el maestro recuperado, el orbe en manos de Danifae y el futuro de Sun todavía por resolver.",
+  "afirmaciones": [
+    {
+      "id": "104-001",
+      "titulo": "Calista comunica sus hallazgos botánicos",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Calista informa que las plantas del palacio tienen propiedades calmantes y toxicidad en dosis altas. Comunica sus hallazgos a compañeros con conocimientos alquímicos. No identifica un envenenamiento demostrado.",
+      "inicio": "00:01:40.000",
+      "fin": "00:05:00.000",
+      "entidades": [
+        "Calista"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "Se conserva la atribución y no se verifica una interpretación o promesa por sí sola.",
+      "cita": "calmantes, ¿vale? Pero que en altas",
+      "evidencia_cue": {
+        "inicio": "00:03:16.120",
+        "fin": "00:03:18.869"
+      }
+    },
+    {
+      "id": "104-002",
+      "titulo": "Caniza se rinde y Gur vuelve a atacarlo",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Gur golpea a Caniza antes del duelo. Tras aceptar combatir, Caniza se rinde; Gur lo persigue y lo golpea por la espalda. Caniza protesta por la agresión y por la pasividad de los presentes.",
+      "inicio": "00:26:00.000",
+      "fin": "00:51:00.000",
+      "entidades": [
+        "Gur (grafía provisional)",
+        "Caniza (grafía provisional)",
+        "Shizuka (grafía provisional)",
+        "Sun Gukon (grafía provisional)",
+        "Calista"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "No demuestra los resultados de conversaciones ni actuaciones posteriores.",
+      "cita": "atrás, pues Gur te viene por la espalda",
+      "evidencia_cue": {
+        "inicio": "00:48:15.680",
+        "fin": "00:48:17.069"
+      }
+    },
+    {
+      "id": "104-003",
+      "titulo": "Disculpas y la explicación del ritual",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Danifae se arrodilla y pide disculpas por sus actos, incluido atacar a Arwen. Muestra la marca de Lolth y dice que busca cuatro esferas para un ritual de liberación. Caniza reconoce la marca, no verifica el éxito del ritual.",
+      "inicio": "00:51:00.000",
+      "fin": "01:04:00.000",
+      "entidades": [
+        "Danifae (grafía provisional)",
+        "Shizuka (grafía provisional)",
+        "Calista",
+        "Caniza (grafía provisional)",
+        "Marca de araña de Danifae"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "Se conserva la atribución y no se verifica una interpretación o promesa por sí sola.",
+      "cita": "ritual para, digamos, quitarme esta",
+      "evidencia_cue": {
+        "inicio": "00:58:53.000",
+        "fin": "00:58:55.950"
+      }
+    },
+    {
+      "id": "104-004",
+      "titulo": "Sun queda fuera de los cazadores",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Rua retira el collar de Sun y le prohíbe acceder a lugares de los cazadores hasta solucionar el problema de la bendición. Sun acepta el castigo; Rua vincula en su explicación los fallos de la cúpula a la bendición perdida.",
+      "inicio": "01:06:00.000",
+      "fin": "01:14:00.000",
+      "entidades": [
+        "Rua (grafía provisional)",
+        "Sun Gukon (grafía provisional)",
+        "Calista",
+        "Gur (grafía provisional)",
+        "Caniza (grafía provisional)",
+        "Danifae (grafía provisional)"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "No demuestra los resultados de conversaciones ni actuaciones posteriores.",
+      "cita": "coge tu collar de cazador y te lo quita",
+      "evidencia_cue": {
+        "inicio": "01:09:43.000",
+        "fin": "01:09:47.709"
+      }
+    },
+    {
+      "id": "104-005",
+      "titulo": "El plan para sacar el orbe",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Sin alivio por restablecimiento, Kuma acepta hacerse gigantesco con golpes y el pergamino aportado por Danifae, que Sun mantiene. Los compañeros entran por su boca para buscar el orbe. Gur dispara fuego contra la criatura que encuentran y esta convoca dos elementales.",
+      "inicio": "01:15:00.000",
+      "fin": "01:42:00.000",
+      "entidades": [
+        "Maestro de Gur (nombre pendiente)",
+        "Gur (grafía provisional)",
+        "Danifae (grafía provisional)",
+        "Sun Gukon (grafía provisional)",
+        "Caniza (grafía provisional)",
+        "Calista"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "No demuestra los resultados de conversaciones ni actuaciones posteriores.",
+      "cita": "comprado un pergamino de agrandar.",
+      "evidencia_cue": {
+        "inicio": "01:19:41.800",
+        "fin": "01:19:47.149"
+      }
+    },
+    {
+      "id": "104-006",
+      "titulo": "Combate y curaciones",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Danifae levanta a Caniza con una poción y acaba con elementales; Calista cura y protege; Sun mantiene el conjuro y ayuda. Gur vence al enemigo principal, cuya explosión lo deja inconsciente, y el grupo lo recupera.",
+      "inicio": "01:42:00.000",
+      "fin": "02:27:00.000",
+      "entidades": [
+        "Gur (grafía provisional)",
+        "Danifae (grafía provisional)",
+        "Sun Gukon (grafía provisional)",
+        "Caniza (grafía provisional)",
+        "Calista",
+        "Maestro de Gur (nombre pendiente)"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "No demuestra los resultados de conversaciones ni actuaciones posteriores.",
+      "cita": "explotan los ves cómo lo haces.",
+      "evidencia_cue": {
+        "inicio": "02:22:19.760",
+        "fin": "02:22:23.309"
+      }
+    },
+    {
+      "id": "104-007",
+      "titulo": "La esfera quema a Caniza pero no a Danifae",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Danifae extrae el orbe de fuego. Lo entrega a Caniza cuando este solicita custodiarlo, pero lo quema y abrasa el envoltorio. Caniza termina devolviéndoselo: la drow puede sostenerlo sin quemarse por una causa todavía desconocida.",
+      "inicio": "02:26:00.000",
+      "fin": "02:33:00.000",
+      "entidades": [
+        "Danifae (grafía provisional)",
+        "Caniza (grafía provisional)",
+        "Calista",
+        "Gur (grafía provisional)",
+        "Orbe de fuego extraído de Kuma"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "No demuestra los resultados de conversaciones ni actuaciones posteriores.",
+      "cita": "encontrado la esfera",
+      "evidencia_cue": {
+        "inicio": "02:27:26.840",
+        "fin": "02:27:29.550"
+      }
+    },
+    {
+      "id": "104-008",
+      "titulo": "Kuma se recupera tras la extracción",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Los compañeros escapan del cuerpo de Kuma ante la reacción del estómago; Gur sale por el intestino y los demás por la boca. Cuando vuelve a su tamaño, el maestro manifiesta que ya no se encuentra mal.",
+      "inicio": "02:33:00.000",
+      "fin": "02:40:00.000",
+      "entidades": [
+        "Maestro de Gur (nombre pendiente)",
+        "Gur (grafía provisional)",
+        "Danifae (grafía provisional)",
+        "Sun Gukon (grafía provisional)",
+        "Caniza (grafía provisional)",
+        "Calista",
+        "Orbe de fuego extraído de Kuma"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "No demuestra los resultados de conversaciones ni actuaciones posteriores.",
+      "cita": "dice, \"Ah, ya no me encuentro mal, gur.\"",
+      "evidencia_cue": {
+        "inicio": "02:38:26.760",
+        "fin": "02:38:31.910"
+      }
+    },
+    {
+      "id": "104-009",
+      "titulo": "Sun quiere reparar su falta",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Sun dice a Caniza que quiere volver a la orden para compensar sus faltas y por la familia que ha encontrado en ella. Caniza le ofrece ayuda. Calista y Danifae se apartan a una conversación cuyo contenido no se muestra.",
+      "inicio": "02:39:00.000",
+      "fin": "02:48:00.000",
+      "entidades": [
+        "Sun Gukon (grafía provisional)",
+        "Caniza (grafía provisional)",
+        "Danifae (grafía provisional)",
+        "Calista"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "Se conserva la atribución y no se verifica una interpretación o promesa por sí sola.",
+      "cita": "gente que podíamos llamar familia y no y",
+      "evidencia_cue": {
+        "inicio": "02:43:52.200",
+        "fin": "02:43:57.389"
+      }
+    }
+  ],
+  "historia": {
+    "revisado_hasta": 104,
+    "etapas": [
+      {
+        "titulo": "Cambios y preparativos",
+        "texto": "Sun Gukon se ha instalado en Ukio para ayudar a la población, atender a los animales y aprender con Lea, evitando además el rechazo que percibe entre algunos cazadores por sus decisiones. Calista sigue colaborando con Rua y la administración. Ha enviado a varios compañeros la información de las plantas halladas en palacio: tienen propiedades calmantes y pueden resultar tóxicas en dosis altas, aunque la cantidad encontrada no era grande. La información no prueba que se haya envenenado al shogun. Gur ha dedicado tiempo a llevar comida, madera y reparaciones a pueblos del Sur. Caniza ha restaurado una pequeña ermita, prepara rituales funerarios y trata de integrarse en la orden. Una crisis de mantenimiento estropea varias piezas del equipo. La carta que llega de palacio parece ofrecer al mono la oportunidad de explicar su falta.",
+        "referencias": [
+          "104-001"
+        ]
+      },
+      {
+        "titulo": "Un duelo que no termina al rendirse",
+        "texto": "La salida se retrasa por otra disputa. Caniza pide a Gur que espere para combatir; Gur lo golpea con el mandoble antes de que hayan empezado. El recién llegado reclama que sus compañeros reconozcan lo ocurrido y su pasividad. Shizuka intenta que se sienten con una orden mágica, pero no se resuelve la protesta. Acaban saliendo a batirse. Caniza descarga sus golpes y comprueba enseguida la superioridad de Gur. Se rinde y se aparta; el campeón lo persigue y lo hiere por la espalda pese a la rendición. La normalidad con que los demás explican esa conducta aumenta la desconfianza de Caniza. Recibe ayuda para levantarse y se cura antes de volver a escuchar a Shizuka. La escena no se reduce a un entrenamiento aceptado sin reservas.",
+        "referencias": [
+          "104-002"
+        ]
+      },
+      {
+        "titulo": "Danifae pide ayuda",
+        "texto": "Animada por Shizuka, Danifae deja sus espadas en el suelo, se arrodilla y pide disculpas. Reconoce su irritabilidad y haber intentado dañar a Arwen por la esfera que la niña tragó. Calista exige que el arrepentimiento se demuestre con acciones. La drow muestra la marca de araña bajo el pecho y explica que necesita reunir cuatro esferas de los templos guardianes para un ritual con el que espera librarse del látigo de Lolth. Caniza reconoce la marca de la diosa, pero no puede verificar su función ni que el ritual funcione. Danifae propone ayudar al maestro de Gur a expulsar el orbe que lo enferma; reconoce que también pretende recuperarlo. La compañía le permite acompañarlos, con distintos grados de confianza.",
+        "referencias": [
+          "104-003"
+        ]
+      },
+      {
+        "titulo": "El collar que Rua retira",
+        "texto": "En palacio Sun admite su egoísmo al renunciar a la bendición de Biaco para conservar el bastón del anterior Rey Mono y ofrece aceptar el castigo. Rua dice haber recibido informes de Aka y Katari: la cúpula está rota y los yokai continúan atravesándola. Atribuye el problema a la bendición perdida. Le quita el collar de cazador y lo expulsa de la orden; prohíbe su acceso a las instalaciones hasta que repare lo ocurrido. La decisión le resulta dolorosa y deja abierta la vuelta si consigue arreglarlo. Sun llora, acepta y se retira. Gur propone ir de nuevo al guardián y pedir ayuda. No hay en esta sesión una nueva bendición ni una readmisión.",
+        "referencias": [
+          "104-004"
+        ]
+      },
+      {
+        "titulo": "Entrar en el maestro",
+        "texto": "Kuma vuelve a vomitar lava. El restablecimiento intentado por Caniza no lo alivia. Danifae aporta un pergamino de agrandar y propone aprovechar que el maestro crece con los golpes para entrar en su cuerpo y sacar la esfera. Se alejan de la ciudad antes de hacerlo gigantesco. Sun se encarga de mantener el conjuro mientras el oni abre la boca. La compañía baja con una cuerda y atraviesa un interior abrasador, lleno de restos y conductos que expulsan líquidos dañinos. Caniza y Sun avanzan por las paredes; Calista soporta con dificultad el calor y la suciedad. En el estómago encuentran una criatura acurrucada. Antes de confirmar su intención, Gur dispara accidentalmente una bola de fuego de su anillo. El ser absorbe las llamas y convoca dos elementales.",
+        "referencias": [
+          "104-005"
+        ]
+      },
+      {
+        "titulo": "Ayudarse en medio del fuego",
+        "texto": "Danifae ilumina al adversario para facilitar los golpes de Gur y combate a los elementales. Caniza trata de contener uno y cae; la drow lo levanta con una poción. Calista cura repetidamente al campeón y añade protección mágica, aunque sus intentos de paralizar al enemigo no prosperan. Sun conserva el agrandamiento y usa copias y ataques a distancia antes de bajar para ayudar. Gur aguanta un golpe que parecía definitivo y devuelve el ataque. Acaba partiendo el casco de la criatura principal, pero su explosión lo deja inconsciente. Danifae termina con el elemental restante y los compañeros curan al campeón. El rescate requiere el trabajo de todos y deja heridas importantes.",
+        "referencias": [
+          "104-006"
+        ]
+      },
+      {
+        "titulo": "La esfera queda con Danifae",
+        "texto": "Danifae encuentra entre los líquidos una esfera transparente que contiene fuego y la guarda sin quemarse. Calista acepta que la conserve por la ayuda prestada, pero Caniza pide custodiarla. La drow se la entrega: quema al komuso y abrasa la tela con que intenta envolverla. No pueden explicar todavía por qué Danifae la sujeta indemne. Después de discutirlo, Caniza se la devuelve y la drow permanece como portadora. El estómago empieza a reaccionar y todos corren a salir. Cuatro vuelven por la boca; Gur elige la otra dirección y acaba expulsado por el intestino. Al recuperar su tamaño, Kuma dice que ya no se encuentra mal. El orbe ha salido y la enfermedad que arrastraba queda aliviada.",
+        "referencias": [
+          "104-007",
+          "104-008"
+        ]
+      },
+      {
+        "titulo": "Conversaciones que quedan abiertas",
+        "texto": "Gur se lava en un lago mientras los demás atienden sus quemaduras. Calista se aparta con Danifae para una conversación que anuncia como importante, pero cuyo contenido no se representa. Caniza pregunta a Sun si quiere volver a la orden después de lo que ha visto. El mono sostiene que debe compensar sus faltas y que allí ha encontrado una familia; no pretende marcharse por haber recibido el castigo. Caniza le ofrece ayuda pese a sus propias reservas sobre el grupo. La compañía vuelve hacia la capital con el maestro recuperado, el orbe en manos de Danifae y el futuro de Sun todavía por resolver.",
+        "referencias": [
+          "104-009"
+        ]
+      }
+    ]
+  },
+  "misiones": [
+    "Responder a la citación de Sun: cumplido; queda expulsado hasta reparar la bendición.",
+    "Extraer el orbe que enferma al maestro de Gur: cumplido; el maestro recuperado y Danifae portadora.",
+    "Liberar a Danifae de la marca mediante cuatro esferas: propuesta pendiente, ritual no comprobado."
+  ],
+  "preguntas": [
+    "¿Cómo reparará Sun la bendición perdida y recuperará su pertenencia a los cazadores?",
+    "¿Por qué el orbe de fuego no quema a Danifae y qué hará con las cuatro esferas?",
+    "¿Qué acordarán Calista y Danifae en su conversación privada?",
+    "¿Para qué se usaban las hierbas calmantes potencialmente tóxicas del palacio?"
+  ],
+  "nombres_dudosos": [
+    "Biaco: variante de la transcripción para el guardián cuya bendición perdió Sun.",
+    "Kuma: maestro de Gur, identidad conciliada por coordinación."
+  ],
+  "contradicciones": [
+    "Las disculpas de Danifae y el propósito liberador que atribuye al ritual no verifican que este vaya a funcionar.",
+    "La rendición de Caniza no detiene el ataque de Gur; se conserva la agresión posterior.",
+    "La rotura de la cúpula se presenta en esta sesión mediante el informe y atribución de Rua."
+  ]
+}

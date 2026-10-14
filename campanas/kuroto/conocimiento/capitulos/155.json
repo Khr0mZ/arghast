@@ -1,0 +1,351 @@
+{
+  "capitulo": 155,
+  "estado_revision": "revisado",
+  "fuente_sha256": "a6959c7c4c79dc0710ef470ed4f0f325f713e403cce0e91a1a6f744465691dc1",
+  "resumen": "La mañana comienza con un nuevo riesgo: Shisuka viajó escondida y comió solo parte de una baya. Cuando su adaptación al agua falla, Gelbreak la devuelve con teletransporte antes de que se ahogue. Fuera del palacio Calista revela a sus compañeros que es la menor de las perlas, enviada a someter Kuroto sin guerra después de que los cazadores mataran a un hijo del dragón. Se consideraba una pieza desechable y encontró en la superficie una libertad que teme perder. No quiere seguir gobernando por voluntad propia y promete que, cuando salga del yugo, otros decidan el gobierno. Jin y Serafina le ofrecen apoyo. Banzo, afectado, exige que salvar a una persona no cueste el país o la vida de sus compañeros. Gelbreak acepta esa prioridad y le confía que cualquier plan contra el rey debe ocultarse también a Calista, pues el dragón puede conocerlo a través de ella. El desayuno acaba devolviendo algo de confianza. Después el grupo vence tres pruebas a Well y sus soldados: Banzo domina un hipocampo, Serafina voltea un tiburón y Jin gana una carrera con magia. El tres a cero obliga al general según la apuesta, aunque este espera que la cena anule el triunfo. En una mesa preparada para separarlos, el grupo atiende a posibles trampas; Jin resiste un sabor extraño, sin llegar a identificarlo. Calista argumenta contra una sustitución precipitada y retira a Gelbreak del cargo de guardián. La corte anuncia a Aqua para gobernar con Well, y la shogun responde desafiándola por el mandato. Los reyes añaden los cargos de Banzo y Jin a otros dos duelos y devuelven sus armas. Aceptan luchar bajo reglas mortales. Banzo rompe y devuelve la red de Renless, soporta sus golpes y le ofrece rendirse; al negarse, lo derriba con la explosión ancestral. Jin combate envenenado y decapita al estratega Binlis. Calista usa distancia, palabras y prisiones mentales para deshacer el dragón de Aqua y acabar con su vida. Toma el rapier de la perla mayor y exige retirar el cuerpo. Banzo, ante la orden de un rey, suelta al vencido sin ejecutar un corte de cuello. Serafina observa cómo el menosprecio de la corte deja paso al silencio. Los reyes permiten que Calista conserve Kuroto, manteniendo la condición de otro guardián. La alegría dura hasta la vuelta del Rey Dragón. Gelbreak permanece de pie y el monarca responde congelando por dentro a Calista, cuya agonía fuerza al antiguo guardián a arrodillarse. El rey detiene la tortura y ordena terminar con los demonios antes de discutir otra vez su futuro. Ella sigue viva, pero queda helada y herida. Gelbreak la recoge y lleva al grupo de vuelta al palacio de Kuroto mediante teletransporte; allí la pone en agua caliente. Han conservado el puesto y ganado los duelos, sin romper todavía el poder que los retiene.",
+  "afirmaciones": [
+    {
+      "id": "155-001",
+      "titulo": "Una pasajera que no puede quedarse",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Los visitantes despiertan y acuerdan prudencia. Shisuka aparece escondida en la bolsa de Banzo: comió solo un trozo de baya y se transformó. Se cuela como pez hasta la habitación de la pareja; cuando empieza a perder adaptación y respirar resulta peligroso, Gelbreak la teletransporta a casa. No hay otra niña oculta ni Arwen presente.",
+      "inicio": "00:00:01.079",
+      "fin": "00:27:01.470",
+      "cita": "Me acerco a mi mochila que veo que se",
+      "entidades": [
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Banzo",
+        "Jin",
+        "Serafina Hop (grafía provisional)",
+        "Shisuka"
+      ],
+      "ambito": "Kuroto, sesión 155",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "155-002",
+      "titulo": "La menor de las perlas cuenta su misión",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "En la taberna Calista se presenta como la menor de las perlas del Rey Dragón. Relata que, tras morir un hijo del monarca a manos de los cazadores, la enviaron a poner Kuroto bajo su mandato sin gastar recursos en guerra. Dice que la consideraban débil y desechable, que teme al rey desde niña y que en la superficie encontró decisiones propias. No quiere gobernar, sino escapar del sometimiento.",
+      "inicio": "00:30:00.919",
+      "fin": "00:44:02.230",
+      "cita": "desechable. Así que me enviaron a mía",
+      "entidades": [
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Banzo",
+        "Jin",
+        "Serafina Hop (grafía provisional)",
+        "Rey Dragón acuático de Aistia"
+      ],
+      "ambito": "Kuroto, sesión 155",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "155-003",
+      "titulo": "Elegir confiar sin dejar de proteger",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Jin y Serafina expresan apoyo a Calista. Ella promete, cuando pueda liberarse, dejar el shogunato para que pueblo, nobles y cazadores decidan su gobierno. Banzo se aparta y exige a Gelbreak que no entreguen ni un país ni compañeros por salvar a alguien. El guardián comparte ese fin y le advierte que Calista no puede saber planes contra el dragón porque este podría enterarse a través de ella. Se reconcilian en torno a protegerse, sin ejecutar un plan nuevo.",
+      "inicio": "00:44:02.240",
+      "fin": "01:09:01.789",
+      "cita": "\"Calista no puede enterarse de ningún",
+      "entidades": [
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Banzo",
+        "Jin",
+        "Serafina Hop (grafía provisional)",
+        "Rey Dragón acuático de Aistia"
+      ],
+      "ambito": "Kuroto, sesión 155",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "155-004",
+      "titulo": "Tres juegos contra el orgullo",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Calista apuesta con Well obedecer al vencedor durante dos semanas. Banzo domina un hipocampo salvaje con apoyo de Gelbreak y el soldado rival falla. Serafina calma un gran tiburón al girarlo según el consejo de Calista; el otro soldado recibe un mordisco. Jin vence a Well en carrera combinando rapidez, esfuerzo y paso brumoso, superando su intento de frenarlo. Ganan tres a cero, pero el general amenaza con que la cena cambie a quién debe obedecer.",
+      "inicio": "01:10:00.360",
+      "fin": "01:32:02.590",
+      "cita": "sonrío y le digo, \"Vaya, 3 a0, vaya",
+      "entidades": [
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Banzo",
+        "Jin",
+        "Serafina Hop (grafía provisional)",
+        "Well (general tritón, grafía provisional)",
+        "Aistia (grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 155",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "155-005",
+      "titulo": "Sentados para separarlos",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "El augurio de Banzo ofrece buenos indicios para el plan con advertencia de atención. En la cena distribuyen los asientos para separar a los visitantes. Calista no ve nada raro en sus algas, Banzo finge tomar y Serafina rechaza; Jin prueba un sabor añadido fuerte y resiste. No se identifica la sustancia ni se demuestra que cada copa esté adulterada.",
+      "inicio": "01:32:02.600",
+      "fin": "01:46:01.070",
+      "cita": "notas como un sabor fuerte, ¿sabes? Y",
+      "entidades": [
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Banzo",
+        "Jin",
+        "Serafina Hop (grafía provisional)",
+        "Palacio del Rey Dragón de Aistia"
+      ],
+      "ambito": "Kuroto, sesión 155",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "155-006",
+      "titulo": "Un guardián apartado y un mandato disputado",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Calista discute costes de reemplazar al gobierno y de una posible rebelión. Ante las críticas por su relación declara que Gelbreak Juntuar deja de ser guardián. Los reyes anuncian a Aqua para gobernar Kuroto con Well como guardián, pero Calista la desafía por el mandato y Aqua acepta. La corte extiende los duelos a Banzo y Jin contra un general y un estratega, advirtiendo que son a muerte; se devuelven las armas.",
+      "inicio": "01:45:04.199",
+      "fin": "02:03:00.350",
+      "cita": "Veis que Aqua dice, \"Mira a Marlas y",
+      "entidades": [
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Banzo",
+        "Jin",
+        "Serafina Hop (grafía provisional)",
+        "Well (general tritón, grafía provisional)",
+        "Aqua (mayor de las perlas)",
+        "Palacio del Rey Dragón de Aistia"
+      ],
+      "ambito": "Kuroto, sesión 155",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "155-007",
+      "titulo": "Tres duelos, distintas armas",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Banzo combate a Renless, que usa escudo, red, tridente y veneno; rompe su prisión y devuelve la red. Jin se enfrenta al estratega Binlis entre ataques envenenados y pierde por un turno la rapidez. Calista se distancia de Aqua, que adopta forma de dragón, y emplea palabras debilitantes, control y baile mágico. Gelbreak da inspiración a sus compañeros desde fuera del duelo.",
+      "inicio": "02:03:00.360",
+      "fin": "02:30:01.670",
+      "cita": "que en el escudo le cuelga una red,",
+      "entidades": [
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Banzo",
+        "Jin",
+        "Aqua (mayor de las perlas)",
+        "Renless (general tritón, grafía provisional)",
+        "Binlis (estratega tritón, grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 155",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "155-008",
+      "titulo": "Resistir, inmovilizar y ofrecer rendición",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Renless rompe la red y sigue atacando. Banzo le ofrece rendirse, pero él rechaza ceder ante un terrestre; el grito ancestral lo derriba. Jin soporta veneno y continúa golpeando. Calista atrapa a Aqua en prisiones mentales, contrarresta su contrahechizo y hace que al moverse reciba graves daños; logra romper su transformación dracónica. Los combates no los gana Gelbreak ni se convierten en una batalla de todo el ejército.",
+      "inicio": "02:30:01.680",
+      "fin": "02:56:02.309",
+      "cita": "Y ves que te mira y te dice, \"Rindirme",
+      "entidades": [
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Banzo",
+        "Jin",
+        "Aqua (mayor de las perlas)",
+        "Renless (general tritón, grafía provisional)",
+        "Binlis (estratega tritón, grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 155",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "155-009",
+      "titulo": "La caída del estratega y de Aqua",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Jin culmina su duelo decapitando a Binlis. Calista sigue debilitando y dañando a Aqua hasta que cae muerta, toma su rapier como símbolo de perla mayor y empuja con magia el cadáver hacia las otras perlas para que lo retiren. Banzo sostiene la cabeza del rival vencido, pero cuando un rey exige terminarlo lo suelta sin cortarle el cuello y recoge tridente y escudo. No se añade una ejecución suya que no sucede.",
+      "inicio": "02:56:02.319",
+      "fin": "03:10:00.510",
+      "cita": "muerta. Ah, nada, voy a nada. Voy a",
+      "entidades": [
+        "Calista",
+        "Banzo",
+        "Jin",
+        "Serafina Hop (grafía provisional)",
+        "Aqua (mayor de las perlas)",
+        "Renless (general tritón, grafía provisional)",
+        "Binlis (estratega tritón, grafía provisional)",
+        "Rapier de la perla mayor"
+      ],
+      "ambito": "Kuroto, sesión 155",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "155-010",
+      "titulo": "El puesto se conserva",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Serafina cuenta que los espectadores se burlaban al principio y callaron cuando cambiaron los combates; no oye otro secreto específico. Los reyes reconocen la valía de Calista y permiten mantener su puesto en Kuroto, con obligación de cambiar guardián. Pueden volver cuando quieran. El grupo sobrevive y se cura, pero todavía debe obedecer al rey.",
+      "inicio": "03:09:00.359",
+      "fin": "03:15:01.469",
+      "cita": "Mantendrás tu cargo allí arriba de la",
+      "entidades": [
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Banzo",
+        "Jin",
+        "Serafina Hop (grafía provisional)",
+        "Well (general tritón, grafía provisional)",
+        "Palacio del Rey Dragón de Aistia"
+      ],
+      "ambito": "Kuroto, sesión 155",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "155-011",
+      "titulo": "La rodilla exigida con el dolor de otra",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "El dragón vuelve y todos salvo Gelbreak se arrodillan. Al desafiarlo el antiguo guardián, congela a Calista por dentro y le provoca dolor y hemorragias. Pregunta si podrá vencerlo antes de que la mate; Gelbreak termina arrodillándose para detener la tortura. El rey deja de congelarla y ordena acabar con los demonios antes de discutir de nuevo su futuro. No la mata ni es Gelbreak quien le causa la congelación.",
+      "inicio": "03:14:01.760",
+      "fin": "03:20:00.070",
+      "cita": "\"Te dije que te arrodillarías,",
+      "entidades": [
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Banzo",
+        "Jin",
+        "Serafina Hop (grafía provisional)",
+        "Rey Dragón acuático de Aistia"
+      ],
+      "ambito": "Kuroto, sesión 155",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "155-012",
+      "titulo": "Volver a casa con las heridas",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Calista queda fría, pálida y sin poder levantarse. Serafina intenta ayudarla y pide marcharse. Gelbreak toma a su pareja y teletransporta a los cinco al palacio de Kuroto, dejando a Well en el reino submarino. Lleva a Calista a un baño de agua caliente. El director explica después las capacidades legendarias del rapier, pero no se usan todavía para una orden de ataque colectiva.",
+      "inicio": "03:19:00.840",
+      "fin": "03:24:19.040",
+      "cita": "en agua caliente para intentar, bueno,",
+      "entidades": [
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Banzo",
+        "Jin",
+        "Serafina Hop (grafía provisional)",
+        "Well (general tritón, grafía provisional)",
+        "Rapier de la perla mayor"
+      ],
+      "ambito": "Kuroto, sesión 155",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    }
+  ],
+  "historia": {
+    "revisado_hasta": 155,
+    "etapas": [
+      {
+        "titulo": "Una niña y una verdad que no admite más demora",
+        "texto": "La mañana comienza con un nuevo riesgo: Shisuka viajó escondida y comió solo parte de una baya. Cuando su adaptación al agua falla, Gelbreak la devuelve con teletransporte antes de que se ahogue. Fuera del palacio Calista revela a sus compañeros que es la menor de las perlas, enviada a someter Kuroto sin guerra después de que los cazadores mataran a un hijo del dragón. Se consideraba una pieza desechable y encontró en la superficie una libertad que teme perder. No quiere seguir gobernando por voluntad propia y promete que, cuando salga del yugo, otros decidan el gobierno.",
+        "referencias": [
+          "155-001",
+          "155-002",
+          "155-003"
+        ]
+      },
+      {
+        "titulo": "La confianza también necesita límites",
+        "texto": "Jin y Serafina le ofrecen apoyo. Banzo, afectado, exige que salvar a una persona no cueste el país o la vida de sus compañeros. Gelbreak acepta esa prioridad y le confía que cualquier plan contra el rey debe ocultarse también a Calista, pues el dragón puede conocerlo a través de ella. El desayuno acaba devolviendo algo de confianza. Después el grupo vence tres pruebas a Well y sus soldados: Banzo domina un hipocampo, Serafina voltea un tiburón y Jin gana una carrera con magia. El tres a cero obliga al general según la apuesta, aunque este espera que la cena anule el triunfo.",
+        "referencias": [
+          "155-003",
+          "155-004"
+        ]
+      },
+      {
+        "titulo": "La cena rompe los cargos antes que las armas",
+        "texto": "En una mesa preparada para separarlos, el grupo atiende a posibles trampas; Jin resiste un sabor extraño, sin llegar a identificarlo. Calista argumenta contra una sustitución precipitada y retira a Gelbreak del cargo de guardián. La corte anuncia a Aqua para gobernar con Well, y la shogun responde desafiándola por el mandato. Los reyes añaden los cargos de Banzo y Jin a otros dos duelos y devuelven sus armas. Aceptan luchar bajo reglas mortales.",
+        "referencias": [
+          "155-005",
+          "155-006"
+        ]
+      },
+      {
+        "titulo": "Tres formas de vencer",
+        "texto": "Banzo rompe y devuelve la red de Renless, soporta sus golpes y le ofrece rendirse; al negarse, lo derriba con la explosión ancestral. Jin combate envenenado y decapita al estratega Binlis. Calista usa distancia, palabras y prisiones mentales para deshacer el dragón de Aqua y acabar con su vida. Toma el rapier de la perla mayor y exige retirar el cuerpo. Banzo, ante la orden de un rey, suelta al vencido sin ejecutar un corte de cuello. Serafina observa cómo el menosprecio de la corte deja paso al silencio. Los reyes permiten que Calista conserve Kuroto, manteniendo la condición de otro guardián.",
+        "referencias": [
+          "155-007",
+          "155-008",
+          "155-009",
+          "155-010"
+        ]
+      },
+      {
+        "titulo": "El precio de una rodilla",
+        "texto": "La alegría dura hasta la vuelta del Rey Dragón. Gelbreak permanece de pie y el monarca responde congelando por dentro a Calista, cuya agonía fuerza al antiguo guardián a arrodillarse. El rey detiene la tortura y ordena terminar con los demonios antes de discutir otra vez su futuro. Ella sigue viva, pero queda helada y herida. Gelbreak la recoge y lleva al grupo de vuelta al palacio de Kuroto mediante teletransporte; allí la pone en agua caliente. Han conservado el puesto y ganado los duelos, sin romper todavía el poder que los retiene.",
+        "referencias": [
+          "155-011",
+          "155-012"
+        ]
+      }
+    ]
+  },
+  "misiones": [
+    "Recuperarse de la tortura y debatir el plan contra el dominio del rey.",
+    "Nombrar nuevo guardián tras la destitución formal de Gelbreak.",
+    "Terminar la guerra antes de otra reclamación del dragón."
+  ],
+  "preguntas": [
+    "¿Quién ocupará ahora el puesto de guardián que Gelbreak ha dejado?",
+    "¿Cómo protegerán Kuroto y liberarán a Calista del poder del dragón?",
+    "¿Qué consecuencias tendrá la muerte de Aqua y Binlis en las relaciones con la corte?",
+    "¿Cómo se recuperará Calista de la congelación interna?"
+  ],
+  "nombres_dudosos": [
+    "Renless/Rendles y Binlis: variantes pendientes de audio.",
+    "Juntuar aparece aplicado al nombre de Gelbreak al destituirlo; propuesta de apellido, sin fusionar automáticamente con Untuar de otras sesiones.",
+    "Calista Notirea/Nautil: apellido de clan con grafía pendiente."
+  ],
+  "contradicciones": [
+    "Banzo derriba al rival y el director emplea acabar, pero la escena posterior lo sostiene y decide no degollarlo. Conservar la ambigüedad del desenlace corporal, sin inventar ejecución.",
+    "Las tres victorias infantiles son tres pruebas distintas; la apuesta exige dos semanas, no cambio permanente de general.",
+    "La explicación del rapier es del director al cierre y no una orden colectiva ya realizada.",
+    "La retirada de Gelbreak del cargo es expresa aquí, a diferencia de la mera promesa en154."
+  ]
+}

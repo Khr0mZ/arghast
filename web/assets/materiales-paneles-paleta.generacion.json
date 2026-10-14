@@ -1,0 +1,35 @@
+{
+  "mode": "built-in imagegen",
+  "intent": "edit",
+  "palette_source": "config/paletas_campanas.json",
+  "assets": [
+    {
+      "name": "xoltacan-panel-paleta",
+      "prompt": "Edit the attached texture, preserving its wide aspect ratio, composition, border motifs, material grain, engraved relief, and quiet central space for overlaid text. This is a color-palette correction, not a new layout. No added text, UI, characters, or objects. Keep intricate craftsmanship, rich detail and readable dark center. No rainbow accents. The authoritative Xoltacan palette is #050A0B #20292B #373B35 #4D5335 #6A6F41 #838A49 #3D6779 #537989 #6791A9 #9ABAC7 #B3D2D3 #CEB398 #ECCFAC #F7EAC8 #E9E626 #F52024. Replace the emerald/jade and saturated turquoise stone with charcoal #20292B and smoky gray stone #373B35, olive moss #4D5335 #6A6F41 #838A49. Leaf relief should be olive, not emerald. Use slate blue mineral veins #3D6779 #537989 #6791A9 with tiny pale blue highlights #9ABAC7. Replace metallic gold and bronze framing with carved limestone and weathered stone in #CEB398 #ECCFAC, subdued #F7EAC8 edge highlights. Strong yellow #E9E626 and red #F52024 may appear ONLY as extremely small inset pigment details at the outer corners, not luminous large shapes or colored borders. Dominant impression: shadowy olive tropical vegetation, dark stone and pale limestone; subtle cool sky-blue veins. Eliminate green emerald, teal jade, shiny gold and copper hues outside this palette. Use the palette as the exclusive color family with natural shading.",
+      "edit_target": "C:/Users/khr0m/Desktop/Coding/Projects/xoltacan/web/assets/xoltacan-panel.webp",
+      "source": "C:/Users/khr0m/.codex/generated_images/01a139d3-d428-79a1-9a34-77d49502b031/exec-5f432910-2f27-45a6-9d25-738a92f6e544.png",
+      "original": "web/assets/xoltacan-panel-paleta-original.png",
+      "file": "web/assets/xoltacan-panel-paleta.webp",
+      "width": 1672,
+      "height": 941,
+      "quality": 90,
+      "bytes": 577496,
+      "sha256": "b503020592d4d134798dfed83723b78e1ce359f01195895f33c50d78de030fcd",
+      "edit_target_sha256": "3097845cbce677c1c6097c15cce46a20da8426d248a08a7031600c0993d01f1e"
+    },
+    {
+      "name": "kuroto-panel-paleta",
+      "prompt": "Edit the attached texture, preserving its wide aspect ratio, composition, border motifs, material grain, engraved relief, and quiet central space for overlaid text. This is a color-palette correction, not a new layout. No added text, UI, characters, or objects. Keep intricate craftsmanship, rich detail and readable dark center. No rainbow accents. The authoritative Kuroto palette is #FDF0CF #F5CFB7 #E3E4C9 #A2AB9B #A5CDBE #7EB8AF #4FA2A0 #207E81 #EEB5A1 #EC8D85 #D56564 #EE1F25 #0E3F45 #8A6E5B #5C4B3B #312016. Completely replace navy/indigo with deep forest-turquoise #0E3F45, waves and brushed lacquer grain #207E81 #4FA2A0 with mint #7EB8AF #A5CDBE highlights. Replace ALL metallic gold lines and gold ornaments with warm cream #FDF0CF #F5CFB7 and matte brown #8A6E5B #5C4B3B #312016: no yellow gold. Cherry blossoms must be soft but definite salmon-coral #EC8D85 #D56564 with blush #EEB5A1 highlights, instead of dark vermilion/gold flowers. Restrict intense red #EE1F25 to tiny flower stamens. Preserve wave engravings, flowers, textured lacquer and asymmetrical edge ornament. Dominant impression: dark green turquoise lacquer, cream inlay, warm brown and cherry pink. Eliminate blue navy, purple, emerald, shiny gold, and yellow hues. Use the palette as the exclusive color family with natural shading.",
+      "edit_target": "C:/Users/khr0m/Desktop/Coding/Projects/xoltacan/web/assets/kuroto-panel.webp",
+      "source": "C:/Users/khr0m/.codex/generated_images/01a139d3-d428-79a1-9a34-77d49502b031/exec-fe9860d9-85f3-45ab-9f7b-5bdd58dda2e8.png",
+      "original": "web/assets/kuroto-panel-paleta-original.png",
+      "file": "web/assets/kuroto-panel-paleta.webp",
+      "width": 1672,
+      "height": 941,
+      "quality": 90,
+      "bytes": 497594,
+      "sha256": "01ac88c1bc58138b366db35f9c50ed150f7987a264cda0ba9c3004ea0855aeef",
+      "edit_target_sha256": "0685ed4ca012266d9b2b15180f7e66f4d31c44d89cff4924bfff4c4e0d0caef5"
+    }
+  ]
+}

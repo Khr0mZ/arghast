@@ -1,0 +1,365 @@
+{
+  "capitulo": 117,
+  "estado_revision": "revisado",
+  "fuente_sha256": "6553d83a75b50248d47822c5897a2169714853213901f2fbeddeac5f244c12f5",
+  "resumen": "El disgusto de la población crece por la crisis, los peligros y la barrera sin reparar. En la base, Calista asume el papeleo que hacía Guxi, despedido según explica por un error de hace diez años, y Jin intenta ayudarla. Archi cuenta que ha instalado comunicaciones entre bases y trabajado en el barco; todavía no había firmado el contrato. Calista le presenta el documento mágico y él acepta incorporarse al servicio del shogunato. Maroxi reaparece después de reconstruir como ha podido a Gluglu y se presenta formalmente a Calista. Maroxi explica que está más estable bajo la protección de la Reina Cuervo, pero conserva la criatura en su interior. Su acuerdo de servicio le exige buscar el Espejo de la Vida, la Muerte y el Deseo, que considera clave para curarse. Invita a Jin, Calista y Archi, y reclama a Danifae el favor que le debe. Para el traslado retira un cristal del portal: el arco queda inactivo hasta que puedan devolverlo. Un cuervo lo acompaña como ayuda y vigilancia de su compromiso con la diosa. Danifae llega desarmada por lo ocurrido con Arwen y Maroxi le presta un estoque y una daga. La tensión con Calista acompaña toda la exploración: se vigilan, se provocan y discuten sobre quién aporta más. Danifae encuentra la entrada de unas construcciones antiguas dentro de la montaña. Jin reconoce un posible origen enano; Calista advierte señales de derrumbes y pide evitar ruidos fuertes. En el salón central descubren un hogar, cuatro soportes y cuatro puertas. Maroxi enciende el fuego y se reparten las pruebas para conseguir los cristales que encajan en los soportes. Archi y Danifae encuentran una plataforma de energía que se teletransporta cuando intentan tocar su cristal. Ralph, el homúnculo, lo prueba primero y queda atrás cuando el mecanismo cambia de posición. Tras observar la secuencia, los tres actúan sobre los puntos posibles a la vez. Danifae logra recoger el cristal y lo encaja en el altar central. Es un hallazgo conseguido por coordinación, no una simple pieza recogida sin defensa. Jin, Calista y Maroxi investigan una sala con gárgolas de cuatro brazos y cristales azules. Tocar uno despierta a su guardiana. Calista la fuerza a bailar e inspira a sus compañeros, mientras Jin y Maroxi destrozan la piedra. Después de que Jin deje caer una gema por el hueco equivocado, ella la recupera con aire y la coloca en un receptáculo pequeño. Archi y Danifae se suman a la pelea cuando activan las otras dos gárgolas. Archi queda sujeto y paralizado por una mirada, pero los ataques coordinados derriban a ambas. Los tres cristales pequeños activan un mecanismo que produce otro cristal mayor para el salón. En la sala de las vasijas, la primera que abre Jin explota y la montaña vuelve a temblar. Danifae cambia el método: perfora con precisión los tapones y busca luz azul antes de abrir. Localiza la pieza correcta y Maroxi la extrae a distancia. La última sala contiene una estatua con una inscripción sobre el coste de elegir y dos plataformas. Los objetos colocados encima no bastan. Jin se sube a una: su losa desciende hasta el suelo, mientras la otra cae al vacío. La estatua abre las fauces y Archi, volando, recupera el último cristal. Al colocar las cuatro piezas aparece un artefacto circular ornamentado, con el cristal dividido en tres partes unidas. Maroxi lo recoge y los cristales del mecanismo explotan; la estancia comienza a derrumbarse. En la huida, Danifae se apoya sobre Jin, lo desequilibra y él choca contra una roca, quedando inconsciente. Maroxi vuelve a buscarlo y consigue sacarlo antes de quedar encerrado al otro lado. Los demás escapan; Maroxi conserva el espejo y el cristal del portal dentro de la montaña bloqueada. Su muerte no se confirma. Danifae cierra la escena con una sonrisa y un «uno menos», que expresa su reacción y no demuestra el destino final del atrapado.",
+  "afirmaciones": [
+    {
+      "id": "117-001",
+      "titulo": "Archi firma como cazador",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Calista, que asume el papeleo de Guxi, presenta a Archi el contrato mágico de servicio al shogunato y él lo firma.",
+      "inicio": "00:02:00.000",
+      "fin": "00:10:00.000",
+      "entidades": [
+        "Archi",
+        "Calista",
+        "Jin",
+        "Guxi (grafía provisional)"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "El despido de Guxi y su motivo son explicados por Calista; no se representa aquí una audiencia de despido.",
+      "cita": "mágico y que básicamente",
+      "evidencia_cue": {
+        "inicio": "00:09:07.160",
+        "fin": "00:09:10.190"
+      }
+    },
+    {
+      "id": "117-002",
+      "titulo": "La reparación de Gluglu",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Maroxi aparece con Gluglu reconstruido mediante sus conocimientos de los libros y se presenta a Calista como Maroxi Ayala.",
+      "inicio": "00:09:00.000",
+      "fin": "00:15:00.000",
+      "entidades": [
+        "Maroxi",
+        "Gluglu (grafía provisional)",
+        "Calista"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "Gluglu sigue siendo un no muerto, no un tritón vivo restaurado.",
+      "cita": "Ayala.",
+      "evidencia_cue": {
+        "inicio": "00:11:59.959",
+        "fin": "00:12:01.310"
+      }
+    },
+    {
+      "id": "117-003",
+      "titulo": "El encargo del espejo",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Maroxi afirma que sirve a la Reina Cuervo a cambio de protección y ayuda para extraer la criatura; busca el Espejo de la Vida, la Muerte y el Deseo.",
+      "inicio": "00:14:00.000",
+      "fin": "00:22:00.000",
+      "entidades": [
+        "Maroxi",
+        "Reina Cuervo (Kuroto)",
+        "Espejo de la Vida, la Muerte y el Deseo"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "Se mantiene la criatura dentro; su curación no se había completado en114.",
+      "cita": "vida, la muerte y el deseo. Eh, mientras",
+      "evidencia_cue": {
+        "inicio": "00:21:27.559",
+        "fin": "00:21:31.110"
+      }
+    },
+    {
+      "id": "117-004",
+      "titulo": "Un portal desactivado",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Maroxi y Danifae retiran un cristal del portal para el ritual de traslado y el arco queda inactivo.",
+      "inicio": "00:17:00.000",
+      "fin": "00:25:00.000",
+      "entidades": [
+        "Maroxi",
+        "Danifae (grafía provisional)",
+        "Cristal del portal retirado por Maroxi"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "La inactividad se plantea temporal, pero al final la pieza queda con Maroxi encerrado.",
+      "cita": "portal hace y como que se se apaga, ¿no?",
+      "evidencia_cue": {
+        "inicio": "00:22:39.960",
+        "fin": "00:22:43.870"
+      }
+    },
+    {
+      "id": "117-005",
+      "titulo": "Ruinas de montaña con cuatro pruebas",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Danifae encuentra las construcciones dentro de la montaña; Calista advierte riesgo de derrumbes y el grupo investiga cuatro puertas alrededor de un altar.",
+      "inicio": "00:38:00.000",
+      "fin": "01:08:00.000",
+      "entidades": [
+        "Danifae (grafía provisional)",
+        "Calista",
+        "Templo montañoso del Espejo de la Vida, la Muerte y el Deseo"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "El origen enano se propone por el tipo de arquitectura; no se identifica un constructor concreto.",
+      "cita": "derrumbes,",
+      "evidencia_cue": {
+        "inicio": "01:05:18.599",
+        "fin": "01:05:20.549"
+      }
+    },
+    {
+      "id": "117-006",
+      "titulo": "El cristal teleportador",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Archi, Ralph y Danifae coordinan intentos sobre las posiciones de un mecanismo que se teletransporta; Danifae captura el cristal y lo encaja en el altar.",
+      "inicio": "01:14:00.000",
+      "fin": "01:50:30.000",
+      "entidades": [
+        "Archi",
+        "Homúnculo de Archi",
+        "Danifae (grafía provisional)",
+        "Templo montañoso del Espejo de la Vida, la Muerte y el Deseo"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "Se trata de un cristal de la prueba, no del espejo completo.",
+      "cita": "por un parpadeo, parece que está en los",
+      "evidencia_cue": {
+        "inicio": "01:48:28.960",
+        "fin": "01:48:31.229"
+      }
+    },
+    {
+      "id": "117-007",
+      "titulo": "Las gárgolas de cuatro brazos",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Al tocar sus cristales se animan gárgolas de cuatro brazos. El grupo destruye las tres y usa sus gemas para producir otra pieza mayor.",
+      "inicio": "01:24:00.000",
+      "fin": "02:31:00.000",
+      "entidades": [
+        "Jin",
+        "Calista",
+        "Maroxi",
+        "Archi",
+        "Danifae (grafía provisional)"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "Archi sufre agarre y parálisis durante la pelea, pero sobrevive.",
+      "cita": "Ah, eso tiene cuatro brazos.",
+      "evidencia_cue": {
+        "inicio": "01:31:28.199",
+        "fin": "01:31:29.590"
+      }
+    },
+    {
+      "id": "117-008",
+      "titulo": "La luz en las vasijas",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Tras explotar una vasija abierta por Jin, Danifae perfora tapones para buscar luz azul; Maroxi abre a distancia la correcta y recupera otro cristal.",
+      "inicio": "02:31:00.000",
+      "fin": "02:42:00.000",
+      "entidades": [
+        "Jin",
+        "Danifae (grafía provisional)",
+        "Maroxi"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "La solución evita seguir abriendo vasijas a ciegas; la primera explosión sí provoca daño y temblores.",
+      "cita": "hacer una pincharlo un poco, dejar bajar",
+      "evidencia_cue": {
+        "inicio": "02:38:28.840",
+        "fin": "02:38:31.190"
+      }
+    },
+    {
+      "id": "117-009",
+      "titulo": "Jin elige una plataforma",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Jin se sube a una de dos plataformas: la suya desciende hasta el suelo y la otra cae al vacío. La estatua revela el último cristal, que recoge Archi volando.",
+      "inicio": "02:43:00.000",
+      "fin": "02:54:30.000",
+      "entidades": [
+        "Jin",
+        "Archi"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "No hay un sacrificio mortal consumado en esta prueba.",
+      "cita": "descender.",
+      "evidencia_cue": {
+        "inicio": "02:52:47.800",
+        "fin": "02:52:50.469"
+      }
+    },
+    {
+      "id": "117-010",
+      "titulo": "El espejo provoca el derrumbe",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Al colocar las piezas aparece el espejo circular de tres partes unidas; Maroxi lo recoge y los cristales del mecanismo explotan mientras la sala tiembla.",
+      "inicio": "02:53:00.000",
+      "fin": "02:56:30.000",
+      "entidades": [
+        "Maroxi",
+        "Espejo de la Vida, la Muerte y el Deseo",
+        "Templo montañoso del Espejo de la Vida, la Muerte y el Deseo"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "Se recupera el objeto pero no se entrega a la Reina Cuervo en esta sesión.",
+      "cita": "miráis está dividido en tres partes,",
+      "evidencia_cue": {
+        "inicio": "02:55:02.319",
+        "fin": "02:55:06.710"
+      }
+    },
+    {
+      "id": "117-011",
+      "titulo": "Maroxi salva a Jin y queda dentro",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Danifae desequilibra a Jin durante la huida y él queda inconsciente. Maroxi regresa, consigue sacarlo y queda encerrado en la montaña con el espejo y el cristal del portal.",
+      "inicio": "02:56:00.000",
+      "fin": "02:59:30.000",
+      "entidades": [
+        "Danifae (grafía provisional)",
+        "Jin",
+        "Maroxi",
+        "Espejo de la Vida, la Muerte y el Deseo",
+        "Cristal del portal retirado por Maroxi"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "No se confirma que Maroxi muera; los demás quedan fuera y el cierre no muestra su rescate.",
+      "cita": "encerrado al otro lado.",
+      "evidencia_cue": {
+        "inicio": "02:58:05.239",
+        "fin": "02:58:10.710"
+      }
+    }
+  ],
+  "historia": {
+    "revisado_hasta": 117,
+    "etapas": [
+      {
+        "titulo": "El trabajo que deja Guxi",
+        "texto": "El disgusto de la población crece por la crisis, los peligros y la barrera sin reparar. En la base, Calista asume el papeleo que hacía Guxi, despedido según explica por un error de hace diez años, y Jin intenta ayudarla. Archi cuenta que ha instalado comunicaciones entre bases y trabajado en el barco; todavía no había firmado el contrato. Calista le presenta el documento mágico y él acepta incorporarse al servicio del shogunato. Maroxi reaparece después de reconstruir como ha podido a Gluglu y se presenta formalmente a Calista.",
+        "referencias": [
+          "117-001",
+          "117-002"
+        ]
+      },
+      {
+        "titulo": "Un espejo para la Reina Cuervo",
+        "texto": "Maroxi explica que está más estable bajo la protección de la Reina Cuervo, pero conserva la criatura en su interior. Su acuerdo de servicio le exige buscar el Espejo de la Vida, la Muerte y el Deseo, que considera clave para curarse. Invita a Jin, Calista y Archi, y reclama a Danifae el favor que le debe. Para el traslado retira un cristal del portal: el arco queda inactivo hasta que puedan devolverlo. Un cuervo lo acompaña como ayuda y vigilancia de su compromiso con la diosa.",
+        "referencias": [
+          "117-003",
+          "117-004"
+        ]
+      },
+      {
+        "titulo": "La expedición de los roces",
+        "texto": "Danifae llega desarmada por lo ocurrido con Arwen y Maroxi le presta un estoque y una daga. La tensión con Calista acompaña toda la exploración: se vigilan, se provocan y discuten sobre quién aporta más. Danifae encuentra la entrada de unas construcciones antiguas dentro de la montaña. Jin reconoce un posible origen enano; Calista advierte señales de derrumbes y pide evitar ruidos fuertes. En el salón central descubren un hogar, cuatro soportes y cuatro puertas. Maroxi enciende el fuego y se reparten las pruebas para conseguir los cristales que encajan en los soportes.",
+        "referencias": [
+          "117-005"
+        ]
+      },
+      {
+        "titulo": "El cristal que cambia de sitio",
+        "texto": "Archi y Danifae encuentran una plataforma de energía que se teletransporta cuando intentan tocar su cristal. Ralph, el homúnculo, lo prueba primero y queda atrás cuando el mecanismo cambia de posición. Tras observar la secuencia, los tres actúan sobre los puntos posibles a la vez. Danifae logra recoger el cristal y lo encaja en el altar central. Es un hallazgo conseguido por coordinación, no una simple pieza recogida sin defensa.",
+        "referencias": [
+          "117-006"
+        ]
+      },
+      {
+        "titulo": "Gárgolas para otros cristales",
+        "texto": "Jin, Calista y Maroxi investigan una sala con gárgolas de cuatro brazos y cristales azules. Tocar uno despierta a su guardiana. Calista la fuerza a bailar e inspira a sus compañeros, mientras Jin y Maroxi destrozan la piedra. Después de que Jin deje caer una gema por el hueco equivocado, ella la recupera con aire y la coloca en un receptáculo pequeño. Archi y Danifae se suman a la pelea cuando activan las otras dos gárgolas. Archi queda sujeto y paralizado por una mirada, pero los ataques coordinados derriban a ambas. Los tres cristales pequeños activan un mecanismo que produce otro cristal mayor para el salón.",
+        "referencias": [
+          "117-007"
+        ]
+      },
+      {
+        "titulo": "Vasijas y una elección",
+        "texto": "En la sala de las vasijas, la primera que abre Jin explota y la montaña vuelve a temblar. Danifae cambia el método: perfora con precisión los tapones y busca luz azul antes de abrir. Localiza la pieza correcta y Maroxi la extrae a distancia. La última sala contiene una estatua con una inscripción sobre el coste de elegir y dos plataformas. Los objetos colocados encima no bastan. Jin se sube a una: su losa desciende hasta el suelo, mientras la otra cae al vacío. La estatua abre las fauces y Archi, volando, recupera el último cristal.",
+        "referencias": [
+          "117-008",
+          "117-009"
+        ]
+      },
+      {
+        "titulo": "La salida cuesta un compañero",
+        "texto": "Al colocar las cuatro piezas aparece un artefacto circular ornamentado, con el cristal dividido en tres partes unidas. Maroxi lo recoge y los cristales del mecanismo explotan; la estancia comienza a derrumbarse. En la huida, Danifae se apoya sobre Jin, lo desequilibra y él choca contra una roca, quedando inconsciente. Maroxi vuelve a buscarlo y consigue sacarlo antes de quedar encerrado al otro lado. Los demás escapan; Maroxi conserva el espejo y el cristal del portal dentro de la montaña bloqueada. Su muerte no se confirma. Danifae cierra la escena con una sonrisa y un «uno menos», que expresa su reacción y no demuestra el destino final del atrapado.",
+        "referencias": [
+          "117-010",
+          "117-011"
+        ]
+      }
+    ]
+  },
+  "misiones": [
+    "Recuperar para la Reina Cuervo el Espejo de la Vida, la Muerte y el Deseo.",
+    "Salvar a Maroxi, atrapado tras el derrumbe.",
+    "Devolver el cristal y reactivar el portal."
+  ],
+  "preguntas": [
+    "¿Cómo saldrá Maroxi de la montaña derrumbada con el espejo y el cristal del portal?",
+    "¿Qué hará el espejo por la criatura que Maroxi conserva dentro?",
+    "¿Qué error antiguo motivó el despido de Guxi y cómo se resolverá su situación?"
+  ],
+  "nombres_dudosos": [
+    "Maroxi se presenta como Maroxi Ayala.",
+    "Ralph/Ralf: nombre del homúnculo de Archi.",
+    "Guxi se confunde repetidamente con Jin en la narración, corregido en la propia sesión."
+  ],
+  "contradicciones": [
+    "El pacto da protección y estabilidad a Maroxi, pero esta sesión aclara que todavía no le han extraído la criatura.",
+    "La expresión final de Danifae no prueba que Maroxi haya muerto."
+  ]
+}

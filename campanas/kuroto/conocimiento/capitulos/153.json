@@ -1,0 +1,399 @@
+{
+  "capitulo": 153,
+  "estado_revision": "revisado",
+  "fuente_sha256": "4bf389cc3246ad6636793c7a80515f407ac5c2ea02c98967862e691385965d3e",
+  "resumen": "Arwen combina el juego en palacio con ventas de plantas y visitas al bosque, cuya degradación apenas logra contener. Kazuki, que consulta contactos sobre la droga sospechosa de origen feérico, la encuentra en Ukio con O Fortune. El ayudante intenta explicar el dinero a la niña y evita que pague toda su bolsa por un anillo. Kazuki encarga un análisis discreto del polvo a un alquimista y toma sin ser visto algunos pergaminos que caen del cabello de Arwen. Después de las visitas comerciales parten con Chilia hacia el bosque. La previsión de Arwen permite a Kazuki percibir muertos que se alzan, mientras el banquete los protege y Chilia ayuda con la oscuridad. Arwen confunde con amenaza a unos tanukis escondidos y repara el daño antes de enviarlos hacia Ukio con un cuervo. Kazuki hiere con una piedra a un pequeño kodama al tomarlo por una trampa. Las pociones y el restablecimiento de Arwen lo mantienen vivo, pero la corrupción resiste también la disipación del noble. En su cabello queda el enfermo mientras siguen la ruta de una necromancia abrumadora y registran tres cultistas muertos. Koi, un kitsune que recuerda haber sido salvado por Erk y Maroxi, describe la masa negra que deja la tierra estéril. Confía en los collares de los cazadores y acepta guiar animales hacia el pueblo. Arwen adopta su forma al continuar. Después encuentran a Ismira, una dríade que sufre deformaciones y pide la muerte. Kazuki evita que la niña mire y señala a Chilia, que cumple la petición. Arwen no entiende del todo lo sucedido y sigue intentando proteger lo vivo. La capilla derruida concentra el olor de muerte. En un presagio Kazuki ve una figura sobre el bosque marchito y reconoce relatos de Lady Ball y su linaje perseguido por otras casas y dragones. La tumba abierta está vacía: es una pista de una ausencia, sin aparición real de su ocupante. Chilia abre accidentalmente un compartimento al golpearlo y aparece un libro sobre la Marca de la Muerte. Kazuki lo recoge con cuidado y copia sus páginas, que mencionan un plano llamado Everon; Arwen preferiría quemar algo que huele a la misma corrupción. Los muertos llegan al templo y el grupo se defiende con hielo, fuego, velocidad y curaciones, además del conejo de Arwen. El banquete protege contra el miedo y el director corrige una caída de Chilia. Tras vencer descubren que las copias del libro se deshacen, igual que huesos de enemigos, aunque las notas previas de la droga sobreviven. Kazuki termina llevándose el original. Arwen recoge tierra del sarcófago, ve arañazos en la tapa y mantiene al kodama todavía enfermo. El nombre de la tumba es Ilmarrow Ball y la magia sigue sin perder intensidad. La niña marca el lugar con runas y sale invisible a auxiliar más habitantes; Kazuki vuelve para pedir ayuda a Sirth y Banzo, mientras Chilia queda por un momento sola en la capilla.",
+  "afirmaciones": [
+    {
+      "id": "153-001",
+      "titulo": "La vida entre palacio y bosque",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Arwen sigue vendiendo plantas con ayuda de una criatura, juega con Shisuka y duerme habitualmente en palacio. Sus esfuerzos contienen un poco el marchitamiento pero no lo resuelven. Kazuki investiga una droga que Gelbreak sospechaba procedente de su plano y consulta contactos feéricos; esa sospecha no prueba su origen.",
+      "inicio": "00:00:00.240",
+      "fin": "00:04:00.149",
+      "cita": "retenerlo un poco, no lo suficiente,",
+      "entidades": [
+        "Arwen",
+        "Kazuki (grafía provisional)",
+        "Jigoku Nomori (grafía provisional)",
+        "Polvo alucinógeno investigado por Kazuki"
+      ],
+      "ambito": "Kuroto, sesión 153",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "153-002",
+      "titulo": "O Fortune intenta explicar el dinero",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "El leprecaut O Fortune explica a Arwen el intercambio monetario sin lograr que deje de verlo como perder comida. Quitaro protesta por los agujeros que hace en su taberna, aunque mantiene comida gratis para cazadores. Kazuki los acompaña y Arwen llama a Chilia por su cuervo. El noble reconoce la especie feérica de su ayudante; no se prueba contrato de esclavitud.",
+      "inicio": "00:04:00.159",
+      "fin": "00:21:00.270",
+      "cita": "se llama Ofortune está así. Ay, y veis a",
+      "entidades": [
+        "Arwen",
+        "Kazuki (grafía provisional)",
+        "O Fortune (grafía provisional)",
+        "Chilia",
+        "Ukio (grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 153",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "153-003",
+      "titulo": "Una compra y un análisis pendiente",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "O Fortune entrega hierbas y cuenta el precio de un anillo de protección para que Arwen no pague toda su bolsa. Kazuki deja al alquimista una muestra de polvo alucinógeno para investigar su procedencia con discreción y paga cinco monedas; el hombre calcula dos o tres días y enviarlo a la base. Fuera, Kazuki toma sin ser visto pergaminos caídos de Arwen, entre ellos visión en la oscuridad; no se confirma todavía la copia de todos.",
+      "inicio": "00:21:00.280",
+      "fin": "00:30:00.350",
+      "cita": "empieza a mirarlo ahí con una lupita",
+      "entidades": [
+        "Arwen",
+        "Kazuki (grafía provisional)",
+        "O Fortune (grafía provisional)",
+        "Polvo alucinógeno investigado por Kazuki",
+        "Alquimista de Ukio que analiza el polvo"
+      ],
+      "ambito": "Kuroto, sesión 153",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "153-004",
+      "titulo": "Banquete y presagio",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Tras entregar hierbas, apostar y visitar a Asami, van al bosque. Arwen prepara un banquete que aumenta la resistencia y protege del miedo, además de causar picores por insectos, y da previsión a Kazuki. Este ve imágenes de muertos que se alzan y guía hacia ellas. Chilia le concede visión en la oscuridad y Arwen alumbra una llama; el olor a podredumbre lastima a la niña.",
+      "inicio": "00:30:00.360",
+      "fin": "00:54:02.349",
+      "cita": "donde ha visto el presagio.",
+      "entidades": [
+        "Arwen",
+        "Kazuki (grafía provisional)",
+        "Chilia",
+        "Jigoku Nomori (grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 153",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "153-005",
+      "titulo": "Los tanukis que huyen",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Arwen ataca una figura que sale de un árbol y descubre que son tanukis asustados. Se disculpa, cura al herido y ofrece poción. Explican que huyeron de no muertos y de una gran criatura que vieron pasar volando. La druida manda un cuervo para guiarlos a Ukio y continúa, sin confirmar su llegada efectiva.",
+      "inicio": "00:54:02.359",
+      "fin": "01:02:02.029",
+      "cita": "Sí, hay unos tanukis aquí, unos",
+      "entidades": [
+        "Arwen",
+        "Kazuki (grafía provisional)",
+        "Chilia",
+        "Tanukis refugiados del árbol"
+      ],
+      "ambito": "Kuroto, sesión 153",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "153-006",
+      "titulo": "Salvar al pequeño kodama",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Kazuki lanza una piedra creyendo activar una amenaza y hiere más a un kodama enfermo. Arwen le da una poción y restablecimiento menor: sus venas negras y savia oscura persisten, aunque la corrupción se ralentiza. El intento de disipación de Kazuki los repele sin curarlo. Arwen lo guarda en el cabello y lo mantiene con curas; no es el kodama muerto de151.",
+      "inicio": "01:02:02.039",
+      "fin": "01:12:00.510",
+      "cita": "eh sale savia negra, porque esto supongo",
+      "entidades": [
+        "Arwen",
+        "Kazuki (grafía provisional)",
+        "Chilia",
+        "Kodama enfermo de Jigoku Nomori"
+      ],
+      "ambito": "Kuroto, sesión 153",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "153-007",
+      "titulo": "Magia que pesa y muertos armados",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Kazuki detecta necromancia tan intensa que parece ejercer presión; Chilia brilla también con poderosa magia necrótica, sin quedar señalada como autora de la plaga. Encuentran tres cultistas muertos por cortes y mordeduras, con armas de filo poco limpio. Kazuki toma una nota doblada y hallan pociones. Su idea de ataques cardinales es hipótesis, no contenido textual completo de la nota.",
+      "inicio": "01:09:02.960",
+      "fin": "01:25:00.310",
+      "cita": "Pues ves una notita plegada en cuatro",
+      "entidades": [
+        "Arwen",
+        "Kazuki (grafía provisional)",
+        "Chilia",
+        "Cultistas muertos de Jigoku Nomori",
+        "Jigoku Nomori (grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 153",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "153-008",
+      "titulo": "Koi evacúa a los habitantes",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Un kitsune se acerca y reconoce los collares de los cazadores. Dice que Erk y Maroxi lo salvaron cuando era pequeño y se presenta como Koi. Describe una masa negra que marchita la tierra y cuenta que sus semillas tampoco prosperan. Acepta guiar criaturas hacia el pueblo; Arwen se transforma en kitsune, pero sigue siendo ella y no otro Koi.",
+      "inicio": "01:24:00.360",
+      "fin": "01:35:01.189",
+      "cita": "Pues encantado, Arwen. Yo soy Koi.",
+      "entidades": [
+        "Arwen",
+        "Kazuki (grafía provisional)",
+        "Chilia",
+        "Koi (kitsune, grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 153",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "153-009",
+      "titulo": "La petición de Ismira",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Una dríade llamada Ismira aparece deformada, con venas negras y ramas que brotan dolorosamente. Sujeta la pata de Arwen y pide que la maten. Kazuki aparta la mirada de la niña y hace una señal a Chilia; esta le hunde la mano en la cara y la mata. Arwen queda confusa y no es quien la ejecuta ni confirma su reencarnación.",
+      "inicio": "01:34:06.400",
+      "fin": "01:42:02.109",
+      "cita": "patita y te hace matadme,",
+      "entidades": [
+        "Arwen",
+        "Kazuki (grafía provisional)",
+        "Chilia",
+        "Ismira (dríade, grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 153",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "153-010",
+      "titulo": "El nombre del presagio",
+      "tipo": "explicacion_director",
+      "afirmacion": "Llegan a una capilla derruida donde nada vivo permanece. Kazuki ve en un presagio un bosque muerto y una criatura volando, reconocida en relatos como Lady Ball, única portadora de la Marca de la Muerte. El director explica que está muerta y no puede usarla de la forma ordinaria. El sarcófago, con figura de elfa, está abierto y vacío. Recuerdan que otras casas y dragones exterminaron su linaje por el peligro de su unión; todavía no la encuentran físicamente.",
+      "inicio": "01:42:02.119",
+      "fin": "01:54:02.109",
+      "cita": "Lady Ball",
+      "entidades": [
+        "Arwen",
+        "Kazuki (grafía provisional)",
+        "Chilia",
+        "Jigoku Nomori (grafía provisional)",
+        "Capilla de Ilmarrow Ball",
+        "Ilmarrow Ball (grafía provisional)",
+        "Marca de la Muerte",
+        "Casa de Ball (grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 153",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "153-011",
+      "titulo": "El libro escondido",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "La magia de Kazuki no logra contener la corrupción. Chilia golpea el sarcófago y activa un compartimento del que cae un libro con la Marca de la Muerte. Kazuki lo recoge con paño y comienza a copiarlo; Arwen siente el mismo olor corrupto y quiere quemarlo. Las primeras páginas atribuyen marcas a dragones y mencionan un plano llamado Everon. No es la biblia de Otakemaru.",
+      "inicio": "01:53:01.400",
+      "fin": "02:00:00.629",
+      "cita": "en un plano llamado Everon.",
+      "entidades": [
+        "Arwen",
+        "Kazuki (grafía provisional)",
+        "Chilia",
+        "Capilla de Ilmarrow Ball",
+        "Libro de la Marca de la Muerte",
+        "Marca de la Muerte"
+      ],
+      "ambito": "Kuroto, sesión 153",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "153-012",
+      "titulo": "La defensa de la capilla",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Una horda de esqueletos, zombis y otros muertos rodea el templo. Kazuki acelera a Chilia y lanza golpes y tormentas de hielo; Arwen usa forma de kitsune, fuego, curas, tótem de unicornio y conejo feérico. Chilia combate con gran movilidad. El director corrige su caída inicial porque el banquete protege del miedo. Los tres sobreviven y derrotan a los atacantes; la corrupción ambiental no disminuye.",
+      "inicio": "01:57:00.760",
+      "fin": "02:44:04.230",
+      "cita": "Somos inmunes al miedo, así que patata.",
+      "entidades": [
+        "Arwen",
+        "Kazuki (grafía provisional)",
+        "Chilia",
+        "Conejo feérico de Arwen",
+        "Capilla de Ilmarrow Ball"
+      ],
+      "ambito": "Kuroto, sesión 153",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "153-013",
+      "titulo": "Lo escrito desaparece",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Las hojas donde Kazuki copia el libro se desintegran; sus notas de la droga permanecen. Debate dejar el original, pero finalmente decide llevárselo para estudiarlo con Sirth. Los restos óseos registrados también se deshacen y solo queda armadura inútil; Arwen obtiene veinte monedas y no encuentra otro kodama.",
+      "inicio": "02:44:04.240",
+      "fin": "02:51:00.990",
+      "cita": "Se desintegra literalmente, se hacen las",
+      "entidades": [
+        "Arwen",
+        "Kazuki (grafía provisional)",
+        "Chilia",
+        "Libro de la Marca de la Muerte",
+        "Polvo alucinógeno investigado por Kazuki"
+      ],
+      "ambito": "Kuroto, sesión 153",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "153-014",
+      "titulo": "La tumba vacía sigue emitiendo muerte",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Arwen encuentra arañazos profundos en el interior de la tapa y recoge tierra en un frasco. El kodama que lleva sigue vivo, tosiendo y marcado, sin curación total. La necromancia permanece igual de intensa y es mayor cerca de la tumba. Kazuki memoriza la figura y el nombre Ilmarrow Ball; Arwen marca los alrededores con runas druídicas, sin revelar aún su finalidad.",
+      "inicio": "02:51:01.000",
+      "fin": "02:57:02.429",
+      "cita": "Ilmarrow Ball, el nombre de la mujer de",
+      "entidades": [
+        "Arwen",
+        "Kazuki (grafía provisional)",
+        "Chilia",
+        "Capilla de Ilmarrow Ball",
+        "Ilmarrow Ball (grafía provisional)",
+        "Tierra del sarcófago de Ilmarrow Ball",
+        "Kodama enfermo de Jigoku Nomori"
+      ],
+      "ambito": "Kuroto, sesión 153",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "153-015",
+      "titulo": "Avisar y proteger lo que queda",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Kazuki hace invisible a Arwen y promete hablar con Sirth y Banzo para avisar a los cazadores. Ella toma un rodeo para ayudar a animales y sostener el bosque, prometiendo informar a Calista y Gelbreak si vuelve a palacio. Chilia, que también se hace invisible, acaba sola en el templo sin entender adónde han ido. La alarma y el estudio quedan propuestos, no celebrados en escena.",
+      "inicio": "02:56:01.720",
+      "fin": "02:59:34.080",
+      "cita": "carta a todos los posibles.",
+      "entidades": [
+        "Arwen",
+        "Kazuki (grafía provisional)",
+        "Chilia",
+        "Jigoku Nomori (grafía provisional)",
+        "Libro de la Marca de la Muerte"
+      ],
+      "ambito": "Kuroto, sesión 153",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    }
+  ],
+  "historia": {
+    "revisado_hasta": 153,
+    "etapas": [
+      {
+        "titulo": "Vender plantas mientras la tierra enferma",
+        "texto": "Arwen combina el juego en palacio con ventas de plantas y visitas al bosque, cuya degradación apenas logra contener. Kazuki, que consulta contactos sobre la droga sospechosa de origen feérico, la encuentra en Ukio con O Fortune. El ayudante intenta explicar el dinero a la niña y evita que pague toda su bolsa por un anillo. Kazuki encarga un análisis discreto del polvo a un alquimista y toma sin ser visto algunos pergaminos que caen del cabello de Arwen. Después de las visitas comerciales parten con Chilia hacia el bosque.",
+        "referencias": [
+          "153-001",
+          "153-002",
+          "153-003",
+          "153-004"
+        ]
+      },
+      {
+        "titulo": "Todavía hay criaturas a las que salvar",
+        "texto": "La previsión de Arwen permite a Kazuki percibir muertos que se alzan, mientras el banquete los protege y Chilia ayuda con la oscuridad. Arwen confunde con amenaza a unos tanukis escondidos y repara el daño antes de enviarlos hacia Ukio con un cuervo. Kazuki hiere con una piedra a un pequeño kodama al tomarlo por una trampa. Las pociones y el restablecimiento de Arwen lo mantienen vivo, pero la corrupción resiste también la disipación del noble. En su cabello queda el enfermo mientras siguen la ruta de una necromancia abrumadora y registran tres cultistas muertos.",
+        "referencias": [
+          "153-004",
+          "153-005",
+          "153-006",
+          "153-007"
+        ]
+      },
+      {
+        "titulo": "Los que escapan y la que pide morir",
+        "texto": "Koi, un kitsune que recuerda haber sido salvado por Erk y Maroxi, describe la masa negra que deja la tierra estéril. Confía en los collares de los cazadores y acepta guiar animales hacia el pueblo. Arwen adopta su forma al continuar. Después encuentran a Ismira, una dríade que sufre deformaciones y pide la muerte. Kazuki evita que la niña mire y señala a Chilia, que cumple la petición. Arwen no entiende del todo lo sucedido y sigue intentando proteger lo vivo.",
+        "referencias": [
+          "153-008",
+          "153-009"
+        ]
+      },
+      {
+        "titulo": "El sarcófago y la casa exterminada",
+        "texto": "La capilla derruida concentra el olor de muerte. En un presagio Kazuki ve una figura sobre el bosque marchito y reconoce relatos de Lady Ball y su linaje perseguido por otras casas y dragones. La tumba abierta está vacía: es una pista de una ausencia, sin aparición real de su ocupante. Chilia abre accidentalmente un compartimento al golpearlo y aparece un libro sobre la Marca de la Muerte. Kazuki lo recoge con cuidado y copia sus páginas, que mencionan un plano llamado Everon; Arwen preferiría quemar algo que huele a la misma corrupción.",
+        "referencias": [
+          "153-010",
+          "153-011"
+        ]
+      },
+      {
+        "titulo": "Combatir no apaga la fuente",
+        "texto": "Los muertos llegan al templo y el grupo se defiende con hielo, fuego, velocidad y curaciones, además del conejo de Arwen. El banquete protege contra el miedo y el director corrige una caída de Chilia. Tras vencer descubren que las copias del libro se deshacen, igual que huesos de enemigos, aunque las notas previas de la droga sobreviven. Kazuki termina llevándose el original. Arwen recoge tierra del sarcófago, ve arañazos en la tapa y mantiene al kodama todavía enfermo. El nombre de la tumba es Ilmarrow Ball y la magia sigue sin perder intensidad. La niña marca el lugar con runas y sale invisible a auxiliar más habitantes; Kazuki vuelve para pedir ayuda a Sirth y Banzo, mientras Chilia queda por un momento sola en la capilla.",
+        "referencias": [
+          "153-012",
+          "153-013",
+          "153-014",
+          "153-015"
+        ]
+      }
+    ]
+  },
+  "misiones": [
+    "Llevar el libro a Sirth y avisar a Banzo sobre la amenaza.",
+    "Investigar la tumba, la Marca de la Muerte y la corrupción resistente.",
+    "Salvar al kodama enfermo y evacuar habitantes del bosque."
+  ],
+  "preguntas": [
+    "¿Qué es Ilmarrow Ball y cómo se relaciona su tumba con la corrupción?",
+    "¿Por qué se destruyen las copias y qué podrá descubrirse del libro original?",
+    "¿Podrá curarse al kodama que Arwen mantiene vivo?",
+    "¿Qué resultado entregará el alquimista sobre el polvo alucinógeno?",
+    "¿Qué finalidad tendrán las runas marcadas por Arwen?",
+    "¿Quién mató a los cultistas y qué informa su nota?"
+  ],
+  "nombres_dudosos": [
+    "Ilmarrow Ball/Lady Ball y Casa de Ball: formas de subtítulos; el director dice haber escrito el nombre en el chat. No corregir por canon externo sin contraste.",
+    "Everon: grafía transcrita del plano mencionado por el libro.",
+    "O Fortune/Oftfortune/Fortune: ayudante leprecaut de Arwen.",
+    "Ismira y Koi: nombres propios pendientes de audio."
+  ],
+  "contradicciones": [
+    "No equiparar visión de futuro con presencia física de Ilmarrow.",
+    "Chilia cae inicialmente, pero el director corrige la escena por inmunidad al miedo del banquete.",
+    "La nota de los cultistas no se transcribe íntegra en voz: conservar hipótesis de Kazuki sin fabricar texto.",
+    "Se plantea dejar el libro pero la decisión final explícita es llevárselo. Las notas de la droga no se pierden."
+  ]
+}

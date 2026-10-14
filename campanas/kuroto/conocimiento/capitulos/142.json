@@ -1,0 +1,451 @@
+{
+  "capitulo": 142,
+  "estado_revision": "revisado",
+  "fuente_sha256": "27270722725acc7e67e651c1f19fcf48303ab269412c10266f42e9b08efcc16f",
+  "resumen": "La llegada a Brunami empieza a dar fruto: Calista confirma relaciones comerciales con Puerto de las Espadas, ajusta precios ante sus aranceles y ve regresar actividad y mercancías a la capital. Jin combina estudio militar y apoyo al sur, y Ayuko le exige convertir la coordinación de los cazadores con el ejército en resultados. Ante la shogun advierte del crecimiento organizado de los demonios. Calista considera consultar cómo restaurar la cúpula, sin que esa gestión se realice todavía. Archi, por su parte, celebra las armaduras logradas y presenta nuevas posibilidades para su industria. La reunión se interrumpe por Arwen y Shisuka, que se cuelan transformadas. Archi dispara contra una cucaracha sin reconocer a Arwen; su llanto activa la esfera ingerida y sacude capital y palacio. Las fisuras y caídas son reales, aunque la escena conserve tono de travesura. Después salen de compras por una ciudad más animada: el nuevo puerto abre oportunidades para componentes, perlas y productos mágicos. Calista equipa a Gelbreak con magia y guantes; él le devuelve el gesto mediante un collar de la sirena que ella recibe con ilusión. Archi intenta conseguir dinero, pero solo pacta posibles condiciones futuras: no firma ni recibe el préstamo. Jin disfruta la cerveza importada, compra un barril, vende equipo sobrante y mejora su gimnasio. Tsugami repara ropa de Calista, vende un traje al guardián y toma el encargo de otro para Archi, mientras las bromas no convierten al gnomo en hijo de la pareja. Archi hace trampas con Tiny Servant en una apuesta de fuerza, no completa las repeticiones y acuerda un empate con Jin. Los ejercicios terminan entre celos, oscuridad y tropiezos. Al ir después al taller, Calista se disfraza y reconoce a Cuchillas Negras observando a Gelbreak; no llegan a atacarlos. Dentro conoce a Víctor, a su carlino robótico y a sus generadores. Permite estudiar la venta de inventos pequeños con controles, mientras la iluminación urbana y las nuevas comunicaciones siguen siendo proyectos. El director limita la red a piedras fijas entre bases, sin comunicadores personales. Archi enseña su anillo de la cofradía y propone actuar como intermediario para orientar la atención de Tiari. Calista acepta suministrarle información, pero el director recuerda que la jefa dispone de otros informantes y comprobará lo recibido. No se lleva a cabo todavía la maniobra. Al volver, el gnomo encuentra un escudo elemental y un fragmento de gema en un callejón: recoge ambos sin conocer su origen ni demostrar que pertenezcan al mismo objeto. La jornada termina con una comitiva tritón armada y una mujer velada que llama a Calista Nautirea. La shogun, visiblemente inquieta, acepta hablar en privado. Archi frena el impulso de Gelbreak de desenvainar, pero la visitante lo deja fuera de la conversación. Los cazadores quedan frente a soldados muy preparados, sin combate ni explicación de la visita. El episodio cierra con la identidad y las exigencias de la mujer pendientes.",
+  "afirmaciones": [
+    {
+      "id": "142-001",
+      "titulo": "Comercio exterior conseguido",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Calista relata que ha establecido relaciones comerciales con Puerto de las Espadas, estudiado su demanda y compensado aranceles mayores ajustando los precios de productos de Kuroto. El director confirma que los puertos abiertos mejoran el comercio y hacen llegar gente y mercancías. Los negocios de Calista y Jin pierden cincuenta monedas cada uno en sus tiradas; no significa que la apertura comercial haya fracasado.",
+      "inicio": "00:03:00.920",
+      "fin": "00:10:02.269",
+      "cita": "aranceles, ¿vale? Pero no pasa nada",
+      "entidades": [
+        "Calista",
+        "Jin",
+        "Puerto de las Espadas (Kuroto)"
+      ],
+      "ambito": "Kuroto, sesión 142",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "142-002",
+      "titulo": "Archi presenta su industria",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Archi cuenta que cumplió su proyecto, estrenó trabajo y celebró una fiesta. Propuso nuevas armaduras vinculadas a la shogun y su guardián. Su tabla de Archivolt Industries le impone hoy dos puntos menos de defensa por un fallo de armadura, relacionado entre bromas con haberlo tirado a la piscina.",
+      "inicio": "00:00:00.000",
+      "fin": "00:04:00.630",
+      "cita": "proyecto de armaduras vinculadas",
+      "entidades": [
+        "Archi",
+        "Archivolt Industries"
+      ],
+      "ambito": "Kuroto, sesión 142",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "142-003",
+      "titulo": "Jin coordina cazadores y ejército",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Jin estudia estrategia para ejércitos y lleva informes de Hati y propios a Ayuko. Explica que los demonios muestran más coordinación y que los cazadores todavía actúan por libre. Ayuko le recuerda que él y Banzo deben conseguir que los cazadores se adapten al ejército. Jin recibe cincuenta monedas por avances tácticos, antes de perder la misma cantidad en su negocio.",
+      "inicio": "00:06:00.360",
+      "fin": "00:15:01.910",
+      "cita": "Imprudentes.",
+      "entidades": [
+        "Jin",
+        "Ayuko",
+        "Banzo",
+        "Hati (grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 142",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "142-004",
+      "titulo": "Informe militar a la shogun",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Jin comunica a Calista su temor de que una nueva oleada cause bajas importantes por el creciente poder y organización demoníacos. Relacionan el peligro con el bosque y la sangre de Otakemaru. Calista plantea consultar a los guardianes cómo reparar o reconstruir la cúpula y reconoce que de momento solo pueden defenderse; no se realiza esa consulta aquí.",
+      "inicio": "00:24:02.360",
+      "fin": "00:30:02.950",
+      "cita": "de reparar o reconstruir la cúpula.",
+      "entidades": [
+        "Jin",
+        "Calista",
+        "Otakemaru"
+      ],
+      "ambito": "Kuroto, sesión 142",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "142-005",
+      "titulo": "Una travesura sacude la capital",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Arwen y Shisuka se cuelan transformadas mientras los mayores hablan. Archi dispara fuego contra una cucaracha que resulta ser Arwen; herida, ella llora y la esfera que se tragó desencadena un terremoto. Tiembla la capital, se agrieta palacio y varios caen al suelo. No es un conjuro de terremoto que pueda contrarrestarse. Shisuka reprocha el ataque y se lleva a su amiga.",
+      "inicio": "00:18:02.600",
+      "fin": "00:38:00.670",
+      "cita": "bola que se que se tragó que cuando",
+      "entidades": [
+        "Arwen",
+        "Shisuka",
+        "Archi",
+        "Palacio de la shogun"
+      ],
+      "ambito": "Kuroto, sesión 142",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "142-006",
+      "titulo": "Puerto de las Espadas y demanda mágica",
+      "tipo": "explicacion_director",
+      "afirmacion": "El director describe Puerto de las Espadas como gran ciudad mercantil multicultural de Brunami del Este, cerca del muro que lo separa del norte, conectada con el desierto y numerosas islas, incluida Xoltacan. Tres señores dirigen sus gremios. Calista observa demanda de magia y oportunidades para perlas y componentes de Kuroto. La descripción procede de esta campaña.",
+      "inicio": "00:36:00.280",
+      "fin": "00:42:02.710",
+      "cita": "diferentes gremios de las ciudades, tn",
+      "entidades": [
+        "Puerto de las Espadas (Kuroto)",
+        "Brunami del Este (Kuroto)",
+        "Calista"
+      ],
+      "ambito": "Kuroto, sesión 142",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "142-007",
+      "titulo": "La ciudad recibe nuevas mercancías",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Calista sale de compras con Gelbreak, Archi y Jin; Mei prefiere tomarse el día libre ofrecido. Ven más actividad portuaria y comercial. En el alquimista Kashi llegan pociones y objetos por la nueva ruta. El director presenta existencias y efectos de los artículos, diferenciables de una compra efectiva.",
+      "inicio": "00:42:02.720",
+      "fin": "00:55:00.630",
+      "cita": "Kashi se llama. Veis que entráis dentro,",
+      "entidades": [
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Archi",
+        "Jin",
+        "Mei (grafía provisional)",
+        "Kashi (alquimista, grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 142",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "142-008",
+      "titulo": "Regalos entre Calista y su guardián",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Calista compra para Gelbreak el objeto de magia poderosa; él le regala el collar de la sirena con forma de corazón para mejorar su constitución. Ella se sorprende y le agradece con un beso. Más tarde le compra guantes de juego de manos. Son regalos efectivos, a diferencia del préstamo que Archi solo negocia.",
+      "inicio": "00:54:00.960",
+      "fin": "01:09:00.070",
+      "cita": "de la sirena, el amuleto de la sirena,",
+      "entidades": [
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Collar de la sirena de Calista",
+        "Objeto de magia poderosa de Gelbreak"
+      ],
+      "ambito": "Kuroto, sesión 142",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "142-009",
+      "titulo": "Un préstamo negociado, sin firma",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Archi y Calista negocian financiar sus compras. La oferta inicial de quinientas monedas con veinte por ciento de interés baja al diez por ciento para las tres primeras operaciones. Archi prefiere decidir cuando necesite el dinero y no firma el documento que ella ofrece. No se entrega ese préstamo ni nace aquí una deuda de quinientas monedas.",
+      "inicio": "00:57:04.680",
+      "fin": "01:07:01.829",
+      "cita": "que no ganamos dinero. Cobr un 10%. No,",
+      "entidades": [
+        "Archi",
+        "Calista"
+      ],
+      "ambito": "Kuroto, sesión 142",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "142-010",
+      "titulo": "Jin protege su cerveza y renueva el gimnasio",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Jin compra un barril de la cerveza importada por cuatro monedas de oro. Archi lo reduce para transportarlo y el director aclara que al recuperar tamaño volverá también la cantidad original. Jin vende armaduras que no utiliza, lleva el barril a su gimnasio, lo esconde bajo losas y adecenta el negocio aprovechando la reapertura comercial.",
+      "inicio": "01:07:01.839",
+      "fin": "01:36:01.109",
+      "cita": "mucha fuerza. Voy a los gimnasios.",
+      "entidades": [
+        "Jin",
+        "Archi",
+        "Gimnasio de Jin"
+      ],
+      "ambito": "Kuroto, sesión 142",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "142-011",
+      "titulo": "Visita a Tsugami",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Tsugami confunde a Archi con un hijo de Calista y Gelbreak; ellos lo niegan. Calista encarga reparar ropa dañada y recoge otra. Archi y Gelbreak desfilan con los nuevos modelos, y el drow compra un traje elegante que fascina a Calista. Archi encarga su talla en verde para distinguirse; Gelbreak deja claro que no se lo paga.",
+      "inicio": "01:33:00.719",
+      "fin": "01:49:02.310",
+      "cita": "Shugami y el del de él haz lo verde.",
+      "entidades": [
+        "Tsugami (grafía provisional)",
+        "Archi",
+        "Calista",
+        "Gelbreak (grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 142",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "142-012",
+      "titulo": "Una apuesta y oscuridad en el gimnasio",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Archi apuesta un favor con Jin por levantar pesas y usa a escondidas Tiny Servant para ayudarse. Jin no detecta la trampa, pero Archi no termina cinco repeticiones: acuerdan empate y aun así el gnomo ofrece un favor. Tras ejercicios de comba, Gelbreak se molesta por comentarios y miradas hacia Calista, lanza oscuridad y provoca tropiezos antes de que salgan.",
+      "inicio": "01:48:02.840",
+      "fin": "02:10:00.790",
+      "cita": "empate. De acuerdo.",
+      "entidades": [
+        "Archi",
+        "Jin",
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Gimnasio de Jin"
+      ],
+      "ambito": "Kuroto, sesión 142",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "142-013",
+      "titulo": "Cuchillas Negras vigilan al guardián",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Calista se disfraza de elfa para ir al taller de Archi. Reconoce por su conducta y ropas a miembros de Cuchillas Negras que observan especialmente a Gelbreak desde callejones y tejados. No los siguen ni atacan durante el trayecto. Calista se tensa y comunica posiciones a Archi; él reconoce gente entrenada, sin identificar por sí mismo inequívocamente la cofradía.",
+      "inicio": "02:09:02.320",
+      "fin": "02:21:00.550",
+      "cita": "que sí, son los cuchillas negras que os",
+      "entidades": [
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Archi",
+        "Cuchillas Negras"
+      ],
+      "ambito": "Kuroto, sesión 142",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "142-014",
+      "titulo": "El taller y la venta de inventos",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Archi presenta a Víctor y su taller a Calista, que se descubre tras comprobar con su compañero que es de confianza. Conoce a Frank, un carlino robótico. Autoriza comercializar pequeños inventos tras un filtro, excluyendo prototipos de armadura y otros peligrosos. El generador de Víctor emplea veinte minutos para obtener dos de luz; iluminar las calles es una posibilidad, no una obra ejecutada.",
+      "inicio": "02:18:01.840",
+      "fin": "02:31:00.469",
+      "cita": "va a conocer a Frank. Es un Carlino",
+      "entidades": [
+        "Archi",
+        "Víctor Frankenbolt (grafía provisional)",
+        "Calista",
+        "Frank (carlino robótico)",
+        "Archivolt Industries"
+      ],
+      "ambito": "Kuroto, sesión 142",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "142-015",
+      "titulo": "Una red fija, sin comunicadores personales",
+      "tipo": "explicacion_director",
+      "afirmacion": "El director precisa que pueden enlazar piedras fijas en bases, palacio y campamento mediante un núcleo, pero no dotar a cada cazador de un comunicador móvil. Archi colaborará con Guxi y las piedras compradas amplifican la señal. El proyecto sigue en desarrollo, sin red instalada ni plazo concreto confirmado.",
+      "inicio": "02:30:00.279",
+      "fin": "02:35:01.550",
+      "cita": "vez en base. Son no son no son móviles,",
+      "entidades": [
+        "Archi",
+        "Guxi",
+        "Calista",
+        "Proyecto de torre resonadora de Guxi"
+      ],
+      "ambito": "Kuroto, sesión 142",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "142-016",
+      "titulo": "Archi se ofrece como intermediario ante Tiari",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Archi muestra a Calista su anillo de Cuchillas Negras y admite su vínculo con la cofradía. Propone transmitir información escogida para dirigir la atención de Tiari y dar margen a la shogun. Calista acepta proporcionársela personalmente y sugiere mezclar información cierta y falsa sin decirle cuál es cuál. El director advierte que Tiari contrastará los datos y no depende de un único informante. No ejecutan aún una operación.",
+      "inicio": "02:33:01.200",
+      "fin": "02:43:00.150",
+      "cita": "personalmente.\"",
+      "entidades": [
+        "Archi",
+        "Calista",
+        "Cuchillas Negras",
+        "Tiari (grafía provisional)",
+        "Anillo de Cuchillas Negras de Archi"
+      ],
+      "ambito": "Kuroto, sesión 142",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "142-017",
+      "titulo": "Escudo elemental y fragmento sin origen",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "De regreso, Archi encuentra en un callejón un fragmento de gema y un escudo mágico que no parecen encajados entre sí. El director identifica el escudo elemental: defensa aumentada, reacción que devuelve daño y activación que cambia el elemento de los golpes de armadura. Archi guarda la gema y se lleva el escudo, mirando los tejados con recelo. No se explica quién los dejó ni qué es la piedra.",
+      "inicio": "02:42:01.040",
+      "fin": "02:48:03.790",
+      "cita": "llama el escudo elemental. ¿Te quieres",
+      "entidades": [
+        "Archi",
+        "Escudo elemental de Archi",
+        "Fragmento de gema del callejón"
+      ],
+      "ambito": "Kuroto, sesión 142",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "142-018",
+      "titulo": "La comitiva tritón exige intimidad",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Una tritón velada llega a palacio con soldados y hechiceros de notable preparación. Llama a Calista Nautirea y exige hablar en privado. Calista se muestra nerviosa y accede a su despacho. Archi logra que Gelbreak vuelva a envainar su rapier; la visitante le prohíbe acompañarlas porque no puede escuchar esos asuntos. Los soldados guardan distancia y no adoptan posición de ataque. No se identifica aún la mujer ni se revela la conversación.",
+      "inicio": "02:48:03.800",
+      "fin": "03:00:13.339",
+      "cita": "\"Guardian Jbreak, esta vez permanecerás",
+      "entidades": [
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Archi",
+        "Jin",
+        "Tritón velada de la comitiva",
+        "Comitiva tritón de Calista",
+        "Palacio de la shogun"
+      ],
+      "ambito": "Kuroto, sesión 142",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    }
+  ],
+  "historia": {
+    "revisado_hasta": 142,
+    "etapas": [
+      {
+        "titulo": "Los resultados de la apertura",
+        "texto": "La llegada a Brunami empieza a dar fruto: Calista confirma relaciones comerciales con Puerto de las Espadas, ajusta precios ante sus aranceles y ve regresar actividad y mercancías a la capital. Jin combina estudio militar y apoyo al sur, y Ayuko le exige convertir la coordinación de los cazadores con el ejército en resultados. Ante la shogun advierte del crecimiento organizado de los demonios. Calista considera consultar cómo restaurar la cúpula, sin que esa gestión se realice todavía. Archi, por su parte, celebra las armaduras logradas y presenta nuevas posibilidades para su industria.",
+        "referencias": [
+          "142-001",
+          "142-002",
+          "142-003",
+          "142-004"
+        ]
+      },
+      {
+        "titulo": "Una capital que tiembla",
+        "texto": "La reunión se interrumpe por Arwen y Shisuka, que se cuelan transformadas. Archi dispara contra una cucaracha sin reconocer a Arwen; su llanto activa la esfera ingerida y sacude capital y palacio. Las fisuras y caídas son reales, aunque la escena conserve tono de travesura. Después salen de compras por una ciudad más animada: el nuevo puerto abre oportunidades para componentes, perlas y productos mágicos.",
+        "referencias": [
+          "142-005",
+          "142-006",
+          "142-007"
+        ]
+      },
+      {
+        "titulo": "Compras, regalos y tratos aplazados",
+        "texto": "Calista equipa a Gelbreak con magia y guantes; él le devuelve el gesto mediante un collar de la sirena que ella recibe con ilusión. Archi intenta conseguir dinero, pero solo pacta posibles condiciones futuras: no firma ni recibe el préstamo. Jin disfruta la cerveza importada, compra un barril, vende equipo sobrante y mejora su gimnasio. Tsugami repara ropa de Calista, vende un traje al guardián y toma el encargo de otro para Archi, mientras las bromas no convierten al gnomo en hijo de la pareja.",
+        "referencias": [
+          "142-008",
+          "142-009",
+          "142-010",
+          "142-011"
+        ]
+      },
+      {
+        "titulo": "Del gimnasio al taller",
+        "texto": "Archi hace trampas con Tiny Servant en una apuesta de fuerza, no completa las repeticiones y acuerda un empate con Jin. Los ejercicios terminan entre celos, oscuridad y tropiezos. Al ir después al taller, Calista se disfraza y reconoce a Cuchillas Negras observando a Gelbreak; no llegan a atacarlos. Dentro conoce a Víctor, a su carlino robótico y a sus generadores. Permite estudiar la venta de inventos pequeños con controles, mientras la iluminación urbana y las nuevas comunicaciones siguen siendo proyectos. El director limita la red a piedras fijas entre bases, sin comunicadores personales.",
+        "referencias": [
+          "142-012",
+          "142-013",
+          "142-014",
+          "142-015"
+        ]
+      },
+      {
+        "titulo": "Un intermediario y dos hallazgos",
+        "texto": "Archi enseña su anillo de la cofradía y propone actuar como intermediario para orientar la atención de Tiari. Calista acepta suministrarle información, pero el director recuerda que la jefa dispone de otros informantes y comprobará lo recibido. No se lleva a cabo todavía la maniobra. Al volver, el gnomo encuentra un escudo elemental y un fragmento de gema en un callejón: recoge ambos sin conocer su origen ni demostrar que pertenezcan al mismo objeto.",
+        "referencias": [
+          "142-016",
+          "142-017"
+        ]
+      },
+      {
+        "titulo": "Una visita que desarma la confianza",
+        "texto": "La jornada termina con una comitiva tritón armada y una mujer velada que llama a Calista Nautirea. La shogun, visiblemente inquieta, acepta hablar en privado. Archi frena el impulso de Gelbreak de desenvainar, pero la visitante lo deja fuera de la conversación. Los cazadores quedan frente a soldados muy preparados, sin combate ni explicación de la visita. El episodio cierra con la identidad y las exigencias de la mujer pendientes.",
+        "referencias": [
+          "142-018"
+        ]
+      }
+    ]
+  },
+  "misiones": [
+    "Coordinar cazadores con el ejército y anticipar nuevas oleadas demoníacas.",
+    "Desarrollar comunicaciones fijas entre bases, campamento y palacio.",
+    "Preparar posibles operaciones informativas mediante el vínculo de Archi con Tiari.",
+    "Averiguar procedencia del escudo y del fragmento hallados y el motivo de la visita tritón."
+  ],
+  "preguntas": [
+    "¿Qué quiere la tritón velada y qué relación tiene con Calista Nautirea?",
+    "¿Quién dejó el escudo elemental y la gema en el callejón, y qué es el fragmento?",
+    "¿Por qué Cuchillas Negras vigila a Gelbreak y funcionará el canal informativo de Archi?",
+    "¿Cuándo podrá instalarse la red de piedras fijas y con qué recursos?",
+    "¿Pueden repararse la cúpula y la descoordinación militar antes de otra oleada?"
+  ],
+  "nombres_dudosos": [
+    "Nautirea: apellido tal como aparece en el saludo tritón; requiere contraste de grafía.",
+    "Víctor/Franken Bolt y Tsugami/Sugami: conservar las identidades usadas en el bloque y las variantes de ASR.",
+    "El artículo de magia poderosa se llama anillo durante el catálogo y collar en la compra: no inventar dos regalos ni decidir ranura sin contraste."
+  ],
+  "contradicciones": [
+    "Los negocios comerciales se confirman por el relato retrospectivo de Calista y la explicación del director, no por una negociación completa representada aquí.",
+    "El préstamo de Archi no se firma ni desembolsa. Los porcentajes negociados no equivalen a una deuda activa.",
+    "La mujer velada aún no recibe identidad ni parentesco explícito; su escolta no inicia un ataque.",
+    "Arwen activa la esfera al llorar: no se presenta como lanzamiento voluntario de terremoto.",
+    "El origen del escudo y la gema es desconocido; que el director entregue equipo no acredita un benefactor dentro del mundo."
+  ]
+}

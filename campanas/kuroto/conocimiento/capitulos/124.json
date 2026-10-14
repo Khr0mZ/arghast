@@ -1,0 +1,457 @@
+{
+  "capitulo": 124,
+  "estado_revision": "revisado",
+  "fuente_sha256": "f9d217832ee8a6ac5221c30318f30d8ea0e98bfe169e8917c9d4f29dffb62d0c",
+  "resumen": "Maroxi regresa cansado de servir a la Reina Cuervo, cuya protección mantiene más estable a la criatura de su interior. Sirth trae un libro y una pista: una jefa de los bajos fondos puede conocer un templo de Bhaal vinculado con el problema. Ante la dispersión de los cazadores, se ofrece a tomar las riendas mientras nadie lo haga, aunque recuerda que él mismo no es cazador. Maroxi distingue esa autoridad de la administración que lleva Calista. Osuray retoma además el asunto de una Biblia cerrada: Maroxi sigue buscando a Tilia y no ha logrado descifrarla. Para el mal que lo consume, la oportunidad del templo exige actuar ya. Sirth, Maroxi, Jin, Osuray, Archi y Arwen llegan al sur de Sho y se reparten la búsqueda. Maroxi adopta el rostro de Gur, Archi aparenta un Banzo pequeño con ayuda de Ralph y Arwen se convierte en lobo. El inventor y la niña se distraen con un taller cerrado de mecanismos metálicos, sin conseguir entrar. Jin rehúsa una poción ruinosa a precio abusivo y Osuray observa intercambios clandestinos. Maroxi detecta una daga parcialmente oculta en la ropa de un vendedor. Al presentarse como campeón de Kuroto lo pone en fuga y luego lo sigue, ya con su aspecto habitual. Mientras Jin y Osuray investigan una marca de dos dagas, Sirth descubre la ocupación del cuerpo de Kurobane. La sombra habla de ocho intentos y de su dependencia mortal del recipiente; Sirth quiere ayudar al muchacho y promete hablar con los cazadores. Los grupos se reúnen ante la casa que ha seguido Maroxi. Arwen rastrea el paso reciente de personas y Maroxi encanta al vigilante para bajar por una trampilla. Ante la jefa de la cofradía revela sus cambios de forma y pide la localización del templo. Ella exige que los cazadores le deban un favor. Maroxi insiste en que no puede comprometer a todos, pero acepta intentar convencerlos y se pone un anillo de garantía que queda pegado a la piel. Recibe un mapa; fuera de la casa fracasa al intentar disipar la magia del anillo. Archi deja una piedra de su mapa en la sede de la cofradía. La expedición sigue las indicaciones hasta una casa abandonada y baja por un túnel sorprendentemente largo. La puerta entreabierta de Bhaal los conduce a un templo con altares, huesos y lava. Los libros aclaran el método: hace falta otro recipiente, una herida profunda en Maroxi y cuatro ritos de sangre, cuerpos, asesinato y traición. Sirth acepta volver a albergar aquello que casi lo destruyó; Jin se resiste a perderlo de nuevo y quiere combatir al monstruo. Maroxi se corta y la criatura sale: un ser enorme de cuatro brazos cuya presencia aterroriza a casi todos. Sirth encara al enemigo y pide que lo encierren en él. La criatura absorbe magia de Maroxi, hiere con una fuerza que reduce la vida máxima y atrapa al guerrero en la boca. Jin intenta protegerlo y recibe golpes devastadores. Los remedios de Arwen no reparan a Sirth y el rayo de Archi no afecta al monstruo. Cuando una espina deja a Maroxi aturdido, el gnomo envía a Ralph a estimular sus articulaciones y facilitar su recuperación. La resistencia del enemigo obliga a abandonar la esperanza de derrotarlo a golpes y completar los altares. Osuray llena de sangre el recipiente de su sala. Maroxi reconstruye dos esqueletos entre los huesos y los coloca en las criptas. Jin lleva a su familiar al altar de la traición y lo mata; la lava de esa sala se detiene. Arwen, temblando, invoca ciervos y ordena al macho atravesar a la hembra en el altar del asesinato. La niña conoce el coste de su decisión: la mesa considera vivos a los animales traídos del mundo feérico. Archi se acerca a las piernas de Sirth para ayudarlo mientras el último ritual se completa. Las estatuas se rompen, el templo tiembla y las marcas del suelo sujetan a la criatura hasta que suelta a Sirth. Jin quiere llevárselo, pero el guerrero exige acabar: dejar libre a ese monstruo pondría en peligro Kuroto. Maroxi recita el final del ritual en abisal y la criatura se disuelve en bruma que entra por las heridas de Sirth. Arwen intenta curarlo sin éxito; la necrosis impide cerrar las lesiones. Jin carga con él mientras todos corren hacia la superficie. Una sombra se ríe y anuncia que su criatura ha vuelto al lugar que le correspondía. Escapan del derrumbe, pero la victoria queda envenenada: Maroxi está libre del monstruo, Sirth vuelve a ser su prisión y sigue gravemente herido. Maroxi se marcha invisible con el libro ritual, sin que desaparezca el anillo de su otra deuda.",
+  "afirmaciones": [
+    {
+      "id": "124-001",
+      "titulo": "Una pista para extraer a la criatura",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Maroxi explica que la Reina Cuervo estabiliza su situación a cambio de servicios. Sirth trae un libro ritual e información de los bajos fondos: una jefa de ladrones podría indicar un templo de Bhaal relacionado con la criatura que ahora habita en Maroxi.",
+      "inicio": "00:00:00.240",
+      "fin": "00:12:02.949",
+      "cita": "de templo de Bal.",
+      "entidades": [
+        "Maroxi",
+        "Sirth (grafía provisional)",
+        "Reina Cuervo (Kuroto)",
+        "Criatura de Bhaal"
+      ],
+      "ambito": "Kuroto, sesión 124",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "124-002",
+      "titulo": "Liderazgo sin nombramiento formal",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Sirth reconoce que no es cazador y propone hacerse cargo mientras nadie tome las riendas. Maroxi distingue el papeleo de Calista de un liderazgo y recuerda la independencia de cada cazador. Sirth organiza la salida para ayudar a Maroxi; no se escenifica una elección ni un contrato de nombramiento.",
+      "inicio": "00:12:02.959",
+      "fin": "00:18:00.190",
+      "cita": "ves que hace así, dice, \"No soy cazador,",
+      "entidades": [
+        "Sirth (grafía provisional)",
+        "Maroxi",
+        "Calista",
+        "Cazadores de Kuroto"
+      ],
+      "ambito": "Kuroto, sesión 124",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "124-003",
+      "titulo": "Una Biblia que sigue cerrada",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Osuray pide noticias del libro que entregó a Maroxi. Este dice que no ha logrado abrirlo ni disipar su magia y busca a Tilia, a quien considera capaz de leer su título. El intercambio no resuelve su contenido ni demuestra la liberación de Kurobane.",
+      "inicio": "00:21:02.840",
+      "fin": "00:27:00.230",
+      "cita": "Tilia, ¿cierto?",
+      "entidades": [
+        "Osuray (grafía provisional)",
+        "Kurobane (grafía provisional)",
+        "Maroxi",
+        "Biblia de Osuray (título pendiente)",
+        "Tilia (grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 124",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "124-004",
+      "titulo": "Buscar en los bajos fondos",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Los expedicionarios llegan al sur de Sho, con callejones, pobreza, violencia y ausencia visible de guardias. Sirth divide la búsqueda en tres grupos. Maroxi adopta el aspecto de Gur; Archi, ayudado por Ralph, aparenta un Banzo pequeño; Arwen se transforma en un lobo para rastrear.",
+      "inicio": "00:30:01.120",
+      "fin": "00:39:00.349",
+      "cita": "grupos, vamos a buscar algo de",
+      "entidades": [
+        "Sirth (grafía provisional)",
+        "Maroxi",
+        "Archi",
+        "Ralph",
+        "Arwen",
+        "Bajos fondos de Sho",
+        "Sho (grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 124",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "124-005",
+      "titulo": "El taller cerrado",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Archi descubre un taller con puerta y ventanas metálicas, mecanismos de engranajes y ruido de trabajo. Arwen lo lanza hacia el tejado, pero el inventor usa vuelo para evitar caer. No encuentra abertura ni logra entrar; queda interesado en volver. La alarma inicialmente descrita no se activa al corregirse que no llegó a pisar el techo.",
+      "inicio": "00:39:00.359",
+      "fin": "01:06:01.230",
+      "cita": "engranajes",
+      "entidades": [
+        "Archi",
+        "Arwen",
+        "Taller del engranaje (nombre pendiente)"
+      ],
+      "ambito": "Kuroto, sesión 124",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "124-006",
+      "titulo": "El mercado y las dagas",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Jin rechaza una poción de curación que un alquimista pretende vender por ciento cincuenta monedas de oro. Osuray observa un intercambio clandestino. Maroxi, disfrazado de Gur, ve la punta de una daga bordada en la ropa de un vendedor, que se marcha al oír que habla con el campeón de Kuroto. Maroxi lo sigue tras recuperar su propio aspecto.",
+      "inicio": "00:45:00.040",
+      "fin": "01:12:03.590",
+      "cita": "de ello, era como la punta de una daga",
+      "entidades": [
+        "Jin",
+        "Osuray (grafía provisional)",
+        "Maroxi",
+        "Cofradía de las dagas (nombre pendiente)",
+        "Bajos fondos de Sho"
+      ],
+      "ambito": "Kuroto, sesión 124",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "124-007",
+      "titulo": "La sombra y su octavo cuerpo",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Al buscar señales de la cofradía, Jin y Osuray encuentran una marca de dos dagas, sin identificar todavía su organización. Sirth descubre que Osuray ocupa el cuerpo de Kurobane. La sombra dice que es su octavo intento, que los cuerpos anteriores no soportaron su poder y que moriría si perece el recipiente. Sirth promete hablar con los cazadores para ayudar a Kurobane y mantiene vigilada a la sombra.",
+      "inicio": "01:15:01.600",
+      "fin": "01:27:00.910",
+      "cita": "es la octava vez y parece, ¿ves que se",
+      "entidades": [
+        "Jin",
+        "Osuray (grafía provisional)",
+        "Kurobane (grafía provisional)",
+        "Sirth (grafía provisional)",
+        "Cofradía de las dagas (nombre pendiente)"
+      ],
+      "ambito": "Kuroto, sesión 124",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "124-008",
+      "titulo": "Acceso a la cofradía",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Arwen rastrea una casa. Maroxi encanta al anciano vigilante, que le muestra una trampilla; baja primero con el aspecto de ese guardián y revela su identidad ante la jefa. Arwen entra como cucaracha. La jefa reconoce que Gelbreak la visita y negocia información sobre el templo a cambio de una deuda de los cazadores.",
+      "inicio": "01:27:00.920",
+      "fin": "01:39:01.709",
+      "cita": "trampilla y ves que la abre.",
+      "entidades": [
+        "Maroxi",
+        "Arwen",
+        "Jefa de la cofradía (nombre pendiente)",
+        "Cofradía de las dagas (nombre pendiente)",
+        "Gelbreak (grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 124",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "124-009",
+      "titulo": "Un favor asegurado con un anillo",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Maroxi objeta que no puede comprometer a todos los cazadores, pero acepta intentar convencerlos de que deben un favor a la cofradía. Se coloca un anillo que queda adherido a su piel y no logra retirarlo con disipar magia. La jefa reserva el favor para más adelante y le entrega un mapa hasta el templo de Bhaal. Ella niega venerar a los dioses y no presenta el templo como propio.",
+      "inicio": "01:36:01.960",
+      "fin": "01:45:00.350",
+      "cita": "anillo.",
+      "entidades": [
+        "Maroxi",
+        "Jefa de la cofradía (nombre pendiente)",
+        "Anillo de deuda de la cofradía",
+        "Templo de Bhaal bajo Sho",
+        "Cofradía de las dagas (nombre pendiente)"
+      ],
+      "ambito": "Kuroto, sesión 124",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "124-010",
+      "titulo": "Descienden hasta el templo",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Archi deja una piedra vinculada en el tejado de la sede de la cofradía. El grupo sigue el mapa a una casa abandonada y desciende por una trampilla y un largo túnel hasta una puerta entreabierta de Bhaal, dios del asesinato. Sirth aún no conoce por completo el procedimiento para liberar a Maroxi.",
+      "inicio": "01:45:00.360",
+      "fin": "01:54:00.550",
+      "cita": "Bal, ¿vale? el dios del asesinato y",
+      "entidades": [
+        "Archi",
+        "Mapa localizador de Archi",
+        "Maroxi",
+        "Sirth (grafía provisional)",
+        "Templo de Bhaal bajo Sho"
+      ],
+      "ambito": "Kuroto, sesión 124",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "124-011",
+      "titulo": "Cuatro ritos y un recipiente",
+      "tipo": "explicacion_director",
+      "afirmacion": "Los libros del templo y el de Sirth permiten establecer que la extracción exige otro recipiente y cuatro ritos: sangre, cuerpos, asesinato y traición. Maroxi debe subir al altar junto al nuevo recipiente y herirse profundamente para hacer salir a la criatura. No basta con expulsarla sin contenerla.",
+      "inicio": "01:51:01.440",
+      "fin": "02:03:01.709",
+      "cita": "y el otro requiere una traición.",
+      "entidades": [
+        "Maroxi",
+        "Sirth (grafía provisional)",
+        "Templo de Bhaal bajo Sho",
+        "Libro ritual de Bhaal"
+      ],
+      "ambito": "Kuroto, sesión 124",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "124-012",
+      "titulo": "Sirth se ofrece y la criatura emerge",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Sirth se ofrece a volver a contener a la criatura, sintiéndose responsable de la situación de Maroxi. Jin se opone a perderlo otra vez y propone destruirla, pero se advierte de su peligrosidad. Maroxi se corta con su estoque y surge una enorme criatura de cuatro brazos que impone terror al grupo.",
+      "inicio": "02:03:01.719",
+      "fin": "02:12:00.990",
+      "cita": "un placer ser tu hermano y ves que te da",
+      "entidades": [
+        "Sirth (grafía provisional)",
+        "Maroxi",
+        "Jin",
+        "Arwen",
+        "Criatura de Bhaal"
+      ],
+      "ambito": "Kuroto, sesión 124",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "124-013",
+      "titulo": "Un enemigo fuera de su alcance",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Sirth se coloca frente a la criatura y le pide al grupo que la encierre en él. El monstruo absorbe magia de Maroxi, reduce la vida máxima con sus ataques y atrapa a Sirth en su boca. Jin también sufre heridas graves. Las curaciones de Arwen no restauran las heridas del guerrero y los ataques del grupo resultan insuficientes.",
+      "inicio": "02:12:01.000",
+      "fin": "02:27:02.670",
+      "cita": "Y que 12 puntitos de de vida temporal.",
+      "entidades": [
+        "Criatura de Bhaal",
+        "Sirth (grafía provisional)",
+        "Maroxi",
+        "Jin",
+        "Arwen",
+        "Archi"
+      ],
+      "ambito": "Kuroto, sesión 124",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "124-014",
+      "titulo": "La ayuda de Ralph y la sangre",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Archi encarga a Ralph mover las articulaciones de Maroxi, aturdido por una espina; la ayuda permite una salvación con ventaja. Su rayo no daña al enemigo. Osuray se abre la mano y llena con sangre el recipiente de su sala. Maroxi, recuperado, reconstruye dos esqueletos en la sala de los cuerpos.",
+      "inicio": "02:27:02.680",
+      "fin": "02:45:02.230",
+      "cita": "Vale. ¿Y qué haces con la sangre?",
+      "entidades": [
+        "Archi",
+        "Ralph",
+        "Maroxi",
+        "Osuray (grafía provisional)",
+        "Templo de Bhaal bajo Sho"
+      ],
+      "ambito": "Kuroto, sesión 124",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "124-015",
+      "titulo": "Traición y asesinato",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Jin lleva su familiar al altar de la traición y lo mata, deteniendo las fuentes de lava de esa sala. Arwen invoca ciervos y hace que el macho mate a la hembra en el altar del asesinato. La niña sabe que, en la interpretación de esta mesa, se trata de seres vivos del mundo feérico; actúa temblando. Archi intenta ayudar a Sirth desde junto a la boca de la criatura.",
+      "inicio": "02:39:00.840",
+      "fin": "02:51:02.550",
+      "cita": "golpe fatal de la cornamenta del macho a",
+      "entidades": [
+        "Jin",
+        "Arwen",
+        "Archi",
+        "Sirth (grafía provisional)",
+        "Templo de Bhaal bajo Sho"
+      ],
+      "ambito": "Kuroto, sesión 124",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "124-016",
+      "titulo": "La criatura regresa a Sirth",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Maroxi deposita los dos esqueletos en sus criptas. Los cuatro ritos activados rompen esculturas y sacuden el templo; marcas luminosas sujetan a la criatura y esta suelta a Sirth. Jin intenta llevárselo, pero el guerrero se niega a dejar al monstruo libre. Maroxi lee las palabras finales en abisal y la bruma de la criatura entra por las heridas de Sirth hasta desaparecer.",
+      "inicio": "02:51:02.560",
+      "fin": "02:57:01.750",
+      "cita": "ese ritual que están en avisal.",
+      "entidades": [
+        "Maroxi",
+        "Jin",
+        "Sirth (grafía provisional)",
+        "Criatura de Bhaal",
+        "Templo de Bhaal bajo Sho"
+      ],
+      "ambito": "Kuroto, sesión 124",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "124-017",
+      "titulo": "Huida y heridas que no cierran",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "La curación de Arwen vuelve a fallar: las heridas de Sirth presentan necrosis. Jin lo carga durante la huida. Una sombra ríe y dice en abisal que su criatura vuelve a estar donde debería. El grupo escapa mientras el templo y el túnel se derrumban; ya en la superficie, Maroxi desaparece con el libro ritual. Sirth sigue vivo, gravemente herido y otra vez como recipiente.",
+      "inicio": "02:54:02.000",
+      "fin": "03:02:43.760",
+      "cita": "\"Por fin mi criatura vuelve a estar",
+      "entidades": [
+        "Arwen",
+        "Sirth (grafía provisional)",
+        "Jin",
+        "Maroxi",
+        "Criatura de Bhaal",
+        "Libro ritual de Bhaal"
+      ],
+      "ambito": "Kuroto, sesión 124",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    }
+  ],
+  "historia": {
+    "revisado_hasta": 124,
+    "etapas": [
+      {
+        "titulo": "Ayudar a Maroxi y reunir al grupo",
+        "texto": "Maroxi regresa cansado de servir a la Reina Cuervo, cuya protección mantiene más estable a la criatura de su interior. Sirth trae un libro y una pista: una jefa de los bajos fondos puede conocer un templo de Bhaal vinculado con el problema. Ante la dispersión de los cazadores, se ofrece a tomar las riendas mientras nadie lo haga, aunque recuerda que él mismo no es cazador. Maroxi distingue esa autoridad de la administración que lleva Calista. Osuray retoma además el asunto de una Biblia cerrada: Maroxi sigue buscando a Tilia y no ha logrado descifrarla. Para el mal que lo consume, la oportunidad del templo exige actuar ya.",
+        "referencias": [
+          "124-001",
+          "124-002",
+          "124-003"
+        ]
+      },
+      {
+        "titulo": "Tres caminos por los bajos fondos",
+        "texto": "Sirth, Maroxi, Jin, Osuray, Archi y Arwen llegan al sur de Sho y se reparten la búsqueda. Maroxi adopta el rostro de Gur, Archi aparenta un Banzo pequeño con ayuda de Ralph y Arwen se convierte en lobo. El inventor y la niña se distraen con un taller cerrado de mecanismos metálicos, sin conseguir entrar. Jin rehúsa una poción ruinosa a precio abusivo y Osuray observa intercambios clandestinos. Maroxi detecta una daga parcialmente oculta en la ropa de un vendedor. Al presentarse como campeón de Kuroto lo pone en fuga y luego lo sigue, ya con su aspecto habitual.",
+        "referencias": [
+          "124-004",
+          "124-005",
+          "124-006"
+        ]
+      },
+      {
+        "titulo": "Una deuda para encontrar el templo",
+        "texto": "Mientras Jin y Osuray investigan una marca de dos dagas, Sirth descubre la ocupación del cuerpo de Kurobane. La sombra habla de ocho intentos y de su dependencia mortal del recipiente; Sirth quiere ayudar al muchacho y promete hablar con los cazadores. Los grupos se reúnen ante la casa que ha seguido Maroxi. Arwen rastrea el paso reciente de personas y Maroxi encanta al vigilante para bajar por una trampilla. Ante la jefa de la cofradía revela sus cambios de forma y pide la localización del templo. Ella exige que los cazadores le deban un favor. Maroxi insiste en que no puede comprometer a todos, pero acepta intentar convencerlos y se pone un anillo de garantía que queda pegado a la piel. Recibe un mapa; fuera de la casa fracasa al intentar disipar la magia del anillo.",
+        "referencias": [
+          "124-007",
+          "124-008",
+          "124-009"
+        ]
+      },
+      {
+        "titulo": "El precio de sacar a la criatura",
+        "texto": "Archi deja una piedra de su mapa en la sede de la cofradía. La expedición sigue las indicaciones hasta una casa abandonada y baja por un túnel sorprendentemente largo. La puerta entreabierta de Bhaal los conduce a un templo con altares, huesos y lava. Los libros aclaran el método: hace falta otro recipiente, una herida profunda en Maroxi y cuatro ritos de sangre, cuerpos, asesinato y traición. Sirth acepta volver a albergar aquello que casi lo destruyó; Jin se resiste a perderlo de nuevo y quiere combatir al monstruo. Maroxi se corta y la criatura sale: un ser enorme de cuatro brazos cuya presencia aterroriza a casi todos.",
+        "referencias": [
+          "124-010",
+          "124-011",
+          "124-012"
+        ]
+      },
+      {
+        "titulo": "Combatir no basta",
+        "texto": "Sirth encara al enemigo y pide que lo encierren en él. La criatura absorbe magia de Maroxi, hiere con una fuerza que reduce la vida máxima y atrapa al guerrero en la boca. Jin intenta protegerlo y recibe golpes devastadores. Los remedios de Arwen no reparan a Sirth y el rayo de Archi no afecta al monstruo. Cuando una espina deja a Maroxi aturdido, el gnomo envía a Ralph a estimular sus articulaciones y facilitar su recuperación. La resistencia del enemigo obliga a abandonar la esperanza de derrotarlo a golpes y completar los altares.",
+        "referencias": [
+          "124-013",
+          "124-014"
+        ]
+      },
+      {
+        "titulo": "Cuatro ritos bajo presión",
+        "texto": "Osuray llena de sangre el recipiente de su sala. Maroxi reconstruye dos esqueletos entre los huesos y los coloca en las criptas. Jin lleva a su familiar al altar de la traición y lo mata; la lava de esa sala se detiene. Arwen, temblando, invoca ciervos y ordena al macho atravesar a la hembra en el altar del asesinato. La niña conoce el coste de su decisión: la mesa considera vivos a los animales traídos del mundo feérico. Archi se acerca a las piernas de Sirth para ayudarlo mientras el último ritual se completa.",
+        "referencias": [
+          "124-014",
+          "124-015",
+          "124-016"
+        ]
+      },
+      {
+        "titulo": "Un rescate que vuelve a ser prisión",
+        "texto": "Las estatuas se rompen, el templo tiembla y las marcas del suelo sujetan a la criatura hasta que suelta a Sirth. Jin quiere llevárselo, pero el guerrero exige acabar: dejar libre a ese monstruo pondría en peligro Kuroto. Maroxi recita el final del ritual en abisal y la criatura se disuelve en bruma que entra por las heridas de Sirth. Arwen intenta curarlo sin éxito; la necrosis impide cerrar las lesiones. Jin carga con él mientras todos corren hacia la superficie. Una sombra se ríe y anuncia que su criatura ha vuelto al lugar que le correspondía. Escapan del derrumbe, pero la victoria queda envenenada: Maroxi está libre del monstruo, Sirth vuelve a ser su prisión y sigue gravemente herido. Maroxi se marcha invisible con el libro ritual, sin que desaparezca el anillo de su otra deuda.",
+        "referencias": [
+          "124-016",
+          "124-017"
+        ]
+      }
+    ]
+  },
+  "misiones": [
+    "Extraer la criatura de Maroxi: logrado trasladándola a Sirth, no destruyéndola.",
+    "Salvar a Sirth: sacado vivo del derrumbe, pero con heridas necróticas que no responden a curación ordinaria.",
+    "Localizar el templo de Bhaal: logrado a cambio de un favor todavía por exigir y un anillo de garantía.",
+    "Investigar la Biblia de Osuray: sin descifrar; Tilia sigue sin aparecer.",
+    "Ayudar a Kurobane: Sirth promete intervenir; la sombra continúa en su cuerpo."
+  ],
+  "preguntas": [
+    "¿Cómo se curarán las heridas de Sirth y se evitará otra liberación de la criatura?",
+    "¿Qué favor exigirá la jefa de la cofradía para retirar el anillo de Maroxi?",
+    "¿Dónde está Tilia y qué contiene la Biblia de Osuray?",
+    "¿Cómo se liberará a Kurobane de Osuray?"
+  ],
+  "nombres_dudosos": [
+    "Maroxi / Maroxy; Sirth / Sir / Sirz: grafías provisionales.",
+    "Osuray / Usurai / Usuray: distinguir la sombra del cuerpo de Kurobane.",
+    "Bhaal aparece como Bal/Val en los subtítulos; identificación por el dios del asesinato, su símbolo y sus ritos.",
+    "Arwen / Arwon / Arbon: misma niña druida en esta sesión.",
+    "La jefa y su cofradía no dan nombre inequívoco; dos dagas son una marca observada, no denominación oficial.",
+    "El nombre Raven se tantea para el cuervo, sin fijarlo; no se crea identidad canónica por esa propuesta."
+  ],
+  "contradicciones": [
+    "La alarma del taller se narra al presuponer que Archi cae en el tejado, pero se corrige con su uso de vuelo; no se registra como activada.",
+    "La información sobre ayuda a Kurobane se discute como mentira o conocimiento insuficiente de los participantes; no acredita una liberación.",
+    "El director aclara explícitamente que los animales invocados son seres vivos del plano feérico en esta mesa; se conserva ese coste del rito sin generalizarlo a reglas externas.",
+    "La sombra y la risa final se atribuyen a Bhaal en la narración, sin confundir al dios con la criatura trasladada."
+  ]
+}

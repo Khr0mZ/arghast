@@ -1,0 +1,367 @@
+{
+  "capitulo": 154,
+  "estado_revision": "revisado",
+  "fuente_sha256": "c918b961b371ec2480e9a9ddf734e668dc10b0d069e063dc9e701f45f442ed07",
+  "resumen": "Banzo ayuda en el astillero y observa las tensiones con los tritones; Jin entrena reclutas y Calista refuerza revisiones comerciales mientras enseña a Arwen. Serafina relata heridas sentimentales y un golpe en la cabeza tras acontecimientos privados recientes. En la mesa de guerra discuten barricadas, lanceros, moral y una exploración por mar tras la Puerta Negra. Well acepta acompañar la incursión discreta, pero la operación queda sin realizar cuando Islil entrega una llamada inmediata a la corte submarina. Calista acepta la compañía voluntaria de sus amigos y les pide cuidado ante jerarquías, desprecio e intereses ocultos. Las bayas los adaptan dolorosamente al agua, sin volverlos nadadores tan rápidos como los tritones. Well acelera para dejarlos atrás y ella se mantiene con ellos. Banzo encuentra ayuda en una tortuga, pero tres tiburones la acechan. Después de un mordisco e intimidación, Calista los calma y transforma el encuentro en transporte hasta Aistia. Los animales sobreviven y el grupo llega unido. Corales y luces rodean la enorme grieta de Aistia. Una visita a las monturas ofrece a Banzo un paseo en hipocampo y a Jin un baño de tinta tras una broma de Serafina. El líder reconoce miedo en la mujer que se inclina ante Calista, aunque ella lo llama respeto. En el palacio entregan armas y los guardias revelan su título de perla. La corte desprecia a los cazadores y considera sustituir a Calista; ella promete otro guardián, todavía sin nombrarlo. Aqua lleva la humillación más lejos, lee pensamientos y paraliza a Jin, hasta que la intervención de la shogun detiene la amenaza. Una sombra gigantesca corta la retirada. El antiguo dragón acuático baja tras los tronos, impone reverencias y congela por un instante parte del agua junto a Jin cuando este lo mira. Gelbreak permanece de pie y recibe un saludo. Calista responde aterrada sobre la marcha de su misión y debe explicar la esfera de agua que envió a resguardar. El rey se la devuelve y ordena que la retire de allí. La discusión principal sobre su futuro queda para el día siguiente; no recuperan soberanía por esta audiencia ni derrotan al dragón. En el cuarto protegido por silencio Calista muestra el pánico que contuvo ante la corte. Gelbreak la sostiene y promete no dejar que la sustituyan. En la otra habitación Banzo sospecha que intente salvarse entregando Kuroto; sus compañeros confían en ella y desean liberar a ambos sin abandonar al país. La sospecha no se vuelve certeza. Acuerdan contenerse, sobrevivir a la visita y hablar después en superficie, mientras la pareja considera contar más secretos y reunirse con Banzo antes de la cena decisiva.",
+  "afirmaciones": [
+    {
+      "id": "154-001",
+      "titulo": "Trabajos y heridas recientes",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Banzo relata tensiones con tritones y su ayuda en el astillero, ligada a su experiencia construyendo barcos tras liberar grifos en su aldea. Calista revisa barcos de Puerto de las Espadas y enseña lectura a Arwen. Serafina cuenta relaciones recientes con Alister y Kurobane, dificultades para recomponer su pareja y una crisis durante la que el grito de Banzo la detuvo; después cayó de un puente con Guxi y se golpeó la cabeza. Son acontecimientos relatados entre sesiones, sin reconstrucción completa en escena.",
+      "inicio": "00:00:00.480",
+      "fin": "00:09:01.750",
+      "cita": "puente y ahí cayendo como que drame. Ah,",
+      "entidades": [
+        "Banzo",
+        "Calista",
+        "Serafina Hop (grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 154",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "154-002",
+      "titulo": "Defensas y una incursión discreta",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Preparan defensas para una tercera oleada aún demorada. Jin propone aprovechar pendientes con lanceros y Ayuko lo aprueba; el ánimo de tropas sigue bajo. Banzo propone entrar desde el mar tras la Puerta Negra con un grupo pequeño y algunos tritones; Well acepta ir. Calista plantea distracción de cañones y después discuten un dique, pero prevalece explorar con discreción y retorno mágico de Gelbreak. Ninguna de estas operaciones se ejecuta hoy.",
+      "inicio": "00:09:01.760",
+      "fin": "00:26:04.149",
+      "cita": "firme y bien, pero una incursión, una",
+      "entidades": [
+        "Banzo",
+        "Calista",
+        "Jin",
+        "Gelbreak (grafía provisional)",
+        "Well (general tritón, grafía provisional)",
+        "Incursión propuesta tras la Puerta Negra"
+      ],
+      "ambito": "Kuroto, sesión 154",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "154-003",
+      "titulo": "Una orden desde el fondo",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Islil entrega una convocatoria en caracola: Calista debe presentarse de inmediato en la corte para discutir avances y su futuro. La shogun pide que preparen defensas en su ausencia. Banzo y Gelbreak aclaran a Jin y Serafina que acompañarla es voluntario; ambos aceptan. Los cónsules siguen atendiendo lo que pueden del shogunato, sin nombrar un sustituto pleno.",
+      "inicio": "00:25:00.520",
+      "fin": "00:43:02.630",
+      "cita": "una un una caracola de esas que son una",
+      "entidades": [
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Banzo",
+        "Jin",
+        "Serafina Hop (grafía provisional)",
+        "Islil (perla velada, grafía provisional)",
+        "Well (general tritón, grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 154",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "154-004",
+      "titulo": "Las reglas antes de entrar",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Calista advierte que pueden ser despreciados por extranjeros, que los regalos y la comida pueden ocultar intereses y que las mujeres tienen menos voz en una sociedad patriarcal. Solicita prudencia para no comprometer su permanencia en Kuroto. Son advertencias de una conocedora de la corte, no prueba de que todos los presentes intenten envenenarlos.",
+      "inicio": "00:42:01.000",
+      "fin": "00:49:03.069",
+      "cita": "son patriarcales, así que las mujeres",
+      "entidades": [
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Banzo",
+        "Jin",
+        "Serafina Hop (grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 154",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "154-005",
+      "titulo": "Adaptar el cuerpo al agua",
+      "tipo": "explicacion_director",
+      "afirmacion": "Gelbreak, Jin, Banzo y Serafina comen bayas cultivadas por tritones. La adaptación duele y les produce branquias y manos palmeadas: pueden respirar y hablar bajo el agua, pero nadan más despacio. Well y sus soldados aceleran para dejarlos atrás; Calista permanece al ritmo de sus amigos. Banzo conserva la mano amputada.",
+      "inicio": "00:47:00.599",
+      "fin": "01:00:01.990",
+      "cita": "saliendo aquí branquias. ¿Qué le ha",
+      "entidades": [
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Banzo",
+        "Jin",
+        "Serafina Hop (grafía provisional)",
+        "Well (general tritón, grafía provisional)",
+        "Bayas de adaptación acuática",
+        "Comitiva tritón de Calista"
+      ],
+      "ambito": "Kuroto, sesión 154",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "154-006",
+      "titulo": "Tortuga y tiburones",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Banzo usa amistad animal para agarrarse a una tortuga y ganar velocidad con las corrientes. Tres tiburones la acechan; él recibe un mordisco y trata de intimidarlos. Calista se interpone, los calma hablando y consigue que lleven a sus compañeros por las aletas. El combate termina sin matarlos y alcanzan a Well a la entrada de Aistia.",
+      "inicio": "01:00:02.000",
+      "fin": "01:19:00.110",
+      "cita": "la aleta.",
+      "entidades": [
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Banzo",
+        "Jin",
+        "Serafina Hop (grafía provisional)",
+        "Well (general tritón, grafía provisional)",
+        "Aistia (grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 154",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "154-007",
+      "titulo": "Una ciudad hermosa, una deferencia inquietante",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Aistia se extiende sobre una enorme grieta, entre coral, conchas y plantas luminosas. Calista muestra una estatua del dios de los tritones y distingue su veneración de la del rey dragón. En caballerizas una mujer se somete a su autoridad; Banzo ve miedo donde Calista habla de respeto. Él monta un hipocampo, mientras Serafina empuja a Jin hacia un pulpo que lo cubre de tinta. Devuelven la montura y se dirigen al palacio.",
+      "inicio": "01:18:00.679",
+      "fin": "01:47:01.830",
+      "cita": "Tirate de miedo.",
+      "entidades": [
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Banzo",
+        "Jin",
+        "Serafina Hop (grafía provisional)",
+        "Aistia (grafía provisional)",
+        "Palacio del Rey Dragón de Aistia"
+      ],
+      "ambito": "Kuroto, sesión 154",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "154-008",
+      "titulo": "Presentarse como perla",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Los guardias reconocen a Calista como perla del Rey Dragón y exigen dejar armas. Ante tres reyes tritones y un trono vacío, ella presenta a su comitiva. La corte desprecia a los cazadores y critica sus informes sobre el guardián; Calista promete nombrar otro digno, sin que el relevo ocurra. Amenazan con sustituirla por una perla más capaz y discuten la posible respuesta de Kuroto.",
+      "inicio": "01:46:03.639",
+      "fin": "02:01:02.109",
+      "cita": "\"Sentimos no haberla reconocido, perla",
+      "entidades": [
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Banzo",
+        "Jin",
+        "Serafina Hop (grafía provisional)",
+        "Well (general tritón, grafía provisional)",
+        "Palacio del Rey Dragón de Aistia"
+      ],
+      "ambito": "Kuroto, sesión 154",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "154-009",
+      "titulo": "Aqua y los pensamientos de Jin",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "La mayor de las perlas, Aqua, ridiculiza al grupo y amenaza veladamente a Gelbreak recordando soldados muertos. Lee pensamientos y encara la confianza desafiante de Jin; después lo paraliza y se acerca con electricidad. Calista interviene, promete corregir la afrenta y Aqua se retira y lo libera. Los reyes aplazan hasta la cena siguiente la decisión sobre el destino de Calista.",
+      "inicio": "02:00:04.320",
+      "fin": "02:17:00.070",
+      "cita": "pensamientos. Señor, señores,",
+      "entidades": [
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Banzo",
+        "Jin",
+        "Serafina Hop (grafía provisional)",
+        "Aqua (mayor de las perlas)",
+        "Palacio del Rey Dragón de Aistia"
+      ],
+      "ambito": "Kuroto, sesión 154",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "154-010",
+      "titulo": "El rey que congela una mirada",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Una sombra enorme anuncia al antiguo dragón acuático, que desciende tras los tronos. Perlas y generales se arrodillan; los reyes inclinan la cabeza. Jin nota hielo al sostenerle la mirada y la aparta. Gelbreak no se arrodilla. El dragón lo saluda y pregunta a Calista por su misión; la presión aterra a la shogun.",
+      "inicio": "02:17:00.080",
+      "fin": "02:26:01.750",
+      "cita": "congelarse y cuando has apartado la",
+      "entidades": [
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Banzo",
+        "Jin",
+        "Serafina Hop (grafía provisional)",
+        "Well (general tritón, grafía provisional)",
+        "Islil (perla velada, grafía provisional)",
+        "Aqua (mayor de las perlas)",
+        "Rey Dragón acuático de Aistia",
+        "Palacio del Rey Dragón de Aistia"
+      ],
+      "ambito": "Kuroto, sesión 154",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "154-011",
+      "titulo": "La esfera vuelve a manos de Calista",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "El Rey Dragón presenta la esfera de agua y exige saber por qué la enviaron. Calista explica que la puso a salvo de su anterior poseedor peligroso y que el trato para ganar poder ya está cerrado. Él ordena que se la lleve y la devuelve mediante una corriente; ella la recoge. No destruyen el objeto ni transfieren su afinidad a otro portador.",
+      "inicio": "02:24:00.760",
+      "fin": "02:30:02.429",
+      "cita": "llévatela de aquí y ves que la suelta en",
+      "entidades": [
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Rey Dragón acuático de Aistia",
+        "Esfera elemental de agua"
+      ],
+      "ambito": "Kuroto, sesión 154",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "154-012",
+      "titulo": "Pánico y refugio con el guardián",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Los alojan en dos habitaciones sin cerrar con llave. Calista, temblando, coloca silencio junto al acceso y se desploma emocionalmente con Gelbreak. Él la abraza y ofrece salir de inmediato; ella teme que perder su puesto los devuelva al sometimiento. Él asegura que no permitirá que la sustituyan o la maten, sin que sus palabras constituyan una victoria sobre el rey.",
+      "inicio": "02:29:00.439",
+      "fin": "02:40:01.710",
+      "cita": "rápida y rápidamente lanza un silence a",
+      "entidades": [
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Palacio del Rey Dragón de Aistia"
+      ],
+      "ambito": "Kuroto, sesión 154",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "154-013",
+      "titulo": "La sospecha de los aliados",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Banzo, Jin y Serafina buscan privacidad. El líder plantea la sospecha de que Calista entregue Kuroto para salvarse; Serafina y Jin mantienen confianza en ella y desean proteger al país y la libertad de la pareja. Acuerdan no actuar ahora y hablar en superficie. Serafina golpea el hombro de Jin al reprochar su imprudencia. En el otro cuarto Calista y Gelbreak consideran revelar más secretos y hablar con Banzo antes de la cena. No se confirma la sospecha ni un plan consumado de rebelión.",
+      "inicio": "02:39:00.720",
+      "fin": "02:53:02.269",
+      "cita": "para salvarse ella.",
+      "entidades": [
+        "Banzo",
+        "Jin",
+        "Serafina Hop (grafía provisional)",
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Palacio del Rey Dragón de Aistia"
+      ],
+      "ambito": "Kuroto, sesión 154",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    }
+  ],
+  "historia": {
+    "revisado_hasta": 154,
+    "etapas": [
+      {
+        "titulo": "Preparar el frente antes de otra llamada",
+        "texto": "Banzo ayuda en el astillero y observa las tensiones con los tritones; Jin entrena reclutas y Calista refuerza revisiones comerciales mientras enseña a Arwen. Serafina relata heridas sentimentales y un golpe en la cabeza tras acontecimientos privados recientes. En la mesa de guerra discuten barricadas, lanceros, moral y una exploración por mar tras la Puerta Negra. Well acepta acompañar la incursión discreta, pero la operación queda sin realizar cuando Islil entrega una llamada inmediata a la corte submarina.",
+        "referencias": [
+          "154-001",
+          "154-002",
+          "154-003"
+        ]
+      },
+      {
+        "titulo": "Aprender a respirar en otro mundo",
+        "texto": "Calista acepta la compañía voluntaria de sus amigos y les pide cuidado ante jerarquías, desprecio e intereses ocultos. Las bayas los adaptan dolorosamente al agua, sin volverlos nadadores tan rápidos como los tritones. Well acelera para dejarlos atrás y ella se mantiene con ellos. Banzo encuentra ayuda en una tortuga, pero tres tiburones la acechan. Después de un mordisco e intimidación, Calista los calma y transforma el encuentro en transporte hasta Aistia. Los animales sobreviven y el grupo llega unido.",
+        "referencias": [
+          "154-004",
+          "154-005",
+          "154-006"
+        ]
+      },
+      {
+        "titulo": "La belleza y el poder",
+        "texto": "Corales y luces rodean la enorme grieta de Aistia. Una visita a las monturas ofrece a Banzo un paseo en hipocampo y a Jin un baño de tinta tras una broma de Serafina. El líder reconoce miedo en la mujer que se inclina ante Calista, aunque ella lo llama respeto. En el palacio entregan armas y los guardias revelan su título de perla. La corte desprecia a los cazadores y considera sustituir a Calista; ella promete otro guardián, todavía sin nombrarlo. Aqua lleva la humillación más lejos, lee pensamientos y paraliza a Jin, hasta que la intervención de la shogun detiene la amenaza.",
+        "referencias": [
+          "154-007",
+          "154-008",
+          "154-009"
+        ]
+      },
+      {
+        "titulo": "Ante el Rey Dragón",
+        "texto": "Una sombra gigantesca corta la retirada. El antiguo dragón acuático baja tras los tronos, impone reverencias y congela por un instante parte del agua junto a Jin cuando este lo mira. Gelbreak permanece de pie y recibe un saludo. Calista responde aterrada sobre la marcha de su misión y debe explicar la esfera de agua que envió a resguardar. El rey se la devuelve y ordena que la retire de allí. La discusión principal sobre su futuro queda para el día siguiente; no recuperan soberanía por esta audiencia ni derrotan al dragón.",
+        "referencias": [
+          "154-010",
+          "154-011"
+        ]
+      },
+      {
+        "titulo": "Dos habitaciones, distintas dudas",
+        "texto": "En el cuarto protegido por silencio Calista muestra el pánico que contuvo ante la corte. Gelbreak la sostiene y promete no dejar que la sustituyan. En la otra habitación Banzo sospecha que intente salvarse entregando Kuroto; sus compañeros confían en ella y desean liberar a ambos sin abandonar al país. La sospecha no se vuelve certeza. Acuerdan contenerse, sobrevivir a la visita y hablar después en superficie, mientras la pareja considera contar más secretos y reunirse con Banzo antes de la cena decisiva.",
+        "referencias": [
+          "154-012",
+          "154-013"
+        ]
+      }
+    ]
+  },
+  "misiones": [
+    "Afrontar la cena y la decisión sobre Calista en la corte.",
+    "Mantener la prudencia de la comitiva y aclarar secretos con Banzo.",
+    "Retomar defensas e incursión de reconocimiento cuando vuelvan."
+  ],
+  "preguntas": [
+    "¿Mantendrá Calista su puesto y quién será nombrado guardián?",
+    "¿Qué informes y condiciones impondrá mañana el Rey Dragón?",
+    "¿Qué secretos compartirá la pareja con Banzo y los otros cazadores?",
+    "¿Cuándo se realizará la incursión discreta tras la Puerta Negra?"
+  ],
+  "nombres_dudosos": [
+    "Aistia: nombre confirmado verbalmente tras una vacilación; requiere audio para grafía.",
+    "Islil/Isel/Isil: perla velada que informa desde Kuroto.",
+    "Malas/Marlas, Ramnas/Ramless y Canus son formas oídas en la corte; mantener en prosa sin fusionar reyes por semejanza.",
+    "Nautireida aparece al presentarse Calista: apellido pendiente de contraste."
+  ],
+  "contradicciones": [
+    "Las relaciones íntimas recapituladas por Serafina son posteriores y entre sesiones: no invalidan retrospectivamente la aclaración de146 sobre dormir con Kurobane en145.",
+    "La sospecha de Banzo sobre entregar Kuroto para salvarse no es confirmación del director.",
+    "Rey Dragón acuático de Aistia y dragón primordial de145 se mantienen separados.",
+    "La promesa de cambiar guardián no equivale a relevo efectivo."
+  ]
+}

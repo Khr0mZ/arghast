@@ -1,0 +1,481 @@
+{
+  "capitulo": 7,
+  "estado_revision": "revisado",
+  "fuente_sha256": "f9c43433a926db3f547ddc1008dffa9a0a863c6fe23aba05c7935d27d519f7e4",
+  "resumen": "El desayuno muestra el primer fruto de la aventura anterior: el ronin salvado ya ayuda a Kitaro sirviendo las mesas. Mientras el nekomata roba discretamente comida caída, un leñador pide ayuda. Ha oído música y visto luces al norte, en Yayi, una población que debería llevar más de cien años abandonada tras un ataque de yokai. Los cazadores exigen una recompensa; el hombre promete reunir dinero con sus compañeros y guiarlos hasta las señales. Tras comprar equipo, pociones y algo de sake, parten con él. Hino Yama invoca un búho familiar, Ernesto, para explorar. El búho informa de una aldea soleada con habitantes ocupados en tareas normales. El leñador se retira y la compañía se aproxima entre olor a pan, ruido de taberna y agua corriente en la fuente. Hino Yama percibe magia en la melodía que lo invade todo. Envía a Ernesto hacia ella y pierde contacto con él. Shiru compra cinco grandes panes al panadero y los demás encuentran después plumas del familiar. Un vecino niega oír música y asegura haber nacido allí. La melodía parece cambiar de procedencia, pero Tarutaru consigue seguirla hasta la taberna La Mangosta Borracha. La recepción de la taberna parece hospitalaria. Sirven sake, Shiru gana un pulso y unas monedas, y la araña no encuentra nada extraño en la cocina. La espera cambia el ambiente: al caer la noche la música se endurece y los habitantes quedan distraídos y apagados. Dos hombres pierden las facciones; a la mujer se le alarga el cuello hasta plantar la cara ante Hino Yama. No responden a las preguntas. Cuando ella chilla, el mago le arroja sake y comienza la pelea. Shiru rompe una silla y luego una mesa contra uno de los hombres; Hino Yama prende la bebida sobre la mujer. Hayate retiene al otro adversario, aunque su grito provoca miedo. Los tres mueren y sus cuerpos recuperan aspecto humano, una señal dolorosa de que había personas tras las formas monstruosas. Fuera hay más habitantes transformados. Tarutaru sitúa la melodía tras la fuente y Hayate distingue a un humanoide tocando. Hino Yama lo alcanza con proyectiles mágicos. Cuando se vuelve, descubren que el gran laúd es su cabeza. Cambia la música y las criaturas cercanas se vuelven contra ellos. Las flechas de Hayate y un tonel lanzado por Shiru lo dejan muy herido, pero no lo hacen callar. Un hombre sin rostro mata a la araña de Tarutaru con una daga. El músico se acerca y descarga un acorde atronador que hiere tanto a los cazadores como a habitantes próximos. Tarutaru finalmente corta las cuerdas y arranca la cabeza. La música se detiene; los aldeanos convulsionan, recuperan su forma y quedan dormidos, con vida. El diario encontrado en el cuerpo reconstruye un origen distinto de las primeras conjeturas del grupo. Su autor había sido despreciado por la gente hasta encontrar un laúd maravilloso que volvía irresistible su música. Después empezó a ver rostros borrados y cuellos alargados. Las palabras del diario terminan y solo quedan notas musicales. No identifica quién creó el instrumento ni cómo llegó hasta él. Al despertar a una vecina, los cazadores comprueban que cree estar en un año de hace un siglo; ella, asustada por la explicación y los cadáveres, se encierra. El grupo descansa en una casa y su propietario los expulsa al amanecer. Shiru reúne a los vecinos y cuenta lo ocurrido, señalando madera podrida y árboles crecidos como prueba del tiempo. Algunos agradecen la ayuda; otros solo quieren revisar sus viviendas. La compañía vuelve a Ukio con el cuerpo de la araña. El nekomata se acerca al ver la tristeza de Tarutaru y lo anima mediante su poder de levantar muertos. La compañera vuelve como araña no muerta; no se trata de recuperar sin cambios una vida ordinaria. El gato recibe caricias y sushi por la ayuda. El leñador reaparece preocupado por la ausencia de un día, escucha el desenlace y paga veinticinco monedas a cada cazador. Promete hablar con el alcalde para enviar contactos a Yayi. Quedan tres víctimas que no pudieron salvar, un pueblo que debe asimilar cien años y la posibilidad de volver para comprobar su recuperación. La idea de gestionar su taberna queda como propuesta.",
+  "historia": {
+    "revisado_hasta": 7,
+    "etapas": [
+      {
+        "titulo": "Una noticia de hace cien años",
+        "texto": "El desayuno muestra el primer fruto de la aventura anterior: el ronin salvado ya ayuda a Kitaro sirviendo las mesas. Mientras el nekomata roba discretamente comida caída, un leñador pide ayuda. Ha oído música y visto luces al norte, en Yayi, una población que debería llevar más de cien años abandonada tras un ataque de yokai. Los cazadores exigen una recompensa; el hombre promete reunir dinero con sus compañeros y guiarlos hasta las señales. Tras comprar equipo, pociones y algo de sake, parten con él. Hino Yama invoca un búho familiar, Ernesto, para explorar.",
+        "referencias": [
+          "07-001",
+          "07-002",
+          "07-003"
+        ]
+      },
+      {
+        "titulo": "Un pueblo demasiado corriente",
+        "texto": "El búho informa de una aldea soleada con habitantes ocupados en tareas normales. El leñador se retira y la compañía se aproxima entre olor a pan, ruido de taberna y agua corriente en la fuente. Hino Yama percibe magia en la melodía que lo invade todo. Envía a Ernesto hacia ella y pierde contacto con él. Shiru compra cinco grandes panes al panadero y los demás encuentran después plumas del familiar. Un vecino niega oír música y asegura haber nacido allí. La melodía parece cambiar de procedencia, pero Tarutaru consigue seguirla hasta la taberna La Mangosta Borracha.",
+        "referencias": [
+          "07-003",
+          "07-004",
+          "07-005",
+          "07-006"
+        ]
+      },
+      {
+        "titulo": "El anochecer devuelve otros cuerpos",
+        "texto": "La recepción de la taberna parece hospitalaria. Sirven sake, Shiru gana un pulso y unas monedas, y la araña no encuentra nada extraño en la cocina. La espera cambia el ambiente: al caer la noche la música se endurece y los habitantes quedan distraídos y apagados. Dos hombres pierden las facciones; a la mujer se le alarga el cuello hasta plantar la cara ante Hino Yama. No responden a las preguntas. Cuando ella chilla, el mago le arroja sake y comienza la pelea. Shiru rompe una silla y luego una mesa contra uno de los hombres; Hino Yama prende la bebida sobre la mujer. Hayate retiene al otro adversario, aunque su grito provoca miedo. Los tres mueren y sus cuerpos recuperan aspecto humano, una señal dolorosa de que había personas tras las formas monstruosas.",
+        "referencias": [
+          "07-007",
+          "07-008",
+          "07-009",
+          "07-010"
+        ]
+      },
+      {
+        "titulo": "Un músico con un instrumento por rostro",
+        "texto": "Fuera hay más habitantes transformados. Tarutaru sitúa la melodía tras la fuente y Hayate distingue a un humanoide tocando. Hino Yama lo alcanza con proyectiles mágicos. Cuando se vuelve, descubren que el gran laúd es su cabeza. Cambia la música y las criaturas cercanas se vuelven contra ellos. Las flechas de Hayate y un tonel lanzado por Shiru lo dejan muy herido, pero no lo hacen callar. Un hombre sin rostro mata a la araña de Tarutaru con una daga. El músico se acerca y descarga un acorde atronador que hiere tanto a los cazadores como a habitantes próximos. Tarutaru finalmente corta las cuerdas y arranca la cabeza. La música se detiene; los aldeanos convulsionan, recuperan su forma y quedan dormidos, con vida.",
+        "referencias": [
+          "07-011",
+          "07-012",
+          "07-013",
+          "07-014"
+        ]
+      },
+      {
+        "titulo": "Lo que dejó escrito el hombre del laúd",
+        "texto": "El diario encontrado en el cuerpo reconstruye un origen distinto de las primeras conjeturas del grupo. Su autor había sido despreciado por la gente hasta encontrar un laúd maravilloso que volvía irresistible su música. Después empezó a ver rostros borrados y cuellos alargados. Las palabras del diario terminan y solo quedan notas musicales. No identifica quién creó el instrumento ni cómo llegó hasta él. Al despertar a una vecina, los cazadores comprueban que cree estar en un año de hace un siglo; ella, asustada por la explicación y los cadáveres, se encierra. El grupo descansa en una casa y su propietario los expulsa al amanecer. Shiru reúne a los vecinos y cuenta lo ocurrido, señalando madera podrida y árboles crecidos como prueba del tiempo. Algunos agradecen la ayuda; otros solo quieren revisar sus viviendas.",
+        "referencias": [
+          "07-015",
+          "07-016"
+        ]
+      },
+      {
+        "titulo": "Una araña distinta y una recompensa cumplida",
+        "texto": "La compañía vuelve a Ukio con el cuerpo de la araña. El nekomata se acerca al ver la tristeza de Tarutaru y lo anima mediante su poder de levantar muertos. La compañera vuelve como araña no muerta; no se trata de recuperar sin cambios una vida ordinaria. El gato recibe caricias y sushi por la ayuda. El leñador reaparece preocupado por la ausencia de un día, escucha el desenlace y paga veinticinco monedas a cada cazador. Promete hablar con el alcalde para enviar contactos a Yayi. Quedan tres víctimas que no pudieron salvar, un pueblo que debe asimilar cien años y la posibilidad de volver para comprobar su recuperación. La idea de gestionar su taberna queda como propuesta.",
+        "referencias": [
+          "07-017",
+          "07-018"
+        ]
+      }
+    ]
+  },
+  "afirmaciones": [
+    {
+      "id": "07-001",
+      "titulo": "El ronin ya sirve las mesas",
+      "inicio": "00:00:00.000",
+      "fin": "00:04:06.000",
+      "cita": "shiro",
+      "afirmacion": "Kitaro llama al antiguo samurái salvado en la misión anterior, transcrito shiro, que sirve el desayuno en la taberna. Recibe sake como propina y regresa a la cocina. El nekomata continúa allí.",
+      "entidades": [
+        "Ronin del sake (nombre pendiente)",
+        "Kitaro (grafía provisional)",
+        "Nekomata de los pescadores",
+        "Hayate",
+        "Shiru (grafía provisional)",
+        "Tarutaru (grafía provisional)",
+        "Hino Yama (grafía provisional)"
+      ],
+      "tipo": "hecho_confirmado",
+      "ambito": "Una noticia de hace cien años",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para los acontecimientos narrados; las declaraciones se mantienen atribuidas.",
+      "limitacion": "Fuente automática sin cotejo de audio. Se conservan como provisionales las grafías dudosas y se describe lo resuelto en mesa sin reconstruir reglas externas."
+    },
+    {
+      "id": "07-002",
+      "titulo": "Luces en un pueblo perdido",
+      "inicio": "00:04:06.000",
+      "fin": "00:08:41.000",
+      "cita": "Antiguo pueblo",
+      "afirmacion": "Un leñador denuncia música y luces al norte, donde el pueblo de Yayi debería llevar más de cien años abandonado después de un ataque de yokai. Promete reunir dinero con sus compañeros y guiarlos hasta donde vio las señales.",
+      "entidades": [
+        "Leñador que denuncia Yayi (nombre pendiente)",
+        "Yayi (grafía provisional)",
+        "Ukio (grafía provisional)"
+      ],
+      "tipo": "declaracion_personaje",
+      "ambito": "Una noticia de hace cien años",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para los acontecimientos narrados; las declaraciones se mantienen atribuidas.",
+      "limitacion": "Fuente automática sin cotejo de audio. Se conservan como provisionales las grafías dudosas y se describe lo resuelto en mesa sin reconstruir reglas externas."
+    },
+    {
+      "id": "07-003",
+      "titulo": "Compras y un búho explorador",
+      "inicio": "00:08:41.000",
+      "fin": "00:25:58.000",
+      "cita": "Ernesto",
+      "afirmacion": "Los cazadores compran pociones y equipo y viajan sin otro encuentro peligroso hasta las luces. Hino Yama invoca un búho familiar llamado Ernesto; informa de una aldea soleada con habitantes de apariencia normal. El leñador se retira antes de entrar.",
+      "entidades": [
+        "Hino Yama (grafía provisional)",
+        "Ernesto (búho familiar)",
+        "Hayate",
+        "Shiru (grafía provisional)",
+        "Tarutaru (grafía provisional)",
+        "Yayi (grafía provisional)"
+      ],
+      "tipo": "hecho_confirmado",
+      "ambito": "Una noticia de hace cien años",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para los acontecimientos narrados; las declaraciones se mantienen atribuidas.",
+      "limitacion": "Fuente automática sin cotejo de audio. Se conservan como provisionales las grafías dudosas y se describe lo resuelto en mesa sin reconstruir reglas externas."
+    },
+    {
+      "id": "07-004",
+      "titulo": "Pan, agua y una música extraña",
+      "inicio": "00:25:58.000",
+      "fin": "00:33:25.000",
+      "cita": "rastro de magia",
+      "afirmacion": "Los cazadores perciben casas habitadas, pan recién hecho y una fuente con agua. El análisis arcano de Hino Yama descubre una cualidad mágica en la melodía. Envía a Ernesto hacia su origen y pierde contacto con el búho sin explicación inmediata.",
+      "entidades": [
+        "Hino Yama (grafía provisional)",
+        "Ernesto (búho familiar)",
+        "Yayi (grafía provisional)",
+        "Músico de cabeza de laúd"
+      ],
+      "tipo": "hecho_confirmado",
+      "ambito": "Una noticia de hace cien años",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para los acontecimientos narrados; las declaraciones se mantienen atribuidas.",
+      "limitacion": "Fuente automática sin cotejo de audio. Se conservan como provisionales las grafías dudosas y se describe lo resuelto en mesa sin reconstruir reglas externas."
+    },
+    {
+      "id": "07-005",
+      "titulo": "Cinco panes y unas plumas",
+      "inicio": "00:33:25.000",
+      "fin": "00:41:55.000",
+      "cita": "20 monedas",
+      "afirmacion": "Shiru compra cinco grandes panes por veinte monedas de oro. El grupo encuentra plumas del búho cerca del recorrido que siguió. No encuentra aún al responsable de su desaparición.",
+      "entidades": [
+        "Shiru (grafía provisional)",
+        "Panadero de Yayi (nombre pendiente)",
+        "Ernesto (búho familiar)",
+        "Yayi (grafía provisional)"
+      ],
+      "tipo": "hecho_confirmado",
+      "ambito": "Una noticia de hace cien años",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para los acontecimientos narrados; las declaraciones se mantienen atribuidas.",
+      "limitacion": "Fuente automática sin cotejo de audio. Se conservan como provisionales las grafías dudosas y se describe lo resuelto en mesa sin reconstruir reglas externas."
+    },
+    {
+      "id": "07-006",
+      "titulo": "Los aldeanos no oyen lo mismo",
+      "inicio": "00:41:55.000",
+      "fin": "00:52:27.000",
+      "cita": "nunca hemos escuchado música",
+      "afirmacion": "Un hombre que recoge bayas niega que haya música y dice haber nacido en Yayi. La procedencia de la melodía parece cambiar para los cazadores, hasta que Tarutaru consigue seguirla hacia la taberna La Mangosta Borracha.",
+      "entidades": [
+        "Tarutaru (grafía provisional)",
+        "Yayi (grafía provisional)",
+        "La Mangosta Borracha (Yayi)"
+      ],
+      "tipo": "hecho_confirmado",
+      "ambito": "Una noticia de hace cien años",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para los acontecimientos narrados; las declaraciones se mantienen atribuidas.",
+      "limitacion": "Fuente automática sin cotejo de audio. Se conservan como provisionales las grafías dudosas y se describe lo resuelto en mesa sin reconstruir reglas externas."
+    },
+    {
+      "id": "07-007",
+      "titulo": "Una taberna amable hasta el anochecer",
+      "inicio": "00:52:27.000",
+      "fin": "01:05:11.000",
+      "cita": "más agresiva",
+      "afirmacion": "En la taberna sirven sake, Shiru gana un pulso y diez monedas, y la araña inspecciona una cocina ordinaria. Al anochecer la música se vuelve más agresiva; la gente aparece apagada y distraída. Hayate nota el cambio y descubre que la música suena muy alta fuera.",
+      "entidades": [
+        "Shiru (grafía provisional)",
+        "Tarutaru (grafía provisional)",
+        "Araña de Tarutaru",
+        "Hayate",
+        "La Mangosta Borracha (Yayi)"
+      ],
+      "tipo": "hecho_confirmado",
+      "ambito": "Una noticia de hace cien años",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para los acontecimientos narrados; las declaraciones se mantienen atribuidas.",
+      "limitacion": "Fuente automática sin cotejo de audio. Se conservan como provisionales las grafías dudosas y se describe lo resuelto en mesa sin reconstruir reglas externas."
+    },
+    {
+      "id": "07-008",
+      "titulo": "Rostros que desaparecen y un cuello que crece",
+      "inicio": "01:05:11.000",
+      "fin": "01:11:37.000",
+      "cita": "sin rostro",
+      "afirmacion": "Dos hombres pierden sus facciones y la mujer alarga el cuello hasta acercar la cara a Hino Yama. No responden a las preguntas. La mujer chilla y Hino Yama le arroja sake; empieza el combate.",
+      "entidades": [
+        "Hino Yama (grafía provisional)",
+        "Aldeanos transformados de Yayi",
+        "La Mangosta Borracha (Yayi)"
+      ],
+      "tipo": "hecho_confirmado",
+      "ambito": "Una noticia de hace cien años",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para los acontecimientos narrados; las declaraciones se mantienen atribuidas.",
+      "limitacion": "Fuente automática sin cotejo de audio. Se conservan como provisionales las grafías dudosas y se describe lo resuelto en mesa sin reconstruir reglas externas."
+    },
+    {
+      "id": "07-009",
+      "titulo": "Una lucha contra antiguos clientes",
+      "inicio": "01:11:37.000",
+      "fin": "01:26:58.000",
+      "cita": "la cara se devuelve",
+      "afirmacion": "Shiru rompe una silla y después una mesa contra uno de los hombres sin rostro. Hino Yama prende con magia el sake sobre la mujer de cuello largo. Hayate inmoviliza al otro adversario, cuyo grito causa miedo. Al morir el hombre golpeado por Shiru recupera el rostro humano.",
+      "entidades": [
+        "Shiru (grafía provisional)",
+        "Hino Yama (grafía provisional)",
+        "Hayate",
+        "Tarutaru (grafía provisional)",
+        "Aldeanos transformados de Yayi"
+      ],
+      "tipo": "hecho_confirmado",
+      "ambito": "Una noticia de hace cien años",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para los acontecimientos narrados; las declaraciones se mantienen atribuidas.",
+      "limitacion": "Fuente automática sin cotejo de audio. Se conservan como provisionales las grafías dudosas y se describe lo resuelto en mesa sin reconstruir reglas externas."
+    },
+    {
+      "id": "07-010",
+      "titulo": "Tres muertos recuperan su forma",
+      "inicio": "01:26:58.000",
+      "fin": "01:38:44.000",
+      "cita": "les aparece la cara",
+      "afirmacion": "La araña debilita al último adversario y Shiru lo remata con una embestida. Los tres cuerpos recuperan su aspecto humano. El grupo recoge monedas, comida y sake y sale a una plaza con otros habitantes transformados; Tarutaru ubica la música tras la fuente.",
+      "entidades": [
+        "Shiru (grafía provisional)",
+        "Araña de Tarutaru",
+        "Tarutaru (grafía provisional)",
+        "Aldeanos transformados de Yayi",
+        "La Mangosta Borracha (Yayi)",
+        "Yayi (grafía provisional)"
+      ],
+      "tipo": "hecho_confirmado",
+      "ambito": "Una noticia de hace cien años",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para los acontecimientos narrados; las declaraciones se mantienen atribuidas.",
+      "limitacion": "Fuente automática sin cotejo de audio. Se conservan como provisionales las grafías dudosas y se describe lo resuelto en mesa sin reconstruir reglas externas."
+    },
+    {
+      "id": "07-011",
+      "titulo": "El laúd es la cabeza",
+      "inicio": "01:37:49.000",
+      "fin": "01:43:05.000",
+      "cita": "la cabeza un laut",
+      "afirmacion": "Hayate distingue a un humanoide tocando tras la fuente. Hino Yama lo ataca con proyectiles mágicos y, al girarse, muestra que tiene un gran laúd por cabeza. Cambia la melodía y los habitantes cercanos reaccionan contra los cazadores. Hayate lo hiere con varias flechas.",
+      "entidades": [
+        "Hayate",
+        "Hino Yama (grafía provisional)",
+        "Músico de cabeza de laúd",
+        "Yayi (grafía provisional)"
+      ],
+      "tipo": "hecho_confirmado",
+      "ambito": "Una noticia de hace cien años",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para los acontecimientos narrados; las declaraciones se mantienen atribuidas.",
+      "limitacion": "Fuente automática sin cotejo de audio. Se conservan como provisionales las grafías dudosas y se describe lo resuelto en mesa sin reconstruir reglas externas."
+    },
+    {
+      "id": "07-012",
+      "titulo": "La araña cae en la plaza",
+      "inicio": "01:43:05.000",
+      "fin": "01:48:02.000",
+      "cita": "pincha la arañita",
+      "afirmacion": "Un hombre sin rostro alcanza con una daga a la araña de Tarutaru y la mata. Hino Yama sigue atacando al músico y detiene con un escudo los mordiscos a distancia de otra mujer de cuello largo.",
+      "entidades": [
+        "Araña de Tarutaru",
+        "Tarutaru (grafía provisional)",
+        "Hino Yama (grafía provisional)",
+        "Aldeanos transformados de Yayi",
+        "Músico de cabeza de laúd"
+      ],
+      "tipo": "hecho_confirmado",
+      "ambito": "Una noticia de hace cien años",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para los acontecimientos narrados; las declaraciones se mantienen atribuidas.",
+      "limitacion": "Fuente automática sin cotejo de audio. Se conservan como provisionales las grafías dudosas y se describe lo resuelto en mesa sin reconstruir reglas externas."
+    },
+    {
+      "id": "07-013",
+      "titulo": "Un acorde que hiere a todos",
+      "inicio": "01:48:02.000",
+      "fin": "01:55:38.000",
+      "cita": "recibís todos",
+      "afirmacion": "Shiru lanza un tonel al músico, que sigue tocando pese a las heridas. Este se acerca y ejecuta una música atronadora que daña a criaturas en treinta pies, incluidos habitantes próximos, y hace perder a Hayate la concentración.",
+      "entidades": [
+        "Shiru (grafía provisional)",
+        "Músico de cabeza de laúd",
+        "Hayate",
+        "Aldeanos transformados de Yayi"
+      ],
+      "tipo": "hecho_confirmado",
+      "ambito": "Una noticia de hace cien años",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para los acontecimientos narrados; las declaraciones se mantienen atribuidas.",
+      "limitacion": "Fuente automática sin cotejo de audio. Se conservan como provisionales las grafías dudosas y se describe lo resuelto en mesa sin reconstruir reglas externas."
+    },
+    {
+      "id": "07-014",
+      "titulo": "La muerte detiene la música",
+      "inicio": "01:55:38.000",
+      "fin": "01:59:24.000",
+      "cita": "se para la música",
+      "afirmacion": "Tarutaru alcanza al músico, corta las cuerdas y le arranca la cabeza. La música cesa y los habitantes transformados convulsionan antes de volver a sus formas humanas. Quedan dormidos, pero vivos. Los cazadores encuentran un diario entre las pertenencias del músico.",
+      "entidades": [
+        "Tarutaru (grafía provisional)",
+        "Músico de cabeza de laúd",
+        "Aldeanos transformados de Yayi",
+        "Diario del músico de Yayi",
+        "Cabeza de laúd del músico"
+      ],
+      "tipo": "hecho_confirmado",
+      "ambito": "Una noticia de hace cien años",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para los acontecimientos narrados; las declaraciones se mantienen atribuidas.",
+      "limitacion": "Fuente automática sin cotejo de audio. Se conservan como provisionales las grafías dudosas y se describe lo resuelto en mesa sin reconstruir reglas externas."
+    },
+    {
+      "id": "07-015",
+      "titulo": "El diario cuenta otro comienzo",
+      "inicio": "01:58:25.000",
+      "fin": "02:03:41.000",
+      "cita": "laut nuevo maravilloso",
+      "afirmacion": "El diario explica que el músico era ignorado e insultado hasta encontrar un laúd maravilloso. Al tocarlo atraía oyentes, pero luego vio personas sin rostro y cuellos alargados. Las anotaciones verbales terminan y son sustituidas por notas musicales. Una aldeana despertada cree estar en un año de cien años antes.",
+      "entidades": [
+        "Diario del músico de Yayi",
+        "Músico de cabeza de laúd",
+        "Yayi (grafía provisional)"
+      ],
+      "tipo": "declaracion_personaje",
+      "ambito": "Una noticia de hace cien años",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para los acontecimientos narrados; las declaraciones se mantienen atribuidas.",
+      "limitacion": "Fuente automática sin cotejo de audio. Se conservan como provisionales las grafías dudosas y se describe lo resuelto en mesa sin reconstruir reglas externas."
+    },
+    {
+      "id": "07-016",
+      "titulo": "La explicación no tranquiliza a todos",
+      "inicio": "02:03:41.000",
+      "fin": "02:15:48.000",
+      "cita": "podrida",
+      "afirmacion": "El grupo descansa ocho horas en una casa. Su dueño los expulsa al despertar. Shiru reúne después a los vecinos y les explica lo ocurrido; algunos creen y agradecen, otros revisan sus casas o ignoran a los extranjeros. La madera deteriorada y los árboles crecidos ayudan a hacer visible el tiempo transcurrido.",
+      "entidades": [
+        "Shiru (grafía provisional)",
+        "Yayi (grafía provisional)",
+        "Aldeanos transformados de Yayi"
+      ],
+      "tipo": "hecho_confirmado",
+      "ambito": "Una noticia de hace cien años",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para los acontecimientos narrados; las declaraciones se mantienen atribuidas.",
+      "limitacion": "Fuente automática sin cotejo de audio. Se conservan como provisionales las grafías dudosas y se describe lo resuelto en mesa sin reconstruir reglas externas."
+    },
+    {
+      "id": "07-017",
+      "titulo": "El nekomata anima a la araña",
+      "inicio": "02:15:48.000",
+      "fin": "02:19:31.000",
+      "cita": "como un zomb",
+      "afirmacion": "En Ukio, el nekomata se acerca a la araña muerta de Tarutaru y utiliza su poder de levantar muertos. La araña vuelve animada como no muerta, no como una resurrección ordinaria. Tarutaru le agradece el gesto con caricias y el gato pide sushi.",
+      "entidades": [
+        "Nekomata de los pescadores",
+        "Araña de Tarutaru",
+        "Tarutaru (grafía provisional)",
+        "Hayate",
+        "Ukio (grafía provisional)"
+      ],
+      "tipo": "hecho_confirmado",
+      "ambito": "Una noticia de hace cien años",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para los acontecimientos narrados; las declaraciones se mantienen atribuidas.",
+      "limitacion": "Fuente automática sin cotejo de audio. Se conservan como provisionales las grafías dudosas y se describe lo resuelto en mesa sin reconstruir reglas externas."
+    },
+    {
+      "id": "07-018",
+      "titulo": "La recompensa y el contacto con Yayi",
+      "inicio": "02:19:31.000",
+      "fin": "02:24:59.000",
+      "cita": "25 moneditas",
+      "afirmacion": "El leñador escucha la explicación y entrega veinticinco monedas por cazador. Promete hablar con el alcalde y enviar contactos para comprobar y tranquilizar a Yayi. El grupo propone una futura visita e incluso aprovechar la taberna abandonada; no se realiza todavía.",
+      "entidades": [
+        "Leñador que denuncia Yayi (nombre pendiente)",
+        "Shiru (grafía provisional)",
+        "Hayate",
+        "Tarutaru (grafía provisional)",
+        "Hino Yama (grafía provisional)",
+        "Yayi (grafía provisional)",
+        "La Mangosta Borracha (Yayi)"
+      ],
+      "tipo": "hecho_confirmado",
+      "ambito": "Una noticia de hace cien años",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para los acontecimientos narrados; las declaraciones se mantienen atribuidas.",
+      "limitacion": "Fuente automática sin cotejo de audio. Se conservan como provisionales las grafías dudosas y se describe lo resuelto en mesa sin reconstruir reglas externas."
+    },
+    {
+      "id": "07-019",
+      "titulo": "El familiar se deshizo al ser atrapado",
+      "inicio": "02:03:41.000",
+      "fin": "02:05:28.000",
+      "cita": "es un hechizo",
+      "afirmacion": "Al preguntar por el búho, el director aclara que desapareció mágicamente: lo atraparon para intentar comerlo y su forma de familiar se deshizo. No se muestra una nueva invocación.",
+      "entidades": [
+        "Hino Yama (grafía provisional)",
+        "Ernesto (búho familiar)"
+      ],
+      "tipo": "explicacion_director",
+      "ambito": "Una noticia de hace cien años",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para los acontecimientos narrados; las declaraciones se mantienen atribuidas.",
+      "limitacion": "Fuente automática sin cotejo de audio. Se conservan como provisionales las grafías dudosas y se describe lo resuelto en mesa sin reconstruir reglas externas."
+    }
+  ],
+  "misiones": [
+    "Investigar las señales de Yayi: cumplida; se descubre el músico de cabeza de laúd y se detiene su magia.",
+    "Salvar a los habitantes transformados: la mayoría recupera forma humana y vida; tres personas mueren durante la primera lucha.",
+    "Recuperar a Ernesto: se aclara que el familiar se deshizo al ser atrapado; no se muestra una nueva invocación.",
+    "Auxiliar a la araña de Tarutaru: el nekomata la levanta como no muerta.",
+    "Cobrar la investigación: veinticinco monedas de oro por participante.",
+    "Restablecer contacto con Yayi: el leñador promete hablar con el alcalde; visita oficial pendiente."
+  ],
+  "preguntas": [
+    "¿De dónde procedía el laúd y quién lo dejó al alcance del músico?",
+    "¿Cómo se adapta Yayi al siglo transcurrido y al contacto con Ukio?",
+    "¿Qué consecuencias tiene que la araña de Tarutaru sea ahora no muerta?",
+    "¿Vuelve el grupo para gestionar o ayudar a recuperar La Mangosta Borracha?"
+  ],
+  "nombres_dudosos": [
+    "El pueblo aparece Yi/Yayi; se conserva Yayi como grafía provisional.",
+    "El antiguo ronin es llamado shiro; no se fusiona con Shiru, cazador presente en la misma sesión.",
+    "La taberna se improvisa como La Mangosta Borracha; la broma posterior de cambiarla por otro nombre no se canoniza.",
+    "Ernesto es el nombre que Hino Yama usa para el búho familiar en esta sesión."
+  ],
+  "contradicciones": [
+    "Las primeras hipótesis del grupo hablan de muertos e ilusiones; la resolución muestra habitantes vivos transformados y objetos tangibles.",
+    "El director empieza a presentar al tabernero vivo al amanecer y se corrige al recordar que murió durante el combate; se conserva la corrección.",
+    "La cabeza del músico sigue como trofeo sangrante, pero deja de sonar al morir; no se le adjudica una magia activa posterior."
+  ]
+}

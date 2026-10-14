@@ -1,0 +1,215 @@
+{
+  "capitulo": 89,
+  "estado_revision": "revisado",
+  "resumen": "El aniversario empieza con una aclaración: el shogun ya recibió las conclusiones sobre el montaje contra Tip y Top, pero su decisión final sigue pendiente y los dos deben permanecer desarmados dentro de la base. Shiru estrena un cuerno de acero con bisagra y Jin prepara una venganza por Sir, mientras Erk continúa refugiándose en la bebida. El ciervo intenta jugar con los mujina y los lanza a través de la pared de la habitación del fallecido, donde duerme Lor Miao. La aarakocra responde disparando al cuerno para exigir respeto. Ikari lo arregla de forma precaria con resina y frío, dejándolo torcido, y un piano oculta el agujero. La taberna de Ushi sigue cerrada al gremio y venderles alcohol para llevar no satisface a Ikari. Decide proponer un local propio. La visita a los funcionarios conduce a dos espacios contiguos de la calle 43, señalados como local 465. Debaten distintas ideas y terminan pidiendo bar y gimnasio, separados por el tabique y con una posible función musical por la noche. Un samurái les enseña ambos y retira las llaves al terminar. Quedan a la espera de documentos, precio y pago inicial; habrá tributo mensual sobre ganancias y las reformas necesitan autorización. Ni la charla sobre nombres ni el entusiasmo convierten la solicitud en un negocio abierto. Al regresar, los ronquidos de Erk molestan al gato y Lor Miao los hace desaparecer uno a uno. Llegan a una habitación enorme con ordenador, libros y un hombre que representa al propio director. El encuentro abandona las reglas habituales: Paul/Lich cura la borrachera, controla movimientos y propone que lo venzan de otra manera. Sus ataques corrientes apenas resuelven nada. Los personajes prueban muebles, apuntes y objetos queridos hasta descubrir que discutir sus preferencias, atacar sus manuales y quitarle la silla de director causa un daño desmesurado. Shiru reclama el papel de narrador y la broma termina en derrota y recomposición del anfitrión. El director explica que la ocurrencia consistía en hacerle daño a él mediante lo que le importa, improvisando ataques y resultados. Antes de enviarlos de vuelta recuerda que siguen sin atender al mago enfermo, investigar la Puerta Negra y averiguar quién contrató a los asesinos. Erk y Jin vuelven a preguntar por Sir; las bromas no producen una resurrección ni resuelven las culpas. El posible pacto con el director queda como idea, no como poder concedido. La sesión cierra el aniversario dejando intactos esos objetivos y pendiente la autorización económica de los nuevos locales.",
+  "historia": {
+    "revisado_hasta": 89,
+    "etapas": [
+      {
+        "titulo": "Una casa llena de asuntos pendientes",
+        "texto": "El aniversario empieza con una aclaración: el shogun ya recibió las conclusiones sobre el montaje contra Tip y Top, pero su decisión final sigue pendiente y los dos deben permanecer desarmados dentro de la base. Shiru estrena un cuerno de acero con bisagra y Jin prepara una venganza por Sir, mientras Erk continúa refugiándose en la bebida. El ciervo intenta jugar con los mujina y los lanza a través de la pared de la habitación del fallecido, donde duerme Lor Miao. La aarakocra responde disparando al cuerno para exigir respeto. Ikari lo arregla de forma precaria con resina y frío, dejándolo torcido, y un piano oculta el agujero.",
+        "referencias": [
+          "89-001",
+          "89-002"
+        ]
+      },
+      {
+        "titulo": "El negocio que todavía espera papeles",
+        "texto": "La taberna de Ushi sigue cerrada al gremio y venderles alcohol para llevar no satisface a Ikari. Decide proponer un local propio. La visita a los funcionarios conduce a dos espacios contiguos de la calle 43, señalados como local 465. Debaten distintas ideas y terminan pidiendo bar y gimnasio, separados por el tabique y con una posible función musical por la noche. Un samurái les enseña ambos y retira las llaves al terminar. Quedan a la espera de documentos, precio y pago inicial; habrá tributo mensual sobre ganancias y las reformas necesitan autorización. Ni la charla sobre nombres ni el entusiasmo convierten la solicitud en un negocio abierto.",
+        "referencias": [
+          "89-003"
+        ]
+      },
+      {
+        "titulo": "Los cazadores frente a quien los narra",
+        "texto": "Al regresar, los ronquidos de Erk molestan al gato y Lor Miao los hace desaparecer uno a uno. Llegan a una habitación enorme con ordenador, libros y un hombre que representa al propio director. El encuentro abandona las reglas habituales: Paul/Lich cura la borrachera, controla movimientos y propone que lo venzan de otra manera. Sus ataques corrientes apenas resuelven nada. Los personajes prueban muebles, apuntes y objetos queridos hasta descubrir que discutir sus preferencias, atacar sus manuales y quitarle la silla de director causa un daño desmesurado. Shiru reclama el papel de narrador y la broma termina en derrota y recomposición del anfitrión.",
+        "referencias": [
+          "89-004",
+          "89-005"
+        ]
+      },
+      {
+        "titulo": "Volver con preguntas, no con omnipotencia",
+        "texto": "El director explica que la ocurrencia consistía en hacerle daño a él mediante lo que le importa, improvisando ataques y resultados. Antes de enviarlos de vuelta recuerda que siguen sin atender al mago enfermo, investigar la Puerta Negra y averiguar quién contrató a los asesinos. Erk y Jin vuelven a preguntar por Sir; las bromas no producen una resurrección ni resuelven las culpas. El posible pacto con el director queda como idea, no como poder concedido. La sesión cierra el aniversario dejando intactos esos objetivos y pendiente la autorización económica de los nuevos locales.",
+        "referencias": [
+          "89-006"
+        ]
+      }
+    ]
+  },
+  "afirmaciones": [
+    {
+      "id": "89-001",
+      "titulo": "La investigación de los mujina sigue abierta",
+      "inicio": "00:00:00",
+      "fin": "00:09:20",
+      "afirmacion": "El director recapitula que el gremio ya informó al shogun del encargo para inculpar a Tip y Top. Mientras llega la decisión final siguen desarmados y encerrados en la base, mordiendo muebles. Shiru ha fabricado una prótesis de cuerno de acero con bisagra; Jin dice que prepara venganza por Sir y Erk continúa bebiendo por su culpa. El episodio se anuncia como especial de aniversario con reglas improvisadas.",
+      "tipo": "explicacion_director",
+      "entidades": [
+        "Tip y Top",
+        "Shiru (grafía provisional)",
+        "Jin",
+        "Erk (grafía provisional)"
+      ],
+      "ambito": "Especial metanarrativo del aniversario",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para escenas; reglas y representación explícitamente improvisadas",
+      "limitacion": "El encuentro con el director rompe la cuarta pared y no establece una cosmología, resurrección de Sir o autoridad permanente de los jugadores sobre la campaña. Bar y gimnasio siguen siendo proyecto.",
+      "cita": "estar encerrados en la base. Ya no",
+      "evidencia_cue": {
+        "inicio": "00:03:59.400",
+        "fin": "00:04:03.030"
+      }
+    },
+    {
+      "id": "89-002",
+      "titulo": "Un cuerno y otra pared rotos",
+      "inicio": "00:09:20",
+      "fin": "00:21:45",
+      "afirmacion": "Shiru intenta jugar a golpes con Tip y Top y los lanza a través de la pared de la habitación de Sir. Despiertan a Lor Miao, que los golpea. Erk dispara al cuerno nuevo del ciervo para exigir respeto por esa habitación y lo deja colgando. Ikari lo remienda con resina y frío, aunque queda orientado al revés; tapan el agujero con el piano.",
+      "tipo": "hecho_confirmado",
+      "entidades": [
+        "Shiru (grafía provisional)",
+        "Erk (grafía provisional)",
+        "Yari (grafía provisional)",
+        "Tip y Top",
+        "Lor Miao (grafía provisional)",
+        "Prótesis de cuerno de Shiru"
+      ],
+      "ambito": "Especial metanarrativo del aniversario",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para escenas; reglas y representación explícitamente improvisadas",
+      "limitacion": "El encuentro con el director rompe la cuarta pared y no establece una cosmología, resurrección de Sir o autoridad permanente de los jugadores sobre la campaña. Bar y gimnasio siguen siendo proyecto.",
+      "cita": "bisagra, ¿sabes? Se queda ahí colgando.",
+      "evidencia_cue": {
+        "inicio": "00:15:08.560",
+        "fin": "00:15:12.949"
+      }
+    },
+    {
+      "id": "89-003",
+      "titulo": "Un bar para los cazadores",
+      "inicio": "00:21:45",
+      "fin": "00:49:30",
+      "afirmacion": "Tras otro rechazo de Ushi, Ikari propone abrir una taberna propia. Erk mezcla bebida y queda muy ebria. En los archivos del shogunato solicitan dos locales contiguos, número 465 de la calle 43: uno para bar y otro gimnasio, manteniendo la separación por ahora. Un samurái los enseña. El funcionario enviará documentos y precio, y habrá impuestos sobre ganancias. No firman ni pagan todavía y no conservan llaves.",
+      "tipo": "hecho_confirmado",
+      "entidades": [
+        "Yari (grafía provisional)",
+        "Jin",
+        "Shiru (grafía provisional)",
+        "Erk (grafía provisional)",
+        "Locales proyectados de Ikari"
+      ],
+      "ambito": "Especial metanarrativo del aniversario",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para escenas; reglas y representación explícitamente improvisadas",
+      "limitacion": "El encuentro con el director rompe la cuarta pared y no establece una cosmología, resurrección de Sir o autoridad permanente de los jugadores sobre la campaña. Bar y gimnasio siguen siendo proyecto.",
+      "cita": "gimnasio. La que va la",
+      "evidencia_cue": {
+        "inicio": "00:45:39.240",
+        "fin": "00:45:41.790"
+      }
+    },
+    {
+      "id": "89-004",
+      "titulo": "El gato los lleva al director",
+      "inicio": "00:49:30",
+      "fin": "01:28:30",
+      "afirmacion": "De vuelta, los ronquidos de Erk molestan a Lor Miao. El gato hace desaparecer a los cuatro y los envía a una habitación gigante donde encuentran al propio director representado como Lich/Paul. Este los reprende por ignorar asuntos pendientes, quita la borrachera de Erk y los reta en un combate metanarrativo. Los golpes ordinarios sirven poco; controla a Ikari para atacar al grupo y deja claro que deben buscar otra forma de vencerlo.",
+      "tipo": "hecho_confirmado",
+      "entidades": [
+        "Yari (grafía provisional)",
+        "Jin",
+        "Shiru (grafía provisional)",
+        "Erk (grafía provisional)",
+        "Lor Miao (grafía provisional)",
+        "Lich/Paul del especial de aniversario"
+      ],
+      "ambito": "Especial metanarrativo del aniversario",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para escenas; reglas y representación explícitamente improvisadas",
+      "limitacion": "El encuentro con el director rompe la cuarta pared y no establece una cosmología, resurrección de Sir o autoridad permanente de los jugadores sobre la campaña. Bar y gimnasio siguen siendo proyecto.",
+      "cita": "y entra en el interior de la habitación",
+      "evidencia_cue": {
+        "inicio": "00:51:09.440",
+        "fin": "00:51:13.589"
+      }
+    },
+    {
+      "id": "89-005",
+      "titulo": "Vencer haciendo daño al narrador",
+      "inicio": "01:28:30",
+      "fin": "01:48:40",
+      "afirmacion": "El especial convierte en objetivos los libros, las preferencias sobre superhéroes y la silla de director. Insultar a Batman, lanzar manuales o reclamar dirigir la partida provoca daños absurdamente altos en la representación de Paul. Shiru ocupa la silla y lo derrota como broma; el director se recompone y explica que la salida era actuar sobre lo que a él le importa, no aplicar estadísticas normales. No se otorgan por ello poderes permanentes de control del mundo.",
+      "tipo": "explicacion_director",
+      "entidades": [
+        "Yari (grafía provisional)",
+        "Jin",
+        "Shiru (grafía provisional)",
+        "Erk (grafía provisional)",
+        "Lich/Paul del especial de aniversario"
+      ],
+      "ambito": "Especial metanarrativo del aniversario",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para escenas; reglas y representación explícitamente improvisadas",
+      "limitacion": "El encuentro con el director rompe la cuarta pared y no establece una cosmología, resurrección de Sir o autoridad permanente de los jugadores sobre la campaña. Bar y gimnasio siguen siendo proyecto.",
+      "cita": "Batman.",
+      "evidencia_cue": {
+        "inicio": "01:29:48.280",
+        "fin": "01:29:50.709"
+      }
+    },
+    {
+      "id": "89-006",
+      "titulo": "El recordatorio para volver a la campaña",
+      "inicio": "01:48:40",
+      "fin": "01:58:00",
+      "afirmacion": "Antes de devolverlos a Kuroto, el director recuerda el mago enfermo de la base, la Puerta Negra y el cliente de los asesinos como líneas pendientes. No revela quién mató realmente a Sir ni lo revive; discute la responsabilidad de los hilos con los personajes. Descarta un pacto permanente con él y cierra el aniversario aclarando que improvisó daños y reglas. No se confirma apertura del negocio ni resolución del asesinato.",
+      "tipo": "explicacion_director",
+      "entidades": [
+        "Yari (grafía provisional)",
+        "Jin",
+        "Shiru (grafía provisional)",
+        "Erk (grafía provisional)",
+        "Maroxi",
+        "Puerta Negra del sur de Kuroto",
+        "Lich/Paul del especial de aniversario"
+      ],
+      "ambito": "Especial metanarrativo del aniversario",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para escenas; reglas y representación explícitamente improvisadas",
+      "limitacion": "El encuentro con el director rompe la cuarta pared y no establece una cosmología, resurrección de Sir o autoridad permanente de los jugadores sobre la campaña. Bar y gimnasio siguen siendo proyecto.",
+      "cita": "enfermo ahí en la base, un mago enfermo",
+      "evidencia_cue": {
+        "inicio": "01:49:25.840",
+        "fin": "01:49:28.910"
+      }
+    }
+  ],
+  "misiones": [
+    "Solicitar bar y gimnasio: propuesta registrada y visita completada; documentos, pago y apertura pendientes.",
+    "Superar el encuentro metanarrativo del aniversario: completado mediante bromas y objetos del director.",
+    "Resolver enfermedad de Maroxi, Puerta Negra y cliente de los asesinos: recordatorios, sin avance sustantivo."
+  ],
+  "preguntas": [
+    "¿Qué precio y condiciones enviará el shogunato para los locales de Ikari?",
+    "¿Cuándo llegará la resolución oficial sobre Tip y Top?"
+  ],
+  "nombres_dudosos": [
+    "Lich/Paul es la representación del director en un especial que rompe la cuarta pared; no se fusiona con un lich histórico del mundo.",
+    "Ikari mantiene en los originales de este bloque la etiqueta previa Yari para conciliación.",
+    "Local465/calle43 según el funcionario; no se inventa un nombre comercial de las propuestas jocosas."
+  ],
+  "contradicciones": [
+    "Los tamaños, daños y hechizos del encuentro final se improvisan expresamente: no se tratan como capacidades medibles trasladables a capítulos posteriores.",
+    "Erk cree o teme que los mujina estén muertos; el director corrige que siguen vivos y retenidos.",
+    "Jin señala a las hermanas por Sir, pero el especial no establece una investigación nueva ni confirma una única culpa objetiva."
+  ],
+  "fuente_sha256": "9a8b0ddea38db1e937ad00839ea55999cbefd359112a076db233553c0ca59f60"
+}

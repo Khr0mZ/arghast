@@ -1,0 +1,69 @@
+{
+  "provider": "Google Fonts",
+  "css_source": "https://fonts.googleapis.com/css2?family=Cinzel:wght@600&family=Kaisei+Tokumin:wght@700&family=Macondo&display=swap",
+  "license": "SIL Open Font License 1.1",
+  "files": [
+    {
+      "family": "Cinzel",
+      "weight": "600",
+      "subset": "latin-ext",
+      "file": "web/assets/fonts/cinzel-600-latin-ext.woff2",
+      "source": "https://fonts.gstatic.com/s/cinzel/v26/8vIU7ww63mVu7gtR-kwKxNvkNOjw-gjgfYPlDX5Z.woff2",
+      "sha256": "a5779eb98b5046090f99169b529743e356b452909295ad7db4cb70011e0425e0",
+      "bytes": 8352
+    },
+    {
+      "family": "Cinzel",
+      "weight": "600",
+      "subset": "latin",
+      "file": "web/assets/fonts/cinzel-600-latin.woff2",
+      "source": "https://fonts.gstatic.com/s/cinzel/v26/8vIU7ww63mVu7gtR-kwKxNvkNOjw-gjgfY3lDQ.woff2",
+      "sha256": "61efc27ceb7d08bb841652fa8979c0b6833b92548b7f9544c07968a6c02f28e4",
+      "bytes": 15204
+    },
+    {
+      "family": "Kaisei Tokumin",
+      "weight": "700",
+      "subset": "latin-ext",
+      "file": "web/assets/fonts/kaiseitokumin-700-latin-ext.woff2",
+      "source": "https://fonts.gstatic.com/s/kaiseitokumin/v12/Gg8vN5wdZg7xCwuMsylww2ZiQnrj-UkorsMDeA.woff2",
+      "sha256": "1c1004104196d33a27ec105ec76c5c0de3282c5a1765795209da4b52f5ea99b7",
+      "bytes": 4620
+    },
+    {
+      "family": "Kaisei Tokumin",
+      "weight": "700",
+      "subset": "latin",
+      "file": "web/assets/fonts/kaiseitokumin-700-latin.woff2",
+      "source": "https://fonts.gstatic.com/s/kaiseitokumin/v12/Gg8vN5wdZg7xCwuMsylww2ZiQnrj-UkmrsM.woff2",
+      "sha256": "6429c6dbae61f3ed4535214375f14c94cb53c86116056830dfac15902d8ef9ec",
+      "bytes": 36324
+    },
+    {
+      "family": "Macondo",
+      "weight": "400",
+      "subset": "latin",
+      "file": "web/assets/fonts/macondo-400-latin.woff2",
+      "source": "https://fonts.gstatic.com/s/macondo/v27/RrQQboN9-iB1IXmOe2LE0Q.woff2",
+      "sha256": "892cfdc13b08ecddf00768d1099c1d1bfa92d028f6fe4343051f4356897919be",
+      "bytes": 11560
+    }
+  ],
+  "families": [
+    {
+      "name": "Cinzel",
+      "license_source": "https://raw.githubusercontent.com/google/fonts/main/ofl/cinzel/OFL.txt",
+      "specimen": "https://fonts.google.com/specimen/Cinzel"
+    },
+    {
+      "name": "Kaisei Tokumin",
+      "license_source": "https://raw.githubusercontent.com/google/fonts/main/ofl/kaiseitokumin/OFL.txt",
+      "specimen": "https://fonts.google.com/specimen/Kaisei+Tokumin"
+    },
+    {
+      "name": "Macondo",
+      "license_source": "https://raw.githubusercontent.com/google/fonts/main/ofl/macondo/OFL.txt",
+      "specimen": "https://fonts.google.com/specimen/Macondo"
+    }
+  ]
+}

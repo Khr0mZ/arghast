@@ -1,0 +1,355 @@
+{
+  "capitulo": 103,
+  "estado_revision": "revisado",
+  "fuente_sha256": "6fa682d6838b0f7031db014508652506ae7437ae425bc50b9615b7c1077a0600",
+  "resumen": "Hayate reúne a Shiru, Banzo y Maroxi en su templo, donde Chilia trae la respuesta a la petición de ayuda. La Reina Cuervo admite que afronten una prueba para recoger energía. Se busca avanzar hacia el regreso de Sirth y librar a Maroxi de la criatura que lleva dentro; ninguno de esos resultados está concedido por anticipado. El alquimista llega cada vez peor, incapaz de ocultar las venas oscuras. Ha analizado además las hierbas traídas de palacio: sus usos alquímicos incluyen maldiciones y aplicaciones dañinas, aunque también admite usos buenos. Conserva una muestra para estudiarla. Shiru intenta resolver el problema de la criatura mediante una embestida. El golpe derriba a Maroxi por las escaleras y desencadena una amenaza con una voz extraña, antes de que logre recobrar el control. La llave de la prueba exige un alma voluntaria. Hayate coloca la suya en una urna y permanece en trance, dejando a sus compañeros cuatro collares con plumas que aportan protección. Chilia transporta el aparato destinado a recoger la energía. Los cuervos llevan a los cuatro visitantes a una región remota de Shadowfell. Un guardián explica que allí se mantiene encerrado un peligro al que no pudieron eliminar, cuya energía se extrae periódicamente para debilitarlo. Chilia conoce el lugar, pero ha aceptado borrar parte de sus recuerdos para afrontar el desafío sin ventaja. El grupo entra en un páramo de obsidiana con tres accesos y una estatua que sostiene cadenas y lanza. No basta con golpear las barreras ni disiparlas. Al encajar la urna y el recolector en la estatua, el contacto con el aparato abre las entradas y activa una cúpula. Cuando apartan la mano, las puertas vuelven a cerrarse. Cada acceso admite a una sola persona: Shiru, Banzo y Maroxi se separan para afrontar pruebas individuales y Chilia sostiene el mecanismo. Un espectro se aproxima a ella, atraído por la activación, y ambos intercambian gritos sobrenaturales mientras la emisaria mantiene abierto el paso. La entrada no ofrece solo una pelea; las salas proyectan recuerdos y facetas de quienes cruzan. Shiru aparece en un cementerio mental donde reconoce numerosas tumbas y encuentra tres sin nombre. Un huérfano de su antigua aldea le reprocha el abandono; la abuela a la que apenas nombra pide ser recordada. El último espectro representa a una recién nacida muerta en un accidente de carro durante una de sus huidas, un hecho que la prueba le devuelve a la conciencia. Shiru explica que las enseñanzas de su abuela siguen presentes en su forma de sobrevivir y graba para ella el nombre de Fifi. A la criatura desconocida le da el de Silvestre. Completa también el recuerdo del niño y las figuras descansan. Obtiene un fragmento cristalino. La escena pertenece a su prueba y no es una revelación escuchada por el resto del grupo. Banzo recorre una sala de espejos donde ve miedo, ambición y ofertas de poder. Una imagen propone un pacto para salvar a sus compañeros, pero él responde que confía en la familia que ha encontrado. Rompe primero el espejo equivocado y combate una sombra. Después acepta al reflejo sereno, que parecía demasiado seguro para reconocerlo como propio; al romper ese cristal recupera esa parte de sí y obtiene el segundo fragmento. Maroxi se sienta en un trono rodeado de fuego frío. Soporta dolor, reproches y la tentación de un poder que le pide olvidar el mundo y hacerlo arder. Resiste la oferta y recibe otro fragmento. No se formaliza un pacto con ninguna de esas voces. El regreso de los tres despierta a un dragón corrompido por la sombra, que los acusa de arrancarle parte del alma. El suelo se agrieta y la criatura ataca. Maroxi coloca los fragmentos y gira el mecanismo; la lanza de la estatua dispara rayos que dañan al dragón y cargan el recolector. Banzo intenta sujetarlo con su arpón, Shiru combate desde la distancia cuando el miedo le impide acercarse y Chilia lo ciega y aturde con sus golpes. Maroxi alterna momentos de lucidez con una risa cada vez más inquietante; mantiene los rayos y añade bolas de fuego. Chilia da el último golpe y la sombra se deshace hacia el cráter. El director aclara que no han matado definitivamente a la criatura. El recolector sí queda cargado y los fragmentos terminan convertidos en obsidiana rota. Chilia reclama el aparato para su señora, pero Maroxi lo guarda: quiere usarlo para exigir una negociación sobre su propia enfermedad. La emisaria intenta arrebatárselo a golpes, él se vuelve invisible y huye mientras Banzo y Shiru frenan a Chilia. El guardián registra los nombres de quienes han superado la prueba. Los cuervos acaban devolviendo a los tres cazadores al templo de Hayate; Chilia parte hacia la reina sin el recolector. Al abrir la urna, los hilos del alma regresan al clérigo y este despierta, agotado. Maroxi muestra la energía retenida y defiende que por fin dispone de algo con lo que negociar. Sus compañeros le recuerdan que el trato también pretendía ayudar a Sirth. Hayate envía por un cuervo una petición de audiencia y todos esperan juntos. Sirth continúa sin regresar y la criatura sigue dentro de Maroxi.",
+  "afirmaciones": [
+    {
+      "id": "103-001",
+      "titulo": "Convocatoria y pérdida de control",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Hayate convoca a la prueba transmitida por Chilia. Maroxi presenta venas negras, conserva una muestra de las hierbas de palacio que considera alquímicas y potencialmente dañinas, y amenaza a Shiru con una voz extraña tras recibir su embestida.",
+      "inicio": "00:02:00.000",
+      "fin": "00:17:30.000",
+      "entidades": [
+        "Hayate",
+        "Chilia (grafía provisional)",
+        "Maroxi",
+        "Shiru (grafía provisional)",
+        "Banzo"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "No anticipa el resultado de la negociación ni una muerte definitiva del cautivo.",
+      "cita": "alquimia de cierto nivel y además usadas",
+      "evidencia_cue": {
+        "inicio": "00:03:37.480",
+        "fin": "00:03:41.270"
+      }
+    },
+    {
+      "id": "103-002",
+      "titulo": "El alma voluntaria de Hayate",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Hayate deposita su alma en una urna para que actúe como llave y queda en trance. Sus cuatro collares de plumas sirven como bendición protectora para quienes parten.",
+      "inicio": "00:17:00.000",
+      "fin": "00:25:30.000",
+      "entidades": [
+        "Hayate",
+        "Urna del alma voluntaria de Hayate",
+        "Chilia (grafía provisional)",
+        "Maroxi",
+        "Shiru (grafía provisional)",
+        "Banzo"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "No anticipa el resultado de la negociación ni una muerte definitiva del cautivo.",
+      "cita": "alma voluntaria, que será la mía. La la",
+      "evidencia_cue": {
+        "inicio": "00:18:21.760",
+        "fin": "00:18:25.549"
+      }
+    },
+    {
+      "id": "103-003",
+      "titulo": "La función de la prisión",
+      "tipo": "explicacion_director",
+      "afirmacion": "El guardián explica que la prueba permite extraer energía de un peligro cautivo para debilitarlo. Chilia ha aceptado un borrado parcial de recuerdos para no beneficiarse de conocer el desafío.",
+      "inicio": "00:26:00.000",
+      "fin": "00:37:00.000",
+      "entidades": [
+        "Prisión de las pruebas en Shadowfell",
+        "Chilia (grafía provisional)",
+        "Reina Cuervo (Kuroto)",
+        "Recolector de energía de las pruebas"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "No anticipa el resultado de la negociación ni una muerte definitiva del cautivo.",
+      "cita": "estos recuerdos para no tener ninguna",
+      "evidencia_cue": {
+        "inicio": "00:36:08.280",
+        "fin": "00:36:09.910"
+      }
+    },
+    {
+      "id": "103-004",
+      "titulo": "Urna, recolector y contacto",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "La urna y el recolector encajan en la estatua. Mantener contacto con este abre los accesos individuales; Chilia permanece fuera sosteniéndolo y afronta a un espectro.",
+      "inicio": "00:51:00.000",
+      "fin": "01:04:00.000",
+      "entidades": [
+        "Prisión de las pruebas en Shadowfell",
+        "Urna del alma voluntaria de Hayate",
+        "Recolector de energía de las pruebas",
+        "Chilia (grafía provisional)",
+        "Maroxi",
+        "Shiru (grafía provisional)",
+        "Banzo"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "No anticipa el resultado de la negociación ni una muerte definitiva del cautivo.",
+      "cita": "esfera esa que voy tirando todo el",
+      "evidencia_cue": {
+        "inicio": "00:52:39.839",
+        "fin": "00:52:44.109"
+      }
+    },
+    {
+      "id": "103-005",
+      "titulo": "Shiru recuerda a los olvidados",
+      "tipo": "explicacion_director",
+      "afirmacion": "Una proyección mental enfrenta a Shiru a un niño huérfano de su aldea, su abuela Fifi y una recién nacida muerta en un accidente de carro durante su huida. Inscribir sus nombres y recordarles permite completar la prueba.",
+      "inicio": "01:04:00.000",
+      "fin": "01:19:00.000",
+      "entidades": [
+        "Shiru (grafía provisional)",
+        "Prisión de las pruebas en Shadowfell"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "Shiru (grafía provisional)"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "Experiencia individual dentro de una proyección mental; no se presume compartida con los demás.",
+      "cita": "Fifi.",
+      "evidencia_cue": {
+        "inicio": "01:14:34.000",
+        "fin": "01:14:39.470"
+      }
+    },
+    {
+      "id": "103-006",
+      "titulo": "Banzo acepta su reflejo sereno",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Banzo rechaza las ofertas de poder y pacto de sus reflejos. Tras romper un espejo equivocado y combatir una sombra, reconoce el reflejo sereno y obtiene un fragmento de cristal.",
+      "inicio": "01:21:00.000",
+      "fin": "01:55:30.000",
+      "entidades": [
+        "Banzo",
+        "Prisión de las pruebas en Shadowfell"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "Banzo"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "Experiencia individual dentro de una proyección mental; no se presume compartida con los demás.",
+      "cita": "el Entonces, ¿haras un pacto con",
+      "evidencia_cue": {
+        "inicio": "01:30:54.400",
+        "fin": "01:30:56.669"
+      }
+    },
+    {
+      "id": "103-007",
+      "titulo": "Maroxi resiste el trono",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Maroxi soporta las pruebas de dolor, reproches y tentación del trono. Resiste la oferta de poder destructivo y recibe su fragmento.",
+      "inicio": "01:39:00.000",
+      "fin": "01:52:00.000",
+      "entidades": [
+        "Maroxi",
+        "Prisión de las pruebas en Shadowfell"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "Maroxi"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "Experiencia individual dentro de una proyección mental; no se presume compartida con los demás.",
+      "cita": "un un trono",
+      "evidencia_cue": {
+        "inicio": "01:40:54.480",
+        "fin": "01:40:57.229"
+      }
+    },
+    {
+      "id": "103-008",
+      "titulo": "El dragón y el aparato cargado",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Un dragón de sombra ataca tras las pruebas. Maroxi coloca los cristales para que la estatua le dispare y cargue el aparato; los compañeros lo combaten y Chilia le da el último golpe. El director aclara que no muere definitivamente.",
+      "inicio": "01:58:00.000",
+      "fin": "02:39:00.000",
+      "entidades": [
+        "Maroxi",
+        "Shiru (grafía provisional)",
+        "Banzo",
+        "Chilia (grafía provisional)",
+        "Prisión de las pruebas en Shadowfell",
+        "Recolector de energía de las pruebas"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "No anticipa el resultado de la negociación ni una muerte definitiva del cautivo.",
+      "cita": "Parece cada vez como más cargada. Sí,",
+      "evidencia_cue": {
+        "inicio": "02:32:03.120",
+        "fin": "02:32:05.389"
+      }
+    },
+    {
+      "id": "103-009",
+      "titulo": "Maroxi retiene la energía",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Maroxi se niega a dar a Chilia el recolector cargado, recibe sus golpes y escapa invisible. Quiere usar la energía para negociar que la reina le quite la criatura. Los compañeros tratan de frenar a la emisaria.",
+      "inicio": "02:38:00.000",
+      "fin": "02:58:00.000",
+      "entidades": [
+        "Maroxi",
+        "Chilia (grafía provisional)",
+        "Banzo",
+        "Shiru (grafía provisional)",
+        "Recolector de energía de las pruebas",
+        "Reina Cuervo (Kuroto)"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "No anticipa el resultado de la negociación ni una muerte definitiva del cautivo.",
+      "cita": "otra cosa. Pues me hago invisible y me",
+      "evidencia_cue": {
+        "inicio": "02:48:33.160",
+        "fin": "02:48:36.070"
+      }
+    },
+    {
+      "id": "103-010",
+      "titulo": "Regreso y audiencia pendiente",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Los cuervos devuelven a los cazadores al templo, mientras Chilia parte sin el aparato. Abrir la urna devuelve el alma a Hayate. Maroxi conserva el recolector y Hayate manda una petición de audiencia; no hay todavía curación ni regreso de Sirth.",
+      "inicio": "02:57:00.000",
+      "fin": "03:05:00.000",
+      "entidades": [
+        "Hayate",
+        "Maroxi",
+        "Shiru (grafía provisional)",
+        "Banzo",
+        "Chilia (grafía provisional)",
+        "Recolector de energía de las pruebas",
+        "Urna del alma voluntaria de Hayate",
+        "Sir (grafía provisional)",
+        "Reina Cuervo (Kuroto)"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "No anticipa el resultado de la negociación ni una muerte definitiva del cautivo.",
+      "cita": "visto antes como unos hilos que salían",
+      "evidencia_cue": {
+        "inicio": "03:00:08.840",
+        "fin": "03:00:11.710"
+      }
+    }
+  ],
+  "historia": {
+    "revisado_hasta": 103,
+    "etapas": [
+      {
+        "titulo": "La llamada al templo",
+        "texto": "Hayate reúne a Shiru, Banzo y Maroxi en su templo, donde Chilia trae la respuesta a la petición de ayuda. La Reina Cuervo admite que afronten una prueba para recoger energía. Se busca avanzar hacia el regreso de Sirth y librar a Maroxi de la criatura que lleva dentro; ninguno de esos resultados está concedido por anticipado. El alquimista llega cada vez peor, incapaz de ocultar las venas oscuras. Ha analizado además las hierbas traídas de palacio: sus usos alquímicos incluyen maldiciones y aplicaciones dañinas, aunque también admite usos buenos. Conserva una muestra para estudiarla. Shiru intenta resolver el problema de la criatura mediante una embestida. El golpe derriba a Maroxi por las escaleras y desencadena una amenaza con una voz extraña, antes de que logre recobrar el control.",
+        "referencias": [
+          "103-001"
+        ]
+      },
+      {
+        "titulo": "Un alma prestada para abrir el camino",
+        "texto": "La llave de la prueba exige un alma voluntaria. Hayate coloca la suya en una urna y permanece en trance, dejando a sus compañeros cuatro collares con plumas que aportan protección. Chilia transporta el aparato destinado a recoger la energía. Los cuervos llevan a los cuatro visitantes a una región remota de Shadowfell. Un guardián explica que allí se mantiene encerrado un peligro al que no pudieron eliminar, cuya energía se extrae periódicamente para debilitarlo. Chilia conoce el lugar, pero ha aceptado borrar parte de sus recuerdos para afrontar el desafío sin ventaja. El grupo entra en un páramo de obsidiana con tres accesos y una estatua que sostiene cadenas y lanza. No basta con golpear las barreras ni disiparlas.",
+        "referencias": [
+          "103-002",
+          "103-003"
+        ]
+      },
+      {
+        "titulo": "Una persona debe quedarse",
+        "texto": "Al encajar la urna y el recolector en la estatua, el contacto con el aparato abre las entradas y activa una cúpula. Cuando apartan la mano, las puertas vuelven a cerrarse. Cada acceso admite a una sola persona: Shiru, Banzo y Maroxi se separan para afrontar pruebas individuales y Chilia sostiene el mecanismo. Un espectro se aproxima a ella, atraído por la activación, y ambos intercambian gritos sobrenaturales mientras la emisaria mantiene abierto el paso. La entrada no ofrece solo una pelea; las salas proyectan recuerdos y facetas de quienes cruzan.",
+        "referencias": [
+          "103-003",
+          "103-004"
+        ]
+      },
+      {
+        "titulo": "Los nombres de Shiru",
+        "texto": "Shiru aparece en un cementerio mental donde reconoce numerosas tumbas y encuentra tres sin nombre. Un huérfano de su antigua aldea le reprocha el abandono; la abuela a la que apenas nombra pide ser recordada. El último espectro representa a una recién nacida muerta en un accidente de carro durante una de sus huidas, un hecho que la prueba le devuelve a la conciencia. Shiru explica que las enseñanzas de su abuela siguen presentes en su forma de sobrevivir y graba para ella el nombre de Fifi. A la criatura desconocida le da el de Silvestre. Completa también el recuerdo del niño y las figuras descansan. Obtiene un fragmento cristalino. La escena pertenece a su prueba y no es una revelación escuchada por el resto del grupo.",
+        "referencias": [
+          "103-005"
+        ]
+      },
+      {
+        "titulo": "Los reflejos de Banzo y el trono de Maroxi",
+        "texto": "Banzo recorre una sala de espejos donde ve miedo, ambición y ofertas de poder. Una imagen propone un pacto para salvar a sus compañeros, pero él responde que confía en la familia que ha encontrado. Rompe primero el espejo equivocado y combate una sombra. Después acepta al reflejo sereno, que parecía demasiado seguro para reconocerlo como propio; al romper ese cristal recupera esa parte de sí y obtiene el segundo fragmento. Maroxi se sienta en un trono rodeado de fuego frío. Soporta dolor, reproches y la tentación de un poder que le pide olvidar el mundo y hacerlo arder. Resiste la oferta y recibe otro fragmento. No se formaliza un pacto con ninguna de esas voces.",
+        "referencias": [
+          "103-006",
+          "103-007"
+        ]
+      },
+      {
+        "titulo": "La energía de un prisionero",
+        "texto": "El regreso de los tres despierta a un dragón corrompido por la sombra, que los acusa de arrancarle parte del alma. El suelo se agrieta y la criatura ataca. Maroxi coloca los fragmentos y gira el mecanismo; la lanza de la estatua dispara rayos que dañan al dragón y cargan el recolector. Banzo intenta sujetarlo con su arpón, Shiru combate desde la distancia cuando el miedo le impide acercarse y Chilia lo ciega y aturde con sus golpes. Maroxi alterna momentos de lucidez con una risa cada vez más inquietante; mantiene los rayos y añade bolas de fuego. Chilia da el último golpe y la sombra se deshace hacia el cráter. El director aclara que no han matado definitivamente a la criatura. El recolector sí queda cargado y los fragmentos terminan convertidos en obsidiana rota.",
+        "referencias": [
+          "103-008"
+        ]
+      },
+      {
+        "titulo": "El premio que Maroxi retiene",
+        "texto": "Chilia reclama el aparato para su señora, pero Maroxi lo guarda: quiere usarlo para exigir una negociación sobre su propia enfermedad. La emisaria intenta arrebatárselo a golpes, él se vuelve invisible y huye mientras Banzo y Shiru frenan a Chilia. El guardián registra los nombres de quienes han superado la prueba. Los cuervos acaban devolviendo a los tres cazadores al templo de Hayate; Chilia parte hacia la reina sin el recolector. Al abrir la urna, los hilos del alma regresan al clérigo y este despierta, agotado. Maroxi muestra la energía retenida y defiende que por fin dispone de algo con lo que negociar. Sus compañeros le recuerdan que el trato también pretendía ayudar a Sirth. Hayate envía por un cuervo una petición de audiencia y todos esperan juntos. Sirth continúa sin regresar y la criatura sigue dentro de Maroxi.",
+        "referencias": [
+          "103-009",
+          "103-010"
+        ]
+      }
+    ]
+  },
+  "misiones": [
+    "Superar las pruebas y cargar el recolector: cumplido.",
+    "Recuperar el alma voluntaria de Hayate: cumplido.",
+    "Entregar la energía a la Reina Cuervo y negociar el regreso de Sirth y la curación de Maroxi: pendiente; Maroxi retiene el aparato."
+  ],
+  "preguntas": [
+    "¿Aceptará la Reina Cuervo negociar después de que Maroxi retenga el recolector?",
+    "¿Cómo podrán devolver a Sirth y extraer de Maroxi la criatura?",
+    "¿Qué usos concretos tienen las hierbas de palacio y por qué estaban en la cocina?"
+  ],
+  "nombres_dudosos": [
+    "Fifi: nombre de la abuela de Shiru en la prueba.",
+    "Silvestre: nombre que Shiru da a la recién nacida desconocida; no identidad histórica demostrada.",
+    "El dragón cautivo y el guardián de la entrada no reciben nombre claro."
+  ],
+  "contradicciones": [
+    "Vencer al dragón no equivale a matarlo: el director lo niega expresamente.",
+    "Se supera la prueba pero no se completa la entrega acordada de energía.",
+    "La prueba mental ofrece pactos que Banzo y Maroxi no aceptan."
+  ]
+}

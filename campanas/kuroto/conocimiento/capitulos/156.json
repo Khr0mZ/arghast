@@ -1,0 +1,415 @@
+{
+  "capitulo": 156,
+  "estado_revision": "revisado",
+  "fuente_sha256": "7f584e944a10a8847372e8414855abcb89cb97abe8fa2817944991c9d7d1b17a",
+  "resumen": "Tras la visita a la corte, Calista convirtió a Gelbreak en prometido para que la pérdida del puesto de guardián no lo expulsara del palacio. Ahora Alister lo secuestra y exige a la shogun entregarse. Ella moviliza todas las fuerzas disponibles, incorpora a Verbin y encarga a Kurobane reunir cazadores. Proponen sigilo mientras tropas cierran salidas. El mapa permite localizar objetivos pero no conocer toda la red. Bajo la ciudad encuentran a Banzo, que llegó solo por sus informantes y se ha quedado combatiendo antes que ellos. Una emboscada protege la puerta de piedra. Calista y Verbin descifran su acertijo mientras el grupo contiene vampiros, y la sangre aplicada la abre. En las salas siguientes la clarividencia de Banzo permite encontrar una llave, sin trasladarlo físicamente allí. Guxi y Serafina activan una masa de cadáveres y la destruyen con fuego y golpes; Calista termina de quemar restos con aceite. Banzo arranca una reja y Kurobane toma la llave sobre un disco antes de huir de tumbas abiertas. Verbin usa la llave universal en la otra cerradura y logran pasar. Alister los recibe con Gelbreak atado y una invitación que se impone mediante dolor. Atrae a Serafina y aprovecha sus relaciones con los dos compañeros para enfrentar al grupo. Después encanta a Guxi para que dispare a Kurobane. Mientras la atención se dispersa, Calista envía un sirviente invisible a desatar al cautivo y Banzo arroja su arma al vampiro. Las cuerdas ceden, pero la mirada de Gelbreak sigue vacía. La lucha revela que el señor también domina su voluntad. El vampiro se oculta, drena vida, reanima vasallos y aprovecha a Gelbreak para paralizar a sus rescatadores. Guxi se libra de su encanto y cura a Serafina, que cae varias veces sin morir definitivamente. Calista, poción y ánimo mediante, logra recuperar a su pareja y le presta una espada. Verbin elimina vasallos, Banzo mantiene la línea y auxilia a la capitana, y Kurobane golpea y evita ataques. La shogun usa la orden de su nuevo rapier, curas y contrahechizos para que el grupo siga vivo. El golpe final del ninja atraviesa a Alister, pero este se convierte en niebla y escapa; el nido cae y el cautivo queda a salvo. Kurobane tira su collar y se aleja. Banzo lo recoge y el contrato se reconoce todavía vigente, incluso por el propio ninja cuando Calista lo alcanza. Ella exige que los conflictos privados dejen de poner en riesgo misiones y él reafirma sus investigaciones. Guxi y Serafina quedan juntos, heridos y conmocionados. Gelbreak entrega a Calista el broche por el que había salido y a Serafina unas vendas legendarias del enemigo. Regresan para descansar con el rescate cumplido, las fracturas personales aún abiertas y Alister sin muerte definitiva.",
+  "afirmaciones": [
+    {
+      "id": "156-001",
+      "titulo": "El prometido desaparece",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Calista relata que una niña le entregó una amenaza contra Gelbreak, secuestrado por Alister. Moviliza guardias, tritones, cazadores y Cuchillas Negras. Tras dejar el puesto de guardián, Gelbreak pasó a ser su prometido para mantener su estancia en palacio; no se celebra una boda. Guxi prepara un proyecto casi terminado y Serafina desea formalizar su relación, sin nuevo matrimonio en escena.",
+      "inicio": "00:00:00.120",
+      "fin": "00:09:02.230",
+      "cita": "eres literalmente prometido de la Sun a",
+      "entidades": [
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Alister (grafía provisional)",
+        "Well (general tritón, grafía provisional)",
+        "Guxi",
+        "Serafina Hop (grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 156",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "156-002",
+      "titulo": "Reunir un rescate y cerrar salidas",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Kurobane reúne al equipo y propone sigilo para emboscar en lugar de choque frontal. Calista dispone tropas en las salidas para impedir fugas y se dirige con Guxi, Serafina y Verbin a rescatar al elfo. Well recibe órdenes como guardián. El mapa muestra puntos de localización, no planos completos de alcantarillas, y la shogun exige salvar a Gelbreak además de eliminar el nido.",
+      "inicio": "00:08:02.199",
+      "fin": "00:24:00.470",
+      "cita": "las extin salidas de las alcantarillas",
+      "entidades": [
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Kurobane",
+        "Guxi",
+        "Serafina Hop (grafía provisional)",
+        "Verbin (cazadora de vampiros, grafía provisional)",
+        "Well (general tritón, grafía provisional)",
+        "Mapa de localización de Calista",
+        "Tropas de contención del nido vampiro"
+      ],
+      "ambito": "Kuroto, sesión 156",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "156-003",
+      "titulo": "Banzo llegó primero",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "En las cloacas encuentran a Banzo combatiendo criaturas desde que sus informantes le avisaron del rapto. Se suma al grupo. El sello de muerte puesto antes ya está roto y la puerta de piedra no ofrece cerradura convencional; bajan vampiros por las paredes y empieza una emboscada. Calista usa un doble ilusorio y caminar sobre el agua para avanzar, no teletransporta a todos directamente al cautivo.",
+      "inicio": "00:24:00.480",
+      "fin": "00:36:00.710",
+      "cita": "llevaron. Tengo informantes también.",
+      "entidades": [
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Banzo",
+        "Kurobane",
+        "Guxi",
+        "Serafina Hop (grafía provisional)",
+        "Verbin (cazadora de vampiros, grafía provisional)",
+        "Puerta de sangre del nido vampiro"
+      ],
+      "ambito": "Kuroto, sesión 156",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "156-004",
+      "titulo": "La puerta bebe sangre",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Mientras otros contienen a los vampiros, Calista descubre inscripciones élficas y Verbin lee un acertijo de río de vida y muerte. La shogun aplica sangre del suelo y la puerta se abre. Kurobane sufre reducción de vida máxima por vómito necrótico; no se vuelve vampiro por ello. Derrotan a los atacantes y Calista prepara previsión para Banzo.",
+      "inicio": "00:36:00.720",
+      "fin": "01:04:01.069",
+      "cita": "inscripciones,",
+      "entidades": [
+        "Calista",
+        "Banzo",
+        "Kurobane",
+        "Guxi",
+        "Serafina Hop (grafía provisional)",
+        "Verbin (cazadora de vampiros, grafía provisional)",
+        "Puerta de sangre del nido vampiro"
+      ],
+      "ambito": "Kuroto, sesión 156",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "156-005",
+      "titulo": "Las salas tras las puertas",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Banzo utiliza clarividencia para observar una sala y su llave: el director corrige la idea de que haya entrado y quedado encerrado. Guxi y Serafina registran una cámara de cadáveres, que se reaniman; fuego y golpes terminan la amenaza. Calista usa aceite y antorcha y contiene con Banzo la puerta mientras arden. Descubren sangre que pasa por una reja y el líder arranca barras y pared para abrir acceso.",
+      "inicio": "01:04:01.079",
+      "fin": "01:28:00.750",
+      "cita": "Veis un montón de cadáveres con todo de",
+      "entidades": [
+        "Calista",
+        "Banzo",
+        "Kurobane",
+        "Guxi",
+        "Serafina Hop (grafía provisional)",
+        "Verbin (cazadora de vampiros, grafía provisional)",
+        "Cubil subterráneo de Alister",
+        "Llaves del cubil vampiro"
+      ],
+      "ambito": "Kuroto, sesión 156",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "156-006",
+      "titulo": "Conseguir las llaves sin pisar",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "La cerradura de otra puerta traga las herramientas de Kurobane. Verbin usa la llave universal prestada por Calista pero hace falta la otra. El ninja cruza sobre el disco flotante de la shogun, toma la llave y salta de regreso cuando se abren tumbas. Huyen de esas criaturas y dejan fuego tras la puerta; las dos llaves permiten avanzar. No se confirman todos los enemigos laterales muertos.",
+      "inicio": "01:21:02.560",
+      "fin": "01:36:01.790",
+      "cita": "cosas de mis herramientas de ladrón.",
+      "entidades": [
+        "Calista",
+        "Banzo",
+        "Kurobane",
+        "Guxi",
+        "Serafina Hop (grafía provisional)",
+        "Verbin (cazadora de vampiros, grafía provisional)",
+        "Llaves del cubil vampiro",
+        "Cubil subterráneo de Alister"
+      ],
+      "ambito": "Kuroto, sesión 156",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "156-007",
+      "titulo": "El anfitrión reparte asientos y dolor",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Alister espera a una mesa con Gelbreak atado y amordazado. Atrae a Serafina por magia y obliga a obedecer haciendo daño a los cautivos cuando se resisten. Calista ordena a Kurobane sentarse para frenar el daño a la capitana. Alister explota las relaciones recientes del grupo y provoca recriminaciones entre Guxi, Kurobane y Serafina. Sus insinuaciones no se elevan a diagnóstico verdadero de los sentimientos ajenos.",
+      "inicio": "01:34:01.239",
+      "fin": "01:51:03.069",
+      "cita": "esas sillas amordazado y atado, no puede",
+      "entidades": [
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Banzo",
+        "Kurobane",
+        "Guxi",
+        "Serafina Hop (grafía provisional)",
+        "Verbin (cazadora de vampiros, grafía provisional)",
+        "Alister (grafía provisional)",
+        "Cubil subterráneo de Alister"
+      ],
+      "ambito": "Kuroto, sesión 156",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "156-008",
+      "titulo": "Disparos impuestos y cuerdas que ceden",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Alister impone mentalmente a Guxi disparar a Kurobane, que recibe rayos sin devolverlos. Calista crea en secreto un sirviente invisible para desatar manos y pies de Gelbreak. Banzo arroja su arma al vampiro e inicia la lucha; el daño no se refleja en el cautivo. El elfo sigue con mirada vacía aun liberadas las manos, señal de que las cuerdas no son el único control.",
+      "inicio": "01:50:03.239",
+      "fin": "02:04:00.669",
+      "cita": "\"Dispárale.\"",
+      "entidades": [
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Banzo",
+        "Kurobane",
+        "Guxi",
+        "Serafina Hop (grafía provisional)",
+        "Verbin (cazadora de vampiros, grafía provisional)",
+        "Alister (grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 156",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "156-009",
+      "titulo": "Un enemigo invisible y un aliado dominado",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Calista anula una primera invisibilidad de Alister, que vuelve a lanzarla después. Verbin ciega y elimina vasallos. Guxi continúa disparando bajo encanto hasta que el daño recibido le permite librarse; localiza después al señor invisible. Gelbreak, dominado, se levanta y paraliza al grupo con una orden. Varios rompen el efecto y Serafina es derribada, con reducción de vida máxima; Guxi la cura. No muere en esa caída.",
+      "inicio": "02:03:01.239",
+      "fin": "02:31:00.910",
+      "cita": "quietos y os intenta paralizar a todos.",
+      "entidades": [
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Banzo",
+        "Kurobane",
+        "Guxi",
+        "Serafina Hop (grafía provisional)",
+        "Verbin (cazadora de vampiros, grafía provisional)",
+        "Alister (grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 156",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "156-010",
+      "titulo": "Recuperar a Gelbreak",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Calista da una poción y ánimo a Gelbreak; este supera el control, reconoce a su pareja y ataca al vampiro. Ella le presta una espada. Kurobane localiza y golpea al enemigo mientras Banzo contiene vasallos e incluso impulsa al ninja hacia el señor. El nido reanima muertos y drena vida para curar a Alister, de modo que la liberación no termina todavía el combate.",
+      "inicio": "02:30:00.279",
+      "fin": "02:50:01.630",
+      "cita": "\"Cariño, ¿eres tú?\" Y ves que como lo",
+      "entidades": [
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Banzo",
+        "Kurobane",
+        "Guxi",
+        "Serafina Hop (grafía provisional)",
+        "Verbin (cazadora de vampiros, grafía provisional)",
+        "Alister (grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 156",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "156-011",
+      "titulo": "Mantener con vida a Serafina",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Serafina vuelve a caer y llega a hacer una salvación de muerte, pero Banzo y Guxi la levantan con curación y poción. El líder usa una maniobra para alejarla del enemigo. Calista protege con contrahechizos, cura y emplea por primera vez la orden del rapier para ofrecer ataques de reacción. Kurobane sobrevive al dedo de la muerte y el grupo sostiene el combate, sin una resurrección real de la capitana.",
+      "inicio": "02:48:00.120",
+      "fin": "03:15:00.229",
+      "cita": "Serafina, tirada salvación de muerte.",
+      "entidades": [
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Banzo",
+        "Kurobane",
+        "Guxi",
+        "Serafina Hop (grafía provisional)",
+        "Verbin (cazadora de vampiros, grafía provisional)",
+        "Alister (grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 156",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "156-012",
+      "titulo": "El golpe final no impide la niebla",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Kurobane atraviesa el pecho y corazón de Alister, pero cuerpo y corazón se convierten en niebla y escapan a través de él. Calista reconoce que el señor ha huido y que al menos el nido fue eliminado. Verbin ha contenido y destruido vasallos. No se cuenta una muerte permanente de Alister ni que todas las salidas lograsen impedir su fuga.",
+      "inicio": "03:14:01.439",
+      "fin": "03:21:03.030",
+      "cita": "una nube.",
+      "entidades": [
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Banzo",
+        "Kurobane",
+        "Guxi",
+        "Serafina Hop (grafía provisional)",
+        "Verbin (cazadora de vampiros, grafía provisional)",
+        "Alister (grafía provisional)",
+        "Cubil subterráneo de Alister",
+        "Tropas de contención del nido vampiro"
+      ],
+      "ambito": "Kuroto, sesión 156",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "156-013",
+      "titulo": "Un collar en el suelo no rompe el contrato",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Kurobane arranca su collar, lo tira y se marcha; Banzo lo recoge. Tanto los demás como el propio ninja confirman que el contrato mágico sigue vigente aunque no lleve el objeto. Calista exige que los conflictos sentimentales no comprometan misiones y lo busca, recibe la confirmación de que seguirá investigando esferas y cultistas, y le entrega curación. No se representa dimisión contractual consumada.",
+      "inicio": "03:15:00.239",
+      "fin": "03:34:01.389",
+      "cita": "El contrato lo se ve cumpliendo, no",
+      "entidades": [
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Banzo",
+        "Kurobane",
+        "Guxi",
+        "Serafina Hop (grafía provisional)",
+        "Collar de cazador abandonado por Kurobane",
+        "Libros de investigación de Kurobane"
+      ],
+      "ambito": "Kuroto, sesión 156",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "156-014",
+      "titulo": "Regalos después del rescate",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Gelbreak pone a Calista el broche que había ido a buscar cuando lo capturaron. Ella lo acepta y encarga escoltar a los heridos. Él entrega a Serafina vendas ensangrentadas recuperadas de un enemigo; el director explica sus mejoras legendarias y el gasto de ki para un golpe especial. El grupo regresa a la base y recibe recompensa. Las nuevas capacidades de las vendas no se usan en el combate ya terminado.",
+      "inicio": "03:24:02.720",
+      "fin": "03:37:48.920",
+      "cita": "unas unas como una especie de vendas,",
+      "entidades": [
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Banzo",
+        "Guxi",
+        "Serafina Hop (grafía provisional)",
+        "Broche de compromiso de Calista",
+        "Vendas legendarias de Serafina"
+      ],
+      "ambito": "Kuroto, sesión 156",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    }
+  ],
+  "historia": {
+    "revisado_hasta": 156,
+    "etapas": [
+      {
+        "titulo": "Una amenaza contra el nuevo prometido",
+        "texto": "Tras la visita a la corte, Calista convirtió a Gelbreak en prometido para que la pérdida del puesto de guardián no lo expulsara del palacio. Ahora Alister lo secuestra y exige a la shogun entregarse. Ella moviliza todas las fuerzas disponibles, incorpora a Verbin y encarga a Kurobane reunir cazadores. Proponen sigilo mientras tropas cierran salidas. El mapa permite localizar objetivos pero no conocer toda la red. Bajo la ciudad encuentran a Banzo, que llegó solo por sus informantes y se ha quedado combatiendo antes que ellos.",
+        "referencias": [
+          "156-001",
+          "156-002",
+          "156-003"
+        ]
+      },
+      {
+        "titulo": "Abrir lo que la sangre guarda",
+        "texto": "Una emboscada protege la puerta de piedra. Calista y Verbin descifran su acertijo mientras el grupo contiene vampiros, y la sangre aplicada la abre. En las salas siguientes la clarividencia de Banzo permite encontrar una llave, sin trasladarlo físicamente allí. Guxi y Serafina activan una masa de cadáveres y la destruyen con fuego y golpes; Calista termina de quemar restos con aceite. Banzo arranca una reja y Kurobane toma la llave sobre un disco antes de huir de tumbas abiertas. Verbin usa la llave universal en la otra cerradura y logran pasar.",
+        "referencias": [
+          "156-004",
+          "156-005",
+          "156-006"
+        ]
+      },
+      {
+        "titulo": "La mesa donde quieren romper al grupo",
+        "texto": "Alister los recibe con Gelbreak atado y una invitación que se impone mediante dolor. Atrae a Serafina y aprovecha sus relaciones con los dos compañeros para enfrentar al grupo. Después encanta a Guxi para que dispare a Kurobane. Mientras la atención se dispersa, Calista envía un sirviente invisible a desatar al cautivo y Banzo arroja su arma al vampiro. Las cuerdas ceden, pero la mirada de Gelbreak sigue vacía. La lucha revela que el señor también domina su voluntad.",
+        "referencias": [
+          "156-007",
+          "156-008"
+        ]
+      },
+      {
+        "titulo": "Sobrevivir al señor y recuperar al aliado",
+        "texto": "El vampiro se oculta, drena vida, reanima vasallos y aprovecha a Gelbreak para paralizar a sus rescatadores. Guxi se libra de su encanto y cura a Serafina, que cae varias veces sin morir definitivamente. Calista, poción y ánimo mediante, logra recuperar a su pareja y le presta una espada. Verbin elimina vasallos, Banzo mantiene la línea y auxilia a la capitana, y Kurobane golpea y evita ataques. La shogun usa la orden de su nuevo rapier, curas y contrahechizos para que el grupo siga vivo. El golpe final del ninja atraviesa a Alister, pero este se convierte en niebla y escapa; el nido cae y el cautivo queda a salvo.",
+        "referencias": [
+          "156-009",
+          "156-010",
+          "156-011",
+          "156-012"
+        ]
+      },
+      {
+        "titulo": "Los vínculos que quedan tras la batalla",
+        "texto": "Kurobane tira su collar y se aleja. Banzo lo recoge y el contrato se reconoce todavía vigente, incluso por el propio ninja cuando Calista lo alcanza. Ella exige que los conflictos privados dejen de poner en riesgo misiones y él reafirma sus investigaciones. Guxi y Serafina quedan juntos, heridos y conmocionados. Gelbreak entrega a Calista el broche por el que había salido y a Serafina unas vendas legendarias del enemigo. Regresan para descansar con el rescate cumplido, las fracturas personales aún abiertas y Alister sin muerte definitiva.",
+        "referencias": [
+          "156-013",
+          "156-014"
+        ]
+      }
+    ]
+  },
+  "misiones": [
+    "Seguir la fuga de Alister y comprobar si queda amenaza vampira.",
+    "Resolver conflictos que comprometieron el rescate.",
+    "Continuar las investigaciones de esferas y cultistas."
+  ],
+  "preguntas": [
+    "¿Dónde se refugiará Alister tras escapar como niebla?",
+    "¿Cómo resolverán Kurobane, Guxi y Serafina los conflictos que afectaron a la misión?",
+    "¿Qué descubrirá Kurobane con los libros de esferas y cultistas?",
+    "¿Qué consecuencias tendrá tirar el collar con el contrato aún vigente?"
+  ],
+  "nombres_dudosos": [
+    "Verbin/Berbin/Bervein: misma cazadora de continuidad, grafía pendiente.",
+    "Alister/Alester/Leister: mismo anfitrión y secuestrador."
+  ],
+  "contradicciones": [
+    "El director corrige la entrada de Banzo a la sala: solo la veía por clarividencia, no quedó encerrado físicamente.",
+    "El golpe final atraviesa al vampiro, pero su transformación y la frase de Calista confirman fuga, no muerte permanente.",
+    "Las caídas de Serafina se curan antes de muerte definitiva; no se describe resurrección.",
+    "El contrato de Kurobane sigue vigente sin el collar. La intimidación y los celos de personajes conservan su atribución.",
+    "La recapitulación inicial reconoce compromiso instrumental para mantener a Gelbreak en palacio, sin ceremonia matrimonial celebrada."
+  ]
+}

@@ -2,7 +2,7 @@
 
 Pícaro asesino que recurre al sigilo, el arco y la Bendición de la Reina Cuervo.
 
-Revisión narrativa hasta el capítulo 1.
+Revisión narrativa hasta el capítulo 2.
 
 
 
@@ -23,3 +23,9 @@ Fuentes: [01-018 · 01:18:35.000](https://www.youtube.com/watch?v=KkZZR81onIw&t=
 Talos regresa herido a Ukio y descansa junto a Leonardo mientras sus compañeros celebran. Después se incorpora al banquete con el que Kitaro y los aldeanos agradecen la cacería.
 
 Fuentes: [01-023 · 01:46:04.000](https://www.youtube.com/watch?v=KkZZR81onIw&t=6364s) · [01-024 · 01:51:44.000](https://www.youtube.com/watch?v=KkZZR81onIw&t=6704s).
+
+## Rumbo a Sho
+
+El director sitúa al pícaro y a Leonardo en una exploración de Sho mientras Tokugawa y Sun Gukon siguen en la taberna. Esta sesión no muestra a Talos dentro de la casa Baki ni documenta lo sucedido durante ese viaje.
+
+Fuentes: [02-001 · 00:00:00.000](https://www.youtube.com/watch?v=5d8fEcawLU0&t=0s).

@@ -1,0 +1,355 @@
+{
+  "capitulo": 152,
+  "estado_revision": "revisado",
+  "fuente_sha256": "37e16e076ea8ac5d35793a4744bb124368062aa224a7faeaa62f6139bea58a99",
+  "resumen": "El desenlace del baile llega como relato de Calista: ella, Gelbreak y Verbin salieron vivos. La shogun vuelve a recursos militares y comercio exterior mientras los artificieros buscan materiales que Kuroto no ofrece. Archi necesita una piedra exótica para sus proyectos y Guxi cristales para un escáner de mercancías. Calista los lleva a Puerto de las Espadas junto al guardián, a bordo del barco de Guxi cedido al shogunato. Al salir ven las patrullas de la ayuda tritón y experimentan también su hostilidad hacia los habitantes de superficie. Unas sirenas interrumpen el viaje: su canto atrae a Archi bajo el agua y Calista se arroja tras la que se acerca a su pareja. El gnomo logra respirar y romper el encanto, Gelbreak supera el mareo para combatir y Guxi ayuda con torreta, rayos y su capa. Los enemigos terminan derrotados y el viaje continúa. Archi completa un pararrayos que puede desplegar cuando lo necesita. Tras unas dos semanas llegan de noche a una gran ciudad portuaria, entre navíos mucho mayores y embarcaciones capaces de volar. La Trucha Borracha reúne a los visitantes con sus distintos intereses. Archi recuerda cómo los clanes mercantes eligen tres gobernantes y se fija en un mineral que muestra Thomson. Lo sigue al taller y Guxi lo acompaña a petición de Calista. La shogun negocia con Purlock, que pretende exclusiva sobre el transporte comercial de Kuroto a cambio de una flota rápida y un porcentaje. Calista rechaza ceder ese control y, al reconocer el ancla relacionada con las cajas de Nox entre sus documentos, da por terminada la reunión. Ambos tratos esconden violencia. Los supuestos trabajadores de Thomson exigen el dinero y atacan a los artificieros; Archi anima la piedra que busca, se oculta y consigue escapar tras un patrón hipnótico. Guxi recibe flechas, contraataca con hielo y cierra el paso mediante fuerza mientras busca ayuda. Calista y Gelbreak sufren otro asalto a la salida de la casa de Purlock. Combinan control y daño para sobrevivir, incluso cuando un bruto rompe la transformación de la shogun. Son combates simultáneos en lugares distintos, sin que cada pareja conozca por ello todo lo que vive la otra. La guardia encuentra las puertas cerradas por Archi y el muro de Guxi; Thomson, herido, los acusa de atacar. Guxi acepta responder a las preguntas y no huye, mientras Archi se aleja disfrazado de niño. Calista vuelve ante Purlock y consigue bajo amenaza que firme un contrato mágico por parte de sus barcos. Luego le hiere el pecho escribiendo un mensaje y se marcha con Gelbreak. Archi se descubre ante ellos y explica la situación de Guxi. El director confirma los minerales recuperados, pero quedan pendientes la investigación, los proyectos y la entrega material de la flota.",
+  "afirmaciones": [
+    {
+      "id": "152-001",
+      "titulo": "Después del baile",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Calista cuenta que ella, Gelbreak y Verbin sobrevivieron al combate del baile; terminó cansada y después se centró en gobierno, recursos militares y comercio exterior. Guxi prepara un plan no mostrado tras la ruptura. El director reitera que Kuroto ya no está en crisis.",
+      "inicio": "00:00:00.160",
+      "fin": "00:04:02.869",
+      "cita": "eh salieron más salieron todos bien.",
+      "entidades": [
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Verbin (cazadora de vampiros, grafía provisional)",
+        "Guxi"
+      ],
+      "ambito": "Kuroto, sesión 152",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "152-002",
+      "titulo": "Los materiales que faltan",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Archi trabaja con Frankenbolt en fuentes de energía, sin conseguir aún adaptar varios proyectos, y necesita mineral exótico. Guxi requiere cristales de mayor reflexión arcana para el escáner de mercancías encargado por Calista. Ambos piden ir a Puerto de las Espadas y la shogun acepta viajar con ellos y Gelbreak para ampliar el comercio.",
+      "inicio": "00:03:00.000",
+      "fin": "00:15:02.310",
+      "cita": "reflexión arcana y parece que los que he",
+      "entidades": [
+        "Archi",
+        "Guxi",
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Cristales para el escáner de mercancías",
+        "Mineral exótico de Archi",
+        "Puerto de las Espadas (Kuroto)"
+      ],
+      "ambito": "Kuroto, sesión 152",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "152-003",
+      "titulo": "Un puerto militarizado",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Archi lleva chatarra y a Frank; el barco construido por Guxi pertenece ahora al shogunato. Un tritón rechaza de forma hostil ayudar al gnomo y Calista explica la ayuda militar y el difícil trato entre pueblos. Zarpan entre patrullas tritones y druidas con criaturas de agua, que dejan pasar el estandarte. Guxi sigue separado de Serafina; Calista le aconseja gestos concretos, sin garantizar reconciliación.",
+      "inicio": "00:18:01.919",
+      "fin": "00:36:00.589",
+      "cita": "dice algo, escupe en el suelo y ves que",
+      "entidades": [
+        "Archi",
+        "Frank (carlino robótico)",
+        "Guxi",
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Barco Perdición Metálica",
+        "Comitiva tritón de Calista"
+      ],
+      "ambito": "Kuroto, sesión 152",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "152-004",
+      "titulo": "El canto bajo el agua",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Una melodía atrae a Archi y unas sirenas atacan el barco. El gnomo se acerca levitando y una lo sumerge treinta pies; genera aire para respirar y después se libra del encanto. Calista persigue furiosa a la que intentó influir sobre Gelbreak, mientras este tarda en reaccionar por el mareo. Guxi dispara con su torreta y Frank intenta alertar y auxiliar.",
+      "inicio": "00:36:00.599",
+      "fin": "00:54:00.510",
+      "cita": "y le sale una burbuja en su cabeza.",
+      "entidades": [
+        "Archi",
+        "Frank (carlino robótico)",
+        "Guxi",
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Barco Perdición Metálica"
+      ],
+      "ambito": "Kuroto, sesión 152",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "152-005",
+      "titulo": "Sirenas derrotadas y pararrayos",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Archi sale del agua mediante sus botas y levitación; Guxi después lo recoge volando con la capa. Entre los cuatro derrotan a las sirenas, con Calista transformada y atacando con furia. Durante el viaje de unas dos semanas Archi construye un pararrayos retráctil, que funciona cuando lo despliega mediante manivela. Llegan de noche al puerto y ven grandes barcos, algunos flotando por el aire.",
+      "inicio": "00:54:00.520",
+      "fin": "01:18:01.470",
+      "cita": "Lo saco con una manivela pa pa pa y se",
+      "entidades": [
+        "Archi",
+        "Guxi",
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Barco Perdición Metálica",
+        "Puerto de las Espadas (Kuroto)"
+      ],
+      "ambito": "Kuroto, sesión 152",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "152-006",
+      "titulo": "Una ciudad de clanes mercantes",
+      "tipo": "explicacion_director",
+      "afirmacion": "Entran en la Trucha Borracha para una reunión comercial. Archi recuerda una ciudad de unas doce mil personas gobernada por tres dirigentes elegidos entre clanes mercantes, actualmente un humano de navegación, una elfa de bisutería y un enano de minería. Pregunta por minerales y se interesa por la piedra que exhibe otro comerciante.",
+      "inicio": "01:18:01.480",
+      "fin": "01:36:00.030",
+      "cita": "aquí se dividen por clanes, ¿vale? Los",
+      "entidades": [
+        "Archi",
+        "Guxi",
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Puerto de las Espadas (Kuroto)"
+      ],
+      "ambito": "Kuroto, sesión 152",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "152-007",
+      "titulo": "Dos negociaciones",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Archi sigue a Thomson a su taller y Calista manda a Guxi tras él por mensaje. El gnomo lo presenta como aprendiz pese a sus protestas. El mercader mide su dinero antes de fijar precio y reúne supuestos trabajadores. Por otro lado Calista y Gelbreak visitan la casa de don Purlock para negociar flota.",
+      "inicio": "01:33:01.040",
+      "fin": "01:54:00.350",
+      "cita": "Em, Thomson. Me acabo de inventar.",
+      "entidades": [
+        "Archi",
+        "Guxi",
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Thomson (mercader, grafía provisional)",
+        "Don Purlock (grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 152",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "152-008",
+      "titulo": "La exclusiva y el ancla",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Purlock ofrece barcos más rápidos a cambio de porcentaje y exclusiva sobre todos los barcos del comercio de Kuroto. Calista se niega a ceder ese control y propone una parte. Al ver el sello conocido de las cajas de Nox sobre documentos comerciales rechaza el trato y decide salir. El sello sugiere una conexión que no detalla toda su jerarquía criminal.",
+      "inicio": "01:54:00.360",
+      "fin": "02:04:00.189",
+      "cita": "con el Nox.",
+      "entidades": [
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Don Purlock (grafía provisional)",
+        "Nox",
+        "Cajas de Nox con ancla"
+      ],
+      "ambito": "Kuroto, sesión 152",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "152-009",
+      "titulo": "El taller se vuelve una trampa",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Los trabajadores no parecen trabajar y exigen las bolsas. Archi anima la piedra con Tiny Servant, lanza invisibilidad y se desata el ataque; los falsos trabajadores revelan túnicas, armas y arcos. Guxi recibe flechas, responde con hielo y después separa la zona con un muro de fuerza. Archi consigue llevar la piedra, usa patrón hipnótico y escapa; el hielo de su compañero también lo alcanza.",
+      "inicio": "02:03:00.560",
+      "fin": "02:31:02.429",
+      "cita": "quiero utilizar Tiny Servan en la",
+      "entidades": [
+        "Archi",
+        "Guxi",
+        "Thomson (mercader, grafía provisional)",
+        "Asaltantes del taller de Thomson",
+        "Mineral exótico de Archi",
+        "Cristales para el escáner de mercancías"
+      ],
+      "ambito": "Kuroto, sesión 152",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "152-010",
+      "titulo": "Asalto contra la shogun",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Al salir de la casa atacan también a Calista y Gelbreak, que no están en el taller con los artificieros. Ella paraliza enemigos y él los golpea con magia, collar y rapier. Un bruto de cabeza metálica les causa daño y rompe la transformación de dragón de Calista. Finalmente vencen, se curan y vuelven a exigir explicaciones al comerciante.",
+      "inicio": "02:09:03.239",
+      "fin": "02:51:03.269",
+      "cita": "paralizados.",
+      "entidades": [
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Don Purlock (grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 152",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "152-011",
+      "titulo": "Cerraduras y preguntas de la guardia",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Guxi bloquea con fuerza el interior y pide ayuda a los guardias. Archi cierra accesos con cerradura arcana y huye disfrazado de niño. La guardia encuentra obstáculos mágicos y a Thomson herido, que acusa a los visitantes. Guxi explica que se defendían y acepta acompañarlos a declarar. No queda acusado formalmente ni condenado en esta sesión.",
+      "inicio": "02:36:01.040",
+      "fin": "02:57:01.710",
+      "cita": "preguntas.\"",
+      "entidades": [
+        "Archi",
+        "Guxi",
+        "Thomson (mercader, grafía provisional)",
+        "Asaltantes del taller de Thomson",
+        "Guardia de Puerto de las Espadas"
+      ],
+      "ambito": "Kuroto, sesión 152",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "152-012",
+      "titulo": "Una firma bajo amenaza",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Purlock dice que otros le ordenaron atraer a Calista con la oferta. Ella lo intimida con el rapier, exige parte de su flota como compensación y consigue que firme un contrato mágico. Después le escribe en el pecho con la punta que Calista estuvo allí y se marcha con Gelbreak. La coacción se representa, pero no se muestra la entrega efectiva ni un número de barcos.",
+      "inicio": "02:57:01.720",
+      "fin": "03:03:00.590",
+      "cita": "Coge, firma el contrato mágico. Calista",
+      "entidades": [
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Don Purlock (grafía provisional)",
+        "Contrato mágico de la flota de Purlock"
+      ],
+      "ambito": "Kuroto, sesión 152",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "152-013",
+      "titulo": "Botín y asuntos abiertos",
+      "tipo": "explicacion_director",
+      "afirmacion": "Archi revela su disfraz ante la pareja y explica que Guxi está con la guardia. El director confirma que han conseguido la piedra del gnomo y las gemas vacías de Guxi para sus proyectos. La investigación oficial sigue en preguntas; no se representa una liberación final, el montaje del escáner ni el regreso a Kuroto.",
+      "inicio": "03:02:04.840",
+      "fin": "03:08:19.840",
+      "cita": "que quería Archi y tú esas gemas vacías,",
+      "entidades": [
+        "Archi",
+        "Guxi",
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Guardia de Puerto de las Espadas",
+        "Mineral exótico de Archi",
+        "Cristales para el escáner de mercancías"
+      ],
+      "ambito": "Kuroto, sesión 152",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    }
+  ],
+  "historia": {
+    "revisado_hasta": 152,
+    "etapas": [
+      {
+        "titulo": "Salir de la isla para hacerla crecer",
+        "texto": "El desenlace del baile llega como relato de Calista: ella, Gelbreak y Verbin salieron vivos. La shogun vuelve a recursos militares y comercio exterior mientras los artificieros buscan materiales que Kuroto no ofrece. Archi necesita una piedra exótica para sus proyectos y Guxi cristales para un escáner de mercancías. Calista los lleva a Puerto de las Espadas junto al guardián, a bordo del barco de Guxi cedido al shogunato. Al salir ven las patrullas de la ayuda tritón y experimentan también su hostilidad hacia los habitantes de superficie.",
+        "referencias": [
+          "152-001",
+          "152-002",
+          "152-003"
+        ]
+      },
+      {
+        "titulo": "El canto y la travesía",
+        "texto": "Unas sirenas interrumpen el viaje: su canto atrae a Archi bajo el agua y Calista se arroja tras la que se acerca a su pareja. El gnomo logra respirar y romper el encanto, Gelbreak supera el mareo para combatir y Guxi ayuda con torreta, rayos y su capa. Los enemigos terminan derrotados y el viaje continúa. Archi completa un pararrayos que puede desplegar cuando lo necesita. Tras unas dos semanas llegan de noche a una gran ciudad portuaria, entre navíos mucho mayores y embarcaciones capaces de volar.",
+        "referencias": [
+          "152-004",
+          "152-005"
+        ]
+      },
+      {
+        "titulo": "Los dos precios del comercio",
+        "texto": "La Trucha Borracha reúne a los visitantes con sus distintos intereses. Archi recuerda cómo los clanes mercantes eligen tres gobernantes y se fija en un mineral que muestra Thomson. Lo sigue al taller y Guxi lo acompaña a petición de Calista. La shogun negocia con Purlock, que pretende exclusiva sobre el transporte comercial de Kuroto a cambio de una flota rápida y un porcentaje. Calista rechaza ceder ese control y, al reconocer el ancla relacionada con las cajas de Nox entre sus documentos, da por terminada la reunión.",
+        "referencias": [
+          "152-006",
+          "152-007",
+          "152-008"
+        ]
+      },
+      {
+        "titulo": "Negocios con las armas preparadas",
+        "texto": "Ambos tratos esconden violencia. Los supuestos trabajadores de Thomson exigen el dinero y atacan a los artificieros; Archi anima la piedra que busca, se oculta y consigue escapar tras un patrón hipnótico. Guxi recibe flechas, contraataca con hielo y cierra el paso mediante fuerza mientras busca ayuda. Calista y Gelbreak sufren otro asalto a la salida de la casa de Purlock. Combinan control y daño para sobrevivir, incluso cuando un bruto rompe la transformación de la shogun. Son combates simultáneos en lugares distintos, sin que cada pareja conozca por ello todo lo que vive la otra.",
+        "referencias": [
+          "152-009",
+          "152-010"
+        ]
+      },
+      {
+        "titulo": "Un contrato y una declaración",
+        "texto": "La guardia encuentra las puertas cerradas por Archi y el muro de Guxi; Thomson, herido, los acusa de atacar. Guxi acepta responder a las preguntas y no huye, mientras Archi se aleja disfrazado de niño. Calista vuelve ante Purlock y consigue bajo amenaza que firme un contrato mágico por parte de sus barcos. Luego le hiere el pecho escribiendo un mensaje y se marcha con Gelbreak. Archi se descubre ante ellos y explica la situación de Guxi. El director confirma los minerales recuperados, pero quedan pendientes la investigación, los proyectos y la entrega material de la flota.",
+        "referencias": [
+          "152-011",
+          "152-012",
+          "152-013"
+        ]
+      }
+    ]
+  },
+  "misiones": [
+    "Investigar las conexiones del sello del Nox en el comercio exterior.",
+    "Completar proyectos con los minerales obtenidos.",
+    "Resolver las preguntas de la guardia y verificar entrega de los barcos."
+  ],
+  "preguntas": [
+    "¿Qué resolverá la guardia entre la versión de Guxi y la acusación de Thomson?",
+    "¿Qué vínculo exacto tienen Purlock y sus mandantes con el sello del Nox?",
+    "¿Cuántos barcos comprende el contrato y cuándo se entregarán?",
+    "¿Funcionará el escáner con los cristales obtenidos y el proyecto de Archi con su piedra?"
+  ],
+  "nombres_dudosos": [
+    "Purlock/Purloc y Thomson/Thompson: grafías automáticas, pendientes de audio.",
+    "Frankenbolt presenta variantes ya documentadas; no convertirlas en inventores distintos."
+  ],
+  "contradicciones": [
+    "La supervivencia del baile se cuenta al inicio: no se muestra el combate completo ni se da por muerto a cada vampiro.",
+    "El sello compartido conecta documentos y cajas, pero no identifica por sí solo a todos los mandantes.",
+    "Guxi declara voluntariamente: no se representa condena. El disfraz infantil corresponde a Archi."
+  ]
+}

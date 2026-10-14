@@ -18,7 +18,7 @@ def main():
                 files.add(path)
     if args.solo_conocimiento:
         files.update((ROOT / 'derivados').glob('*/lectura.md'))
-    for name in ('README.md', 'requirements-descarga.txt', 'xoltacan.html', 'arghast.html', '.gitignore', '.gitattributes'):
+    for name in ('README.md', 'AGENTS.md', 'requirements-descarga.txt', 'requirements-transcripcion.txt', 'xoltacan.html', 'kuroto.html', 'arghast.html', 'arghast.webp', 'xolta.jpg', 'kuroto.jpg', 'lichpol.jpg', '.gitignore', '.gitattributes'):
         path = ROOT / name
         if path.exists():
             files.add(path)

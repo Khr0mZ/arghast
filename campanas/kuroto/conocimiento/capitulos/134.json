@@ -1,0 +1,385 @@
+{
+  "capitulo": 134,
+  "estado_revision": "revisado",
+  "fuente_sha256": "661668256ca2f9b0caecf27e85f70271dfa64011a4e515fad23141f72103ed4e",
+  "resumen": "La crisis sigue vaciando las bolsas. Banzo y Jin cuentan que una reunión de cazadores ha decidido presentar a Calista como candidata a shogun y repartir las tareas; no significa que ya gobierne Kuroto. Banzo viaja al sur y propone investigar un punto cercano al templo donde los exploradores y soldados enviados no regresan. Kurobane ha seguido vigilando las oleadas después de hablar con Danifae. Gur, entretanto, combate cerca del refugio de su maestro y ayuda a aldeas cuyos habitantes empiezan a venerarlo, una atención de la que se esconde en la taberna. La comida provoca una discusión sobre el lugar de Gur en la guerra. Banzo cree necesitarlo al lado de los cazadores; Gur defiende que proteger a quienes no pueden defenderse es más útil para él que acudir a fiestas de nobles. La noticia de una zona donde desaparecen soldados lo convence de participar. Deja dinero para alimentar a otros y se reúne con Banzo, Jin y Kurobane. Arwen y Shisuka terminan dormidas y no los acompañan. Entre objetos ofrecidos y caramelos picantes, Gur acepta una capa de oni para cubrir su ropa dañada antes de partir. En las montañas encuentran tres samuráis fallecidos. Gur reconoce a uno y Banzo descubre bajo un casco a Timy, un recluta que había entrenado con Danifae. El augurio de Banzo no aporta una respuesta limpia: un ancestro hostil lo acusa de traición y lanza sospechas sobre uno de sus amigos, palabras que solo él escucha y que no prueban quién mató a los soldados. Kurobane observa bordes chamuscados en los cortes. Gur recoge distintivos y armas, prepara una pira y recibe ayuda de Banzo para despedirlos. La muerte de Rua continúa pesando sobre Banzo, que reconoce haber querido buscar a Gur para lanzarse contra cuantos demonios pudiera. Gur le ofrece compañía y le recuerda el valor de ayudar a la gente común. Kurobane suma su apoyo como amigo, aunque a Banzo le incomoda que hablen de estar a su disposición. La conversación se interrumpe al divisar humo y oír gritos en la aldea aarakocra: llegan a un lugar ya convertido en carnicería, con casas destruidas y numerosos cuerpos. Dos daitengu, un oni y una bestia de rasgos mixtos siguen combatiendo entre los defensores. Gur entra en su forma demoníaca y arroja una bola de fuego que alcanza también a un aarakocra; los enemigos alados resisten bien las llamas. Las descargas eléctricas, las catanas y el aliento del oni castigan al grupo. Banzo usa velocidad para alcanzar el combate, abate a un adversario y cae paralizado al intentar moverse; la bestia aprovecha su indefensión. Su resistencia de bárbaro evita que quede fuera definitivamente y Gur acaba rematando a los atacantes, mientras Jin y Kurobane también gastan fuerzas y recursos. Banzo busca a la madre de Erk sin encontrar ningún cadáver que coincida con su descripción. Hay muertos y posibles huidas, pero su destino sigue abierto. Kurobane le da una poción y Jin insiste en que necesitan un médico. Al investigar, comprenden que los atacantes no actuaban como criaturas extraviadas: estaban organizados. Kurobane descubre entre sus restos una nota en abisal que Banzo traduce con una sola palabra, «sur». Relacionarla con el templo del guardián es una sospecha razonada del grupo, sin confirmar aún el objetivo o quién los dirige. Kurobane quiere continuar solo para hablar con el guardián o su superior, pero Banzo le recuerda el peligro y se ofrece a acompañarlo tras descansar. El ninja acepta a disgusto y le confiesa discretamente que necesita ayuda para lo que lleva dentro. Consideran avisar al poblado del norte y asegurar la zona, sin mostrar todavía esas gestiones. Gur ya ha comenzado el regreso con carne de una criatura y espadas para llevar provisiones a la taberna. La expedición termina de vuelta hacia el campamento, sin alcanzar el templo ni resolver el destino de los aarakocra que huyeron.",
+  "afirmaciones": [
+    {
+      "id": "134-001",
+      "titulo": "Los cazadores eligen una candidatura",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Banzo y Jin cuentan que los cazadores se reunieron y decidieron presentar a Calista como candidata a shogun, repartiéndose tareas. El relato confirma una candidatura del grupo, no su elección como gobernante. Banzo ha recogido de los oficiales noticias de destacamentos que no regresan de una zona próxima al templo sur y organiza una misión.",
+      "inicio": "00:00:00.599",
+      "fin": "00:07:01.150",
+      "cita": "Ha salido Calista.",
+      "entidades": [
+        "Banzo (grafía provisional)",
+        "Jin",
+        "Calista",
+        "Cazadores de Kuroto",
+        "Shogunato de Kuroto"
+      ],
+      "ambito": "Kuroto, sesión 134",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "134-002",
+      "titulo": "Gur protege a los pueblos",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Gur ha permanecido cerca del lugar donde murió su maestro, combatiendo criaturas y ayudando a pueblos de alrededor. La gente comienza a venerarlo y se acumula ante el templo; él se aparta a la taberna para comer con tranquilidad. Kurobane ha hablado con Danifae sobre un asunto personal y vigila desde los árboles posibles oleadas.",
+      "inicio": "00:00:00.599",
+      "fin": "00:06:01.110",
+      "cita": "Bueno, pues con lo de mi sensei y demás,",
+      "entidades": [
+        "Gur",
+        "Kurobane (grafía provisional)",
+        "Danifae (grafía provisional)",
+        "Refugio de los cultistas de la montaña"
+      ],
+      "ambito": "Kuroto, sesión 134",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "134-003",
+      "titulo": "Banzo pide ayuda a Gur",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Banzo reprocha a Gur que se marchara y le pide que esté con los cazadores. Gur defiende su elección de proteger a la gente débil y no participar en fiestas de nobles. Al conocer que varios exploradores desaparecieron junto a una zona peligrosa, acepta acompañar a Banzo, Jin y Kurobane. Deja dinero para la comida de los soldados.",
+      "inicio": "00:09:02.160",
+      "fin": "00:18:01.270",
+      "cita": "necesitamos. Ti no.",
+      "entidades": [
+        "Banzo (grafía provisional)",
+        "Gur",
+        "Jin",
+        "Kurobane (grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 134",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "134-004",
+      "titulo": "Preparativos y niñas dormidas",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Shisuka se queda dormida junto a Arwen antes de la expedición y no los acompaña. Banzo ofrece objetos de la base: tras discutir sus utilidades, Gur acepta una capa de oni para sustituir su ropa dañada. La caja de Gur produce caramelos picantes que comparte con los compañeros. Parten los cuatro adultos hacia las montañas.",
+      "inicio": "00:06:01.120",
+      "fin": "00:30:02.190",
+      "cita": "eh, los caramelos picantes.",
+      "entidades": [
+        "Banzo (grafía provisional)",
+        "Gur",
+        "Jin",
+        "Kurobane (grafía provisional)",
+        "Arwen",
+        "Shisuka (grafía provisional)",
+        "Capa de oni prestada a Gur"
+      ],
+      "ambito": "Kuroto, sesión 134",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "134-005",
+      "titulo": "Tres soldados muertos en el camino",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Encuentran tres samuráis muertos del shogunato. Gur reconoce a un compañero y Banzo identifica a Timy, uno de los reclutas que entrenó con Danifae. Las heridas son cortes de arma; no encuentran supervivientes entre los tres.",
+      "inicio": "00:30:02.200",
+      "fin": "00:39:00.589",
+      "cita": "es Timy",
+      "entidades": [
+        "Banzo (grafía provisional)",
+        "Gur",
+        "Kurobane (grafía provisional)",
+        "Shogunato de Kuroto"
+      ],
+      "ambito": "Kuroto, sesión 134",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "134-006",
+      "titulo": "Los ancestros reprochan a Banzo",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Banzo pide un augurio para averiguar si el ataque está relacionado con demonios. Un ancestro hostil le reprocha su conducta y su amistad con alguien del grupo y sugiere que ese amigo pudo matar a los soldados; no aporta una identificación demostrada del agresor. Solo Banzo oye esta intervención.",
+      "inicio": "00:36:01.640",
+      "fin": "00:42:02.710",
+      "cita": "\"¿Nos traicionaste?",
+      "entidades": [
+        "Banzo (grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 134",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "134-007",
+      "titulo": "Cortes chamuscados y un funeral",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Kurobane observa que los cortes tienen los bordes chamuscados, como si se hubieran cerrado por calor. Gur recoge distintivos de los soldados, conserva sus espadas y prepara una pira; Banzo ayuda. El examen no identifica todavía a un atacante concreto.",
+      "inicio": "00:42:02.720",
+      "fin": "00:48:00.750",
+      "cita": "se ha chamuscado un poco, como que si",
+      "entidades": [
+        "Kurobane (grafía provisional)",
+        "Gur",
+        "Banzo (grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 134",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "134-008",
+      "titulo": "Amistad frente al dolor de Rua",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Banzo confiesa su desconcierto por el engaño de Rua y admite que su primera reacción fue querer buscar a Gur para matar demonios. Gur le recuerda que puede contar con él; Kurobane le ofrece su filo como amigo. Banzo agradece el apoyo, aunque rechaza hablar de los compañeros como instrumentos a su disposición.",
+      "inicio": "00:45:02.640",
+      "fin": "00:51:01.270",
+      "cita": "Rua,",
+      "entidades": [
+        "Banzo (grafía provisional)",
+        "Gur",
+        "Kurobane (grafía provisional)",
+        "Rua (grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 134",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "134-009",
+      "titulo": "La aldea de los aarakocra arde",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Llegan a la aldea aarakocra entre humo, gritos, casas rotas y numerosos muertos. Dos daitengu con catanas eléctricas, un oni y una criatura con cabeza de mono, cuerpo de tigre y cola de serpiente atacan a los defensores. Los cazadores entran en combate; la bola de fuego de Gur alcanza también a un aarakocra, mientras los daitengu apenas sufren sus llamas.",
+      "inicio": "00:51:01.280",
+      "fin": "00:57:00.630",
+      "cita": "cuatro, ¿sabes? Veis a dos daitengu, de",
+      "entidades": [
+        "Banzo (grafía provisional)",
+        "Gur",
+        "Kurobane (grafía provisional)",
+        "Jin",
+        "Aldea aarakocra del sur",
+        "Asaltantes de la aldea aarakocra"
+      ],
+      "ambito": "Kuroto, sesión 134",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "134-010",
+      "titulo": "Electricidad y veneno contra los cazadores",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "La criatura de rasgos mixtos despliega una gran descarga eléctrica; los daitengu combaten con cortes eléctricos y el oni usa invisibilidad y un aliento. Jin y Kurobane maniobran mientras Gur descarga golpes. Banzo bebe una poción de velocidad y logra abatir a un enemigo, pero un ataque de oportunidad lo deja paralizado.",
+      "inicio": "00:57:00.640",
+      "fin": "01:27:00.750",
+      "cita": "Vale, te quedas paralizado.",
+      "entidades": [
+        "Banzo (grafía provisional)",
+        "Gur",
+        "Kurobane (grafía provisional)",
+        "Jin",
+        "Asaltantes de la aldea aarakocra"
+      ],
+      "ambito": "Kuroto, sesión 134",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "134-011",
+      "titulo": "La resistencia de Banzo evita otra muerte",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Los enemigos castigan la parálisis de Banzo y también alcanzan a Jin. Banzo recurre a su resistencia de bárbaro para seguir con vida, se recupera parcialmente y vuelve a atacar. Gur acaba con los últimos adversarios a hachazos. La victoria deja la aldea arrasada y a varios cazadores muy heridos.",
+      "inicio": "01:27:00.760",
+      "fin": "01:39:00.470",
+      "cita": "Eh, Relentis Rage se llama. Es que",
+      "entidades": [
+        "Banzo (grafía provisional)",
+        "Gur",
+        "Kurobane (grafía provisional)",
+        "Jin",
+        "Aldea aarakocra del sur",
+        "Asaltantes de la aldea aarakocra"
+      ],
+      "ambito": "Kuroto, sesión 134",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "134-012",
+      "titulo": "No encuentran a la madre de Erk",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Banzo busca entre los cadáveres una aarakocra que encaje con la descripción de la madre de Erk, pero no la encuentra. Hay muchos muertos y señales compatibles con huidas; no se confirma dónde está ella ni que todos los habitantes hayan muerto. Kurobane le ofrece una poción y Jin pide atención médica para ambos.",
+      "inicio": "01:39:00.480",
+      "fin": "01:45:00.430",
+      "cita": "estaba su madre en teoría. No sé si",
+      "entidades": [
+        "Banzo (grafía provisional)",
+        "Kurobane (grafía provisional)",
+        "Jin",
+        "Aldea aarakocra del sur"
+      ],
+      "ambito": "Kuroto, sesión 134",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "134-013",
+      "titulo": "Una orden de una sola palabra",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "El examen indica que los asaltantes estaban organizados. Entre sus restos Kurobane encuentra una nota en abisal y Banzo la lee: solo dice «sur». El grupo sospecha que buscaban el templo del guardián, pero la palabra no demuestra por sí sola ni ese objetivo ni la identidad de un general.",
+      "inicio": "01:45:00.440",
+      "fin": "01:52:00.709",
+      "cita": "guardián del sur. No lo sé. Seguramente,",
+      "entidades": [
+        "Banzo (grafía provisional)",
+        "Kurobane (grafía provisional)",
+        "Gur",
+        "Jin",
+        "Asaltantes de la aldea aarakocra",
+        "Nota abisal «sur»",
+        "Templos de los cuatro guardianes"
+      ],
+      "ambito": "Kuroto, sesión 134",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "134-014",
+      "titulo": "Kurobane acepta posponer la visita",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Kurobane quiere ir solo al templo para contactar con el guardián o su superior. Banzo lo convence de volver primero al campamento, descansar y acompañarlo después. El ninja le dice en voz baja que necesita ayuda para lo que lleva dentro; esta confidencia no es oída por todo el grupo. Gur ya baja con carne de una criatura y espadas para llevar provisiones a la taberna. No se realiza la visita al templo ni se confirma el aviso al poblado del norte.",
+      "inicio": "01:51:00.159",
+      "fin": "01:58:23.520",
+      "cita": "nota, se se la guarda dentro y ponen ya",
+      "entidades": [
+        "Banzo (grafía provisional)",
+        "Kurobane (grafía provisional)",
+        "Gur",
+        "Jin",
+        "Templos de los cuatro guardianes",
+        "Campamento del sur de Kuroto"
+      ],
+      "ambito": "Kuroto, sesión 134",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    }
+  ],
+  "historia": {
+    "revisado_hasta": 134,
+    "etapas": [
+      {
+        "titulo": "Reorganizarse después de Rua",
+        "texto": "La crisis sigue vaciando las bolsas. Banzo y Jin cuentan que una reunión de cazadores ha decidido presentar a Calista como candidata a shogun y repartir las tareas; no significa que ya gobierne Kuroto. Banzo viaja al sur y propone investigar un punto cercano al templo donde los exploradores y soldados enviados no regresan. Kurobane ha seguido vigilando las oleadas después de hablar con Danifae. Gur, entretanto, combate cerca del refugio de su maestro y ayuda a aldeas cuyos habitantes empiezan a venerarlo, una atención de la que se esconde en la taberna.",
+        "referencias": [
+          "134-001",
+          "134-002"
+        ]
+      },
+      {
+        "titulo": "Pedir a un amigo que vuelva",
+        "texto": "La comida provoca una discusión sobre el lugar de Gur en la guerra. Banzo cree necesitarlo al lado de los cazadores; Gur defiende que proteger a quienes no pueden defenderse es más útil para él que acudir a fiestas de nobles. La noticia de una zona donde desaparecen soldados lo convence de participar. Deja dinero para alimentar a otros y se reúne con Banzo, Jin y Kurobane. Arwen y Shisuka terminan dormidas y no los acompañan. Entre objetos ofrecidos y caramelos picantes, Gur acepta una capa de oni para cubrir su ropa dañada antes de partir.",
+        "referencias": [
+          "134-003",
+          "134-004"
+        ]
+      },
+      {
+        "titulo": "Los muertos del camino",
+        "texto": "En las montañas encuentran tres samuráis fallecidos. Gur reconoce a uno y Banzo descubre bajo un casco a Timy, un recluta que había entrenado con Danifae. El augurio de Banzo no aporta una respuesta limpia: un ancestro hostil lo acusa de traición y lanza sospechas sobre uno de sus amigos, palabras que solo él escucha y que no prueban quién mató a los soldados. Kurobane observa bordes chamuscados en los cortes. Gur recoge distintivos y armas, prepara una pira y recibe ayuda de Banzo para despedirlos.",
+        "referencias": [
+          "134-005",
+          "134-006",
+          "134-007"
+        ]
+      },
+      {
+        "titulo": "Seguir aunque duela",
+        "texto": "La muerte de Rua continúa pesando sobre Banzo, que reconoce haber querido buscar a Gur para lanzarse contra cuantos demonios pudiera. Gur le ofrece compañía y le recuerda el valor de ayudar a la gente común. Kurobane suma su apoyo como amigo, aunque a Banzo le incomoda que hablen de estar a su disposición. La conversación se interrumpe al divisar humo y oír gritos en la aldea aarakocra: llegan a un lugar ya convertido en carnicería, con casas destruidas y numerosos cuerpos.",
+        "referencias": [
+          "134-008",
+          "134-009"
+        ]
+      },
+      {
+        "titulo": "Una victoria demasiado cara",
+        "texto": "Dos daitengu, un oni y una bestia de rasgos mixtos siguen combatiendo entre los defensores. Gur entra en su forma demoníaca y arroja una bola de fuego que alcanza también a un aarakocra; los enemigos alados resisten bien las llamas. Las descargas eléctricas, las catanas y el aliento del oni castigan al grupo. Banzo usa velocidad para alcanzar el combate, abate a un adversario y cae paralizado al intentar moverse; la bestia aprovecha su indefensión. Su resistencia de bárbaro evita que quede fuera definitivamente y Gur acaba rematando a los atacantes, mientras Jin y Kurobane también gastan fuerzas y recursos.",
+        "referencias": [
+          "134-009",
+          "134-010",
+          "134-011"
+        ]
+      },
+      {
+        "titulo": "Los ausentes y una nota hacia el sur",
+        "texto": "Banzo busca a la madre de Erk sin encontrar ningún cadáver que coincida con su descripción. Hay muertos y posibles huidas, pero su destino sigue abierto. Kurobane le da una poción y Jin insiste en que necesitan un médico. Al investigar, comprenden que los atacantes no actuaban como criaturas extraviadas: estaban organizados. Kurobane descubre entre sus restos una nota en abisal que Banzo traduce con una sola palabra, «sur». Relacionarla con el templo del guardián es una sospecha razonada del grupo, sin confirmar aún el objetivo o quién los dirige.",
+        "referencias": [
+          "134-012",
+          "134-013"
+        ]
+      },
+      {
+        "titulo": "Descansar antes de llamar al guardián",
+        "texto": "Kurobane quiere continuar solo para hablar con el guardián o su superior, pero Banzo le recuerda el peligro y se ofrece a acompañarlo tras descansar. El ninja acepta a disgusto y le confiesa discretamente que necesita ayuda para lo que lleva dentro. Consideran avisar al poblado del norte y asegurar la zona, sin mostrar todavía esas gestiones. Gur ya ha comenzado el regreso con carne de una criatura y espadas para llevar provisiones a la taberna. La expedición termina de vuelta hacia el campamento, sin alcanzar el templo ni resolver el destino de los aarakocra que huyeron.",
+        "referencias": [
+          "134-014"
+        ]
+      }
+    ]
+  },
+  "misiones": [
+    "Investigar la zona donde desaparecen tropas: encuentran tres soldados muertos y una aldea asaltada; derrotan a los cuatro atacantes.",
+    "Averiguar si la madre de Erk sobrevivió: no aparece entre los cuerpos, sin ubicación confirmada.",
+    "Investigar la organización de los ataques y la nota «sur»: pendiente.",
+    "Acompañar a Kurobane al templo tras descansar: acordado, no realizado.",
+    "Promover la candidatura de Calista al shogunato: anunciada por los cazadores, sin elección política."
+  ],
+  "preguntas": [
+    "¿Dónde está la madre de Erk y quiénes consiguieron huir de la aldea?",
+    "¿Quién organiza los ataques y qué objetivo exacto indica la nota «sur»?",
+    "¿Qué lleva Kurobane dentro y podrá ayudarlo el guardián o su superior?",
+    "¿Prosperará la candidatura de Calista al shogunato?",
+    "¿Llegará el aviso del ataque al poblado aarakocra del norte?"
+  ],
+  "nombres_dudosos": [
+    "Erk/Ark: se conserva en prosa la grafía de la descripción recordada, sin crear una identidad distinta.",
+    "El monstruo de cabeza de mono, cuerpo de tigre y cola de serpiente se describe por su aspecto; no se impone una especie a partir de comparaciones de jugadores.",
+    "El recuerdo del primer combate de Gur en el templo pertenece al relato del personaje; no se incorpora como una revisión de esa sesión anterior."
+  ],
+  "contradicciones": [
+    "La candidatura de Calista se cuenta como resultado de una reunión entre sesiones; no se confunde con ser shogun elegida.",
+    "El ancestro sugiere culpabilidad de un amigo, pero no identifica al asesino con evidencia; solo Banzo oye sus palabras.",
+    "Ausencia del cuerpo de la madre de Erk no equivale a supervivencia confirmada.",
+    "El daño amistoso de la bola de fuego se muestra sobre un defensor aarakocra y no debe omitirse en la crónica."
+  ]
+}

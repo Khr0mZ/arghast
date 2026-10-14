@@ -1,0 +1,886 @@
+[
+  {
+    "id": "K03-P02",
+    "estado": "parcial",
+    "respuesta": "En el capítulo 10, el estudioso cuenta que estuvo en la universidad, escribió informes para su patrón o director e intentó pactar con el nekomata. El gato continúa en la taberna: no se muestra un traslado permanente ni un acuerdo de cuidados ya ejecutado.",
+    "pendiente": "Comprobar si el nekomata llega a trasladarse y en qué condiciones de cuidado o pacto.",
+    "referencias": [
+      "03-018",
+      "10-001"
+    ],
+    "revisado_hasta": 10,
+    "requiere_actualizacion": true
+  },
+  {
+    "id": "K03-P03",
+    "estado": "pendiente",
+    "respuesta": "Al comenzar el capítulo 5, los cazadores siguen sin conseguir reparar la estatua: se habla de un mes intentándolo. La promesa continúa sin cumplimiento confirmado en ese punto.",
+    "pendiente": "Comprobar si se repara o sustituye la estatua.",
+    "referencias": [
+      "05-002"
+    ],
+    "revisado_hasta": 5,
+    "requiere_actualizacion": true
+  },
+  {
+    "id": "K49-P06",
+    "estado": "parcial",
+    "respuesta": "Gur encuentra en el capítulo 51 a un herrero de Ukio dispuesto a fabricar dos camas y le entrega la madera de los sueños. En el 54, después de llevar más madera, el director confirma que las dos están terminadas. No se muestra todavía la entrega a Mitsune y su madre en Sho.",
+    "pendiente": "Traslado y entrega de las dos camas a la familia.",
+    "referencias": [
+      "49-015",
+      "51-005",
+      "54-001"
+    ],
+    "revisado_hasta": 54,
+    "requiere_actualizacion": true
+  },
+  {
+    "id": "K51-P01",
+    "estado": "parcial",
+    "respuesta": "El encargo y el primer material entregados en 51 se completan con más madera. Al comienzo del 54 el director confirma que el herrero ha fabricado las dos camas. Sigue sin narrarse su llegada a la familia.",
+    "pendiente": "Confirmar traslado y entrega en Sho.",
+    "referencias": [
+      "51-005",
+      "54-001"
+    ],
+    "revisado_hasta": 54,
+    "requiere_actualizacion": true
+  },
+  {
+    "id": "K49-P07",
+    "estado": "resuelta",
+    "respuesta": "En 51 aún seguía rabioso y Sirth pidió no llevarlo al torneo. En el capítulo 55 el clérigo anuncia que lo ha curado: había bebido por accidente una muestra de sangre de Otakemaru recogida bajo los árboles tras la invasión de Sho. El nekomata recuperado queda encargado de vigilar la base durante el viaje al norte.",
+    "pendiente": "",
+    "referencias": [
+      "49-001",
+      "51-010",
+      "55-002",
+      "55-004"
+    ],
+    "revisado_hasta": 55,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K51-P04",
+    "estado": "resuelta",
+    "respuesta": "Sirth confirma en 55 que el nekomata ya está curado y explica que su alteración comenzó al beber sangre de Otakemaru dejada en un recipiente al alcance.",
+    "pendiente": "",
+    "referencias": [
+      "51-010",
+      "55-002"
+    ],
+    "revisado_hasta": 55,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K57-P02",
+    "estado": "resuelta",
+    "respuesta": "La flor recogida en57 se entrega en58: Katari la lleva a la alquimista de Hakara, que la acepta y paga cinco monedas de oro.",
+    "pendiente": "",
+    "referencias": [
+      "57-004",
+      "57-005",
+      "58-011"
+    ],
+    "revisado_hasta": 58,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K19-P01",
+    "estado": "resuelta",
+    "respuesta": "El avance del sur culmina en la ofensiva de 180 y el combate de 181: Otakemaru es derrotado, se disuelve y sus supervivientes recuperan la forma yokai.",
+    "pendiente": "",
+    "referencias": [
+      "180-001",
+      "180-003",
+      "181-010",
+      "181-012"
+    ],
+    "revisado_hasta": 181,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K22-P01",
+    "estado": "resuelta",
+    "respuesta": "El epílogo muestra a Ikari reconstruyendo una aldea hospitalaria con su familia y refugiados, abierta a humanos y yokais.",
+    "pendiente": "",
+    "referencias": [
+      "182-010"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K49-P05",
+    "estado": "parcial",
+    "respuesta": "Katari se presenta como enviada del protector y participa en la prueba del templo celeste; en 107 el dragón le encarga vigilar a los elegidos y evitar otra bendición perdida.",
+    "pendiente": "La misión tiene desarrollo confirmado, sin reducir todos sus deberes a una orden única.",
+    "referencias": [
+      "69-009",
+      "79-005",
+      "107-007"
+    ],
+    "revisado_hasta": 107,
+    "requiere_actualizacion": true
+  },
+  {
+    "id": "K50-P03",
+    "estado": "parcial",
+    "respuesta": "Danifae declara que busca cuatro orbes para librarse de la marca de Lolth. En 104 muestra la marca y repite el objetivo; Caniza reconoce la señal, pero no verifica que el ritual prometido vaya a funcionar. No se convierte la explicación en prueba de éxito.",
+    "pendiente": "Verificar el ritual y sus consecuencias, que no quedan demostrados por esta declaración.",
+    "referencias": [
+      "104-003",
+      "104-007"
+    ],
+    "revisado_hasta": 104,
+    "requiere_actualizacion": true
+  },
+  {
+    "id": "K-064-01",
+    "estado": "parcial",
+    "respuesta": "Danifae declara que busca cuatro orbes para librarse de la marca de Lolth. En 104 muestra la marca y repite el objetivo; Caniza reconoce la señal, pero no verifica que el ritual prometido vaya a funcionar. No se convierte la explicación en prueba de éxito.",
+    "pendiente": "Verificar el ritual y sus consecuencias, que no quedan demostrados por esta declaración.",
+    "referencias": [
+      "104-003",
+      "104-007"
+    ],
+    "revisado_hasta": 104,
+    "requiere_actualizacion": true
+  },
+  {
+    "id": "K-065-01",
+    "estado": "parcial",
+    "respuesta": "Danifae declara que busca cuatro orbes para librarse de la marca de Lolth. En 104 muestra la marca y repite el objetivo; Caniza reconoce la señal, pero no verifica que el ritual prometido vaya a funcionar. No se convierte la explicación en prueba de éxito.",
+    "pendiente": "Verificar el ritual y sus consecuencias, que no quedan demostrados por esta declaración.",
+    "referencias": [
+      "104-003",
+      "104-007"
+    ],
+    "revisado_hasta": 104,
+    "requiere_actualizacion": true
+  },
+  {
+    "id": "K-070-02",
+    "estado": "parcial",
+    "respuesta": "Danifae declara que busca cuatro orbes para librarse de la marca de Lolth. En 104 muestra la marca y repite el objetivo; Caniza reconoce la señal, pero no verifica que el ritual prometido vaya a funcionar. No se convierte la explicación en prueba de éxito.",
+    "pendiente": "Verificar el ritual y sus consecuencias, que no quedan demostrados por esta declaración.",
+    "referencias": [
+      "104-003",
+      "104-007"
+    ],
+    "revisado_hasta": 104,
+    "requiere_actualizacion": true
+  },
+  {
+    "id": "K-083-02",
+    "estado": "parcial",
+    "respuesta": "Danifae declara que busca cuatro orbes para librarse de la marca de Lolth. En 104 muestra la marca y repite el objetivo; Caniza reconoce la señal, pero no verifica que el ritual prometido vaya a funcionar. No se convierte la explicación en prueba de éxito.",
+    "pendiente": "Verificar el ritual y sus consecuencias, que no quedan demostrados por esta declaración.",
+    "referencias": [
+      "104-003",
+      "104-007"
+    ],
+    "revisado_hasta": 104,
+    "requiere_actualizacion": true
+  },
+  {
+    "id": "K-094-01",
+    "estado": "parcial",
+    "respuesta": "Danifae declara que busca cuatro orbes para librarse de la marca de Lolth. En 104 muestra la marca y repite el objetivo; Caniza reconoce la señal, pero no verifica que el ritual prometido vaya a funcionar. No se convierte la explicación en prueba de éxito.",
+    "pendiente": "Verificar el ritual y sus consecuencias, que no quedan demostrados por esta declaración.",
+    "referencias": [
+      "104-003",
+      "104-007"
+    ],
+    "revisado_hasta": 104,
+    "requiere_actualizacion": true
+  },
+  {
+    "id": "K50-P04",
+    "estado": "resuelta",
+    "respuesta": "El camino de Sun culmina en 179: Kogane lo reconoce protector de la nueva guardiana, vence a Shen y rechaza la inmortalidad para permanecer con su familia. El epílogo lo muestra enseñando a otra generación. Es una nueva responsabilidad, sin inventar una restitución retroactiva de cada bendición perdida.",
+    "pendiente": "",
+    "referencias": [
+      "179-008",
+      "179-009",
+      "179-010",
+      "182-009"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K-072-01",
+    "estado": "resuelta",
+    "respuesta": "El camino de Sun culmina en 179: Kogane lo reconoce protector de la nueva guardiana, vence a Shen y rechaza la inmortalidad para permanecer con su familia. El epílogo lo muestra enseñando a otra generación. Es una nueva responsabilidad, sin inventar una restitución retroactiva de cada bendición perdida.",
+    "pendiente": "",
+    "referencias": [
+      "179-008",
+      "179-009",
+      "179-010",
+      "182-009"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K-104-01",
+    "estado": "resuelta",
+    "respuesta": "El camino de Sun culmina en 179: Kogane lo reconoce protector de la nueva guardiana, vence a Shen y rechaza la inmortalidad para permanecer con su familia. El epílogo lo muestra enseñando a otra generación. Es una nueva responsabilidad, sin inventar una restitución retroactiva de cada bendición perdida.",
+    "pendiente": "",
+    "referencias": [
+      "179-008",
+      "179-009",
+      "179-010",
+      "182-009"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K-107-01",
+    "estado": "resuelta",
+    "respuesta": "El camino de Sun culmina en 179: Kogane lo reconoce protector de la nueva guardiana, vence a Shen y rechaza la inmortalidad para permanecer con su familia. El epílogo lo muestra enseñando a otra generación. Es una nueva responsabilidad, sin inventar una restitución retroactiva de cada bendición perdida.",
+    "pendiente": "",
+    "referencias": [
+      "179-008",
+      "179-009",
+      "179-010",
+      "182-009"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K-110-04",
+    "estado": "resuelta",
+    "respuesta": "El camino de Sun culmina en 179: Kogane lo reconoce protector de la nueva guardiana, vence a Shen y rechaza la inmortalidad para permanecer con su familia. El epílogo lo muestra enseñando a otra generación. Es una nueva responsabilidad, sin inventar una restitución retroactiva de cada bendición perdida.",
+    "pendiente": "",
+    "referencias": [
+      "179-008",
+      "179-009",
+      "179-010",
+      "182-009"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K54-P03",
+    "estado": "resuelta",
+    "respuesta": "Kuma se presenta como maestro y entrena a Gur; más adelante lo acompaña y traga el orbe de fuego. Su papel de sensei queda confirmado, sin confundirlo con cada demonio nombrado por terceros.",
+    "pendiente": "",
+    "referencias": [
+      "54-006",
+      "54-010",
+      "76-010"
+    ],
+    "revisado_hasta": 76,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K54-P06",
+    "estado": "resuelta",
+    "respuesta": "En 70 Danifae despierta a Jin, lo hechiza con su persuasión y obtiene el orbe que él conservaba, afirmando que ya tiene tres. La escena no completa por sí sola la procedencia de los otros dos.",
+    "pendiente": "",
+    "referencias": [
+      "70-004",
+      "70-005"
+    ],
+    "revisado_hasta": 70,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K53-P04",
+    "estado": "resuelta",
+    "respuesta": "En 70 Danifae despierta a Jin, lo hechiza con su persuasión y obtiene el orbe que él conservaba, afirmando que ya tiene tres. La escena no completa por sí sola la procedencia de los otros dos.",
+    "pendiente": "",
+    "referencias": [
+      "70-004",
+      "70-005"
+    ],
+    "revisado_hasta": 70,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K55-P02",
+    "estado": "parcial",
+    "respuesta": "En 91 Calista cuenta que Lor Miau se comió a Gluglu y luego lo revivió. En 113 se representa otra muerte y reanimación. Por tanto no se atribuye automáticamente esa restauración a Sirth; en el epílogo se muestra a Gluglu libre.",
+    "pendiente": "El destino posterior se conoce, pero no se demuestra la intervención de Sirth que planteaba la pregunta.",
+    "referencias": [
+      "91-002",
+      "113-001",
+      "182-005"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": true
+  },
+  {
+    "id": "K60-P01",
+    "estado": "resuelta",
+    "respuesta": "En 66 el director confirma que Sirth ha tratado durante semanas a Erk, Hayate y su hermano y que los tres están curados.",
+    "pendiente": "",
+    "referencias": [
+      "66-001"
+    ],
+    "revisado_hasta": 66,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K60-P02",
+    "estado": "resuelta",
+    "respuesta": "Al inicio de 62 el director confirma que Hayate y Erk quedaron infectados; en 66 confirma que ambos y el hermano rescatado están curados tras el tratamiento de Sirth.",
+    "pendiente": "",
+    "referencias": [
+      "62-001",
+      "66-001"
+    ],
+    "revisado_hasta": 66,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K60-P03",
+    "estado": "parcial",
+    "respuesta": "Suzaku reconoce a Aka como la esperada, la devuelve a la vida tras su sacrificio y confirma su condición de elegida. Erk reaparece con plumaje rojo y arco nuevo al regreso. La elección de Aka queda verificada; el origen completo de Erk no se deduce solo de ese parecido.",
+    "pendiente": "Distinguir la elección explícita de Aka de lo que permanece abierto sobre el nacimiento de Erk.",
+    "referencias": [
+      "76-004",
+      "76-008",
+      "76-011"
+    ],
+    "revisado_hasta": 76,
+    "requiere_actualizacion": true
+  },
+  {
+    "id": "K-066-02",
+    "estado": "parcial",
+    "respuesta": "Suzaku reconoce a Aka como la esperada, la devuelve a la vida tras su sacrificio y confirma su condición de elegida. Erk reaparece con plumaje rojo y arco nuevo al regreso. La elección de Aka queda verificada; el origen completo de Erk no se deduce solo de ese parecido.",
+    "pendiente": "Distinguir la elección explícita de Aka de lo que permanece abierto sobre el nacimiento de Erk.",
+    "referencias": [
+      "76-004",
+      "76-008",
+      "76-011"
+    ],
+    "revisado_hasta": 76,
+    "requiere_actualizacion": true
+  },
+  {
+    "id": "K-073-01",
+    "estado": "parcial",
+    "respuesta": "El portal entre Sho y Ukio aparece operativo en 91. Es una realización concreta del proyecto, sin afirmar que todas las sedes estén ya conectadas.",
+    "pendiente": "La extensión completa a las otras sedes requiere sus propias confirmaciones.",
+    "referencias": [
+      "91-003"
+    ],
+    "revisado_hasta": 91,
+    "requiere_actualizacion": true
+  },
+  {
+    "id": "K-076-02",
+    "estado": "resuelta",
+    "respuesta": "En 104 el grupo entra en Kuma agrandado, vence a las criaturas y Danifae extrae la esfera de fuego. Caniza intenta custodiarla, pero lo quema y la devuelve; Kuma manifiesta que ya no se encuentra mal.",
+    "pendiente": "",
+    "referencias": [
+      "104-005",
+      "104-006",
+      "104-007",
+      "104-008"
+    ],
+    "revisado_hasta": 104,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K-083-03",
+    "estado": "resuelta",
+    "respuesta": "En 104 el grupo entra en Kuma agrandado, vence a las criaturas y Danifae extrae la esfera de fuego. Caniza intenta custodiarla, pero lo quema y la devuelve; Kuma manifiesta que ya no se encuentra mal.",
+    "pendiente": "",
+    "referencias": [
+      "104-005",
+      "104-006",
+      "104-007",
+      "104-008"
+    ],
+    "revisado_hasta": 104,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K-084-05",
+    "estado": "resuelta",
+    "respuesta": "En 104 el grupo entra en Kuma agrandado, vence a las criaturas y Danifae extrae la esfera de fuego. Caniza intenta custodiarla, pero lo quema y la devuelve; Kuma manifiesta que ya no se encuentra mal.",
+    "pendiente": "",
+    "referencias": [
+      "104-005",
+      "104-006",
+      "104-007",
+      "104-008"
+    ],
+    "revisado_hasta": 104,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K-095-04",
+    "estado": "resuelta",
+    "respuesta": "En 104 el grupo entra en Kuma agrandado, vence a las criaturas y Danifae extrae la esfera de fuego. Caniza intenta custodiarla, pero lo quema y la devuelve; Kuma manifiesta que ya no se encuentra mal.",
+    "pendiente": "",
+    "referencias": [
+      "104-005",
+      "104-006",
+      "104-007",
+      "104-008"
+    ],
+    "revisado_hasta": 104,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K-077-03",
+    "estado": "parcial",
+    "respuesta": "El epílogo muestra que el niño kender sí ha crecido: Sun Kim es el primer discípulo del Santuario del Mono. No se explica retrospectivamente una causa mágica para cada periodo anterior sin crecer.",
+    "pendiente": "El crecimiento posterior está confirmado; la causa de la anomalía inicial no se fija.",
+    "referencias": [
+      "182-001",
+      "182-009"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": true
+  },
+  {
+    "id": "K-079-02",
+    "estado": "resuelta",
+    "respuesta": "La secuencia final muestra la sucesión: Kogane reconoce a Arwen guardiana y a Sun protector, se convierte en luz y la cúpula abandona la guarida de Otakemaru para volver al norte. No queda una pérdida permanente de protección tras la transición.",
+    "pendiente": "",
+    "referencias": [
+      "179-008",
+      "179-011"
+    ],
+    "revisado_hasta": 179,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K-094-05",
+    "estado": "resuelta",
+    "respuesta": "Aka y Katari aceptan los anillos con sus nombres en 109 y sienten el refuerzo de su amor. Esta entrega no equivale por sí sola a una boda.",
+    "pendiente": "",
+    "referencias": [
+      "109-004"
+    ],
+    "revisado_hasta": 109,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K-099-02",
+    "estado": "parcial",
+    "respuesta": "Sirth vuelve a actuar en 124 y el grupo extrae la criatura de Maroxi mediante cuatro ritos. Sirth se ofrece otra vez como recipiente y la absorbe; Maroxi queda liberado, pero Sirth sale gravemente herido. Se resuelve el retorno operativo del clérigo, no una destrucción definitiva del mal.",
+    "pendiente": "La criatura vuelve a otro recipiente; no afirmar que haya sido aniquilada.",
+    "referencias": [
+      "124-001",
+      "124-011",
+      "124-012",
+      "124-016",
+      "124-017"
+    ],
+    "revisado_hasta": 124,
+    "requiere_actualizacion": true
+  },
+  {
+    "id": "K-103-02",
+    "estado": "parcial",
+    "respuesta": "Sirth vuelve a actuar en 124 y el grupo extrae la criatura de Maroxi mediante cuatro ritos. Sirth se ofrece otra vez como recipiente y la absorbe; Maroxi queda liberado, pero Sirth sale gravemente herido. Se resuelve el retorno operativo del clérigo, no una destrucción definitiva del mal.",
+    "pendiente": "La criatura vuelve a otro recipiente; no afirmar que haya sido aniquilada.",
+    "referencias": [
+      "124-001",
+      "124-011",
+      "124-012",
+      "124-016",
+      "124-017"
+    ],
+    "revisado_hasta": 124,
+    "requiere_actualizacion": true
+  },
+  {
+    "id": "K-107-02",
+    "estado": "resuelta",
+    "respuesta": "Kurobane vuelve en 180 con ki dorado y abre la oscuridad de la fortaleza. En 181 elige absorber la miasma dirigida a todos y muere; sus compañeras devuelven su alma al ciclo. Es el desenlace mostrado de su camino, sin inventar instrucciones celestiales que nunca se transcriben.",
+    "pendiente": "",
+    "referencias": [
+      "180-005",
+      "181-007",
+      "181-011"
+    ],
+    "revisado_hasta": 181,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "KU145-P02",
+    "estado": "resuelta",
+    "respuesta": "Kurobane vuelve en 180 con ki dorado y abre la oscuridad de la fortaleza. En 181 elige absorber la miasma dirigida a todos y muere; sus compañeras devuelven su alma al ciclo. Es el desenlace mostrado de su camino, sin inventar instrucciones celestiales que nunca se transcriben.",
+    "pendiente": "",
+    "referencias": [
+      "180-005",
+      "181-007",
+      "181-011"
+    ],
+    "revisado_hasta": 181,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K-109-01",
+    "estado": "parcial",
+    "respuesta": "La búsqueda lleva en 110 a un ritual con samuráis transformados y un cautivo abierto. Palayer no logra salvarlo y Aka ordena terminar su sufrimiento. Se interrumpe el rito, pero no se muestra una liberación con vida de ese cautivo.",
+    "pendiente": "El alcance total de los supervivientes de la avanzadilla no se establece.",
+    "referencias": [
+      "110-001",
+      "110-002",
+      "110-005"
+    ],
+    "revisado_hasta": 110,
+    "requiere_actualizacion": true
+  },
+  {
+    "id": "K-111-01",
+    "estado": "resuelta",
+    "respuesta": "Después de la competición y las pesquisas de sucesión, Calista es coronada en 137 y jura como shogun veintisiete. Confirma mandos y nombra a Ayuko y Jin estrategas; Gelbreak queda como guardián mientras Banzo conserva el liderazgo cazador.",
+    "pendiente": "",
+    "referencias": [
+      "137-011",
+      "137-012",
+      "137-013"
+    ],
+    "revisado_hasta": 137,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "KU142-P05",
+    "estado": "resuelta",
+    "respuesta": "Aunque los guardianes dijeron antes que no podían restaurarla, 179 muestra una solución mediante sucesión: Arwen es reconocida como guardiana y la cúpula vuelve al norte, dejando abierta la guarida del enemigo. En 180 comienza el avance coordinado.",
+    "pendiente": "",
+    "referencias": [
+      "179-008",
+      "179-011",
+      "180-001",
+      "180-002"
+    ],
+    "revisado_hasta": 180,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "KU145-P03",
+    "estado": "resuelta",
+    "respuesta": "El vínculo se recompone después de la ruptura: en 180 la mesa trata ya a Guxi y Serafina como casados y Hayate los bendice con ceremonia. El epílogo muestra su familia, tres hijos y otro embarazo, mientras él elige enseñar en una escuela pública. No se inventa una escena de reconciliación ausente.",
+    "pendiente": "",
+    "referencias": [
+      "180-005",
+      "182-013"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "KU146-P03",
+    "estado": "resuelta",
+    "respuesta": "El vínculo se recompone después de la ruptura: en 180 la mesa trata ya a Guxi y Serafina como casados y Hayate los bendice con ceremonia. El epílogo muestra su familia, tres hijos y otro embarazo, mientras él elige enseñar en una escuela pública. No se inventa una escena de reconciliación ausente.",
+    "pendiente": "",
+    "referencias": [
+      "180-005",
+      "182-013"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "KU149-P02",
+    "estado": "parcial",
+    "respuesta": "Arwen trabaja durante diez años en restaurar zonas dañadas por Otakemaru y los no muertos. El epílogo confirma una dedicación prolongada, sin presentar cada foco de corrupción de antes como automáticamente purificado el día de la victoria.",
+    "pendiente": "No se detalla el estado individual final de cada zona o víctima de la plaga.",
+    "referencias": [
+      "182-008"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": true
+  },
+  {
+    "id": "KU151-P02",
+    "estado": "parcial",
+    "respuesta": "Arwen trabaja durante diez años en restaurar zonas dañadas por Otakemaru y los no muertos. El epílogo confirma una dedicación prolongada, sin presentar cada foco de corrupción de antes como automáticamente purificado el día de la victoria.",
+    "pendiente": "No se detalla el estado individual final de cada zona o víctima de la plaga.",
+    "referencias": [
+      "182-008"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": true
+  },
+  {
+    "id": "K169-P02",
+    "estado": "resuelta",
+    "respuesta": "Los recuerdos se completan con el fragmento de Suzaku: Serafina ve la fundación de los cazadores, la persecución de yokais fugitivos y al hombre blanco intentando defenderlos. Los supervivientes lo llaman Otakemaru. Las cuatro puertas de 180 contrastan después las versiones humana y yokai del conflicto.",
+    "pendiente": "",
+    "referencias": [
+      "177-009",
+      "180-007"
+    ],
+    "revisado_hasta": 180,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K173-P02",
+    "estado": "resuelta",
+    "respuesta": "Los recuerdos se completan con el fragmento de Suzaku: Serafina ve la fundación de los cazadores, la persecución de yokais fugitivos y al hombre blanco intentando defenderlos. Los supervivientes lo llaman Otakemaru. Las cuatro puertas de 180 contrastan después las versiones humana y yokai del conflicto.",
+    "pendiente": "",
+    "referencias": [
+      "177-009",
+      "180-007"
+    ],
+    "revisado_hasta": 180,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K175-P02",
+    "estado": "resuelta",
+    "respuesta": "Los recuerdos se completan con el fragmento de Suzaku: Serafina ve la fundación de los cazadores, la persecución de yokais fugitivos y al hombre blanco intentando defenderlos. Los supervivientes lo llaman Otakemaru. Las cuatro puertas de 180 contrastan después las versiones humana y yokai del conflicto.",
+    "pendiente": "",
+    "referencias": [
+      "177-009",
+      "180-007"
+    ],
+    "revisado_hasta": 180,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K171-P03",
+    "estado": "resuelta",
+    "respuesta": "En 173 Arwen ya visita el lugar donde enterraron a Chilia. El epílogo conserva su árbol como lugar de despedida de Arwen y Channi.",
+    "pendiente": "",
+    "referencias": [
+      "173-001",
+      "182-008",
+      "182-009"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K171-P04",
+    "estado": "parcial",
+    "respuesta": "Arwen cuida el árbol y, durante el salto de diez años, trabaja restaurando las tierras dañadas. La aparición inicial de una hoja era una señal, no la curación inmediata de todo el bosque.",
+    "pendiente": "No se ofrece un inventario de recuperación completa de cada bosque.",
+    "referencias": [
+      "173-001",
+      "182-008"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": true
+  },
+  {
+    "id": "K172-P02",
+    "estado": "resuelta",
+    "respuesta": "Banzo le entrega una armadura en 178 reconociéndola como compañera. Véspera lucha con ellos, recupera su forma de nekomata en 181 y dedica el epílogo a preservar el pacto junto a Palayer. La pertenencia se demuestra en esos actos, sin atribuir una confianza universal retroactiva.",
+    "pendiente": "",
+    "referencias": [
+      "178-001",
+      "181-006",
+      "182-011"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K172-P04",
+    "estado": "resuelta",
+    "respuesta": "Véspera persuade al último tengu del campamento de 178, lo cura y lo escolta. En 181 los supervivientes recuperan su forma yokai y en el exterior los dos bandos bajan las armas.",
+    "pendiente": "",
+    "referencias": [
+      "178-007",
+      "178-010",
+      "181-010",
+      "181-012"
+    ],
+    "revisado_hasta": 181,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K172-P05",
+    "estado": "resuelta",
+    "respuesta": "El secuestrador de 176 es Bortrack, conocido como Dos Caras. Reclama a Banzo por dejar marchar al dragón al que culpa de destruir la tribu y usa a Shizuka como rehén. El conflicto termina con su desintegración y el rescate.",
+    "pendiente": "",
+    "referencias": [
+      "176-001",
+      "176-003",
+      "176-007",
+      "176-008"
+    ],
+    "revisado_hasta": 176,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K173-P04",
+    "estado": "resuelta",
+    "respuesta": "Los signos elementales se acumulan y en 179 Kogane reconoce expresamente a Arwen como nueva guardiana de Kuroto, con Sun como protector. Ya no queda solo la hipótesis de una mano fría.",
+    "pendiente": "",
+    "referencias": [
+      "177-011",
+      "179-002",
+      "179-008"
+    ],
+    "revisado_hasta": 179,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K173-P05",
+    "estado": "resuelta",
+    "respuesta": "El duelo ocurre en 179 después de vencer a Kogane. Sun derrota a Shen y rechaza el trono divino, eligiendo a sus compañeros.",
+    "pendiente": "",
+    "referencias": [
+      "179-009",
+      "179-010"
+    ],
+    "revisado_hasta": 179,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K174-P01",
+    "estado": "resuelta",
+    "respuesta": "En 176 el grupo acude a la cala: Kazuki oculta a Shizuka, vencen al secuestrador y Jin la desata y abraza. Regresa viva con su familia.",
+    "pendiente": "",
+    "referencias": [
+      "176-005",
+      "176-007",
+      "176-008",
+      "176-009"
+    ],
+    "revisado_hasta": 176,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K175-P01",
+    "estado": "resuelta",
+    "respuesta": "Kurobane reaparece en 180 con luz y ki purificado, vivo. Participa en la ofensiva y después muere por un sacrificio diferente en 181; no se confunden ambos episodios.",
+    "pendiente": "",
+    "referencias": [
+      "180-005",
+      "181-007",
+      "181-011"
+    ],
+    "revisado_hasta": 181,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K175-P04",
+    "estado": "resuelta",
+    "respuesta": "La batalla termina en 181 con una bajada de armas entre soldados y yokais. El epílogo muestra diez años de paz cuidada por Palayer, Véspera y sus compañeros.",
+    "pendiente": "",
+    "referencias": [
+      "181-012",
+      "182-011",
+      "182-014"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K176-P05",
+    "estado": "pendiente",
+    "respuesta": "El epílogo mantiene abierta la promesa: Banzo parte a buscar a Gelbreak, cruza varios territorios y encuentra una entrada en sus tierras nevadas. No se representa un reencuentro ni su vuelta a Palayer.",
+    "pendiente": "La búsqueda continúa fuera de lo mostrado en la campaña.",
+    "referencias": [
+      "182-006",
+      "182-007",
+      "182-015"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": true
+  },
+  {
+    "id": "K177-P02",
+    "estado": "resuelta",
+    "respuesta": "Shen ayuda a Sun y se enfrenta a él en el duelo de 179, que el mono gana. Después le ofrece el trono y acepta su negativa; se desvanece tras regalarle la corona. No lo mata cumpliendo la orden.",
+    "pendiente": "",
+    "referencias": [
+      "179-009",
+      "179-010"
+    ],
+    "revisado_hasta": 179,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K178-P04",
+    "estado": "resuelta",
+    "respuesta": "En 182 caminan de la mano, se besan y se despiden reconociendo lo compartido. El salto posterior confirma que Palayer cría un niño y una niña de Banzo mientras espera su regreso.",
+    "pendiente": "",
+    "referencias": [
+      "182-003",
+      "182-005",
+      "182-007",
+      "182-011"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K178-P05",
+    "estado": "resuelta",
+    "respuesta": "La ofensiva culmina en 181 con la derrota de Otakemaru y la tregua exterior. El epílogo muestra que la convivencia se sostiene durante diez años, aunque persisten búsquedas personales.",
+    "pendiente": "",
+    "referencias": [
+      "180-011",
+      "181-010",
+      "181-012",
+      "182-011",
+      "182-014"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K179-P05",
+    "estado": "resuelta",
+    "respuesta": "La ofensiva culmina en 181 con la derrota de Otakemaru y la tregua exterior. El epílogo muestra que la convivencia se sostiene durante diez años, aunque persisten búsquedas personales.",
+    "pendiente": "",
+    "referencias": [
+      "180-011",
+      "181-010",
+      "181-012",
+      "182-011",
+      "182-014"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K180-P05",
+    "estado": "resuelta",
+    "respuesta": "La ofensiva culmina en 181 con la derrota de Otakemaru y la tregua exterior. El epílogo muestra que la convivencia se sostiene durante diez años, aunque persisten búsquedas personales.",
+    "pendiente": "",
+    "referencias": [
+      "180-011",
+      "181-010",
+      "181-012",
+      "182-011",
+      "182-014"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  },
+  {
+    "id": "K180-P03",
+    "estado": "parcial",
+    "respuesta": "Véspera aclara en 181 que perdió su hacha anterior y tomó una normal en la sala de la prueba. Sigue combatiendo con la sustituta; no se narra recuperar la original.",
+    "pendiente": "El arma original no tiene recuperación confirmada.",
+    "referencias": [
+      "181-003",
+      "181-009"
+    ],
+    "revisado_hasta": 181,
+    "requiere_actualizacion": true
+  },
+  {
+    "id": "K181-P05",
+    "estado": "resuelta",
+    "respuesta": "El epílogo confirma que Serafina guarda la caja hecha a mano por Sun en el Rompeolas. La entrega no se representa, pero su posesión queda explícita.",
+    "pendiente": "",
+    "referencias": [
+      "182-013"
+    ],
+    "revisado_hasta": 182,
+    "requiere_actualizacion": false
+  }
+]

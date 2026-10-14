@@ -1,0 +1,340 @@
+{
+  "capitulo": 111,
+  "estado_revision": "revisado",
+  "fuente_sha256": "c6cc54e9172dcafc1017e4bb01eacfc6f9d99029213cc4cc1e8779636308d7b4",
+  "resumen": "Las campanas anuncian la muerte del shogun. Tras cerrar las puertas durante la mañana, la capital permite al anochecer que la población presente sus respetos. El hambre de la crisis añade cansancio a unos cazadores ya agotados. Guxi está especialmente abatido: recuerda que el gobernante le salvó la vida veinte años atrás, cuando vendía juguetes, y conserva un pequeño pájaro mecánico de aquel día. Banzo intenta consolarlo sin reducirlo a un simple trámite de palacio. Calista prepara con los demás una ofrenda floral y recibe de su corte un presente de perlas para el difunto. Gur ha ayudado en aldeas y llevado al herrero los metales seguros. Deben acudir juntos, pero otra disputa retrasa la salida. Gur y Gelbreak se retan fuera de la base. El drow usa parálisis y miedo, que hace aparecer ante el campeón la figura de su padre. Gur acaba rompiendo la concentración con jabalinas y llega hasta él. Gelbreak lanza entonces una orden de atacar hacia los espectadores. Gur golpea a Calista, que cae herida: el bardo dirá después que señalaba a Banzo, pero la selección del blanco ya ha tenido consecuencias. El goliat contiene a su maestro para impedir otro golpe y Guxi intenta intervenir. El drow vuelve a paralizar a Gur y daña su piel con magia. Al liberarlo, la respuesta del campeón lo deja en el suelo. Calista recibe otro golpe al interponerse y termina paralizando a Gur mientras frena también al drow. Dejan pasar la furia y la pelea acaba sin otra muerte. Guxi repara ropa y Calista arregla con una ilusión el aspecto de Gur para la ceremonia. El campeón interpreta diplomacia como el nombre de alguien a quien deben encontrar. Por el camino la modista comparte rumores de nobles que quieren aprovechar la muerte para disputar el poder a Rua. Los compañeros hablan de apoyar un gobierno estable; no pretenden resolverlo con otro duelo. La cola del funeral les da tiempo para escuchar el dolor de Guxi y animarlo a continuar el legado de quien admiraba. En el jardín trasero del palacio esperan el ataúd, Rua, guardias y nobles. La viuda no consigue ocultar su tristeza. Calista deposita flores y perlas, abraza a Rua y ofrece compañía. Gur procura hablar bajo y compromete su ayuda; ella agradece el trabajo que hace por los aldeanos. Banzo usa clarividencia para oír a los nobles antes de acercarse: algunos apoyan a Rua provisionalmente, otros reclaman derechos de sangre o consideran una dirección militar. El goliat expresa su lealtad mediante el collar de cazador, que Rua le devuelve porque pertenece a él. Guxi tarda en llegar al féretro y culpa a su propia insuficiencia. Rua le recuerda el respeto que le tenía su esposo y lo anima a levantarse. El artífice entrega el pájaro mecánico como símbolo de aquel rescate y jura ayudarla. Gelbreak presenta unas condolencias mucho más sobrias. Calista conversa con los distintos grupos y obtiene un panorama desigual. Tamai Anari defiende ayudar al pueblo para sostener el ejército y Ayuko la respalda con una inclinación estratégica. Nori protege sobre todo el beneficio y la posición de su clan. Shai apoya a Rua; Fumuki prioriza su casa. Montaro se mantiene fiel al legado del difunto y respalda a la viuda, mientras un alto militar podría postularse si reuniera apoyo. El comerciante naval Yuichi no se presenta abiertamente, pero condiciona su respaldo a solucionar la economía. Isoko lo acompaña y Hanae conserva una actitud hostil hacia Calista. Las conversaciones describen intereses y posibilidades, no una votación consumada. Calista aprovecha la confusión de Gur para señalarle al noble vestido de verde como si fuese la persona llamada diplomacia, y le advierte de que sabe mentir. El hombre se identifica como Nomi Kazuki. Se irrita al ser interpelado y anuncia que, cuando sea shogun, disolverá a los cazadores por inútiles y costosos. Gur intenta llevárselo y un guardia le exige soltarlo para no acabar preso. Calista le manda obedecer y evita que siga, pero el agravio ya se ha producido. Ella habla luego con el noble y defiende los servicios del campeón. Gelbreak se acerca a susurrarle algo; el hombre huye. La advertencia de que no utilice esos trucos contra nobles quedará para una discusión posterior. Banzo vuelve ante Rua para ofrecerse como escolta durante la incertidumbre. Ella acepta que regrese a tratarlo cuando terminen los días de luto. A petición suya concede también permiso para que Sun pueda presentar sus respetos, pese a la restricción anterior. Calista presenta al goliat a Fumuki, que comparte comida con él y lo invita a visitarla para una cena después del duelo. Gur se sienta a comer y a relatar batallas. En otra conversación, Calista acompaña a Guxi ante Yuichi, que exige resultados contra la crisis y ofrece contratarlos con mejores ingresos. Guxi rechaza cambiar su lealtad por dinero. Los guardias anuncian el cambio de turno y los cazadores vuelven a la base. Al terminar la jornada Calista lleva a Gelbreak a una habitación para recriminarle que haya usado magia con el noble. Él defiende que empleará sus trucos para sus fines y se burla de los de ella. La barda intenta convertirlo en cangrejo con polimorfar. El hechizo no tiene efecto. El director muestra entonces a la jugadora información o una imagen en privado, ausente de esta transcripción. La reacción pública de Calista es inequívoca: retrocede horrorizada y huye de la habitación y de la base. Gur, Banzo y Guxi solo presencian la salida aterrada y al drow en la puerta. No puede deducirse de ese testimonio público qué forma vio ni qué identidad revela. El episodio termina ahí, sin explicación compartida ni resolución de la disputa.",
+  "afirmaciones": [
+    {
+      "id": "111-001",
+      "titulo": "Muere el shogun y Guxi recuerda su rescate",
+      "tipo": "explicacion_director",
+      "afirmacion": "Se anuncia la muerte del shogun y se abre el palacio para rendirle respeto. Guxi explica su vínculo con él y conserva un pájaro mecánico relacionado con el rescate de hace veinte años.",
+      "inicio": "00:00:00.000",
+      "fin": "00:15:30.000",
+      "entidades": [
+        "Shogun de Kuroto",
+        "Guxi (grafía provisional)",
+        "Pájaro mecánico de Guxi"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "Se limita a las acciones y declaraciones mostradas en la sesión.",
+      "cita": "justo cuando el Sun según él le salvó la",
+      "evidencia_cue": {
+        "inicio": "00:14:15.079",
+        "fin": "00:14:17.710"
+      }
+    },
+    {
+      "id": "111-002",
+      "titulo": "Un combate descontrolado entre compañeros",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "El duelo de Gur y Gelbreak usa parálisis y miedo. La orden del drow hace que Gur golpee a Calista; Banzo lo contiene. Ella recibe otro golpe al interponerse y termina paralizando al campeón para frenar la furia. El drow había dañado a Gur con magia.",
+      "inicio": "00:16:00.000",
+      "fin": "00:49:00.000",
+      "entidades": [
+        "Gur (grafía provisional)",
+        "Hermano de Danifae (nombre pendiente)",
+        "Calista",
+        "Banzo",
+        "Guxi (grafía provisional)"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "Se limita a las acciones y declaraciones mostradas en la sesión.",
+      "cita": "para aquí y te voy a atacar con normal",
+      "evidencia_cue": {
+        "inicio": "00:24:05.039",
+        "fin": "00:24:07.830"
+      }
+    },
+    {
+      "id": "111-003",
+      "titulo": "Condolencias y voces de sucesión",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Los compañeros presentan sus respetos. Calista ofrece flores, perlas y apoyo, Gur su ayuda y Banzo su lealtad. La clarividencia del goliat permite oír posiciones de nobles sobre la sucesión, sin decidir aún el resultado.",
+      "inicio": "01:14:00.000",
+      "fin": "01:26:00.000",
+      "entidades": [
+        "Shogun de Kuroto",
+        "Rua (grafía provisional)",
+        "Calista",
+        "Gur (grafía provisional)",
+        "Banzo"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "Se limita a las acciones y declaraciones mostradas en la sesión.",
+      "cita": "la sucesión del",
+      "evidencia_cue": {
+        "inicio": "01:21:24.920",
+        "fin": "01:21:26.790"
+      }
+    },
+    {
+      "id": "111-004",
+      "titulo": "El pájaro que Guxi entrega a Rua",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Rua consuela a Guxi y lo anima a continuar. Él entrega el pájaro mecánico que lo vinculó al difunto y promete apoyarla; ella anticipa que necesitará ayuda con los nobles.",
+      "inicio": "01:26:00.000",
+      "fin": "01:33:30.000",
+      "entidades": [
+        "Guxi (grafía provisional)",
+        "Rua (grafía provisional)",
+        "Shogun de Kuroto",
+        "Pájaro mecánico de Guxi"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "Se limita a las acciones y declaraciones mostradas en la sesión.",
+      "cita": "le le acerca esa figura de madera. es de",
+      "evidencia_cue": {
+        "inicio": "01:30:15.760",
+        "fin": "01:30:19.189"
+      }
+    },
+    {
+      "id": "111-005",
+      "titulo": "Apoyos y ambiciones en la nobleza",
+      "tipo": "explicacion_director",
+      "afirmacion": "Tamai prioriza pueblo y economía, Ayuko la apoya, Nori protege beneficio; Shai y Montaro apoyan a Rua, Fumuki prioriza su clan. Un militar puede postularse y Yuichi condiciona su posición a la economía. No hay sucesor elegido.",
+      "inicio": "01:35:00.000",
+      "fin": "02:29:00.000",
+      "entidades": [
+        "Tamai Anari (grafía provisional)",
+        "Ayuko (grafía provisional)",
+        "Shai (grafía provisional)",
+        "Montaro (grafía provisional)",
+        "Fumuki (grafía provisional)",
+        "Yuichi, comerciante naval (grafía provisional)",
+        "Isoko (grafía provisional)",
+        "Hanae (grafía provisional)",
+        "Rua (grafía provisional)"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "Posiciones expuestas en conversación y por el director, sin elección ni alianzas definitivas.",
+      "cita": "Montaro,",
+      "evidencia_cue": {
+        "inicio": "02:16:12.239",
+        "fin": "02:16:14.069"
+      }
+    },
+    {
+      "id": "111-006",
+      "titulo": "Nomi amenaza con disolver la orden",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Inducido por la broma de Calista, Gur aborda al noble Nomi Kazuki como si fuera diplomacia. Este anuncia que disolverá a los cazadores cuando gobierne. Gur lo agarra, pero lo suelta ante guardia y mensaje de Calista. Después el susurro del drow hace huir al noble.",
+      "inicio": "01:42:00.000",
+      "fin": "02:14:00.000",
+      "entidades": [
+        "Nomi Kazuki (grafía provisional)",
+        "Gur (grafía provisional)",
+        "Calista",
+        "Hermano de Danifae (nombre pendiente)"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "Se limita a las acciones y declaraciones mostradas en la sesión.",
+      "cita": "lo voy a disolver. Esos inútiles no",
+      "evidencia_cue": {
+        "inicio": "01:51:24.320",
+        "fin": "01:51:27.030"
+      }
+    },
+    {
+      "id": "111-007",
+      "titulo": "Banzo se ofrece escolta y pide permiso para Sun",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Rua acepta hablar con Banzo de su ofrecimiento como escolta tras el luto y concede permiso a Sun para acudir a rendir respeto. Fumuki invita a Banzo a una cena después de esos días.",
+      "inicio": "01:45:00.000",
+      "fin": "02:33:00.000",
+      "entidades": [
+        "Rua (grafía provisional)",
+        "Banzo",
+        "Fumuki (grafía provisional)"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "Se limita a las acciones y declaraciones mostradas en la sesión.",
+      "cita": "escolta tuyo hasta que se decida qué va",
+      "evidencia_cue": {
+        "inicio": "01:45:58.280",
+        "fin": "01:46:01.310"
+      }
+    },
+    {
+      "id": "111-008",
+      "titulo": "Guxi rechaza cambiar de lealtad por dinero",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Yuichi exige resolver la crisis y ofrece contratar a Calista y Guxi con mejores ingresos. El artífice rechaza cambiar su lealtad a Rua por dinero; no se formaliza ese contrato.",
+      "inicio": "02:20:00.000",
+      "fin": "02:29:00.000",
+      "entidades": [
+        "Yuichi, comerciante naval (grafía provisional)",
+        "Isoko (grafía provisional)",
+        "Hanae (grafía provisional)",
+        "Calista",
+        "Guxi (grafía provisional)",
+        "Rua (grafía provisional)"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "Se limita a las acciones y declaraciones mostradas en la sesión.",
+      "cita": "rechazar su oferta. Mi lealtad no está",
+      "evidencia_cue": {
+        "inicio": "02:26:48.120",
+        "fin": "02:26:50.309"
+      }
+    },
+    {
+      "id": "111-009",
+      "titulo": "Polimorfar falla y Calista huye aterrada",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "En privado Calista intenta polimorfar al drow tras discutir su uso de trucos con nobles. El hechizo falla y el director le comunica información no reproducida en el texto. La barda huye horrorizada; los otros ven su fuga, no el contenido privado.",
+      "inicio": "02:39:00.000",
+      "fin": "02:48:00.000",
+      "entidades": [
+        "Calista",
+        "Hermano de Danifae (nombre pendiente)",
+        "Gur (grafía provisional)",
+        "Banzo",
+        "Guxi (grafía provisional)"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "Calista",
+        "Hermano de Danifae (nombre pendiente)",
+        "Los otros solo ven la huida"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "El contenido privado no está en la fuente. No se identifica forma, deidad o naturaleza oculta.",
+      "cita": "crea una cara de horror en el rostro y",
+      "evidencia_cue": {
+        "inicio": "02:45:05.720",
+        "fin": "02:45:09.269"
+      }
+    }
+  ],
+  "historia": {
+    "revisado_hasta": 111,
+    "etapas": [
+      {
+        "titulo": "Campanas de muerte",
+        "texto": "Las campanas anuncian la muerte del shogun. Tras cerrar las puertas durante la mañana, la capital permite al anochecer que la población presente sus respetos. El hambre de la crisis añade cansancio a unos cazadores ya agotados. Guxi está especialmente abatido: recuerda que el gobernante le salvó la vida veinte años atrás, cuando vendía juguetes, y conserva un pequeño pájaro mecánico de aquel día. Banzo intenta consolarlo sin reducirlo a un simple trámite de palacio. Calista prepara con los demás una ofrenda floral y recibe de su corte un presente de perlas para el difunto. Gur ha ayudado en aldeas y llevado al herrero los metales seguros. Deben acudir juntos, pero otra disputa retrasa la salida.",
+        "referencias": [
+          "111-001"
+        ]
+      },
+      {
+        "titulo": "Un duelo que hiere a quien mira",
+        "texto": "Gur y Gelbreak se retan fuera de la base. El drow usa parálisis y miedo, que hace aparecer ante el campeón la figura de su padre. Gur acaba rompiendo la concentración con jabalinas y llega hasta él. Gelbreak lanza entonces una orden de atacar hacia los espectadores. Gur golpea a Calista, que cae herida: el bardo dirá después que señalaba a Banzo, pero la selección del blanco ya ha tenido consecuencias. El goliat contiene a su maestro para impedir otro golpe y Guxi intenta intervenir. El drow vuelve a paralizar a Gur y daña su piel con magia. Al liberarlo, la respuesta del campeón lo deja en el suelo. Calista recibe otro golpe al interponerse y termina paralizando a Gur mientras frena también al drow. Dejan pasar la furia y la pelea acaba sin otra muerte.",
+        "referencias": [
+          "111-002"
+        ]
+      },
+      {
+        "titulo": "Vestirse para acompañar a Rua",
+        "texto": "Guxi repara ropa y Calista arregla con una ilusión el aspecto de Gur para la ceremonia. El campeón interpreta diplomacia como el nombre de alguien a quien deben encontrar. Por el camino la modista comparte rumores de nobles que quieren aprovechar la muerte para disputar el poder a Rua. Los compañeros hablan de apoyar un gobierno estable; no pretenden resolverlo con otro duelo. La cola del funeral les da tiempo para escuchar el dolor de Guxi y animarlo a continuar el legado de quien admiraba. En el jardín trasero del palacio esperan el ataúd, Rua, guardias y nobles. La viuda no consigue ocultar su tristeza.",
+        "referencias": [
+          "111-001",
+          "111-003"
+        ]
+      },
+      {
+        "titulo": "Respetos y compromisos",
+        "texto": "Calista deposita flores y perlas, abraza a Rua y ofrece compañía. Gur procura hablar bajo y compromete su ayuda; ella agradece el trabajo que hace por los aldeanos. Banzo usa clarividencia para oír a los nobles antes de acercarse: algunos apoyan a Rua provisionalmente, otros reclaman derechos de sangre o consideran una dirección militar. El goliat expresa su lealtad mediante el collar de cazador, que Rua le devuelve porque pertenece a él. Guxi tarda en llegar al féretro y culpa a su propia insuficiencia. Rua le recuerda el respeto que le tenía su esposo y lo anima a levantarse. El artífice entrega el pájaro mecánico como símbolo de aquel rescate y jura ayudarla. Gelbreak presenta unas condolencias mucho más sobrias.",
+        "referencias": [
+          "111-003",
+          "111-004"
+        ]
+      },
+      {
+        "titulo": "Una sucesión con varios intereses",
+        "texto": "Calista conversa con los distintos grupos y obtiene un panorama desigual. Tamai Anari defiende ayudar al pueblo para sostener el ejército y Ayuko la respalda con una inclinación estratégica. Nori protege sobre todo el beneficio y la posición de su clan. Shai apoya a Rua; Fumuki prioriza su casa. Montaro se mantiene fiel al legado del difunto y respalda a la viuda, mientras un alto militar podría postularse si reuniera apoyo. El comerciante naval Yuichi no se presenta abiertamente, pero condiciona su respaldo a solucionar la economía. Isoko lo acompaña y Hanae conserva una actitud hostil hacia Calista. Las conversaciones describen intereses y posibilidades, no una votación consumada.",
+        "referencias": [
+          "111-005"
+        ]
+      },
+      {
+        "titulo": "La mala broma de diplomacia",
+        "texto": "Calista aprovecha la confusión de Gur para señalarle al noble vestido de verde como si fuese la persona llamada diplomacia, y le advierte de que sabe mentir. El hombre se identifica como Nomi Kazuki. Se irrita al ser interpelado y anuncia que, cuando sea shogun, disolverá a los cazadores por inútiles y costosos. Gur intenta llevárselo y un guardia le exige soltarlo para no acabar preso. Calista le manda obedecer y evita que siga, pero el agravio ya se ha producido. Ella habla luego con el noble y defiende los servicios del campeón. Gelbreak se acerca a susurrarle algo; el hombre huye. La advertencia de que no utilice esos trucos contra nobles quedará para una discusión posterior.",
+        "referencias": [
+          "111-006"
+        ]
+      },
+      {
+        "titulo": "Una escolta y vínculos nuevos",
+        "texto": "Banzo vuelve ante Rua para ofrecerse como escolta durante la incertidumbre. Ella acepta que regrese a tratarlo cuando terminen los días de luto. A petición suya concede también permiso para que Sun pueda presentar sus respetos, pese a la restricción anterior. Calista presenta al goliat a Fumuki, que comparte comida con él y lo invita a visitarla para una cena después del duelo. Gur se sienta a comer y a relatar batallas. En otra conversación, Calista acompaña a Guxi ante Yuichi, que exige resultados contra la crisis y ofrece contratarlos con mejores ingresos. Guxi rechaza cambiar su lealtad por dinero. Los guardias anuncian el cambio de turno y los cazadores vuelven a la base.",
+        "referencias": [
+          "111-007",
+          "111-008"
+        ]
+      },
+      {
+        "titulo": "Lo que solo Calista alcanza a ver",
+        "texto": "Al terminar la jornada Calista lleva a Gelbreak a una habitación para recriminarle que haya usado magia con el noble. Él defiende que empleará sus trucos para sus fines y se burla de los de ella. La barda intenta convertirlo en cangrejo con polimorfar. El hechizo no tiene efecto. El director muestra entonces a la jugadora información o una imagen en privado, ausente de esta transcripción. La reacción pública de Calista es inequívoca: retrocede horrorizada y huye de la habitación y de la base. Gur, Banzo y Guxi solo presencian la salida aterrada y al drow en la puerta. No puede deducirse de ese testimonio público qué forma vio ni qué identidad revela. El episodio termina ahí, sin explicación compartida ni resolución de la disputa.",
+        "referencias": [
+          "111-009"
+        ]
+      }
+    ]
+  },
+  "misiones": [
+    "Presentar respeto al shogun y apoyar a Rua: realizado.",
+    "Preparar escolta de Rua: ofrecimiento aceptado para tratarlo tras el luto.",
+    "Obtener permiso funerario de Sun: concedido.",
+    "Comprender el horror de Calista: pendiente, información privada no reproducida."
+  ],
+  "preguntas": [
+    "¿Quién gobernará y cómo responderán los clanes a la sucesión?",
+    "¿Qué ocurrió en privado para que Calista huyera aterrada de Gelbreak?",
+    "¿Cuándo se formalizará la escolta ofrecida por Banzo?",
+    "¿Cómo se resolverá la crisis económica que condiciona el apoyo de Yuichi?"
+  ],
+  "nombres_dudosos": [
+    "Nomi Kazuki: nombre del noble de verde, sin fusionar automáticamente con el Nomi de otra escena.",
+    "Tamaya Henry/Tamai Anari y Fukumi/Fumuki: variantes de los nombres de nobles ya presentados; se conserva el nombre de ficha por continuidad de rol.",
+    "Hanae se identifica como amiga del matrimonio comercial; no se fusiona con Jonae solo por sonido.",
+    "El director confunde Jin/Gur/Guxi durante el pésame y lo corrige: el artífice presente es Guxi."
+  ],
+  "contradicciones": [
+    "El duelo comienza como entretenimiento pero alcanza a Calista dos veces y requiere intervención.",
+    "Gelbreak dice que señalaba a Banzo; el blanco efectivamente golpeado por la orden es Calista.",
+    "El fallo de polimorfar y la huida no permiten reconstruir el contenido privado mostrado.",
+    "El permiso de Sun es para presentar respeto, no una readmisión general."
+  ]
+}

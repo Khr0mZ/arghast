@@ -1,0 +1,388 @@
+{
+  "capitulo": 127,
+  "estado_revision": "revisado",
+  "fuente_sha256": "ff8404b32d148ec9b534331a211b97745770a6a9e2911cd43e5f3a522d213f04",
+  "resumen": "Calista intenta preparar el viaje que habrá de cortar la maldición y dar a los cazadores una responsabilidad compartida: cuenta que Sirth ya firmó y sigue buscando un líder. La calle reúne a Kazuki, Guxi, Gelbreak y la tritona hasta que los gritos de una taberna desvían sus planes. Serafina, capitana harengon y pirata según se presenta, bebe furiosa tras un motín que la habría dejado sola en una barca. Kazuki aparta a curiosos y le compra una botella para conversar sin destrozos. Guxi, transformado en murciélago, se posa en ella y se deja llevar por el encuentro antes de que los demás sepan quién es. Calista encuentra una utilidad que hasta entonces faltaba: alguien que sepa gobernar barcos. Ofrece a Serafina un contrato y la capitana acepta, aunque la borrachera dificulta leerlo por completo. Después exige firmar a Gelbreak y Kazuki. Explica que no puede defender jurídicamente a colaboradores ajenos mientras sus incidentes deterioran la imagen de los cazadores. El drow protesta, pero la marca que ha dejado uno de esos conflictos en Calista pesa más que su resistencia. Firma y se pone el collar; Kazuki también firma y ofrece provisiones y la presentación de un conocido que patrulla contra ataques nocturnos. La entrada en la organización no resuelve aún el liderazgo ni el viaje al dominio de Lolth. Kazuki reconoce por sus pensamientos a Guxi dentro del murciélago y acaba revelándolo. El animal pasa de mano en mano hasta la tienda de Tsugami, donde la modista intenta quitarle una supuesta maldición. El golpe que recibe su forma diminuta lo devuelve a humano. Mientras Calista recoge un encargo y Serafina se prueba ropa, el ingeniero intenta usar un ojo arcano para espiar. Gelbreak lo descubre, exige una explicación y avisa a las mujeres. Guxi cancela la magia y Calista lo reprende. La visita continúa con un gorro adaptado a las orejas de la capitana, adornos marinos, una perla y croquetas de regalo. Serafina deja nuevos encargos y promesas antes de aceptar conocer el barco de Guxi. El encargado del puerto rompe la distensión con una noticia: el shogunato se ha llevado la gran piedra del barco y ha dejado la nave donde estaba. Guxi pierde el color y pide a Calista que averigüe el destino del objeto. Ella no había escuchado el asunto en palacio y se compromete a preguntar. El permiso de salida sigue adelante, con firma y obligación de regresar. El grupo embarca en una nave de madera transformada por metal, motores y caldera. Guxi explica que necesitó ayuda de Archi, Jin, Kurobane y sus constructos para terminarla. El paseo se mantiene cerca de la costa del mar de Kyushi, pero Gelbreak y Kazuki lo sufren por el mareo. Serafina da nombre al proyecto: Perdición Metálica. Lo celebra disparando el cañón, pese a la oposición de Gelbreak y a la intervención de Calista para impedir que lo destruya. El ruido altera a Kazuki de una manera más honda que el mareo. Vuela, prepara el arco y necesita recordar que el estampido no lo ha devuelto al campo de batalla; cuenta su trauma relacionado con la guerra. Gelbreak intenta repetir el sonido mediante magia y recibe un contraconjuro. Calista desaprueba la broma y sigue pendiente del malestar de los viajeros. El nombre queda, pero el paseo descubre también vulnerabilidades que los demás desconocían. Guxi lleva a Serafina a la cabina para enseñarle los mandos y el coqueteo ocupa su atención. Calista decide abandonar la cubierta hacia el agua, empuja también a Gelbreak y lo acompaña sobre una ola de regreso a Kuroto. Kazuki elige quedarse en el barco, todavía enfermo, y no logra celebrar la conversación que quería tener con la tritona. Una palanca accionada en la cabina hace que Perdición Metálica salga a gran velocidad; el noble consigue sujetarse mientras la cámara se aleja. Los nuevos contratos están firmados y el barco ya tiene nombre, pero falta mostrar su vuelta al puerto y sigue pendiente encontrar la piedra confiscada.",
+  "afirmaciones": [
+    {
+      "id": "127-001",
+      "titulo": "Contratos ante la pérdida de reputación",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Calista cuenta que sigue buscando apoyos para Rua y un modo de viajar al dominio de Lolth para cortar la maldición. Explica que hizo firmar a Sirth como cazador y quiere extender los contratos a colaboradores que causan incidentes sin estar afiliados. También busca un líder; no se confirma un nombramiento.",
+      "inicio": "00:00:00.120",
+      "fin": "00:09:00.670",
+      "cita": "firmar a Sid el contrato de los",
+      "entidades": [
+        "Calista",
+        "Rua (grafía provisional)",
+        "Sirth (grafía provisional)",
+        "Cazadores de Kuroto",
+        "Gelbreak (grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 127",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "127-002",
+      "titulo": "Serafina irrumpe en la taberna",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Los gritos de la taberna atraen a Kazuki, Calista y Gelbreak. Allí Serafina, una capitana harengon ebria, dice que su tripulación la abandonó en una barca y que remó hasta una isla que no conocía. Despotrica y golpea la mesa. Guxi llega transformado en murciélago y se posa en su hombro; los demás no lo reconocen inmediatamente.",
+      "inicio": "00:09:00.680",
+      "fin": "00:18:00.430",
+      "cita": "Me dejaron en una barquita en medio de",
+      "entidades": [
+        "Serafina Hop (grafía provisional)",
+        "Kazuki",
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Guxi",
+        "Taberna de Ushi (grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 127",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "127-003",
+      "titulo": "Una botella para calmar el conflicto",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Kazuki aparta a los curiosos y propone a Serafina una conversación a cambio de bebida. Paga tres monedas de oro por una botella y consigue que disminuya el alboroto. Calista exige a Gelbreak participar sin apuñalar a nadie, pero este deja que Kazuki lleve el diálogo. Guxi intenta apropiarse de monedas en su forma de murciélago y es descubierto.",
+      "inicio": "00:18:00.440",
+      "fin": "00:33:02.389",
+      "cita": "Deme una botella.",
+      "entidades": [
+        "Kazuki",
+        "Serafina Hop (grafía provisional)",
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Guxi",
+        "Taberna de Ushi (grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 127",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "127-004",
+      "titulo": "Un nuevo perfil para los cazadores",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Serafina se presenta como la Tempestad y capitana pirata, y atribuye su llegada al abandono de sus antiguos compañeros. Calista ve utilidad en una navegante para los cazadores y le ofrece un contrato. La capitana lo lee con dificultad por la embriaguez y acepta firmarlo. Sus relatos sobre la tripulación quedan como declaraciones suyas, sin verificar todos sus detalles.",
+      "inicio": "00:30:01.480",
+      "fin": "00:45:02.430",
+      "cita": "Piratas.",
+      "entidades": [
+        "Serafina Hop (grafía provisional)",
+        "Calista",
+        "Cazadores de Kuroto"
+      ],
+      "ambito": "Kuroto, sesión 127",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "127-005",
+      "titulo": "Gelbreak y Kazuki ingresan",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Calista pide contratos también a Gelbreak y Kazuki para poder responder administrativamente por quienes actúan junto a los cazadores. Gelbreak protesta, pero firma y se pone el collar. Kazuki firma Kazuki Noe y ofrece presentar a un amigo que patrulla contra los ataques nocturnos. Declara que puede aportar provisiones desde su hacienda de Jakajara.",
+      "inicio": "00:45:02.440",
+      "fin": "01:00:00.630",
+      "cita": "Justo cuando vas a firmarlo, ves que el",
+      "entidades": [
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Kazuki",
+        "Cazadores de Kuroto",
+        "Jakajara (grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 127",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "127-006",
+      "titulo": "El murciélago deja de ocultar a Guxi",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Kazuki detecta pensamientos, reconoce por la voz interior a Guxi y revela que el murciélago es el ingeniero. Los demás lo mantienen consigo y lo llevan a la tienda de Tsugami. La modista cree que está maldito, lo besa y finalmente golpea al pequeño animal sobre la mesa: al perder su vida de murciélago, Guxi recupera su forma humana. No se demuestra una maldición real.",
+      "inicio": "00:48:01.839",
+      "fin": "01:18:01.510",
+      "cita": "no, no, no es es el polymorf. El",
+      "entidades": [
+        "Kazuki",
+        "Guxi",
+        "Serafina Hop (grafía provisional)",
+        "Calista",
+        "Tsugami (grafía provisional)",
+        "Tienda de Tsugami"
+      ],
+      "ambito": "Kuroto, sesión 127",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "127-007",
+      "titulo": "El probador y el ojo arcano",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Tsugami entrega a Calista su encargo y toma medidas a Serafina. Mientras se cambian, Guxi intenta utilizar un ojo arcano para espiar. Gelbreak advierte el conjuro, lo interroga y avisa a Calista; el ingeniero cancela la magia. La tritona lo reprende. No se registra que logre ver a las mujeres en el probador.",
+      "inicio": "01:18:01.520",
+      "fin": "01:36:02.910",
+      "cita": "el ojo arcano,",
+      "entidades": [
+        "Tsugami (grafía provisional)",
+        "Calista",
+        "Serafina Hop (grafía provisional)",
+        "Guxi",
+        "Gelbreak (grafía provisional)",
+        "Tienda de Tsugami"
+      ],
+      "ambito": "Kuroto, sesión 127",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "127-008",
+      "titulo": "La capitana encuentra un gorro adecuado",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Tsugami adapta un gorro para las orejas de Serafina y lo adorna con material marino y una perla. La capitana elogia el trabajo, encarga otro atuendo y promete conseguirle un marido rico cuando recupere su barco. La modista la obsequia con veinte croquetas. Guxi invita a Serafina a visitar la nave que ha construido.",
+      "inicio": "01:33:01.040",
+      "fin": "01:48:00.990",
+      "cita": "las orejas me cuestan un poco de",
+      "entidades": [
+        "Tsugami (grafía provisional)",
+        "Serafina Hop (grafía provisional)",
+        "Guxi",
+        "Gorro de Serafina",
+        "Tienda de Tsugami"
+      ],
+      "ambito": "Kuroto, sesión 127",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "127-009",
+      "titulo": "La piedra ha pasado al shogunato",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "En el puerto, el encargado informa a Guxi de que el shogunato se ha llevado una gran piedra de su barco y ha dejado la nave allí. El ingeniero se alarma y pide a Calista averiguar dónde la han llevado; ella promete preguntar porque no había oído hablar del asunto en palacio. Guxi consigue y firma un permiso para una salida con obligación de regresar.",
+      "inicio": "01:48:01.000",
+      "fin": "02:00:00.990",
+      "cita": "¿Sabes quién se llevó esa piedra?",
+      "entidades": [
+        "Guxi",
+        "Calista",
+        "Piedra retirada del barco de Guxi",
+        "Puerto de Sho",
+        "Shogunato de Kuroto"
+      ],
+      "ambito": "Kuroto, sesión 127",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "127-010",
+      "titulo": "Un barco de metal y máquinas",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "El grupo sube al barco de Guxi, hecho sobre una base de madera recubierta de metal, con caldera y motores. Navegan cerca de la costa por el mar de Kyushi. Gelbreak y Kazuki se marean; los cambios involuntarios en la piel del segundo acompañan el malestar. Guxi ofrece a Serafina probar el timón y el cañón.",
+      "inicio": "02:00:01.000",
+      "fin": "02:09:00.669",
+      "cita": "gusta llamarla, también llamada caldera.",
+      "entidades": [
+        "Guxi",
+        "Serafina Hop (grafía provisional)",
+        "Gelbreak (grafía provisional)",
+        "Kazuki",
+        "Barco Perdición Metálica",
+        "Mar de Kyushi (grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 127",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "127-011",
+      "titulo": "Un disparo y un nombre",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Calista impide que Gelbreak desintegre el cañón, enfadado por el ruido y el posible peligro. Serafina bautiza la nave Perdición Metálica y dispara. Kazuki reacciona con alarma, vuela y prepara el arco antes de reconocer que no está de nuevo en la guerra; explica la relación del sonido con un trauma. Gelbreak intenta repetir el estruendo con magia y el noble lo contrarresta.",
+      "inicio": "02:09:00.679",
+      "fin": "02:18:02.549",
+      "cita": "perdición, ¿te parece? Misfortun",
+      "entidades": [
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Serafina Hop (grafía provisional)",
+        "Kazuki",
+        "Barco Perdición Metálica"
+      ],
+      "ambito": "Kuroto, sesión 127",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "127-012",
+      "titulo": "Un proyecto construido con ayuda",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Guxi explica que construyó la nave en alrededor de semana y media, ayudado por Archi, Jin, Kurobane por un tiempo y sus constructos. Lleva a Serafina a la cabina, le explica los mandos y la invita a aumentar velocidad. La escena desarrolla coqueteo y deja su intimidad fuera de descripción explícita.",
+      "inicio": "02:18:02.559",
+      "fin": "02:27:02.429",
+      "cita": "Archi, Jin, algunos cazadores",
+      "entidades": [
+        "Guxi",
+        "Archi",
+        "Jin",
+        "Kurobane (grafía provisional)",
+        "Serafina Hop (grafía provisional)",
+        "Barco Perdición Metálica"
+      ],
+      "ambito": "Kuroto, sesión 127",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "127-013",
+      "titulo": "Unos vuelven sobre las olas",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Calista utiliza viento para arrojarse al agua y acaba empujando también a Gelbreak, que caminaba protegido sobre la superficie. Ofrece a Kazuki ir con ellos, pero él permanece a bordo. La tritona conduce una ola para devolver a los dos hacia Kuroto. Su conversación pendiente con el noble no se desarrolla.",
+      "inicio": "02:27:02.439",
+      "fin": "02:36:02.469",
+      "cita": "se queda aguantando así para aguantar",
+      "entidades": [
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Kazuki",
+        "Mar de Kyushi (grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 127",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "127-014",
+      "titulo": "La nave acelera y el regreso no se muestra",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "En la cabina, Serafina acciona accidentalmente una palanca durante su encuentro con Guxi. El barco acelera y Kazuki, todavía mareado, logra sujetarse. La cámara se aleja mientras Calista y Gelbreak vuelven por el mar y la nave sigue con los otros tres; no se escenifica su retorno al puerto ni se recupera la piedra.",
+      "inicio": "02:33:00.760",
+      "fin": "02:38:54.520",
+      "cita": "la palanca. Si tira la palanca, te vas a",
+      "entidades": [
+        "Serafina Hop (grafía provisional)",
+        "Guxi",
+        "Kazuki",
+        "Barco Perdición Metálica",
+        "Piedra retirada del barco de Guxi"
+      ],
+      "ambito": "Kuroto, sesión 127",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    }
+  ],
+  "historia": {
+    "revisado_hasta": 127,
+    "etapas": [
+      {
+        "titulo": "Una capitana en medio del alboroto",
+        "texto": "Calista intenta preparar el viaje que habrá de cortar la maldición y dar a los cazadores una responsabilidad compartida: cuenta que Sirth ya firmó y sigue buscando un líder. La calle reúne a Kazuki, Guxi, Gelbreak y la tritona hasta que los gritos de una taberna desvían sus planes. Serafina, capitana harengon y pirata según se presenta, bebe furiosa tras un motín que la habría dejado sola en una barca. Kazuki aparta a curiosos y le compra una botella para conversar sin destrozos. Guxi, transformado en murciélago, se posa en ella y se deja llevar por el encuentro antes de que los demás sepan quién es.",
+        "referencias": [
+          "127-001",
+          "127-002",
+          "127-003"
+        ]
+      },
+      {
+        "titulo": "Tres firmas para ampliar la compañía",
+        "texto": "Calista encuentra una utilidad que hasta entonces faltaba: alguien que sepa gobernar barcos. Ofrece a Serafina un contrato y la capitana acepta, aunque la borrachera dificulta leerlo por completo. Después exige firmar a Gelbreak y Kazuki. Explica que no puede defender jurídicamente a colaboradores ajenos mientras sus incidentes deterioran la imagen de los cazadores. El drow protesta, pero la marca que ha dejado uno de esos conflictos en Calista pesa más que su resistencia. Firma y se pone el collar; Kazuki también firma y ofrece provisiones y la presentación de un conocido que patrulla contra ataques nocturnos. La entrada en la organización no resuelve aún el liderazgo ni el viaje al dominio de Lolth.",
+        "referencias": [
+          "127-004",
+          "127-005"
+        ]
+      },
+      {
+        "titulo": "Visita a la modista y una intimidad defendida",
+        "texto": "Kazuki reconoce por sus pensamientos a Guxi dentro del murciélago y acaba revelándolo. El animal pasa de mano en mano hasta la tienda de Tsugami, donde la modista intenta quitarle una supuesta maldición. El golpe que recibe su forma diminuta lo devuelve a humano. Mientras Calista recoge un encargo y Serafina se prueba ropa, el ingeniero intenta usar un ojo arcano para espiar. Gelbreak lo descubre, exige una explicación y avisa a las mujeres. Guxi cancela la magia y Calista lo reprende. La visita continúa con un gorro adaptado a las orejas de la capitana, adornos marinos, una perla y croquetas de regalo. Serafina deja nuevos encargos y promesas antes de aceptar conocer el barco de Guxi.",
+        "referencias": [
+          "127-006",
+          "127-007",
+          "127-008"
+        ]
+      },
+      {
+        "titulo": "Un barco disponible y una piedra desaparecida",
+        "texto": "El encargado del puerto rompe la distensión con una noticia: el shogunato se ha llevado la gran piedra del barco y ha dejado la nave donde estaba. Guxi pierde el color y pide a Calista que averigüe el destino del objeto. Ella no había escuchado el asunto en palacio y se compromete a preguntar. El permiso de salida sigue adelante, con firma y obligación de regresar. El grupo embarca en una nave de madera transformada por metal, motores y caldera. Guxi explica que necesitó ayuda de Archi, Jin, Kurobane y sus constructos para terminarla. El paseo se mantiene cerca de la costa del mar de Kyushi, pero Gelbreak y Kazuki lo sufren por el mareo.",
+        "referencias": [
+          "127-009",
+          "127-010",
+          "127-012"
+        ]
+      },
+      {
+        "titulo": "Perdición Metálica y la memoria de la guerra",
+        "texto": "Serafina da nombre al proyecto: Perdición Metálica. Lo celebra disparando el cañón, pese a la oposición de Gelbreak y a la intervención de Calista para impedir que lo destruya. El ruido altera a Kazuki de una manera más honda que el mareo. Vuela, prepara el arco y necesita recordar que el estampido no lo ha devuelto al campo de batalla; cuenta su trauma relacionado con la guerra. Gelbreak intenta repetir el sonido mediante magia y recibe un contraconjuro. Calista desaprueba la broma y sigue pendiente del malestar de los viajeros. El nombre queda, pero el paseo descubre también vulnerabilidades que los demás desconocían.",
+        "referencias": [
+          "127-010",
+          "127-011"
+        ]
+      },
+      {
+        "titulo": "Dos regresos distintos y un favor que espera",
+        "texto": "Guxi lleva a Serafina a la cabina para enseñarle los mandos y el coqueteo ocupa su atención. Calista decide abandonar la cubierta hacia el agua, empuja también a Gelbreak y lo acompaña sobre una ola de regreso a Kuroto. Kazuki elige quedarse en el barco, todavía enfermo, y no logra celebrar la conversación que quería tener con la tritona. Una palanca accionada en la cabina hace que Perdición Metálica salga a gran velocidad; el noble consigue sujetarse mientras la cámara se aleja. Los nuevos contratos están firmados y el barco ya tiene nombre, pero falta mostrar su vuelta al puerto y sigue pendiente encontrar la piedra confiscada.",
+        "referencias": [
+          "127-012",
+          "127-013",
+          "127-014"
+        ]
+      }
+    ]
+  },
+  "misiones": [
+    "Reclutar a Serafina, Kazuki y Gelbreak: contratos firmados y bienvenida a los cazadores.",
+    "Preparar el viaje para cortar los hilos: continúan los preparativos; no se realiza aquí.",
+    "Localizar la piedra llevada por el shogunato: Calista promete investigar.",
+    "Probar el barco: paseo iniciado y bautizo realizado; regreso al puerto no escenificado.",
+    "Presentar al patrullero conocido de Kazuki: ofrecido, sin encuentro mostrado."
+  ],
+  "preguntas": [
+    "¿Dónde ha llevado el shogunato la piedra y qué pretende hacer con ella?",
+    "¿Quién es el amigo de Kazuki que patrulla contra los ataques nocturnos?",
+    "¿Se concreta el viaje al dominio de Lolth para cortar la maldición?",
+    "¿Regresa Perdición Metálica al puerto conforme al permiso?"
+  ],
+  "nombres_dudosos": [
+    "Serafina la Tempestad Hop / Lop / Jop: se conserva Serafina Hop provisionalmente.",
+    "Tsugami / Sugami / Chugami: modista de Sho, grafía por contrastar.",
+    "Ushi / Usi / Uxi: tabernero, distinto del artífice Guxi.",
+    "Kazuki firma como Kazuki Noe en el reconocimiento; apellido por verificar.",
+    "Kyushi: grafía provisional del mar occidental de Kuroto."
+  ],
+  "contradicciones": [
+    "Serafina cuenta su motín y episodios piratas estando ebria; sus relatos se mantienen como declaraciones y no como pruebas de todo su pasado.",
+    "La intimidad en la cabina se deja fuera de plano; no se añaden detalles ni consecuencias no narradas.",
+    "Los anillos de Calista y Gelbreak llevan a Serafina a bromear con matrimonio, pero ambos niegan ser esposos: no se registra una boda.",
+    "El propietario afirma que el barco conserva una base de madera bajo metal y maquinaria; no se trata como un casco íntegramente metálico por su apariencia."
+  ]
+}

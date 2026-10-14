@@ -1,0 +1,667 @@
+# Kuroto · Capítulo 136: Las Votaciones
+
+[00:00:00.000] Y nada, bienvenidos al capítulo número 136 de los one shots alargados de Kuroto. Y nada, hoy vais a elegir Shogun. Así que... Bueno, vais a elegir. Vais a votar, ir a una cena con esos nobles, a ver si podéis hacer algunos últimos movimientos, y a ver si ellos también han hecho algunos últimos movimientos, a ver qué ha pasado por la corte esta semana. Y en teoría votaréis cada uno.
+
+[00:00:31.520] Podréis votar en privado o podéis decir vuestro voto, eso ya lo veremos para el final. Y nada, pues vamos a empezar, como siempre, con una pequeña crisis. ¿Dónde está? Ay, ya empezamos. Cómo me gusta esta pequeña misión del Call of Duty. Uh, tenéis desventaja en las tiradas de Constitución. Estáis un poquito enfermos. Vale, me cuadra perfecto con la imagen que te he pasado.
+
+[00:01:04.750] No quiero preguntar. Os pondré en contexto antes de la imagen. Sí, sí, ahora os pregunto y después os pongo la imagen a ver qué vais a estar haciendo. Vale, pues como siempre vamos a empezar con Maroxi, que nos va a contar qué ha estado haciendo Maroxi esta última semana, desde el último baile. Bueno, pues me habían dado un vial con sangre de un dragón.
+
+[00:01:29.460] Y he estado investigando por los libros de las bibliotecas, de la biblioteca del Sogonato, la nuestra, e incluso por los bajos fondos para ver qué utilidad se le puede dar a este vial. Entonces he estado un poco ocupado recopilando información por ese lado, además de visitar cierto edificio, un tanto controversial respecto a su nivel económico.
+
+[00:01:56.140] Y no he podido dejar de lado a una mujer que me cautivó en el último baile. Vale, pues tira tu tabla, Maroxi, que tú tienes tabla de alquimista. Aquí en los baile liga todo el mundo. Uff, pues recibes dos dados de 6 de daño, que menos puedes tirar tú, y tienes desventaja en las tiradas de habilidad de inteligencia. Uff, pues 6 de daño que te va a ti.
+
+[00:02:36.940] Simplemente que te ha explotado la poción y estás un poco tocadete. Enfermo y tocadete. Es que es normal. Estaba haciendo pruebas con lo de la sangre de dragón y no es algo que controle todavía. Bueno, Maroxi, tú vas bien vestido siempre. Yo sí. Lo siento, soy así de base. No necesito ponerme guapo para ir a los bailes.
+
+[00:03:06.480] Vale, pues después tenemos a Banzo. Que Banzo nos va a contar qué ha estado haciendo esta última semana. Banzo se está centrado en el problema principal que es saber quién se ha disfrazado de yerbre y quién entraba a la base. Porque tiene dos problemas. Primero que no sabe quién es y segundo que no recuerda qué le dijo. Si era información importante, si era una tontería. Entonces el primer sospechoso era Kazuki. Hablaron con él con...
+
+[00:03:37.040] el juego de la verdad y no era él, entonces le ha encargado que se encargue él de descubrir quién ha sido. También ha estado hablando con el gnomon, él le ha pedido un par de piezas de armadura y después se iba por las calles y se encontró con Sugami que estaba entrando en la tienda.
+
+[00:03:59.310] Y nada, le metió para adentro, se pusieron al día un poco y entonces le dijo a Banzo que tenía no hay que hacer las votaciones. Entonces le dijo hacerle un traje, pero no le entraba. Así que la solución de Sugami fue dejarlo todo el día en ayunas y meterlo con una bici estática dentro de una sauna. Que ha podido entrar en el traje. Vale, lo vais a ver ahora, ¿vale?
+
+[00:04:31.760] Se lo panzo, ¿eh? Tiene cara loco, ¿eh? ¿A qué os ha traumao? Pues yo también me he quedado así. ¿Vale? El panzo de un fentanilo. Me gusta más por los dos. Es más achichaje. Ponte el casco, por favor. No tengo mofletes. Necesito agua. No tengo mofletes. Oye, ahora mismo se parece…
+
+[00:05:03.730] Parece que viene del mismo sitio que Gluglú, ¿eh? Sí, sí. Y vale, pues tenemos a Calista. Gluglú me da menos miedo. Vale, pues... Calista, desde el último baile, ha estado intentando seguir convenciendo a esos votantes, igual que hacen cualquier político actualmente. Promesas, pactos...
+
+[00:05:32.460] y etc, etc, para intentar conseguir todos los votos posibles. También he estado investigando el tema de que efectivamente hay alguien que se ha hecho pasar por Sjilbrecht dentro de la base. Fue con Banza a interrogar a Kazuki. Y bueno, digamos que no salió nada concluyente. Y ese misterio ahora está un poco como con la mosca detrás de la oreja.
+
+[00:05:58.060] y bueno quitando es quitando eso aparte de visitar a suami en otro momento para digamos arreglar un poco cierto traje que tenía a cogir con esto bueno pues acudido junto con jesbrecht aquí de nuevo a la base de los cazadores no le ha dado mucho a la pececita hacer mucho más aparte de convencer a los nobles y mi tabla tira tu tabla y aquí tenéis el traje de calista
+
+[00:06:31.500] Oye, yo no voy a malmeter, pero estamos en crisis y aquí todo el mundo se está comprando traje diario. Yo he dicho que este traje lo he arreglado. Este traje ya lo tenía yo de antes. Yo he sufrido lo mío. Yo he sufrido lo mío. Yo he sufrido lo mío. El que tengo, pero con cuatro cosas mordas. Vale, y Kalista, te envían desde el reino de tu reino a 50 monedas de oro. Sí.
+
+[00:07:00.720] Es el dinero de la abuela. La abuela siempre da la propina, estés donde estés. Y te envían un sobre por debajo de la mesa. Jeprek ha estado haciendo cosas de Jeprek. Está muy mosqueado. Y ahora mismo os va a mirar muy mal a Marox y a Kazuki. Esto de que alguien se ha pasado por él.
+
+[00:07:30.450] de molesta mogollón está muy enfadado y nada se ha comprado un traje bueno se ha comprado un traje se ha puesto un traje que ya tenía porque alguien le fue a comprar este mejor chaval elegante aparte de trajes son como cabezas de cuervo
+
+[00:08:00.320] Carita, yo te aconsejo ponerle algo que brille porque de noche lo pierde. Sí, claro. De noche lo pierde ayer. Sí, cuando coge sonríe, cuando va a matar a alguien, que se ve en la oscuridad con una sonrisa, se ve la sonrisa, es como el meme este del hombre. Y se ve los ojos rojos, claro, cuando está enfadado. Claro, entonces es como, ¿dónde está Jerbex? Escuchas un grito, ves unos ojos rojos y una sonrisa, se ve un montón de sangre y dice, ah, vale, ahí es.
+
+[00:08:28.940] Ya está. Primero se ve el color preceso de sus manos. Y luego se ve el polvo. Jin, ¿qué ha estado haciendo esta semanita? Jin ha estado yendo al sur a ayudar a los reclutas y a los soldados para entrenarlos. Y para darle tiempo de descanso, se ha ido de vez en cuando a la forja del sobrenato a echar una mano ahí también. Aquí está la forja. Uy, tengo que hacer el telón de la tabla. Vale. Y el traje de Jin lo tenemos por aquí. ¿Dónde está el traje de Jin? Aquí.
+
+[00:09:02.610] Y este Shinke, bueno, se ha bordado algo en el traje. Se ha puesto un kimono nuevo. Más elegante. Esas arrugas que Shin tiene en la frente. Sí. Están pasando los días. Shin, una pregunta. ¿Dónde está sujetando la segunda katana? En el cinturón, ¿eh? Sí, sí. Es Shizuka, que está detrás. Es Shizuka que va a voltearla así con la katana a hacerle pa. Vale.
+
+[00:09:35.150] Y después tenemos a Kazuki, nuestro noble que estaba haciendo esta última semana. Después de realizar el baile, esa noche volvió a su hacienda para intentar evadirse de la realidad, por lo que pasó ese día. Y lo más interesante es que Banzo y Pinipón
+
+[00:10:07.170] Digamos. Banzo, Calista y Jellbrecht vinieron a mi hacienda. Para que yo le contestara un par de preguntas, me han dado la misión de que tengo que adivinar o tengo que intentar buscar quien se hizo pasar por el señor que se enfada a la mínima. Y poco más. Después de eso, se fueron...
+
+[00:10:40.130] ¿Cómo no conoces la piz?
+
+[00:11:09.330] Me dijeron que recordé que hoy es las votaciones y me cambié a la ropa un tanto más regia, de importancia. Vale. Pues aquí tenéis el traje de Kazuki para ir a las votaciones. Y... Ya está de duto. Bueno, a lo mejor se queda sin mujer dentro de poco. Sí, puede ser.
+
+[00:11:41.970] Por lo que hice, entonces es como, bueno, empezar a ponerse de modo emo no es mala idea. Vale, pues empezamos el capítulo que os encontráis todos en la backstage, siempre que Calista acaban de llegar, estáis todos ya preparados para las votaciones. Y nada, pues acabáis de llegar a reuniros y nada más entrar...
+
+[00:12:13.180] Veis a Shizuka y te estiran Maroxi. ¿Qué pasa, Shizuka? Estoy un poco ocupado. Y la ves con unos ojos enormes y una sonrisa, pero de punta a punta como el gato de Alice en el país de las maravillas. Pues te mira así y te dice ¿Quieres ver qué sé hacer? ¿Ves como Maroxi, que estaba mirando un libro de pociones mientras acariciaba al gato, lo cierra? Eso no me lo perdería por nada del mundo.
+
+[00:12:50.860] ¿Qué has aprendido? Ya verás, ya verás, ya verás. Y se gira y ve a Kalista y te hace así para que bajes. Pero vamos fuera, que si no… ¿Por qué? Si siempre has estado practicando aquí. Pero es que este hace pum. ¿Pero mucho? Sí, entro muy rápido. Ok, pues te sigo, vamos fuera. Vale. Hola, Kalista. Hola, Merufi. Hola, Shizuka. Hola, Kalista. Vamos afuera, un momento. Adiós.
+
+[00:13:36.720] y está bien ahora pero que al final bueno nunca nunca se sabe pero si está intentando convencer a todos los nobles posibles a ver si a ver si es algo y así podemos asegurarnos de que curoto no caigan mal las manos
+
+[00:14:08.850] He escuchado algo de tu rival. Y al estar en el frente y poder comprobar los militares de primera línea, ese hombre te está ocultando demasiadas cosas. No te preocupes. No traes sus tropas ni sus armas buenas, a pesar de que él dice que le importa por otro. No te preocupes. Su interés simplemente es militar. Pero ves que sonríe.
+
+[00:14:39.580] Eso lo ha jugado varias malas pasadas que he sabido aprovechar. Descuida. Cuando todo esto acabe, irá mejor. Ya verás. Seguramente podemos organizar mejor esas defensas. Pero bueno, tiempo al tiempo. Y camina y se acerca a Kazuki, avanzo. ¿Te has vuelto a hacer eso, Sugami?
+
+[00:15:12.180] Y veis que te intenta colocar un poco, te vea así, chuplado. Te ha vuelto a meter en la sauna. Lo ves así, se ve como medio deshidratado y como agua. Por el amor, por el amor del océano, darle algo. Es como saca una cantidad y te va a dar. Mira, que tanta dura Calista. Y te hace así. ¿El agua de Calista es salada? No.
+
+[00:15:42.620] Es agua normal de cantimplora de beber. Ah, vale, vale. Dudas que me entraron en ese momento. Tú no estás. No, por eso que me he preguntado fuera de... No, no, no es agua normal. Te lo he entregado. Como un anime, ¿sabes? Va recobrando los mofletes poco a poco. Uff, no vuelvo a hacer esto nunca más. El agua de la vida, literalmente. Pero, Banful, ¿qué has hecho? Se quedaron sorprendidas.
+
+[00:16:14.380] No sabía que a los terrestres también les pasaban esas cosas. Sí, sí, sí, sí. A ver, que te explique Sugami. ¿Sugami? Sí. Quiso hacer un vestido para, bueno, un traje. Yo siempre he dicho que esa mujer es peligrosa. Eso lo diceis, ¿eh? ¿Por qué? Mira, yo eres como, como diciendo, peligrosa desde cuándo. O sea, a mí me hace vestido sin mumbo y... Habla mucho. No voy a decir que soy simpática, pero habla mucho. Dejo la botella encima de la mesa.
+
+[00:16:49.550] Con respecto a eso que decíais de Yasuoca, ¿no creéis que aunque todo salga bien y ganemos las elecciones, lo necesitaremos de nuestro bando? Sí, tal vez esté resentido de problemas, pero al fin y al cabo tendremos que convencerlo de otras formas para que sea más colaborativo. Tal vez si ve que mostramos interés en el ejército no ponga tantas pegas.
+
+[00:17:23.660] Yo creo que lo que le hace falta a ese hombre son aptos. Necesitamos hacer algo para demostrar que de verdad somos válidos, no simplemente luchar y estar desperdigados por ahí. Somos los más fuertes de la isla, sin duda. Sí, vamos. Es cierto. La verdad es que vendría bien un poco de organización en el sur, sobre todo con los cazadores.
+
+[00:17:54.080] Y atacar en conjunto, junto con los soldados. Pero... Sí, sí, el Malachi y Kurubane son piezas fundamentales ahí abajo. Ya veo. De todas formas, lo que más hace falta ahí abajo son buenos estrategas y buena estrategia, porque es lo que más estoy viendo que está fallando allí. ¿Está gut? El comandante, pero el comandante...
+
+[00:18:22.530] Hay muchas veces que me da la impresión de que tiene demasiada presión de arriba. Ya ves. Incluso toma decisiones que a lo mejor con esa presión no las tomaría, pero supongo que es lo que pasa en una guerra. Es la primera que vivo. Y te mira a ti, Yelbrecht. Es que se te queda mirando y va sintiendo, te está mirando y va sintiendo como que lo estás haciendo bien. Ajá. Pues mira y dice, bien, bien.
+
+[00:18:56.210] no creo que deberían creo que se debería de enviar un buen estrés ahí abajo alguien que sepa hacer hacer colocar bien las distintas unidades de batalla y bueno que se debe bien organizar a la gente en general si queréis tengo algo de experiencia en ello quizás no sea el mejor pero toda ayuda será buena
+
+[00:19:27.730] Cuando terminemos las votaciones, iré al sur, si es lo necesario. Ahora, lo principal, Kazuki, es intentar averiguar quién ha intentado sacar información. Ese tema también me preocupa. Lo haré, Banzo. Os lo haré, si. Os mirad a los tres. Lo tengo en mente desde que tuvimos esa reunión en mi hacienda. No se preocupen.
+
+[00:20:01.140] Me intentaría encargarlo, pero ahora mismo estoy muy ocupado con esto. Su deber actualmente es ganarse a los votantes de los nobles. Lo sé. Y no se preocupe. Si estoy yo al tanto en el sur, mientras investigo lo que ocurrió aquel día, les iré enviando informes. No se me da muy bien la estrategia desde hace mucho tiempo.
+
+[00:20:34.160] pero puedo intentar ayudar master puedo hacer una pregunta a mí sí que voy a escuchar un boom bueno estaba esperando a que acabáis el de esto claro a ver vale paso de escena que quieres hacer
+
+[00:21:07.600] No, no, no. Tranquilo. Es que explote cosas, que si no lo está contenta la niña. Y luego los cabrones me lo llevo yo, que soy el padre. Claro. Ves que salís, cuando esto no están hablando, ves que sale Shizukashi estirando el tema de la técnica. Te va estirando. Sí. ¿Hace mucho boom? Sí, al portal no apunto porque seguro que me lo rompo. Pero bueno, apunto para allá, ¿vale? Escucha.
+
+[00:21:38.980] ¿Ves ese carro? Sí. Apunta al carro, que luego si no ya lo puedo arreglar yo. ¡Oh! Vale, vale, vale, vale. Y ves que... Quita el game pause. Perdón. Ves que se levanta, ¿sabes? Se pone así. Se ponen bien los pantalones. Se pone bien la camisa. Se frota las manitas. Da palmaditas. Y levanta las manos hacia el cielo. Ves que se le ponen los ojos en llamas. Y empieza a recitar unas palabras mágicas. Y de repente ves como...
+
+[00:22:11.600] El cielo se vuelve a empezar negro, ¿vale? Puede caer todo de negro. Y ves como, de repente, empiezan a caer… ¡No! ¡No! ¿Le has enseñado esa mierda? ¡No! Empiezan a caer meteoritos del cielo. Conozco… Sí conozco el hechizo, ¿no? Bueno, ves que empieza a caer meteoritos del cielo… ¡Pfff! ¡Pfff! ¡Pfff! A ver, espérate.
+
+[00:22:43.360] Los instrumentos esos ya se han quemado, los han caído meteoritos, se han reventado, quítalos ya. No me voy a un hotel, eh. En esta habitación no debería ya haber instrumento ninguno, la verdad. Ni mesa, así que guau. Vanzo, mi niño, te vienes a mi casa en la hacienda. Se va a la pared, se va a la pared, se va a la pared, se va a la pared. Se va a la pared. Esa habitación espero que no sea de nadie. No sé. Ya no. Ya sí que no de nadie.
+
+[00:23:14.830] ¿Vale? Pues... Es que hay intermitencia. Lógicamente el carro se desintegra. Ves que las paredes de la base de tu lado desaparecen. Y... Pues mientras estabais hablando los de dentro, veis como las paredes hacen puff. Iba a decir, digo... Si me permites la... La... La... La... Si me permites la intromi... ¡Sí, nunca!
+
+[00:23:44.530] yo me asusto porque no sé qué ha sido eso ni cómo ha sido y es como nos están atacando si zucar me habías dicho que era un boom muy grande no muchos boom hay perdón y por aquí se asoma que ha sido eso está bien si nosotros sí que ha pasado estáis bien qué está pasando y fuera
+
+[00:24:17.600] ¿Cómo? Maroxi ha tirado un hechizo. Mira, Maroxi. Es como… ¿Ves ahora mismo que estoy mordiendo los dientes en plan de me la cargo? Sizuka, no mientas. Ay, Dios mío, Sizuka. Vale, sí, he sido yo. Te quedas sin piezas. Pero Maroxi me ha dicho que apuntará al carro.
+
+[00:24:43.920] Ya, al carro, no a la base. Apunta más lejos. Apunta al carro. Voy a empezar a hacer el country de Mending para ir arreglando todo lo que pueda poco a poco. Y digo, ¿no hubiese sido más sensato de los albos que a practicar esto? Sí, normalmente es lo que hacemos para que practiques un nuevo hechizo. No, yo lo practico con Gluglu. Mira qué es hacer también, ya verás. Gluglu. No, no, no. Gluglu.
+
+[00:25:13.680] ¡Muérete! Y ves que Glogru se muere. Shizuka, no lo pienso volver a revivir. Jo. Que ahí está por dentro es como… Vale, ya no me enfado tanto con Maraussi. Porque como viene… Lo ha matado. Lo matará el fío, el bicho. Es asqueroso que aquí estaba toda la voz. ¡Lormiao! ¡Lormiao! ¡Que se ha muerto! Se mata a Lormiao. Y se lo come. Lo revivió otra vez muerto.
+
+[00:25:52.080] Calista anota en su mente el darle más pescado a Lord Mew para que no lo vuelva a levantar. Mira a los otros dos y dice, mira a Marox y dice, vas a arreglar esto, ¿no? Porque esta vez no voy a entrar por medio. No, me pensé que iba a hacer algo en el carro, no sé, una bola explosiva, algo de fuego, pero no que iba a tirar una tormenta de meteoritos. Pero que ha estado chulo.
+
+[00:26:26.640] Eso he de decir que es verdad. La verdad es que la magia ha sido poderosa. Soy poderosa. Soy poderosa. Soy poderosa. Y lo pilla de la cola. Creo que… Tenemos que ir a las votaciones, ¿no? De repente… Tenemos prisa. Calista mira los trozos y empieza a calcular daños. No sé cuánto veo.
+
+[00:26:59.060] Ay, esto me va a retrasar mi investigación. Mira a Maroxi, de reojo. Ves que, bueno, aquí, en concepto de esto, no hay nadie. Y dice... Más bien te susurra... ¿Puedes encasquetárselo a otro que lo repare? Tal vez podríamos aprovechar un poco a Guoxi, ya que no es cazador, a lo mejor le viene bien estar entretenido un poco.
+
+[00:27:32.940] a mí la verdad que no me importas podría hacerlo pero me va a llevar tiempo y cansancio y la verdad que no me sobrará mucho el tiempo por eso en casca es en casquetas a la otra y a mí no me miras la última vez yo resolvido el portal
+
+[00:28:04.400] Eh, Jin, ¿sabes dónde está Gucci? Está en el sur. Vaya puya, dame chao, eh, Maroxi. Si puedes, búscalo tú o ya lo busco yo más tarde. Tendré que ir a sur en algún momento. Eh, no sé si es… Es que se le da bien arreglar estas cosas. Seguro que me puede echar una mano. Aunque, bueno, nunca vino la destrucción porque se ha caído un trozo de techo y todo, se ha caído… Aunque es un poco difícil para hacerlo con una persona, seguramente, pero bueno. Bueno, para esto…
+
+[00:28:36.510] Seguro que si lo hacéis los dos, lo hacéis el doble de rápido. Bueno, ahora está desempleado y siempre puede hacer una de esas creaciones suyas para ayudarlo. Es más, seguro que hay unos cuantos aldeanos que estarían dispuestos a ayudarnos por algo de comida o algún tema económico. Es posible. Así les podemos dar trabajo. Recordad que lleváis una semana sin comer. Vosotros. Estáis enfermos. Bueno, sí.
+
+[00:29:06.080] relativamente es que yo ahora mismo tengo casa en el barrio chulo es posible pero tendríamos que darles creo que bastante dinero bastante comida que no tenemos actualmente bueno ya me ocupo yo está bien mientras lo arreglos
+
+[00:29:38.380] No, habrá ningún problema. Por supuesto, ya sabes que soy resolutivo. ¿Cómo eres resolutivo? Es con esto. Sonríe y vuelve adentro y mira el resto en plan de... Bueno, va a mirarlos en plan de... Bueno, no estamos solos. ¡Sizuka, suelta el libro! ¿Qué libro? El de la mesa, afuera. Quita, quita de ahí. ¿Por qué? No se puede tocar. Chile no tocaba.
+
+[00:30:08.660] No, pero este no es el libro de Chilia. Este es un libro que estoy investigando yo de alquimia y me ha costado conseguirlo. Y ves que sonríe y hace... Vale. Y va a intentar robártelo. Tírame... Voy a intentar cogerlo antes de que lo coja ella. Vale, pues tírame acrobacias o... Juego de manos. Sí, sí. Acrobacias o juego de manos. Te va a tirar ella juego de manos. Tengo lo mismo, así que... Va a ver si suca.
+
+[00:30:44.050] Tengo tu libro, tengo tu libro, tengo tu libro. Shizuka el libro. Tengo tu libro, tengo tu libro. Shizuka el libro. No, ahora es mío. Voy preparando el cut del spell porque nos va a decir un hechizo. Mira, mira, mira. Voy a tirar esto sobre mí, ¿vale?
+
+[00:31:22.000] Entonces ella está mirando al Maroxi que está en la silla, pero de repente alguien le quita el libro. ¡Mírame! ¡Eh! Y de repente aparezco aquí, desde el lado de ella. Cáncero el hechizo y todo. Te he dicho que no me la juegues a mí. Si has estado tirando... Señalo a todo el desastre y digo, ¿me has enseñado eso y ahora me la querías liar? No, quería aprender. Bueno, si quieres aprender...
+
+[00:31:54.910] Empecemos con algo más básico. Luego te enseño. ¿Pero luego cuándo? Pues ahora creo que tenemos que ir a una fiesta de esas aburridas de la nobleza para... A ver si tu amiga... ¿Quieres venirte? ¿Quieres ser mi pareja? No. ¿Pero me puedes dejar el libro? Eh... No. Hasta que vuelvas. Mira, vete a mi habitación y coge el que quieras que haya allí de alquimia. ¿Cuál es tu habitación? Solo es alquimia básica. Esta.
+
+[00:32:29.120] Abajo de izquierda. Abajo de izquierda. Bueno, la mía es esta. Empieza a registrar todos los cofres. ¿Tienes algo más aparte del libro encima de la mesa que hayas dejado por ahí? Eh, pociones, líquidos, herbolistería... Cosas para que una niña pueda explotar la vas entera. Vale. Lo único que vas a ver es a Kalista acercándose a todo eso que estabas haciendo, ves, con unos ojos curiosos. Como de...
+
+[00:33:00.380] A ver qué veo. A ver qué cutirío. Venga, te voy a dar salseo. Ves un cofre, como una caja fuerte, abierto, sin nada dentro. Vale. Cojo, lo miro. Me lo quedo mirando. Supongo que me pillarás en algún punto de que estoy impresionando todo esto de alquimia. Vale. Veo que me miras. Y ves que sonríe un poco. Y no sé si tienes...
+
+[00:33:31.860] No sé si tienes... No sé lo que hablaban los yokais buenos, pero como que voy a disimular que estaba como hablando con el gato. Y el gato lo voy a decir. Silvano. Y el gato lo voy a decir Silvano. Oye, el hormiao, ¿cuántos pescados querrías para no levantar de nuevo a ese bicho? Para toda la vida. ¿Vale? Todos los días te trae de pescado. Vale.
+
+[00:34:07.310] no lo vuelvas a levantarse lo matan y sonríe y se viene aquí dice bien vamos a una votación está sucio te vas a manchar el vestido no tenemos escoba de saque barría no hay escoba
+
+[00:34:38.610] bueno los demás queréis hacer algo antes de salir de la base kazuki banzo jin anzo ha bebido más agua y ya se le está empezando a salir un poco la tripa del kimono entonces se lo ha desabrochado un poco y ya va un poco como cuando en una boda tocan las 12 de la noche y eso es más o menos igual a esa tema pequeño y ya me sacó la pancita me lo he abierto y van corceta hacia arriba
+
+[00:35:09.760] Nada, nada, ya va abierto desde el ombligo hacia arriba. Vale. Banzo, creo que no te ha sentado del todo bien el beber agua. No, no vuelvo a hacer la dieta esa rara. Intenta durante el día de hoy no beber mucho. Por ejemplo, pasaré de aquí y me miro y digo, buf, esto no está como estaba antes, aún me queda margen. Sí, tú lo dices.
+
+[00:35:43.280] ¿Estabais hablando delante nuestra? ¿O nos hemos ido? No, no. Es detrás vuestra. Vale, mira, avanzo. Le sonríe de reojo y digo, bueno, tal vez creo que te lo ha hecho un poco demasiado pequeño. Y ves que lo que va a hacer es agrandarte la ropa. Y así que te quede mejor. Que no vayas encorsetado. ¿Con qué? Con agrandar y reducir. Ah, pero eso dura un minuto, ¿eh? Ya, durante... Se hace un rato.
+
+[00:36:13.920] esto sabes es como lo lanzas y como para ti para la ropa sabes como que recuperes el aliento mientras vamos caminando ahora sí ahora parece un pijama y le dice creo que deberías pedir ser un poco más grande la próxima vez es que será el problema que dice que no tenía yo creo que sí que tenía y me ha querido hacer el día como siempre
+
+[00:36:44.690] es probable es probable a mí bueno a mí me lía pero es más bien para que me quede hablando con ella y mejor me preguntéis durante ese minuto jeffre se ha dado cuenta no que las he hecho bueno sí claro que se ha dado cuenta y ves que mientras vais a van caminando ves que mira de reojo avanzó cuánta percepción tenéis vale pues no percatáis ni uno
+
+[00:37:16.450] Ni Banzo ni Maroxi. Tú Kalista seguramente sí. Mira hacia atrás, hacia Banzo y hacia Maroxi. Después mira Kalista. Y lo que voy a hacer es hacerte cosquillas. ¿A mí? Sí, para romperte la concentración y que se le haga pequeño el traje de golpe. Hijo de perra, dale. Pues... Es como que... No lo notáis ninguno, pero es como que... Esto que te estás haciendo cosquillas y te estás intentando aguantar la risa, que vas como...
+
+[00:37:46.500] curvándote un poco y haciendo cosas raras. Y nada, intento mantener la concentración. Mira a Irving en plan de... Porro yo. Porro. Así y nada, en un momento dado voy a perder la concentración al final de tantas cosquillas seguramente. No me hagas ni tiras. Vuelves a estar en concerto. Estaba súper relajado, tranquilo.
+
+[00:38:17.090] Estaba mirando a Maroxi, de arriba a abajo, diciendo, joder, qué bien le queda a todo siempre. Y justo en ese momento, se le encoge todo y hace un pedazo de eructo de diez segundos mínimo. Jervais empieza a partir. La lista termina como funciona el escenario, Jervais, en plan, de maldito seas. Es la de, voy a contestar a ser la de, y me voy.
+
+[00:38:50.480] Bueno, mejor ahora que en las votaciones. Joder, también. ¿Qué mierda ha comido ese Billy? Es ese el problema, ¿qué? Es precisamente lo que no ha comido. Huele a Billy, es de Banzo. Así que a ver. Sí, bueno, es así. Sí, bueno. Banzo es así. Pero es... Bueno, un buen hombre.
+
+[00:39:25.680] y mientras tanto ves que mueve la mano mueve la mano empieza a recitar unas palabras y como que eso a mano se ilumina y se parece como recitar un hechizo como preparándose para algo claro vamos a hablar con mucha gente y yo no voy en desventaja en eso vale pues
+
+[00:39:59.090] Pues os vais yendo hacia esa mansión donde estuvisteis en el baile, donde se cerrarán las votaciones con los nobles, se cerrará una cena, también cenaréis ahí, palabra de todo, de paquear, de picar, y vais hasta la mansión, llegáis a la entrada, y como siempre os encontráis con los guardias, creo que era esto, ¿no?
+
+[00:40:27.440] Pero esto no es palacio, ¿no, Paul? ¿O sí? No, esto no es palacio. Esto está dentro de las inmediaciones de palacio, pero es como un... Un anexo palacio. Es donde el baile, básicamente. La base de los cazadores también está en un anexo dentro del palacio. Como ya, música de Naruto. Vale, pues llegáis a la entrada y veis que los soldados os ven, os reconocen a todos, ¿sabes? Y veis que os saludan para que vayáis entrando. Os piden los nombres, como la última vez.
+
+[00:41:00.110] Y adelante. Bien, pues ahí estaba entrando. Estaba por transformarme en la coneja, pero no lo voy a hacer. Aldo, nada te lo impide. No, no, no, porque ahora Maroxi tiene que estar en Maroxi. Claro, porque Maroxi tiene una elfa, hay una humana. Ya, claro. ¿Cómo, cómo? Es que, ¿cómo, cómo? Las mujeres, en fin. Tú me montaste una oportunidad y yo la aproveché. Ahí viene.
+
+[00:41:33.660] Sí, sí, sí. Y yo no niego. De hecho, lo estoy buscando. Vale, pues... No te preocupes, está aquí. Sí, llegáis al interior de la mansión esta, de este anexo. Y bueno, os encontráis ya algunos nobles, la música un poco sonando y veis algunos nombres hablando. Veis a Nori y a Shai.
+
+[00:42:02.370] que es la de Maroxi, pues ahí hablando en la pista de baile, veis a Kazuyuki, el Nomi este, pues aquí en la mesa, bebiendo solo. También veis a los nobles más importantes, que están en la mesa juntos, ves que están hablando, y bueno, algunos otros nobles sentados en el sofá, hablando entre ellos, bueno, básicamente haciendo vida de noble. Llegáis, os presentan, y los nobles os miran, y os hacen una pequeña reverencia hacia todos, sobre todo enfocándose en Kalista.
+
+[00:42:32.560] porque es la que se postula, el cargo. O estáis en una reverencia y os miran, os quedan mirando. Vale, le respondo como protocolo a esa reverencia, en plan, como un saludo. Y nada, yo miro a Jepre y digo, esta vez mejor quédate cerca mío. No, que me apetece ver que hay incidentes, como leer el baile. Vale. Y lees la mirada en plan de...
+
+[00:43:01.650] Mejor que... Voy a estar cerca mejor para que no se te acerquen, ¿vale? Sí, sí. Es una intimidación más no sé cuánto. Sí, ya lo sé. Con permiso. Y yo me pido. Vale. Pírate, yo también me voy a ir por otro lado. Ya vete por el brazo para que se lo pongas y así al menos no se va. Sí, sí, sí. Vamos por aquí. ¿Tú ves dónde ella te envió? Bueno, yo es la primera que tengo. Jim, ¿qué haces cuando ves todo esto? Al...
+
+[00:43:33.460] Le pregunto a Kazuki y a Anzo, que tiene más experiencia. Yo es la primera vez que vengo a uno de estos bailes. ¿Alguien con que deba hablar o alguien con que no deba hablar? Actualmente, todo esto es un campo de guerra. Ya, me imagino. Sobre todo... Se lucha con palabras. Sobre todo los que están en la mesa del fondo. Ah, sí. Ya su boca, lo estoy viendo. Cada lado su mujer, supongo.
+
+[00:44:10.060] No, no es tu mujer, es una amiga que está... que es la... en teoría, la estratega que es Tanish. Me gustaría hablar con ella, pero... si es muy peligroso. Tendré cuidado. Siempre, aunque no sea peligroso, tienes que darte cuenta de que... estando escasas horas de las votaciones, con que se mueva un mínimo de... algo.
+
+[00:44:42.610] Con que se mueva un mínimo de una... De un castillo de naipes. Todos irán al diablo. Primero necesito ver un poco. Y se va a acercar a la mesa. Al lado del borracho. Hay que hacer aquí. Vas a hacer borracho. Ahora iré por partes. Kazuki, ¿tú qué haces? Yo miraré a Banzo. Banzo está ahora mismo hablando con el soldado de al lado. Le verías.
+
+[00:45:20.690] Está entregando las armas. Toma, aquí tienes. Le da el pedazo de Glyber, le da el espalón de Gur, le suelta los dos arpones. ¿Y por qué no lo has dejado en la base? ¿Y por qué no lo has dejado en la base, Banzo? Y ves que empieza a cargarse el hombre. ¿Cómo voy a dejar todo esto en la base? Yo soy un guerrero. Aparte, sus compañeros estaban un poco dormidos. Me tenían que haber pedido en la puerta.
+
+[00:45:46.130] Déjalo aquí a mano, ¿de acuerdo? No te lo lleves muy lejos. Lo tengo que sacar de aquí, Banzo, no puedo dejarlo. No, ven, ponlo aquí, en la mesa de la entrada. Vale, vale. Vente, ayudo, vamos. No, no, ya lo llevaré yo. Lo ves con cara de me está metiendo en un problema. Yo quiero ser como José Luis, estar muerto ahora mismo. Vale, vale, sí, lo dejo aquí, Banzo, no te preocupes. ¿Cómo estás? ¿Todo bien?
+
+[00:46:19.410] Sí, y mira el montón de armas del suelo. Creo que has pasado de los patios aquí dentro con los nobles. Sí, lo han pasado. ¿Y tú cómo estás? Bien. Pues ya sabes, no, me gusta mucho este sitio. No pinto yo mucho por aquí. ¿Cómo ves el ambiente? ¿Ves mucha conversación o qué? Pues la verdad es que la guardia está de capa caída. Desde que no estás...
+
+[00:46:51.860] Simplemente hacemos guardia y estamos ahí. Ya no pasas haciéndonos reír. No pasa nada. Todo tiene un final y un principio también. Vamos para allá, que vaya a ser que te digan algo. Tranqui, ahora voy, no te preocupes. Pongo bien tus armas. Y empiezo a colocarlas. Y cuando no te ve, dice, esto me lo tengo que llevar fuera, que si no me van a echar. Zuki, ¿tienes algo en mente? Que pasen las horas.
+
+[00:47:28.180] Rápido. Lo noto es como que en la base estaba súper tranquilo y aquí es como si una presión de una tormenta le hubiera llegado a los hombros. Con el permiso del máster es como de lejos. Banjo hacia así y ve que Fukami le hace. Sí, sí, sí. No, él es otro. Miro a Kazuki y...
+
+[00:48:00.580] Y miro hacia adelante y digo, bueno, me voy a saludar. ¡No! ¡Vayamos! Y te hace, no, no, no. ¡Ah, sí, sí, sí! Cuando Kazuki se mueve dice, sí, sí, sí. ¿Puedo mirar al borracho mientras voy para allá y simplemente pasando por allá, mirándole, quiero intimidarlo? Para que ya venga fresquito para el gym. Vale, tíradme intimidación. Joder. Que vas a intimidarnos. Vas a intimidarnos, ha sacado uno.
+
+[00:48:32.130] Ya está, se ha acabado. Ya está, ha intimidado. Como tú quieras, lo intimidas. No, paso por al lado simplemente y como no tenemos una muy buena relación y encima, el día que pasó todo, él estaba. Vale. El día que pasó todo, pues lo paso por al lado y como que pasa la cámara lenta, lo miro de arriba abajo y me lo imagino mirándole a los ojos y temblando y nada. Yo me imagino la escena esta típica de Zulander.
+
+[00:49:02.380] Pero ya has perdido tu momento, tío. Era para que uno de los botones de tu traje se hubiese salido volando a su cabeza. ¡Hola, inconsciente! Has perdido tu momento. ¡No, tío! ¡No, no, no! ¡No, no, no! ¡No, no, no! ¡No, no, no! ¡No, no, no! ¡No, no! ¡No, no, no! ¡No, no! ¡No, no, no! ¡No, no! ¡No, no, no! ¡No, no, no! ¡No, no, no! ¡No, no, no! ¡No, no, no! ¡No, no, no! ¡No, no, no! ¡No, no, no! ¡No, no, no! ¡No, no, no! ¡No, no, no! ¡No, no, no, no! ¡No, no, no, no! ¡No, no, no, no! ¡No
+
+[00:49:29.090] Cuéntame, ¿qué haces? ¿Te acercas a ese noble y a Shai, que están por ahí? Lo primero que hago es mirar a Nori y decirle, oh, veo que sigues tan bien vestido como la última vez. La verdad que me tendrás que recomendar que aquí le pides los vestidos, porque quizás tengas razón. Me quedo un poco anticuado mirando así un poco al...
+
+[00:49:57.780] Como a todo el mundo, ¿no? Haciendo la pelota. No los tengo importados, pero son bastante caros. No sé si a usted le... Iría a mandarte bien. La verdad que estoy pensando en ver todavía dónde invierto mi dinero, pero está claro que habría que tener un buen aspecto para ser más admirado a los negocios, como usted. Hace una tirada de percepción.
+
+[00:50:30.700] Estoy univillado. Cuando comentas lo de invertir, ves que el hombre se pone un poco tenso. Después vuelve y lo ves como un poquito más nervioso. De mismo modo, si me permite, no quiero interrumpiros, pero antes quería darle un pequeño detalle a Zuko.
+
+[00:51:05.230] Y ves que te mire y te hace una reverencia. Y hago un Minor Illusion delante de todos y sin esconderme ni nada. Hago un Minor Illusion de unas hojas floreciendo y acabando como en fuegos artificiales, así como en una especie de cubo de medio metro por medio metro. Vale. Como un regalo de rosas, pero un tanto especial. Vale.
+
+[00:51:28.130] Ves que algunos guardias que hay se ponen como tensos, van a las armas, pero ven que haces esto y ven que Ashae como levanta la manita, ¿sabes? Como diciendo, son rosas, ¿sabes? Y ves que los guardias como que se vuelven a su sitio y ves que Ashae te mira y te dice, ¡ay! Muy bonito. Y ves que mira hacia alrededor y como que te coge la mano. No tanto como tú, Zuko. Porque no tiene command, sino te dice, nos vamos. A ver, no tanto, pero es como, ¡ay! Se me suben los colores, sí.
+
+[00:52:01.460] Y se va a tu lado. Muchas gracias. Y ves que te acaricias un poco en el brazo. Tenía ganas de verte, Zuko, pero no quería interrumpir la conversación. Solo quería decirte que ya estoy aquí. No te preocupes. Seguro que Nori ya se marchaba. Y me mira. Ha llegado mi novio. Y ves que está un poco... Se ha quedado como mirando. Está un poco nervioso y dice... Bueno, no hay problema. Adiós, señorita Aishai.
+
+[00:52:31.940] Y te mira como... Eso, bastante nervioso. Y te dice... Adiós, señor Maroxi. Y mira hacia los lados y ves que como se va... Como algo... Le pasa algo. No sé exactamente de mí. ¿Está bien el señor? Parecía un tanto nervioso. ¿No habré sido demasiado impulsivo con mi regalo? No, es que... No, no, no. No es nada de eso.
+
+[00:53:03.810] Estaba contando no sé qué de que había invertido unos dineros o algo, pero la verdad es que no lo estaba escuchando. Estabas mirando por la puerta cuando aparecías. Hasta además de mala educación no escuchar a la gente, Zuko. Ves que te da un codazo. Bueno. Luego, si quieres, podemos ir a dar un paseo. Creo que el cerezo estaba en flor ahora mismo. Y te dice mmm. Y te ronronea.
+
+[00:53:35.730] Y te acoge así del brazo. Jolín. Y a tímida, se supone. Bueno, si le ha quitado la timidez a... Bueno, lo diría. A empujones. A empujones, sí. ¿Vale? Es que soy un romántico. Vale, pues... Te quedas con el Shai a ver qué hacéis ahora. Y... Vamos a... A Calista, que no he roleado. Calista. Vale.
+
+[00:54:00.960] Nada, pues Cali, estás acercado aquí con Anri, se ha presentado, le ha dicho... No sé si este día o de noche. Es de noche, vais a cenar. Vale, es que es de noche, digo, buenas noches, señorita Anri. Y la razón principal por la que se ha acercado a esta zona es porque está cerca de esta reunión. No va a interrumpirla porque es de mala educación, pero va a pegar la oreja mientras está con Anri.
+
+[00:54:30.990] A ver si puedo escuchar algo de lo que están parloteando por ahí, mientras está con Andrey como diciendo, sí, se ha quedado buena noche, sí, efectivamente, se ha quedado buena noche y... No, no, no, estoy nerviosa por las votaciones, todo ese farfullo. Tírame percepción. Y sí, genial, ¿no? No, estoy simulando, claro, estoy simulando. Tírame performance.
+
+[00:55:01.040] Un 18. Bueno, escuchas no toda la conversación bien, bien, bien, pero bueno, puedes escuchar que están hablando, sobre todo, Yoichi de cosas de negocios, de que, bueno, el tema de los barcos, a ver cómo funcionan, esperan que a ver cuándo acabe la guerra, para, bueno, si la señorita calista, o, ay, la señorita calista, la señorita calista, o Yasuoka, pues abren los puertos para poder comerciar más, o sea, están hablando de estas cosas, y Yasuoka lo ves como bastante interesado y dice, bueno,
+
+[00:55:30.540] Si abrimos los mercados hacia otros pueblos, podríamos también mejorar nuestro armamento. Eso estaría bien, ¿verdad, señor Yuichi? Ahí están hablando de eso. Es que siempre habla el ejército macho, ¿no, tío? Otros temas de conversación. Y el otro de negocios. Y el otro de negocios, pero bueno, al menos los negocios son más amplios. En lo militar, pues bueno. Vale.
+
+[00:55:55.440] Pues nada, voy hablando con Enra y la pregunto, ¿qué tal el ambiente por aquí? Acabamos de llegar y parece que los noto bastante impacientas por empezar. Bueno, ya sabéis cómo son. La impaciencia de los nobles, lo quieren todo para allá. Y ves que te sonríe y dice... Pero bueno, ya llevamos tiempo sin Shogun, así que la verdad es que sí que el tiempo apremia un poco.
+
+[00:56:26.130] y ya veo compré ya veo comprando y veo veo que está veo de ahí de reojo detrás que está maroc si así y digo aunque bueno me alegro de que otros en tiempos de guerra encuentren y como con los ojos como que mira hacia detrás y sonríe como indicándole a antes que se dé la vuelta sin señalar
+
+[00:56:57.620] Sí, sí, sí. Y es que mira... Y hace... ¿Sabes qué dicen? ¿Qué dicen? Que la vieron bajo el cerezo. ¿En serio? Sí. Uy, que... Vaya. Vaya, ¿cómo ha brotado ese romance? No se lo presentaste tú y te sonríe. Y yo le voy a hacer una tirada porque sí. A ver dónde me puedo ir. Ha escuchado lo del cerezo, ¿sabes? Ah.
+
+[00:57:32.020] Estaba así con la oreja. ¿Cómo? ¿Qué cerezo? Vale, y... Envidioso. Bueno, eh, hay que compartir. ¿Sabes? Ya hacemos un horario. Ponemos un horario. Yo por las noches, que veo mejor. Yo siempre busco los mejores sitios. Voy a tener que pagar por haceros un mapa. No, hay mapas hechos en la vida real de los mejores sitios para esas cosas. Sí, sí, claro. Sí, sí, pero no curoto.
+
+[00:58:04.210] Bueno, pues lo haces tú. El primero. Te pones con Archie y te haces un invento. El Google Maps... Lo vendéis, una aplicación. Vale, pues... Vamos a hacer otra. Lo voy a llamar el Map Roxy. ¿Map Roxy? Qué malo que es. Venga, va. Vale. Veo que estamos hablando con... Veo esto, que estamos chismeando en esto.
+
+[00:58:34.000] Y nada, de paso veo de reojo también al otro grupo de nobles que están por aquí. Y cómo los veo con las caras y eso. Ves que Fukumi está bebiendo y comiendo, Hanae está sonriendo, Montaro también están hablando y en algún momento que sí que te cruzas los ojos con Hanae, ves que te mira, pero fulminándote la mirada. Y ves que desvía los ojos al draw, ¿sabéis? Te vuelve a mirar de rollo. Es como una... Os estáis hablando mutuamente, sin mensaje, sin nada.
+
+[00:59:03.380] Sin mensaje ni nada. Si antes que esta sonreía, ahora sonríe de forma deslumbrante. Es como, jodete. Si las miradas matasen. Sí, sí, si las miradas matasen, yo estaría muerta cinco veces. Pero él, él fue el mío. Jodete, hija de perra. Nada, y me quedo hablando un poco más con Anne. Y me quedo hablando un poco más con Anne y preguntándola de...
+
+[00:59:29.550] ¿Qué tal? ¿Cómo va ella? Ha hablado con alguien, le ha dado una conversación interesante y todas esas cosas. ¿Sabes? Si quieres te lo rodeo, si no pasamos al siguiente. No, bueno, te va a contar que, bueno, está preocupada, sigue preocupada por el tema de la gente, a ver que esos refugiados que han ido hacia ya a Ukyo, ¿sabes? Hacia vuestra base. También dice que hay algunos que se han ido como a un templo que hay ahí en las montañas.
+
+[00:59:59.740] que hay un semi-orco, sabes que también les da cobijo. Nuestro compañero Golgur, vaya, parece ser que sigue ayudando a todos los necesitados. Me alegra que aún después de lo que he escuchado, que he estado un poco deprimido, aún siga cumpliendo con su labor. Sí, he oído hablar mucho de Setalgur, el campeón, dicen, me gustaría conocerlo algún día.
+
+[01:00:29.280] Toma gancho. Carista coge, sonríe y dice, sí, te lo podría presentar. Aunque es un poco torpe para las raciones sociales. Digamos que lo compensa con un buen corazón. Bueno. ¡Penalti! ¡Penalti! Aquí pino roja, ¿eh? Pino roja, pino roja. A ver, era eso decirle lo compensa con otros atributos, pero...
+
+[01:00:59.150] Creo que ha quedado mejor lo del corazón, la verdad. Tiene un gran corazón. Vale. Y bueno, te quedas hablando con ella, bueno… Le voy contando cosas de Gurr para engancharla, en plan… Sí, sí, a mí también te hago el Celestino. Y nos vamos… Otra que te envió pantera. Pero si Gurr ha dejado familia a todos lados. Nos vamos con… Hijo de doble, hijos de noble. Que viene la Koisi y lo mata.
+
+[01:01:27.500] Ah, no, a Wessie le da exactamente igual. Hostia, es verdad, que ahora el Gurt también se ha hecho una tóxica. Me cago, me había olvidado de la tóxica. No, esa no es tóxica, es así. Te acuestas con alguien y te dices, ¿me puedo unir? O sea, le da igual. Es una hippie, no, tío, no. Le da igual, está muy loca. No es calista, no es posesiva, no te preocupes. ¡Vaya! Nos vamos con Jin, a ver qué dice. Jin, te acercas a la mesa con el señor Kazuyuki.
+
+[01:01:56.420] Que está ahí bebiendo, que ves que te acerca y ves como coge esa botella, ¿sabes? Y como se la tira hacia él, como de rollo, esta es mía. Y te mira así y hace un... Me acerco, le miro de reojo, no lo miro mucho, digo, bueno, ¿qué hay que hacer aquí para que bebe algo de calidad? Te mira y dice, pues coger un vaso y servirte, ¿qué quieres que haga? ¿Que te sirva yo? No. Pero esto es todo lo que tenéis? Bueno, pensaba que estas fiestas se juntaban mejor. Hubo lo que ha dicho.
+
+[01:02:28.930] ¿No te has dado cuenta de la crisis tampoco? Ya lo sé. Yo, al contrario, que muchos de vosotros viajo al sur y peleo allí. Eso pues es. ¿Entonces qué haces aquí, muchacho? Si tendrías que estar peleando, vete al barro. Soy un cazador y ayudo a los míos. Ahora dejan entrar a cualquiera. ¡Saca galones, hostia, Conex! ¡Saca galones, que has sido de los primeros! Sí, he sido de los primeros, claro. ¡Joder, eh!
+
+[01:03:04.270] Tienes chata en la sangre, te dicen eso y no reaccionas. Llevo luchando por este país mucho tiempo. Y eso que ni siquiera es el mío. Bueno, eso hacen los de la clase baja. Yo llevo luchando por culoto seguramente más tiempo que tú. Y gastado más dinero. Tú seguramente solo estás luchando para evitar más cirroses. ¿Me está ofendiendo, señor? No, pero como sigas bebiendo... Bueno, de verdad, no te molesto más.
+
+[01:03:36.990] Se va de un trago en el sac y se va. Eso. Vete a luchar por Day. ¡Qué modales! Y a donde quería ir era para acá, realmente. Pues saltamos a Kazuki y Banzo, que están por ahí arriba. ¿Qué vais a hacer vosotros? Kazuki está siguiendo a Banzo. Y Banzo está muteado. Buenas tardes, Anzo. Hola, buenas noches. Muy buenas noches.
+
+[01:04:14.540] Vale, pues nada, se acerca Banzo y saluda. Buenas noches, Fukame. Buenas noches, señor Montaro. Sí, sí, sí. Y ves que va a pasear aquí y se va a ir a por Kazuki a meterle un beso. Se aleja un poco y se acerca a Montaro. ¿Esto? ¿Ves Montaro qué dice? No, no quiero saber. Buenas noches, el niñito Hanna, no lo había visto.
+
+[01:04:49.100] Supongo que estará distraída mirando hacia otro lado, ¿no? Y ves que te mira así y como que hace como un... ¿Estaba mirando hacia otro lado? Sí, claro. ¿Y yo me puedo dar cuenta hacia dónde estaba mirando? Tírame percepción. Yo tengo... Sé el rollo. Tírame percepción. Sí, sí, sí, sí. ¿Ves que está mirando a Jetbreak?
+
+[01:05:23.920] Pues eso, tal y como le digo lo de buenas noches, he hecho una ojeadilla rollo camaleón con los ojos y digo, bueno, me tocará echar un capote esta noche me parece también. Si quiere decir algo Kazuki, yo estoy aquí. Kazuki recibirá el beso como esto lo hago por la visión. Y pondría las manos arriba.
+
+[01:05:54.190] Y la estaría un poco... No a malas, sino para que le dejes respirar. Vale, sí. ¿Te ha tocado un pecho? No. Pero ella seguramente me haya tocado el pelo. O sea, me ha tocado el culo. No, en plan, a los hombros. Te ha comido la boca, literalmente. Imaginaos como lo queráis imaginar, no me lo hace falta que me lo expliquéis. Vale, pues ya está. Y... La miro. Me...
+
+[01:06:23.980] Agradezco su presencia otra vez. Siéntate a que ha mirado. Y ves que te hace a la falda. Estoy grapple. Literalmente estoy grapple. Vale, y yo sube arriba. Te sube ahí, pum. Y le susurro. O sea, me acerco. Recuerda lo que habíamos... El trato que habíamos hecho. Sí, claro. Y ves que te está cariciando. Y me acuerdo. Y vas jugando con tu pelo.
+
+[01:07:00.050] Lo gracioso es que el pelo de atrás es largo, así que puede hacer así. Y yo, ah. Miro a Banzo con cara de... Luego te explico. Banzo estaba pensando, este Kazuki cada día me sorprende más. Sí. A malas, pero te sorprende más. ¡Ostras, que se sorprende! Y supongo que... Bueno, sigue, sigue, perdón. Mira a Banzo, por un momento.
+
+[01:07:32.610] Acompáñenos, Banzo. Siéntese por aquí. Tú estás ahí prone, ¿eh? Sí, sí, pero puedo hablar igualmente. ¿Has dicho acompáñenos? Cuando ha dicho esta señora Fukami ha abierto mucho los ojos y ha dicho sí, sí, sí. A ver, es que Banzo se acerca y sonríe, se hace así. Dice, prefiero dejaros un poco la intimidad y pasarlo bien. Y te hace así, te pone la mano en el hombro Kazuki como diciendo, la misión es la misión.
+
+[01:08:03.950] Avanza y cuando ve a Nori, ¿qué actitud tiene, Paul? Está nervioso. Desde que ha hablado con Maroxi, que ha pasado algo, ha dicho algo Maroxi, que le ha puesto bastante nervioso. Y lo ves que está como apoyado y cuando pasa para el lado dice ¡Ah! ¡Ah! Es usted. Y ves que hace como una pequeña reverencia y está así, te mira y se queda como disimulando que está muy nervioso. ¿Te devuelvo la reverencia?
+
+[01:08:33.900] Y le sonrió para mostrar tranquilidad, que esté un poco más tranquilo de lo que es esto. Se avecina buenas noches, señor Nori. ¿Estás nervioso por las votaciones? No, estoy bien. Hay que estar tranquilos. Creo que pase lo que pase, pronto estará en buenas manos y todo saldrá adelante. Eso seguro. Claro, claro. Todo saldrá bien.
+
+[01:09:06.770] Y ves que te sonríe. ¿Te fías? Aquí está cada uno en su pelota mental. Y nada, le sonrío y me voy. Que pase en la escena. Vale. Pues... ¿Llegamos una hora y cuarto? Sí. Vale. Pues... Lo que va a pasar es que veis que empiezan a salir las sirvientas. Ahí empiezan a salir dos sirvientas que suenan una campanita.
+
+[01:09:39.570] Y veis que la música se apaga, ¿sabes? Con una música más tranquila. Y veis que los nobles empiezan a sentarse para comer. Así que elegir sitio donde queréis ir para moveros. ¿A mí dónde me lleven? ¿Qué quieres que te diga? ¿A mí dónde me lleven? Como diciendo socorro. Hay más aquí. Tenéis un sitio aquí y tenéis un sitio aquí. Yo soy un complemento ahora. Yo no me voy a sentar al lado. Bueno, a ver.
+
+[01:10:11.740] Yo quiero rolearlo. Acerco por aquí, Paul, y si hay contacto visual con Yasuoca, quiero ver si... ¡Hija de...! Dime, Banza. ¿Estaba muteado? Ah, vale. Si hay contacto visual con Yasuoca, me gustaría ver si hay algún tipo de señal para que él me indique si me puedo sentar a su lado. No, no te dice ninguna señal, simplemente te mira y espera a ver si te sientes.
+
+[01:10:50.030] Le hago así, le hago como una reverencia y le señalo así con la palma abierta el asiento y le digo, permiso. Adelante, siéntese. Vale, esto es por poder así. Gracias, Kalista. A ver qué hace Hanna, eh. Y me siento y miro así. Y se va a quedar así, pero ves que no cabe, te mira, ves que te va a hacer como...
+
+[01:11:25.260] Una patadita en la sillita para que te muevas un poco, Karista. Lo notas. Tu silla se mueve un poco y te dice, ay, disculpa, el vestido. Y ves que se mueve y se va a mover aquí, al lado de Banzo, para tener a Shebeck a la vista. La miro y la digo, ah, sí, no te preocupes. Cosas que pasan, ¿verdad, siempre? Y como, Ale, ayúdame.
+
+[01:11:56.430] Cabrón. A mi lado tenía esta que estar a mi lado. Sí, sí, sí. Y dice, sí, sí, sí, claro, claro. ¿Cómo que te dicen? ¿Qué creen que haga? ¿Le tiraron desintegrar? Ojalá. Con lengua de signos te dice, ¿desintegrar? Todavía no. Te mira así como diciendo, vas a desintegrar a alguien en medio de toda esta gente. Y nuevamente te dice, no.
+
+[01:12:30.800] Agua fiestas. Mucho, mucho. Y te dice, pues te dice, luego es por si acaso. Y sonríe siempre y sonríe y dice, por fin me van a dejar jugar. Y nada, se queda en esta mesa. Diferente entre las dos mesas, tío. Yo estoy perfecto donde quiero estar.
+
+[01:12:57.620] Yo en visión panorámica y con el pijín al lado, que le voy a dar cera. Es lo que os he colocado, si soy más listo que vosotros. Vale, pues veis que salen las sirvientas y también sale Mei. ¿Habéis visto a Mei? No, no lo he visto. ¿Dónde está Mei? Joder, eh, Mei. No, Diego, el token. ¿Dónde está el token de Mei? Ahí está, la más mejor. Uy, perdón. Yo esa no la conozco. Es la sirvienta.
+
+[01:13:27.070] Ayudó a Vanzo, a Vestisto y ahora ayuda a Kalista. Es una de las sirviendas que más o menos sabréis con ella. No se la ha chuscado Gur, ¿no? En ningún momento. No, Gur no se la ha chuscado. No, es jovencita. Estás muy jovencita. No, no, es que pensé que era el de la fiesta esa donde Gur se quedó también con ellas. Haciendo de reverencias a quien entraba. Pues veis que empiezan a moverse, ¿sabes? Empiezan a traer platos para servir. Veis que empiezan a salir por estas mesas. Van como en fila sirviendo.
+
+[01:13:57.550] ¿Vale? Y os empiezan a poner varios platos en todas las mesas. Amarok, sí, ¿sabes? Os ponen todos platos. Diferentes platos extraños. Y después vuelven hacia la otra mesa. ¿Sabes? A poneros... A poneros más platos. A ver, os empiezan a servir toda esta mesa de aquí. Y... ¿Calista? ¿Dónde era esto? Es que tenía que apuntar yo cosas. Aquí. Vale. ¿Ves que os sirven a todos un plato? ¿Vale? Es como una especie de sopa.
+
+[01:14:29.090] Los sirven a todos en un plato así y ves que Mei pasa por tu lado, Calista, y hace una tirada de percepción. Bueno, tienes 23 de percepción, así que no me hace falta. Ves que te mete como algo debajo de la servilleta de la mesa, ¿sabes? Como cuando te sirve, te mete algo debajo de la servilleta. No sabes qué es, parece un papelito cerrado, ¿sabes? Que te lo mete ahí y os sirven y veis que se marcha. Vale.
+
+[01:14:57.040] La lista coge, abre un poco su abanico, de que el movimiento de ese abanico que reluce con la luz y todo, como desvíe la atención y mete disimuladamente la mano como debajo del plato. Imagínate que la mesa está así, pues hace como así un poco, ligeramente, y lo saca despacito, se lo guarda en la mano y vuelve a esconderlo así. Vale, pues vas a ver que en el papelito hay algo escrito. Vale, cojo y pues si estoy sentada así, vale.
+
+[01:15:29.900] Al lado justo de Yelbrecht es como que abro ese papelito, ¿sabes? Mientras el resto, supongo que están hablando alegremente. Lo abro para leerlo, así como desde arriba, así. Vale, tírame sigilo. A ver si la gente se va a dar cuenta. Por favor, no. Casi cae el 2. Pues nadie se da cuenta, perfecto. Pues ves que en el papelito pone veneno.
+
+[01:16:00.530] Escrito. Pone veneno. Hostia. Vale. Vale. Perfecto. Y que juega fuerte el puto de Yasuoca, ¿eh? Polín. Claro que sí juega. Que he sido yo. Claro. Puede haber sido Marox. Le doy un toque con los dedos a Joerg. Como en el muslo. Que mira. Y con los símbolos… Y nada. Con los símbolos… ¿Qué? Con los símbolos digo veneno.
+
+[01:16:36.620] Que me ha enseñado el lenguaje de los drows. Mándale un mensaje y ya está. Sí, bueno, porque se ve mal. Aparte, el lenguaje y signos de los drows, ¿sabes qué es lo mejor? Que no hay manera de saber cómo descifrarlo si no lo sabes. Ni con magia. Claro, a menos que te lo enseñe. Porque no es un lenguaje. Hablado y no lo oyes. Es con dedos. Entonces no lo pueden aprender. Es lo bueno que tienen los drows. Son muy hijos de puta. Y dice veneno. Se lo dice a Dios.
+
+[01:17:05.920] Y se queda así con la cuchara y hace... Y deja la cuchara. Y mira. Y mira a todo el mundo, ¿sabes? Y como mira... No sé si... Les van a ver, pero da como un golpecito en la mesa. Y no sé si Jin y Banzo se van a dar cuenta. Hacerme una tirada de percepción. Ahí vamos, menos uno, te elíjate. Yo si me haces la miradita de bro... La puedo tirar con ventaja, ¿eh? Jin ya estaba viendo la sopa.
+
+[01:17:43.620] Vale, no se percatan ellos. Estos no se enteran de nada. Pues no puedo hacer nada. Pues no puedo... Pues no puedo hacer nada. No se dan cuenta. A los dos también. Pues nada, no os dais cuenta. Pero veis que Yasuoca come de la sopa. Veis que Ayuko también está comiendo. Yuichi también. Yosoko también. Hanae también. Están comiendo todos. Supongo que Banzo y Jin, si no los habéis apretado, supongo que también.
+
+[01:18:13.980] Y ves que están comiendo. Vale. ¿Hay otra comida en la mesa? No, de momento os van saliendo como platos. Este es como el primer plato. Vale. Vale, pues... ¿Qué puedo hacer? ¿Qué puedo hacer? ¿Qué puedo hacer? ¿Qué puedo hacer? Si quieres pasar, pasa a otro lado. Vale, pues pasa a otro lado. Mientras tanto aquí... ¿Sabemos qué veneno? Vale, en esta mesa avanzo y si queréis hacer algo mientras estáis comiendo esa sopa. Yo quería hablar con la mujer que tengo al lado.
+
+[01:18:52.050] Vale. Es la estratega, ¿no? Sí. Es de los primeros que me he sentado antes de que Maran. Me he decidido sentar aquí. Y me he ido con un porte militar. Que se note que soy un soldado que lleva tiempo echando. Vale. La señora Ayuko, ¿verdad? Le hago una pequeña reverencia. Te mira y te dice, ¿y usted es? Es Jin. Uno de los cazadores que están ayudando.
+
+[01:19:23.540] ¿Los que nos están siguiendo mis estrategias? Estoy instruyendo a los soldados que les falta un airbord para que sobrevivan un día más. Muchos de ellos son campesinos, espero que les entrenéis bien. Sí. Y le iba a decir antes a mi compañera Galista, antes de que nos interrumpiera un pequeño accidente. Me gusta pensar que los cazadores somos el escudo de Kuroto.
+
+[01:20:00.110] Pero los militares son la espada que protegen. Si falta uno, puede que no lo conté. Que se sienta. Creo que ha estado en pocas batallas, entonces. Los que se ponen en primera fila no son escudos, son la tropa de choque. Los que enviamos para que nuestros arqueros o gente más capacitada atrás pueda dar el golpe fuerte. Y nuestras tropas más importantes no pierdan tanto valor.
+
+[01:20:35.760] Bueno, si seguimos pensando como que todos somos prescindibles, al final gente prescindible se acabará. Se reproducen rápido. No, el corazón está aquí. Como semi-orcos. Tampoco está aquí. Bueno, me gustaría discutir sobre, si no le importa, sobre alguna estrategia militares. Estoy interesado en escucharse. Me parece bien, pero ahora mismo estamos en una escena importante, señor Nitojin.
+
+[01:21:13.570] Creo que esto sería mejor discutirlo en algún campo de batalla. ¿Se acercarán al campo de batalla para que puedan esconder? Bueno, si hace falta, sí. Eso sí, tienen que seguir mis indicaciones. Si no, no haría estas estrategias. Y si vosotros seguís, pues dejaremos de tener un escudo y una espada donde mueran nuestros soldados a tener un fuerte unido y así poder darles un buen golpe a esos demonios.
+
+[01:21:47.660] Me parece que hoy se decidirá quién empuña ese escudo y esa espada. No, hoy se decide quién está al cargo. Los que empuñan la espada somos los soldados, como usted ha dicho antes. Y espero que siga siendo así. A veces los gobernantes muchas veces no deben meterse en los militares. No, madre. ¿Me está insinuando algo, señor Jim? No. Bien. No he hecho nada mal.
+
+[01:22:20.030] Pues no espero que no sea algo impropio. No me gustaría tener que echarlo de aquí. Ni yo tampoco irme. Y ya se sienta y ya vendí. Y ves que se gira ya su hoja y empieza a chismorrearle algo en la oreja. Buah, me está cotidiendo. Me está cotidiendo. Vale, pues Banzo, ¿tú querías hacer algo aquí? Eh, sí. ¿Qué quieres hacer? Quería hacer así como que mira un poco para abajo.
+
+[01:22:54.480] Y sabes, en el pliegue este de la barriga, sabes que tiene como balance, tiene escondido entre los tatuajes, tiene escrito como cosas que tiene que preguntar para acordarse. Se mira abajo y dice, vale, mira hacia adelante y en el momento si está comiendo sopa, pues espera que pegue el sorbo o tal. Señor Yuichi. Sí, sí. Aproveche antes que de nada. Me imagino así con la cuchara. Me gustaría saber su opinión sobre
+
+[01:23:25.300] Algún asunto que me ha comentado uno de los cazadores. Dígame. Teniendo en cuenta que vamos a tener ahora un cambio en el poder, ¿qué opina usted del comercio exterior, de comerciar con otros lugares de Arga? Bueno, estaría bien, pero eso creo que deberías hablar con el señor Yuichi.
+
+[01:23:56.700] Que es el que se encarga... Bueno, que tiene grandes flotas que podría... Estoy hablando con él. Ah, no, pues estás hablando con... Ah, no con el Yasuo Oka. Ah, pensaba que estabas con el Yasuo Oka. Vale, perdón, perdón. Vale, y te dice... Estoy con cuidado ahí. Bueno, depende de cómo nos beneficie. El antiguo sol no permitía muchas cosas de fuera y tenía las fronteras cerradas. Y eso solo me dejaba espacio para la isla y poco más. Pero bueno, si las tenemos abiertas...
+
+[01:24:27.200] Y conseguimos algo bien beneficioso. Me parece una buena idea. Creo que al señor Yasuoka también le parecía, antes lo comentaba. Y le miro a Yasuoka y sigo con la conversación diciendo, me parece que es bastante interesante. Me lo comentó uno de los compañeros y sinceramente veo que es una buena evolución para Kuroto, pero viendo cómo está el continente más cercano, no sé si habrían posibilidades.
+
+[01:24:58.290] Pero bueno, primero centrarnos en lo nuestro y luego veremos. Muchas gracias por responder, señor Yuichi. Le pega un sorbo y ahí sí que es donde la caga y con la cuchara hace. Vale, y luego… Mira, así el break y a Kalista, como hicimos que era. Yo ves que le he caído una cucharita y Kalista no sé si está comiendo. No, no está comiendo. Vale. Se ha mirado. Nos vemos a otra cena.
+
+[01:25:28.590] Nada. Hay otros dos. Vale, pues... Los de esta mesa, ¿qué queréis hacer? Maroxi, ¿qué queréis hacer? Yo sí que estoy tomando la sopa tranquilamente. Yo no me he encantado de nada. Y tampoco pienso que vaya a matar a nadie aquí. Y le digo, oye, Nori, ¿me disculpas que te haga una pequeña pregunta un poco indiscreta? ¿Sí?
+
+[01:25:58.700] Me sorprendió que en la última fiesta no te postularas tú al Sogunato debido a tu semblante y poder adquisitivo. No, no, no, yo no quiero esas cosas para mí. Ya tengo otras maneras. Bueno, eso, me vendría grande. ¿Y qué opinas de los candidatos? Ah, bueno...
+
+[01:26:24.560] El señor Yasuoca tiene el poder militar, pero la señorita Karista parece bastante... Mira hacia la otra mesa y dice... Bueno, parece una buena candidata. Y sigue tomando la sopa. Cuando mira hacia la otra mesa puedo percatarme de a quién está mirando. No es muy difícil. Uy, performance no, perdón. Si lo haces bailando, sí, te lo compro.
+
+[01:26:57.740] 18. Sí, sí. Mira a un elfo oscuro que hay ahí. Según me percato de a quién está mirando, es como... Vale. Ya sé qué está pasando aquí. Hay varias cosas aquí mezcladas. Bueno, yo asocio como que... Yo lo interpreto como que ha habido una coacción por parte de... Vale, sí, sí. Yo lo interpreto como por ahí.
+
+[01:27:28.100] Bueno, también son personas que parecen ambas con experiencia, aunque eso de que venga de otro reino a mí nunca me ha acabado de convencer. Ya, bueno, pero creo que se desvinculará o algo así, ¿no? Supongo. No lo sé. ¿Tú qué opinas, Kazuki? Tomaría un poco de la copa. Yo creo que aunque haya sido...
+
+[01:28:03.280] Aunque haya venido de otro reino. Coincido con el joven Nori. Creo que tiene lo que hay que tener para estar en la cabeza de un reino. ¿Un draw al lado? No, a él no. Me refiero a Kalista. Sí, por eso. Y Kalista, si dices que tiene lo que tiene que tener alguien que gobierna es un draw al lado. No.
+
+[01:28:35.100] Tiene la valentía y la perspicacia de ver a través de las personas. Ver a través de las personas. Suena interesante. ¿A qué te refieres exactamente? Me refiero de que es muy avispada. Se le da bien tener los ojos abiertos. Sí, miró. Además, miró a Nori.
+
+[01:29:10.260] Y ahora no le digo. Parece que Kazuki está menospreciando la inteligencia del resto de las personas de esta sala y de esta fiesta a cambio de las de una extranjera. Y ves que te miran algunos, ¿sabes? Ves que Ashae te coge así de brazo, como que te hace así, te tira un poco, ¿sabes? Como un poco asustada, ¿sabes? Como el rollo que haces. Te tira así. Y ves que Nori se queda así y dice, sí, sí, puede ser también.
+
+[01:29:41.500] Ves que empieza a comer la sopa y ves que cada vez como que te está ignorando más. Nori está en plan, tierra trágame ahora mismo. De hecho, voy a seguir jodiendo la marrana. Adelante, adelante. De hecho, Kazuki, por ejemplo, yo veo aquí que el señor Montaro me parece una persona bastante perspicaz e inteligente. No lo dudo. Pero es más, veo a Nori.
+
+[01:30:12.130] Hemos dicho a Montara. Montara, cuando le nombras a él, Maroxi, ves que te mira y el hombre está, que se ha acabado de la sopa de beber, y está con el vaso de sake bebiendo, y ves que te mira y te hace como una sonrisita y tú, aparte eres algo noble y entiendes de esto, lo ves y ves que el hombre es un noble como hay que ser. Y ves que te está mirando como estoy viendo lo que estás haciendo.
+
+[01:30:42.990] Vale, y te está así bebiendo y te está mirando y ves que ni te contesta, ¿sabes? Se queda así bebiendo. Vale, perfecto. Lo que decía, yo creo que todos son... A ver, ¿cómo puedo decirlo? Manu está cansado, ¿vale? Su cerebro va al 50%. Me da igual. Tú has venido a jugar. Sí, yo he venido a jugar. Yo creo que todos son muy bien...
+
+[01:31:20.450] portados entonces me estás diciendo que cualquiera de los que estamos en esta sala podríamos ser un buen shogun incluso usted y entonces qué es lo que hace que calista sea tan especial para poder serlo porque por la otra parte quizás la experiencia militar pero cuáles son los puntos fuertes de la señorita calista como bien ha podido ver
+
+[01:31:54.740] La señorita Kalista ya tiene una buena, una fuerte relación con la mayoría de los nobles que están aquí apostados. Y ya tiene algunos tratos con ciertos nobles que le han podido dar pie a que ella se postule. ¿A qué?
+
+[01:32:19.310] Disculpe mi ignorancia, soy el más novato de todos los que hay en esta mesa, pero creo que negocios hay entre todos los nobles. ¿Ves que todos los nobles cuando vais de negocios empiezan a miraros? Y no muy buena gente. Creo que deberíamos tener esta conversación más en privado. ¿Por qué? Simplemente estoy hablando mientras cenamos de lo que nos acontece esta noche. ¿Hay algo que debas ocultar? ¿Yo?
+
+[01:32:50.700] Por eso, entonces, ¿qué interés tienes con hablar conmigo a solas? Digamos que... O sea, te va a mirar. Vas a ver en su mirada una mirada de no cansancio, no angustia, sino de la típica noche que no has dormido en la típica semana que no has dormido una mierda.
+
+[01:33:34.930] Pues vas a ver esa sensación en sus ojos. ¿Y? Digamos que no soy yo el que debería hablar por la... Por la... Por Calista. Creo que debería hablar usted con ella. Pero yo no estoy hablando de Calista en ningún momento. Estoy hablando de vuestras opiniones sobre una candidata al Sobunato que parece que se va a resolver esta noche. No sé, usted ha elogiado a la...
+
+[01:34:09.570] Candidata Kalista y le estaba preguntando la opinión de por qué debido a que, bueno, mi voto está todavía en incertidumbre y me gustaría, ya que tenéis más experiencia en el trato con ella, saber si es realmente la candidata apta o merece más la pena alguien con más experiencia militar como puede ser el señor Yasuoca. Yo no he pasado mucho tiempo con Kalista en este caso.
+
+[01:34:40.100] Y tampoco con el señor de a su boca. Pero a lo que me refiero, Maroxi, es que intuyo, obviamente no es opinión de todos, que una persona que en tiempos de guerra...
+
+[01:35:17.940] Hay que hacer esto. A ver, me estoy liando incluso yo. Me cago en la puta. Sí, sí, te lo estoy notando. No te lo he estado poniendo tan poco fácil, Maroxi, pero es fácil, venga. No, no. Pero es que yo también estoy un poco Keketabelju, pero bueno. Es muy fácil. Creo que... Es una pregunta muy simple, pero muy simple. No pienses como un noble, piensa como tú. Y me lo dices como tú, no pongas los de noble. Ya verás como te sale. Ah, vale. Que...
+
+[01:35:47.760] No te líes con cosas de nobles. Es directo y rápido. Es muy fácil. Yo creo que, sabiendo que Calista ha estado muy a pie de campo, siempre ha podido ver lo que falta en esta sociedad. Aunque sea en extranjera. Por eso veo bien que se haya apuntado, que se haya postulado.
+
+[01:36:20.340] para hacer la nueva show por fin al menos me das una razón un poco más de peso porque si no conocías a ninguno de los nobles no entendía que hubiese un voto sobre la mesa por tu parte hace mucho tiempo que no he vuelto hace muy poco tiempo y no he podido ver de tan cerca la situación actual pero la forma en la que se ha desarrollado la señorita calista
+
+[01:36:55.540] Por mi parte, creo que ha sido muy buena para el son de ayudar al prójimo. Bueno, en mi caso he de reconocer que sí, ya que, bueno, me presentó a la hermosa señorita Asahi, y me giró, y le hago una cara antoña. Te sonríe, y ves que me dicen, ¿y usted, señor Maroxi? Y ves que es Montaro, que está ahí siguiendo a mí, y me dice, ¿y usted?
+
+[01:37:26.320] Si no es indiscreción. Realmente, precisamente, estoy preguntando un poco por eso porque, bueno, soy más pragmático. Bueno, según me han dicho, ¿a la señorita Kalista la propusisteis los cazadores? Supongo que eso fue un consenso. ¿No estuve de acuerdo en ello? De hecho, me abstuve. En aquel momento tenía otras cosas un tanto más...
+
+[01:37:54.560] Importante es que atender y lo dejé en manos de mis compañeros, que para eso está. Entonces, digamos que acepta lo que salió de sus compañeros. Oh, por supuesto. Yo el trato que he tenido con la señorita Galista ha sido exquisito, pero no la conozco tan a fondo como para saber sus virtudes. Por eso las preguntaba. No obstante, imagino que un gobernador tenga que ser audaz y a par de tener buenos negocios.
+
+[01:38:22.240] Saber también llevar a sus ejércitos. Oh, por supuesto. Y bueno, visto el buen trato del señor Yuichi y el Iyoshuoka debería estar cubiertas al menos dos grandes partes de un shogunato. Ah, bueno, claro. Ellos son la fuerza económica y la fuerza militar. Esto ha sido así desde hace bastantes generaciones.
+
+[01:38:48.980] El Shogun no es, digamos, el líder militar ni el líder económico, sino simplemente es alguien que sea bastante inteligente y perpicaz y que sepa tener una mano resolutiva. Si me pregunta usted, ves que mira y dice, no me importa decirle mi voto, yo votaré a la señorita Kalista. La verdad es que las últimas veces que he tenido reuniones con ellas, pues parecía una mujer bastante ducha en estas cosas.
+
+[01:39:20.180] Además, siempre va bien si tenemos que hablar con otros nobles sedientos para el puesto. Ella parece manejarse bastante bien. Es audaz en sus palabras, no suele ser lo habitual, ya que parece que en estos sitios todo el mundo se anda con rodeos. ¿Y usted? Le agradezco su confianza. Yo sinceramente no sé a quién dirigiré mi voto aún.
+
+[01:39:53.230] Bueno, espero que sea adecuado a lo que usted desea. Y ves que te levanta la copa para brindar. Brindo con él y digo, como le digo, soy bastante pragmático y no me dejo llevar por mis emociones. Aunque a veces hay excepciones. Y vuelvo a mirar a la señorita Sari. Y ves que Montano te sonríe y te dice, sí, todos hacemos a veces alguna locura. Es un placer, señor Maroxi. Igualmente.
+
+[01:40:22.480] Solo un detalle más, señor Montaro. Quería disculparme ya que la última vez no tuve tiempo. Fui invitado a su mesa y apenas pude hablar con usted. Creo que incluso le incomodé en sus charlas. No se disculpe, no tenga problema. Estaba teniendo una charla con el señor Yasuoko, simplemente no cuajo. Pero bueno, siempre encontramos otras maneras de conseguir lo que queremos. ¿Verdad?
+
+[01:40:52.660] ¿Y ese verdad? ¿A quién va? A ti. Vale. Ahora que lo menciona el señor Montoro... Uy, Montoro. Montara. Ahora que lo menciona el señor Montaro. ¿Cuál es su fuerte? Ah. Bueno, digamos que mi familia ha tenido bastantes negocios. Sobre todo por bastantes sitios de Argast. Hasta que, bueno, cerraron las fronteras en Antiguo Shogun y...
+
+[01:41:23.900] Digamos, tuve que parar mis negocios, pero bueno, el dinero que tuve de mis padres y de mis abuelos fue bastante provechoso. Así que de momento estoy cubierto. Esperemos que el nuevo Shogun pueda permitirme otra vez esos negocios. Suena interesante y una apuesta bastante arriesgada. ¿Ves que lleva cosas que no habías visto nunca? Es como un collar que tiene forma como de...
+
+[01:41:56.430] Imagínate un collar egipcio. Sí, objetos que parecen de otras culturas, otros sitios y demás. Exacto, muy exóticos y ves que los lleva como de decoración. Y bueno, os quedáis un rato hablando y me voy a la otra mesa. ¿Os importa? Sí, dale. Vale, pues está ahí la otra mesa. Ves que las sirvientas vuelven a salir.
+
+[01:42:30.530] Las viviendas vuelven a salir, empiezan a recoger todos los platos y se pasa medio por tu lado. ¿Han comido la sopa, Calista? Estás mutez. ¿Mutez? Sí, es más, lo que ha hecho para disimular que no ha comido. ¿Has comido la sopa? No, no ha comido la sopa. Es más, para disimular esto, ha empezado como a hablar con Diablo, ¿sabes? Normal. No ha dicho nada raro ni eso, pero como para...
+
+[01:43:00.290] ha justificado a los dos de que no van a comer la sopa, es como que han tenido como una charla, pero de esas charlas que te quedas hablando y como que te abstraes. Pues un poco ha tenido eso. El cajón de abajo de la cocina, el tengo que arreglar. Como van festando ayunas por lo de Tsugami, me va a pedir si le puedes dar el plato de sopa. Calista, ¿te lo vas a acabar? ¿Y el break?
+
+[01:43:31.980] Ves que Mei coge y te mira, ¿sabes? Y cuando hace eso dice, ay, no traeré, no coger a este. Y ves que a ti traeré otro. Y los coge al de Sherbrooke y Kalista. Y ves que se marcha. No, no, no. No vas a tirar ese. Dame ese, dame eso. Que la gente está pasando hambre, Mai, por favor. No, no, no, no, no, no, no. Y ves que empieza a andar corriendo. No, no, no, no, no, no. Y ves que empieza a andar corriendo. No, no, no, no, no, no. Y ves que empieza a andar corriendo. No, no, no, no, no, no. Y ves que empieza a andar corriendo. No, no, no, no, no, no, no. Y ves que empieza a andar corriendo. No, no, no, no, no, no. Y ves que empieza a andar corri
+
+[01:44:00.270] ¿Y cómo se lo dices? Cuéntame, ¿cómo la persuades? Lo que te estoy diciendo. Mai, por favor, los platos. Mai. No, eso no me la persuades. No. Eso no me la persuades. Es una sirvienta y estoy cenando con los nobles. Si le digo que me deje el plato, me tiene que dejar el plato. A ver, vamos a tirar inside. Tírame persuasión. No la voy a intentar convencer. No, se lo digo como si fuese un noble. Si se dice así.
+
+[01:44:31.010] Claro, si lo dices como diciendo un noble, me vas a tener que tirar intimidación. Hoy es mal día para que tengamos ventaja en tirar de constitución. Solo diré eso. Vale, un 12 y Mei... Mei, por favor. Intimida, pero poco, ¿eh? ¡Ojo, Mei! ¡Ojo, Mei! ¡No, no, no! Puedes seguirla, si quieres. Y es que se mete de parada. No, no, es Lukey. ¡Ah, Lukey! Sí, sí. Va a tirar... ¿Quiere el plato? ¿Quiere el plato? Vale, pues fallas otra vez. Pues nada, nada.
+
+[01:45:06.220] Los dos dicen que no. Y se va, y ves que se va como corriendo. Incluso se le han caído cuando le ibas diciendo, ibas saltando y se le iban cayendo gotas de la sopa por el suelo. Iba muy nerviosa. ¿Qué le pasa? Y mira a Kalista y a Yelbrek. ¿Cómo diciendo? Yelbrek y Kalista creo que están en plan del dios, la que nos hemos liberado. Y Yelbrek te mira y te hace... No sé si lo entiende. ¿A mí? Sí, claro, te hace... No sé si me entero.
+
+[01:45:41.280] Tírame inside. A ver, yo quiero enterarme. No, no te enteras. Y me avanzo como intentando y digo, ¡ah! Y me giro y miro a Hanai y digo, como interpretando que haga algo con ella o algo así. ¡Ay, Dios! ¡Hijaos! ¿Aplicas lo que pasa?
+
+[01:46:14.800] Y Henry está mirando y dice, ¿qué quiere? Nada, aprovecha. Y vuelvo a mirar a Silver. Se puede llamar una cara. Facebook. Digo, ¿qué? Entonces, como, déjalo, ¿sabes? Mira esto. Mira esto y para tapar lo que está haciendo esta gente va a empezar a crear ella otra clase de tensión en la mesa. Que va a ser mirar a Yasuoca.
+
+[01:46:50.060] Y decirle... Me alegro volver a verlo y a su boca. Está nervioso. Mi cargo no me permite ponerme nervioso, señorita calista. Espero que a usted tampoco. Estoy bastante tranquila. Bien, espero tener una buena competición con usted. No se preocupe. Creo que votaremos limpiamente. Y decidiremos lo mejor para Colota.
+
+[01:47:29.020] Nosotros, por supuesto, elegiremos. Y cuéntame, ya que no he podido evitar escuchar tantas conversaciones de usted sobre milicia, quería preguntarle sobre otras opiniones de otros frentes, ya que estamos. Mi pregunta es, ¿cómo va a sostener el ejército económicamente?
+
+[01:47:58.640] A largo plazo, digo. Al fin y al cabo, esto va para larga. Bueno, pues... Uy, se va a cenar. Malas horas estas. Perdón, sí. Nada, ya ha vuelto. Vale, ¿vas a cenar? No, aún no. Ah, vale. Pues ves que te mira y dice, adelante. ¿Qué quieres saber? ¿Cómo sostendrá el ejército? Claro, ya lo he preguntado. Sí, perdón.
+
+[01:48:32.960] Bueno, espero que no quiera cotillear en mis planes para si estoy al cargo. No, es porque al fin y al cabo yo sigo también siendo una votante. Sí, pero supongo que votará por usted. Es probable, pero quién sabe, a lo mejor si es capaz de persuadirme. Además, al fin y al cabo supongo que tendrá planeado qué es lo que va a hacer a futuro.
+
+[01:49:04.050] Y creo que a todos nos interesa escucharlo, ¿no crees? Y mira a todos los de la mesa. Miro a sobre todo al señor Ruichi, a su mujer, a Jin, a Juno, a Banzo, a Hanai. A todos los miro. Como diciendo, a todos esto nos interesa, así que... Y se te queda mirando y dice, sí, igual que los suyos, haremos una cosa. Cada uno diremos...
+
+[01:49:36.690] ¿Cómo lo vamos a solucionar? Así que ves que te estén de la mano y dice, adelante señorita Calista, usted primero. ¿Cómo solucionaría el tema del ejército? El tema del ejército, a largo plazo, básicamente lo que habría que hacer es reforzar el comercio. Con un comercio fuerte puedes hacer que el ejército también sea reforzado, abriendo por supuesto las fronteras.
+
+[01:50:07.810] para un comercio con otros continentes y otras naciones. De esa forma, reforzando el comercio, tendrías una forma de poder auxiliar a ese ejército que a largo plazo solamente está destinado a caer en bancarrota. Pero claro, para eso hay que tener no solamente una visión militar, sino también hay que reforzar también
+
+[01:50:37.410] Otra clase de negocios. Por supuesto. Por eso estaba hablando con el señor Yuichi cuando ustedes han sentado. Oh, me alegro. ¿Y habéis planeado entonces sobre qué negocios habéis hablado? No planeado. Simplemente hemos puesto a la mesa pequeños detalles. El señor Yuichi tiene la mayor flota de Kuroto y los mayores negocios. Así que, bueno, sería una carta importante. Si quiere...
+
+[01:51:07.790] bueno, digamos, abrir esos negocios a futuro. Y eso es lo que me estaba comentando el señor Eugishi, que me pareció bastante buena idea, señorita Galista, no os lo voy a negar. Ya veo, ya veo. Y también comprende que para mejorar el ejército también hay que mejorar otras partes del... ¿otras partes?
+
+[01:51:30.670] El comercio y también la vida de aquellos que están un poco más abajo. Al fin y al cabo, ellos son los que van a formar las nuevas tropas. No nos interesa para nada que los yokais se enfrenten a simplemente simples campesinos débiles que sean fácilmente... ¿Cómo decirlo? Sean fácilmente eliminados. Nos interesa, soldados. Un campesino.
+
+[01:51:58.140] Me está insinuando que dejaría al pueblo sin comer. ¿Se te oye mal? Ahora bien, no sé qué tocabas. No, creo que ha sido el micrófono. ¿Cómo puedes saber? Uno de mis primeros puntos ha sido el comercio. Y si entiendo un poco de eso, ¿sabes que el comercio es el sustento básico de gran parte de Kuroto? Y a lo que yo me estaba refiriendo es que...
+
+[01:52:29.660] Si quiere mejorar el ejército, también tiene que mejorar la vida de la gente común. Ya que al fin y al cabo... ¿Cuándo? ¿Cuándo? Es que está bebiendo agua ahora mismo. Y la sopa. No se te oye. Que joder, que me llaman ahora. Cabo en asol, mangas verdes. Nada, te voy a resumir un poco esta escena. Vale, pero espera, espera. Él te va a decir. En el momento te va a decir.
+
+[01:53:04.190] ¿Estás dudando de que yo dejaría a mi gente comer? O sea, que yo me dedique a la militar no significa que yo deje morir a mi gente y, por supuesto, sé que una buena alimentación es para un buen ejército también. No, lo que él le va a recalcar es... Todas las veces que he escuchado de ti y todas las veces que he hablado contigo, siempre has hablado de milicia. Y lo que a mí me preocupa...
+
+[01:53:30.300] Es que lo que a Calista le preocupa es que deje otros frentes por debajo de la milicia. Porque aunque aún estando en guerra, el resto de los frentes es todo como una pirámide. Si coges y le das mucho peso a un lado, se va a derrumbar por ese lado. Entonces, es el mundo de Calista. Porque él en ningún momento ha dicho que cogería todo el dinero para los héroes.
+
+[01:53:59.970] Simplemente te está diciendo que estamos en guerra y entonces pone más dinero ahí para la guerra y resolver la guerra rápido. Claro. Son diferentes puntos de vista. O sea, no quiere matar a la gente de hambre. No, no, pero a lo que Calixta le preocupa es que tiene una visión como tan centrada en la milicia, ¿vale? Que es a lo que yo quiero ir. Que no está viendo otros panoramas generales, que no solamente la guerra, no solamente es el tema de la guerra.
+
+[01:54:24.460] sino que también el problema es que estamos en plena crisis y que por ende, si quiere mejorar el ejército, no solamente puede centrarse en poner dinero al ejército, tiene que poner dinero también a otros lados para solventarla. Y con esto voy a cenar. Vale, pero es como simplemente he hecho esto, uno, para que las siguientes comidas vayan saltándose, ella seguir hablando, debatiendo con este hombre. Que te hemos entendido, vais a cenar. Pues eso.
+
+[01:54:54.060] Que así no como veneno. ¿Cómo que no vas a comer veneno? Vete a cenar. Se me vas a comer. Joder, se me vas a comer veneno. Vale, pues... Banzo o Jin, ¿queréis hacer algo? Mientras Calista está hablando con Yasuoca. Yo me he metido en la boca del lobo. Yo no quiero estar aquí. Pues... Es de mala educación levantarse, ¿eh? Y por eso Maroxi es el más inteligente de Kurato. Haciendo la conversación... Tira, tira, Jin. Perdona.
+
+[01:55:24.400] estoy sintiendo la sopa está muy buena para viviendo escuchando la conversación con un calista y ya su boca me imagina avanzo así como un partido de tenis y se le olvida que en este tipo de conversaciones mejor no interrumpir y dice yo no sé qué
+
+[01:55:48.900] Yo no sé mucho de política y cosas así, pero hay cosas que me enseñaron en la aldea y que he visto que quizás se puedan aplicar aquí. Vale, pero Yasuoka y Kalista están out, ¿vale? O sea, imaginaos que están hablando y tenéis que hablar con otra gente. Y no reciben. O sea, no habléis con Kalista y Yasuoka, please. No hacen nada. Pero no sé. Da igual. A siempre.
+
+[01:56:18.320] Es que si no, no lo puedo rodear porque no puedo cortar y decir algo que Kalista quizás responda, ¿sabes? Nos pasamos a la otra mesa. Sí, nos pasamos a la otra mesa. ¿Vale? Pues nos volvemos a la mesa de Marox y Kazuki. Así que seguís hablando de vuestras cosas. El señor Nori, este que tiene abajo, sigue estando un poquito nervioso. Al otro, a este de verde, lo veis cada vez un poquito más borracho.
+
+[01:56:47.440] Ahí ves que come la sopa, bastante educada, y ves que cuando acabes te va mirando, te va echando algún que otro ojo, te va acariciando un poco, te va dando caricias. Y Henry y Montaro se han puesto a hablar, entre ellos están discutiendo sobre algún que otro negocio, alguna cosa que haya encontrado, le enseña a Montaro esa cosa egipcia que le han traído de hace poco, se la enseña y ves que están hablando. Y decidme vosotros qué queréis hacer. Yo me quiero percatar de los...
+
+[01:57:20.400] juguetitos que tiene Montaro. Vale. Pues te vas a ver como un... Eso, un... Es como un escarabajo dorado con alitas. Típico egipcio. Es como una chapita que lleva aquí. Vale, sí. ¿Qué más te vas a encontrar? Ah, sí. Lleva también como una especie... ¿Qué era eso? No me acuerdo. ¿El ojo de Horus?
+
+[01:57:49.920] No, no, no. Otra cosa, estaba pensando en otra cosa. Ostras, no me acuerdo. Pero da igual, no te preocupes, que no necesito saber el qué exactamente. Varias cosas de diferentes puntos. Disculpe, señor Montaro. ¿Sí? No he podido evitar percatarme de sus artefactos tan exóticos. Oh, sí. ¿Me gustan?
+
+[01:58:18.800] Soy un aficionado a artilugios un tanto extraños y, bueno, exóticos, como pueden ser los suyos. Me preguntaba cómo ha sido capaz de hacerse con ellos. Bueno, digamos que tengo mis contactos. Me lo han traído de un lugar bastante exótico. Creo que era la ciudad de Amnem. Pues eso está bastante lejos.
+
+[01:58:49.120] Sus contactos no han de ser solo competentes, sino bastante audaces y le han hecho llegar algo desde esa distancia. La verdad es que sí. Y te sonríe. Es como una mirada cómplice. Estaría bastante interesado en artilugios extraños y exóticos. ¿Quiero hacer una colección? Sí.
+
+[01:59:22.270] pudiese tener la oportunidad, no lo descarto, pero soy sobre todo más admirante de las armas sutiles. Me gusta bastante el trabajo de artesanos herreros de calidad. Bueno, yo suelo exportar más baratijas y ves que coge esa cosita, ¿sabes? Y te la pone encima de la mesa y te la lanza para que la veas. Bueno, llamar baratija a esto es aventarse mucho.
+
+[01:59:53.470] Bueno, ya me entiende. Ratija para algunos. Son detalles de diferentes lugares. Bueno, habrá podido observar a mi llegada por ese ímpetu de querer darle una sorpresa a la señorita Asahi, que soy practicante de algunos trucos mágicos. Y bueno, pues del mismo modo también hay objetos que a veces hacen cosas extraordinarias.
+
+[02:00:22.940] Pues sí, eso he contado, pero creo que estos no tienen nada que ver. Son simplemente... ¿Estas mutas? No, estoy hablando. Hola. Ahora. Sí he oído hablar de objetos mágicos, pero esos parecen bastante más caros de lo que he pagado yo por esto. Estos son simples prácticas, señor Maloxi. Bueno, el caso es que quizás sus contactos puedan ayudarme a encontrar cosas aunque sean de mayor valor y bueno, pues...
+
+[02:00:53.300] Tenga un nuevo foco de inversión. Bien, pues... Hablaré con ellos. Se lo haré saber. Y... Tendremos una charla, usted y yo. ¿No? Acaba de... Llamar mi atención bastante. Y ves que te sonríe y... Bebe un trago del sake. Quiero mirar qué está haciendo Fukami. Espera, Kazuki, ¿tú quieres hacer algo? Mejor que digas lo que hace Fukami, la verdad.
+
+[02:01:27.710] Zucami está acabando de comer y tiene una mano en tu pierna. Tiene así cogido Pong. Vale. Lo que va a hacer es, como ya está diciendo, bueno, creo que va a ser el último día que va a pasar esto. Que no creo, pero bueno. Va a terminar de tomarse la sopa, poco a poco. Va a mirar a la mesa.
+
+[02:01:58.030] Va a mirar a... Le va a hacer una sonrisa de... En plan... La típica... No es una sonrisa forzada. Sino va a mirar a Fukami con una cara de... Hemos hecho un trato. Vale. Y va a mantener la mirada... Y está atento en general. Un poco... A todo. Vale. Pues... Maroxi.
+
+[02:02:23.280] Ves que cuando el señor Nori, ves que se levanta, se disculpa, que dice que va al baño. Ves que se disculpa y se va. Y ves que se le cae un papelito. O un trozo de papelito. Es que se va hacia el baño. Es como un trozo roto de un papel. Lo voy a coger igual que le tiré la copa a la cioneja. Vale. Con esto. Y lo que vas a ver...
+
+[02:02:54.590] Es como el típico de esto de talonario. El típico de talón. Como que está roto. Solo tienes un cacho muy pequeño, como la punta, una esquina. Y ves que pone de inversiones. Falta el cacho. Vale. Vale. ¿Quieres hacer algo? No, he hecho como que... Me ha traído el papel justo debajo mío, he tirado un cuchillo.
+
+[02:03:34.370] En plan de, uy, qué patoso que soy. Me he agachado, he cogido este papel y he leído lo de inversiones. Vale. Y digamos que me lo he guardado. Perfecto. Pues nada, seguís en la mesa y ves que al cabo de un rato vuelve Nori y se vuelve a sentar en su sitio. Ha ido al baño simplemente. Ay, Henry, creo que no hemos tenido el placer de hablar demasiado.
+
+[02:04:07.280] Encantada, señorito Amarok, sí. Igualmente. Una sonrisita pícara. A ver, esto. Suko me ha hablado bastante bien de ti. Dice que sois bastante amigas. Sí, un poco. Nos lo contamos todo. Y te sonríe. ¿Todo? Y miro a Suko. A Suko como que agacha un poquito la cabeza y la otra dice, sí, todo. Y te sonríe.
+
+[02:04:41.010] Entiendo. Bueno, ¿cuál es su historia? ¿Mi historia? Bueno, tengo un linaje bastante antiguo con el shogunato. Mi familia lleva sirviendo a este shogunato desde hace bastante tiempo. Y bueno, siempre ha estado bien. Y te mira y dice, ¿y te veremos más ahora por lugares de palacio, señor Maroxi?
+
+[02:05:12.590] Bueno, ya os he dicho que soy más de pasar desapercibido. Pero sí, al menos tengo razones importantes para venir por estos barrios. Siempre y cuando sea invitado. Kasuko te da como un codazo, ¿sabes? Así por debajo de la mesa, como un codazo. Y ves que Anri sonríe y dice, seguramente no estará, señor Maroxi. Y te sonríe.
+
+[02:05:44.080] Ya puedes cambiar de mesa con lo de Banzo, si quieres. Eh, Kazuki, ¿tú quieres hacer algo? Vale. No, Kazuki, el pobre está... Kazuki está... Deje su mensaje y después de ir la señal. Está en plan, tierra, trágame, que esto se acabe pronto. Vale, pues Banzo, lo que querías hacer tú, mientras estaba hablando Carlista con Yasuoca, ¿qué quieres hacer? Eso se interrumpo. Bueno, cuando me hablas, digo que...
+
+[02:06:14.770] He visto y me han explicado que varias razas, varias tribus, bueno, no sé mucho de política, pero hay ideas que me vienen a la mente, que podríamos ser los cazadores para ayudarle en el tema del ejército, señor Yasuoca. Creo que usted es un eslabón clave, pero, por ejemplo,
+
+[02:06:42.560] ¿Ve usted que hacer un servicio militar, por ejemplo, estaría bien? Bueno, eso es lo que hacemos con los soldados. El problema es que, dada la guerra, pues claro, hemos tenido que conseguir soldados de algunas aldeas. O voluntarios. Menos expertos, por supuesto. Nuestros samuráis están bastante entrenados.
+
+[02:07:07.540] Por lo que he entendido, ¿eh, Paul? Ahí ya hay como una especie de servicio militar, ¿no? Exacto, para la guardia del segundo. Obligatorio. Para ser samurái tienen que hacer una... ¿Sabes? Tienen que demostrarlo, ¿sabes? No vengo yo. ¿Soy samurái? ¿O es como la mili? Aquí, que a los 18 tú entras al servicio militar y luego el que se quiere quedar se queda... No, es opcional. Es opcional. Y ves que después de esto te mira y mira Calista y dice, bueno, parece que no soy el único que hable de cosas militares.
+
+[02:07:39.220] Sí, pero es lógico. Es uno de los que están efectivamente allí en el sur. Y hay algo muy curioso que he escuchado del sur. Parece que dichos generales que está hablando y que deberían ser importantes, parece que les cuesta un poco la toma de decisiones. Poder responder a eso, querido Yasuoca. ¿Ves que mira a Yuko?
+
+[02:08:08.160] Y ves que Ayuko se levanta y dice... Nuestros comandantes dicen que están cometiendo errores, señorita. No, solamente me han llegado rumores de que les está costando bastante tomar decisiones. Los rumores parecen ser infundados. Al menos detuvimos la primera ola. Y parece que las defensas se están construyendo tal y como mandé. Sí, en eso tiene razón. Por supuesto fue...
+
+[02:08:39.180] También ha llegado a mis oídos, que fueron claves también los cazadores, como... ¿Cómo decirlo? Así. Un dique, un dique. Para romper esas olas que venían hacia el ejército. Sí, eso me dijeron. Parece que también colaboraron. Un ataque de elefantes, eso dijeron. Lástima que perdimos a algunas hombres en ese ataque. Supongo que... habréis...
+
+[02:09:10.930] no me han llegado oídos ya que no soy parte de los cazadores que están en el sur pero supongo que nuestros generales y los cazadores habrá se habrán coordenado de alguna forma o algo así no estoy muy seguro no habréis tomado los generales no habrán tomado a los cazadores bajo su liderazgo y juntos habrán hecho
+
+[02:09:40.430] ¿Habrán querido coordinarse o simplemente no les han dicho nada? Bueno, son los cazadores que se van al ejército. Supongo que se deberían presentar. Creo que el señorito Banzo, y mira hacia Banzo, se ha presentado hacia el comandante Hati y la está ayudando, pero otros parece ser que aún les falta aceptar las órdenes de un comandante superior. Si es así...
+
+[02:10:11.600] Ya que están siendo partidos del ejército y ayudando, ¿por qué no les trata como tal? Y son simplemente echados a un lado. No son echados a un lado, señorita. Simplemente no les puedo ordenar porque no están bajo mi cargo. Ya lo saben. Así que, bajo mi punto de vista, tengo a unos cazadores en el sur que entorpecen a mis soldados en algunos de mis estrategias. Así que lo correcto sería que esos cazadores hablaran con mis comandantes.
+
+[02:10:42.690] Y se pusieran las órdenes de ellos. Y si sabes que están entorpeciendo, ¿no has tomado medidas más activas? Eso he intentado, pero parece ser... ¿Qué dices? Perdón por la interrupción, pero creo que de los que estamos aquí soy el que más en el sur ha estado, junto con mi compañero Jean, al fondo de la mesa. Y sinceramente,
+
+[02:11:14.540] El campo de batalla y lo que está sucediendo en el sur es lo mismo que está sucediendo en esta mesa. Hay disputas y estamos en desacuerdo en muchas cosas. No estamos organizados, pero tampoco hay colaboración. Ati es uno de los comandantes más válidos que tiene y la verdad que le agradezco mucho todo lo que me ha enseñado. Pero creo que el primer paso para ganar sería que ustedes dos se pusiesen de acuerdo. Y miro a Kalista y miro a Yasuoca. Vamos todos en la misma dirección.
+
+[02:11:45.220] Somos los que, en teoría, mandáis, esperáis qué va a pasar con los hombres en el sur y con los cazadores. Y luego que te mira y te hace como un saludo y dice, ¿no es correcto, señorita Kalista? Creo que no es justo acusar a la señorita Ayuko de no saber controlar a esos cazadores cuando son ellos los que nos han presentado. Entonces ella dice, no, no es, no, pero...
+
+[02:12:14.590] No es tampoco mi responsabilidad, es efectivamente la suya. Y bueno, no lo estoy culpando, sino estoy diciendo que al ser el ejército parte su responsabilidad y los cazadores efectivamente estar participando con el ejército, creo que sería monester que si está viendo usted que está endorpeciendo a la tarea del ejército,
+
+[02:12:41.090] Tomar medidas más activas para que dichos cazadores no... Dejasen básicamente de entorpecer. Es lo que estoy diciendo. Y no estoy diciendo nada malo. Ni siquiera estoy discutiendo. Estoy batiendo con ustedes y pudiendo sacar puntos importantes. Como esta resolución. Tomar más activamente el mando. De forma que así estos cazadores no entorpecieran.
+
+[02:13:10.700] Ves que se pone un poco más recta y te dice, señorita Galista, el mando está tomado. Pero las leyes del antiguo shogun decía que nosotros no podemos ordenar a los cazadores. Así que tengo las manos atadas con eso.
+
+[02:13:30.030] Informándole a los cazadores sobre los movimientos militares. Creo que eso sí puede. Sí, pero creo que es más decoroso que se presenten ellos al campo de batalla y no tener que ir yo a buscarlos y avisarles de que están entorpeciendo. O usted, cuando se ha sentado aquí, ha pedido que nos presentemos nosotros. Se ha presentado usted, ¿verdad? Pues en el campo de batalla es lo mismo. Sí, tiene razón, pero tampoco cuesta tanto enviar emisivas.
+
+[02:14:00.500] ni presentarse. Y salen rayos. Sí, sí, pero es como, es en plan, sí, salen rayos. Es como, pero que ahí está, está más, no está tanto discutiendo, sino que está debatiendo. Sí, sí, está dando por saco. Claro, estoy dando por saco, pero no los estoy discutiendo y les estoy diciendo la verdad. Si es tu responsabilidad del ejército, ¿por qué no has tomado más activamente el cargo y te has encargado de eso? Si es tu responsabilidad, si están causando problemas. Ella también está diciendo que te presentes tú porque no puedes deciros nada.
+
+[02:14:30.640] Así que no vais a llegar a ningún lado con esto. Claro, claro, entonces eso. Y además... Espera, que Banzo quiere interrumpir. Me iba a tirar por ahí, pero mejor pasamos, ¿no? ¿Eh? Me iba a tirar por ahí por donde iba la conversación, pero mejor lo... Como queráis, vosotros. No, no, no, sí. Ves que rápidamente, como pasa siempre en el momento en el que se ve que no llegan...
+
+[02:14:56.380] a un consenso, pero que sí salen ideas a relucir, que ahí está además, por lo menos en su cabeza, si se apunta el tema de el ejército está desorganizado, se apunta también el tema de los cazadores necesitan más coordinación con esta gente, necesitan comunicarse más y necesitan más comunicación, sobre todo con los generales y tal, ella se lo va apuntando. Es decir, aunque no hayamos llegado a un consenso, ella va sacando ideas para en un futuro resolver estos problemas.
+
+[02:15:25.310] Entonces, va con eso y dice esto, bueno, viendo que no van a llegar a ningún acuerdo y eso, y dice, bueno, cambiamos el tema. Ha sido una charla entretenida, pero creo que hablar todo el rato de esta clase de asuntos tal vez sean muy abrumadores para muchos de esta mesa. ¿No creen? Me permite decirlo. Los cazadores llevamos...
+
+[02:15:55.490] combatiendo esta amenaza incluso antes de que siquiera pronunciamos la palabra. Quizá deberían escucharlos a ellos. ¿Han llevado alguna vez algún ejército, señor Jin? No, pero formado parte de un ejército. Pues entonces mejor háganos caso a nosotros. Nosotros hemos tenido más experiencia y fuimos los primeros en luchar. Contra pequeñas escaramuzas, no con un ejército. Creo que los combates son bastante diferentes. Se necesita una organización. Sus tropas siguen siendo las mismas.
+
+[02:16:29.390] No, se necesita más organización. Además, los rumores que me dijeron antes de los cazadores era que estabais bastante, bueno, desperdigados. Por eso el Shogun nos hizo firmar un contrato. Sí, yo fui el primero que nos mandó la carta al Shogun Alto. Bueno, pues entonces, ¿cómo quiere que le dejemos al mando cuando no sabéis ni organizaros cuántos sois? ¿13? Algunos van y vienen, pero el número...
+
+[02:17:01.300] Aumentar y disminuir. Lo importante es que cada uno hace su papel. Por supuesto, como todos aquí. Veo que no vamos a ir a ningún acuerdo. Es que no sé qué está. Intento decirme, señor Buxi. Ahí, señor Jin. Tenemos que hacerle caso a los cazadores porque han estado luchando más tiempo con yokais. Como ha dicho la señorita Galista, pediles consejos. Les hemos pedido consejos. Creo que el señorito Banzoa está hablando con el comandante Hati. Y te miran.
+
+[02:17:35.570] ¿Te mira a ti, Banzo? Lo que dice mi compañero creo que se refiere a lo mismo que le he dicho yo antes, señor Yasuoca. Es lo mismo que estuvimos hablando en su despacho. Creo que remamos todos en la misma dirección y tenemos los mismos intereses. Simplemente colaboremos. No hay que pensar quién está por encima de quién. Simplemente usted tiene la capacidad y la estrategia junto con la señorita Yuko.
+
+[02:18:06.020] Yo creo que tengo la capacidad como para poder juntar a los 13 cazadores que seamos y usted sabe que esos 13 hombres salen por mil. Y juntos poder llegar en acuerdo. Esto se resolverá con uno de los dos subiendo al trono, pero si uno asciende y el otro no colabora, da igual quién ascienda. El curoto estará perdido. Creo que eso estáis equivocando conmigo, señores. Os mira y dice...
+
+[02:18:34.290] ¿Pensáis que si la señorita Calista sube al trono yo haré algo en contra de ella? ¿Está usted diciéndome que está en contra de colaborar entonces? No, le estoy diciendo que yo colaboraré para ayudar a Kuroto. Mi familia es de aquí de hace muchos años. Quiero ser concreto, perdón interrumpirlo otra vez. Me propongo colaborar entre los cazadores. Que haya un anexo entre nosotros. Pase lo que pase esta noche o mañana. ¿Pero entre quién?
+
+[02:19:07.380] Entre el sector militar, el sector económico y el sector de los cazadores. Creo que son tres fuerzas unidas. Y para eso tenemos un shogun. Para eso estamos aquí, votando a un shogun. No hablo del shogun, Yasuka. Hablo de su verdadera opinión. Mi verdadera opinión es ayudar a Kuroto. Y si eso pasa por colaborar con los cazadores, ¿será usted capaz? Como le he dicho a mi compañera, si los cazadores hacen caso a los que mandan y a las estrategias para acabar con esta guerra,
+
+[02:19:39.520] adelante. Pero si vuelven a ser una fuerza militar que va a su bola, y como han demostrado, bueno, no muy organizada, pues por el bien de nuestros soldados en el sur, deberemos disolveros. No quiero que mueran más hombres por vuestros errores. Lo dije en su despacho, la resolución de los cazadores está encima de la mesa. Otra cosa es los intereses personales que tenga cada uno. Y cada uno quiere defender Kuroto.
+
+[02:20:12.190] Simplemente va a tener que hacer frente a los problemas. Uno el que asume por la puerta y otro el que tendrá en detenernos a nosotros. ¿Van a atacar al Shogunato? No estoy entendiendo qué están diciendo. Creo que nos estáis liando un poco, como jugadores. No, es muy sencillo. Sí, sí. Karista va a meterse ahora, va a interrumpir. Espera, espera, Banzo. Di, Banzo, ¿qué querías decir?
+
+[02:20:42.220] Y usted, así el shogunato disuelve a los cazadores. Los cazadores, ¿qué dejarán de tener privilegios? No he cobrado ni una sola moneda desde que he estado aquí. ¿Qué dejarán de poder en el palacio? Porque estoy diciendo en vuestro futuro, señor Banzo. Porque nuestro futuro depende de quien salga en las votaciones. Estoy diciendo que si salga... No ha sido nunca eso, señor Banzo. Yo lo único que he dicho es...
+
+[02:21:10.030] Que si los cazadores no siguen el mandato y las órdenes de nuestros comandantes, tendremos que disolverlos. No estamos en una guerra. No queremos soldados que vayan por libre en el campo de batalla. Perdemos bastantes hombres. Yo nunca dije disolver a los cazadores. No, si se organizan y están bien dirigidos. Yo lo que dije es que los disolvería si seguís, bueno, yendo por libre cada uno a su bola. Y entonces eso crearía un problema.
+
+[02:21:39.250] Y como entenderéis, todos los de esta mesa, yo quiero el bien para Kuroto. Vivo aquí y tengo mis intereses aquí. Creo que la señorita Cavista y yo tenemos los mismos intereses. Ayudar a Kuroto. La manera que lo hagamos es diferente. El único camino para llegar al bien para Kuroto es que los cazadores estén en esta lucha. Este lo desuelve, creo que perdería un poco la perspectiva de la victoria. Pues entonces, si nuestra tierra está en sus manos, de los cazadores...
+
+[02:22:08.690] Por favor, buscaros a un líder, organizaros y hablar con los comandantes para hacer el frente más seguro. Está usted ya hablando con el líder. Si usted tiene alguna petición para los cazadores, simplemente hágamela saber. No creo que sea momento de hablar de esto aquí. Tengo este presente de cuál es la importancia. ¿Qué me vas a dar? Bueno, esto no es momento de hablarlo aquí, señorito Banzo.
+
+[02:22:41.360] Si usted es el líder de ellos y responde por ellos, bueno, pues encárguese de hablar con la estineta Yuko o los comandantes para ver las estrategias y así ayudarnos en el sur. Simplemente eso. Ves, Juan Celicalista, te mira y dice, no te preocupes, salga quien salgas, ya sea yo el señor de su boca. Tengo que estar en este caso a favor del señor de su boca. Tiene razón.
+
+[02:23:12.690] Nuestros intereses en general es el bien de Kuroto. Y salga quien salga, yo o Yasuoka haremos lo mejor para Kuroto en general. Y si no salgo yo y salgo Yasuoka, entiendo que yo seguiré con mis labores de trabajo y no habrá ningún problema dentro del subunato. Y a la inversa, si yo salgo y el señor Yasuoka no entiendo que...
+
+[02:23:42.130] tampoco interferirán en sus labores. Aquí estamos los dos representantes simplemente para mejorar Kuroto. No te preocupes, Banzo. Es como que entiende que tienen el mismo punto en común, solamente que difieren un poco, pues eso, que tienen un roce de que son competidores, pero al fin y al cabo, pues están buscando lo mejor para Kuroto. Es lo que te está intentando decir Calista, que no te preocupes, que aquí hay roces de que, pues, somos competidores ahora, pero que luego después a futuro.
+
+[02:24:10.670] Entiende Kalista que él se va a comportar igual que ella se va a comportar si pierde. ¿Entiendes? Pues lo mismo. Que si no lo hace ya tengo estrategias, pero... De momento entiende que va a haber buena competitividad. Que no la hay ya porque ha habido veneno, pero es como... No sabéis quién ha sido. Hay muchas veces que tomáis cosas por sentado. Habéis tomado por sentado que este hombre es malo porque patata. Habéis tomado por sentado que el veneno se lo ha puesto este. No...
+
+[02:24:40.830] Cuando veáis algo así lo que tenéis que hacer es investigarlo. Y entonces sabréis que lo ha hecho. Cálmate, cálmate. Calista piensa como persona lógica y normal de, vale, yo estoy compitiendo con este, a lo mejor ha sido este. Es un sospechoso, no el culpable. Calista tiene sospechosos.
+
+[02:24:59.600] Eso sí. Los tienen como sospechosos a Yasuoca y a Yuko porque ella es su competidora, al fin y al cabo. Sí, eso sí. Pero es el más fácil que haya sido Hanae, por mal de amores. Por ejemplo. Claro, pero es eso. Los principales son ellos porque querrán el resto de esos un acto. Luego, si siguen investigando, a lo mejor descubro que ha sido Hanae o la tengo como sospechosa. Ya veremos. Vamos a seguir, vamos a seguir, porque si no nos liamos. Vamos a seguir.
+
+[02:25:27.740] Que no me rayo. Pero eso, que te ha calmado, Banzo. Que salga quien salga, van a buscar siempre lo mejor para Kuroto. Que no te preocupes. Que no es que estén discutiendo por discutir. Banzo, te están haciendo de menos, que lo sepas. Banzo va a defender a los cazadores y lo que... Pero no se ha dicho nada a Maroya su boca. Sí, sí, sí. Pero no te dejan hablar. Ha dicho que va a...
+
+[02:25:52.610] A disolver a los cazadores, ha dicho que se organiza, y el líder de los cazadores está yendo cada dos por tres a la tienda del campamento, le dan las órdenes y las transmitan a los cazadores, es organización. En el combate no, en el combate no estabais organizados, lo que se está quejando. Lo que se está quejando este hombre, a ver que lo entendáis, es que en el combate, la primera oleada que hubo, no estabais organizados, ibais a vuestra bola, un elefante por ahí, otro no sé qué, y ahí murieron soldados por vuestra culpa.
+
+[02:26:21.570] Y eso no lo va a permitir. Entonces, es lo único que os está diciendo. Que os organizáis y hacéis algo o os disuelven. Es lo que os ha dicho. No os ha dicho que os voy a disuelven. Que vais muy a lo loco. Que hay que organizarse y hablar con el ejército. Y, lógicamente, es lo que ha dicho Henry. Ella no puede obligaros. Porque no es nadie. Sois vosotros. Porque hay una cláusula que dice yo no puedo echaros. Lo que quiera entender off-roll, por ejemplo, o sea...
+
+[02:26:48.780] Nosotros una oleada ahora en el escritor la tenemos que defender yendo al campamento, pidiendo instrucciones y transmitiendo estas instrucciones a los cazadores. No, me lo roleáis, oye, me roleáis que no sé qué, que vas a hablar con Anri, vas a buscar no sé qué, que yo qué sé, te buscas cómo va a hacer Anri la defensa, cómo han hecho de no sé cuántos y ya está. Como me lo roleáis con Hattie, pues lo mismo. Piensa que Hattie es el mandado, lo importante es esta. Claro. A lo mejor así entenderlo bien.
+
+[02:27:16.450] Y Calista le ha dado el Zasca en, vale, pues tiene una comunicación más activa. Si ves que no te están haciendo caso, sé más activa tú y mándalos o hagas esto. Ahí le ha dado el Zasca Calista. Sé más activa, si no te están haciendo caso. Y calla ya, que si no se nos lía esto. Es un montón. Tengo un montón de cosas aquí apuntadas que no las vamos a hacer. Y ya os he dicho que se ha tirado muchos hilos y nos habían parado. Y lo que va a pasar ahora es que veis que las...
+
+[02:27:46.190] Las señoritas vuelven a salir, recogen todos los platos, os sirven el postre. ¿Dónde está esto? Aquí hay de postre. En el postre hay algo bastante extraño. Es como un helado, ¿vale? Y por encima tiene como una especie de flor de estas, de unos pétalos, ¿sabes? Comestibles, como abiertos. Y como...
+
+[02:28:12.180] troceadas así de color verde por alrededor, ¿sabes? Como un helado, así en forma de pétalos de cerezos. Y os lo sirven a todos. ¿Tienes foto? No, no tengo foto. ¿Y dónde gasto por aquí? Vale, y nada. ¿A qué sabe? Muy bueno. ¿A qué sabe? ¡A limón!
+
+[02:28:43.790] Vale, pues mientras acabáis de comer, os lo voy a tirar para adelante porque son casi las 11. Acabáis de comer ese postre que os acaban de esto y veis que sale un cónsul de arriba. El torneo. No, no, un cónsul, un cónsul. El del torneo, el del torneo. Y sale el cónsul que dice, bien señores, señoritas, las votaciones empezarán en dos minutos.
+
+[02:29:16.430] Por favor, vayan preparando. Ya saben, si queréis el voto en privado, me tienen que acompañar a la sala anexa. Y veis que se queda debajo de la escalera mientras vosotros acabáis y empezáis a ir para ir a votar. Vale. Pues, ¿quién se levanta primero para ir a votar? ¿Veis que los nobles van yendo? Vale, no voy a mover todos los tokens entre los nobles. Imaginaos que se van levantando algunos nobles. Lo importante es que son vosotros. Yo voy con Fogami.
+
+[02:29:47.890] Cuando va Fukami voy yo detrás porque me tiene como si fuera un muñeco. Yo soy en bolso. Ahora mismo soy en bolso. Has dicho que los votos en privado se le acompañan detrás y no se ve. Pero los que no son privados, ¿se ven? Los que no son privados lo tienes que decir en voz alta. Claro. Vale, quiero saber los votos de la gente. ¿O todo el mundo lo va a hacer en privado? Eso no lo sabes. Eso levantaos y tenéis que decir lo que queréis hacer. No, yo estoy esperando. Vale.
+
+[02:30:18.160] Primero tenemos que votar nosotros. Vale, entonces jugadores. No nos se va a mover, jugadores. ¿Quién quiere ir primero? Si no se levanta nadie, voy a ir yo. Pues yo primero. Da igual, si vais a votar todos. Pues venga, Kazuki, tú primero. Vale, yo me levantaría a la vez que se ha levantado Fokami. Y no tiene miedo a decirlo, se giraría a toda la gente.
+
+[02:30:47.410] Mi voto es para Kalisto. Vale. ¿Siguiente? Me muevo yo si quieres y ya. Nada. Pues me muevo yo, voy con él y voy privado. Yo no voy a decir mi voto. Vale, pues es que te acompaña. Sí, me acompaña, que no hace falta que esto. Te llevo una de esta lateral y me lo dices por privado. Sí, me lo dices por privado y ya está. No tiene mucha pérdida.
+
+[02:31:24.910] Perfecto, pero me dices tú como jugadora por privado. Sí, sí, sí, ya te lo he dicho. Nos voy a mover los todos, lo vamos roleando. Vale, pues, Banzo, que si no nos moveis. El líder tiene que ser el primero. Vengo aquí y le doy una lista a este hombre con todos los cazadores que faltan. Mira, ¿ves? Este, este, este, este, este, ¿vale? Apúntate. La lista. El voto por correo.
+
+[02:31:54.240] Vale, perfecto. Me acerco yo y miro hacia atrás a Kalista y a Yasuoca. Espero no arrepentirme esto, pero siempre confío en los cazadores. Mi voto es para Kalista. Ves que Jebrek va a ir y lo va a decir también y va a decir que para Kalista. Y Maroxi.
+
+[02:32:28.060] Yo no puedo esperar a los nobles. Los nobles, dime qué noble te interese y te lo digo, porque no voy a decir cada noble. Este sí, este no. El de los barcos. El de los barcos, lo hace por privado. ¿Lo hacen todo por privado, no los nobles? La mayoría sí. Hay alguno que quizá no, quizá Fukami no, pero la mayoría lo hacen por privado. ¿Y Ayuko? Ayuko, que Ayuko. Ah, Ayuko. Lo hace por privado.
+
+[02:32:57.680] También lo hace por privado. Los que no lo hacen por privado es Fukami, que va a votar a Kalista. Va a decir, ¡Kalista! Mientras se come así un trozo de carne que había cogido. Y... ¿Dónde está? Ah, sí, la señorita Hanae, que va a mirar y va a decir, ya su boca, mirando a Kalista. Eso ya lo sabía. Eso ya lo sabía yo. No hay que ser...
+
+[02:33:28.430] No hay que ser ingeniero para saber qué es lo que se va a joder. Vale, pues, Maroxi. Pues, te hago igual privado. Vale. Ahora le escribí me la turupela. Elige tu moneda. Es que me creo que pasa una cosa. Vale. Vale, perfecto, me gusta. Vale, y de esto, ¿y cuántos cazadores habéis votado aquí? Los otros que quedaban. La lista de Maroxos. Cinco, ¿no?
+
+[02:34:08.940] Sí, pero sois cinco. Cinco aquí, más los que si vale lo que ha hecho Banzo, pues... Sí, claro, por eso les pediría que me dijera todo el mundo por privado que de esto, que esto lo tengo apuntado aquí. Vale. Empate, te imaginas. Y el señor este consigue... Le dice jugada arriesgada al señor... Para Hanae, se duerme. Vale, pues ahora pongo a dormir. Vale, pues estos son... Ojo.
+
+[02:34:49.870] Vale, pues veis que se van para acá, empiezan a contabilizar los votos y veis que al cabo de un rato sale el cónsul, baja por las escaleras y os mira a todos, ¿sabes? Y dice, música, por favor. Y veis que apagan la música. Un redoble de tambor. Vale. Un redoble de tambor. Y mientras se está jugando el redoble de tambor, veis que Hanay se duerme.
+
+[02:35:20.240] Y se queda dormido encima de la mesa, delante de todo el mundo, en el momento más importante. Le dio mucho, al pobre. Eso dicen. Era de la de dormir, ¿no? Creo que le tirara sordera a Kalista junto a vos. Cuando está sentado le he dicho, has buscado una enemiga complicada. Y yo creo que el susto es a dormir. Además de amores, te lleva al alcohol, te lleva a sobra. Y ves que el hombre dice…
+
+[02:35:50.740] Bien, los resultados son 20 votos contra 12 votos y el nuevo Shogun para un futuro y para defendernos de esta guerra va a ser...
+
+[02:36:21.390] La madre de Jelbrek. Bien. Y ahora sale la madre de Jelbrek por aquí. Sería inesperado, ¿eh? Sería inesperado. La suegra, ¿no? La suegra. Dice la señorita Kalista. Y ves que la gente empieza a aplaudir. Voy a hacer algo muy competitivo. Y va a ser el… No. Va a ser el…
+
+[02:36:48.300] Hacer una inclinación a Yasuoca de ha sido un digno oponente. Eso no es competitivo. Sí, no es. Es respetuoso. Es respetuoso. Pero competitivo no. Competitivo. Es de buena competición. Eso sí. Vale, de buena competición él. Le hago una reverencia en plan de ha sido un honor coger y competir contra ti. Se levanta y te hace la misma reverencia. Vale.
+
+[02:37:17.260] Y nada, no sé si me dicen que me ponga en pie. Se han levantado todos. Y ves que el hombre te pone la mano para que vengas el cónsul. Para que vengas a su lado. Por si quieres decir algún discurso. Vale, pues jolín. ¿Me tengo que preparar un discurso ahora? Vale, pues… Si quieres decir algo. Si quiero decir algo. Si no… No, prefiero no decir nada. Prefiero decirlo otro día. En la coronación. Ahora va a decir… Todos me decís a mí, punto.
+
+[02:37:48.160] no vas a decir va a decir va a decir responde responderé a cada uno de vuestros votos porque han sido todos no solamente votos en un papel sino votos de confianza hacia mi persona para dirigir curoto
+
+[02:38:21.620] mira mira a todos dicen vamos a mejorar el producto y sobre todo vamos a sacarlo de esta crisis y esta guerra en la que se ha asumido para que vuelva a renacer como ese como esa gran isla como es el gran reino que vio que ha sido una vez viva viva curoto dice para que todo el mundo la siga vale
+
+[02:38:54.430] No sé si el resto de los nobles sí lo hacen o simplemente levantan el brazo. Veis que Joichi y Yasuoca simplemente se inclinan, como este respeto, no son como... No chillan esta gente, tienen bastante clase. Y ves que te hacen una inclinación como respeto y la mayoría ven que hacen esto y veis que todos los nobles empiezan a levantarse y a agacharse para mostrarte respeto. Vale. Los miro, los sonríos suave.
+
+[02:39:23.260] y digo bien bien se acerca un nuevo futuro para kuroto uno más brillante nuestras fuerzas unamos nuestras fuerzas de nuevo y hagamos y avancemos y con estas simples palabras con estas simples palabras va a tener el discurso de calista y no sé qué más va a pasar aquí porque no tengo nada preparado
+
+[02:39:52.640] Te dan paso y veis que empiezan, el cónsul os explica, dice, pues muchas gracias por venir, ¿sabes? Ha sido una noche, bueno, espero que os haya gustado, habéis quedado unido bien, espero que las votaciones, la señorita Kalista cumpla con su mandato y cumpla las leyes que dejaron los antiguos show, los antiguos show y siga nuestras tradiciones. Y esperamos, lo típico, esperamos un largo reinado y ves que te hacen una reverencia.
+
+[02:40:21.870] Y veis que los nobles hacen la reverencia y se empiezan a despedir a algunos. Si queréis hacer algo, decidme. Yo sí quiero. Vale. Yo voy a coger a Zuko, me voy a acercar a su oreja y le voy a decir ahora que ya sabemos la decisión que se ha tomado aquí, ¿quieres ir a ver un cerezo? Y veis que te dice que sí. Sí, sí, sí. Y os vais a hacer eso, ¿no?
+
+[02:40:53.980] Sí. No me has dejado ni despedirme de los nobles. Iba a pedir hasta permiso para avanzarme. No te dejaba ella. Ella te ha tirado. ¿Quién más? Banzo, ¿tú querías hacer algo? Sí, quiero dirigirme a Yasuoca y a Yuko y hacerles así un gesto y decirles que ha sido un placer poder hablar con vosotros otra vez. Ahora igualmente. Mi discurso sigue siendo el mismo, señor Yasuoca. Y ahora Yuko.
+
+[02:41:25.580] Si puedo ser un nexo entre nuestras decisiones, las decisiones del comandante Hattie y lo que podamos aportar los cazadores, lo único que buscamos es salir de esto. Así que, esperamos en contacto, si a usted le parece bien. Bien, señor Banzo. Veremos cómo lo hace la señorita camista. ¿Ves que te pone la mano? ¿Sabes para qué le des la mano? Me da la mano.
+
+[02:41:55.660] Es un honor hablar con gente tan capaz en combate. Y ves que se levanta, mira a todos, os hace una reverencia a todos, a Jin, a Jerbleck, a Yaguchi, y veis que os saluda y empieza a marcharse. Yo también me quiero poner aquí al lado de mi colega. Nos volveremos. Jin, tú que quieres ver. Pobrecito. Le digo a Yuko, bueno, espero que nos volvamos a ver en el campo de batalla. Soy una estratega, señor.
+
+[02:42:29.330] Yo no voy al campo de batalla. Y me vuelvo a un panzo. Debería apostarse a Yuko a ver cómo Jin y Palaché destruyen a los novatos. Seguro que algo les puede enseñar o algo puede aprender. Sería bueno. Sí, pero eso no se encarga ella. Ella no se encarga de entrenar soldados. Ah, perdón, lo he entendido mal. Yo he entendido que esta... Esta es esta Tega. Vale, vale, vale. Entonces había una que era la que había entrenado a los soldados.
+
+[02:43:03.820] No, no hay nadie que haya entregado a un soldado. Está el Yasuoka, que es el que tiene la pasta, el que le paga a los soldados. O sea, los soldados curran porque este hombre suelta la pasta, si no, no hay ni soldados. Y después está Andri en la otra, que es la estratega, la que monta un campo de batalla y dice, vale, tenemos esto, ¿cómo defendemos esto? Vale, vale, vale. Pensaba que era una instructora. No, no, no. Es una estratega. Vale. Kazuki, ¿tú qué quieres hacer? Kazuki se despedirá de Fukami si se va.
+
+[02:43:32.460] ¿Con un beso? Por supuesto. Si me deja irme, le doy un beso y le hago una reverencia y me voy. Vale. ¿Qué le dices para que te vayas? Debo reunirme con mis compañeros. Espero que no le moleste. ¿No te quieres quedar conmigo seguro? Debo... El líder me ha mandado una misión.
+
+[02:44:04.500] Debo de completarlo. No lo puedes completar después. Hazme una tirada de persuasión. Me llame Sider, llámame Sider. Esta mujer no tiene nada. Me ha criticado. Ah, no he criticado. ¿Tú lo critico? Ves que te mira y te dice, bueno, pero pásate después por mi alcoba. Lo tendré en cuenta. Lady Fukami.
+
+[02:44:34.590] Y ves que cuando te va a estar y te da una palmada en el culo. Y en plan, me giro y hago una especie de salto que salto a dos casillas. Y luego voy a... ¿Por qué venís todos aquí? Yo he venido a consolarte, tío. No, a ver, Chebrek acaba de ver a Galista y lo que iba a hacer es miraros y me iba a decir, ¿vale? Y se iba a ir a ver a Galista. A ver, yo me he reunido con estos.
+
+[02:45:03.410] Ha sido el momento de irme de ahí. Y lo que va a hacer... Lo primero que va a hacer es mirarte y tú, Kalista, saber lo que va a hacer. Y no te gusta. Le paro en los pies, en plan, le pongo la mano delante y dice, ahora no. Vale, pues se va a acercar a tus aletas y te va a decir, antes he escuchado al tal Maroxi que hay un cerezo aquí cerca. Ay no, Dios mío, no.
+
+[02:45:32.880] y va a decir algo muy lógico en el que nadie ha pensado y te susurra y de todos los sitios más cómodos porque debajo de un cerezo si existe la alcoba por variar porque es bonito romántico porque estáis salidos que es distinto
+
+[02:46:03.730] Mira, yo lo he hecho. Para el rollo que hacemos, creo que es mejor la alcoba. ¿No? Quita, quita. Dice, a ver, hemos utilizado más de una vez el Silence. Mira, mira. Ya, claro, pero la concentración la tengo que mantener yo. Sí, claro, la concentración del Geist la concentro yo. Es el control al lado flipando. No, esto lo estamos susurrando. No, el console dice, bueno, hasta luego, Lucas.
+
+[02:46:37.390] Gusto por un precio te insonoriza el cuarto. No, no, si ya estamos insonorizados. Esto es que ya hemos acabado y estamos haciendo el chorra. Yo lo dejo ahí. Creo que Maroxi va a ir a hablar con Gelberg y le va a preguntar si tiene un unicornio. ¡Hostia! ¡No! Ya verás. Los twists de The Witcher para la gente que no lo conozca. Sí, sí, sí, yo sí lo sé. Mira, Gelberg se dice.
+
+[02:47:08.400] ya pero bajo el cerezo nos pueden ver así que prefiero mantener eso más en privado además si acaso hay otros sitios más privados que el cerezo del palacio que allí se ha enterado la gente de lo que sucede y lo que pasa a mí no me llegan los rumores tengo una idea te coge la muñeca y se te lleva espérate no a ver
+
+[02:47:38.050] Los soldados le dijeron que iba preso. Veis que saca la cabeza de Jersberg y dice, adiós. No ha habido, como se dice, ceremonia de investidura. Todavía... Eso es mañana. No lo sé, pero está siendo arrastrado. A ver, no hace fuerza por no formar un escándalo, pero es como Jersberg. A ver, piensa. ¿Qué tal coño? ¿Jersberg? A ver, ¿dónde quieres ir?
+
+[02:48:08.240] de alrededor y no lo voy a decir aquí vale pues salimos fuera dímelo fuera nadie se ha percatado de que yo no estoy pendiente yo ahora mismo por eso por eso les ha percatado y es como bancar y te lleves y es como yo me va tirando y es como a ver dónde me quieres llevar no sé qué y se acerca y te lo susurra al oído
+
+[02:48:44.050] Te susurra al oído. Te lo digo, por privado. Dímelo por privado. Dilo en público, puto. Vale, a la cala. A la cala, amigo. A la cala, claro. ¿Estamos hablando en japonés o es otra cosa? No, es una cala de playa. Es que también se lo podía dejar en la cala. Se lo queda mirando y dice...
+
+[02:49:16.830] Está bien, pero luego... Está bien, pero a la mañana siguiente, que yo duermo a las 8 horas, tú vas a ir a hacer todo el equipaje, porque yo voy a estar a la mesa polvo. ¿Tengo que hacerlo yo? Sí, sí. Si quieres agarrar por la noche, por la mañana te toca trabajar. Madre mía. Va a tocarse el collar que lleva, va a salir Wasabi y le va a decir, Wasabi, mañana te toca currar. Tienes que hacer las maletas.
+
+[02:49:51.380] La sorpiente se queda como... ¿Dónde está Wasabi? ¡Qué manito! Exacto, no tiene manos. Bueno, pero tiene cola. Es una sorpiente inteligente. Se queda así, como encogiéndose de cola. ¿De qué? Pero si no tengo manos. Si no es el culebrito. A mí no me cuenta. Bueno, ya sacaré ayuda para que te ayude. No te preocupes. Karista, mira, ve que estás hablando con la sorpiente y dice... ¿Vamos a celebrar o no?
+
+[02:50:22.860] ¿Este cómo se llamaba? ¿Este cómo se llama? ¿Pedro? ¿Por ejemplo? No lo sé, ¿le cambiaste el turno a los guardias? Pues Bernardo. Bernardo, es Bernardo. Este es Bernardo, me gusta más Bernardo. Estáis aquí hablando, está Bernardo aquí también y de repente veis un destello blanco que sale de aquí. ¿Vale? Y bueno, pues hasta luego. Bernardo ya no existe. Y Jebeck tira el teleport y desaparece. Adiós.
+
+[02:50:53.420] Y vosotros tres seguiréis a hacer. Yo me acercaría a Vanzo. Le pediría que baja, que bajara un poco porque él es muy alto y yo soy muy pequeño. Dime, dime. Creo... ¿Tienes alguna persona que pueda... en mente por el tema de la misión que me has enviado? Pues... A parte de... Obviamente se señala a sí mismo. Necesitas ayuda con algo.
+
+[02:51:31.490] El otro cambia formas que hay, es Maroxi, pero no creo que ningún interés, no tenga ningún interés en sacar información vestida de jailbreak, menos. Es enemigo. Hay magia para cambiarse, para disfrazarse, ¿no es así? Pero estoy escuchando algo, ¿qué estáis hablando? ¿Puedo echar una mano? ¿Me vais a decir algo? Digamos que haya habido alguien.
+
+[02:52:02.450] que ha intentado conseguir información por parte de banzo y tenemos y quieren intentar saber quién ha podido ser y ha sido disfrazándose de hielo efectivamente se me ocurre gente pero yo tengo que ir hacia el sur me gustaría informar a jati en persona de lo que ha pasado queréis veniros conmigo y lo discutimos por el camino
+
+[02:52:34.240] Me parece correcto. Venga. Se va por sus armas. Y en el cerezo, pues, se mueve. Pétalos de cerezo para cerrarlas. Está lloviendo pétalos de cerezo. No es pum, pum, pum, pum. Es más... ¿No tienes haste? Sí, pero...
+
+[02:53:02.240] Estoy tranquilito, romanticoso, déjame. Todo tiene su momento. No, ya es la segunda. No, ya es más de la segunda. En una semana creo que he quedado bastantes veces. Con esto acabamos el capítulo de Curoto para hoy. He puesto muchos hilos que no os habéis dado ni cuenta, pero bueno. Ha salido bien. Así que os voy a mandar con gente.
+
+[02:53:31.620] Ah, bueno, primero, adiós a YouTube, he de decir adiós.

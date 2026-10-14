@@ -1,0 +1,458 @@
+{
+  "capitulo": 139,
+  "estado_revision": "revisado",
+  "fuente_sha256": "8fea1c20a6e9cd66b96a928fb5efa26a531a12c2b1abe6a12501fdd5ba296f1d",
+  "resumen": "La base sigue rota cuando Guxi vuelve del sur y Archi recoge sus cosas para mudarse a un taller de los bajos fondos, conseguido con ayuda de Víctor Franklon Bolt. El inventor intenta ocultar que ha mejorado los planos, pero Guxi lo descubre y prueba una protección ligera que se despliega como armadura completa al pronunciar la orden. No hay producción en serie ni financiación cerrada en escena. Kurobane sigue buscando qué coordina a demonios y cultistas; Serafina apenas se sostiene por las náuseas de lo que bebió en palacio y muestra un anillo robado. Entre preguntas sobre Danifae, Archi convierte por un rato a Gluglu en un globo atado a una silla, antes de que la magia se termine y caiga. Un cocinero llega por el portal avisando de un ataque a Ukio. Los cuatro cruzan y encuentran la base llena de refugiados del sur. Muertos con armas y otras criaturas han salido del bosque al oscurecer y ya combaten dentro del pueblo. Kurobane intenta proteger a los civiles en una sala y Guxi alivia a Serafina. Archi pasa el detector de yokai por los refugiados revisados sin descubrir infiltrados, mientras el director precisa las limitaciones de carga del aparato. Salen después al callejón y se incorporan al combate de los defensores locales contra zombis y esqueletos. Las torretas de Guxi, los golpes de Serafina y los ataques por flanco de Kurobane ayudan a los apoyos de Ukio a limpiar la calle. Archi, aún oculto, mira más allá del combate y distingue una cabeza esquelética gigantesca por encima del bosque; sus pasos hacen temblar el suelo. Pide formación y prepara una telaraña que logra atraparlo al entrar. La contención no basta: la criatura rompe parte de una casa, inhala fantasmas y arroja un aliento necrótico y psíquico que derriba a los defensores y deja muy heridos a varios cazadores. Guxi y Serafina recuperan a compañeros con magia y pociones mientras Kurobane saca a Zogia de la línea de ataque. Archi envía a Ralph a auxiliar a Cleo, pero el gigante vuelve a tumbarla y destruye al constructo con un mordisco. La pérdida enfurece al inventor, que dispara sus restos mediante catapulta y después trata de acercarse con su armadura. Guxi levanta fuego y torretas protectoras, absorbiendo el siguiente aliento hasta perder la concentración. Los demás se cubren, evacuan heridos y vuelven a golpear, sin lograr aún acabar con la criatura. El monstruo marca a los cazadores y los recoge en sus manos. Serafina descubre el precio al quedar al borde de caer: la marca la mantiene consciente, pero bajo órdenes del esqueleto. La suelta para que ataque a Lealín y luego a Bill y Archi, actos impuestos en vez de una traición voluntaria. Guxi la protege mientras sigue apresado y Kurobane, también marcado y agarrado, utiliza oscuridad y un paso a otro lugar visible para escapar. Los apoyos que habían recuperado vuelven a sufrir y varios mueren. Archi logra una salida para la capitana desviándole un golpe mediante su runa: queda a un punto de vida y la marca desaparece, devolviéndole el control. Libre, Serafina vuelve contra el enemigo y Kurobane consigue rematarlo. Guxi cae de su mano y el esqueleto se desarma en una montaña donde cada hueso grande contiene muchos menores. Entre los cuerpos sin respiración, el grupo gasta revivificaciones y el director permite devolver a tres antes de cerrar nuevos intentos por el tiempo transcurrido. La conversación no deja un reparto de nombres completamente limpio, así que no permite salvar por deducción a todos: Mufasa y Cleo habían sido dados por muertos y permanecen pérdidas sin reversión explícita inequívoca. Los cazadores reúnen a los heridos y se disponen a volver a la base. Archi examina la montaña y encuentra una nigromancia que le aterra, distinta en intensidad de la que conoce de Gelbreak o Sirth. Toma muestras cuidadosamente y se las da a Guxi para que lleguen al clérigo si lo encuentra. No saben todavía quién levantó al gigante ni qué revela ese residuo. El grupo vuelve exhausto hacia el refugio con sus heridos; Serafina se asegura, entre tanto desastre, de que su botella ha sobrevivido intacta.",
+  "afirmaciones": [
+    {
+      "id": "139-001",
+      "titulo": "Volver a una base rota",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Guxi vuelve del sur y ve la base aún destruida; recuerda que no es cazador aunque quiera reparar. Archi ha trabajado en una armadura con ayuda de Víctor Franklon Bolt y recoge sus cosas para mudarse a un taller de los bajos fondos. Kurobane continúa sus pesquisas sobre quienes dirigen cultistas y demonios; Serafina está muy afectada por lo que bebió en palacio.",
+      "inicio": "00:00:00.199",
+      "fin": "00:09:00.069",
+      "cita": "de los planos de la armadura. Él estaba",
+      "entidades": [
+        "Guxi",
+        "Archi",
+        "Kurobane (grafía provisional)",
+        "Serafina Hop (grafía provisional)",
+        "Víctor Franklon Bolt (grafía provisional)",
+        "Base de los cazadores de Sho"
+      ],
+      "ambito": "Kuroto, sesión 139",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "139-002",
+      "titulo": "Archi sí ha mejorado los planos",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Archi finge que aún no ha conseguido buenos resultados, pero Guxi detecta la mentira. El gnomo muestra una armadura ligera que, al pronunciar «armadura de combate», se transforma en una protección completa. Guxi se la prueba, elogia el trabajo y la devuelve. No se muestra aún producción en serie ni un contrato de financiación cerrado con Yuichi.",
+      "inicio": "00:09:00.079",
+      "fin": "00:15:01.949",
+      "cita": "Pacha? Armadura de combate. Y ves como",
+      "entidades": [
+        "Archi",
+        "Guxi",
+        "Armadura de combate de Archi",
+        "Planos de mejora de Yuichi"
+      ],
+      "ambito": "Kuroto, sesión 139",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "139-003",
+      "titulo": "Gluglu flota y la resaca no cede",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Archi ata a Gluglu a una cuerda y lo hace levitar como un globo para que deje de salir por la base rota; al terminar la magia cae contra una silla. Serafina muestra un anillo robado del servicio de palacio y recuerda el interrogatorio y que Danifae está presa. Kurobane intenta preguntar a Lormiau, que no le ofrece la información buscada. No se descubre por ello el origen de la enfermedad de Serafina.",
+      "inicio": "00:06:01.360",
+      "fin": "00:30:03.070",
+      "cita": "Pero, ¿dónde va el globo ese?",
+      "entidades": [
+        "Archi",
+        "Gluglu (grafía provisional)",
+        "Serafina Hop (grafía provisional)",
+        "Kurobane (grafía provisional)",
+        "Lormiau (grafía provisional)",
+        "Danifae (grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 139",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "139-004",
+      "titulo": "Piden auxilio desde Ukio",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Un cocinero conocido de Guxi llega por el portal pidiendo ayuda ante un ataque. Archi, Guxi, Kurobane y Serafina cruzan a Ukio y encuentran la base llena de refugiados trasladados del sur. Les cuentan que al oscurecer han salido del bosque zombis, guerreros muertos y otras criaturas que atacan el pueblo. Kurobane intenta concentrar a los civiles en la sala protegida y Guxi alivia parte del malestar de Serafina.",
+      "inicio": "00:27:00.360",
+      "fin": "00:36:01.990",
+      "cita": "y llegáis a a al portal de Ukio donde",
+      "entidades": [
+        "Archi",
+        "Guxi",
+        "Kurobane (grafía provisional)",
+        "Serafina Hop (grafía provisional)",
+        "Ukio (grafía provisional)",
+        "Base de los cazadores de Ukio"
+      ],
+      "ambito": "Kuroto, sesión 139",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "139-005",
+      "titulo": "El detector revisa refugiados",
+      "tipo": "explicacion_director",
+      "afirmacion": "Archi utiliza el detector de yokai entre los refugiados y no encuentra infiltrados entre los humanos revisados; las auras extrañas corresponden a los seres ya conocidos de la base. El director aclara que el aparato distingue yokai o ilusión y que, para usos relevantes, dispone de una carga. Se aclara también que Tapón fue liberado en las montañas según un relato entre sesiones; no está ya en la base.",
+      "inicio": "00:36:02.000",
+      "fin": "00:42:00.030",
+      "cita": "hacer es poner la Yokedex delante de",
+      "entidades": [
+        "Archi",
+        "Detector de yokai de la base",
+        "Base de los cazadores de Ukio"
+      ],
+      "ambito": "Kuroto, sesión 139",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "139-006",
+      "titulo": "La calle necesita a los cazadores",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Los cuatro salen con sigilo y encuentran a defensores de Ukio peleando contra zombis y esqueletos. Kurobane entra por un flanco; Guxi dispara con torretas, Serafina golpea y los apoyos intentan curar y proteger a los vecinos. Figuran Mufasa, Cleo, Romu, Lealín, Zogia y Bill, con grafías provisionales. Van eliminando a los no muertos pequeños y algunos defensores resultan heridos.",
+      "inicio": "00:39:01.800",
+      "fin": "01:03:02.589",
+      "cita": "La nota es esta. La Cleo. Me dijiste que",
+      "entidades": [
+        "Archi",
+        "Guxi",
+        "Kurobane (grafía provisional)",
+        "Serafina Hop (grafía provisional)",
+        "Defensores de Ukio",
+        "Mufasa (grafía provisional)",
+        "Cleo (grafía provisional)",
+        "Romu (grafía provisional)",
+        "Lealín (grafía provisional)",
+        "Zogia (grafía provisional)",
+        "Bill (grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 139",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "139-007",
+      "titulo": "Un esqueleto se alza por encima del bosque",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Archi mira hacia el bosque y distingue una enorme cabeza esquelética por encima de los árboles; el suelo tiembla a su paso. Avisa a todos para formar. Algunos defensores preparan posición, mientras los cazadores terminan con los enemigos menores. Archi deja preparada una telaraña y logra atrapar inicialmente al gigante cuando llega a la calle.",
+      "inicio": "01:00:00.640",
+      "fin": "01:18:04.030",
+      "cita": "enorme cabeza de esqueleto gigante que",
+      "entidades": [
+        "Archi",
+        "Guxi",
+        "Kurobane (grafía provisional)",
+        "Serafina Hop (grafía provisional)",
+        "Defensores de Ukio",
+        "Esqueleto gigante de Ukio",
+        "Bosque del Infierno"
+      ],
+      "ambito": "Kuroto, sesión 139",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "139-008",
+      "titulo": "El aliento derriba a los defensores",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "El gigante apoya la mano en una casa y la rompe parcialmente, inhala fantasmas y lanza un aliento de daño necrótico y psíquico que derriba a los apoyos y hiere gravemente a los cazadores alcanzados. Guxi cura a una defensora, Serafina da una poción a Romu y se cura, y Kurobane saca a Zogia de la línea de ataque tras darle otra poción. Son rescates iniciales, no garantía de supervivencia al combate entero.",
+      "inicio": "01:15:01.320",
+      "fin": "01:27:00.070",
+      "cita": "y veis como todo de fantasmas empiezan a",
+      "entidades": [
+        "Guxi",
+        "Serafina Hop (grafía provisional)",
+        "Kurobane (grafía provisional)",
+        "Defensores de Ukio",
+        "Romu (grafía provisional)",
+        "Zogia (grafía provisional)",
+        "Esqueleto gigante de Ukio"
+      ],
+      "ambito": "Kuroto, sesión 139",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "139-009",
+      "titulo": "La ayuda de Ralph no sobrevive al gigante",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Archi ordena a su homúnculo ayudar a Cleo y el auxilio la recupera momentáneamente, pero el gigante vuelve a atacarla y destruye al pequeño constructo con un mordisco. El gnomo presencia sus restos y se enfurece. No completa una transformación de tamaño en el mismo primer turno del auxilio: el director corrige la incompatibilidad de las acciones propuestas.",
+      "inicio": "01:27:00.080",
+      "fin": "01:39:01.910",
+      "cita": "lo del humúnculo,",
+      "entidades": [
+        "Archi",
+        "Ralph",
+        "Cleo (grafía provisional)",
+        "Esqueleto gigante de Ukio"
+      ],
+      "ambito": "Kuroto, sesión 139",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "139-010",
+      "titulo": "Guxi sostiene el frente mientras los otros buscan abrigo",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Guxi coloca un muro de fuego, recibe el siguiente aliento y acaba perdiendo su concentración. Vuelve a crear torretas y escoge protección para obtener vitalidad temporal. Serafina y Kurobane se apartan por calles y edificios para recuperarse y evacuar heridos; Archi dispara fragmentos de su constructo con catapulta. La criatura no queda dormida ni inmóvil de forma permanente por esos intentos.",
+      "inicio": "01:36:00.159",
+      "fin": "01:57:00.069",
+      "cita": "Vale, el muro de fuego, ¿cómo funciona?",
+      "entidades": [
+        "Guxi",
+        "Serafina Hop (grafía provisional)",
+        "Kurobane (grafía provisional)",
+        "Archi",
+        "Ralph",
+        "Esqueleto gigante de Ukio"
+      ],
+      "ambito": "Kuroto, sesión 139",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "139-011",
+      "titulo": "Las marcas convierten a Serafina en un arma",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "El gigante marca a Serafina y Guxi y los agarra. Al reducir a la capitana, la marca le impide caer inconsciente pero la deja bajo el control del monstruo y con aspecto alterado. Este la suelta y le ordena atacar a Lealín; ella golpea a la defensora. Guxi sigue protegiendo a su compañera y atacando pese a estar apresado. No es una traición voluntaria de Serafina.",
+      "inicio": "01:30:00.159",
+      "fin": "02:12:00.750",
+      "cita": "pero ahora mismo estás bajo el control",
+      "entidades": [
+        "Serafina Hop (grafía provisional)",
+        "Guxi",
+        "Lealín (grafía provisional)",
+        "Esqueleto gigante de Ukio",
+        "Marcas de muerte del esqueleto"
+      ],
+      "ambito": "Kuroto, sesión 139",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "139-012",
+      "titulo": "La persecución no deja salidas fáciles",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Kurobane rodea la zona, golpea al gigante y es también marcado y atrapado. Usa oscuridad y un paso a otro espacio visible para escapar del agarre. Serafina, aún dominada, ataca a Bill y después a Archi. El gigante mata a defensores que vuelven a caer y mantiene a Guxi en la mano. El grupo no abandona Ukio aunque busca abrigo entre ataques.",
+      "inicio": "02:00:01.360",
+      "fin": "02:36:01.469",
+      "cita": "estás marcado.",
+      "entidades": [
+        "Kurobane (grafía provisional)",
+        "Serafina Hop (grafía provisional)",
+        "Archi",
+        "Guxi",
+        "Bill (grafía provisional)",
+        "Defensores de Ukio",
+        "Esqueleto gigante de Ukio",
+        "Marcas de muerte del esqueleto"
+      ],
+      "ambito": "Kuroto, sesión 139",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "139-013",
+      "titulo": "Un golpe desviado libera a la capitana",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Archi activa una runa para desviar hacia Serafina el ataque que iba a recibir. Ella sufre el golpe, queda a un punto de vida por la marca y esta desaparece: recupera el control. La maniobra no mata a la capitana ni demuestra una curación por poción. Ya libre, se dispone a combatir al gigante en vez de obedecerlo.",
+      "inicio": "02:36:01.479",
+      "fin": "02:45:00.150",
+      "cita": "vida, pero ves que esa marca desaparece.",
+      "entidades": [
+        "Archi",
+        "Serafina Hop (grafía provisional)",
+        "Esqueleto gigante de Ukio",
+        "Marcas de muerte del esqueleto"
+      ],
+      "ambito": "Kuroto, sesión 139",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "139-014",
+      "titulo": "Kurobane acaba con el monstruo",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Serafina vuelve a golpear al gigante y Kurobane lo remata. La criatura suelta a Guxi, que cae y sufre un golpe menor, y se desarma en una montaña de huesos. Cada fragmento grande se rompe en otros huesos menores. La victoria pone fin al combate mostrado, sin demostrar por sí sola quién levantó o dirigió al monstruo.",
+      "inicio": "02:42:00.240",
+      "fin": "02:51:00.269",
+      "cita": "se desmonta el esqueleto. Van cayendo",
+      "entidades": [
+        "Serafina Hop (grafía provisional)",
+        "Kurobane (grafía provisional)",
+        "Guxi",
+        "Archi",
+        "Esqueleto gigante de Ukio"
+      ],
+      "ambito": "Kuroto, sesión 139",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "139-015",
+      "titulo": "Tres regresan y otros se quedan atrás",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Los cazadores comprueban que varios antiguos apoyos no respiran y gastan recursos de revivificación. El director permite devolver a tres y corta los intentos restantes por el tiempo transcurrido. La conversación alterna nombres y gestos hacia la mona, el elfo y otros cuerpos, por lo que no reconstruye sin dudas todos los destinos individuales. Mufasa y Cleo habían sido dados por muertos; no se afirma que toda la compañía sobreviva.",
+      "inicio": "02:48:00.840",
+      "fin": "02:54:00.750",
+      "cita": "a uno. No, solo puedo tirar tres.",
+      "entidades": [
+        "Archi",
+        "Guxi",
+        "Kurobane (grafía provisional)",
+        "Serafina Hop (grafía provisional)",
+        "Defensores de Ukio",
+        "Mufasa (grafía provisional)",
+        "Cleo (grafía provisional)",
+        "Lealín (grafía provisional)",
+        "Bill (grafía provisional)",
+        "Romu (grafía provisional)",
+        "Zogia (grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 139",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "139-016",
+      "titulo": "Huesos con una magia que aterra",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Archi examina los restos y reconoce una nigromancia mucho más inquietante que la que conoce de Gelbreak o Sirth. Recoge muestras con cuidado y las entrega a Guxi para que se las lleve al clérigo si lo encuentra. Regresan agotados y con heridos hacia la base de Ukio; Serafina comprueba que una de sus botellas sigue intacta. El análisis y la autoría de esa magia quedan pendientes.",
+      "inicio": "02:51:00.279",
+      "fin": "02:57:23.040",
+      "cita": "nigromancia, pero es una nigromancia que",
+      "entidades": [
+        "Archi",
+        "Guxi",
+        "Sirth (grafía provisional)",
+        "Gelbreak (grafía provisional)",
+        "Kurobane (grafía provisional)",
+        "Serafina Hop (grafía provisional)",
+        "Muestras óseas del gigante de Ukio",
+        "Base de los cazadores de Ukio"
+      ],
+      "ambito": "Kuroto, sesión 139",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    }
+  ],
+  "historia": {
+    "revisado_hasta": 139,
+    "etapas": [
+      {
+        "titulo": "Inventos entre las ruinas",
+        "texto": "La base sigue rota cuando Guxi vuelve del sur y Archi recoge sus cosas para mudarse a un taller de los bajos fondos, conseguido con ayuda de Víctor Franklon Bolt. El inventor intenta ocultar que ha mejorado los planos, pero Guxi lo descubre y prueba una protección ligera que se despliega como armadura completa al pronunciar la orden. No hay producción en serie ni financiación cerrada en escena. Kurobane sigue buscando qué coordina a demonios y cultistas; Serafina apenas se sostiene por las náuseas de lo que bebió en palacio y muestra un anillo robado. Entre preguntas sobre Danifae, Archi convierte por un rato a Gluglu en un globo atado a una silla, antes de que la magia se termine y caiga.",
+        "referencias": [
+          "139-001",
+          "139-002",
+          "139-003"
+        ]
+      },
+      {
+        "titulo": "El norte también pide ayuda",
+        "texto": "Un cocinero llega por el portal avisando de un ataque a Ukio. Los cuatro cruzan y encuentran la base llena de refugiados del sur. Muertos con armas y otras criaturas han salido del bosque al oscurecer y ya combaten dentro del pueblo. Kurobane intenta proteger a los civiles en una sala y Guxi alivia a Serafina. Archi pasa el detector de yokai por los refugiados revisados sin descubrir infiltrados, mientras el director precisa las limitaciones de carga del aparato. Salen después al callejón y se incorporan al combate de los defensores locales contra zombis y esqueletos.",
+        "referencias": [
+          "139-004",
+          "139-005",
+          "139-006"
+        ]
+      },
+      {
+        "titulo": "La victoria pequeña deja ver una amenaza enorme",
+        "texto": "Las torretas de Guxi, los golpes de Serafina y los ataques por flanco de Kurobane ayudan a los apoyos de Ukio a limpiar la calle. Archi, aún oculto, mira más allá del combate y distingue una cabeza esquelética gigantesca por encima del bosque; sus pasos hacen temblar el suelo. Pide formación y prepara una telaraña que logra atraparlo al entrar. La contención no basta: la criatura rompe parte de una casa, inhala fantasmas y arroja un aliento necrótico y psíquico que derriba a los defensores y deja muy heridos a varios cazadores.",
+        "referencias": [
+          "139-006",
+          "139-007",
+          "139-008"
+        ]
+      },
+      {
+        "titulo": "Salvar a quienes el aliento ha derribado",
+        "texto": "Guxi y Serafina recuperan a compañeros con magia y pociones mientras Kurobane saca a Zogia de la línea de ataque. Archi envía a Ralph a auxiliar a Cleo, pero el gigante vuelve a tumbarla y destruye al constructo con un mordisco. La pérdida enfurece al inventor, que dispara sus restos mediante catapulta y después trata de acercarse con su armadura. Guxi levanta fuego y torretas protectoras, absorbiendo el siguiente aliento hasta perder la concentración. Los demás se cubren, evacuan heridos y vuelven a golpear, sin lograr aún acabar con la criatura.",
+        "referencias": [
+          "139-008",
+          "139-009",
+          "139-010"
+        ]
+      },
+      {
+        "titulo": "Una marca que obliga a golpear a los aliados",
+        "texto": "El monstruo marca a los cazadores y los recoge en sus manos. Serafina descubre el precio al quedar al borde de caer: la marca la mantiene consciente, pero bajo órdenes del esqueleto. La suelta para que ataque a Lealín y luego a Bill y Archi, actos impuestos en vez de una traición voluntaria. Guxi la protege mientras sigue apresado y Kurobane, también marcado y agarrado, utiliza oscuridad y un paso a otro lugar visible para escapar. Los apoyos que habían recuperado vuelven a sufrir y varios mueren. Archi logra una salida para la capitana desviándole un golpe mediante su runa: queda a un punto de vida y la marca desaparece, devolviéndole el control.",
+        "referencias": [
+          "139-011",
+          "139-012",
+          "139-013"
+        ]
+      },
+      {
+        "titulo": "El gigante cae, las pérdidas permanecen",
+        "texto": "Libre, Serafina vuelve contra el enemigo y Kurobane consigue rematarlo. Guxi cae de su mano y el esqueleto se desarma en una montaña donde cada hueso grande contiene muchos menores. Entre los cuerpos sin respiración, el grupo gasta revivificaciones y el director permite devolver a tres antes de cerrar nuevos intentos por el tiempo transcurrido. La conversación no deja un reparto de nombres completamente limpio, así que no permite salvar por deducción a todos: Mufasa y Cleo habían sido dados por muertos y permanecen pérdidas sin reversión explícita inequívoca. Los cazadores reúnen a los heridos y se disponen a volver a la base.",
+        "referencias": [
+          "139-014",
+          "139-015"
+        ]
+      },
+      {
+        "titulo": "Una muestra para el clérigo",
+        "texto": "Archi examina la montaña y encuentra una nigromancia que le aterra, distinta en intensidad de la que conoce de Gelbreak o Sirth. Toma muestras cuidadosamente y se las da a Guxi para que lleguen al clérigo si lo encuentra. No saben todavía quién levantó al gigante ni qué revela ese residuo. El grupo vuelve exhausto hacia el refugio con sus heridos; Serafina se asegura, entre tanto desastre, de que su botella ha sobrevivido intacta.",
+        "referencias": [
+          "139-016"
+        ]
+      }
+    ]
+  },
+  "misiones": [
+    "Defender Ukio del ataque: derrotan la oleada local y el esqueleto gigante, con bajas entre los defensores.",
+    "Proteger refugiados de la base: se concentran civiles y el detector no halla infiltrados entre los revisados.",
+    "Rescatar a los apoyos caídos: tres revivificaciones admitidas; no toda la compañía sobrevive.",
+    "Analizar la nigromancia del gigante: muestras recogidas para Sirth, sin entrega ni resultado mostrado.",
+    "Presentar la armadura mejorada de Archi: demostrada ante Guxi, sin producción o contrato cerrado."
+  ],
+  "preguntas": [
+    "¿Quién animó o dirigió al esqueleto gigante y por qué atacó Ukio?",
+    "¿Qué revelarán las muestras y llegarán a Sirth?",
+    "¿Cuál es el destino individual de cada defensor tras las tres revivificaciones?",
+    "¿Conseguirá Archi financiación y producción para su armadura?",
+    "¿Qué provocó las náuseas inusuales de Serafina tras beber en palacio?"
+  ],
+  "nombres_dudosos": [
+    "Defensores: Mufasa leonino mago; Cleo/Chloe pequeña bárbara; Romu/Romo sanador; Lealín/Lea mujer descrita como mona; Zogia/Zogueta descrita como gata; Bill arquero. Grafías y especies requieren contraste.",
+    "La revivificación final alterna objetivos señalados y nombres: se conserva la cantidad de tres permitida por el director sin fabricar una lista completa inequívoca de supervivientes.",
+    "Ralph/R3/robotito/homúnculo: identidad del constructo de Archi, destruido durante la pelea. Franky es otra creación asociada a su armadura; no se fusionan solo por ser robots.",
+    "Víctor Franklon Bolt: grafía de la nueva amistad mencionada en la preparación, sin trasplantar una referencia externa."
+  ],
+  "contradicciones": [
+    "Las reglas discutidas durante el combate no se generalizan como funcionamiento universal: se registran los resultados que el director admite en esta mesa.",
+    "El plan de dormir al gigante falla por ser no muerto. La catapulta no lo paraliza permanentemente; el director rectifica su lectura.",
+    "Serafina ataca por dominación de la marca y recupera control tras el daño desviado. No convertirlo en homicidio voluntario contra los apoyos.",
+    "Los rescates con pociones a mitad del combate no aseguran el destino al final: varios vuelven a caer.",
+    "No identificar la nigromancia como obra comprobada de Otakemaru solo por una broma de jugador; Archi detecta una magia aterradora pero sin autor confirmado.",
+    "La ausencia de infiltrados se limita a refugiados revisados con el aparato, no una certificación de toda Ukio."
+  ]
+}

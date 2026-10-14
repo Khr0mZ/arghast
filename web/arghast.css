@@ -1,5 +1,6 @@
-.brand { padding-bottom: 21px; }
-.brand-name { font-size: 37px; }
+.brand { display:flex; align-items:center; gap:12px; padding:3px 4px 22px; }
+.brand-symbol { display:block; width:44px; height:44px; flex:0 0 44px; object-fit:contain; margin:0; border:1px solid #c8a96780; border-radius:50%; background:#080a0c; box-shadow:0 3px 12px #0006; }
+.brand-name { font-size:34px; white-space:nowrap; }
 .campaign-picker { border: 1px solid #bc9c5e77; border-radius: 12px 2px 12px 2px; background: #071f1ab3; padding: 13px 14px; margin-bottom: 16px; box-shadow: inset 0 0 0 4px #c1a65c0a; }
 .campaign-picker label { display: block; font-size: 8px; letter-spacing: 1.7px; text-transform: uppercase; color: #c2b485; margin-bottom: 5px; }
 #campaign-selector { width: 100%; min-width: 0; border: 0; border-bottom: 1px solid #b19c5f66; padding: 6px 0 9px; background: #0c2a22; color: #f2dfaf; font: 21px Georgia,serif; cursor: pointer; }
@@ -17,7 +18,7 @@
 .world-campaign { display: block; position: relative; overflow: hidden; border: 1px solid #a28e50; border-radius: 3px 24px 3px 24px; background: var(--parchment); color: #34442b; box-shadow: 0 10px 28px #04182055; transition: transform .2s, box-shadow .2s; }
 .world-campaign:hover { transform: translateY(-5px); box-shadow: 0 15px 35px #04182080, 0 0 0 1px #d5b873; color: #34442b; }
 .campaign-landscape { height: 240px; background-image: linear-gradient(0deg,#082e25b3,transparent 70%),var(--jungle-image); background-size: cover; background-position: 65% center; border-bottom: 3px double #a28e50; }
-.world-campaign-kuroto .campaign-landscape { background: linear-gradient(135deg,#161d28,#455957); }
+.world-campaign-kuroto .campaign-landscape { background-image: linear-gradient(0deg,#241c2f55,transparent 70%),url('assets/kuroto-bosque.webp'); background-position:70% center; }
 .campaign-landscape svg { width: 100%; height: 100%; }
 .campaign-card-body { padding: 28px 31px 30px; }
 .campaign-card-body .eyebrow { color: #86703f; font-size: 9px; }
@@ -33,17 +34,43 @@
 .campaign-status p { font-size: 13px; line-height: 1.85; max-width: 800px; }
 .pending-content .primary-button { margin-top: 24px; }
 .kuroto-seal { position: absolute; right: 50px; top: 44px; border: 3px double #d5a382; border-radius: 50% 50% 5px 5px; padding: 32px 27px; font: 35px/1.4 Georgia,serif; letter-spacing: 4px; color: #e0c7a2; background: #612e3877; transform: rotate(4deg); }
-body[data-campaign="kuroto"][data-view="campaign"] { background: radial-gradient(ellipse at 85% 0,#67504d55,transparent 65%),repeating-linear-gradient(35deg,#d3ba7903 0 1px,transparent 1px 9px),#25252e; }
-body[data-campaign="kuroto"]:not([data-view="world"]) #sidebar { background-image: linear-gradient(180deg,#211e2afa,#24212bd6),repeating-linear-gradient(80deg,#89917920 0 3px,transparent 3px 42px); background-color: #24212b; }
-body[data-campaign="kuroto"]:not([data-view="world"]) .topbar { background: #22212af5; }
-body[data-campaign="kuroto"] #campaign-selector,body[data-campaign="kuroto"] #campaign-selector option { background: #26232c; }
-body[data-campaign="kuroto"] .nav-links a.active { background: linear-gradient(100deg,#7e414980,#34273280); }
-body[data-campaign="kuroto"] .kuroto-hero { background: radial-gradient(circle at 88% 15%,#bd745d44 0 16%,transparent 16.3%),linear-gradient(110deg,#25212f,#364442); }
+/* Arghast es el vestíbulo neutral; cada campaña conserva su identidad. */
+/* El paisaje pertenece al área completa de lectura, también fuera de la portada. */
+.workspace { position:relative; isolation:isolate; }
+.workspace::before { content:''; position:fixed; inset:0 0 0 var(--sidebar-width); z-index:-1; pointer-events:none; background-image:var(--content-landscape); background-size:cover; background-position:center; background-repeat:no-repeat; filter:var(--landscape-filter,none); }
+body[data-campaign="xoltacan"][data-view="campaign"] { --content-landscape:linear-gradient(90deg,#08271da6,#08271d80 60%,#08271d99),url('assets/xoltacan-background.webp'); }
+body[data-campaign="kuroto"][data-view="campaign"] { --content-landscape:linear-gradient(90deg,#211b2aa6,#211b2a80 60%,#211b2a99),url('assets/kuroto-background.webp'); }
+body[data-view="world"] { --arghast-map:url('assets/arghast-mapa-oficial.webp'); --content-landscape:linear-gradient(90deg,#1c1d23a6,#1c1d237d 60%,#1c1d2399),var(--arghast-map); --landscape-filter:grayscale(.85); background:#24252a; }
+body[data-view="world"] #sidebar { background-image:linear-gradient(180deg,#1f202870,#1f202838 65%,#1f202825),url('assets/arghast-drawer.webp'); background-color:#24252a; background-size:cover; background-position:center; }
+body[data-campaign="xoltacan"][data-view="campaign"] #sidebar { background-image:linear-gradient(180deg,#0c3026a6,#0c302678 65%,#0c302640),url('assets/xoltacan-drawer.webp'); background-size:cover; background-position:center; }
+body[data-view="world"] .topbar { background:#222328f5; }
+body[data-view="world"] .campaign-picker { background:#1c1d22b3; }
+body[data-view="world"] :is(#campaign-selector,#campaign-selector option) { background:#292a2f; }
+body[data-view="world"] .world-hero > p:last-child { color:#d0c7b8; }
+body[data-view="world"] .world-hero h1 { text-shadow:0 4px 8px #171719; }
+
+/* Kuroto conserva el trazo de sus marcos; los colores viven en paletas.css. */
+body[data-campaign="kuroto"][data-view="campaign"] :is(.primary-button,.secondary-button,.chapter-nav a,.section-head > a) { border-radius:2px 8px 2px 8px; }
+body[data-campaign="kuroto"][data-view="campaign"] .card-crest { border-radius:4px 15px 4px 15px; }
+body[data-campaign="kuroto"] .kuroto-hero { background-image: linear-gradient(90deg,#211d2ef0 0%,#211d2ec9 27%,#211d2e26 65%,#211d2e22),url('assets/kuroto-bosque.webp'); background-size:cover; background-position:center; }
 .kuroto-hero::after { background: linear-gradient(90deg,#241e2e44,transparent); }
-body[data-campaign="kuroto"] .stat { background: linear-gradient(135deg,#514044,#262632); }
-body[data-campaign="kuroto"] .expedition-link { background: linear-gradient(120deg,#42343d,#272632); }
+.kuroto-hero>div:first-child { position:relative; z-index:2; }
 .expedition-link > .card-crest { margin: 0; width: 40px; height: 40px; flex: none; }
 .expedition-link > .card-crest svg { width: 25px; height: 25px; }
 @media(max-width:1100px) { .campaign-landscape { height: 190px; }.campaign-card-body { padding: 24px; }.kuroto-seal { right: 28px; opacity: .55; } }
 @media(max-width:650px) { .world-campaigns { grid-template-columns: 1fr; gap: 23px; }.world-hero { padding: 24px 12px 26px; }.world-hero h1 { font-size: 69px; }.world-hero > p:last-child { font-size: 15px; }.campaign-landscape { height: 210px; }.campaign-card-body h2 { font-size: 36px; }.campaign-card-body { padding: 25px; }.campaign-status { padding: 23px; }.campaign-status h2 { font-size: 23px; }.kuroto-seal { right: 22px; top: 55px; padding: 27px 18px; font-size: 25px; opacity: .3; }.kuroto-hero .hero-title { position: relative; z-index: 1; }.kuroto-hero .hero-copy { position: relative; z-index: 1; } }
-@media print { .campaign-picker { display: none; }.world-hero h1,.world-hero > p:last-child { color: #222; text-shadow: none; } }
+@media print { .campaign-picker,.workspace::before { display: none; }.world-hero h1,.world-hero > p:last-child { color: #222; text-shadow: none; } }
+
+/* Las portadas aportadas llevan texto: mostrarlas completas, sin superponer controles. */
+.campaign-landscape { height:auto; aspect-ratio:16/9; background-image:url('assets/xoltacan-portada.webp'); background-size:contain; background-position:center; background-repeat:no-repeat; background-color:#10271e; }
+.world-campaign-kuroto .campaign-landscape { background-image:url('assets/kuroto-portada.webp'); background-position:center; }
+.hero { display:grid; grid-template-columns:minmax(0,.85fr) minmax(0,1.15fr); gap:30px; align-items:center; padding:32px; min-height:0; }
+.hero > div:first-child { min-width:0; }
+.hero::after { display:none; }
+.hero-art { position:relative; inset:auto; width:100%; height:auto; aspect-ratio:16/9; opacity:1; z-index:auto; border:1px solid #c9ad6c80; border-radius:3px 15px 3px 15px; background-image:url('assets/xoltacan-portada.webp'); background-size:contain; background-position:center; background-repeat:no-repeat; background-color:#10271e; }
+body[data-campaign="kuroto"] .kuroto-hero { background-image:none; background-color:#27212e; }
+body[data-campaign="kuroto"] .hero-art { background-image:url('assets/kuroto-portada.webp'); background-color:#27212e; }
+.hero-title { font-size:clamp(36px,3.7vw,57px); }
+.hero-copy { max-width:100%; }
+@media(max-width:1100px) { .hero { grid-template-columns:1fr; padding:28px; gap:22px; }.hero-art { order:-1; }.hero-title,.hero-copy { max-width:100%; }.hero-title { font-size:48px; } }
+@media(max-width:560px) { .hero { padding:20px; gap:18px; }.hero-title { font-size:39px; }.hero-art { max-width:none; } }

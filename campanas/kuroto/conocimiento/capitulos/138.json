@@ -1,0 +1,456 @@
+{
+  "capitulo": 138,
+  "estado_revision": "revisado",
+  "fuente_sha256": "7eb897ad98f0e2415e10e554e2d74e7320f27895af89bf6e31b4d204934a3a70",
+  "resumen": "Los cazadores vuelven a palacio tras una nueva oleada que ha requerido a Jin y Kazuki en el sur. Calista intenta aprender el gobierno y localizar la raíz de la crisis mientras convoca una investigación urgente: ha encontrado ropas y máscaras de cultista en el servicio y quiere detener a los infiltrados. Maroxi discute que ella deba acompañar al interrogatorio y la conversación de órdenes y protocolo termina con Gelbreak apuntándolo con el estoque. El cambiante arroja su collar, se vuelve invisible y se marcha tras contrarrestar el intento de detenerlo. El resto continúa sin él; su salida no es una participación silenciosa en la investigación posterior. En las celdas ven a Danifae encadenada y amordazada: Calista explica que ofreció información, pero también amenazó su vida. Pueden interrogarla bajo su responsabilidad, aunque primero atienden al falso guardia. Kazuki recibe el vial de Mei y acaba intimidando al detenido, que afirma que eran tres infiltrados y que quieren desestabilizar el shogunato matando a Calista tras perder a Rua. Amenaza con venenos y traiciones y espera que Otakemaru lo transforme. Gelbreak termina desintegrándolo a petición de la shogun; toma la sombra del muerto y usa esa forma para obtener una pista: una flor y una receta sacada de la biblioteca de palacio. El preso no sigue vivo ni se cierra con sus amenazas toda la red del culto. Kazuki encuentra un libro de venenos con una página arrancada y Calista consulta botánica. Identifican la flor de medianoche, del sur de Kuroto: paraliza y puede matar si se consume mucha. Su resistencia extraordinaria ayuda a entender que sobreviva donde la influencia demoníaca arruina otros cultivos. El índice del libro ofrece el título de una pócima, pero no recompone por sí solo la receta. Todavía necesitan estudiar el vial o acudir a alguien con más conocimiento; no han fabricado el veneno ni demostrado su mezcla exacta. Serafina descubre cortes en las manos de Mei y obliga a mirar con cuidado incluso a quien ayudó a Calista. La explicación es otra: estaba limpiando de noche tareas que otras sirvientas dejaron sin hacer. Reunido el servicio, Mei señala a la mujer implicada y Gelbreak recupera las ropas de cultista de su cama. La acusada confiesa que amenazaron a su familia para que abriera ventanas a la yokai y guardara la ropa con que podrían culparla. El director confirma la verdad de su miedo y relato. Calista la despide y la expulsa con vida. Otras dos admiten robar joyas de Rua y son enviadas a las caballerizas; no son la misma causa. Serafina encuentra después más joyas en los colchones y decide quedárselas. Kazuki pregunta a cónsules y guardias y obtiene permiso para investigar bajo disfraz. Gelbreak le advierte que informar a un soldado sin comprobar su lealtad puede alertar precisamente al enemigo. Una lectura posterior de pensamientos solo ofrece cuentas de gastos, cansancio y desconcierto de nobles ante su magia, sin descubrir a otro infiltrado. Jin encuentra pétalos sueltos en cocina que no reconoce y oye hablar de un empleado del banquete que no volvió, supuestamente llamado Pedro. La descripción es demasiado común para identificarlo. Calista, por su parte, aprende con Yasuoka y Ayuko a situar defensas y propone pedir a Arwen zanjas para la próxima oleada, sin obras ejecutadas todavía. La presencia de Hanae vuelve a provocar celos cuando entrega una carta a Gelbreak. Calista percibe un aroma floral y la acompaña al jardín con apoyo discreto de los cazadores. La noble explica que ha recogido flores para un regalo y ofrece enseñarle dónde. La sospecha de que sean las del veneno no se sostiene al compararlas: las flores de la carta son distintas de la flor investigada. La shogun termina el paseo con una excusa de reunión, sin haber obtenido pruebas contra su rival sentimental. La nota invita al drow a casa de Hanae a las nueve y desencadena amenazas: Calista quiere ir, incluso bajo su apariencia, y Gelbreak acaba proponiendo matarla entre los dos. Son planes expresados durante el enfado; ninguno visita la casa ni ejecuta el asesinato aquí. De vuelta en palacio, Jin comunica el empleado desaparecido y los pétalos, Gelbreak revisa cocina y Calista intenta ordenar qué significa el número de tres infiltrados. No lo resuelven. Kazuki sigue su encargo y Jin se orienta al trabajo con los estrategas, dejando abiertas la receta, la red y la identidad que falta.",
+  "afirmaciones": [
+    {
+      "id": "138-001",
+      "titulo": "Una nueva oleada y una pesquisa urgente",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Tras otra oleada en el sur, Jin prepara coordinación con Ayuko y Kazuki cuenta que dirigió arqueros. Calista aprende a gobernar e investiga la crisis. Convoca a los cazadores porque ha encontrado máscaras y ropas de cultista en una habitación del servicio y quiere asegurar palacio. Aclara que «erradicar» significa detener los peligros, no ordenar una matanza.",
+      "inicio": "00:00:00.080",
+      "fin": "00:18:00.789",
+      "cita": "he encontrado máscaras y togas de esos",
+      "entidades": [
+        "Calista",
+        "Jin",
+        "Kazuki",
+        "Ayuko (grafía provisional)",
+        "Cazadores de Kuroto",
+        "Palacio del shogun de Sho"
+      ],
+      "ambito": "Kuroto, sesión 138",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "138-002",
+      "titulo": "Maroxi abandona el encargo y su collar",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Maroxi cuestiona que Calista acompañe al interrogatorio y discute por órdenes y protocolo con ella y Gelbreak. Ella le da la orden expresa de acudir al campamento principal del sur cuando se enciendan las almenaras. La disputa escala; Gelbreak lo amenaza con el estoque y Maroxi se quita y arroja el collar de cazador. Lanza invisibilidad mayor, contrarresta el intento de detenerla y se marcha. No participa después en el interrogatorio.",
+      "inicio": "00:15:01.079",
+      "fin": "00:33:01.350",
+      "cita": "antes de la invisibilidad mayor.",
+      "entidades": [
+        "Maroxi",
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Cazadores de Kuroto"
+      ],
+      "ambito": "Kuroto, sesión 138",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "138-003",
+      "titulo": "Danifae está detenida",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "En las celdas encuentran a Danifae encadenada y amordazada. Calista explica que acudió ofreciendo información sobre los cultistas, pero amenazó con poder matar a la shogun. Permite a los demás intentar interrogarla bajo su responsabilidad, advirtiendo de su manipulación. El grupo decide empezar con el cultista; no se obtiene información de Danifae en esta visita.",
+      "inicio": "00:33:01.360",
+      "fin": "00:42:01.190",
+      "cita": "hablar, que tiene una mordaza en la",
+      "entidades": [
+        "Danifae (grafía provisional)",
+        "Calista",
+        "Kazuki",
+        "Jin",
+        "Serafina Hop (grafía provisional)",
+        "Celdas del palacio de Sho"
+      ],
+      "ambito": "Kuroto, sesión 138",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "138-004",
+      "titulo": "Kazuki recibe el vial y logra intimidarlo",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Calista entrega a Kazuki el vial recuperado por Mei para investigarlo. Ante el preso, las primeras amenazas y gestos de Jin y Serafina no lo doblegan. Kazuki acaba intimidándolo con ayuda mágica y lo deja dispuesto a responder a Calista. El cambio no asegura que toda declaración del fanático sea exhaustiva o verdadera.",
+      "inicio": "00:39:01.359",
+      "fin": "00:54:02.390",
+      "cita": "que te saca un vial y dice, \"Eso tal vez",
+      "entidades": [
+        "Calista",
+        "Kazuki",
+        "Jin",
+        "Serafina Hop (grafía provisional)",
+        "Cultista disfrazado de Alfonso",
+        "Vial entregado por Mei"
+      ],
+      "ambito": "Kuroto, sesión 138",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "138-005",
+      "titulo": "Tres infiltrados según el prisionero",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "El cultista afirma que son tres infiltrados y que quieren matar a Calista para desestabilizar el shogunato y privarlo de ejército, después de que los cazadores arruinaran su posición con Rua. Dice que pueden entrar como sirvientas o guardias, usar veneno y traición y que Otakemaru lo hará superior. Sus amenazas y creencias se conservan como declaraciones del preso, sin confirmar cada promesa religiosa ni el número por un registro independiente.",
+      "inicio": "00:51:00.839",
+      "fin": "01:03:00.829",
+      "cita": "tres.",
+      "entidades": [
+        "Cultista disfrazado de Alfonso",
+        "Calista",
+        "Kazuki",
+        "Rua (grafía provisional)",
+        "Shogunato de Kuroto"
+      ],
+      "ambito": "Kuroto, sesión 138",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "138-006",
+      "titulo": "Gelbreak mata y usa la sombra para investigar",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Después de las amenazas, Gelbreak lanza desintegración contra el detenido, que queda reducido a polvo. A petición de Calista toma su sombra y adopta su forma para extraer información. Informa de que se usó una flor y que la receta del veneno salió de la biblioteca del shogunato. No es una detención que continúe con vida ni una simple amenaza de ejecución.",
+      "inicio": "01:00:00.079",
+      "fin": "01:12:00.310",
+      "cita": "polvo.",
+      "entidades": [
+        "Gelbreak (grafía provisional)",
+        "Calista",
+        "Cultista disfrazado de Alfonso",
+        "Biblioteca del palacio de Sho",
+        "Vial entregado por Mei"
+      ],
+      "ambito": "Kuroto, sesión 138",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "138-007",
+      "titulo": "Una página arrancada y la flor de medianoche",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Kazuki encuentra un libro de venenos con una página arrancada. Calista consulta botánica e identifica la flor de medianoche como planta del sur de Kuroto capaz de causar parálisis y matar con mucho consumo. El índice del otro libro ofrece un título de pócima, no los ingredientes completos. Leen que la flor soporta condiciones muy duras, lo que explica que pueda persistir donde otros cultivos fracasan. No fabrican ni analizan químicamente el veneno allí.",
+      "inicio": "01:18:02.880",
+      "fin": "01:27:00.430",
+      "cita": "que se llama flor de medianoche",
+      "entidades": [
+        "Kazuki",
+        "Calista",
+        "Biblioteca del palacio de Sho",
+        "Flor de medianoche",
+        "Libro de venenos con página arrancada",
+        "Vial entregado por Mei"
+      ],
+      "ambito": "Kuroto, sesión 138",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "138-008",
+      "titulo": "Los cortes de Mei tienen otra explicación",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Serafina sigue a Mei con una excusa para observar unos cortes en las manos. En la biblioteca avisa a Calista, que pregunta directamente. Mei explica que limpiaba cocinas de noche porque otras sirvientas no terminaron el trabajo. Calista protesta por que carguen sobre ella las tareas y reúne al servicio; no se revela que los cortes prueben que Mei sea cultista. La shogun no bebe el té sospechado por prudencia.",
+      "inicio": "01:12:00.320",
+      "fin": "01:39:00.070",
+      "cita": "cocinas y estuve en la noche",
+      "entidades": [
+        "Serafina Hop (grafía provisional)",
+        "Mei (grafía provisional)",
+        "Calista"
+      ],
+      "ambito": "Kuroto, sesión 138",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "138-009",
+      "titulo": "Una sirvienta denuncia amenazas a su familia",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Mei señala a la sirvienta implicada y Calista la confronta con ropas cultistas sacadas de su cama. La mujer dice que amenazaron a su familia para que abriera las ventanas y entrara la criatura que atacó a Calista antes de coronarse; también le impusieron guardar los vestidos para culparla. El director confirma que su miedo y explicación son verdaderos. Calista la despide y la expulsa con guardias, sin ejecutarla.",
+      "inicio": "01:39:00.080",
+      "fin": "02:00:02.189",
+      "cita": "Mi familia,",
+      "entidades": [
+        "Calista",
+        "Mei (grafía provisional)",
+        "Gelbreak (grafía provisional)",
+        "Sirvienta coaccionada del palacio",
+        "Yokai del cabello vivo en palacio"
+      ],
+      "ambito": "Kuroto, sesión 138",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "138-010",
+      "titulo": "Dos robos distintos reciben otro castigo",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Otras dos sirvientas admiten haber tomado joyas de Rua pensando que no se querrían. Calista insiste en que son bienes del shogunato, exige devolverlas y las relega a las caballerizas. Las distingue de la mujer coaccionada. Después Serafina registra colchones, encuentra más joyas ocultas y se las queda; Jin no identifica nada anómalo entre las otras ropas.",
+      "inicio": "02:00:02.199",
+      "fin": "02:09:08.910",
+      "cita": "en las caballerizas.",
+      "entidades": [
+        "Calista",
+        "Serafina Hop (grafía provisional)",
+        "Jin",
+        "Rua (grafía provisional)",
+        "Palacio del shogun de Sho"
+      ],
+      "ambito": "Kuroto, sesión 138",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "138-011",
+      "titulo": "Pedir vigilancia no prueba la confianza",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Kazuki consulta a cónsules y guardias sin obtener una nueva identificación. Avisa a un guardia de la infiltración y propone a Calista hacerse pasar por uno para investigar, recibiendo permiso. Gelbreak le advierte de que antes de revelar las pesquisas debe comprobar que su interlocutor es de confianza, o podría alertar a un cultista. El plan de disfraz no produce aún un culpable.",
+      "inicio": "02:06:02.360",
+      "fin": "02:21:00.590",
+      "cita": "confianza.",
+      "entidades": [
+        "Kazuki",
+        "Gelbreak (grafía provisional)",
+        "Calista"
+      ],
+      "ambito": "Kuroto, sesión 138",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "138-012",
+      "titulo": "Calista aprende las defensas del sur",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "En la mesa de guerra, Yasuoka y Ayuko preparan vallas, refuerzos y posiciones para la siguiente oleada. Sugieren que la niña cazadora con capacidad para abrir túneles haga zanjas. Calista aporta ubicaciones y acepta correcciones para proteger mejor el flanco. Se propone pedir ayuda a Arwen; no se muestra la excavación durante esta sesión.",
+      "inicio": "02:18:03.280",
+      "fin": "02:27:00.070",
+      "cita": "que iría bien que hiciera unas zanjas",
+      "entidades": [
+        "Calista",
+        "Yasuoka (grafía provisional)",
+        "Ayuko (grafía provisional)",
+        "Arwen"
+      ],
+      "ambito": "Kuroto, sesión 138",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "138-013",
+      "titulo": "Pétalos sueltos y un empleado desaparecido",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Jin consulta en cocina y encuentra pétalos desordenados en un cajón, sin reconocer su especie o función. La cocinera recuerda a un hombre contratado para el banquete que no ha vuelto, de pelo oscuro y ojos marrones y nombre recordado como Pedro. La descripción no lo identifica inequívocamente ni demuestra que sea el cultista ya detenido. Jin conserva la pista para comunicarla.",
+      "inicio": "02:27:00.080",
+      "fin": "02:36:00.030",
+      "cita": "creo que se llamaba Pedro.",
+      "entidades": [
+        "Jin",
+        "Cocinas del palacio de Sho",
+        "Empleado ausente del banquete (identidad pendiente)"
+      ],
+      "ambito": "Kuroto, sesión 138",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "138-014",
+      "titulo": "La lectura de pensamientos no delata otro infiltrado",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Kazuki lee pensamientos con un gesto que los nobles ven. Yasuoka y Ayuko se preguntan qué hace; los cónsules calculan costes y los guardias piensan en terminar su turno. Percibe también la ira de Calista contra Hanae, sin que ese pensamiento equivalga a una tortura cometida. No identifica en esta lectura a otro cultista.",
+      "inicio": "02:33:00.000",
+      "fin": "02:39:00.510",
+      "cita": "van haciendo cálculos y los guardias ves",
+      "entidades": [
+        "Kazuki",
+        "Calista",
+        "Yasuoka (grafía provisional)",
+        "Ayuko (grafía provisional)",
+        "Hanae (grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 138",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "138-015",
+      "titulo": "Las flores de Hanae no son las del veneno",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Hanae da a Gelbreak una carta y lleva olor de flores recién recogidas. Calista la acompaña al jardín y pregunta por ellas, sospechando del veneno. La noble dice haberlas preparado como regalo; el drow muestra las flores de la carta y resultan diferentes de la flor investigada. Calista corta el paseo mediante una excusa de reunión. La sospecha no prueba un intento de envenenamiento de Hanae.",
+      "inicio": "02:24:00.800",
+      "fin": "02:54:02.110",
+      "cita": "¿Y cómo son? Son totalmente diferentes a",
+      "entidades": [
+        "Calista",
+        "Hanae (grafía provisional)",
+        "Gelbreak (grafía provisional)",
+        "Flores y carta de Hanae"
+      ],
+      "ambito": "Kuroto, sesión 138",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "138-016",
+      "titulo": "Una cita y amenazas que todavía no se cumplen",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "La carta invita a Gelbreak a casa de Hanae a las nueve. Calista y él hablan de ir y matarla, llegando a proponer hacerlo juntos; ella había pensado incluso disfrazarse del drow. No visitan esa casa ni matan a Hanae en el capítulo. La discusión y los celos desvían su atención, pero después vuelven a la investigación.",
+      "inicio": "02:51:02.200",
+      "fin": "03:00:01.190",
+      "cita": "noche a las 9?",
+      "entidades": [
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Hanae (grafía provisional)",
+        "Flores y carta de Hanae"
+      ],
+      "ambito": "Kuroto, sesión 138",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "138-017",
+      "titulo": "El caso termina abierto",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Jin comunica la ausencia del empleado de cocina y la presencia de flores. Gelbreak va a revisar cocina y Calista sigue preocupada por el infiltrado que falta. Intentan ordenar el recuento de tres, sin concluir si la yokai y el empleado ausente cubren esas identidades. Kazuki prosigue su encargo y Jin se dispone a trabajar con los estrategas. La investigación queda incompleta; no se identifica al responsable final del veneno.",
+      "inicio": "02:54:02.120",
+      "fin": "03:03:06.960",
+      "cita": "No has encontrado ciertas flores.",
+      "entidades": [
+        "Jin",
+        "Gelbreak (grafía provisional)",
+        "Calista",
+        "Kazuki",
+        "Cocinas del palacio de Sho",
+        "Empleado ausente del banquete (identidad pendiente)",
+        "Flor de medianoche"
+      ],
+      "ambito": "Kuroto, sesión 138",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    }
+  ],
+  "historia": {
+    "revisado_hasta": 138,
+    "etapas": [
+      {
+        "titulo": "Asegurar el palacio después de la batalla",
+        "texto": "Los cazadores vuelven a palacio tras una nueva oleada que ha requerido a Jin y Kazuki en el sur. Calista intenta aprender el gobierno y localizar la raíz de la crisis mientras convoca una investigación urgente: ha encontrado ropas y máscaras de cultista en el servicio y quiere detener a los infiltrados. Maroxi discute que ella deba acompañar al interrogatorio y la conversación de órdenes y protocolo termina con Gelbreak apuntándolo con el estoque. El cambiante arroja su collar, se vuelve invisible y se marcha tras contrarrestar el intento de detenerlo. El resto continúa sin él; su salida no es una participación silenciosa en la investigación posterior.",
+        "referencias": [
+          "138-001",
+          "138-002"
+        ]
+      },
+      {
+        "titulo": "Lo que cuenta un fanático y lo que guarda su sombra",
+        "texto": "En las celdas ven a Danifae encadenada y amordazada: Calista explica que ofreció información, pero también amenazó su vida. Pueden interrogarla bajo su responsabilidad, aunque primero atienden al falso guardia. Kazuki recibe el vial de Mei y acaba intimidando al detenido, que afirma que eran tres infiltrados y que quieren desestabilizar el shogunato matando a Calista tras perder a Rua. Amenaza con venenos y traiciones y espera que Otakemaru lo transforme. Gelbreak termina desintegrándolo a petición de la shogun; toma la sombra del muerto y usa esa forma para obtener una pista: una flor y una receta sacada de la biblioteca de palacio. El preso no sigue vivo ni se cierra con sus amenazas toda la red del culto.",
+        "referencias": [
+          "138-003",
+          "138-004",
+          "138-005",
+          "138-006"
+        ]
+      },
+      {
+        "titulo": "La página ausente y la flor que resiste",
+        "texto": "Kazuki encuentra un libro de venenos con una página arrancada y Calista consulta botánica. Identifican la flor de medianoche, del sur de Kuroto: paraliza y puede matar si se consume mucha. Su resistencia extraordinaria ayuda a entender que sobreviva donde la influencia demoníaca arruina otros cultivos. El índice del libro ofrece el título de una pócima, pero no recompone por sí solo la receta. Todavía necesitan estudiar el vial o acudir a alguien con más conocimiento; no han fabricado el veneno ni demostrado su mezcla exacta.",
+        "referencias": [
+          "138-007"
+        ]
+      },
+      {
+        "titulo": "La servidumbre no escondía una sola historia",
+        "texto": "Serafina descubre cortes en las manos de Mei y obliga a mirar con cuidado incluso a quien ayudó a Calista. La explicación es otra: estaba limpiando de noche tareas que otras sirvientas dejaron sin hacer. Reunido el servicio, Mei señala a la mujer implicada y Gelbreak recupera las ropas de cultista de su cama. La acusada confiesa que amenazaron a su familia para que abriera ventanas a la yokai y guardara la ropa con que podrían culparla. El director confirma la verdad de su miedo y relato. Calista la despide y la expulsa con vida. Otras dos admiten robar joyas de Rua y son enviadas a las caballerizas; no son la misma causa. Serafina encuentra después más joyas en los colchones y decide quedárselas.",
+        "referencias": [
+          "138-008",
+          "138-009",
+          "138-010"
+        ]
+      },
+      {
+        "titulo": "Aprender a investigar y a dirigir",
+        "texto": "Kazuki pregunta a cónsules y guardias y obtiene permiso para investigar bajo disfraz. Gelbreak le advierte que informar a un soldado sin comprobar su lealtad puede alertar precisamente al enemigo. Una lectura posterior de pensamientos solo ofrece cuentas de gastos, cansancio y desconcierto de nobles ante su magia, sin descubrir a otro infiltrado. Jin encuentra pétalos sueltos en cocina que no reconoce y oye hablar de un empleado del banquete que no volvió, supuestamente llamado Pedro. La descripción es demasiado común para identificarlo. Calista, por su parte, aprende con Yasuoka y Ayuko a situar defensas y propone pedir a Arwen zanjas para la próxima oleada, sin obras ejecutadas todavía.",
+        "referencias": [
+          "138-011",
+          "138-012",
+          "138-013",
+          "138-014"
+        ]
+      },
+      {
+        "titulo": "Un olor sospechoso que no confirma nada",
+        "texto": "La presencia de Hanae vuelve a provocar celos cuando entrega una carta a Gelbreak. Calista percibe un aroma floral y la acompaña al jardín con apoyo discreto de los cazadores. La noble explica que ha recogido flores para un regalo y ofrece enseñarle dónde. La sospecha de que sean las del veneno no se sostiene al compararlas: las flores de la carta son distintas de la flor investigada. La shogun termina el paseo con una excusa de reunión, sin haber obtenido pruebas contra su rival sentimental.",
+        "referencias": [
+          "138-015"
+        ]
+      },
+      {
+        "titulo": "Las nueve quedan fuera del capítulo",
+        "texto": "La nota invita al drow a casa de Hanae a las nueve y desencadena amenazas: Calista quiere ir, incluso bajo su apariencia, y Gelbreak acaba proponiendo matarla entre los dos. Son planes expresados durante el enfado; ninguno visita la casa ni ejecuta el asesinato aquí. De vuelta en palacio, Jin comunica el empleado desaparecido y los pétalos, Gelbreak revisa cocina y Calista intenta ordenar qué significa el número de tres infiltrados. No lo resuelven. Kazuki sigue su encargo y Jin se orienta al trabajo con los estrategas, dejando abiertas la receta, la red y la identidad que falta.",
+        "referencias": [
+          "138-016",
+          "138-017"
+        ]
+      }
+    ]
+  },
+  "misiones": [
+    "Investigar infiltración de palacio: avance parcial; cultista ejecutado, criada coaccionada despedida y más identidades sin resolver.",
+    "Analizar vial y receta: libro mutilado y flor de medianoche identificados, mezcla completa pendiente.",
+    "Interrogar a Danifae: permiso concedido, no realizado por el grupo en esta visita.",
+    "Investigar empleado ausente del banquete y pétalos de cocina: pistas sin identificar.",
+    "Coordinar nuevas defensas con Ayuko: Jin prosigue el trabajo; zanjas de Arwen propuestas.",
+    "Visitar a Hanae a las nueve: plan y amenazas, sin ejecución en este capítulo."
+  ],
+  "preguntas": [
+    "¿Quién es el tercer infiltrado y cómo se relacionan la yokai, el falso Alfonso y el empleado ausente?",
+    "¿Cuál es la mezcla exacta del veneno y quién retiró la página?",
+    "¿Dónde está la familia amenazada de la sirvienta despedida y quién la coaccionó?",
+    "¿Qué información ofrecía Danifae y bajo qué condiciones podría obtenerse?",
+    "¿Qué consecuencias tendrá la salida de Maroxi y la entrega de su collar?",
+    "¿Acudirán Calista y Gelbreak a la cita de Hanae y cumplirán sus amenazas?",
+    "¿A qué planta pertenecen los pétalos hallados en cocina?"
+  ],
+  "nombres_dudosos": [
+    "El título de pócima recurrente parece improvisado y no debe fijarse como denominación técnica verificada.",
+    "Pedro es el nombre aproximado recordado por la cocinera para un trabajador ausente, sin identificación inequívoca.",
+    "General Gu/Giu/Gum: responsable de las celdas transcrito de varias formas; mención funcional sin ficha nueva.",
+    "Los comentarios fuera de personaje sobre la disputa no se convierten en hechos del mundo ni se atribuyen a personajes ausentes."
+  ],
+  "contradicciones": [
+    "Los tres infiltrados son el número dado por un preso fanático; el capítulo termina sin reconciliar completamente ese recuento.",
+    "El director confirma el relato de coacción de la criada. No describirla como fanática voluntaria ni confundirla con las dos ladronas.",
+    "La flor de la carta de Hanae es explícitamente diferente de la investigada. Celos, olor y amenazas no prueban culpabilidad en el veneno.",
+    "La fantasía de torturas que Kazuki percibe en Calista y el plan de matar a Hanae no son torturas ni asesinatos ejecutados.",
+    "Calista pide detenciones al iniciar la misión, pero después autoriza y se ejecuta la desintegración del cultista: conservar ambos momentos.",
+    "Maroxi abandona la escena antes de las celdas; no asignarle hallazgos ni conversaciones posteriores."
+  ]
+}

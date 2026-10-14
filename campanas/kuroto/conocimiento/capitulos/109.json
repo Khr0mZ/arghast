@@ -1,0 +1,310 @@
+{
+  "capitulo": 109,
+  "estado_revision": "revisado",
+  "fuente_sha256": "541356eb6ccc72c1cb5e55bd91201973e7f56cfdeb20c435a6611fe1340e0259",
+  "resumen": "Aka reorganiza las tropas para alejarlas de la influencia destructiva de las torres y acercar otras unidades a las aldeas. Advierte que no se acerquen sin control a la Puerta Negra y pide una dirección más clara para los cazadores desde la muerte de Sirth. Katari y Arwen han recorrido campos próximos a varias bases para favorecer las cosechas con crecimiento vegetal. El problema alimentario anterior, sin embargo, ya ha extendido una enfermedad que debilita a los presentes. Katari atiende también a los samuráis afectados por la puerta: sus sueños muestran deseos ofrecidos y luego destruidos, pero su estado no mejora. La futura expedición se prepara dentro de esa incertidumbre. Banzo acaba de ayudar a repartir comida y ofrece una ración a un monje solitario. El hombre la recoge con una rapidez extraordinaria y se presenta como Sanzan, identificado en la conversación como el monje Tank. Banzo comprende que es el guía de Sun y le dice que el mono lo busca. El monje responde que Sun debe descubrir el camino por sus propios medios: el destino no irá a buscarlo a él. El goliat se ofrece a ayudarlo si necesita algo y vuelve a reunirse con las demás. Ese encuentro sitúa al guía en el campamento, pero no representa una reunión entre él y su discípulo. Danifae sale del portal y Arwen se esconde detrás de Katari. Aka dispara una advertencia y ordena detenerla; la drow deja sus armas y no se resiste. Banzo la abofetea y la acusa de intentar asesinar a Calista y a la pequeña. Danifae reconoce lo ocurrido con Arwen, pero niega saber quién causó las heridas de la tritón. Aka crea una zona de verdad que la drow supera: el hechizo no garantiza lo que diga después. Katari le exige pedir perdón a la niña. Danifae ofrece una pelota normal, que la druida comprueba antes de devolvérsela a Arwen. La pequeña admite que puede intentar perdonarla si no lleva sus armas cerca de ella. Danifae vuelve a mostrar la marca de la Reina Araña y explica que espera liberarse al reunir las esferas imbuidas por los guardianes. Katari confirma que ya conocía esa explicación y añade que el hermano de la drow habría llegado enviado por su madre. Son testimonios, no la ejecución del ritual ni una identificación del atacante de Calista. Aka concede protección frente al hermano y al mismo tiempo impone vigilancia y custodia de las armas, que solo devolverá cuando exista peligro. Banzo expresa su desacuerdo. Danifae entrega además dos anillos con los nombres de Aka y Katari. Detectan magia; ella dice que un monje los bendijo para fortalecer su unión. Ambas los aceptan y al ponérselos sienten crecer su amor. El regalo no constituye una boda. Un soldado herido llega anunciando que la avanzadilla ha sido arrasada y que numerosas criaturas vienen hacia el campamento. Aka ordena auxiliarlo y avisar a otros mandos para reforzar la defensa, pero muchas tropas están repartidas por la región. Una rana enorme con arma de asta aterriza entre ellos y se acercan tengu y otras criaturas. La comandante devuelve a Danifae sus espadas ante el peligro y bendice a sus compañeros. Banzo protege a Arwen, que se mueve sobre él durante la pelea, mientras las dos druidas convocan osos y despliegan espíritus curativos. La drow participa con sus armas y dirige ataques hacia sí para aliviar a los demás. Banzo reconoce el rugido y luego la forma de un nue semejante al que asaltó el torneo. Sus rayos golpean una y otra vez el campamento, matan a muchas de las criaturas convocadas y amenazan con romper la defensa. Aka lo alcanza con sus flechas; Banzo termina con la rana y varios tengu pese a quedar muy herido. Arwen le ha dado libertad de movimiento, que impide que la araña de cabeza de toro lo inmovilice. Katari mantiene las curaciones hasta caer por una descarga. Danifae se desplaza hasta ella y le da una poción. Banzo, al no poder sostener mucho más a la niña en primera línea, la lanza hacia la drow. Esta la recoge y la protege al esquivar una telaraña. La cercanía que tanto miedo provocaba no termina en otro ataque a la pequeña. Arwen cura desde la espalda de Danifae y después regresa junto a Katari, interponiéndose para que no la golpeen y llamándola mamá. Las dos alternan curaciones, espíritus y animales; Katari sustituye a los osos por lobos. Aka sigue disparando desde cobertura. Banzo atraviesa el vientre del nue y las nubes de tormenta se disipan. La araña y los últimos tengu prolongan el combate. Danifae ayuda a eliminarlos y Banzo remata al último con sus ancestros. Ya no llegan más enemigos. El grupo ha defendido el campamento, pero la pérdida de la avanzadilla y la escasez de recursos exigen preparar otra respuesta. Danifae entrega voluntariamente las espadas a Aka en cumplimiento de la condición impuesta antes de la batalla. La comandante le agradece la ayuda, y Banzo también reconoce el trabajo, aunque la desconfianza no desaparece. Katari la invita a comer por haberla levantado cuando cayó; Arwen acaba sumándose. Aka organiza empalizadas y balistas y usa una visión elevada para vigilar el entorno. Banzo solicita permiso para ir con Gur y Caniza a buscar supervivientes en la avanzadilla arrasada y conseguir materiales para la defensa. La comandante lo autoriza, pero la expedición todavía no ocurre. El discurso del goliat ante las tropas exige que dejen de hablar mal de los cazadores: obtiene gratitud y también murmullos por sus formas.",
+  "afirmaciones": [
+    {
+      "id": "109-001",
+      "titulo": "Cosechas y enfermos de la puerta",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Katari y Arwen favorecen cosechas. La crisis alimentaria previa extiende una enfermedad. Los samuráis afectados por la puerta no mejoran; Katari encuentra en sus sueños deseos ofrecidos y arrebatados.",
+      "inicio": "00:05:00.000",
+      "fin": "00:20:00.000",
+      "entidades": [
+        "Aka",
+        "Katari (grafía provisional)",
+        "Arwen",
+        "Campamento del Sur del shogunato"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "No se anticipan rescates, rituales ni resultados posteriores.",
+      "cita": "de lo que sus deseos y lo que más",
+      "evidencia_cue": {
+        "inicio": "00:19:27.480",
+        "fin": "00:19:31.909"
+      }
+    },
+    {
+      "id": "109-002",
+      "titulo": "Banzo conoce al guía",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "El monje al que Banzo da comida se presenta como Sanzan/Tank y guía de Sun. Dice que el mono debe encontrarlo por sus medios y no al contrario.",
+      "inicio": "00:27:00.000",
+      "fin": "00:30:30.000",
+      "entidades": [
+        "Banzo",
+        "Monje Tan (grafía provisional)",
+        "Campamento del Sur del shogunato"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "Banzo",
+        "Monje Tan (grafía provisional)"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "No se anticipan rescates, rituales ni resultados posteriores.",
+      "cita": "Amigo, no, más bien su guía.",
+      "evidencia_cue": {
+        "inicio": "00:29:29.840",
+        "fin": "00:29:34.470"
+      }
+    },
+    {
+      "id": "109-003",
+      "titulo": "Danifae entrega armas y se disculpa",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Danifae se deja detener y registrar. La zona de verdad no la constriñe porque supera la salvación. Reconoce su ataque a Arwen y ofrece una pelota que Katari comprueba como normal; la niña condiciona el perdón a no llevar armas junto a ella.",
+      "inicio": "00:33:00.000",
+      "fin": "00:52:00.000",
+      "entidades": [
+        "Danifae (grafía provisional)",
+        "Aka",
+        "Katari (grafía provisional)",
+        "Arwen",
+        "Banzo",
+        "Bola de regalo de Danifae para Arwen"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "La salvación superada impide tratar la zona de verdad como garantía; la acusación contra Danifae por Calista sigue sin prueba.",
+      "cita": "bro una pelota y una pelota y ves que",
+      "evidencia_cue": {
+        "inicio": "00:39:26.040",
+        "fin": "00:39:30.230"
+      }
+    },
+    {
+      "id": "109-004",
+      "titulo": "Protección, custodia y anillos",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Aka impone protección vigilada y retiene las espadas de Danifae. Aka y Katari aceptan dos anillos de regalo con sus nombres; tienen magia y al ponérselos sienten reforzado su amor. Danifae explica que un monje los bendijo.",
+      "inicio": "00:51:00.000",
+      "fin": "01:04:30.000",
+      "entidades": [
+        "Aka",
+        "Katari (grafía provisional)",
+        "Danifae (grafía provisional)",
+        "Anillos de amor de Aka y Katari"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "No se anticipan rescates, rituales ni resultados posteriores.",
+      "cita": "los dos anillos y dice, había hecho",
+      "evidencia_cue": {
+        "inicio": "00:58:30.079",
+        "fin": "00:58:34.109"
+      }
+    },
+    {
+      "id": "109-005",
+      "titulo": "La avanzadilla cae y el campamento es atacado",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Un superviviente anuncia la destrucción del puesto adelantado. La llegada de una rana armada, tengu y otras criaturas obliga a defender el campamento con pocas tropas disponibles. Aka devuelve las armas a Danifae para luchar.",
+      "inicio": "01:05:00.000",
+      "fin": "01:22:00.000",
+      "entidades": [
+        "Aka",
+        "Katari (grafía provisional)",
+        "Arwen",
+        "Banzo",
+        "Danifae (grafía provisional)",
+        "Campamento del Sur del shogunato",
+        "Avanzadilla arrasada del Sur"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "No se anticipan rescates, rituales ni resultados posteriores.",
+      "cita": "dice, \"Vienen, bien.\" Han arrasado, han",
+      "evidencia_cue": {
+        "inicio": "01:06:24.680",
+        "fin": "01:06:30.670"
+      }
+    },
+    {
+      "id": "109-006",
+      "titulo": "Danifae levanta a Katari y protege a Arwen",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "El nue desencadena rayos y Katari cae. Danifae la recupera con una poción y después recoge a Arwen cuando Banzo la lanza hacia ella, protegiéndola al esquivar el ataque de una araña. La libertad de movimiento de la pequeña evita que Banzo quede atrapado.",
+      "inicio": "01:38:00.000",
+      "fin": "02:05:00.000",
+      "entidades": [
+        "Aka",
+        "Katari (grafía provisional)",
+        "Arwen",
+        "Banzo",
+        "Danifae (grafía provisional)",
+        "Campamento del Sur del shogunato"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "No se anticipan rescates, rituales ni resultados posteriores.",
+      "cita": "poción. Yo vas a matar, ¿eh? Eres mi",
+      "evidencia_cue": {
+        "inicio": "01:58:57.199",
+        "fin": "01:59:00.990"
+      }
+    },
+    {
+      "id": "109-007",
+      "titulo": "Los defensores rechazan el asalto",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Las curaciones, animales convocados y ataques sostienen al grupo. Banzo mata al nue y se disipa la tormenta. Después derrotan a la araña y los tengu restantes, hasta que deja de llegar el enemigo.",
+      "inicio": "02:05:00.000",
+      "fin": "02:46:00.000",
+      "entidades": [
+        "Aka",
+        "Katari (grafía provisional)",
+        "Arwen",
+        "Banzo",
+        "Danifae (grafía provisional)",
+        "Campamento del Sur del shogunato"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "No se anticipan rescates, rituales ni resultados posteriores.",
+      "cita": "empiezan a disiparse dejando ver otra",
+      "evidencia_cue": {
+        "inicio": "02:13:30.000",
+        "fin": "02:13:33.229"
+      }
+    },
+    {
+      "id": "109-008",
+      "titulo": "Danifae devuelve las armas y se prepara otro rescate",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Danifae entrega otra vez sus espadas a Aka y recibe agradecimientos. Katari la invita a comer por salvarla. Aka prepara defensas y autoriza a Banzo buscar con Gur y Caniza supervivientes y materiales en el puesto arrasado, sin que la expedición se represente aún.",
+      "inicio": "02:44:00.000",
+      "fin": "02:55:00.000",
+      "entidades": [
+        "Aka",
+        "Katari (grafía provisional)",
+        "Arwen",
+        "Banzo",
+        "Danifae (grafía provisional)",
+        "Campamento del Sur del shogunato",
+        "Avanzadilla arrasada del Sur"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "No se anticipan rescates, rituales ni resultados posteriores.",
+      "cita": "supervivientes.",
+      "evidencia_cue": {
+        "inicio": "02:51:31.399",
+        "fin": "02:51:33.110"
+      }
+    }
+  ],
+  "historia": {
+    "revisado_hasta": 109,
+    "etapas": [
+      {
+        "titulo": "Cuidar el frente y sus cosechas",
+        "texto": "Aka reorganiza las tropas para alejarlas de la influencia destructiva de las torres y acercar otras unidades a las aldeas. Advierte que no se acerquen sin control a la Puerta Negra y pide una dirección más clara para los cazadores desde la muerte de Sirth. Katari y Arwen han recorrido campos próximos a varias bases para favorecer las cosechas con crecimiento vegetal. El problema alimentario anterior, sin embargo, ya ha extendido una enfermedad que debilita a los presentes. Katari atiende también a los samuráis afectados por la puerta: sus sueños muestran deseos ofrecidos y luego destruidos, pero su estado no mejora. La futura expedición se prepara dentro de esa incertidumbre.",
+        "referencias": [
+          "109-001"
+        ]
+      },
+      {
+        "titulo": "El guía que espera a Sun",
+        "texto": "Banzo acaba de ayudar a repartir comida y ofrece una ración a un monje solitario. El hombre la recoge con una rapidez extraordinaria y se presenta como Sanzan, identificado en la conversación como el monje Tank. Banzo comprende que es el guía de Sun y le dice que el mono lo busca. El monje responde que Sun debe descubrir el camino por sus propios medios: el destino no irá a buscarlo a él. El goliat se ofrece a ayudarlo si necesita algo y vuelve a reunirse con las demás. Ese encuentro sitúa al guía en el campamento, pero no representa una reunión entre él y su discípulo.",
+        "referencias": [
+          "109-002"
+        ]
+      },
+      {
+        "titulo": "Una disculpa bajo vigilancia",
+        "texto": "Danifae sale del portal y Arwen se esconde detrás de Katari. Aka dispara una advertencia y ordena detenerla; la drow deja sus armas y no se resiste. Banzo la abofetea y la acusa de intentar asesinar a Calista y a la pequeña. Danifae reconoce lo ocurrido con Arwen, pero niega saber quién causó las heridas de la tritón. Aka crea una zona de verdad que la drow supera: el hechizo no garantiza lo que diga después. Katari le exige pedir perdón a la niña. Danifae ofrece una pelota normal, que la druida comprueba antes de devolvérsela a Arwen. La pequeña admite que puede intentar perdonarla si no lleva sus armas cerca de ella.",
+        "referencias": [
+          "109-003"
+        ]
+      },
+      {
+        "titulo": "La protección de Aka y los anillos",
+        "texto": "Danifae vuelve a mostrar la marca de la Reina Araña y explica que espera liberarse al reunir las esferas imbuidas por los guardianes. Katari confirma que ya conocía esa explicación y añade que el hermano de la drow habría llegado enviado por su madre. Son testimonios, no la ejecución del ritual ni una identificación del atacante de Calista. Aka concede protección frente al hermano y al mismo tiempo impone vigilancia y custodia de las armas, que solo devolverá cuando exista peligro. Banzo expresa su desacuerdo. Danifae entrega además dos anillos con los nombres de Aka y Katari. Detectan magia; ella dice que un monje los bendijo para fortalecer su unión. Ambas los aceptan y al ponérselos sienten crecer su amor. El regalo no constituye una boda.",
+        "referencias": [
+          "109-004"
+        ]
+      },
+      {
+        "titulo": "El aviso llega con el enemigo detrás",
+        "texto": "Un soldado herido llega anunciando que la avanzadilla ha sido arrasada y que numerosas criaturas vienen hacia el campamento. Aka ordena auxiliarlo y avisar a otros mandos para reforzar la defensa, pero muchas tropas están repartidas por la región. Una rana enorme con arma de asta aterriza entre ellos y se acercan tengu y otras criaturas. La comandante devuelve a Danifae sus espadas ante el peligro y bendice a sus compañeros. Banzo protege a Arwen, que se mueve sobre él durante la pelea, mientras las dos druidas convocan osos y despliegan espíritus curativos. La drow participa con sus armas y dirige ataques hacia sí para aliviar a los demás.",
+        "referencias": [
+          "109-005"
+        ]
+      },
+      {
+        "titulo": "La tormenta castiga a los defensores",
+        "texto": "Banzo reconoce el rugido y luego la forma de un nue semejante al que asaltó el torneo. Sus rayos golpean una y otra vez el campamento, matan a muchas de las criaturas convocadas y amenazan con romper la defensa. Aka lo alcanza con sus flechas; Banzo termina con la rana y varios tengu pese a quedar muy herido. Arwen le ha dado libertad de movimiento, que impide que la araña de cabeza de toro lo inmovilice. Katari mantiene las curaciones hasta caer por una descarga. Danifae se desplaza hasta ella y le da una poción. Banzo, al no poder sostener mucho más a la niña en primera línea, la lanza hacia la drow. Esta la recoge y la protege al esquivar una telaraña. La cercanía que tanto miedo provocaba no termina en otro ataque a la pequeña.",
+        "referencias": [
+          "109-006"
+        ]
+      },
+      {
+        "titulo": "Sostenerse hasta vencer",
+        "texto": "Arwen cura desde la espalda de Danifae y después regresa junto a Katari, interponiéndose para que no la golpeen y llamándola mamá. Las dos alternan curaciones, espíritus y animales; Katari sustituye a los osos por lobos. Aka sigue disparando desde cobertura. Banzo atraviesa el vientre del nue y las nubes de tormenta se disipan. La araña y los últimos tengu prolongan el combate. Danifae ayuda a eliminarlos y Banzo remata al último con sus ancestros. Ya no llegan más enemigos. El grupo ha defendido el campamento, pero la pérdida de la avanzadilla y la escasez de recursos exigen preparar otra respuesta.",
+        "referencias": [
+          "109-007"
+        ]
+      },
+      {
+        "titulo": "Armas devueltas y defensas pendientes",
+        "texto": "Danifae entrega voluntariamente las espadas a Aka en cumplimiento de la condición impuesta antes de la batalla. La comandante le agradece la ayuda, y Banzo también reconoce el trabajo, aunque la desconfianza no desaparece. Katari la invita a comer por haberla levantado cuando cayó; Arwen acaba sumándose. Aka organiza empalizadas y balistas y usa una visión elevada para vigilar el entorno. Banzo solicita permiso para ir con Gur y Caniza a buscar supervivientes en la avanzadilla arrasada y conseguir materiales para la defensa. La comandante lo autoriza, pero la expedición todavía no ocurre. El discurso del goliat ante las tropas exige que dejen de hablar mal de los cazadores: obtiene gratitud y también murmullos por sus formas.",
+        "referencias": [
+          "109-008"
+        ]
+      }
+    ]
+  },
+  "misiones": [
+    "Rechazar el asalto al campamento: cumplido.",
+    "Buscar supervivientes y recursos en la avanzadilla arrasada: autorizado, pendiente.",
+    "Proteger y vigilar a Danifae manteniendo la custodia de sus armas: condición aplicada y retomada tras el combate."
+  ],
+  "preguntas": [
+    "¿Hay supervivientes en la avanzadilla arrasada y qué ocurrió allí?",
+    "¿Recuperará Danifae la confianza después de su ayuda en la defensa?",
+    "¿Cómo podrá ayudar Katari a los samuráis aún afectados por la puerta?",
+    "¿Cuándo encontrará Sun a su guía en el campamento?"
+  ],
+  "nombres_dudosos": [
+    "Sanzan y Tank: el monje se identifica con esas variantes en el diálogo; se conserva el nombre previo Tan para continuidad.",
+    "Los nombres de soldados auxiliares oscilan; no se crean identidades nuevas sin necesidad."
+  ],
+  "contradicciones": [
+    "Banzo acusa a Danifae del ataque a Calista, pero el episodio no lo prueba.",
+    "Danifae supera zona de verdad; sus palabras posteriores no quedan garantizadas por ese hechizo.",
+    "La entrega de anillos de amor no es una boda.",
+    "La avanzadilla destruida no es el propio campamento defendido, que permanece en manos aliadas."
+  ]
+}

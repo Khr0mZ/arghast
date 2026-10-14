@@ -1,0 +1,347 @@
+{
+  "capitulo": 102,
+  "estado_revision": "revisado",
+  "fuente_sha256": "b0d8e93cc8ab25b489aaa31fb2811a0b723f0578b26affe238cb1170d13af9fd",
+  "resumen": "La vida en la base sigue interrumpida por las consecuencias de otras aventuras. Kuma, el maestro de Gur, vomita lava y abre un agujero en el suelo: continúa debilitado y todavía no ha expulsado la esfera que se tragó. Corco insiste en su búsqueda del osotopo que recuerda de la mina donde perdió a sus compañeros. Gur aprende con él palabras y costumbres de la horda, mientras Banzo conserva al cultista capturado en el templo de los tanuki. Para trasladarlo sin otro intento de fuga, el drow lo paraliza. El grupo lleva a palacio al prisionero vivo y también la cabeza del líder. Banzo la arroja ante los presentes; las armas de los guardias y el enfado de Rua obligan a detener la exhibición y pedir disculpas. El goliat reclama una respuesta ofensiva contra los enemigos que atacan a la población. Rua promete consultar a sus mandos y nobles, sin ordenar todavía esa ofensiva. La misión que reciben consiste en recaudar quinientas monedas de oro en Takuromo, a dos días del campamento del Sur. Rua pide que la población no sufra. Después de atravesar el portal, compran provisiones encarecidas por la crisis de precios de la sesión y parten. Jin aprovecha el viaje para explicar a Gur que las monedas valen por su metal y no por su cantidad. El poblado que encuentran apenas dispone de comida. Su interlocutor budista explica que ni siquiera podrían reunir cincuenta monedas: criaturas aladas atacan de noche y arruinan su sustento. Los aventureros descartan cobrar por la fuerza y deciden afrontar primero el peligro. Banzo propone trasladar a los habitantes hacia el norte, pero estos quieren conservar sus casas. Durante el día Banzo sale de caza con el drow. Encuentran un jabalí y el conjuro que lo inmoviliza facilita cobrar la pieza para compartir su carne. Gur y Corco trabajan con la madera. El veterano explica que en su antigua mina aparecieron criaturas semejantes a una mezcla de oso y topo, y que una escapó herida; quiere encontrarla para demostrar lo que vivió. El relato amplía su motivo para viajar, aunque los compañeros no presencian aquel pasado. Por la noche se organizan guardias. Banzo termina dormido y el drow permanece atento: su aviso permite reaccionar cuando llegan los atacantes. Los tengu se reparten por los tejados y sorprenden también a quienes dormían. El combatiente de alas rojas y dos katanas resulta especialmente peligroso. Corco comprueba que sus ataques de fuego y después de relámpago no le hacen daño; el frío sí consigue herirlo. La bola de fuego de Gur alcanza a sus compañeros mientras el enemigo absorbe las llamas. Banzo usa sus cadenas para sujetar a otro adversario y el drow paraliza al principal, dando a Jin una oportunidad para golpear. Sin embargo, abandona esa concentración al intentar otro conjuro y deja al guerrero expuesto. Jin acaba en el suelo. Corco mata al tengu que Gur consideraba su presa y el conflicto entre aliados estalla en mitad de la defensa. Gur lo golpea deliberadamente para dejarlo fuera de combate y también descarga un ataque contra Banzo. El grupo vence a los invasores, pero sale de la pelea con heridas causadas por los dos bandos. Al cesar la furia, Gur reconoce que se ha excedido y entrega una poción a Corco. El veterano se incorpora y le recuerda que luchan en el mismo equipo. El drow se arrodilla junto a Jin y lo cura, demorando la reconciliación entre comentarios mordaces. Banzo ha advertido que estaba preparando un conjuro para detener a Gur; el drow confirma que a veces hay que calmarlo. El intercambio acerca al goliat y al bardo, que habla de él como su primer amigo. La cordialidad no borra el riesgo que acaba de sufrir el grupo. La idea de comerse a los tengu provoca otra discusión, en la que el drow inventa una explicación sobre una enfermedad para disuadir a Gur: esa historia no demuestra cómo enfermó Sirth. La victoria no ha creado las quinientas monedas que faltaban. Banzo y Jin estudian pagar entre los compañeros, pero vinculan la ayuda a que los vecinos abandonen el lugar y se instalen más al norte. Gur y Corco se oponen a imponer esa condición. El interlocutor del poblado también protesta: no quiere que el pago de impuestos termine convirtiéndose en la pérdida de sus hogares. La discusión lleva a Banzo a reconsiderar la propuesta. Los habitantes eligen quedarse. Gur, que durante la jornada ha discutido sobre fuerza y dinero, sostiene ahora que corresponde a ellos decidir dónde vivir. De vuelta en palacio, Gur entrega de su propio bolsillo las quinientas monedas de oro exigidas a Takuromo. El tributo queda satisfecho sin sacarlo de una población hambrienta y sin obligarla a emigrar. Rua agradece el gesto y le ofrece comida de las cocinas. También explica que la capital está llena y carece de alojamiento para acoger sin más a todos los desplazados. La conversación vuelve a la necesidad de investigar a los responsables de los ataques en vez de limitarse a combatir cada incursión. El cultista entregado al principio queda en manos de palacio para su interrogatorio; todavía no se comunica ninguna respuesta obtenida de él. La aldea permanece en su sitio y la defensa de esa noche no garantiza que el peligro haya desaparecido.",
+  "afirmaciones": [
+    {
+      "id": "102-001",
+      "titulo": "La enfermedad del maestro continúa",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "El maestro de Gur vomita lava en la base y sigue sin expulsar el orbe tragado; Banzo aún custodia al cultista superviviente.",
+      "inicio": "00:00:00.000",
+      "fin": "00:14:00.000",
+      "entidades": [
+        "Gur (grafía provisional)",
+        "Maestro de Gur (nombre pendiente)",
+        "Banzo"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "No demuestra resultados posteriores ni elimina las limitaciones expresadas.",
+      "cita": "literalmente lava de su boca haciendo un",
+      "evidencia_cue": {
+        "inicio": "00:12:48.639",
+        "fin": "00:12:51.110"
+      }
+    },
+    {
+      "id": "102-002",
+      "titulo": "Un cautivo y una cabeza en palacio",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "El grupo entrega vivo al cultista capturado. La cabeza del líder arrojada por Banzo provoca alarma y una reprimenda de Rua; Banzo se disculpa. La ofensiva que pide queda para consulta.",
+      "inicio": "00:14:00.000",
+      "fin": "00:26:00.000",
+      "entidades": [
+        "Banzo",
+        "Rua (grafía provisional)",
+        "Hermano de Danifae (nombre pendiente)"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "No demuestra resultados posteriores ni elimina las limitaciones expresadas.",
+      "cita": "me echo la mano a la cabeza. Sí, ahora",
+      "evidencia_cue": {
+        "inicio": "00:15:26.000",
+        "fin": "00:15:28.430"
+      }
+    },
+    {
+      "id": "102-003",
+      "titulo": "Una recaudación imposible para Takuromo",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Rua encarga cobrar quinientos oros en Takuromo sin hacer sufrir a la población. Allí el interlocutor budista declara que no pueden pagar ni cincuenta y describe ataques nocturnos de criaturas aladas.",
+      "inicio": "00:24:00.000",
+      "fin": "01:10:00.000",
+      "entidades": [
+        "Rua (grafía provisional)",
+        "Jin",
+        "Banzo",
+        "Takuromo (grafía provisional)",
+        "Budista de Takuromo (nombre pendiente)"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "No demuestra resultados posteriores ni elimina las limitaciones expresadas.",
+      "cita": "de 500 monedas de oro, pero es que no",
+      "evidencia_cue": {
+        "inicio": "00:58:45.799",
+        "fin": "00:58:47.710"
+      }
+    },
+    {
+      "id": "102-004",
+      "titulo": "El pasado minero que cuenta Corco",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Mientras ayuda a conseguir madera y el resto caza un jabalí para compartir, Corco cuenta la tragedia minera que motiva su búsqueda de un osotopo. Su relato no constituye una comprobación presente de aquella criatura.",
+      "inicio": "01:05:00.000",
+      "fin": "01:28:00.000",
+      "entidades": [
+        "Corco (grafía provisional)",
+        "Gur (grafía provisional)",
+        "Banzo",
+        "Hermano de Danifae (nombre pendiente)",
+        "Takuromo (grafía provisional)"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "Recuerdo atribuido al personaje; el pasado no se representa ante el grupo.",
+      "cita": "pueblo, tenemos que eliminarla porque",
+      "evidencia_cue": {
+        "inicio": "01:07:32.680",
+        "fin": "01:07:34.109"
+      }
+    },
+    {
+      "id": "102-005",
+      "titulo": "La guardia detecta a los tengu",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "El drow detecta la incursión nocturna; Banzo se ha dormido durante su guardia y varios compañeros son sorprendidos durmiendo.",
+      "inicio": "01:28:00.000",
+      "fin": "01:49:00.000",
+      "entidades": [
+        "Hermano de Danifae (nombre pendiente)",
+        "Banzo",
+        "Tengu atacantes de Takuromo",
+        "Takuromo (grafía provisional)"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "No demuestra resultados posteriores ni elimina las limitaciones expresadas.",
+      "cita": "Perce pasiva.",
+      "evidencia_cue": {
+        "inicio": "01:35:40.159",
+        "fin": "01:35:43.189"
+      }
+    },
+    {
+      "id": "102-006",
+      "titulo": "Fuego y relámpago no bastan",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "El tengu principal resiste el fuego y el relámpago de Corco, mientras el frío sí lo daña. La bola de fuego de Gur alcanza a aliados. La parálisis del drow favorece a Jin hasta que abandona su concentración.",
+      "inicio": "01:49:00.000",
+      "fin": "02:27:00.000",
+      "entidades": [
+        "Corco (grafía provisional)",
+        "Gur (grafía provisional)",
+        "Jin",
+        "Hermano de Danifae (nombre pendiente)",
+        "Tengu atacantes de Takuromo"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "No demuestra resultados posteriores ni elimina las limitaciones expresadas.",
+      "cita": "Pero si es inmune a piercer se comería",
+      "evidencia_cue": {
+        "inicio": "02:05:45.880",
+        "fin": "02:05:47.549"
+      }
+    },
+    {
+      "id": "102-007",
+      "titulo": "Gur golpea a sus aliados",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Tras disputar con Corco por haber matado a su presa, Gur lo ataca deliberadamente y también golpea a Banzo. La victoria sobre los tengu deja compañeros caídos, incluido Jin por los ataques enemigos.",
+      "inicio": "02:24:00.000",
+      "fin": "02:41:00.000",
+      "entidades": [
+        "Corco (grafía provisional)",
+        "Gur (grafía provisional)",
+        "Jin",
+        "Banzo",
+        "Tengu atacantes de Takuromo"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "No demuestra resultados posteriores ni elimina las limitaciones expresadas.",
+      "cita": "pasado. La presa. Claro, es que a quién",
+      "evidencia_cue": {
+        "inicio": "02:30:36.720",
+        "fin": "02:30:39.990"
+      }
+    },
+    {
+      "id": "102-008",
+      "titulo": "Curaciones y una amistad inesperada",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Gur da una poción a Corco después de excederse; el drow cura a Jin. Banzo agradece al drow su intención de frenar la furia de Gur y ambos conversan como amigos.",
+      "inicio": "02:38:00.000",
+      "fin": "02:49:00.000",
+      "entidades": [
+        "Corco (grafía provisional)",
+        "Gur (grafía provisional)",
+        "Jin",
+        "Banzo",
+        "Hermano de Danifae (nombre pendiente)"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "No demuestra resultados posteriores ni elimina las limitaciones expresadas.",
+      "cita": "curación levantándote y ves que cuando",
+      "evidencia_cue": {
+        "inicio": "02:42:11.399",
+        "fin": "02:42:14.550"
+      }
+    },
+    {
+      "id": "102-009",
+      "titulo": "La aldea rechaza una evacuación impuesta",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "La propuesta de costear el tributo a cambio de que los vecinos se marchen divide al grupo. Gur, Corco y el representante de la aldea defienden que los habitantes puedan quedarse.",
+      "inicio": "02:44:00.000",
+      "fin": "02:58:00.000",
+      "entidades": [
+        "Gur (grafía provisional)",
+        "Corco (grafía provisional)",
+        "Banzo",
+        "Jin",
+        "Budista de Takuromo (nombre pendiente)",
+        "Takuromo (grafía provisional)"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "No demuestra resultados posteriores ni elimina las limitaciones expresadas.",
+      "cita": "compro al pueblo.",
+      "evidencia_cue": {
+        "inicio": "02:45:34.319",
+        "fin": "02:45:37.670"
+      }
+    },
+    {
+      "id": "102-010",
+      "titulo": "Gur sufraga los quinientos oros",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Gur paga de su bolsillo a Rua los quinientos oros de Takuromo. La capital no tiene espacio para acoger a toda la población desplazada; el cautivo queda para interrogatorio, sin resultados revelados en esta sesión.",
+      "inicio": "02:54:00.000",
+      "fin": "03:06:00.000",
+      "entidades": [
+        "Gur (grafía provisional)",
+        "Rua (grafía provisional)",
+        "Takuromo (grafía provisional)"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "No demuestra resultados posteriores ni elimina las limitaciones expresadas.",
+      "cita": "las 500 monedas de oro.",
+      "evidencia_cue": {
+        "inicio": "02:59:09.640",
+        "fin": "02:59:12.389"
+      }
+    }
+  ],
+  "historia": {
+    "revisado_hasta": 102,
+    "etapas": [
+      {
+        "titulo": "Un maestro enfermo y una entrega pendiente",
+        "texto": "La vida en la base sigue interrumpida por las consecuencias de otras aventuras. Kuma, el maestro de Gur, vomita lava y abre un agujero en el suelo: continúa debilitado y todavía no ha expulsado la esfera que se tragó. Corco insiste en su búsqueda del osotopo que recuerda de la mina donde perdió a sus compañeros. Gur aprende con él palabras y costumbres de la horda, mientras Banzo conserva al cultista capturado en el templo de los tanuki. Para trasladarlo sin otro intento de fuga, el drow lo paraliza. El grupo lleva a palacio al prisionero vivo y también la cabeza del líder. Banzo la arroja ante los presentes; las armas de los guardias y el enfado de Rua obligan a detener la exhibición y pedir disculpas. El goliat reclama una respuesta ofensiva contra los enemigos que atacan a la población. Rua promete consultar a sus mandos y nobles, sin ordenar todavía esa ofensiva.",
+        "referencias": [
+          "102-001",
+          "102-002"
+        ]
+      },
+      {
+        "titulo": "Quinientas monedas y una aldea sin recursos",
+        "texto": "La misión que reciben consiste en recaudar quinientas monedas de oro en Takuromo, a dos días del campamento del Sur. Rua pide que la población no sufra. Después de atravesar el portal, compran provisiones encarecidas por la crisis de precios de la sesión y parten. Jin aprovecha el viaje para explicar a Gur que las monedas valen por su metal y no por su cantidad. El poblado que encuentran apenas dispone de comida. Su interlocutor budista explica que ni siquiera podrían reunir cincuenta monedas: criaturas aladas atacan de noche y arruinan su sustento. Los aventureros descartan cobrar por la fuerza y deciden afrontar primero el peligro. Banzo propone trasladar a los habitantes hacia el norte, pero estos quieren conservar sus casas.",
+        "referencias": [
+          "102-003"
+        ]
+      },
+      {
+        "titulo": "Ayudar antes de exigir",
+        "texto": "Durante el día Banzo sale de caza con el drow. Encuentran un jabalí y el conjuro que lo inmoviliza facilita cobrar la pieza para compartir su carne. Gur y Corco trabajan con la madera. El veterano explica que en su antigua mina aparecieron criaturas semejantes a una mezcla de oso y topo, y que una escapó herida; quiere encontrarla para demostrar lo que vivió. El relato amplía su motivo para viajar, aunque los compañeros no presencian aquel pasado. Por la noche se organizan guardias. Banzo termina dormido y el drow permanece atento: su aviso permite reaccionar cuando llegan los atacantes.",
+        "referencias": [
+          "102-004",
+          "102-005"
+        ]
+      },
+      {
+        "titulo": "El combate y la presa disputada",
+        "texto": "Los tengu se reparten por los tejados y sorprenden también a quienes dormían. El combatiente de alas rojas y dos katanas resulta especialmente peligroso. Corco comprueba que sus ataques de fuego y después de relámpago no le hacen daño; el frío sí consigue herirlo. La bola de fuego de Gur alcanza a sus compañeros mientras el enemigo absorbe las llamas. Banzo usa sus cadenas para sujetar a otro adversario y el drow paraliza al principal, dando a Jin una oportunidad para golpear. Sin embargo, abandona esa concentración al intentar otro conjuro y deja al guerrero expuesto. Jin acaba en el suelo. Corco mata al tengu que Gur consideraba su presa y el conflicto entre aliados estalla en mitad de la defensa. Gur lo golpea deliberadamente para dejarlo fuera de combate y también descarga un ataque contra Banzo. El grupo vence a los invasores, pero sale de la pelea con heridas causadas por los dos bandos.",
+        "referencias": [
+          "102-006",
+          "102-007"
+        ]
+      },
+      {
+        "titulo": "Reparar lo que ha roto la furia",
+        "texto": "Al cesar la furia, Gur reconoce que se ha excedido y entrega una poción a Corco. El veterano se incorpora y le recuerda que luchan en el mismo equipo. El drow se arrodilla junto a Jin y lo cura, demorando la reconciliación entre comentarios mordaces. Banzo ha advertido que estaba preparando un conjuro para detener a Gur; el drow confirma que a veces hay que calmarlo. El intercambio acerca al goliat y al bardo, que habla de él como su primer amigo. La cordialidad no borra el riesgo que acaba de sufrir el grupo. La idea de comerse a los tengu provoca otra discusión, en la que el drow inventa una explicación sobre una enfermedad para disuadir a Gur: esa historia no demuestra cómo enfermó Sirth.",
+        "referencias": [
+          "102-008"
+        ]
+      },
+      {
+        "titulo": "La decisión de los habitantes",
+        "texto": "La victoria no ha creado las quinientas monedas que faltaban. Banzo y Jin estudian pagar entre los compañeros, pero vinculan la ayuda a que los vecinos abandonen el lugar y se instalen más al norte. Gur y Corco se oponen a imponer esa condición. El interlocutor del poblado también protesta: no quiere que el pago de impuestos termine convirtiéndose en la pérdida de sus hogares. La discusión lleva a Banzo a reconsiderar la propuesta. Los habitantes eligen quedarse. Gur, que durante la jornada ha discutido sobre fuerza y dinero, sostiene ahora que corresponde a ellos decidir dónde vivir.",
+        "referencias": [
+          "102-009"
+        ]
+      },
+      {
+        "titulo": "Gur paga el tributo",
+        "texto": "De vuelta en palacio, Gur entrega de su propio bolsillo las quinientas monedas de oro exigidas a Takuromo. El tributo queda satisfecho sin sacarlo de una población hambrienta y sin obligarla a emigrar. Rua agradece el gesto y le ofrece comida de las cocinas. También explica que la capital está llena y carece de alojamiento para acoger sin más a todos los desplazados. La conversación vuelve a la necesidad de investigar a los responsables de los ataques en vez de limitarse a combatir cada incursión. El cultista entregado al principio queda en manos de palacio para su interrogatorio; todavía no se comunica ninguna respuesta obtenida de él. La aldea permanece en su sitio y la defensa de esa noche no garantiza que el peligro haya desaparecido.",
+        "referencias": [
+          "102-010"
+        ]
+      }
+    ]
+  },
+  "misiones": [
+    "Entregar al cultista vivo a palacio: cumplido; interrogatorio pendiente.",
+    "Recaudar quinientos oros de Takuromo: cumplido mediante el pago personal de Gur.",
+    "Investigar y detener el origen de los ataques a la población: pendiente."
+  ],
+  "preguntas": [
+    "¿Qué revelará el interrogatorio del cultista entregado a palacio?",
+    "¿Quién organiza los ataques contra Takuromo y cómo se impedirá otra incursión?",
+    "¿Qué efecto mantiene enfermo a Kuma y cuándo podrá expulsar el orbe?"
+  ],
+  "nombres_dudosos": [
+    "Takuromo/Takoromo/Tacoramo: grafías del topónimo oscilantes en la transcripción.",
+    "El representante budista del poblado no recibe un nombre claro."
+  ],
+  "contradicciones": [
+    "La mentira del drow sobre una enfermedad por comer aarakocra no se incorpora como explicación del caso de Sirth.",
+    "La victoria militar no supone que los vecinos puedan pagar: el tributo sale del patrimonio de Gur."
+  ]
+}

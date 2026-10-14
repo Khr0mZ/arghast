@@ -1,0 +1,67 @@
+{
+  "mode": "built-in imagegen",
+  "intent": "generate",
+  "canon": "Decorative atmosphere; not canonical geography or events.",
+  "assets": [
+    {
+      "name": "arghast-drawer",
+      "prompt": "Use case: stylized-concept. Painted fantasy RPG encyclopedia illustration, rich atmospheric brushwork, exquisite aged materials, no text, no letters, no logo, no UI, no people. Decorative atmosphere rather than canonical geography. Asset: portrait 9:16 background for a narrow navigation drawer for Arghast, a fantasy world. Neutral charcoal stone, muted antique brass and warm gray. Ancient stone archive alcove with a beautifully crafted brass armillary sphere and worn books toward the bottom; carved stone framing along edges, deep quiet smoky charcoal negative space through upper and middle central area for overlaid navigation. Subtle golden light, mysterious, tactile, restrained neutral palette. No maps. Full bleed vertical artwork.",
+      "source": "C:/Users/khr0m/.codex/generated_images/01a139d3-d428-79a1-9a34-77d49502b031/exec-21534342-c5c9-4a09-822c-da96ccb8fa69.png",
+      "original": "web/assets/arghast-drawer-original.png",
+      "file": "web/assets/arghast-drawer.webp",
+      "width": 941,
+      "height": 1672,
+      "quality": 90,
+      "bytes": 235844,
+      "sha256": "212f52b047652952a383a6fde3c9110ad524acce9e028fcb58786aef7e94eaa6"
+    },
+    {
+      "name": "xoltacan-drawer",
+      "prompt": "Use case: stylized-concept. Painted fantasy RPG encyclopedia illustration, rich atmospheric brushwork, exquisite aged materials, no text, no letters, no logo, no UI, no people. Decorative atmosphere rather than canonical geography. Asset: portrait 9:16 background for a narrow navigation drawer for Xoltacan, a lush jungle island. Immense ancient tropical tree with sculptural buttress roots, curling lianas and emerald ferns along edges, a tiny mossy carved stone relic nestled at bottom. Deep jade mist and dark green canopy. Quiet dark green central vertical space for overlaid navigation, luminous delicate leaf edges, painterly jungle adventure mood. Ground level intimate composition, no aerial island or coast. Full bleed vertical artwork.",
+      "source": "C:/Users/khr0m/.codex/generated_images/01a139d3-d428-79a1-9a34-77d49502b031/exec-5ee9df43-80a4-4ca1-be7f-63095fd893c3.png",
+      "original": "web/assets/xoltacan-drawer-original.png",
+      "file": "web/assets/xoltacan-drawer.webp",
+      "width": 941,
+      "height": 1672,
+      "quality": 90,
+      "bytes": 402378,
+      "sha256": "1a4f00e33e09a33e2571dbf958c77794fdc00d9835fe1faca344049fdc62c191"
+    },
+    {
+      "name": "kuroto-drawer",
+      "prompt": "Use case: stylized-concept. Painted fantasy RPG encyclopedia illustration, rich atmospheric brushwork, exquisite aged materials, no text, no letters, no logo, no UI, no people. Decorative atmosphere rather than canonical geography. Asset: portrait 9:16 background for a narrow navigation drawer for Kuroto, an oriental fantasy campaign. Weathered cedar shrine wood and elegant black bamboo along edges, a single antique vermilion hanging lantern low on the right, faint gilt ornament and drifting plum-colored mist, mossy stone at bottom. Ink black, smoky plum, restrained vermilion and antique gold. Broad quiet dark central vertical space for overlaid navigation. Intimate material-rich composition, no castle, no torii, no text or characters. Full bleed vertical artwork.",
+      "source": "C:/Users/khr0m/.codex/generated_images/01a139d3-d428-79a1-9a34-77d49502b031/exec-2dd1ea5a-72ce-45c3-80de-57ac82e6b804.png",
+      "original": "web/assets/kuroto-drawer-original.png",
+      "file": "web/assets/kuroto-drawer.webp",
+      "width": 941,
+      "height": 1672,
+      "quality": 90,
+      "bytes": 309146,
+      "sha256": "48f397c354c92f18b944cf27079fdb6a98612bbde6933be9cedb5679718d662b"
+    },
+    {
+      "name": "xoltacan-background",
+      "prompt": "Use case: stylized-concept. Painted fantasy RPG encyclopedia illustration, rich atmospheric brushwork, exquisite aged materials, no text, no letters, no logo, no UI, no people. Decorative atmosphere rather than canonical geography. Asset: wide 16:9 immersive full-page background for Xoltacan, a jungle island fantasy campaign. Ground level view through immense tropical rainforest into an ancient mossy stone cenote beside a quiet jade river; huge fern fronds and tangled roots frame the edges, distant diffuse green mist and shafts of soft light. Emerald and deep jade, adventurous and beautiful. Low contrast central area for readable content panels, detailed foliage at margins. Different from an aerial island coast hero: no coastline, no mountain vista. Full bleed landscape.",
+      "source": "C:/Users/khr0m/.codex/generated_images/01a139d3-d428-79a1-9a34-77d49502b031/exec-12613c50-beb0-4867-b431-af5ea15e0de6.png",
+      "original": "web/assets/xoltacan-background-original.png",
+      "file": "web/assets/xoltacan-background.webp",
+      "width": 1672,
+      "height": 941,
+      "quality": 90,
+      "bytes": 476284,
+      "sha256": "24a368eb0bb288010041d0dbe1cc61565840d4e6929923e9fc80bbe9c7e80afd"
+    },
+    {
+      "name": "kuroto-background",
+      "prompt": "Use case: stylized-concept. Painted fantasy RPG encyclopedia illustration, rich atmospheric brushwork, exquisite aged materials, no text, no letters, no logo, no UI, no people. Decorative atmosphere rather than canonical geography. Asset: wide 16:9 immersive full-page background for Kuroto, an oriental fantasy campaign. Misty ancient cedar and bamboo grove surrounding a winding shallow stream in a mossy shrine garden, worn stone lanterns and a delicate weathered vermilion footbridge far to one side. Ink charcoal, smoky plum twilight, muted copper and restrained warm gold lantern glows. Poetic painterly atmosphere, soft low contrast open center for readable content panels, detailed margins. No castle, no torii, no large moon. Full bleed landscape.",
+      "source": "C:/Users/khr0m/.codex/generated_images/01a139d3-d428-79a1-9a34-77d49502b031/exec-7f65ef29-171a-4db3-85e9-3911bdf505be.png",
+      "original": "web/assets/kuroto-background-original.png",
+      "file": "web/assets/kuroto-background.webp",
+      "width": 1672,
+      "height": 941,
+      "quality": 90,
+      "bytes": 422044,
+      "sha256": "66dc8931c251e4b5c7a56d1c16aa4285b57246449573f67cb095f24eccacb62a"
+    }
+  ]
+}

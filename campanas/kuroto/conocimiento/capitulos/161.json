@@ -1,0 +1,310 @@
+{
+  "capitulo": 161,
+  "estado_revision": "revisado",
+  "fuente_sha256": "a54e434e4d79d63d4e3843fcfbbfb6ec241d42187c8d6caa7578506eb3c9d478",
+  "resumen": "Banzo sigue sin encontrar a Archi y menciona un trato relacionado con Danifae cuyo alcance no detalla. La ausencia de Serafina lleva a Guxi al puerto: ha vencido su fecha de regreso y no hay noticia de tormentas que lo explique. Ella, mientras tanto, está secuestrada y la tripulación de la Flor de Loto ha muerto. Banzo autoriza con su firma la salida del barco metálico del shogunato. Un capitán que se marea y una contramaestre mucho más resolutiva se ofrecen como navegantes. Sin reconocerlos, los aceptan y toman una ruta para interceptar el regreso desde Puerto de la Espada. Un barco pirata los alcanza. A bordo del Rompeolas, el capitán tiburón Sharky mantiene atada a Serafina y espera cobrar un rescate. Ella consigue liberar las manos mientras la contramaestre inmoviliza enemigos, Guxi prepara torretas y Banzo aborda. La capitana golpea a su captor, pero él la atrapa en las mandíbulas. Guxi lo empuja para apartarlo y precipita a ambos al agua. La aparente ayuda da al pirata el terreno que mejor domina. El reloj no permite borrar como reacción lo sucedido y el rescate se complica entre nieblas y proyectiles. La contramaestre rescata al capitán caído y emerge como Calista; Haddock era Gelbreak. Han acompañado la salida de incógnito. Dispersan nieblas, curan y destruyen tiburones, mientras Banzo sostiene la cubierta enemiga y acobarda a sus supervivientes. Serafina bebe una poción para respirar bajo el agua, se cura y sigue golpeando desde las mandíbulas. Guxi no logra acercarse por el miedo que le inspira Sharky, pero dispara pese a ello. Calista toma forma de dragón y Gelbreak arrasa el resto de la cubierta. Cuando Serafina consigue aturdir al capitán, este por fin la suelta; los disparos de Guxi terminan matándolo. Calista recupera del pirata una pistola GXI Prototype y se la entrega al artífice. Serafina reclama un collar del antiguo capitán y se ata el recuerdo a la muñeca antes de volver al timón del Rompeolas. Tiembla por lo ocurrido, pero promete no perder otra vez su barco. Banzo le cede el puesto mientras salen a la luz los disfraces de sus compañeros. Queda un pirata oculto, Maximiliano, al que Banzo rebautiza Toby y fuerza a trabajar para él bajo amenaza. Tras un beso y la revelación de que Sharky era su ex, Serafina y Guxi emprenden el regreso. Los dos barcos vuelven a Kuroto con una capitana recuperada y una tripulación asesinada que el triunfo no devuelve.",
+  "afirmaciones": [
+    {
+      "id": "161-001",
+      "titulo": "Un rescate que no admite espera",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Banzo relata búsquedas infructuosas de Archi y una conversación con una doncella de Lolth en las celdas: Danifae estaba amordazada, vendada y encadenada. Menciona un trato para proteger a los suyos, cuyo contenido completo no explica. Serafina está secuestrada tras morir la tripulación de la Flor de Loto y Guxi, alarmado por su retraso, organiza buscarla con Banzo.",
+      "inicio": "00:00:00.040",
+      "fin": "00:06:02.950",
+      "cita": "secuestrada",
+      "entidades": [
+        "Banzo",
+        "Guxi (grafía provisional)",
+        "Serafina Hop (grafía provisional)",
+        "Danifae (grafía provisional)",
+        "Flor de Loto"
+      ],
+      "ambito": "Kuroto, sesión 161",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "161-002",
+      "titulo": "Dos navegantes demasiado peculiares",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Banzo consigue permiso para sacar el barco oficial mediante su firma de cazador. Contratan aparentemente al capitán Haddock y a la contramaestre Lauret, que ofrecen rutas y ayuda. Banzo los observa y se convence de su explicación; no detecta sus disfraces. El supuesto capitán se marea antes de salir.",
+      "inicio": "00:06:02.960",
+      "fin": "00:21:01.830",
+      "cita": "Lauret contra maestra Lauret. Y aquí y",
+      "entidades": [
+        "Banzo",
+        "Guxi (grafía provisional)",
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Barco metálico del shogunato"
+      ],
+      "ambito": "Kuroto, sesión 161",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "161-003",
+      "titulo": "Una ruta y una conversación",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Guxi se ocupa del motor y Banzo ayuda con carbón. Conversan sobre Serafina y sobre haber entrado en la mente de Kurobane para luchar contra Osuray; Guxi lo vio mejor después pero no sabe dónde está ahora. La navegante fija una intercepción de la vuelta desde Puerto de la Espada y el augurio avala la ruta, sin prometer ausencia de piratas.",
+      "inicio": "00:21:01.840",
+      "fin": "00:43:00.270",
+      "cita": "Es algo difícil. Al final Osuray habrá",
+      "entidades": [
+        "Banzo",
+        "Guxi (grafía provisional)",
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Barco metálico del shogunato",
+        "Serafina Hop (grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 161",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "161-004",
+      "titulo": "La coneja está en el otro barco",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Un barco pirata aparece al lado. Banzo reconoce a Serafina atada y amordazada junto al enorme capitán tiburón Sharky. Guxi prepara torretas y vuela; la contramaestre inmoviliza piratas y coordina cañones. Serafina logra sacar las manos de las cuerdas sin ser advertida inicialmente. Sharky espera cobrar un rescate.",
+      "inicio": "00:43:00.280",
+      "fin": "01:00:03.390",
+      "cita": "atada y amordazada al mastil de atrás.",
+      "entidades": [
+        "Banzo",
+        "Guxi (grafía provisional)",
+        "Serafina Hop (grafía provisional)",
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Sharky (pirata tiburón, grafía provisional)",
+        "Rompeolas"
+      ],
+      "ambito": "Kuroto, sesión 161",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "161-005",
+      "titulo": "Un empujón con una consecuencia peor",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Banzo aborda y derriba piratas, apoyando el avance de Guxi. Serafina golpea al capitán, pero Sharky la atrapa entre las mandíbulas. El artífice lo empuja con una torreta y ambos caen al agua, donde el tiburón puede nadar con su prisionera. El intento de usar el reloj como reacción se rechaza: no deshacen la caída.",
+      "inicio": "01:00:03.400",
+      "fin": "01:21:04.310",
+      "cita": "boca, pum, los dos al agua. No me",
+      "entidades": [
+        "Banzo",
+        "Guxi (grafía provisional)",
+        "Serafina Hop (grafía provisional)",
+        "Sharky (pirata tiburón, grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 161",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "161-006",
+      "titulo": "La contramaestre se descubre",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Lauret rescata al capitán caído al agua, dispersa humo con viento y cura a Guxi. Al salir se revela Calista; el capitán resulta ser Gelbreak disfrazado. Sharky convoca tiburones que atacan atraídos por sangre. Gelbreak destruye varios para proteger a la shogun mientras Banzo sigue solo contra gran parte de la cubierta enemiga.",
+      "inicio": "01:21:04.320",
+      "fin": "01:47:00.750",
+      "cita": "¿Qué este fallo? Y Calista ha roto la",
+      "entidades": [
+        "Banzo",
+        "Guxi (grafía provisional)",
+        "Serafina Hop (grafía provisional)",
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Sharky (pirata tiburón, grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 161",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "161-007",
+      "titulo": "No consigue acercarse a ella",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Serafina toma una poción para respirar bajo el agua y se cura mientras sigue atrapada. El miedo impide a Guxi acercarse a Sharky, aunque continúa disparando. Banzo intimida a los piratas supervivientes, que se acobardan pero no se unen a él. Calista fracasa al intimidar un tiburón y después adopta forma de dragón; Gelbreak limpia casi toda la cubierta.",
+      "inicio": "01:45:01.560",
+      "fin": "02:13:00.950",
+      "cita": "salvación de miedo. Ay, de sabiduría.",
+      "entidades": [
+        "Banzo",
+        "Guxi (grafía provisional)",
+        "Serafina Hop (grafía provisional)",
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Sharky (pirata tiburón, grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 161",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "161-008",
+      "titulo": "La mordaza deja de ser una jaula",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Serafina logra aturdir a Sharky y este la suelta. Calista da una orden de ataque conjunto y combate al otro tiburón. Guxi continúa disparando hasta rematar al capitán, que queda muerto flotando. La shogun saquea y le entrega una pistola especial al artífice. El rescate termina sin una muerte definitiva de Serafina.",
+      "inicio": "02:12:02.360",
+      "fin": "02:33:00.910",
+      "cita": "No me voy a [ __ ] rendir. Suéltame,",
+      "entidades": [
+        "Banzo",
+        "Guxi (grafía provisional)",
+        "Serafina Hop (grafía provisional)",
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Sharky (pirata tiburón, grafía provisional)",
+        "Pistola GXI Prototype"
+      ],
+      "ambito": "Kuroto, sesión 161",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "161-009",
+      "titulo": "Un prototipo recuperado",
+      "tipo": "explicacion_director",
+      "afirmacion": "La pistola GXI Prototype es un arma mejorada que añade daño de fuerza. Su carga permite que una torreta ataque adicionalmente tras ataques con la pistola durante un minuto y tiene un disparo explosivo de área. Calista se la entrega a Guxi tras recuperarla del pirata; no se inventa una explicación de cómo llegó antes a Sharky.",
+      "inicio": "02:30:01.399",
+      "fin": "02:36:02.309",
+      "cita": "prototype,",
+      "entidades": [
+        "Calista",
+        "Guxi (grafía provisional)",
+        "Sharky (pirata tiburón, grafía provisional)",
+        "Pistola GXI Prototype"
+      ],
+      "ambito": "Kuroto, sesión 161",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "161-010",
+      "titulo": "Volver a tomar el Rompeolas",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Serafina recupera del cadáver un collar del antiguo capitán y se lo ata a la muñeca. Sube con Guxi, se quita la mordaza y toma temblando el timón: reconoce el Rompeolas como su antiguo barco y promete no soltarlo otra vez. Banzo le cede su puesto. Calista y Gelbreak reconocen haber fingido a los navegantes para una escapada y para ayudar al rescate.",
+      "inicio": "02:34:00.760",
+      "fin": "02:40:59.990",
+      "cita": "rompeolas.",
+      "entidades": [
+        "Banzo",
+        "Guxi (grafía provisional)",
+        "Serafina Hop (grafía provisional)",
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Sharky (pirata tiburón, grafía provisional)",
+        "Rompeolas"
+      ],
+      "ambito": "Kuroto, sesión 161",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "161-011",
+      "titulo": "Toby no era su nombre",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Descubren un pirata escondido que se presenta como Maximiliano. Banzo lo llama Toby, lo obliga mediante amenaza a trabajar para él y propone convertirlo en aprendiz de shinobi. Calista permite que se lo lleve y exige retirar los cadáveres. Serafina y Guxi se besan y ella revela que Sharky era su ex. Regresan a Kuroto con el Rompeolas y el barco metálico; Gelbreak sigue jugando a ser capitán.",
+      "inicio": "02:40:00.760",
+      "fin": "02:49:03.429",
+      "cita": "Me llamo Maximiliano.",
+      "entidades": [
+        "Banzo",
+        "Guxi (grafía provisional)",
+        "Serafina Hop (grafía provisional)",
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Sharky (pirata tiburón, grafía provisional)",
+        "Maximiliano (apodado Toby)",
+        "Rompeolas",
+        "Barco metálico del shogunato"
+      ],
+      "ambito": "Kuroto, sesión 161",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    }
+  ],
+  "historia": {
+    "revisado_hasta": 161,
+    "etapas": [
+      {
+        "titulo": "Salir a buscar a una familia",
+        "texto": "Banzo sigue sin encontrar a Archi y menciona un trato relacionado con Danifae cuyo alcance no detalla. La ausencia de Serafina lleva a Guxi al puerto: ha vencido su fecha de regreso y no hay noticia de tormentas que lo explique. Ella, mientras tanto, está secuestrada y la tripulación de la Flor de Loto ha muerto. Banzo autoriza con su firma la salida del barco metálico del shogunato. Un capitán que se marea y una contramaestre mucho más resolutiva se ofrecen como navegantes. Sin reconocerlos, los aceptan y toman una ruta para interceptar el regreso desde Puerto de la Espada.",
+        "referencias": [
+          "161-001",
+          "161-002",
+          "161-003"
+        ]
+      },
+      {
+        "titulo": "La libertad cae al agua",
+        "texto": "Un barco pirata los alcanza. A bordo del Rompeolas, el capitán tiburón Sharky mantiene atada a Serafina y espera cobrar un rescate. Ella consigue liberar las manos mientras la contramaestre inmoviliza enemigos, Guxi prepara torretas y Banzo aborda. La capitana golpea a su captor, pero él la atrapa en las mandíbulas. Guxi lo empuja para apartarlo y precipita a ambos al agua. La aparente ayuda da al pirata el terreno que mejor domina. El reloj no permite borrar como reacción lo sucedido y el rescate se complica entre nieblas y proyectiles.",
+        "referencias": [
+          "161-004",
+          "161-005"
+        ]
+      },
+      {
+        "titulo": "Dos disfraces y demasiados tiburones",
+        "texto": "La contramaestre rescata al capitán caído y emerge como Calista; Haddock era Gelbreak. Han acompañado la salida de incógnito. Dispersan nieblas, curan y destruyen tiburones, mientras Banzo sostiene la cubierta enemiga y acobarda a sus supervivientes. Serafina bebe una poción para respirar bajo el agua, se cura y sigue golpeando desde las mandíbulas. Guxi no logra acercarse por el miedo que le inspira Sharky, pero dispara pese a ello. Calista toma forma de dragón y Gelbreak arrasa el resto de la cubierta. Cuando Serafina consigue aturdir al capitán, este por fin la suelta; los disparos de Guxi terminan matándolo.",
+        "referencias": [
+          "161-006",
+          "161-007",
+          "161-008"
+        ]
+      },
+      {
+        "titulo": "Dos barcos hacia casa",
+        "texto": "Calista recupera del pirata una pistola GXI Prototype y se la entrega al artífice. Serafina reclama un collar del antiguo capitán y se ata el recuerdo a la muñeca antes de volver al timón del Rompeolas. Tiembla por lo ocurrido, pero promete no perder otra vez su barco. Banzo le cede el puesto mientras salen a la luz los disfraces de sus compañeros. Queda un pirata oculto, Maximiliano, al que Banzo rebautiza Toby y fuerza a trabajar para él bajo amenaza. Tras un beso y la revelación de que Sharky era su ex, Serafina y Guxi emprenden el regreso. Los dos barcos vuelven a Kuroto con una capitana recuperada y una tripulación asesinada que el triunfo no devuelve.",
+        "referencias": [
+          "161-009",
+          "161-010",
+          "161-011"
+        ]
+      }
+    ]
+  },
+  "misiones": [
+    "Atender las consecuencias de la matanza de la Flor de Loto.",
+    "Continuar la búsqueda de Archi.",
+    "Aclarar el pacto relacionado con Danifae y la situación del superviviente impuesto a Banzo."
+  ],
+  "preguntas": [
+    "¿Qué condiciones tiene el trato mencionado por Banzo en las celdas?",
+    "¿Cómo llegó el prototipo GXI a manos de Sharky?",
+    "¿Qué ocurrirá con Maximiliano bajo la autoridad de Banzo?"
+  ],
+  "nombres_dudosos": [
+    "Haddock/Harlock/Hadok y Lauret/Laure son disfraces explícitos de Gelbreak y Calista, no nuevas identidades independientes.",
+    "Sharky/Sarki: capitán tiburón y ex de Serafina.",
+    "GXI/GUX1 Prototype: grafía del arma mostrada y leída."
+  ],
+  "contradicciones": [
+    "Sharky muere; Serafina cae momentáneamente pero sigue viva y regresa.",
+    "Los piratas intimidados no se unen voluntariamente al grupo.",
+    "El superviviente dice llamarse Maximiliano; Toby es impuesto bajo amenaza."
+  ]
+}

@@ -1,0 +1,345 @@
+{
+  "capitulo": 144,
+  "estado_revision": "revisado",
+  "fuente_sha256": "7591182334309a2fe29af877b86c865b0fce2b07bfe2447f249ee58ebc69bd04",
+  "resumen": "Serafina cuenta que Guxi la ayudó a visitar a Danifae y que sus advertencias han abierto dudas sobre lo que su prometido le oculta. Calista, mientras tanto, describe una colaboración con Tiari contra informantes de un lord de Puerto de las Espadas y encarga estudiar defensas frente al contrabando. Los cuatro coinciden en una casa del té: los primeros intentan una cita y la shogun y su guardián buscan tiempo propio lejos de sus obligaciones. Los dos anillos que Gelbreak regala a Calista son protección mágica, sin petición matrimonial. Calista arrastra a sus compañeros a bromear con los nobles. Una orden a la sirvienta y una copa agrandada empapan a Hanae, que se marcha asustada al reconocer a la shogun. Guxi intenta luego humillar a Nomi disfrazado de camarera: deja croquetas viejas en nombre de Serafina después de que el noble rechace una bebida atribuida a un hombre. No ven el resultado de la comida. Montaro presenta a Akuki como su recién casada esposa; la sorpresa de Calista permanece como sospecha suya, sin prueba de engaño. Mientras se preparan para una función, Serafina confía a Calista sus lagunas anteriores a los piratas, el dolor que acalla bebiendo y la devolución temporal del anillo tras el gigante. Mantiene el compromiso, pero necesita cuidarse y hablar con sinceridad. Guxi y Gelbreak discuten el recelo hacia bardos nacido de la relación con el padre del artífice. El guardián exige no culpar a Calista por actos ajenos. Las explicaciones de los jugadores revelan la infancia de Serafina usada como entretenimiento, la soledad de Guxi y cuánto extraña Gelbreak el tiempo que la shogun ya no puede dedicarle. Una botella premiada los lleva a representar el cuento de Jorge y el dragón bajo la presentación de Sota. Guxi hace de rey, Calista de princesa, Serafina de caballero y Gelbreak de monstruo reticente. Entre improvisaciones, una orden mágica y un beso fingido, consiguen aplausos del público. Nada del sacrificio, el dragón o el matrimonio del cuento se convierte en un acontecimiento real de Kuroto. Tsugami celebra la actuación y el anuncio del compromiso de Serafina, sin dejar una boda encargada o celebrada. De regreso a la mesa, Guxi reconoce que sus prejuicios pueden herir a sus compañeros y pide disculpas. Calista ofrece ayuda sin dejar de recordar que sigue siendo su compañera. Serafina y Guxi descubren que necesitan algo más que pasión: él promete una cita tranquila y ambos conservan el compromiso, con una conversación sobre secretos todavía pendiente. Calista y Gelbreak se marchan con vino a su casa para evitar que la salida termine de nuevo absorbida por el trabajo de palacio.",
+  "afirmaciones": [
+    {
+      "id": "144-001",
+      "titulo": "Visita clandestina a Danifae",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Guxi y Serafina cuentan que él la ayudó a entrar en la celda de Danifae después de intentar disuadirla. Ella le llevó una bebida y recibió advertencias de no confiar en nadie porque supuestamente todos le ocultan cosas. La conversación aumenta sus dudas sobre Guxi; no confirma como hechos todas las acusaciones de la prisionera.",
+      "inicio": "00:00:00.040",
+      "fin": "00:04:01.670",
+      "cita": "cosa de meterse en una cárcel.",
+      "entidades": [
+        "Guxi",
+        "Serafina Hop (grafía provisional)",
+        "Danifae (grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 144",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "144-002",
+      "titulo": "Cooperación frente al contrabando exterior",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Calista relata su cooperación con Tiari para eliminar informantes de un lord de Puerto de las Espadas interesado en conocer y aprovechar Kuroto. Cree que enviará más espías y contrabando. Pide inventos a Guxi e instrucción de artimañas piratas a Serafina para proteger aduanas. No se revela el nombre del lord ni se prueba que dirija Nox o el símbolo del ancla.",
+      "inicio": "00:03:00.000",
+      "fin": "00:09:01.949",
+      "cita": "informantes de otro de otra ciudad y los",
+      "entidades": [
+        "Calista",
+        "Tiari (grafía provisional)",
+        "Guxi",
+        "Serafina Hop (grafía provisional)",
+        "Lord de Puerto de las Espadas interesado en Kuroto"
+      ],
+      "ambito": "Kuroto, sesión 144",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "144-003",
+      "titulo": "Encuentro en la casa del té",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Guxi y Serafina llegan a una casa del té de la zona alta donde Takiki les asigna mesa en el salón. Calista y Gelbreak habían reservado un privado para pasar tiempo juntos lejos del trabajo. Él le regala dos anillos mágicos defensivos: la sorpresa inicial de ella no convierte ninguno en una petición matrimonial. Calista encuentra a sus compañeros y acaba sentándose con ellos.",
+      "inicio": "00:09:01.959",
+      "fin": "00:24:02.190",
+      "cita": "Perdón. Eh, señorita Takiki, encantada.",
+      "entidades": [
+        "Guxi",
+        "Serafina Hop (grafía provisional)",
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Takiki (grafía provisional)",
+        "Casa del té de la zona alta",
+        "Anillos defensivos de Calista"
+      ],
+      "ambito": "Kuroto, sesión 144",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "144-004",
+      "titulo": "La broma que ahuyenta a Hanae",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Calista propone divertirse haciendo bromas a nobles. Hace que Guxi pida vino para Hanae y lanza una orden a la sirvienta cuando sirve; Guxi agranda la copa y la mesa queda empapada. Hanae se enfada, pero al ver a Calista muestra miedo y se marcha. La shogun afirma haberle dejado claro que no toque lo que le importa. Fukami también recibe vino encima. No se cuenta aquí el contenido de una amenaza previa.",
+      "inicio": "00:24:02.200",
+      "fin": "00:40:02.510",
+      "cita": "ver en sus ojos es pánico, ¿vale? Pánico",
+      "entidades": [
+        "Calista",
+        "Guxi",
+        "Hanae (grafía provisional)",
+        "Fukami (grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 144",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "144-005",
+      "titulo": "Una venganza contra Nomi sin resultado visto",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Guxi quiere escarmentar a Nomi por su conducta con Serafina durante el baile. Ella aclara que entonces lo emborrachó, simuló intimidad y no se acostó con él. Guxi usa Alter Self para hacerse pasar por una camarera y ofrece bebida con picante y croquetas viejas aportadas por Serafina. Nomi rechaza lo enviado supuestamente por un hombre; acepta dejar la comida cuando se la atribuyen a Serafina. No se muestra que coma, enferme o sufra el efecto planeado.",
+      "inicio": "00:39:01.119",
+      "fin": "01:13:01.070",
+      "cita": "tengo las croquetas de la vieja.",
+      "entidades": [
+        "Guxi",
+        "Serafina Hop (grafía provisional)",
+        "Nomi (grafía provisional)",
+        "Calista"
+      ],
+      "ambito": "Kuroto, sesión 144",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "144-006",
+      "titulo": "Montaro presenta a su esposa",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Montaro presenta a una joven pelirroja llamada Akuki como su esposa recién casada. Calista la reconoce como parte de una familia noble de rango menor y los felicita. Luego expresa sorpresa y sospecha por lo repentino, pues lo recordaba interesado en asuntos extranjeros. Su duda no demuestra matrimonio fingido, conspiración o identidad falsa de la mujer.",
+      "inicio": "00:48:02.359",
+      "fin": "00:54:04.190",
+      "cita": "y dice, \"Ah, soy Akuki señorita.",
+      "entidades": [
+        "Montaro (grafía provisional)",
+        "Akuki (grafía provisional)",
+        "Calista"
+      ],
+      "ambito": "Kuroto, sesión 144",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "144-007",
+      "titulo": "Serafina relata el trauma y su compromiso",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "En los vestuarios Serafina dice a Calista que llegó a devolver a Guxi el anillo y a plantear romper tras sentirse inútil y herir a otros bajo control en el episodio del gigante. Ahora mantiene el compromiso, aunque no recuerda su vida anterior a los piratas y bebe para acallar gritos y dolor. Calista le aconseja conocerse, cuidarse y no esperar que una pareja resuelva todo. La boda se aplaza hasta que termine el conflicto y haya estabilidad.",
+      "inicio": "01:18:00.440",
+      "fin": "01:26:00.229",
+      "cita": "incluso el anillo, pero",
+      "entidades": [
+        "Serafina Hop (grafía provisional)",
+        "Calista",
+        "Guxi"
+      ],
+      "ambito": "Kuroto, sesión 144",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "144-008",
+      "titulo": "Guxi y Gelbreak hablan de confianza",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Gelbreak rechaza una boda ante dioses, aunque admite planes con Calista. Guxi vincula su dificultad para confiar en bardos a su padre; el guardián le reprocha culpar a Calista y a él por actos ajenos. Recuerdan el engaño del padre sobre una supuesta madre de Gelbreak. El drow exige que no convierta aquellos problemas en daño para su pareja. Guxi admite su carga y dice que puede controlarla. Son dos personajes distintos: humano artífice y drow bardo.",
+      "inicio": "01:25:02.040",
+      "fin": "01:36:00.310",
+      "cita": "sabía que seguramente será mi padre.",
+      "entidades": [
+        "Guxi",
+        "Gelbreak (grafía provisional)",
+        "Calista",
+        "Padre bardo de Guxi"
+      ],
+      "ambito": "Kuroto, sesión 144",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "144-009",
+      "titulo": "Recuerdos de la infancia entre piratas",
+      "tipo": "explicacion_director",
+      "afirmacion": "La jugadora explica que los aplausos del escenario revuelven a Serafina: de pequeña los piratas la obligaban a beber y a imitar pasos de combate para entretenerlos. Su temor actual es perder a Guxi y sentirse engañada o utilizada otra vez. Guxi se declara enamorado y describe una vida solitaria, decepción con su padre y un maestro al que veía como figura paterna. El director explica que Gelbreak extraña el tiempo de pareja absorbido por las obligaciones de Calista.",
+      "inicio": "01:39:01.000",
+      "fin": "01:49:02.229",
+      "cita": "desde muy pequeña la hacían tomar",
+      "entidades": [
+        "Serafina Hop (grafía provisional)",
+        "Guxi",
+        "Gelbreak (grafía provisional)",
+        "Calista",
+        "Padre bardo de Guxi",
+        "Piratas de la infancia de Serafina"
+      ],
+      "ambito": "Kuroto, sesión 144",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "144-010",
+      "titulo": "Una representación, no una nueva guerra",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "El premio por una botella servida invita a los cuatro a representar una obra. Sota presenta el cuento de un rey que entrega doncellas a un dragón hasta que debe entregar a su hija y un caballero la rescata. Guxi interpreta al rey, Calista a la princesa, Serafina al caballero Jorge y Gelbreak al dragón. Calista lo hace caer con una orden y Serafina simula un beso escénico. La función recibe aplausos. Los personajes del cuento no son nuevas identidades reales de la campaña.",
+      "inicio": "01:12:00.400",
+      "fin": "02:18:00.629",
+      "cita": "¿Cuál es? San Jordi. San Jorge. Ah,",
+      "entidades": [
+        "Sota (grafía provisional)",
+        "Guxi",
+        "Calista",
+        "Serafina Hop (grafía provisional)",
+        "Gelbreak (grafía provisional)",
+        "Casa del té de la zona alta"
+      ],
+      "ambito": "Kuroto, sesión 144",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "144-011",
+      "titulo": "Tsugami celebra la actuación y el compromiso",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Tsugami felicita al grupo, critica el disfraz de dragón y ofrece trajes. Serafina le enseña el anillo, anuncia su compromiso y habla de solicitar sus servicios. La modista cuenta historias de sus muchos maridos entre bromas y se retira a un privado. No se encarga ni celebra una boda en esta escena.",
+      "inicio": "02:21:01.920",
+      "fin": "02:27:03.790",
+      "cita": "que se va a casar est antes que tú.\"",
+      "entidades": [
+        "Tsugami (grafía provisional)",
+        "Serafina Hop (grafía provisional)",
+        "Guxi"
+      ],
+      "ambito": "Kuroto, sesión 144",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "144-012",
+      "titulo": "Guxi reconoce un prejuicio",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "En la mesa retoman el recelo de Guxi hacia bardos. Calista y Serafina le recuerdan que las personas no se reducen a sus habilidades u oficio y que también está comprometido con una pirata. Guxi admite que puede equivocarse, pide disculpas por su actitud y acepta aprender. El conflicto no confirma que todos le mientan ni revela las supuestas cosas que Danifae decía ocultas.",
+      "inicio": "02:27:03.800",
+      "fin": "02:40:00.269",
+      "cita": "lo siento si yo soy perjudicado con o",
+      "entidades": [
+        "Guxi",
+        "Calista",
+        "Serafina Hop (grafía provisional)",
+        "Gelbreak (grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 144",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "144-013",
+      "titulo": "Necesitan otra clase de tiempo juntos",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Guxi y Serafina reconocen que gran parte de sus recuerdos de pareja son carnales y que necesitan citas tranquilas y experiencias compartidas antes de casarse. Él promete llevarla a un sitio más romántico y no rompen el compromiso. Calista y Gelbreak se excusan, se llevan vino y deciden ir a su casa para evitar el trabajo pendiente en palacio. La conversación profunda sobre secretos de la pareja queda aún por hacer.",
+      "inicio": "02:39:00.840",
+      "fin": "02:51:11.840",
+      "cita": "romántico ahora que lo que lo estoy",
+      "entidades": [
+        "Guxi",
+        "Serafina Hop (grafía provisional)",
+        "Calista",
+        "Gelbreak (grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 144",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    }
+  ],
+  "historia": {
+    "revisado_hasta": 144,
+    "etapas": [
+      {
+        "titulo": "Descansar entre nuevos frentes",
+        "texto": "Serafina cuenta que Guxi la ayudó a visitar a Danifae y que sus advertencias han abierto dudas sobre lo que su prometido le oculta. Calista, mientras tanto, describe una colaboración con Tiari contra informantes de un lord de Puerto de las Espadas y encarga estudiar defensas frente al contrabando. Los cuatro coinciden en una casa del té: los primeros intentan una cita y la shogun y su guardián buscan tiempo propio lejos de sus obligaciones. Los dos anillos que Gelbreak regala a Calista son protección mágica, sin petición matrimonial.",
+        "referencias": [
+          "144-001",
+          "144-002",
+          "144-003"
+        ]
+      },
+      {
+        "titulo": "Bromas y una boda inesperada",
+        "texto": "Calista arrastra a sus compañeros a bromear con los nobles. Una orden a la sirvienta y una copa agrandada empapan a Hanae, que se marcha asustada al reconocer a la shogun. Guxi intenta luego humillar a Nomi disfrazado de camarera: deja croquetas viejas en nombre de Serafina después de que el noble rechace una bebida atribuida a un hombre. No ven el resultado de la comida. Montaro presenta a Akuki como su recién casada esposa; la sorpresa de Calista permanece como sospecha suya, sin prueba de engaño.",
+        "referencias": [
+          "144-004",
+          "144-005",
+          "144-006"
+        ]
+      },
+      {
+        "titulo": "Lo que las parejas todavía cargan",
+        "texto": "Mientras se preparan para una función, Serafina confía a Calista sus lagunas anteriores a los piratas, el dolor que acalla bebiendo y la devolución temporal del anillo tras el gigante. Mantiene el compromiso, pero necesita cuidarse y hablar con sinceridad. Guxi y Gelbreak discuten el recelo hacia bardos nacido de la relación con el padre del artífice. El guardián exige no culpar a Calista por actos ajenos. Las explicaciones de los jugadores revelan la infancia de Serafina usada como entretenimiento, la soledad de Guxi y cuánto extraña Gelbreak el tiempo que la shogun ya no puede dedicarle.",
+        "referencias": [
+          "144-007",
+          "144-008",
+          "144-009"
+        ]
+      },
+      {
+        "titulo": "El dragón de una función de teatro",
+        "texto": "Una botella premiada los lleva a representar el cuento de Jorge y el dragón bajo la presentación de Sota. Guxi hace de rey, Calista de princesa, Serafina de caballero y Gelbreak de monstruo reticente. Entre improvisaciones, una orden mágica y un beso fingido, consiguen aplausos del público. Nada del sacrificio, el dragón o el matrimonio del cuento se convierte en un acontecimiento real de Kuroto. Tsugami celebra la actuación y el anuncio del compromiso de Serafina, sin dejar una boda encargada o celebrada.",
+        "referencias": [
+          "144-010",
+          "144-011"
+        ]
+      },
+      {
+        "titulo": "Aprender a estar juntos",
+        "texto": "De regreso a la mesa, Guxi reconoce que sus prejuicios pueden herir a sus compañeros y pide disculpas. Calista ofrece ayuda sin dejar de recordar que sigue siendo su compañera. Serafina y Guxi descubren que necesitan algo más que pasión: él promete una cita tranquila y ambos conservan el compromiso, con una conversación sobre secretos todavía pendiente. Calista y Gelbreak se marchan con vino a su casa para evitar que la salida termine de nuevo absorbida por el trabajo de palacio.",
+        "referencias": [
+          "144-012",
+          "144-013"
+        ]
+      }
+    ]
+  },
+  "misiones": [
+    "Preparar instrucción antipiratería para aduanas e inventos contra contrabando exterior.",
+    "Aclarar con sinceridad las dudas entre Serafina y Guxi antes de la boda."
+  ],
+  "preguntas": [
+    "¿Qué secretos señala Danifae y podrán Serafina y Guxi aclararlos?",
+    "¿Quién es el lord de Puerto de las Espadas y cómo se frenarán sus espías y contrabando?",
+    "¿Qué pasado anterior a los piratas recuerda Serafina y por qué oye gritos?",
+    "¿Por qué Montaro se ha casado tan repentinamente con Akuki?",
+    "¿Llegó Nomi a comer las croquetas y hubo consecuencias de la broma?"
+  ],
+  "nombres_dudosos": [
+    "Serafina se presenta aquí como Serafina Long Hop: propuesta de nombre ampliado para la ficha existente, sin crear segunda identidad.",
+    "Nomi/Nori y Takiki: se conserva grafía provisional y separación de roles hasta contraste.",
+    "Akuki es la grafía de presentación de la esposa pelirroja de Montaro; no fusionar con Ayuko por parecido.",
+    "Padre de Guxi no recibe nombre inequívoco aquí; no confundirlo con su maestro."
+  ],
+  "contradicciones": [
+    "Los miedos de Serafina y afirmaciones de Danifae no prueban una traición del prometido.",
+    "El lord extranjero no se identifica con el dueño del ancla o la jefa de Nox: se mantiene abierta esa relación.",
+    "Los actos de rey, princesa, dragón y caballero pertenecen a un cuento representado, no a la cronología histórica de Arghast.",
+    "Gelbreak se opone a casarse ante dioses: su idea de que solo tal boda sería vinculante es su declaración, no una ley universal acreditada.",
+    "No se confirma que Nomi consuma las croquetas. No inventar diarrea, vómitos o daño posterior.",
+    "El compromiso de Guxi y Serafina sigue activo; los regalos de Gelbreak a Calista son otros anillos sin petición matrimonial."
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "mode": "built-in imagegen",
+  "intent": "generate",
+  "assets": [
+    {
+      "name": "xoltacan-topbar",
+      "prompt": "Use case: stylized-concept. Fantasy RPG encyclopedia decorative material illustration, full bleed, flat front-facing rich tactile craftsmanship, no text, no letters, no UI, no people, no invented geographical map. Asset: very wide 3:1 horizontal material texture for a website top bar. Small-scale ornamental detail woven across the horizontal middle strip so it remains visible when cropped to a shallow header. Quiet low contrast dark areas under overlaid title and search controls. Avoid bright high contrast focal objects in the middle. Weathered charcoal basalt with fine olive fern impressions, subtle limestone geometric incisions and slate blue mineral veins. Palette restricted to #050A0B #20292B #373B35 #4D5335 #6A6F41 #838A49 #3D6779 #537989 #6791A9 #9ABAC7 #B3D2D3 #CEB398 #ECCFAC #F7EAC8, with extremely tiny carved pigment details in #E9E626 and #F52024 near the far edge only. Tropical ancient stone craft, dark olive and charcoal dominant, no emerald jade, no gold metal, no purple. Intricate, beautiful, subtle dimensional lighting.",
+      "source": "C:/Users/khr0m/.codex/generated_images/01a139d3-d428-79a1-9a34-77d49502b031/exec-d528604e-d475-45d8-8eaa-d79d70e26d3f.png",
+      "original": "web/assets/xoltacan-topbar-original.png",
+      "file": "web/assets/xoltacan-topbar.webp",
+      "width": 2172,
+      "height": 724,
+      "quality": 90,
+      "bytes": 497048,
+      "sha256": "8857524d073f8c27e6e4f2809ae3452b73fd800948e0ac6d8fc3506434e2adcd"
+    },
+    {
+      "name": "kuroto-topbar",
+      "prompt": "Use case: stylized-concept. Fantasy RPG encyclopedia decorative material illustration, full bleed, flat front-facing rich tactile craftsmanship, no text, no letters, no UI, no people, no invented geographical map. Asset: very wide 3:1 horizontal material texture for a website top bar. Small-scale ornamental detail woven across the horizontal middle strip so it remains visible when cropped to a shallow header. Quiet low contrast dark areas under overlaid title and search controls. Avoid bright high contrast focal objects in the middle. Hand brushed deep turquoise lacquer with delicate shallow wave engravings, a thin flowing cream inlay, and sparse small pink cherry petals near the right margin. Palette restricted to #FDF0CF #F5CFB7 #E3E4C9 #A2AB9B #A5CDBE #7EB8AF #4FA2A0 #207E81 #EEB5A1 #EC8D85 #D56564 #EE1F25 #0E3F45 #8A6E5B #5C4B3B #312016. Dark #0E3F45 turquoise dominant; no navy, no purple, no gold metal. Rich layered oriental lacquer material, engraved waves readable in shallow crop.",
+      "source": "C:/Users/khr0m/.codex/generated_images/01a139d3-d428-79a1-9a34-77d49502b031/exec-63960098-5322-4e2f-90c1-3eb99e03bf28.png",
+      "original": "web/assets/kuroto-topbar-original.png",
+      "file": "web/assets/kuroto-topbar.webp",
+      "width": 2172,
+      "height": 724,
+      "quality": 90,
+      "bytes": 470194,
+      "sha256": "36194c8b1c2679584728c21e58086e166d4f80a0b2272669a0230c3b87aac111"
+    },
+    {
+      "name": "arghast-topbar",
+      "prompt": "Use case: stylized-concept. Fantasy RPG encyclopedia decorative material illustration, full bleed, flat front-facing rich tactile craftsmanship, no text, no letters, no UI, no people, no invented geographical map. Asset: very wide 3:1 horizontal material texture for a website top bar. Small-scale ornamental detail woven across the horizontal middle strip so it remains visible when cropped to a shallow header. Quiet low contrast dark areas under overlaid title and search controls. Avoid bright high contrast focal objects in the middle. An ancient atlas binding made from blue-gray sea-colored engraved stone and aged warm ochre bronze, delicate compass bearing line engravings, coastal contour-like ornamental lines without actual mapped land, small carved stars. Colors: sea #50686E #486368, deep slate #293E43, ochre #AF864F, earth #4F4223, sand #AC9670, ivory #E3E7EA. Rich blue sea and warm amber patina, restrained light details, textured and inviting fantasy atlas craftsmanship rather than a gray blank panel.",
+      "source": "C:/Users/khr0m/.codex/generated_images/01a139d3-d428-79a1-9a34-77d49502b031/exec-9fece81a-faa8-4a2f-8196-628a36e65020.png",
+      "original": "web/assets/arghast-topbar-original.png",
+      "file": "web/assets/arghast-topbar.webp",
+      "width": 2172,
+      "height": 724,
+      "quality": 90,
+      "bytes": 575312,
+      "sha256": "10e765d0c50c5db51308891c23dd71edcac77dd2daa7e390ce9ca3bbc8450f64"
+    },
+    {
+      "name": "arghast-panel",
+      "prompt": "Use case: stylized-concept. Fantasy RPG encyclopedia decorative material illustration, full bleed, flat front-facing rich tactile craftsmanship, no text, no letters, no UI, no people, no invented geographical map. Asset: wide 3:1 decorative hero background for Arghast, a fantasy world atlas. An exquisite ancient atlas cover in blue-gray sea stone, warm ochre leather, sand-colored carved inlay and pale ivory lines. A beautifully crafted large compass rose relief on the far right, layered circular navigation rings, delicate star engravings and flowing contour-like abstract ornament. No drawn landmasses or literal map. Rich tactile stone and amber patina, inviting adventurous mood. Left 55 percent dark blue-gray with subtle material grain for an overlaid title; the right side contains the ornate compass detail. Palette sea #50686E #486368, deep slate #293E43, ochre #AF864F, earth #4F4223, sand #AC9670, ivory #E3E7EA. Strong varied material color, dimensional side light, no white empty panel, no plain flat gradient.",
+      "source": "C:/Users/khr0m/.codex/generated_images/01a139d3-d428-79a1-9a34-77d49502b031/exec-145fa483-e017-4bc0-b084-937f77cbbf46.png",
+      "original": "web/assets/arghast-panel-original.png",
+      "file": "web/assets/arghast-panel.webp",
+      "width": 2172,
+      "height": 724,
+      "quality": 90,
+      "bytes": 617328,
+      "sha256": "1f8199d3ad1e9f5ec29133cca8dd04b828a8ce815fa45a320f0ebf6341291ce1"
+    }
+  ]
+}

@@ -1,0 +1,389 @@
+{
+  "capitulo": 132,
+  "estado_revision": "revisado",
+  "fuente_sha256": "66ac4e494651dae4086f3a26e564e5df5f0770302fa67381136846c50227d16d",
+  "resumen": "Mientras Sho intenta absorber refugiados y alimentar a sus habitantes, Calista atiende asuntos del palacio y Kazuki ayuda a mantener el orden. Banzo visita a Rua y transmite su miedo a los nobles y a unos susurros en la oscuridad, sin poder identificar todavía qué los provoca. En la base también se habla del frente y del posible uso del barco: Banzo entrega sus llaves y documentos a Calista, pero el transporte de tropas o refugiados sigue siendo una posibilidad. Su regalo más inmediato es una bolsa de manzanas verdes recibidas de una anciana. Los cinco que las comen conservan su mente, pero aparecen con cuerpos infantiles y sin los poderes que los hacían temibles. Buscar a la vendedora resulta mucho más peligroso de lo previsto. Las trepas, disfraces improvisados y bravuconadas infantiles llaman la atención de un shinobi que no se deja intimidar. Gelbreak acaba herido y Banzo atrapado, mientras Calista intenta cuidar de los demás sin sus recursos habituales. Tras varios intentos fallidos, una distracción permite atar los cordones del adversario; cuando cae, Banzo muerde y los pequeños logran huir. Una voz amenaza después al agresor y lo que encuentran al mirar es polvo, sin descubrir la identidad de quien los ha auxiliado. Jin se ha separado para buscar y termina bebiendo en una taberna; la cerveza agrava su cansancio y lo deja demasiado borracho para ayudar con normalidad. Kazuki lo reúne con el grupo. Los almacenes del puerto no conocen el origen de las manzanas, aunque un trabajador recuerda a una anciana encorvada y encapuchada que suele pasar hacia el norte. Entre heridas, juegos con una cuerda y dificultades para hacerse tomar en serio, siguen aquella pista. Arwen y Shisuka aparecen jugando con cuerpos de jóvenes adultas y toman a los cazadores pequeños por enemigos que les han robado los años. La discusión se convierte en una pelea: Arwen retiene a Banzo y golpea a Jin, mientras Shisuka reúne chispas amenazadoras. Los recuerdos no bastan de inmediato para convencerlas; finalmente el olor de Banzo permite reconocerlo y detener el combate. Banzo transforma entonces el alivio en una propuesta de escarmiento contra quienes habían salido corriendo. Los lobos de Arwen reúnen a los fugitivos: Kazuki queda transportado dentro de un barril y Gelbreak y Calista acaban en el agua. El supuesto juego continúa entre aguadillas y protestas. Calista, incapaz de defenderse como de costumbre, muerde a Shisuka para soltarse y sale despedida hacia arriba. Arwen la atrapa como gaviota, pero prolonga el vuelo y acaba soltándola. Gelbreak la saca del agua llorando y dolorida. Al deshacerse la forma de lobo, Arwen ya había vuelto a presentarse como una niña, sin que eso devuelva su tamaño a los demás. La anciana aparece al fin. Banzo come otra manzana y se reduce todavía más, hasta parecer un bebé. Calista intenta que la mujer pruebe su propia fruta, pero los intentos de sujetarla fracasan y la vendedora revela ser Koishi, encantada con su truco. Ni las exigencias ni los golpes infantiles la convencen de restaurarlos. La mención de Gur abre una negociación: Koishi quiere encontrarlo y ellos se ofrecen a guiarla al templo del sur a cambio del remedio. Cuando está a punto de usar una poción, Shisuka los acelera para solucionar su lentitud y le da una excusa para guardarla. Tampoco consiguen robar la poción. Koishi parte hacia el sur con los cinco cazadores todavía convertidos en niños y con la intención de buscar a Gur en el templo. Arwen y Shisuka se quedan jugando. La marcha cierra el episodio sin mostrar que Calista, Gelbreak, Jin, Banzo o Kazuki hayan recuperado sus cuerpos.",
+  "afirmaciones": [
+    {
+      "id": "132-001",
+      "titulo": "La guerra convierte Sho en refugio",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "La falta de comida y los refugiados de la guerra ocupan a Calista en el palacio. Kazuki ayuda a la evacuación y al orden; el grupo habla de las tropas y del sur sin que estas conversaciones resuelvan la invasión.",
+      "inicio": "00:00:00.280",
+      "fin": "00:18:00.430",
+      "cita": "todos los refugiados que vienen de todas",
+      "entidades": [
+        "Calista",
+        "Kazuki",
+        "Shogunato de Kuroto"
+      ],
+      "ambito": "Kuroto, sesión 132",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "132-002",
+      "titulo": "Rua teme a los nobles y a la oscuridad",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Banzo visita a Rua disfrazado con ayuda de una sirvienta y avisa después a Calista y Gelbreak de su miedo a los nobles y de los susurros que dice escuchar. El temor y los susurros son el relato de Rua; no identifican al responsable.",
+      "inicio": "00:00:00.280",
+      "fin": "00:29:00.750",
+      "cita": "tema de Rua. Luego te lo digo.",
+      "entidades": [
+        "Banzo (grafía provisional)",
+        "Rua (grafía provisional)",
+        "Calista",
+        "Gelbreak (grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 132",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "132-003",
+      "titulo": "Manzanas en una base hambrienta",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Banzo lleva manzanas verdes que recibió de una anciana. Calista, Gelbreak, Jin, Kazuki y él comen y se convierten en niños: conservan la mente, pero pierden sus capacidades habituales y ven reducidas sus condiciones físicas. Sospechan de las manzanas y salen a buscar a la vendedora.",
+      "inicio": "00:18:00.440",
+      "fin": "00:40:00.470",
+      "cita": "y ves que deja una bolsa de manzanas",
+      "entidades": [
+        "Banzo (grafía provisional)",
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Jin",
+        "Kazuki",
+        "Manzanas de Koishi"
+      ],
+      "ambito": "Kuroto, sesión 132",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "132-004",
+      "titulo": "Las llaves del barco cambian de manos",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Banzo entrega a Calista las llaves y los documentos del barco que Guxi le había encargado llevar al shogunato. Se contempla usarlo para transportar tropas o refugiados; la sesión no muestra ese transporte.",
+      "inicio": "00:18:00.440",
+      "fin": "00:40:00.470",
+      "cita": "llaves del barco de Buchi.",
+      "entidades": [
+        "Banzo (grafía provisional)",
+        "Calista",
+        "Guxi",
+        "Barco Perdición Metálica"
+      ],
+      "ambito": "Kuroto, sesión 132",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "132-005",
+      "titulo": "La infancia vuelve peligroso el barrio",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "La búsqueda por los barrios bajos termina en una disputa con un shinobi. Los intentos de intimidarlo o golpearlo fallan ante la debilidad de los cuerpos infantiles; hiere a Gelbreak y captura a Banzo. Calista intenta proteger a sus compañeros sin poder recurrir a la curación habitual.",
+      "inicio": "00:40:00.480",
+      "fin": "01:04:00.150",
+      "cita": "¿sabes? ¿Sabes como todo muy niños y",
+      "entidades": [
+        "Banzo (grafía provisional)",
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Kazuki",
+        "Bajos fondos de Sho"
+      ],
+      "ambito": "Kuroto, sesión 132",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "132-006",
+      "titulo": "Jin se aleja de sus compañeros",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Jin busca por su cuenta, pasa por el casino y termina bebiendo cerveza en una taberna. El alcohol lo deja borracho y más agotado; Kazuki lo reúne con los otros mientras sigue la búsqueda de la anciana.",
+      "inicio": "01:00:01.200",
+      "fin": "01:30:00.590",
+      "cita": "Pues quiero ver una cerveza.",
+      "entidades": [
+        "Jin",
+        "Kazuki",
+        "Casino de Jester"
+      ],
+      "ambito": "Kuroto, sesión 132",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "132-007",
+      "titulo": "Unos cordones permiten escapar",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Calista distrae al shinobi y el grupo consigue atarle los pies. Al caer, Banzo muerde para liberarse y los niños escapan. Una voz amenaza al agresor desde el callejón; cuando miran, solo queda un montón de polvo. No descubren allí a quien intervino.",
+      "inicio": "01:15:02.120",
+      "fin": "01:26:00.510",
+      "cita": "Agarrarnos de los pies del del shinobi.",
+      "entidades": [
+        "Calista",
+        "Banzo (grafía provisional)",
+        "Gelbreak (grafía provisional)",
+        "Kazuki"
+      ],
+      "ambito": "Kuroto, sesión 132",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "132-008",
+      "titulo": "El puerto ofrece una pista",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Sin poder restaurar sus cuerpos, buscan en el puerto. Un trabajador ha visto a una anciana encorvada y con capucha que pasa hacia el norte. Los almacenes no les dan una explicación de las manzanas; los juegos con una cuerda y la embriaguez de Jin entorpecen el avance.",
+      "inicio": "01:30:00.600",
+      "fin": "01:50:59.990",
+      "cita": "Pues va encorbada, tiene una capucha.",
+      "entidades": [
+        "Calista",
+        "Jin",
+        "Banzo (grafía provisional)",
+        "Kazuki",
+        "Puerto de Sho"
+      ],
+      "ambito": "Kuroto, sesión 132",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "132-009",
+      "titulo": "Arwen y Shisuka han crecido",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Encuentran a Arwen y Shisuka con cuerpos de jóvenes adultas. Estas creen inicialmente que los pequeños les han robado la juventud y los atacan: Arwen retiene a Banzo y golpea a Jin, mientras Shisuka prepara magia. Arwen acaba reconociendo a Banzo por su olor y se detiene la pelea; el cambio de cuerpo no había alterado las identidades.",
+      "inicio": "01:48:01.119",
+      "fin": "02:03:01.830",
+      "cita": "nosotros. Nos han robado la juventud.",
+      "entidades": [
+        "Arwen",
+        "Shisuka (grafía provisional)",
+        "Banzo (grafía provisional)",
+        "Jin",
+        "Manzanas de Koishi"
+      ],
+      "ambito": "Kuroto, sesión 132",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "132-010",
+      "titulo": "Una broma deriva en un baño forzado",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Banzo propone escarmentar a quienes huyeron. Arwen convoca lobos y se transforma; llevan a Kazuki en un barril y arrojan al agua a Gelbreak y Calista. La protesta de Calista no evita que el juego continúe y que los demás acaben también mojados. Al abandonar la forma de lobo, Arwen vuelve a aparecer como niña.",
+      "inicio": "02:03:01.840",
+      "fin": "02:18:00.190",
+      "cita": "mejor si vamos a ser lobos.",
+      "entidades": [
+        "Arwen",
+        "Shisuka (grafía provisional)",
+        "Banzo (grafía provisional)",
+        "Jin",
+        "Kazuki",
+        "Calista",
+        "Gelbreak (grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 132",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "132-011",
+      "titulo": "Calista acaba volando y cayendo al agua",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Calista muerde a Shisuka durante las aguadillas y esta la lanza por los aires. Arwen, transformada en gaviota, la atrapa, la pasea por encima del puerto y finalmente la suelta. Gelbreak saca del agua a Calista, dolorida y llorando por el golpe.",
+      "inicio": "02:18:00.200",
+      "fin": "02:27:01.030",
+      "cita": "Vale, pues me transformo en una gaviota",
+      "entidades": [
+        "Calista",
+        "Shisuka (grafía provisional)",
+        "Arwen",
+        "Gelbreak (grafía provisional)",
+        "Puerto de Sho"
+      ],
+      "ambito": "Kuroto, sesión 132",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "132-012",
+      "titulo": "La vendedora resulta ser Koishi",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Alcanzan a la anciana. Banzo vuelve a comer una manzana y queda aún más pequeño, como un bebé. El intento colectivo de sujetar a la mujer y obligarla a probar su fruta falla: se revela como Koishi, que se burla del efecto y evita devolverles la normalidad por las buenas. Shisuka dice que le cae bien y que ha estado jugando con ella.",
+      "inicio": "02:24:00.439",
+      "fin": "02:36:00.389",
+      "cita": "pequeño truquito?",
+      "entidades": [
+        "Banzo (grafía provisional)",
+        "Calista",
+        "Jin",
+        "Kazuki",
+        "Gelbreak (grafía provisional)",
+        "Koishi (grafía provisional)",
+        "Shisuka (grafía provisional)",
+        "Manzanas de Koishi"
+      ],
+      "ambito": "Kuroto, sesión 132",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "132-013",
+      "titulo": "La búsqueda de Gur abre una negociación",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Al mencionar que Gur ha comido manzanas, Koishi se interesa por encontrarlo. Los pequeños le ofrecen guiarla hasta el templo del sur si les devuelve su tamaño. Ella saca una poción, pero Shisuka les lanza aceleración para que puedan caminar deprisa y Koishi retira el remedio sin administrarlo.",
+      "inicio": "02:36:00.399",
+      "fin": "02:40:00.269",
+      "cita": "Pues yo he visto a Gur comiendo manzanas",
+      "entidades": [
+        "Koishi (grafía provisional)",
+        "Gur",
+        "Jin",
+        "Banzo (grafía provisional)",
+        "Shisuka (grafía provisional)",
+        "Refugio de los cultistas de la montaña"
+      ],
+      "ambito": "Kuroto, sesión 132",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "132-014",
+      "titulo": "Cinco niños parten hacia el sur",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Los intentos de robar la poción fracasan. Koishi se marcha hacia el sur con Calista, Gelbreak, Jin, Banzo y Kazuki todavía pequeños, rumbo al templo donde esperan encontrar a Gur. Arwen y Shisuka se quedan jugando. El capítulo termina sin confirmar la recuperación de los adultos.",
+      "inicio": "02:40:00.279",
+      "fin": "02:41:35.000",
+      "cita": "templo de pequeños.",
+      "entidades": [
+        "Koishi (grafía provisional)",
+        "Calista",
+        "Gelbreak (grafía provisional)",
+        "Jin",
+        "Banzo (grafía provisional)",
+        "Kazuki",
+        "Arwen",
+        "Shisuka (grafía provisional)",
+        "Refugio de los cultistas de la montaña"
+      ],
+      "ambito": "Kuroto, sesión 132",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    }
+  ],
+  "historia": {
+    "revisado_hasta": 132,
+    "etapas": [
+      {
+        "titulo": "Una ciudad agotada y unas manzanas inoportunas",
+        "texto": "Mientras Sho intenta absorber refugiados y alimentar a sus habitantes, Calista atiende asuntos del palacio y Kazuki ayuda a mantener el orden. Banzo visita a Rua y transmite su miedo a los nobles y a unos susurros en la oscuridad, sin poder identificar todavía qué los provoca. En la base también se habla del frente y del posible uso del barco: Banzo entrega sus llaves y documentos a Calista, pero el transporte de tropas o refugiados sigue siendo una posibilidad. Su regalo más inmediato es una bolsa de manzanas verdes recibidas de una anciana. Los cinco que las comen conservan su mente, pero aparecen con cuerpos infantiles y sin los poderes que los hacían temibles.",
+        "referencias": [
+          "132-001",
+          "132-002",
+          "132-003",
+          "132-004"
+        ]
+      },
+      {
+        "titulo": "Cazadores indefensos en los barrios bajos",
+        "texto": "Buscar a la vendedora resulta mucho más peligroso de lo previsto. Las trepas, disfraces improvisados y bravuconadas infantiles llaman la atención de un shinobi que no se deja intimidar. Gelbreak acaba herido y Banzo atrapado, mientras Calista intenta cuidar de los demás sin sus recursos habituales. Tras varios intentos fallidos, una distracción permite atar los cordones del adversario; cuando cae, Banzo muerde y los pequeños logran huir. Una voz amenaza después al agresor y lo que encuentran al mirar es polvo, sin descubrir la identidad de quien los ha auxiliado.",
+        "referencias": [
+          "132-005",
+          "132-007"
+        ]
+      },
+      {
+        "titulo": "La pista del puerto y un compañero borracho",
+        "texto": "Jin se ha separado para buscar y termina bebiendo en una taberna; la cerveza agrava su cansancio y lo deja demasiado borracho para ayudar con normalidad. Kazuki lo reúne con el grupo. Los almacenes del puerto no conocen el origen de las manzanas, aunque un trabajador recuerda a una anciana encorvada y encapuchada que suele pasar hacia el norte. Entre heridas, juegos con una cuerda y dificultades para hacerse tomar en serio, siguen aquella pista.",
+        "referencias": [
+          "132-006",
+          "132-008"
+        ]
+      },
+      {
+        "titulo": "Las niñas adultas tampoco los reconocen",
+        "texto": "Arwen y Shisuka aparecen jugando con cuerpos de jóvenes adultas y toman a los cazadores pequeños por enemigos que les han robado los años. La discusión se convierte en una pelea: Arwen retiene a Banzo y golpea a Jin, mientras Shisuka reúne chispas amenazadoras. Los recuerdos no bastan de inmediato para convencerlas; finalmente el olor de Banzo permite reconocerlo y detener el combate. Banzo transforma entonces el alivio en una propuesta de escarmiento contra quienes habían salido corriendo.",
+        "referencias": [
+          "132-009",
+          "132-010"
+        ]
+      },
+      {
+        "titulo": "Un juego que hace daño",
+        "texto": "Los lobos de Arwen reúnen a los fugitivos: Kazuki queda transportado dentro de un barril y Gelbreak y Calista acaban en el agua. El supuesto juego continúa entre aguadillas y protestas. Calista, incapaz de defenderse como de costumbre, muerde a Shisuka para soltarse y sale despedida hacia arriba. Arwen la atrapa como gaviota, pero prolonga el vuelo y acaba soltándola. Gelbreak la saca del agua llorando y dolorida. Al deshacerse la forma de lobo, Arwen ya había vuelto a presentarse como una niña, sin que eso devuelva su tamaño a los demás.",
+        "referencias": [
+          "132-010",
+          "132-011"
+        ]
+      },
+      {
+        "titulo": "La broma de Koishi",
+        "texto": "La anciana aparece al fin. Banzo come otra manzana y se reduce todavía más, hasta parecer un bebé. Calista intenta que la mujer pruebe su propia fruta, pero los intentos de sujetarla fracasan y la vendedora revela ser Koishi, encantada con su truco. Ni las exigencias ni los golpes infantiles la convencen de restaurarlos. La mención de Gur abre una negociación: Koishi quiere encontrarlo y ellos se ofrecen a guiarla al templo del sur a cambio del remedio. Cuando está a punto de usar una poción, Shisuka los acelera para solucionar su lentitud y le da una excusa para guardarla.",
+        "referencias": [
+          "132-012",
+          "132-013"
+        ]
+      },
+      {
+        "titulo": "La solución queda en el camino",
+        "texto": "Tampoco consiguen robar la poción. Koishi parte hacia el sur con los cinco cazadores todavía convertidos en niños y con la intención de buscar a Gur en el templo. Arwen y Shisuka se quedan jugando. La marcha cierra el episodio sin mostrar que Calista, Gelbreak, Jin, Banzo o Kazuki hayan recuperado sus cuerpos.",
+        "referencias": [
+          "132-014"
+        ]
+      }
+    ]
+  },
+  "misiones": [
+    "Encontrar a la anciana de las manzanas: completado al revelar a Koishi.",
+    "Recuperar los cuerpos de los cinco cazadores: pendiente; parten al sur con Koishi.",
+    "Guiar a Koishi hasta Gur en el templo del sur: iniciada, sin encuentro mostrado.",
+    "Investigar el miedo y los susurros relatados por Rua: sin resolución."
+  ],
+  "preguntas": [
+    "¿Qué provoca los susurros y el miedo que relata Rua?",
+    "¿Cuándo y cómo recuperarán su cuerpo Calista, Gelbreak, Jin, Banzo y Kazuki?",
+    "¿Encontrarán a Gur en el templo y respetará Koishi el acuerdo?",
+    "¿Quién intervino contra el shinobi y dejó únicamente polvo en el callejón?"
+  ],
+  "nombres_dudosos": [
+    "Koishi aparece como Koisi/Cois en la transcripción; se mantiene la identidad de la bromista ya conocida.",
+    "Shisuka/Sizuka: grafía provisional; se distingue de los nombres de jugadores."
+  ],
+  "contradicciones": [
+    "Las afirmaciones sobre Gur comiendo manzanas sirven para atraer a Koishi; no se muestra a Gur comiendo ni convertido en niño en esta sesión.",
+    "Los cuerpos infantiles conservan la mente de los personajes según la aclaración del director; las bromas de los jugadores no cambian esa regla.",
+    "La desaparición del shinobi deja polvo, pero no se identifica al autor ni se explica el mecanismo."
+  ]
+}

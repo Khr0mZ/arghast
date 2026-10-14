@@ -1,0 +1,411 @@
+{
+  "capitulo": 119,
+  "estado_revision": "revisado",
+  "fuente_sha256": "06c46ea2ae3f1cd4f8b98a0d02a41b63cfb0a3a04b42bcc022f6f98ca1eaa017",
+  "resumen": "Guxi cuenta que no pudo presentar las pruebas para recuperar su puesto porque Gelbreak conservaba los papeles del maestro. La discusión entre ambos acabó con armas y una crisis en la que Kurobani le retiró la pistola. Son hechos recapitulados, no una nueva escena representada de ese conflicto. Calista también refiere una conversación íntima con el ninja, con sentimientos y rechazo por las circunstancias, cuyo detalle no se reconstruye. Banzo trabaja como guardaespaldas de Rua, intenta mejorar su lectura y vuelve herido junto a Gelbreak tras una pelea de taberna. Calista limpia y venda sus heridas, con reproches por haberse metido en líos. Un samurái reclama a Calista, Guxi y los demás presentes en la residencia de Yasuoka. Kurobani encuentra al artífice abatido junto al río, le devuelve el arma y lo anima a seguir defendiendo su situación mediante palabras. Calista se ofrece a pedir los documentos a Gelbreak. La disputa persiste camino de la mansión y casi vuelve a encenderse ante los guardias, hasta que ella exige dejarla para otro momento. Allí los reciben con signos de riqueza militar, estandartes y entrenamiento de soldados. El anfitrión critica la organización de los cazadores y el liderazgo de Rua. Se presenta como proveedor de la milicia y defiende una cadena de mando firme. Banzo, molesto por su trato a la regente, pregunta qué necesita y luego qué elegiría entre resolver la crisis y ocupar el puesto de shogun. Yasuoka contesta que se sentaría en ese puesto para resolver los problemas. La cena reúne también al borracho Nomi Kazuki, a la instructora Ayuko y al adinerado Nori. Sus comentarios valoran a los cazadores por utilidad militar y económica; son opiniones políticas, no prueba de que toda su labor haya fracasado. Yasuoka revela que quiere presentarse a shogun y pide votos. Explica que el contrato del difunto gobernante permite votar a los cazadores e incluso que alguno se presente. Banzo apoya a Rua, Guxi mantiene el compromiso de ayudarla y Kurobani prefiere a la regente; Gelbreak dice que consideraría otra opción a cambio de algo interesante. Calista reserva su voto. Antes ha usado Labia para afirmar que todos los presentes son cazadores, aunque Guxi y Kurobani no tienen esa condición contractual. La mentira persuade al anfitrión, sin crear nuevos contratos ni devolver oficialmente el puesto perdido. Calista coordina por mensaje con Guxi una fotografía de la reunión. Él se aparta con la excusa de estirar las piernas y captura la imagen sin que los nobles lo adviertan. Todavía necesita revelarla: no se muestra un documento ya utilizable en palacio. Cuando hablan a solas, ella lo anima a solicitar trabajo a Yasuoka para conocer sus cuentas y los apoyos que está construyendo. Guxi vuelve a la conversación con esa posibilidad abierta, sin haber conseguido todavía acceso interno a los libros del noble. Calista pide piedras comunicadoras y deja el canal abierto para oír la fiesta. En el baño encuentra a Gelbreak y Banzo, que ya planeaban investigar la casa. Usa una imagen ilusoria de sí misma para volver a la mesa mientras su cuerpo invisible acompaña a los dos. Banzo la sostiene cuando desplaza los sentidos hacia el doble. Guxi y Kurobani cubren la ausencia con conversación. Las ilusiones y el sigilo evitan a los guardias pese a una cerradura ruidosa y a un señuelo que no convence a todos. Yasuoka ofrece a Guxi pasar por sus talleres la semana siguiente para probar inventos de utilidad militar. Quiere la propiedad de lo creado para su empresa e intenta vincular el trabajo al voto. Calista replica que una cláusula que obligue a cambiar el voto sería ilegal dentro de las normas de la partida, y el noble reformula la exigencia como sugerencia, acompañada de la amenaza de despedirlo. No firman contrato. Kurobani ofrece su base del sur como punto estratégico; Calista respalda la propuesta y ambos exageran su protección ilusoria. El noble acepta estudiar el emplazamiento y recibirlos otra vez. El grupo invisible entra en un despacho. Banzo encuentra sobre todo libros de estrategia y liderazgo cuya lectura le cuesta. Calista y Gelbreak localizan papeles de negocios y economía: aportan pistas, pero el director no confirma que revelen corrupción concreta. Gelbreak los guarda para sacarlos. El retorno se complica por ruidos y confusión entre cuerpos invisibles; él abandona el hechizo a tiempo para presentar a los guardias una excusa sobre la cocina y el baño. Calista reúne su cuerpo con el doble y retoma su sitio sin una acusación pública. Los nobles se marchan con escolta y Yasuoka deja varias citas pendientes. Al salir, Calista autoriza a Guxi a entrar en la base para revelar la foto y propone llevarla al palacio a primera hora, antes de que la reunión se explique como simples negocios. Pide a Gelbreak los documentos de esta noche y él entrega los que ella había tomado. Luego se lleva a él y a Banzo a una taberna para preparar más trabajos discretos contra los rivales políticos de Rua. Kurobani solicita a Guxi dispositivos para vigilar a los soldados que podrían llegar a su base; él estudiará hacerlo, quizá con Archi, porque le faltan recursos.",
+  "afirmaciones": [
+    {
+      "id": "119-001",
+      "titulo": "Las pruebas que no se presentaron",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Guxi atribuye el fracaso de su intento de rehabilitación a que Gelbreak conservó las pruebas; se recapitula una crisis con la pistola que Kurobani le quitó.",
+      "inicio": "00:02:00.000",
+      "fin": "00:11:00.000",
+      "entidades": [
+        "Guxi (grafía provisional)",
+        "Hermano de Danifae (nombre pendiente)",
+        "Kurobani (grafía provisional)"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "El conflicto se relata al inicio; no se muestran aquí todos los intercambios privados ni se atribuye al maestro conocimiento del hechizo.",
+      "cita": "encañado la pistola en la cabeza, casi",
+      "evidencia_cue": {
+        "inicio": "00:03:05.519",
+        "fin": "00:03:07.350"
+      }
+    },
+    {
+      "id": "119-002",
+      "titulo": "Banzo se prepara para sus responsabilidades",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Banzo mantiene turnos con Rua y toma libros para mejorar su lectura; él y Gelbreak vuelven heridos de una pelea de taberna y Calista los venda.",
+      "inicio": "00:06:00.000",
+      "fin": "00:35:30.000",
+      "entidades": [
+        "Banzo",
+        "Rua (grafía provisional)",
+        "Calista",
+        "Hermano de Danifae (nombre pendiente)"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "Las muertes de la pelea se recapitulan; no se inventan identidades o secuencia completa del altercado.",
+      "cita": "lectura es básica. Entonces ha ido a la",
+      "evidencia_cue": {
+        "inicio": "00:07:46.759",
+        "fin": "00:07:49.990"
+      }
+    },
+    {
+      "id": "119-003",
+      "titulo": "Convocatoria de Yasuoka",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Un samurái reclama a los presentes en casa de Yasuoka; Kurobani encuentra a Guxi, le devuelve el arma y lo acompaña a la reunión.",
+      "inicio": "00:36:00.000",
+      "fin": "01:01:00.000",
+      "entidades": [
+        "Yasuoka (grafía provisional)",
+        "Guxi (grafía provisional)",
+        "Kurobani (grafía provisional)",
+        "Residencia de Yasuoka"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "Los nombres del noble oscilan en el anuncio; se aclaran después en la propia cena.",
+      "cita": "armadura y se la va brochando mientras",
+      "evidencia_cue": {
+        "inicio": "00:40:40.040",
+        "fin": "00:40:41.790"
+      }
+    },
+    {
+      "id": "119-004",
+      "titulo": "Un liderazgo militar alternativo",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Yasuoka critica la gestión de Rua y de los cazadores y plantea su liderazgo militar como alternativa; dice que elegiría ocupar el puesto para resolver la crisis.",
+      "inicio": "01:12:00.000",
+      "fin": "02:03:00.000",
+      "entidades": [
+        "Yasuoka (grafía provisional)",
+        "Rua (grafía provisional)",
+        "Banzo"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "Sus críticas y valoración de resultados no son un juicio objetivo de toda la campaña.",
+      "cita": "liderazgo.",
+      "evidencia_cue": {
+        "inicio": "01:58:34.480",
+        "fin": "01:58:36.149"
+      }
+    },
+    {
+      "id": "119-005",
+      "titulo": "Labia sostiene una mentira",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Calista usa Labia para presentar a todos los acompañantes como cazadores y el anfitrión lo cree.",
+      "inicio": "02:02:00.000",
+      "fin": "02:05:30.000",
+      "entidades": [
+        "Calista",
+        "Guxi (grafía provisional)",
+        "Kurobani (grafía provisional)"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "La persuasión no firma contratos ni rehabilita legalmente a Guxi.",
+      "cita": "brillas, ¿sabes? Y tu lengua como va más",
+      "evidencia_cue": {
+        "inicio": "02:04:20.000",
+        "fin": "02:04:22.189"
+      }
+    },
+    {
+      "id": "119-006",
+      "titulo": "Petición de votos",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Yasuoka anuncia que aspira a shogun y pide votos; explica que el contrato permite votar a los cazadores y presentarse. Los visitantes expresan posiciones distintas.",
+      "inicio": "02:04:00.000",
+      "fin": "02:19:00.000",
+      "entidades": [
+        "Yasuoka (grafía provisional)",
+        "Rua (grafía provisional)",
+        "Banzo",
+        "Guxi (grafía provisional)",
+        "Kurobani (grafía provisional)",
+        "Calista",
+        "Hermano de Danifae (nombre pendiente)"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "No se celebra una votación formal; Calista mantiene su preferencia reservada.",
+      "cita": "digamos, votar por él.",
+      "evidencia_cue": {
+        "inicio": "02:12:39.880",
+        "fin": "02:12:43.549"
+      }
+    },
+    {
+      "id": "119-007",
+      "titulo": "La foto clandestina",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Guxi fotografía a los reunidos siguiendo un mensaje de Calista y nadie detecta la captura; queda pendiente revelar la imagen.",
+      "inicio": "02:07:00.000",
+      "fin": "02:12:00.000",
+      "entidades": [
+        "Guxi (grafía provisional)",
+        "Calista",
+        "Fotografía de la reunión de Yasuoka"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "La foto todavía no se muestra revelada ni entregada al palacio.",
+      "cita": "saco la cámara de foto y le hago una",
+      "evidencia_cue": {
+        "inicio": "02:09:19.079",
+        "fin": "02:09:20.510"
+      }
+    },
+    {
+      "id": "119-008",
+      "titulo": "Calista y su doble",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Calista deja una imagen ilusoria en la cena y lleva su cuerpo invisible con Gelbreak y Banzo; usa las piedras de comunicación para seguir escuchando.",
+      "inicio": "02:42:00.000",
+      "fin": "02:55:00.000",
+      "entidades": [
+        "Calista",
+        "Hermano de Danifae (nombre pendiente)",
+        "Banzo",
+        "Piedras comunicadoras Ring Ring"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "La imagen carece de cuerpo; sus compañeros deben evitar contactos que revelen el engaño.",
+      "cita": "muy sencilla. Voy a invisible y dejar",
+      "evidencia_cue": {
+        "inicio": "02:45:15.760",
+        "fin": "02:45:18.630"
+      }
+    },
+    {
+      "id": "119-009",
+      "titulo": "Trabajo y voto bajo presión",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Yasuoka propone probar a Guxi en sus talleres y reclama propiedad de los inventos; reformula como sugerencia la condición de votar por él tras la objeción de Calista.",
+      "inicio": "02:55:00.000",
+      "fin": "03:05:30.000",
+      "entidades": [
+        "Yasuoka (grafía provisional)",
+        "Guxi (grafía provisional)",
+        "Calista"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "No se firma un contrato nuevo; las reglas sobre voto se discuten dentro del mundo de la partida.",
+      "cita": "sugerencia en vez de una obligación. No",
+      "evidencia_cue": {
+        "inicio": "03:02:25.960",
+        "fin": "03:02:28.349"
+      }
+    },
+    {
+      "id": "119-010",
+      "titulo": "Base ofrecida a la milicia",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Kurobani ofrece su base del sur a los soldados de Yasuoka y Calista respalda con engaño la protección ilusoria del emplazamiento.",
+      "inicio": "03:05:00.000",
+      "fin": "03:12:00.000",
+      "entidades": [
+        "Kurobani (grafía provisional)",
+        "Calista",
+        "Yasuoka (grafía provisional)"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "No se representa una guarnición instalada ni una misión de los soldados; la protección se exagera.",
+      "cita": "una especie de ilusión que hace que no",
+      "evidencia_cue": {
+        "inicio": "03:09:33.200",
+        "fin": "03:09:37.670"
+      }
+    },
+    {
+      "id": "119-011",
+      "titulo": "Papeles de negocios sin delito probado",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Calista y Gelbreak encuentran papeles económicos y de negocios en el despacho; él los saca, sin que se confirme corrupción concreta.",
+      "inicio": "03:21:00.000",
+      "fin": "03:30:30.000",
+      "entidades": [
+        "Calista",
+        "Hermano de Danifae (nombre pendiente)",
+        "Banzo",
+        "Residencia de Yasuoka"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "Las pistas quedan pendientes de lectura detallada; las bromas de bomba atómica no son hallazgos.",
+      "cita": "cosas sobre sus negocios. Quiero ver si",
+      "evidencia_cue": {
+        "inicio": "03:22:54.160",
+        "fin": "03:22:57.550"
+      }
+    },
+    {
+      "id": "119-012",
+      "titulo": "Los próximos pasos",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Al terminar, Guxi va a revelar la foto con permiso de acceso; Calista obtiene de Gelbreak los documentos que ella tomó y preparan nuevos trabajos. Kurobani pide medios para vigilar su base.",
+      "inicio": "03:39:00.000",
+      "fin": "03:49:30.000",
+      "entidades": [
+        "Guxi (grafía provisional)",
+        "Calista",
+        "Hermano de Danifae (nombre pendiente)",
+        "Banzo",
+        "Kurobani (grafía provisional)",
+        "Fotografía de la reunión de Yasuoka"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena correspondiente"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "La revelación, entrega en palacio, trabajos y construcción de dispositivos se proponen; no se completan en esta sesión.",
+      "cita": "mejor revelar esas fotos cuanto antes,",
+      "evidencia_cue": {
+        "inicio": "03:41:10.439",
+        "fin": "03:41:12.070"
+      }
+    }
+  ],
+  "historia": {
+    "revisado_hasta": 119,
+    "etapas": [
+      {
+        "titulo": "Heridas antes de la reunión",
+        "texto": "Guxi cuenta que no pudo presentar las pruebas para recuperar su puesto porque Gelbreak conservaba los papeles del maestro. La discusión entre ambos acabó con armas y una crisis en la que Kurobani le retiró la pistola. Son hechos recapitulados, no una nueva escena representada de ese conflicto. Calista también refiere una conversación íntima con el ninja, con sentimientos y rechazo por las circunstancias, cuyo detalle no se reconstruye. Banzo trabaja como guardaespaldas de Rua, intenta mejorar su lectura y vuelve herido junto a Gelbreak tras una pelea de taberna. Calista limpia y venda sus heridas, con reproches por haberse metido en líos.",
+        "referencias": [
+          "119-001",
+          "119-002"
+        ]
+      },
+      {
+        "titulo": "Una convocatoria con tensión",
+        "texto": "Un samurái reclama a Calista, Guxi y los demás presentes en la residencia de Yasuoka. Kurobani encuentra al artífice abatido junto al río, le devuelve el arma y lo anima a seguir defendiendo su situación mediante palabras. Calista se ofrece a pedir los documentos a Gelbreak. La disputa persiste camino de la mansión y casi vuelve a encenderse ante los guardias, hasta que ella exige dejarla para otro momento. Allí los reciben con signos de riqueza militar, estandartes y entrenamiento de soldados.",
+        "referencias": [
+          "119-003"
+        ]
+      },
+      {
+        "titulo": "Yasuoka quiere el poder",
+        "texto": "El anfitrión critica la organización de los cazadores y el liderazgo de Rua. Se presenta como proveedor de la milicia y defiende una cadena de mando firme. Banzo, molesto por su trato a la regente, pregunta qué necesita y luego qué elegiría entre resolver la crisis y ocupar el puesto de shogun. Yasuoka contesta que se sentaría en ese puesto para resolver los problemas. La cena reúne también al borracho Nomi Kazuki, a la instructora Ayuko y al adinerado Nori. Sus comentarios valoran a los cazadores por utilidad militar y económica; son opiniones políticas, no prueba de que toda su labor haya fracasado.",
+        "referencias": [
+          "119-004"
+        ]
+      },
+      {
+        "titulo": "El voto de los cazadores",
+        "texto": "Yasuoka revela que quiere presentarse a shogun y pide votos. Explica que el contrato del difunto gobernante permite votar a los cazadores e incluso que alguno se presente. Banzo apoya a Rua, Guxi mantiene el compromiso de ayudarla y Kurobani prefiere a la regente; Gelbreak dice que consideraría otra opción a cambio de algo interesante. Calista reserva su voto. Antes ha usado Labia para afirmar que todos los presentes son cazadores, aunque Guxi y Kurobani no tienen esa condición contractual. La mentira persuade al anfitrión, sin crear nuevos contratos ni devolver oficialmente el puesto perdido.",
+        "referencias": [
+          "119-005",
+          "119-006"
+        ]
+      },
+      {
+        "titulo": "Una fotografía que no ven",
+        "texto": "Calista coordina por mensaje con Guxi una fotografía de la reunión. Él se aparta con la excusa de estirar las piernas y captura la imagen sin que los nobles lo adviertan. Todavía necesita revelarla: no se muestra un documento ya utilizable en palacio. Cuando hablan a solas, ella lo anima a solicitar trabajo a Yasuoka para conocer sus cuentas y los apoyos que está construyendo. Guxi vuelve a la conversación con esa posibilidad abierta, sin haber conseguido todavía acceso interno a los libros del noble.",
+        "referencias": [
+          "119-007"
+        ]
+      },
+      {
+        "titulo": "Una presencia doble",
+        "texto": "Calista pide piedras comunicadoras y deja el canal abierto para oír la fiesta. En el baño encuentra a Gelbreak y Banzo, que ya planeaban investigar la casa. Usa una imagen ilusoria de sí misma para volver a la mesa mientras su cuerpo invisible acompaña a los dos. Banzo la sostiene cuando desplaza los sentidos hacia el doble. Guxi y Kurobani cubren la ausencia con conversación. Las ilusiones y el sigilo evitan a los guardias pese a una cerradura ruidosa y a un señuelo que no convence a todos.",
+        "referencias": [
+          "119-008"
+        ]
+      },
+      {
+        "titulo": "Ofertas que exigen cuidado",
+        "texto": "Yasuoka ofrece a Guxi pasar por sus talleres la semana siguiente para probar inventos de utilidad militar. Quiere la propiedad de lo creado para su empresa e intenta vincular el trabajo al voto. Calista replica que una cláusula que obligue a cambiar el voto sería ilegal dentro de las normas de la partida, y el noble reformula la exigencia como sugerencia, acompañada de la amenaza de despedirlo. No firman contrato. Kurobani ofrece su base del sur como punto estratégico; Calista respalda la propuesta y ambos exageran su protección ilusoria. El noble acepta estudiar el emplazamiento y recibirlos otra vez.",
+        "referencias": [
+          "119-009",
+          "119-010"
+        ]
+      },
+      {
+        "titulo": "Papeles del despacho",
+        "texto": "El grupo invisible entra en un despacho. Banzo encuentra sobre todo libros de estrategia y liderazgo cuya lectura le cuesta. Calista y Gelbreak localizan papeles de negocios y economía: aportan pistas, pero el director no confirma que revelen corrupción concreta. Gelbreak los guarda para sacarlos. El retorno se complica por ruidos y confusión entre cuerpos invisibles; él abandona el hechizo a tiempo para presentar a los guardias una excusa sobre la cocina y el baño. Calista reúne su cuerpo con el doble y retoma su sitio sin una acusación pública.",
+        "referencias": [
+          "119-011"
+        ]
+      },
+      {
+        "titulo": "Trabajos para después de la cena",
+        "texto": "Los nobles se marchan con escolta y Yasuoka deja varias citas pendientes. Al salir, Calista autoriza a Guxi a entrar en la base para revelar la foto y propone llevarla al palacio a primera hora, antes de que la reunión se explique como simples negocios. Pide a Gelbreak los documentos de esta noche y él entrega los que ella había tomado. Luego se lleva a él y a Banzo a una taberna para preparar más trabajos discretos contra los rivales políticos de Rua. Kurobani solicita a Guxi dispositivos para vigilar a los soldados que podrían llegar a su base; él estudiará hacerlo, quizá con Archi, porque le faltan recursos.",
+        "referencias": [
+          "119-012"
+        ]
+      }
+    ]
+  },
+  "misiones": [
+    "Revelar la foto y presentar la información a Rua.",
+    "Analizar los papeles de negocios de Yasuoka.",
+    "Estudiar el trabajo ofrecido a Guxi y vigilar a los posibles soldados de la base sur."
+  ],
+  "preguntas": [
+    "¿Qué muestran los documentos de Yasuoka y cómo reaccionará Rua ante la foto?",
+    "¿Aceptará Guxi trabajar para Yasuoka y qué condiciones firmará?",
+    "¿Qué harán los soldados enviados al emplazamiento de Kurobani?",
+    "¿Devolverá Gelbreak las pruebas antiguas necesarias para revisar el caso de Guxi?"
+  ],
+  "nombres_dudosos": [
+    "Yasuoka/Yasuca/Yoshiro: la cena aclara Yasuoka como anfitrión militar.",
+    "Kazuki Nomi/Nomi Kazuki: se conserva la identidad del noble verde.",
+    "Nori se presenta por apellido o nombre breve; no conciliar con otros Nori por esta sola escena."
+  ],
+  "contradicciones": [
+    "El hechizo Labia sostiene que todos son cazadores aunque dos no tienen ese contrato; no confundir engaño con nombramiento.",
+    "La explicación mecánica de Labia exagera en conversación su efecto: la ficha solo registra la mentira aceptada en esta escena.",
+    "Los documentos recuperados al final son los que Calista tomó esa noche, no devolución inequívoca de las firmas del maestro."
+  ]
+}

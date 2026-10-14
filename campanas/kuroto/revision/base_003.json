@@ -1,0 +1,1308 @@
+{
+  "revisados": [
+    1,
+    2,
+    3
+  ],
+  "entidades": [
+    {
+      "nombre": "Tokugawa",
+      "tipo": "personaje",
+      "descripcion": "Paladín de la compañía de cazadores; impetuoso en la marcha y protector durante el combate.",
+      "nota": "",
+      "etiquetas": [
+        "Tokugawa"
+      ],
+      "referencias": [],
+      "historia": {
+        "revisado_hasta": 2,
+        "etapas": [
+          {
+            "titulo": "Un camino a fuerza de espada",
+            "texto": "Tokugawa llega a Ukio con una compañía que ya conoce. Durante la expedición al bosque toma la iniciativa física: abre paso cortando ramas y un intento de atarlo acaba en un codazo accidental, seguido de una disculpa. Su energía contrasta con las precauciones y los haikus de Leonardo.",
+            "referencias": [
+              "01-009",
+              "01-011"
+            ]
+          },
+          {
+            "titulo": "El paladín protege a sus compañeros",
+            "texto": "Tras luchar con los kappa ayuda a recuperar fuerzas a Leonardo. La comadreja de cuchillas lo alcanza al comenzar el siguiente encuentro, pero Tokugawa logra provocarle miedo y empujarla lejos de sus amigos. Cuando una poción provoca el inesperado regreso del enemigo derrotado, vuelve a intervenir para acabar con él.",
+            "referencias": [
+              "01-013",
+              "01-015",
+              "01-017",
+              "01-020"
+            ]
+          },
+          {
+            "titulo": "Héroe y celebrante",
+            "texto": "De vuelta en la aldea, participa en el recibimiento de los héroes. Él y Sun Gukon permanecen en la celebración mientras sus otros compañeros descansan, antes de reunirse todos en el banquete de Kitaro.",
+            "referencias": [
+              "01-023",
+              "01-024"
+            ]
+          },
+          {
+            "titulo": "Nuevos socios y un trabajo bajo techo",
+            "texto": "Mientras Leonardo y Talos viajan a Sho, Tokugawa permanece en la aldea con Sun Gukon. Aceptan el encargo de la casa Baki y se asocian con Jin y Shiru. Dentro de la propiedad, el paladín combate los objetos animados, utiliza sus sentidos para encontrar una presencia maligna en una puerta y destruye uno de los farolillos.",
+            "referencias": [
+              "02-001",
+              "02-002",
+              "02-003",
+              "02-008",
+              "02-009",
+              "02-013"
+            ]
+          },
+          {
+            "titulo": "Ayudar a los compañeros y hacerse responsable",
+            "texto": "Tokugawa lanza a Shiru para derribar al enemigo de pelo, pero luego acaba envuelto e inmovilizado por él. Se libera con magia desde dentro y participa en el rescate del cervan frente a la criatura de lengua larga. Tras la limpieza, convence a Humiko para devolver a todos la parte descontada del pago a cambio de que él ayude en las reparaciones. También cobra del herrero las cincuenta monedas de plata de su venta anterior. El trabajo de reparación queda pendiente.",
+            "referencias": [
+              "02-016",
+              "02-017",
+              "02-019",
+              "02-020",
+              "02-025",
+              "02-026"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Leonardo",
+      "tipo": "personaje",
+      "descripcion": "Samurái de aspecto de tortuga que acompaña sus advertencias con haikus.",
+      "nota": "",
+      "etiquetas": [
+        "Leonardo"
+      ],
+      "referencias": [],
+      "historia": {
+        "revisado_hasta": 2,
+        "etapas": [
+          {
+            "titulo": "Un samurái entre la niebla",
+            "texto": "Leonardo participa en la llegada a Ukio y en la salida al Bosque del Infierno. Intenta que la compañía atienda al peligro con avisos en forma de haiku, mientras Tokugawa prefiere avanzar cortando ramas. La mesa lo identifica como samurái.",
+            "referencias": [
+              "01-009",
+              "01-011"
+            ]
+          },
+          {
+            "titulo": "El corte que decide la cacería",
+            "texto": "Combate contra los kappa y recibe ayuda curativa del paladín al acabar. Contra la comadreja insiste con sus espadas hasta asestar el golpe decisivo: describe una decapitación y limpia la katana antes de envainarla. La escena de la poción hace que la compañía tenga que terminar el trabajo una segunda vez.",
+            "referencias": [
+              "01-013",
+              "01-019",
+              "01-020"
+            ]
+          },
+          {
+            "titulo": "Descanso y recompensa",
+            "texto": "Regresa herido a Ukio y descansa en la taberna junto a Talos. Al incorporarse a la celebración encuentra a sus compañeros bebiendo y al pueblo festejando la victoria; la aventura termina con toda la compañía en el banquete.",
+            "referencias": [
+              "01-023",
+              "01-024"
+            ]
+          },
+          {
+            "titulo": "Un viaje fuera de la sesión",
+            "texto": "Al comienzo de la segunda aventura, el director explica que Leonardo y el pícaro han ido a explorar Sho, al sur. El samurái no participa en la limpieza de la casa Baki. No se narran aquí los acontecimientos de su estancia en la ciudad.",
+            "referencias": [
+              "02-001"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Sun Gukon (grafía provisional)",
+      "tipo": "personaje",
+      "descripcion": "Monje simiesco de la Mano Abierta; su bastón destaca en el combate del río.",
+      "nota": "Grafía provisional: los subtítulos alternan gucón, sungukon y son gucón. No se fija Sun Wukong como nombre canónico.",
+      "etiquetas": [
+        "Sun Gukon (grafía provisional)",
+        "gucón",
+        "sungukon",
+        "son gucón"
+      ],
+      "referencias": [],
+      "historia": {
+        "revisado_hasta": 3,
+        "etapas": [
+          {
+            "titulo": "El bastón frente a los kappa",
+            "texto": "Sun Gukon es uno de los cazadores veteranos de la compañía. En el río acaba a golpes de bastón con dos de los tres kappa. La mesa lo identifica como monje de la Mano Abierta, cuya técnica complementa las armas de sus compañeros.",
+            "referencias": [
+              "01-001",
+              "01-011",
+              "01-012"
+            ]
+          },
+          {
+            "titulo": "Una presa mucho más peligrosa",
+            "texto": "La comadreja de cuchillas lo convierte en uno de sus primeros objetivos. Su velocidad y sus tajos lo dejan gravemente herido, obligándolo a curarse y a confiar en el apoyo de la compañía mientras sigue el combate. La muerte del depredador permite volver a la aldea.",
+            "referencias": [
+              "01-016",
+              "01-017",
+              "01-019"
+            ]
+          },
+          {
+            "titulo": "Contar una victoria",
+            "texto": "En Ukio cuenta la batalla con exageraciones que los vecinos reciben con reservas. Las cuchillas reconocidas por el herrero avalan la victoria del grupo, aunque no sus adornos. Permanece bebiendo con Tokugawa mientras Leonardo y Talos descansan y después participa en el banquete.",
+            "referencias": [
+              "01-022",
+              "01-023",
+              "01-024"
+            ]
+          },
+          {
+            "titulo": "Una compañía distinta para la casa Baki",
+            "texto": "Sun Gukon disfruta dos semanas de hospitalidad antes de aceptar un nuevo encargo con Tokugawa, Jin y Shiru. En la casa arroja una sandalia con el pie, detecta una masa de pelo en el pasillo y participa en los combates contra los farolillos y el enemigo que envuelve al paladín.",
+            "referencias": [
+              "02-001",
+              "02-003",
+              "02-008",
+              "02-011",
+              "02-013",
+              "02-017"
+            ]
+          },
+          {
+            "titulo": "Bajar al enemigo del techo",
+            "texto": "Sus oídos detectan que todavía hay alguien tras una puerta. Cuando el adversario atrapa a Shiru, Sun Gukon busca formas de alcanzarlo: prueba alcohol encendido, se deja impulsar por Tokugawa y encadena golpes con la Mano Abierta. Consigue liberar al cervan y derribar al monstruo. La limpieza termina con treinta monedas de oro para cada participante, después de que Tokugawa negocie los desperfectos.",
+            "referencias": [
+              "02-018",
+              "02-020",
+              "02-024",
+              "02-025"
+            ]
+          },
+          {
+            "titulo": "Otra compañía y una guardia bajo la lluvia",
+            "texto": "Sun Gukon sigue en la taberna cuando Kitaro le presenta a tres recién llegados. Dos pescadores reconocen su intervención en la casa Baki y solicitan ayuda contra un gato que levanta a sus muertos. El monje acepta investigar y repone dardos antes de salir. La nueva compañía le deja vigilando el patio mientras los demás cenan con los anfitriones.",
+            "referencias": [
+              "03-001",
+              "03-002",
+              "03-005",
+              "03-008"
+            ]
+          },
+          {
+            "titulo": "De presa del gato a romper la estatua",
+            "texto": "Akira le concede un aliento de fuego para combatir a los zombis. El nekomata termina paralizándolo y lo hiere; el estudioso lo auxilia con una poción. Cuando el gato se refugia tras la estatua, Sun Gukon la rompe a golpes y la piedra atrapa las colas del enemigo. El estudioso utiliza esa oportunidad para llegar a un acuerdo, y el monje levanta los restos para liberar al yokai vivo.",
+            "referencias": [
+              "03-013",
+              "03-016",
+              "03-017",
+              "03-018",
+              "03-019"
+            ]
+          },
+          {
+            "titulo": "Una reparación prometida por otro",
+            "texto": "El estudioso promete a la familia que Sun Gukon ayudará a colocar una nueva estatua y que pueden buscarlo en la taberna unos días después. La conversación no muestra una aceptación expresa del monje ni la ejecución del arreglo. La sesión termina con veinte monedas de oro para cada cazador y con el gato vivo en brazos de su nuevo acompañante.",
+            "referencias": [
+              "03-020",
+              "03-021"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Talos",
+      "tipo": "personaje",
+      "descripcion": "Pícaro asesino que recurre al sigilo, el arco y la Bendición de la Reina Cuervo.",
+      "nota": "",
+      "etiquetas": [
+        "Talos"
+      ],
+      "referencias": [],
+      "historia": {
+        "revisado_hasta": 2,
+        "etapas": [
+          {
+            "titulo": "Un nombre corregido en combate",
+            "texto": "Talos participa en la expedición de los cazadores desde Ukio. Durante el enfrentamiento con los kappa, la mesa lo identifica como pícaro asesino y él corrige su nombre de forma expresa. La transcripción confunde en ocasiones personajes, jugadores y nombres abreviados.",
+            "referencias": [
+              "01-010",
+              "01-011"
+            ]
+          },
+          {
+            "titulo": "Aprovechar los árboles",
+            "texto": "Contra el depredador del bosque utiliza la Bendición de la Reina Cuervo para teletransportarse y ocultarse entre los árboles. Desde esa posición contribuye con su arco. Más tarde, un error de selección de objetivo al usar una poción da lugar al inesperado regreso del enemigo y a su segunda derrota.",
+            "referencias": [
+              "01-018",
+              "01-020"
+            ]
+          },
+          {
+            "titulo": "Volver a la taberna",
+            "texto": "Talos regresa herido a Ukio y descansa junto a Leonardo mientras sus compañeros celebran. Después se incorpora al banquete con el que Kitaro y los aldeanos agradecen la cacería.",
+            "referencias": [
+              "01-023",
+              "01-024"
+            ]
+          },
+          {
+            "titulo": "Rumbo a Sho",
+            "texto": "El director sitúa al pícaro y a Leonardo en una exploración de Sho mientras Tokugawa y Sun Gukon siguen en la taberna. Esta sesión no muestra a Talos dentro de la casa Baki ni documenta lo sucedido durante ese viaje.",
+            "referencias": [
+              "02-001"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Kitaro (grafía provisional)",
+      "tipo": "personaje",
+      "descripcion": "Tabernero de Ukio y primer interlocutor del encargo del bosque.",
+      "nota": "Nombre reconocido como quitaro; Kitaro es una etiqueta provisional.",
+      "etiquetas": [
+        "Kitaro (grafía provisional)",
+        "Kitaro",
+        "quitaro"
+      ],
+      "referencias": [],
+      "historia": {
+        "revisado_hasta": 3,
+        "etapas": [
+          {
+            "titulo": "El problema del pueblo",
+            "texto": "Kitaro recibe a los cazadores, les sirve bebida y les explica por qué necesita ayuda la aldea: los ataques del bosque amenazan a quienes recogen fruta. Distingue los kappa de la peligrosa comadreja de cuchillas y deja que los aventureros decidan cómo actuar.",
+            "referencias": [
+              "01-004",
+              "01-005",
+              "01-006"
+            ]
+          },
+          {
+            "titulo": "Dar nombre a los héroes",
+            "texto": "Al regresar la compañía, les ofrece habitaciones para descansar. Cuando el herrero anuncia la muerte del depredador, confirma ante los vecinos que los cazadores son sus héroes. Organiza la celebración y prepara el banquete que cierra la sesión.",
+            "referencias": [
+              "01-023",
+              "01-024"
+            ]
+          },
+          {
+            "titulo": "La hospitalidad se convierte en otro encargo",
+            "texto": "Kitaro mantiene alojados gratuitamente a los cazadores por su ayuda con el bosque. Cuando se aproxima el regreso de la familia Baki, les propone despejar su casa y les presenta a dos compañeros que pueden suplir a los ausentes. Les recomienda esperar a la noche y los alimenta antes de salir. Días después los presenta al noble que llega con su séquito. El recetario que la compañía piensa regalarle todavía no se entrega en una escena confirmada.",
+            "referencias": [
+              "02-001",
+              "02-002",
+              "02-003",
+              "02-005",
+              "02-012",
+              "02-023"
+            ]
+          },
+          {
+            "titulo": "El vínculo entre grupos de cazadores",
+            "texto": "Kitaro recibe a tres nuevos visitantes que buscan contratos y los dirige hacia Sun Gukon, el veterano que aún está en su taberna. Les facilita el contacto con una botella de sake. El local vuelve a servir de punto de reunión y descanso cuando la compañía regresa de resolver el acoso a los pescadores.",
+            "referencias": [
+              "03-001",
+              "03-021"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Kamaitachi (identificación provisional)",
+      "tipo": "personaje",
+      "descripcion": "Depredador del bosque con aspecto de comadreja y cuchillas en las extremidades.",
+      "nota": "La transcripción ofrece kamachi y kamay chi. Kamaitachi es una identificación contextual provisional. No se generaliza la escena de la poción como poder de la especie.",
+      "etiquetas": [
+        "Kamaitachi (identificación provisional)",
+        "kamachi",
+        "kamay chi"
+      ],
+      "referencias": [],
+      "historia": {
+        "revisado_hasta": 1,
+        "etapas": [
+          {
+            "titulo": "La amenaza que se cuenta en Ukio",
+            "texto": "Antes de que los cazadores lo encuentren, el tabernero describe a una comadreja con cuchillas que causa heridas y mutilaciones. Los troncos marcados y cercenados del bosque proporcionan después un indicio directo de su paso.",
+            "referencias": [
+              "01-006",
+              "01-015"
+            ]
+          },
+          {
+            "titulo": "Velocidad contra la compañía",
+            "texto": "El animal sorprende a Tokugawa y ataca con ferocidad a Sun Gukon. Su gran velocidad obliga al grupo a reorganizarse. El miedo provocado por el paladín y los ataques de los compañeros abren el combate hasta que Leonardo lo decapita.",
+            "referencias": [
+              "01-016",
+              "01-017",
+              "01-019"
+            ]
+          },
+          {
+            "titulo": "Un final que necesita repetirse",
+            "texto": "La aplicación accidental de una poción hace que vuelva a levantarse en una escena cómica y la compañía lo mata de nuevo. Después le separan la cabeza y las cuchillas. El herrero reconoce las hojas en Ukio y la noticia de su muerte desencadena la celebración.",
+            "referencias": [
+              "01-020",
+              "01-021",
+              "01-022"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Ukio (grafía provisional)",
+      "tipo": "lugar",
+      "descripcion": "Poblado agrícola y base de la primera cacería; su nombre tiene variantes en los subtítulos.",
+      "nota": "Ukio es provisional; el cierre también reconoce kioto. No se identifica con la ciudad real.",
+      "etiquetas": [
+        "Ukio (grafía provisional)",
+        "Ukio",
+        "kioto"
+      ],
+      "referencias": [],
+      "historia": {
+        "revisado_hasta": 3,
+        "etapas": [
+          {
+            "titulo": "Una aldea junto al peligro",
+            "texto": "El poblado recibe a los cazadores con casas de madera, taberna, herrería y alquimista. Sus vecinos dependen de la fruta del bosque y el tabernero solicita ayuda contra los ataques. La herrería carece de dinero para comprar directamente las jabalinas que ofrece un visitante.",
+            "referencias": [
+              "01-002",
+              "01-004",
+              "01-007"
+            ]
+          },
+          {
+            "titulo": "El regreso de los cazadores",
+            "texto": "La compañía vuelve con pruebas del depredador abatido. El herrero reconoce las cuchillas, la noticia corre por las calles y Kitaro presenta a los cazadores como héroes. La taberna ofrece descanso y después reúne a todos en un banquete.",
+            "referencias": [
+              "01-022",
+              "01-023",
+              "01-024"
+            ]
+          },
+          {
+            "titulo": "Regresan los propietarios",
+            "texto": "El pueblo sigue hospedando a los cazadores después de la primera victoria. El regreso de la familia Baki moviliza a los vecinos y trae un nuevo trabajo a la compañía. Al terminar, el herrero afirma que tanto la cacería anterior como el retorno del séquito favorecen la llegada de recursos: puede pagar su venta pendiente a Tokugawa y ofrecer nuevas armas.",
+            "referencias": [
+              "02-001",
+              "02-002",
+              "02-023",
+              "02-026"
+            ]
+          },
+          {
+            "titulo": "Una familia recupera el descanso",
+            "texto": "Unos vecinos pescadores y una hermana vinculada al servicio de la casa Baki piden ayuda por ataques nocturnos en su hogar. Los cazadores descubren que un yokai felino dirige contra los descendientes el rencor que atribuye al abuelo. La salida se negocia y el gato abandona la vivienda vivo; una estatua queda rota y pendiente de reemplazo.",
+            "referencias": [
+              "03-002",
+              "03-009",
+              "03-014",
+              "03-018",
+              "03-020",
+              "03-021"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Bosque del Infierno",
+      "tipo": "lugar",
+      "descripcion": "Bosque espeso y brumoso del que la aldea obtiene fruta; escenario de la primera cacería.",
+      "nota": "Se conserva la traducción pronunciada en la mesa; el nombre japonés no está estabilizado.",
+      "etiquetas": [
+        "Bosque del Infierno"
+      ],
+      "referencias": [],
+      "historia": {
+        "revisado_hasta": 1,
+        "etapas": [
+          {
+            "titulo": "Sustento y amenaza",
+            "texto": "El bosque alimenta a Ukio, pero los ataques de una comadreja con cuchillas ponen en peligro a los recolectores. Una vecina lo sitúa al norte, a media hora a pie. Al llegar, los cazadores encuentran una espesura en la que cuesta ver y abren su propio paso.",
+            "referencias": [
+              "01-004",
+              "01-006",
+              "01-008",
+              "01-009"
+            ]
+          },
+          {
+            "titulo": "El río y las cuchillas",
+            "texto": "La niebla del río oculta tres kappa y la aproximación de los cazadores termina en su muerte. Al seguir el agua, los troncos cortados conducen hacia el depredador. Allí la compañía libra el combate principal, derrota a la comadreja y recoge los trofeos antes de regresar. Haber resuelto este encargo no demuestra que todo el bosque haya quedado libre de peligros.",
+            "referencias": [
+              "01-010",
+              "01-013",
+              "01-015",
+              "01-019",
+              "01-020",
+              "01-021"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Kuroto",
+      "tipo": "lugar",
+      "descripcion": "Territorio de las aventuras de esta compañía de cazadores de yokai.",
+      "nota": "El director alterna isla y continente en la introducción y el cierre; no se deduce aquí un mapa ni se resuelve esa terminología.",
+      "etiquetas": [
+        "Kuroto"
+      ],
+      "referencias": [],
+      "historia": {
+        "revisado_hasta": 2,
+        "etapas": [
+          {
+            "titulo": "Cacerías compartidas",
+            "texto": "El director introduce Kuroto como el territorio por el que ya viaja una compañía de cazadores de yokai. La primera aventura publicada no inaugura la relación entre sus miembros: ya han matado demonios juntos antes de llegar a Ukio.",
+            "referencias": [
+              "01-001",
+              "01-002"
+            ]
+          },
+          {
+            "titulo": "La primera historia del archivo",
+            "texto": "La compañía ayuda a Ukio derrotando al depredador del bosque y termina celebrando con sus habitantes. El cierre anuncia que seguirá cazando yokai por Kuroto. Esta ficha no traslada a esta campaña acontecimientos de Xoltacan ni incorpora la charla final sobre otras partidas.",
+            "referencias": [
+              "01-024"
+            ]
+          },
+          {
+            "titulo": "Las aventuras también dejan deudas",
+            "texto": "La segunda sesión mantiene la acción en la aldea y en la casa de una familia que vuelve desde Sho. La compañía cambia temporalmente de integrantes porque Leonardo y Talos exploran esa ciudad. El encargo contra los yokai se cobra, pero el daño causado en la propiedad deja a Tokugawa una obligación de reparación pendiente.",
+            "referencias": [
+              "02-001",
+              "02-002",
+              "02-025"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Cuchillas del kamaitachi",
+      "tipo": "objeto",
+      "descripcion": "Hojas separadas del depredador vencido; prueban la victoria ante el herrero.",
+      "nota": "",
+      "etiquetas": [
+        "Cuchillas del kamaitachi"
+      ],
+      "referencias": [],
+      "historia": {
+        "revisado_hasta": 1,
+        "etapas": [
+          {
+            "titulo": "De armas naturales a trofeo",
+            "texto": "Después de vencer a la comadreja, los cazadores cortan sus cuchillas y las guardan. El director las compara con pequeñas hojas de guadaña de mano. La cabeza se recoge como otra prueba de la cacería, pero no se confunde con estas hojas.",
+            "referencias": [
+              "01-021"
+            ]
+          },
+          {
+            "titulo": "Una posibilidad de fabricación",
+            "texto": "En Ukio se enseñan al herrero para preguntar si pueden convertirse en equipo. El artesano reconoce su origen y anuncia la muerte del monstruo. Su testimonio respalda la victoria cuando Sun Gukon cuenta la batalla, pero todavía no hay arma fabricada ni propiedades mágicas confirmadas.",
+            "referencias": [
+              "01-022",
+              "01-023"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Jin",
+      "tipo": "personaje",
+      "descripcion": "Cazador que se incorpora a la limpieza de la casa Baki y combina espada y fuego.",
+      "nota": "La descripción inicial de Kitaro lo presenta como humano; no sustituye una ficha racial contrastada.",
+      "etiquetas": [
+        "Jin"
+      ],
+      "referencias": [],
+      "historia": {
+        "revisado_hasta": 2,
+        "etapas": [
+          {
+            "titulo": "Un trabajo compartido",
+            "texto": "Jin conoce a Tokugawa y Sun Gukon en la taberna junto al cervan Shiru. Acepta unirse al encargo de limpiar la casa Baki a cambio de compartir la recompensa. Se presenta por su nombre durante la comida previa a la expedición.",
+            "referencias": [
+              "02-003",
+              "02-004",
+              "02-005"
+            ]
+          },
+          {
+            "titulo": "Entre llamas y emboscadas",
+            "texto": "Dentro de la casa ataca los objetos animados con su arma y con fuego, destruye la puerta de ojos y descubre el ojo de un farolillo. Por desconfianza prende fuego a la cama del dormitorio y cierra la puerta, sin que el director considere a sus compañeros testigos de esa acción. Más adelante una criatura de pelo lo sorprende desde el techo.",
+            "referencias": [
+              "02-007",
+              "02-008",
+              "02-010",
+              "02-013",
+              "02-014",
+              "02-015"
+            ]
+          },
+          {
+            "titulo": "El golpe final y el coste del trabajo",
+            "texto": "Cuando Sun Gukon consigue derribar al último adversario, Jin lo remata con su katana. La victoria no evita los desperfectos: el fuego del dormitorio deja una habitación chamuscada y Humiko reduce inicialmente el pago. El acuerdo de Tokugawa para reparar la propiedad permite que Jin y los otros tres cobren finalmente treinta monedas de oro cada uno.",
+            "referencias": [
+              "02-021",
+              "02-022",
+              "02-024",
+              "02-025"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Shiru (grafía provisional)",
+      "tipo": "personaje",
+      "descripcion": "Cervan que se une a los cazadores y combate con cuernos, puños y armas improvisadas.",
+      "nota": "Nombre provisional: Shiru, shsu y chsu. No se inventa el nombre que falta en la presentación.",
+      "etiquetas": [
+        "Shiru (grafía provisional)",
+        "Shiru",
+        "shsu",
+        "chsu"
+      ],
+      "referencias": [],
+      "historia": {
+        "revisado_hasta": 2,
+        "etapas": [
+          {
+            "titulo": "Un ciervo, no una cabra",
+            "texto": "El nuevo compañero acepta el trabajo de la casa Baki después de hablar con Tokugawa y Sun Gukon. Cuando lo confunden con una cabra, corrige que es un ciervo. El reconocimiento no permite fijar su nombre completo; durante los turnos se repiten variantes que se agrupan bajo Shiru de forma provisional.",
+            "referencias": [
+              "02-003",
+              "02-004"
+            ]
+          },
+          {
+            "titulo": "Todo puede convertirse en arma",
+            "texto": "En el recibidor golpea al paraguas animado con una antorcha y un fragmento de jarrón, y después usa el propio paraguas roto contra una sandalia. También emplea un libro, restos de farolillo y una mesa en los combates posteriores. Su cooperación con Tokugawa lo convierte en un ariete volador de cuernos para alcanzar a la masa de pelo.",
+            "referencias": [
+              "02-007",
+              "02-008",
+              "02-013",
+              "02-016",
+              "02-017"
+            ]
+          },
+          {
+            "titulo": "Atrapado en el techo",
+            "texto": "Al derribar otra puerta descubre al último enemigo, que lo atrapa con la lengua y lo eleva. Shiru se agarra a él para impedir que siga huyendo y resiste hasta que Sun Gukon lo libera y lo derriba. Vuelve a combatir en el suelo y después recibe su parte del pago, restablecida gracias a la promesa de reparación del paladín.",
+            "referencias": [
+              "02-018",
+              "02-019",
+              "02-020",
+              "02-021",
+              "02-025"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Humiko (grafía provisional)",
+      "tipo": "personaje",
+      "descripcion": "Interlocutora del pago que inspecciona los daños de la casa Baki.",
+      "nota": "Grafía reconocida como humico. No se fija parentesco ni cargo formal en la familia y no se identifica automáticamente con la vecina del primer episodio.",
+      "etiquetas": [
+        "Humiko (grafía provisional)",
+        "Humiko",
+        "humico"
+      ],
+      "referencias": [],
+      "historia": {
+        "revisado_hasta": 2,
+        "etapas": [
+          {
+            "titulo": "Una inspección después de la cacería",
+            "texto": "Tras la llegada del noble, Humiko se queda con los cazadores y explica que ha revisado la casa. Reconoce la eliminación de los yokai, pero señala las puertas destruidas y el cuarto quemado. No acepta sin reservas que todos los daños se deban a los adversarios animados.",
+            "referencias": [
+              "02-023",
+              "02-024"
+            ]
+          },
+          {
+            "titulo": "Un descuento que se negocia",
+            "texto": "Reduce la recompensa de treinta a veinte monedas de oro por participante para cubrir los desperfectos. Tokugawa se ofrece a ayudar en las reparaciones y Humiko acepta devolver las diez monedas descontadas a cada uno. Espera que el paladín se presente a trabajar; la sesión termina antes de que cumpla ese compromiso.",
+            "referencias": [
+              "02-024",
+              "02-025"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Señor Abaki (grafía provisional)",
+      "tipo": "personaje",
+      "descripcion": "Noble de Sho que regresa con su séquito a la propiedad de la familia Baki.",
+      "nota": "Baki y Abaki son variantes reconocidas; no hay nombre de pila confirmado.",
+      "etiquetas": [
+        "Señor Abaki (grafía provisional)",
+        "Abaki",
+        "señor Abaki"
+      ],
+      "referencias": [],
+      "historia": {
+        "revisado_hasta": 2,
+        "etapas": [
+          {
+            "titulo": "El regreso anunciado",
+            "texto": "Kitaro comunica que un señor de la familia Baki volverá al pueblo desde Sho después de años sin visitar su casa. Su llegada próxima motiva el encargo de limpiar de yokai el inmueble.",
+            "referencias": [
+              "02-002"
+            ]
+          },
+          {
+            "titulo": "El recibimiento en la aldea",
+            "texto": "Llega días después en un gran carruaje con caballos, acompañantes y soldados. Kitaro le presenta a los cazadores; el noble se muestra especialmente impresionado por Tokugawa y por la demostración de fuerza del cervan. Humiko se ocupa después de discutir con la compañía el estado de la propiedad y la recompensa.",
+            "referencias": [
+              "02-023",
+              "02-024"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Familia Baki (grafía provisional)",
+      "tipo": "faccion",
+      "descripcion": "Casa noble vinculada a Sho cuyo regreso al pueblo motiva la limpieza de una propiedad abandonada.",
+      "nota": "Grafía provisional Baki/Abaki. No se deducen rango feudal, emblema, parentescos o planes políticos que la sesión no aporta.",
+      "etiquetas": [
+        "Familia Baki (grafía provisional)",
+        "Baki",
+        "Abaki"
+      ],
+      "referencias": [],
+      "historia": {
+        "revisado_hasta": 2,
+        "etapas": [
+          {
+            "titulo": "Una propiedad olvidada",
+            "texto": "Según Kitaro, la familia lleva alrededor de diez años sin visitar su casa cercana a la aldea. El regreso desde Sho hace necesario contratar a los cazadores para desalojar a los yokai antes de instalarse.",
+            "referencias": [
+              "02-002",
+              "02-006"
+            ]
+          },
+          {
+            "titulo": "El séquito y los recursos",
+            "texto": "El señor llega con acompañantes, caballos y soldados. Su presencia tiene efectos más allá de la propiedad: el herrero relaciona el regreso de la familia y la victoria anterior de los cazadores con la llegada de recursos para la aldea.",
+            "referencias": [
+              "02-023",
+              "02-026"
+            ]
+          },
+          {
+            "titulo": "El coste de restaurar la casa",
+            "texto": "La limpieza deja destruidas puertas y muebles y un cuarto chamuscado. Humiko gestiona el pago y acepta el compromiso de reparación de Tokugawa para devolver las cantidades descontadas. Esto documenta una relación contractual con los aventureros, sin establecer una alianza permanente.",
+            "referencias": [
+              "02-024",
+              "02-025"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Casa de la familia Baki",
+      "tipo": "lugar",
+      "descripcion": "Propiedad abandonada de una familia noble; escenario de una limpieza de yokai que deja desperfectos.",
+      "nota": "",
+      "etiquetas": [
+        "Casa de la familia Baki"
+      ],
+      "referencias": [],
+      "historia": {
+        "revisado_hasta": 2,
+        "etapas": [
+          {
+            "titulo": "Diez años sin cuidados",
+            "texto": "La casa al norte del pueblo pertenece a la familia Baki y lleva años sin atender. Al entrar, la compañía encuentra madera deteriorada, telarañas y polvo en el tatami, además de una zona que parece destinada al servicio. El regreso de los propietarios convierte su ocupación por yokai en un encargo remunerado.",
+            "referencias": [
+              "02-002",
+              "02-005",
+              "02-006"
+            ]
+          },
+          {
+            "titulo": "Los enseres se defienden",
+            "texto": "El recibidor aloja un paraguas y sandalias animadas. Una puerta de ojos protege el paso a la zona del altar y los farolillos de otra estancia combaten con los cazadores. Los restos de los muebles y objetos se convierten en armas improvisadas mientras la propiedad acumula daños.",
+            "referencias": [
+              "02-007",
+              "02-008",
+              "02-009",
+              "02-010",
+              "02-013"
+            ]
+          },
+          {
+            "titulo": "Los huéspedes del techo y el fuego",
+            "texto": "En cocina y despensa, una masa de pelo sorprende a la compañía. Después, tras otra puerta, un monstruo maloliente atrapa a Shiru con su lengua. Derrotar a ambos no resuelve el incendio que Jin había iniciado en el dormitorio: el grupo consigue apagarlo, pero el cuarto queda chamuscado.",
+            "referencias": [
+              "02-014",
+              "02-015",
+              "02-016",
+              "02-017",
+              "02-018",
+              "02-019",
+              "02-020",
+              "02-021",
+              "02-022"
+            ]
+          },
+          {
+            "titulo": "Una reparación pendiente",
+            "texto": "La inspección de Humiko confirma que los yokai han desaparecido, pero los desperfectos provocan un descuento del pago. Tokugawa consigue recuperarlo para la compañía a cambio de ofrecer su ayuda en las reparaciones. La casa sigue dañada cuando termina la sesión.",
+            "referencias": [
+              "02-024",
+              "02-025"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Sho (grafía provisional)",
+      "tipo": "lugar",
+      "descripcion": "Ciudad situada al sur de la aldea y vinculada al viaje de dos cazadores y al regreso de la familia Baki.",
+      "nota": "Grafía provisional a partir de sho/show; no se identifica con una ciudad real.",
+      "etiquetas": [
+        "Sho (grafía provisional)",
+        "Sho",
+        "show"
+      ],
+      "referencias": [],
+      "historia": {
+        "revisado_hasta": 2,
+        "etapas": [
+          {
+            "titulo": "Dos compañeros exploran el sur",
+            "texto": "Al inicio de la segunda sesión, el director sitúa a Leonardo y al pícaro en Sho, una ciudad algo más al sur. La aventura de la casa transcurre sin ellos y no muestra lo que encuentran allí.",
+            "referencias": [
+              "02-001"
+            ]
+          },
+          {
+            "titulo": "El origen de la caravana",
+            "texto": "Kitaro presenta al noble Baki como procedente de Sho y anuncia que llegará con las caravanas en un par de días. Más adelante su séquito entra en el pueblo. Estas referencias sitúan una conexión entre ambos lugares, pero no permiten dibujar la ruta ni fechar un viaje más preciso.",
+            "referencias": [
+              "02-002",
+              "02-023"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Recetario de cocina de la casa Baki",
+      "tipo": "objeto",
+      "descripcion": "Recetario polvoriento recogido en la casa Baki con intención de regalarlo al tabernero.",
+      "nota": "No se atribuye un título bibliográfico ni una receta exacta a partir del reconocimiento dudoso.",
+      "etiquetas": [
+        "Recetario de cocina de la casa Baki"
+      ],
+      "referencias": [],
+      "historia": {
+        "revisado_hasta": 2,
+        "etapas": [
+          {
+            "titulo": "Un hallazgo entre los libros",
+            "texto": "Durante la exploración de la habitación de estanterías, uno de los cazadores toma un libro de cocina y decide guardarlo para Kitaro. La escena queda interrumpida por las luces que empiezan a apagarse y revelan otro yokai.",
+            "referencias": [
+              "02-012"
+            ]
+          },
+          {
+            "titulo": "El regalo aún no llega a destino",
+            "texto": "El grupo conserva la intención de llevarlo al tabernero, pero la sesión no escenifica su entrega. La limpieza termina con la negociación del pago y las reparaciones; el destino del recetario sigue pendiente de contraste posterior.",
+            "referencias": [
+              "02-012",
+              "02-025"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Estudioso de la universidad (nombre pendiente)",
+      "tipo": "personaje",
+      "descripcion": "Cazador de modales formales vinculado a una universidad; negocia la salida del nekomata.",
+      "nota": "Los turnos lo llaman Isaac, que puede ser el nombre del jugador. Se conserva esa variante para localizar pasajes, sin fijarla como nombre canónico del personaje.",
+      "etiquetas": [
+        "Estudioso de la universidad (nombre pendiente)",
+        "Isaac",
+        "Isac"
+      ],
+      "referencias": [],
+      "historia": {
+        "revisado_hasta": 3,
+        "etapas": [
+          {
+            "titulo": "Investigar la historia de una familia",
+            "texto": "Forma parte de los tres cazadores que se encuentran con Sun Gukon. Las preguntas al anfitrión sobre el abuelo y el gato ayudan a separar las sospechas de los hechos: un recuerdo sobre yokai vengativos orienta la investigación, pero no prueba el maltrato. El retrato, las declaraciones familiares y después la ropa del zombi aportan indicios sobre el origen del rencor.",
+            "referencias": [
+              "03-001",
+              "03-004",
+              "03-009",
+              "03-014"
+            ]
+          },
+          {
+            "titulo": "Combatir sin renunciar a hablar",
+            "texto": "Destruye al zombi que lo golpea y reconoce al posible abuelo. Después exige al gato que explique por qué ataca también a los descendientes. Adopta una forma esquelética durante el combate y ayuda a recuperar fuerzas al monje con una poción. Cuando el gato queda atrapado por la estatua, vuelve a intentar una solución hablada.",
+            "referencias": [
+              "03-014",
+              "03-015",
+              "03-016",
+              "03-018"
+            ]
+          },
+          {
+            "titulo": "Un trato que exige cuidados",
+            "texto": "Ofrece al gato comida y una estancia en una universidad donde, según afirma, se respeta a los yokai. El nekomata acepta y se acurruca en sus brazos cuando Sun Gukon lo libera. Promete a la familia que el monje ayudará a reemplazar la estatua y devuelve parte de la recompensa antes de repartirla. La llegada del gato a la institución y la reparación quedan sin escenificar.",
+            "referencias": [
+              "03-018",
+              "03-019",
+              "03-020",
+              "03-021"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Akira",
+      "tipo": "personaje",
+      "descripcion": "Cazador arcano llamado Akira que investiga el patio y presta fuego al monje.",
+      "nota": "El reconocimiento alterna Akira y aira. Las razas mencionadas en la introducción no se asignan de forma automática a los nombres.",
+      "etiquetas": [
+        "Akira",
+        "aira"
+      ],
+      "referencias": [],
+      "historia": {
+        "revisado_hasta": 3,
+        "etapas": [
+          {
+            "titulo": "La investigación nocturna",
+            "texto": "Akira participa en la nueva compañía y en el registro de la casa y las tumbas. Usa recursos mágicos durante la espera e investiga los alrededores sin encontrar un rastro adicional al de las sepulturas.",
+            "referencias": [
+              "03-001",
+              "03-010"
+            ]
+          },
+          {
+            "titulo": "Magia contra el gato y sus muertos",
+            "texto": "Concede a Sun Gukon un aliento de fuego y ataca a los zombis. El nekomata lo hiere, pero Akira sigue usando su magia mientras el enemigo se oculta repetidamente. Destruye al muerto contenido por la piedra y protege su posición con un escudo mágico frente al último zombi.",
+            "referencias": [
+              "03-013",
+              "03-015",
+              "03-019"
+            ]
+          },
+          {
+            "titulo": "Presenciar un acuerdo",
+            "texto": "El combate termina cuando el estudioso convence al nekomata de marcharse a una universidad. Akira presencia cómo el zombi restante abandona la lucha y regresa a la tumba. Vuelve a descansar con el resto de los cazadores, con su parte del pago de la familia.",
+            "referencias": [
+              "03-019",
+              "03-021"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Hayate",
+      "tipo": "personaje",
+      "descripcion": "Arquero alado llamado Hayate, capaz de ocultarse en las sombras.",
+      "nota": "Nombre agrupado por contexto de los turnos; los subtítulos lo deforman con frecuencia. Se describe el vuelo observado sin imponer una ficha racial a partir de una palabra incompleta.",
+      "etiquetas": [
+        "Hayate",
+        "jaate",
+        "hayate"
+      ],
+      "referencias": [],
+      "historia": {
+        "revisado_hasta": 3,
+        "etapas": [
+          {
+            "titulo": "Preparar el terreno",
+            "texto": "Hayate llega con la nueva compañía a la taberna y participa en la investigación de los pescadores. La trampa de cuerda que prepara inmoviliza a uno de los zombis al comenzar la pelea, mientras una piedra limita a otro.",
+            "referencias": [
+              "03-001",
+              "03-010",
+              "03-012"
+            ]
+          },
+          {
+            "titulo": "Flechas desde lo alto",
+            "texto": "Vuela durante el combate y dispara a los zombis y al gato. Busca las zonas de sombra para ocultarse y marca al nekomata para apoyar sus disparos. El enemigo también se esconde, lo que dificulta por momentos que ambos se localicen.",
+            "referencias": [
+              "03-013",
+              "03-015"
+            ]
+          },
+          {
+            "titulo": "Una cacería que evita el remate",
+            "texto": "La resolución llega cuando el gato queda atrapado y el estudioso ofrece un acuerdo. Hayate forma parte de la compañía que vuelve a la taberna tras recibir veinte monedas de oro por participante; no se le atribuyen la negociación personal con el gato ni la promesa de reparar la estatua.",
+            "referencias": [
+              "03-018",
+              "03-020",
+              "03-021"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Nekomata de los pescadores",
+      "tipo": "personaje",
+      "descripcion": "Yokai felino de dos colas que acosa a una familia y termina aceptando un hogar alternativo.",
+      "nota": "No tiene un nombre propio confirmado. Nekomata es una identificación empleada en la conversación, con numerosas variantes del reconocimiento.",
+      "etiquetas": [
+        "Nekomata de los pescadores",
+        "nekomata",
+        "gato de los pescadores"
+      ],
+      "referencias": [],
+      "historia": {
+        "revisado_hasta": 3,
+        "etapas": [
+          {
+            "titulo": "El rencor dirigido a los descendientes",
+            "texto": "Los pescadores afirman que el gato levanta a sus muertos por la noche y los atormenta. El nekomata confirma que se está vengando. La investigación sugiere un vínculo con el abuelo estricto y su antiguo gato, pero no muestra el maltrato directamente. Cuando cae el zombi que se parece al abuelo, el yokai insiste en que la familia también pagará.",
+            "referencias": [
+              "03-003",
+              "03-004",
+              "03-009",
+              "03-011",
+              "03-014"
+            ]
+          },
+          {
+            "titulo": "Dos colas contra los cazadores",
+            "texto": "Desde la estatua reanima a tres muertos y se oculta entre las sombras para hostigar a los visitantes. Hiere a Akira, paraliza a Sun Gukon y vuelve a refugiarse tras la escultura. El monje la rompe y el derrumbe aprisiona sus colas, dejándolo herido y sin escapatoria.",
+            "referencias": [
+              "03-012",
+              "03-015",
+              "03-016",
+              "03-017"
+            ]
+          },
+          {
+            "titulo": "Un futuro distinto al castigo",
+            "texto": "El estudioso evita rematarlo y lo persuade de abandonar el ataque a los descendientes. Le promete comida y una estancia en una universidad; el gato acepta si el monje se mantiene lejos. Tras ser liberado, se acurruca en sus brazos, acepta una poción y deja que el último zombi regrese a la tumba. Abandona la casa vivo; la llegada a la institución aún no se narra.",
+            "referencias": [
+              "03-018",
+              "03-019",
+              "03-021"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Familia de pescadores (nombres pendientes)",
+      "tipo": "personaje",
+      "descripcion": "Familia de hermanos pescadores y una hermana que sirve en la casa Baki; solicita protección contra sus muertos reanimados.",
+      "nota": "Ficha colectiva de los anfitriones: no se inventan nombres ni se agrupan como un único individuo.",
+      "etiquetas": [
+        "Familia de pescadores (nombres pendientes)"
+      ],
+      "referencias": [],
+      "historia": {
+        "revisado_hasta": 3,
+        "etapas": [
+          {
+            "titulo": "Una casa que no permite descansar",
+            "texto": "Dos hermanos buscan a Sun Gukon por su fama y explican que un gato yokai acosa a la familia con los cuerpos de sus antepasados. Invitan a los cazadores a investigar y cenar. Se dedican a la pesca; una hermana trabaja para la casa Baki. Refuerzan las ventanas con tablones al acercarse la noche.",
+            "referencias": [
+              "03-002",
+              "03-003",
+              "03-008",
+              "03-009"
+            ]
+          },
+          {
+            "titulo": "Los recuerdos del abuelo",
+            "texto": "Un retrato muestra al abuelo con una katana y un gato negro. Su descendiente recuerda a un antiguo general estricto que castigaba a la familia y considera probable que también castigara al animal. Esa sospecha ayuda a orientar la investigación, pero no convierte a los hermanos en responsables de los actos del abuelo.",
+            "referencias": [
+              "03-004",
+              "03-009",
+              "03-014"
+            ]
+          },
+          {
+            "titulo": "El descanso vuelve con daños en el patio",
+            "texto": "El gato acepta marcharse con los cazadores y el zombi restante regresa a la tumba. Un anfitrión recibe la promesa de que Sun Gukon ayudará a sustituir la estatua rota. Otro entrega la recompensa de la que se devuelve una parte antes del reparto. La amenaza inmediata termina, pero la reparación no se escenifica.",
+            "referencias": [
+              "03-019",
+              "03-020",
+              "03-021"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Casa de los pescadores",
+      "tipo": "lugar",
+      "descripcion": "Vivienda humilde con un patio de enterramientos familiares bajo una estatua de Meilink.",
+      "nota": "",
+      "etiquetas": [
+        "Casa de los pescadores"
+      ],
+      "referencias": [],
+      "historia": {
+        "revisado_hasta": 3,
+        "etapas": [
+          {
+            "titulo": "Un hogar bajo acoso",
+            "texto": "La familia describe apariciones nocturnas de sus muertos dirigidas por un gato. El interior tiene mobiliario modesto y ventanas reforzadas para impedir las entradas. El patio contiene las sepulturas y una estatua venerada como protectora de los muertos.",
+            "referencias": [
+              "03-003",
+              "03-006",
+              "03-007",
+              "03-008",
+              "03-009"
+            ]
+          },
+          {
+            "titulo": "Investigar y contener las tumbas",
+            "texto": "Las huellas del gato conducen hacia la escultura y la tierra de tres tumbas aparece removida. Una piedra contiene a un zombi y una cuerda inmoviliza a otro, reduciendo el ataque inicial. La pelea recorre el patio mientras el gato se esconde y los cazadores intentan localizarlo.",
+            "referencias": [
+              "03-006",
+              "03-010",
+              "03-012",
+              "03-015"
+            ]
+          },
+          {
+            "titulo": "Una estatua por sustituir",
+            "texto": "Sun Gukon derriba la escultura para inmovilizar al nekomata. Un acuerdo permite que el gato abandone el hogar y que el muerto restante vuelva a la tumba. La casa recupera la calma, aunque la familia queda esperando la reparación prometida de su estatua.",
+            "referencias": [
+              "03-017",
+              "03-019",
+              "03-020"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Universidad (nombre pendiente)",
+      "tipo": "faccion",
+      "descripcion": "Institución sin nombre confirmado que un cazador ofrece como futuro hogar del nekomata.",
+      "nota": "Solo se documenta lo ofrecido por el personaje. No se inventan nombre, ubicación, estructura ni aceptación oficial de la institución.",
+      "etiquetas": [
+        "Universidad (nombre pendiente)"
+      ],
+      "referencias": [],
+      "historia": {
+        "revisado_hasta": 3,
+        "etapas": [
+          {
+            "titulo": "La institución aparece en la oferta",
+            "texto": "Durante la investigación se menciona el estudio de los yokai, pero la vinculación más concreta llega en la negociación final. El estudioso asegura que en su universidad hay quienes respetan a esas criaturas y ofrece al gato comida, cuidado e interés por él.",
+            "referencias": [
+              "03-004",
+              "03-018"
+            ]
+          },
+          {
+            "titulo": "Un acuerdo que aún debe ponerse en práctica",
+            "texto": "El nekomata acepta marcharse con el estudioso y se calma en sus brazos. Este insiste en que lo tratarán bien y alude a posibles pactos. La sesión termina al volver a la taberna; no muestra la entrada en la universidad ni la aprobación del acuerdo por sus autoridades.",
+            "referencias": [
+              "03-018",
+              "03-019",
+              "03-021"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Estatua de Meilink (grafía provisional)",
+      "tipo": "objeto",
+      "descripcion": "Escultura venerada en el patio familiar como imagen de la protectora de sus muertos.",
+      "nota": "Meilink es una grafía provisional. Los atributos religiosos se atribuyen al testimonio de sus devotos.",
+      "etiquetas": [
+        "Estatua de Meilink (grafía provisional)"
+      ],
+      "referencias": [],
+      "historia": {
+        "revisado_hasta": 3,
+        "etapas": [
+          {
+            "titulo": "El centro de los enterramientos",
+            "texto": "Según la familia, Meilink protege a sus ancestros y por eso los entierran a los pies de la imagen y ofrecen incienso. El gato deja arañazos por detrás de la estatua y aparece sobre ella al comenzar la visita nocturna.",
+            "referencias": [
+              "03-006",
+              "03-007",
+              "03-011"
+            ]
+          },
+          {
+            "titulo": "De refugio a trampa",
+            "texto": "La escultura sirve de cobertura al nekomata durante el combate. Sun Gukon la rompe a golpes y la caída atrapa las colas del gato. La inmovilización facilita la negociación; después el monje levanta los restos para liberarlo.",
+            "referencias": [
+              "03-017",
+              "03-018",
+              "03-019"
+            ]
+          },
+          {
+            "titulo": "La reposición queda pendiente",
+            "texto": "Al explicar lo ocurrido, el estudioso promete a la familia que Sun Gukon ayudará a poner una estatua nueva. No se muestra esa reposición ni una intervención sobrenatural causada por romperla.",
+            "referencias": [
+              "03-020"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "preguntas": [
+    {
+      "id": "K01-P01",
+      "capitulo": 1,
+      "pregunta": "¿Podrá el herrero convertir las cuchillas en equipo?",
+      "estado": "pendiente",
+      "respuesta": "El grupo pregunta por esa posibilidad y el herrero reconoce las hojas, pero esta sesión no muestra un encargo cerrado ni un objeto terminado.",
+      "pendiente": "No se confirma el desenlace en el capítulo 3. Revisar las sesiones posteriores.",
+      "referencias": [
+        "01-021",
+        "01-022"
+      ],
+      "revisado_hasta": 3,
+      "requiere_actualizacion": true
+    },
+    {
+      "id": "K01-P02",
+      "capitulo": 1,
+      "pregunta": "¿Qué es el Loto Blanco y quién pertenece a él?",
+      "estado": "sin_revisar",
+      "respuesta": "El nombre aparece durante las presentaciones de la taberna. No basta para fijar la organización o atribuir la pertenencia a un personaje concreto.",
+      "pendiente": "No se confirma el desenlace en el capítulo 3. Revisar las sesiones posteriores.",
+      "referencias": [
+        "01-003"
+      ],
+      "revisado_hasta": 3,
+      "requiere_actualizacion": true
+    },
+    {
+      "id": "K01-P03",
+      "capitulo": 1,
+      "pregunta": "¿Se cobra la venta de las armas dejadas al herrero?",
+      "estado": "resuelta",
+      "respuesta": "Al final del capítulo 2, el herrero entrega a Tokugawa cincuenta monedas de plata por las armas dejadas para vender. La recapitulación confirma que eran suyas.",
+      "pendiente": "",
+      "referencias": [
+        "01-007",
+        "02-026"
+      ],
+      "revisado_hasta": 3,
+      "requiere_actualizacion": false
+    },
+    {
+      "id": "K02-P01",
+      "capitulo": 2,
+      "pregunta": "¿Cobran el trabajo de limpiar la casa pese a los daños?",
+      "estado": "resuelta",
+      "respuesta": "Humiko paga veinte monedas por persona y retiene diez por los desperfectos. Cuando Tokugawa ofrece ayudar en la reparación, devuelve las diez a todos: treinta monedas de oro cada uno.",
+      "pendiente": "",
+      "referencias": [
+        "02-024",
+        "02-025"
+      ],
+      "revisado_hasta": 3,
+      "requiere_actualizacion": false
+    },
+    {
+      "id": "K02-P02",
+      "capitulo": 2,
+      "pregunta": "¿Llega Tokugawa a cumplir la reparación prometida?",
+      "estado": "pendiente",
+      "respuesta": "Promete colaborar para recuperar el descuento del grupo; Humiko acepta y queda esperando su visita. La sesión termina sin mostrar esos trabajos.",
+      "pendiente": "No se confirma el desenlace en el capítulo 3. Revisar las sesiones posteriores.",
+      "referencias": [
+        "02-025"
+      ],
+      "revisado_hasta": 3,
+      "requiere_actualizacion": true
+    },
+    {
+      "id": "K02-P03",
+      "capitulo": 2,
+      "pregunta": "¿Se entrega a Kitaro el recetario recogido en la casa?",
+      "estado": "pendiente",
+      "respuesta": "La intención de llevarlo al tabernero se expresa al recoger el libro, pero no se escenifica su entrega en esta sesión.",
+      "pendiente": "No se confirma el desenlace en el capítulo 3. Revisar las sesiones posteriores.",
+      "referencias": [
+        "02-012"
+      ],
+      "revisado_hasta": 3,
+      "requiere_actualizacion": true
+    },
+    {
+      "id": "K03-P01",
+      "capitulo": 3,
+      "pregunta": "¿Hace falta matar al nekomata para que la familia descanse?",
+      "estado": "resuelta",
+      "respuesta": "No. Acepta marcharse con el estudioso y el zombi restante vuelve a la tumba. La familia recibe la explicación y los cazadores cobran sin matar al gato.",
+      "pendiente": "",
+      "referencias": [
+        "03-018",
+        "03-019",
+        "03-021"
+      ],
+      "revisado_hasta": 3,
+      "requiere_actualizacion": false
+    },
+    {
+      "id": "K03-P02",
+      "capitulo": 3,
+      "pregunta": "¿Llega el nekomata a la universidad y recibe el cuidado ofrecido?",
+      "estado": "pendiente",
+      "respuesta": "Acepta la oferta y abandona la casa en brazos del estudioso. La sesión termina al volver a la taberna, antes de mostrar su llegada a la institución.",
+      "pendiente": "Revisar la llegada y las condiciones de cuidado en sesiones posteriores.",
+      "referencias": [
+        "03-018",
+        "03-019",
+        "03-021"
+      ],
+      "revisado_hasta": 3,
+      "requiere_actualizacion": true
+    },
+    {
+      "id": "K03-P03",
+      "capitulo": 3,
+      "pregunta": "¿Se sustituye la estatua que ha roto Sun Gukon?",
+      "estado": "pendiente",
+      "respuesta": "El estudioso promete que el monje ayudará a colocar una nueva y pide que vayan a buscarlo a la taberna. No se muestra todavía ese trabajo.",
+      "pendiente": "Contrastar que la promesa llegue a cumplirse.",
+      "referencias": [
+        "03-017",
+        "03-020"
+      ],
+      "revisado_hasta": 3,
+      "requiere_actualizacion": true
+    }
+  ]
+}

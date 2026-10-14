@@ -1,0 +1,365 @@
+{
+  "capitulo": 162,
+  "estado_revision": "revisado",
+  "fuente_sha256": "4d663f04329d0a45b9a972fcc29e903ccb11e11af06d045aa3f344990abb1e7c",
+  "resumen": "Banzo consigue que Danifae salga de prisión mediante un pacto y ella recupera su equipo. Vuelve a la base con R3, entre los saludos de Arwen y la incomodidad que despierta en otros. Kurobane afirma estar más tranquilo tras liberarse de Osuray y estudia a los cultistas, pero el líder le recuerda que arrojó su collar: debe decidir qué quiere hacer. R3 proyecta los avances incompletos de la búsqueda de Archi. La drow propone mirar en Jakajara, un lugar poco protegido donde el demonio podría causar caos. Banzo y Jin acuerdan observar al ninja durante la misión. Esperan a Arwen, que recoge a Shisuka, y cruzan todos el portal. Jakajara arde entre demonios y vecinos atrapados. El grupo se despliega para proteger puertas y casas, pero los gritos, rayos y magia enemiga los fragmentan. Kurobane y Channi quedan incapacitados por momentos y Jin pasa gran parte de la lucha confundido. Channi se enreda con su propio hechizo; Banzo abre espacio y Arwen se transforma en árbol para sostener a los defensores. Shisuka adopta forma de oso. La druida disipa oscuridad y cura, pero no llega a todos: un demonio mata al monje ante ellos. La protección del pueblo sigue siendo una tarea urgente mientras el ocupante de Archi dispara sin dejarse ver. Danifae percibe al ocupante y rompe la concentración de un enemigo, liberando a Jin. Kurobane usa su sombra para atacar y Arwen despierta a Channi. El enemigo invisible sigue desplazándose y lanza fuego sobre los cazadores. Banzo transporta a la druida y Channi aporta rayo lunar y curas, hasta que Danifae consigue que el gnomo brille y deje de ocultarse. Pueden por fin concentrar ataques. Banzo sujeta al cuerpo que quema y Arwen mantiene al grupo en pie, mientras Jin descarga todo lo que antes le impidió hacer la confusión. Danifae pronuncia tres veces Tazgorat y fuerza la separación: la criatura muestra forma demoníaca y el verdadero Archi sale de una gema roja de su collar. El señor abisal se proclama independiente y combate todavía entre llamas y golpes. Banzo lo remata; su explosión alcanza a todos y el demonio desaparece. El inventor sobrevive, chamuscado y aturdido, y acaba esposado para responder ante Calista. Los demás se quedan a rescatar vecinos, curar y atender el desastre. Han liberado a Archi, pero no han salvado a todos. En el reparto de tareas dejan de vigilar a Danifae y la pierden de vista, con su paradero aún sin resolver.",
+  "afirmaciones": [
+    {
+      "id": "162-001",
+      "titulo": "Un acuerdo permite volver",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Banzo explica haber hablado con Calista y pactado una vinculación con Danifae: consideran inútil una cárcel desde la que aún obtiene información y ayuda. Ella sale, come y recupera equipo. Kurobane estudia el libro de los cultistas, Jin entrena y coordina tropas y Arwen contiene hordas del bosque con trampas tras la tragedia de Ukio.",
+      "inicio": "00:00:00.000",
+      "fin": "00:09:01.790",
+      "cita": "piezas en su pacto",
+      "entidades": [
+        "Banzo",
+        "Jin",
+        "Arwen",
+        "Kurobane",
+        "Danifae (grafía provisional)",
+        "Libros de investigación de Kurobane"
+      ],
+      "ambito": "Kuroto, sesión 162",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "162-002",
+      "titulo": "No basta con presentarse otra vez",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Banzo regresa con Danifae y R3. Arwen la saluda con afecto. Kurobane aparece y afirma estar libre de Osuray, pero el líder le recuerda que arrojó su collar y le exige decidir si quiere ser cazador. El ninja dice estar más tranquilo y dispuesto a ayudar; no se convierte su declaración en readmisión formal automática.",
+      "inicio": "00:09:01.800",
+      "fin": "00:19:02.549",
+      "cita": "Vale, me arrojaste el collar de los",
+      "entidades": [
+        "Banzo",
+        "Jin",
+        "Arwen",
+        "Channi (grafía provisional)",
+        "Kurobane",
+        "Danifae (grafía provisional)",
+        "R3 (autómata de Archi)",
+        "Libros de investigación de Kurobane"
+      ],
+      "ambito": "Kuroto, sesión 162",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "162-003",
+      "titulo": "Buscar donde menos protección hay",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "R3 proyecta un mapa con zonas rojas ya buscadas y naranjas pendientes, sin garantizar que las primeras estén vacías. Danifae propone buscar al demonio donde pueda causar más caos y señala Jakajara como mal defendida. El grupo toma esa pista como hipótesis y no como localización ya probada.",
+      "inicio": "00:18:00.760",
+      "fin": "00:25:03.269",
+      "cita": "con la forma de archi. Y las zonas rojas",
+      "entidades": [
+        "Banzo",
+        "Jin",
+        "Arwen",
+        "Channi (grafía provisional)",
+        "Kurobane",
+        "Danifae (grafía provisional)",
+        "R3 (autómata de Archi)",
+        "Archi",
+        "Entidad del cristal rojo de Archi",
+        "Jakajara (grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 162",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "162-004",
+      "titulo": "Una evaluación durante la misión",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Arwen vuela a buscar a Shisuka y Banzo promete esperarlas. Jin y el líder hablan en privado del acuerdo de no agresión con Danifae y deciden observar cómo actúa Kurobane antes de otra charla. La drow muestra al ninja un pergamino sin explicar su contenido completo. Vuelve Shisuka, se prepara y todos atraviesan el portal.",
+      "inicio": "00:24:01.919",
+      "fin": "00:39:00.510",
+      "cita": "de no agresión y te lo dice riéndose",
+      "entidades": [
+        "Banzo",
+        "Jin",
+        "Arwen",
+        "Channi (grafía provisional)",
+        "Kurobane",
+        "Danifae (grafía provisional)",
+        "Shisuka"
+      ],
+      "ambito": "Kuroto, sesión 162",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "162-005",
+      "titulo": "El pueblo está ardiendo",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Al llegar encuentran Jakajara destrozada, casas quemadas, muertos y demonios amenazando a vecinos. Danifae usa el látigo; Kurobane y Shisuka atacan. Gritos demoníacos aturden y dejan inconscientes a algunos cazadores, mientras Banzo abre paso a Arwen. La druida toma forma de árbol para proteger a un hombre que defiende una puerta.",
+      "inicio": "00:39:00.520",
+      "fin": "00:54:00.710",
+      "cita": "quemadas? Esta parte de atrás de la de",
+      "entidades": [
+        "Banzo",
+        "Jin",
+        "Arwen",
+        "Channi (grafía provisional)",
+        "Kurobane",
+        "Danifae (grafía provisional)",
+        "Shisuka",
+        "Jakajara (grafía provisional)",
+        "Látigo de tres serpientes de Danifae"
+      ],
+      "ambito": "Kuroto, sesión 162",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "162-006",
+      "titulo": "La confusión fragmenta la defensa",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "El ocupante de Archi lanza magia mientras demonios de rayos, oscuridad y confusión dividen al grupo. Jin queda confundido; Channi se atrapa con su propia enredadera. Banzo protege y atrae enemigos y Arwen sostiene una zona de curación mientras intenta auxiliar a los habitantes. No todos pueden actuar a voluntad ni las curas resuelven el control mental.",
+      "inicio": "00:54:00.720",
+      "fin": "01:21:01.709",
+      "cita": "confundido.",
+      "entidades": [
+        "Banzo",
+        "Jin",
+        "Arwen",
+        "Channi (grafía provisional)",
+        "Kurobane",
+        "Danifae (grafía provisional)",
+        "Shisuka",
+        "Archi",
+        "Entidad del cristal rojo de Archi",
+        "Jakajara (grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 162",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "162-007",
+      "titulo": "No alcanzan a salvar a todos",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Kurobane se incorpora y derrota un demonio; Shisuka adopta forma de oso. Channi se libera de su enredo y cura a Danifae. Arwen disipa la oscuridad y cura, pero un demonio devora la cabeza de un monje al que no llegan a proteger. También Banzo y Kurobane sufren confusión. Restauración mayor no la quita en esta resolución y después corrigen que sí podían repetir salvaciones al final de turno.",
+      "inicio": "01:21:01.719",
+      "fin": "01:48:01.109",
+      "cita": "aquí, va a ver al monje que está",
+      "entidades": [
+        "Banzo",
+        "Jin",
+        "Arwen",
+        "Channi (grafía provisional)",
+        "Kurobane",
+        "Danifae (grafía provisional)",
+        "Shisuka",
+        "Jakajara (grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 162",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "162-008",
+      "titulo": "Liberar al compañero antes de seguir",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Danifae localiza al ocupante invisible, que vuelve a desplazarse. Sus ataques rompen la concentración de un demonio y liberan por fin a Jin. Kurobane usa una copia de sombra; Banzo sigue sosteniendo el frente y Arwen despierta a Channi de su incapacidad. El ocupante responde con una gran explosión de fuego.",
+      "inicio": "01:48:01.119",
+      "fin": "02:15:00.790",
+      "cita": "Vale, tiradación de concentración.",
+      "entidades": [
+        "Banzo",
+        "Jin",
+        "Arwen",
+        "Channi (grafía provisional)",
+        "Kurobane",
+        "Danifae (grafía provisional)",
+        "Shisuka",
+        "Archi",
+        "Entidad del cristal rojo de Archi"
+      ],
+      "ambito": "Kuroto, sesión 162",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "162-009",
+      "titulo": "Hacer visible al enemigo",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Kurobane localiza al ocupante por percepción y lo ataca pese a la invisibilidad. Channi lanza rayo lunar y cura; Banzo lleva a Arwen hacia el foco. La detección de magia de ella no lo alcanza inicialmente. Finalmente Danifae hace que el gnomo brille y pierda la invisibilidad. Jin puede atacarlo y el grupo vuelve a concentrar sus esfuerzos.",
+      "inicio": "02:15:00.800",
+      "fin": "02:37:02.389",
+      "cita": "Vale, pues ves a Chani brillar, a Jin",
+      "entidades": [
+        "Banzo",
+        "Jin",
+        "Arwen",
+        "Channi (grafía provisional)",
+        "Kurobane",
+        "Danifae (grafía provisional)",
+        "Archi",
+        "Entidad del cristal rojo de Archi"
+      ],
+      "ambito": "Kuroto, sesión 162",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "162-010",
+      "titulo": "El nombre abre la prisión roja",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Banzo sujeta al cuerpo abrasador del gnomo mientras Arwen cura. Tras los ataques de Jin, Danifae pronuncia tres veces Tazgorat y emite luz: aparece la forma demoníaca separada y Archi sale de una gema roja en el collar de la criatura. La liberación muestra al verdadero inventor de nuevo presente, sin atribuir a este la voluntad del poseedor.",
+      "inicio": "02:36:01.840",
+      "fin": "02:48:00.870",
+      "cita": "que es Tazgorat, ¿vale? Pues lo va a",
+      "entidades": [
+        "Banzo",
+        "Jin",
+        "Arwen",
+        "Channi (grafía provisional)",
+        "Kurobane",
+        "Danifae (grafía provisional)",
+        "Archi",
+        "Entidad del cristal rojo de Archi",
+        "Tazgorat (grafía provisional)",
+        "Cristal rojo que encierra a Archi"
+      ],
+      "ambito": "Kuroto, sesión 162",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "162-011",
+      "titulo": "Un señor abisal cae",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "La criatura se declara señor abisal sin señor superior. Los cazadores continúan entre llamas, látigo, rayo lunar y curas de Arwen. Banzo remata al demonio, que explota y desaparece. La explosión alcanza también al gnomo liberado y al grupo, pero no provoca una muerte definitiva de los cazadores mostrados.",
+      "inicio": "02:48:00.880",
+      "fin": "03:07:00.990",
+      "cita": "Explota.",
+      "entidades": [
+        "Banzo",
+        "Jin",
+        "Arwen",
+        "Channi (grafía provisional)",
+        "Kurobane",
+        "Danifae (grafía provisional)",
+        "Archi",
+        "Entidad del cristal rojo de Archi",
+        "Tazgorat (grafía provisional)",
+        "Jakajara (grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 162",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    },
+    {
+      "id": "162-012",
+      "titulo": "Salvar al gnomo no acaba el trabajo",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Archi aparece aturdido y chamuscado. Banzo le pone esposas para llevarlo a palacio y hablar con Calista. Arwen, Jin, Kurobane y Channi deciden atender a heridos y rescatar habitantes de las llamas. Al no encargarse nadie expresamente de Danifae, la pierden de vista; el director no afirma todavía que haya escapado de Kuroto ni da su destino.",
+      "inicio": "03:06:00.200",
+      "fin": "03:10:16.080",
+      "cita": "unas esposas al nomo.",
+      "entidades": [
+        "Banzo",
+        "Jin",
+        "Arwen",
+        "Channi (grafía provisional)",
+        "Kurobane",
+        "Danifae (grafía provisional)",
+        "Archi",
+        "Jakajara (grafía provisional)"
+      ],
+      "ambito": "Kuroto, sesión 162",
+      "conocedores": [],
+      "conocimiento_personaje": "desconocido",
+      "confianza": "Alta para actos y declaraciones explícitos; las grafías provisionales requieren contraste de audio",
+      "limitacion": "Subtítulos automáticos, sin contraste de audio. Las propuestas, opiniones y promesas conservan su atribución y no equivalen a resultados ejecutados."
+    }
+  ],
+  "historia": {
+    "revisado_hasta": 162,
+    "etapas": [
+      {
+        "titulo": "Una mesa compartida no borra las deudas",
+        "texto": "Banzo consigue que Danifae salga de prisión mediante un pacto y ella recupera su equipo. Vuelve a la base con R3, entre los saludos de Arwen y la incomodidad que despierta en otros. Kurobane afirma estar más tranquilo tras liberarse de Osuray y estudia a los cultistas, pero el líder le recuerda que arrojó su collar: debe decidir qué quiere hacer. R3 proyecta los avances incompletos de la búsqueda de Archi. La drow propone mirar en Jakajara, un lugar poco protegido donde el demonio podría causar caos. Banzo y Jin acuerdan observar al ninja durante la misión. Esperan a Arwen, que recoge a Shisuka, y cruzan todos el portal.",
+        "referencias": [
+          "162-001",
+          "162-002",
+          "162-003",
+          "162-004"
+        ]
+      },
+      {
+        "titulo": "Llegan a una catástrofe en marcha",
+        "texto": "Jakajara arde entre demonios y vecinos atrapados. El grupo se despliega para proteger puertas y casas, pero los gritos, rayos y magia enemiga los fragmentan. Kurobane y Channi quedan incapacitados por momentos y Jin pasa gran parte de la lucha confundido. Channi se enreda con su propio hechizo; Banzo abre espacio y Arwen se transforma en árbol para sostener a los defensores. Shisuka adopta forma de oso. La druida disipa oscuridad y cura, pero no llega a todos: un demonio mata al monje ante ellos. La protección del pueblo sigue siendo una tarea urgente mientras el ocupante de Archi dispara sin dejarse ver.",
+        "referencias": [
+          "162-005",
+          "162-006",
+          "162-007"
+        ]
+      },
+      {
+        "titulo": "Encontrar a quien dispara desde ninguna parte",
+        "texto": "Danifae percibe al ocupante y rompe la concentración de un enemigo, liberando a Jin. Kurobane usa su sombra para atacar y Arwen despierta a Channi. El enemigo invisible sigue desplazándose y lanza fuego sobre los cazadores. Banzo transporta a la druida y Channi aporta rayo lunar y curas, hasta que Danifae consigue que el gnomo brille y deje de ocultarse. Pueden por fin concentrar ataques. Banzo sujeta al cuerpo que quema y Arwen mantiene al grupo en pie, mientras Jin descarga todo lo que antes le impidió hacer la confusión.",
+        "referencias": [
+          "162-008",
+          "162-009",
+          "162-010"
+        ]
+      },
+      {
+        "titulo": "Archi vuelve; alguien falta",
+        "texto": "Danifae pronuncia tres veces Tazgorat y fuerza la separación: la criatura muestra forma demoníaca y el verdadero Archi sale de una gema roja de su collar. El señor abisal se proclama independiente y combate todavía entre llamas y golpes. Banzo lo remata; su explosión alcanza a todos y el demonio desaparece. El inventor sobrevive, chamuscado y aturdido, y acaba esposado para responder ante Calista. Los demás se quedan a rescatar vecinos, curar y atender el desastre. Han liberado a Archi, pero no han salvado a todos. En el reparto de tareas dejan de vigilar a Danifae y la pierden de vista, con su paradero aún sin resolver.",
+        "referencias": [
+          "162-010",
+          "162-011",
+          "162-012"
+        ]
+      }
+    ]
+  },
+  "misiones": [
+    "Atender a Jakajara y sus supervivientes.",
+    "Llevar a Archi ante Calista y esclarecer su posesión.",
+    "Localizar a Danifae tras perderla de vista.",
+    "Definir la vuelta de Kurobane a los cazadores."
+  ],
+  "preguntas": [
+    "¿Dónde está Danifae después de la victoria?",
+    "¿Qué decidirán Calista y los cazadores sobre Archi y su responsabilidad?",
+    "¿Ha decidido Kurobane reincorporarse establemente a los cazadores?"
+  ],
+  "nombres_dudosos": [
+    "Tazgorat: nombre leído explícitamente para revelar al poseedor; identidad propuesta con Entidad del cristal rojo de Archi por continuidad directa.",
+    "Jakajara/Hakajara/Tonkejara: topónimo ASR provisional del pueblo atacado."
+  ],
+  "contradicciones": [
+    "El director corrige que confusión sí permite salvaciones al final de turno; no se presenta el error inicial como facultad permanente.",
+    "Archi sale físicamente de la gema. Se distingue su voluntad de la del demonio.",
+    "Perder de vista a Danifae no confirma por sí solo una fuga fuera de Kuroto."
+  ]
+}

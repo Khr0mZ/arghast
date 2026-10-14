@@ -5,6 +5,12 @@ import { spawn } from 'node:child_process';
 import { fileURLToPath, pathToFileURL } from 'node:url';
 const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
 const output=path.join(root,'.pruebas','interfaz');
+const suppliedPalettes=JSON.parse(await fs.readFile(path.join(root,'config/paletas_campanas.json'),'utf8')).campanas;
+const expectedMaterialKeys=Object.fromEntries(await Promise.all(['xoltacan','kuroto'].map(async id=>{
+  const uri='data:image/webp;base64,'+(await fs.readFile(path.join(root,'web/assets',id+'-panel-paleta.webp'))).toString('base64');
+  return [id,uri.length+':'+uri.slice(-64)];
+})));
+
 await fs.mkdir(output,{recursive:true});
 const binaries=['C:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe','C:/Program Files/Google/Chrome/Application/chrome.exe'];
 let binary;for(const candidate of binaries){try{await fs.access(candidate);binary=candidate;break;}catch{}}
@@ -32,11 +38,54 @@ try {
   const route=async hash=>{await evaluate('location.hash='+JSON.stringify(hash));await sleep(160);};
   const screenshot=async name=>{const shot=await call('Page.captureScreenshot',{format:'png',captureBeyondViewport:false});await fs.writeFile(path.join(output,name+'.png'),Buffer.from(shot.data,'base64'));};
   const checks=[];
+  const checkThematicFont=async(family,weight,selector)=>{
+    const text='Cr\u00f3nicas \u00c1\u00c9\u00cd\u00d3\u00da\u00dc\u00d1 \u00e1\u00e9\u00ed\u00f3\u00fa\u00fc\u00f1 \u00bf\u00a1';
+    await call('DOM.enable');await call('CSS.enable');
+    await evaluate(`(async()=>{await document.fonts.load(${JSON.stringify(weight+' 24px "'+family+'"')},${JSON.stringify(text)});await document.fonts.ready;const p=document.createElement('span');p.id='font-probe';p.textContent=${JSON.stringify(text)};Object.assign(p.style,{fontFamily:${JSON.stringify(family)},fontWeight:${JSON.stringify(String(weight))},fontSize:'24px',fontSynthesis:'none',position:'absolute',left:'-10000px'});document.body.append(p);p.getBoundingClientRect();await new Promise(resolve=>requestAnimationFrame(()=>requestAnimationFrame(resolve)))})()`);
+    const {root:dom}=await call('DOM.getDocument',{depth:0});
+    const {nodeId}=await call('DOM.querySelector',{nodeId:dom.nodeId,selector:'#font-probe'});
+    const {fonts}=await call('CSS.getPlatformFontsForNode',{nodeId});
+    if(!fonts.length)throw new Error('No se renderizo la muestra de '+family);
+    const normalized=family.replace(/\s+/g,'').toLowerCase();
+    await check(family+' carga localmente y dibuja todos los acentos sin sustituciones: '+fonts.map(f=>f.familyName).join(', '),JSON.stringify(fonts.length>0&&fonts.every(f=>f.isCustomFont&&f.familyName.replace(/\s+/g,'').toLowerCase().includes(normalized))));
+    await check('El titulo usa '+family,'getComputedStyle(document.querySelector('+JSON.stringify(selector)+')).fontFamily.includes('+JSON.stringify(family)+')');
+    await evaluate('document.getElementById("font-probe").remove()');
+  };
+
+  const checkSuppliedPalette=async id=>{
+    await check('Los 16 HEX de '+id+' coinciden con los proporcionados','(()=>{const style=getComputedStyle(document.body);return '+JSON.stringify(suppliedPalettes[id])+'.every((hex,i)=>style.getPropertyValue("--palette-"+String(i+1).padStart(2,"0")).trim().toUpperCase()===hex)})()');
+    const allowed=suppliedPalettes[id].map(hex=>'rgb('+[1,3,5].map(i=>parseInt(hex.slice(i,i+2),16)).join(', ')+')');
+    await check('Texto, cifras y bordes principales usan la paleta de '+id,'(()=>{const allowed='+JSON.stringify(allowed)+';return [".hero-title",".hero-copy",".stat strong",".stat span"].every(s=>allowed.includes(getComputedStyle(document.querySelector(s)).color))&&[".stat",".expedition-link"].every(s=>allowed.includes(getComputedStyle(document.querySelector(s)).borderTopColor))})()');
+  };
+
+  const checkViewFinish=async()=>{
+    await check('Scrollbar fina con colores de la vista','getComputedStyle(document.documentElement).scrollbarWidth==="thin"&&getComputedStyle(document.getElementById("sidebar")).scrollbarWidth==="thin"&&getComputedStyle(document.documentElement).scrollbarColor!=="auto"');
+    await check('Drawer alineado a la derecha','getComputedStyle(document.getElementById("sidebar")).backgroundPositionX.split(",").every(p=>p.trim()==="100%")');
+  };
+
+  const paletteContrast=()=>{
+    const luminance=color=>{const rgb=color.match(/[\d.]+/g).slice(0,3).map(Number).map(v=>{v/=255;return v<=.04045?v/12.92:((v+.055)/1.055)**2.4;});return rgb[0]*.2126+rgb[1]*.7152+rgb[2]*.0722;};
+    const ratio=(a,b)=>{const x=luminance(a),y=luminance(b);return (Math.max(x,y)+.05)/(Math.min(x,y)+.05);};
+    return ['.primary-button','.secondary-button','.stat span','.hero-copy','.nav-links a.active'].every(selector=>{
+      const element=document.querySelector(selector),style=getComputedStyle(element);
+      const surface=selector==='.stat span'?getComputedStyle(element.closest('.stat')):selector==='.hero-copy'?getComputedStyle(element.closest('.hero')):style;
+      const stops=surface.backgroundImage.match(/rgb\([^)]+\)/g)||[surface.backgroundColor];
+      return stops.every(color=>ratio(style.color,color)>=4.5);
+    });
+  };
+
+  const checkCover=async()=>{
+    await check('Portada completa sin texto ni botones superpuestos', '(()=>{const art=document.querySelector(".hero-art"),copy=document.querySelector(".hero>div:first-child"),a=art.getBoundingClientRect(),b=copy.getBoundingClientRect();return getComputedStyle(art).backgroundSize==="contain"&&(a.left>=b.right-1||a.bottom<=b.top+1||a.top>=b.bottom-1)})()');
+  };
+  const sectionNames={personajes:'Personajes',atlas:'Lugares',facciones:'Facciones',objetos:'Vestigios',misiones:'Misiones',relaciones:'Relaciones',misterios:'Misterios y desenlaces'};
+  const homeNavigation=()=>JSON.stringify({actions:[...document.querySelectorAll('.hero .hero-actions a')].map(a=>[a.textContent.trim(),a.getAttribute('href'),a.getAttribute('target')||'']),categories:[...document.querySelectorAll('.expedition-link')].map(a=>[a.querySelector('strong').textContent,a.getAttribute('href')]),stats:[...document.querySelectorAll('.stat')].map(a=>[a.querySelector('span').textContent,a.getAttribute('href')]),menu:[...document.querySelectorAll('#sidebar .nav-links a')].map(a=>[a.textContent.trim(),a.getAttribute('href')]),archive:[...document.querySelectorAll('.archive-actions a')].map(a=>[a.textContent,a.getAttribute('href')])});
   for(let i=0;i<70;i++){if(await evaluate('!!document.querySelector(".hero")'))break;await sleep(150);}
   await call('Emulation.setDeviceMetricsOverride',{width:1440,height:1080,deviceScaleFactor:1,mobile:false});
   await check('Portada cargada desde archivo local','!!document.querySelector(".hero-title") && !!document.querySelector(".hero-art")');
   await check('Paisaje selvático integrado y decodificable sin conexión','(async()=>{const url=getComputedStyle(document.querySelector(".hero-art")).backgroundImage.slice(5,-2);if(!url.startsWith("data:image/webp;base64,"))return false;const image=new Image();image.src=url;await image.decode();return image.naturalWidth>1000})()');
-  await check('Accesos de exploración de la isla','document.querySelectorAll(".expedition-links a").length===3');
+  await check('Accesos a las seis secciones comunes de la campaña','document.querySelectorAll(".expedition-links a").length===6');
+  await check('La portada abre las crónicas y los misterios dentro del archivo','JSON.stringify([...document.querySelectorAll(".hero .hero-actions a")].map(a=>a.getAttribute("href")))===JSON.stringify(["#capitulos","#misterios"])&&![...document.querySelectorAll(".hero .hero-actions a")].some(a=>a.target==="_blank")');
+  const xoltacanHomeNavigation=await evaluate('('+homeNavigation.toString()+')()');
   await check('39 episodios y 946 registros reales','(()=>{const d=JSON.parse(document.getElementById("xoltacan-data").textContent);return d.chapters.length===39&&d.facts.length===946&&Object.keys(d.transcripts).length===39})()');
   await check('Sin categoría editorial de contradicciones','![...document.querySelectorAll("#sidebar a")].some(a=>a.hash==="#contradicciones")');
   await check('Una ficha por nombre canónico','(()=>{const d=JSON.parse(document.getElementById("xoltacan-data").textContent);const n=d.entities.map(e=>e.name.normalize("NFD").replace(/[\\u0300-\\u036f]/g,"").toLowerCase());return n.length===new Set(n).size})()');
@@ -65,6 +114,7 @@ try {
   for(const section of ['misterios','misiones','relaciones','nombres','metodo']){await route('#'+section);if(section==='misterios')await evaluate('document.querySelector("details.context-details").open=true');await check('Documento '+section,'document.querySelector(".document").innerText.length>100');}
   for(const [section,type] of [['personajes','personaje'],['atlas','lugar'],['facciones','faccion'],['objetos','objeto']]){
     await route('#'+section);
+    await check('Nombre común de la sección '+section+' en Xoltacan','document.getElementById("page-title").textContent==='+JSON.stringify(sectionNames[section])+'&&document.querySelector("#content h1").textContent==='+JSON.stringify(sectionNames[section]));
     await check('Catálogo exclusivo de '+section,`(()=>{const d=JSON.parse(document.getElementById("xoltacan-data").textContent);const names=[...document.querySelectorAll(".entity-card .card-title")].map(e=>e.textContent);return names.length>0&&names.every(n=>d.entities.find(e=>e.name===n).type===${JSON.stringify(type)})})()`);
     await check('Sin selector de categorías duplicado en '+section,'!document.querySelector("[data-filter=entityType]")');
   }
@@ -142,16 +192,93 @@ try {
     for(let i=0;i<100;i++){try{ready=await evaluate(`document.body.dataset.campaign===${JSON.stringify(id)}&&document.body.dataset.view==='campaign'&&!!document.querySelector('.hero')`);}catch{}if(ready)break;await sleep(150);}
     if(!ready)throw new Error('No cargó la campaña '+id);
   };
+  await call('Emulation.setDeviceMetricsOverride',{width:1440,height:1080,deviceScaleFactor:1,mobile:false});
+  await route('#inicio');
+  const sharedComponentStyles=()=>JSON.stringify(['body','.topbar','#campaign-selector','.nav-links a.active','.primary-button','.secondary-button','.stat','.expedition-link'].map(selector=>{const style=getComputedStyle(document.querySelector(selector));return ['backgroundColor','backgroundImage','color','borderRadius','borderColor','fontFamily','fontSize','padding','boxShadow'].map(key=>style[key]);}));
+  const xoltacanComponents=await evaluate('('+sharedComponentStyles.toString()+')()');
+  const backgroundInfo=async(selector,pseudo=null)=>{const style=getComputedStyle(document.querySelector(selector),pseudo);const match=style.backgroundImage.match(/url\("?(data:image\/webp;base64,[^")]+)"?\)/);if(!match)return null;const img=new Image();img.src=match[1];await img.decode();return {width:img.naturalWidth,height:img.naturalHeight,key:match[1].length+':'+match[1].slice(-64),position:style.position,pointerEvents:style.pointerEvents};};
+  const readBackground=(selector,pseudo=null)=>evaluate('('+backgroundInfo.toString()+')('+JSON.stringify(selector)+','+JSON.stringify(pseudo)+')');
+  const xoltacanBackground=await readBackground('.workspace','::before');
+  const xoltacanDrawer=await readBackground('#sidebar');
+  const xoltacanCover=await readBackground('.hero-art');
+  const xoltacanMaterial=await readBackground('.hero');
+  await checkThematicFont('Macondo',400,'.hero-title');
+  const xoltacanHeader=await readBackground('.topbar');
+  await check('La topbar de Xoltacan carga su textura exclusiva',JSON.stringify(!!xoltacanHeader&&xoltacanHeader.width>1500&&xoltacanHeader.key!==xoltacanMaterial.key));
+  await check('Xoltacan abre la textura recoloreada con la paleta aportada',JSON.stringify(xoltacanMaterial?.key===expectedMaterialKeys.xoltacan));
+  await check('Xoltacan tiene material ilustrado propio en los paneles',JSON.stringify(!!xoltacanMaterial&&xoltacanMaterial.key!==xoltacanCover.key&&xoltacanMaterial.key!==xoltacanBackground.key));
+  await check('Bordes y cifras coherentes en Xoltacan','new Set([...document.querySelectorAll(".stat")].map(e=>getComputedStyle(e).borderTopColor)).size===1&&new Set([...document.querySelectorAll(".stat strong")].map(e=>getComputedStyle(e).color)).size===1&&new Set([...document.querySelectorAll(".expedition-link")].map(e=>getComputedStyle(e).borderLeftColor)).size===1');
+  await checkViewFinish();
+  await check('Portada directa sin lemas decorativos','document.querySelector(".hero-title").textContent==="Xoltacan"&&!document.querySelector(".brand-subtitle,.topbar-seal,.sidebar-note")');
+  await check('Textos y controles de Xoltacan conservan contraste legible','('+paletteContrast.toString()+')()');
+  await check('Xoltacan usa el amarillo oficial','getComputedStyle(document.querySelector(".primary-button")).backgroundImage.includes("rgb(233, 230, 38)")');
+  await checkSuppliedPalette('xoltacan');
+  await checkCover();
+  await check('Logo de Lichpol integrado y decodificable sin conexi\u00f3n','(async()=>{const img=document.querySelector(".brand-symbol");await img.decode();return img.tagName==="IMG"&&img.naturalWidth===176&&img.src.startsWith("data:image/webp;base64,")})()');
+  await screenshot('xoltacan-fondos-escritorio');
+  await call('Emulation.setDeviceMetricsOverride',{width:390,height:844,deviceScaleFactor:1,mobile:true});
+  await evaluate('document.getElementById("menu-toggle").click()');await sleep(250);
+  await checkCover();
+  await screenshot('xoltacan-drawer-movil');
+  await evaluate('document.getElementById("menu-toggle").click()');
+  await call('Emulation.setDeviceMetricsOverride',{width:1440,height:1080,deviceScaleFactor:1,mobile:false});
+  await check('Xoltacan tiene fondo selvático en toda el área de contenido',JSON.stringify(!!xoltacanBackground&&xoltacanBackground.width>1000&&xoltacanBackground.position==='fixed'&&xoltacanBackground.pointerEvents==='none'));
   await route('#campanas');
   await check('Arghast tiene un selector y dos campañas independientes','document.title==="Arghast · Archivo de campañas"&&document.querySelectorAll(".world-campaign").length===2&&document.getElementById("campaign-selector").value===""');
+  const worldBackground=await readBackground('.workspace','::before');
+  const worldSidebar=await readBackground('#sidebar');
+  await checkThematicFont('Cinzel',600,'.world-hero h1');
+  const worldHeader=await readBackground('.topbar');
+  const worldHero=await readBackground('.world-hero');
+  await check('Arghast tiene textura de topbar y atlas propios',JSON.stringify(!!worldHeader&&!!worldHero&&worldHeader.key!==worldHero.key&&worldHero.key!==worldBackground.key));
+  await check('El atlas resume las campanas y cronicas reales','document.querySelector(".world-summary").textContent.includes("220")&&document.querySelectorAll(".world-summary strong")[0].textContent==="2"');
+  await checkViewFinish();
+  await check('Arghast conserva el mapa oficial en el contenido y una ilustración exclusiva en el drawer',JSON.stringify(!!worldBackground&&!!worldSidebar&&worldBackground.width===2048&&worldBackground.height===1536&&worldBackground.key!==worldSidebar.key));
+  await check('Arghast usa los colores del mapa y conserva su color original','getComputedStyle(document.body).backgroundColor==="rgb(41, 62, 67)"&&getComputedStyle(document.querySelector(".workspace"),"::before").filter==="none"');
   await check('Enlaces de campaña conservan la selección en la URL','[...document.querySelectorAll(".world-campaign")].every(a=>new URL(a.href).searchParams.has("campana"))');
-  await screenshot('arghast-movil');
+  await call('Emulation.setDeviceMetricsOverride',{width:390,height:844,deviceScaleFactor:1,mobile:true});
+  await sleep(300);await screenshot('arghast-movil');
+  await evaluate('document.getElementById("menu-toggle").click()');await sleep(250);
+  await screenshot('arghast-drawer-movil');
+  await evaluate('document.getElementById("menu-toggle").click()');
   await call('Emulation.setDeviceMetricsOverride',{width:1440,height:1080,deviceScaleFactor:1,mobile:false});
   await screenshot('arghast-escritorio');
   await chooseCampaign('kuroto');
+  await check('Las portadas comparten nombres, categorías y destinos de botones','('+homeNavigation.toString()+')()==='+JSON.stringify(xoltacanHomeNavigation));
+  const kurotoBackground=await readBackground('.workspace','::before');
+  const kurotoDrawer=await readBackground('#sidebar');
+  const kurotoCover=await readBackground('.hero-art');
+  const kurotoMaterial=await readBackground('.hero');
+  await checkThematicFont('Kaisei Tokumin',700,'.hero-title');
+  const kurotoHeader=await readBackground('.topbar');
+  await check('Cada topbar tiene una textura diferente',JSON.stringify(!!kurotoHeader&&new Set([xoltacanHeader.key,worldHeader.key,kurotoHeader.key]).size===3&&kurotoHeader.key!==kurotoMaterial.key));
+  await check('Kuroto abre la textura recoloreada con la paleta aportada',JSON.stringify(kurotoMaterial?.key===expectedMaterialKeys.kuroto));
+  await check('Kuroto tiene material ilustrado distinto de Xoltacan y su portada',JSON.stringify(!!kurotoMaterial&&kurotoMaterial.key!==kurotoCover.key&&kurotoMaterial.key!==kurotoBackground.key&&kurotoMaterial.key!==xoltacanMaterial.key));
+  await check('Bordes y cifras coherentes en Kuroto','new Set([...document.querySelectorAll(".stat")].map(e=>getComputedStyle(e).borderTopColor)).size===1&&new Set([...document.querySelectorAll(".stat strong")].map(e=>getComputedStyle(e).color)).size===1&&new Set([...document.querySelectorAll(".expedition-link")].map(e=>getComputedStyle(e).borderLeftColor)).size===1');
+  await checkViewFinish();
+  await check('Textos y controles de Kuroto conservan contraste legible','('+paletteContrast.toString()+')()');
+  await checkCover();
+  await check('Los tres drawers cargan ilustraciones verticales sin conexión',JSON.stringify([worldSidebar,xoltacanDrawer,kurotoDrawer].every(b=>b&&b.width<b.height&&b.width>700)));
+  await check('Las cinco imágenes nuevas son exclusivas de sus respectivos usos',JSON.stringify(new Set([worldSidebar,xoltacanDrawer,kurotoDrawer,xoltacanBackground,kurotoBackground].map(b=>b.key)).size===5));
+  await check('Las portadas conservan ilustraciones diferentes de los fondos y drawers',JSON.stringify(!!xoltacanCover&&!!kurotoCover&&new Set([worldSidebar,xoltacanDrawer,kurotoDrawer,xoltacanBackground,kurotoBackground,xoltacanCover,kurotoCover,worldBackground].map(b=>b.key)).size===8));
+  await check('Kuroto tiene fondo oriental propio en toda el área de contenido',JSON.stringify(!!kurotoBackground&&kurotoBackground.width>1000&&kurotoBackground.position==='fixed'&&kurotoBackground.pointerEvents==='none'));
+  await check('Cada ámbito utiliza su propia imagen de fondo',JSON.stringify(new Set([xoltacanBackground.key,worldBackground.key,kurotoBackground.key]).size===3));
+  await check('Kuroto conserva una identidad distinta en botones, navegación y paneles','('+sharedComponentStyles.toString()+')()!=='+JSON.stringify(xoltacanComponents));
+  await check('Kuroto usa el coral oficial','getComputedStyle(document.querySelector(".primary-button")).backgroundImage.includes("rgb(236, 141, 133)")');
+  await checkSuppliedPalette('kuroto');
   await check('Selector abre Kuroto con su propia portada','location.search.includes("campana=kuroto")&&document.title.includes("Kuroto")&&!!document.querySelector(".kuroto-hero")');
-  await check('Kuroto distingue transcripciones y revisión editorial','document.querySelector(".campaign-status").textContent.includes("pendientes de lectura editorial")&&document.querySelector(".campaign-status").textContent.includes("1 sesión revisada")');
+  await check('Kuroto muestra el alcance real de la revisión','(()=>{const d=JSON.parse(document.getElementById("xoltacan-data").textContent).campaigns.kuroto;const reviewed=d.chapters.filter(c=>c.estado==="revisado").length;const status=document.querySelector(".campaign-status");return reviewed===d.chapters.length?!status:!!status&&status.textContent.includes(String(reviewed)+" ")&&status.textContent.includes("pendientes de lectura editorial")})()');
+  await check('Las 181 sesiones tienen relato completo y evidencias propias','(()=>{const d=JSON.parse(document.getElementById("xoltacan-data").textContent).campaigns.kuroto;return d.chapters.length===181&&d.chapters.every(c=>c.estado==="revisado"&&c.resumen.split(/\\s+/).length>300&&c.history?.etapas.length&&c.history.etapas.map(s=>s.texto).join(" ")===c.resumen&&c.history.etapas.every(s=>s.referencias.every(r=>Number(r.split("-")[0])===c.capitulo)))})()');
+  await check('Personajes, lugares, facciones y objetos de Kuroto tienen historia con fuentes','(()=>{const d=JSON.parse(document.getElementById("xoltacan-data").textContent).campaigns.kuroto;return ["personaje","lugar","faccion","objeto"].every(t=>d.entities.some(e=>e.type===t))&&d.entities.every(e=>e.history?.etapas.length&&e.history.etapas.every(s=>s.texto.length>30&&s.referencias.length))})()');
+  await check('La ilustración de Kuroto está integrada y abre sin conexión','(async()=>{const background=getComputedStyle(document.querySelector(".kuroto-hero .hero-art")).backgroundImage;const urls=[...background.matchAll(/url\\("?(data:image\\/webp;base64,[^"\\)]+)"?\\)/g)];if(!urls.length)return false;const image=new Image();image.src=urls[0][1];await image.decode();return image.naturalWidth>1000})()');
+  await check('Los alias reúnen las historias de Gelbreak y R3 en una ficha','(()=>{const es=JSON.parse(document.getElementById("xoltacan-data").textContent).campaigns.kuroto.entities;return es.filter(e=>e.name.startsWith("Gelbreak")).length===1&&es.filter(e=>e.name.startsWith("R3 (")).length===1&&es.find(e=>e.name.startsWith("Gelbreak")).history.etapas.some(s=>s.referencias.some(r=>r.startsWith("168-")))})()');
   await screenshot('kuroto-escritorio');
+  await call('Emulation.setDeviceMetricsOverride',{width:390,height:844,deviceScaleFactor:1,mobile:true});
+  await evaluate('document.getElementById("menu-toggle").click()');await sleep(250);
+  await checkCover();
+  await screenshot('kuroto-drawer-movil');
+  await evaluate('document.getElementById("menu-toggle").click()');
+  await call('Emulation.setDeviceMetricsOverride',{width:1440,height:1080,deviceScaleFactor:1,mobile:false});
   await route('#capitulos');
   await check('Catálogo completo de Kuroto sin renumerar','(()=>{const cards=[...document.querySelectorAll(".chapter-card")];return cards.length===181&&cards.some(a=>a.hash==="#capitulo/182")&&!cards.some(a=>a.hash==="#capitulo/92")})()');
   await check('169 y 170 siguen orden numérico','(()=>{const links=[...document.querySelectorAll(".chapter-card")].map(a=>Number(a.hash.split("/")[1]));return links.indexOf(169)<links.indexOf(170)})()');
@@ -168,17 +295,29 @@ try {
   await evaluate('document.querySelector("[data-tab=transcripcion]").click()');
   for(let i=0;i<100;i++){if(await evaluate('!!document.querySelector(".transcript-row")'))break;await sleep(150);}
   await check('La última sesión abre su propio archivo de subtítulos','document.querySelectorAll(".transcript-row").length===120&&document.querySelector(".transcript-row a").href.includes("iop3TS6EwO8")');
-  await route('#capitulo/96');
-  await evaluate('document.querySelector("[data-tab=transcripcion]").click()');
-  await check('La sesión sin subtítulos conserva su estado verificado','!document.querySelector(".transcript-row")&&document.getElementById("content").textContent.includes("Este vídeo no ofrece subtítulos")');
+  for(const number of [96,135,136]){
+    await route('#capitulo/'+number);
+    await evaluate('document.querySelector("[data-tab=transcripcion]").click()');
+    for(let i=0;i<100;i++){if(await evaluate('!!document.querySelector(".transcript-row")'))break;await sleep(150);}
+    await check('La sesión '+number+' identifica su transcripción local','document.querySelectorAll(".transcript-row").length===120&&document.getElementById("content").textContent.includes("Whisper")');
+  }
+  await check('Todas las preguntas de Kuroto están cotejadas hasta el epílogo','(()=>{const s=JSON.parse(document.getElementById("xoltacan-data").textContent).campaigns.kuroto.seguimiento;return s.preguntas.length>700&&s.por_actualizar===0&&!s.estados.sin_revisar&&s.preguntas.every(q=>q.revisado_hasta===182&&!q.requiere_actualizacion)})()');
   for(const section of ['personajes','atlas','facciones','objetos','misterios','misiones','relaciones','busqueda/Ione']){
     await route('#'+section);
+    if(sectionNames[section])await check('Nombre común de la sección '+section+' en Kuroto','document.getElementById("page-title").textContent==='+JSON.stringify(sectionNames[section])+'&&document.querySelector("#content h1").textContent==='+JSON.stringify(sectionNames[section]));
     await check('Kuroto aislado en '+section,'document.body.dataset.campaign==="kuroto"&&![...document.querySelectorAll(".entity-card .card-title,.event h3")].some(node=>/Ione|Bonnie|Shiaru/.test(node.textContent))');
   }
   await route('#entidad/Tokugawa');
-  await check('Historia del personaje con alcance y evidencias','document.querySelectorAll(".story-stage").length===3&&document.querySelector(".story-heading").textContent.includes("Hasta el capítulo 1")');
+  await screenshot('kuroto-ficha-paleta');
+  await check('Historia del personaje con alcance y evidencias','document.querySelectorAll(".story-stage").length>=3&&(()=>{const d=JSON.parse(document.getElementById("xoltacan-data").textContent).campaigns.kuroto;const h=d.entities.find(e=>e.name==="Tokugawa").history;return document.querySelector(".story-heading").textContent.includes("Hasta el capítulo "+h.revisado_hasta)})()');
   await evaluate('document.querySelector(".story-sources a").click()');await sleep(250);
   await check('Las evidencias enlazan el vídeo de Kuroto','!!document.querySelector(".quote")&&document.querySelector(".evidence a").href.includes("KkZZR81onIw")');
+  await route('#capitulo/2');
+  await check('La segunda sesión tiene su propio relato completo','document.querySelectorAll(".story-stage").length===6&&document.getElementById("content").textContent.includes("reparar")');
+  await route('#facciones');
+  await check('La facción documentada tiene ficha propia','[...document.querySelectorAll(".entity-card .card-title")].some(node=>node.textContent.includes("Familia Baki"))');
+  await route('#pregunta/K01-P03');
+  await check('Una pregunta anterior se resuelve con evidencia posterior','document.querySelector(".question-card").dataset.status==="resuelta"&&document.getElementById("content").textContent.includes("cincuenta monedas de plata")&&[...document.querySelectorAll(".evidence a")].some(a=>a.href.includes("5d8fEcawLU0"))');
   await route('#busqueda/Bonnie');
   await check('Buscar Bonnie en Kuroto no devuelve hechos de Xoltacan','!document.querySelector(".event")');
   for(const width of [320,390,768]){
@@ -190,9 +329,15 @@ try {
   }
   await route('#inicio');await screenshot('kuroto-movil');
   await chooseCampaign('xoltacan');
+  const restoredBackground=await readBackground('.workspace','::before');
+  await check('Volver a Xoltacan recupera su fondo sin arrastrar el de Kuroto',JSON.stringify(restoredBackground?.key===xoltacanBackground.key));
   await check('Volver a Xoltacan restaura sus datos y limpia la búsqueda','!!document.querySelector(".hero-art")&&!document.querySelector(".kuroto-hero")&&document.getElementById("global-search").value===""');
   await route('#capitulo/1');
   await check('La ficha 1 de Xoltacan vuelve a ser la correcta','document.getElementById("page-title").textContent.includes("barco estampado")&&document.querySelector("a[target=_blank]").href.includes("ZXhsunFOVdQ")');
+  const directKuroto=new URL('kuroto.html',siteURL);
+  await call('Page.navigate',{url:directKuroto.href});
+  for(let i=0;i<100;i++){try{if(await evaluate('location.pathname.endsWith("/kuroto.html")&&document.body.dataset.campaign==="kuroto"&&!!document.querySelector(".kuroto-hero")'))break;}catch{}await sleep(150);}
+  await check('Kuroto tiene una entrada propia con su campaña seleccionada','location.pathname.endsWith("/kuroto.html")&&document.getElementById("campaign-selector").value==="kuroto"&&!!document.querySelector(".kuroto-hero")');
   if(errors.length)throw new Error('Errores JavaScript: '+JSON.stringify(errors));
   console.log(JSON.stringify({resultado:'OK',comprobaciones:checks.length,pruebas:checks,capturas:output},null,2));
   await send('Browser.close');

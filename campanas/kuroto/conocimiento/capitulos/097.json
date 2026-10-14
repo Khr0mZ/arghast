@@ -1,0 +1,270 @@
+{
+  "capitulo": 97,
+  "estado_revision": "revisado",
+  "fuente_sha256": "53e8069caa389ad1ec0afd8438ad2761630112d47f2c7f411b4f07805dda333f",
+  "resumen": "Después del baile, Calista se mantiene ocupada con nobles, contratos y archivos, y procura que Shizuka reciba visitas. Katari también pasa tiempo con la niña, vigila la recuperación de Erk y atiende sus vínculos con los sueños. Aka sigue dirigiendo tropas y prepara una futura reunión de estrategia. Gelbreak, en cambio, continúa molesto por haber sido obligado a asistir a la fiesta. Blaze aparece con herramientas y anuncia una sorpresa: ha trabajado en el portal, asegura que ya no provocará mareos y ha desbloqueado un nuevo destino. El grupo atraviesa para comprobarlo y encuentra una playa con sol y mar, muy lejos de las preocupaciones habituales de Kuroto. Min, amiga de Blaze, describe el refugio como un enclave entre planos elementales y advierte a Calista de que no debe nadar más allá de los límites, aunque el horizonte parezca abierto. La calma extraordinaria del agua inquieta a la tritón. Varios quieren regresar enseguida, pero el portal no reabrirá hasta la noche. La anfitriona propone juegos y un premio mientras esperan. Para salir de la cabaña deben ponerse bañador, regla que vuelve a convertir a Gelbreak en blanco de las bromas: solo queda para él un traje de patitos. Calista lo convence con Amigos y apenas puede sostener la magia cuando empieza a reírse de su aspecto. Los insultos y un intento de respuesta mágica del drow provocan una piña y la intervención de la anfitriona. Jin y Shizuka aparecen también: pretendían viajar de Ukio a Sho y el portal modificado los ha llevado por accidente a la playa. Las parejas quedan fijadas: Aka con Katari, Jin con Shizuka, Min con Blaze y Calista con Gelbreak. Los dos últimos se resisten, pero la promesa de un premio consigue que participen. La primera prueba consiste en guiar a un compañero vendado hasta una sandía para romperla. Jin y Shizuka no consiguen completarla, mientras Aka y Katari cooperan con cariño pese a los errores de orientación. Calista, por su parte, conduce deliberadamente al drow contra unas cajas. Gelbreak resuelve su turno y devuelve la broma de una forma mucho más intimidante: utiliza su voz para que ella lo tema y avance aterrada. La tritón termina la prueba, pero se refugia junto a Aka y pide cambiar de pareja o retirarse. La anfitriona mantiene los equipos y golpea al drow con una piña para romper el miedo. La adjudicación da punto tanto a la pareja de Aka como a la de los dos rivales. La natación por parejas, con una cuerda atada a los pies, agrava el conflicto. Para igualar las condiciones, Min anula las adaptaciones acuáticas de Calista y rechaza las transformaciones y conjuros que facilitarían la carrera. La emisaria vive el cambio como una privación de lo que es: no controla su cuerpo con naturalidad y apenas puede nadar como esperaba. Gelbreak debe arrastrarla durante algunos tramos y los dos acumulan acusaciones de estorbarse. Intentan modificar la situación con agua y viento, teletransporte, caminar sobre el agua, una serpiente y cambios de tamaño; varias maniobras son canceladas o penalizadas, y el salto del drow los devuelve a la salida al caer en una trampa. Las cajas con premios aportan ventajas a otros equipos. Aka y Katari terminan ganando sin aquellas trampas. Al acabar la carrera Calista recupera sus aletas y membranas, pero la restitución no borra su enfado con Min. El banquete de despedida encuentra a Calista y Gelbreak apartados y molestos, mientras Aka y Katari sí han disfrutado de la jornada. Como premio, Aka pide un adorno espiritual que recuerde a su pareja su procedencia; se lo coloca por detrás y le susurra unas palabras. La posibilidad de una boda aparece en la conversación, sin una fecha ni ceremonia acordada. Min ofrece cincuenta monedas de platino, quinientas de oro, para pagarla y pide que la inviten. Shizuka también quiere asistir y Aka se lo promete si finalmente se casan. Los dos rivales encuentran un breve interés común en no seguir contemplando la felicidad de las vencedoras: Calista lanza niebla, Gelbreak añade oscuridad y ambos escapan riéndose antes de recuperar su distancia habitual. Aka cuestiona la salida porque ha dejado sus obligaciones militares sin una autorización clara. La anfitriona afirma haber hablado con sus superiores, pero los propios jugadores reconocen la mentira y las intervenciones mágicas permiten sostenerla durante la conversación. La comandante termina pidiendo que la avisen con antelación la próxima vez. Cuando por fin cae la noche todos regresan. Min indica que podrán volver a visitar el refugio, pero no todos desean hacerlo: Calista se sienta de nuevo con sus documentos y califica la jornada de pérdida de tiempo; Gelbreak coincide, añade una última pulla sobre la compañía y se va a su habitación. La escapada deja un premio afectivo para Aka y Katari, un nuevo destino de portal y un resentimiento compartido por otros invitados, sin una agresión final contra la anfitriona.",
+  "afirmaciones": [
+    {
+      "id": "97-001",
+      "titulo": "Contactos ya trabajados y una sorpresa de Blaze",
+      "tipo": "declaracion_personaje",
+      "afirmacion": "Calista dice que ha visitado nobles y firmado contratos desde el baile, además de visitar a Shizuka y consultar los archivos. Aka tiene pendiente una reunión estratégica con un noble. Blaze prepara una sorpresa y afirma haber modificado el portal para evitar mareos y abrir un destino nuevo.",
+      "inicio": "00:00:00.000",
+      "fin": "00:14:40.000",
+      "entidades": [
+        "Calista",
+        "Aka (grafía provisional)",
+        "Blaze (grafía provisional)",
+        "Shizuka (grafía provisional)"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "No se muestran el contenido ni las partes concretas de todos los contratos; no se dan por cumplidas automáticamente todas las citas de 096.",
+      "cita": "un montón de contratos, etcétera,",
+      "evidencia_cue": {
+        "inicio": "00:01:17.400",
+        "fin": "00:01:18.789"
+      }
+    },
+    {
+      "id": "97-002",
+      "titulo": "Una playa con salida aplazada",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "El portal conduce a una playa que Min, amiga de Blaze, describe como un lugar entre planos elementales. El agua parece antinaturalmente tranquila y Min advierte de no nadar fuera de sus límites. La salida no volverá a abrirse hasta la noche, pese al deseo inmediato de varios de regresar.",
+      "inicio": "00:14:30.000",
+      "fin": "00:22:00.000",
+      "entidades": [
+        "Playa entre los planos elementales",
+        "Min (grafía provisional)",
+        "Blaze (grafía provisional)",
+        "Calista",
+        "Hermano de Danifae (nombre pendiente)",
+        "Aka (grafía provisional)",
+        "Katari (grafía provisional)"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "La explicación cosmológica es de Min; el enclave se visita realmente. No se representa un peligro para toda la campaña por el simple cambio de destino.",
+      "cita": "Uh, es un lugar entre planos.",
+      "evidencia_cue": {
+        "inicio": "00:16:13.360",
+        "fin": "00:16:18.870"
+      }
+    },
+    {
+      "id": "97-003",
+      "titulo": "Bañadores, resistencia y huéspedes inesperados",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Los invitados deben ponerse bañador para salir de la cabaña. Calista persuade con Amigos a Gelbreak para aceptar el único traje masculino que queda, de patitos, y se ríe al verlo. El drow reacciona con insultos y un conjuro que la anfitriona neutraliza. Jin y Shizuka llegan por el portal que intentaban usar entre Ukio y Sho.",
+      "inicio": "00:21:00.000",
+      "fin": "00:41:00.000",
+      "entidades": [
+        "Min (grafía provisional)",
+        "Hermano de Danifae (nombre pendiente)",
+        "Calista",
+        "Jin",
+        "Shizuka (grafía provisional)",
+        "Blaze (grafía provisional)"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "El traslado de Jin y Shizuka no fue una invitación consciente suya; el capítulo recalca que el portal había sido modificado.",
+      "cita": "También ha dicho que también hay trajes",
+      "evidencia_cue": {
+        "inicio": "00:22:39.840",
+        "fin": "00:22:41.909"
+      }
+    },
+    {
+      "id": "97-004",
+      "titulo": "La sandía y el miedo dentro del juego",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "En la prueba de romper sandías con los ojos vendados, Calista guía a Gelbreak contra cajas a propósito. En el turno inverso el drow le provoca miedo mediante su voz para que avance, dejándola aterrada. Ambas parejas, ellos y Aka con Katari, reciben punto al conseguir romper la fruta. Min golpea a Gelbreak con una piña para terminar el efecto sobre Calista.",
+      "inicio": "00:44:50.000",
+      "fin": "01:18:20.000",
+      "entidades": [
+        "Calista",
+        "Hermano de Danifae (nombre pendiente)",
+        "Aka (grafía provisional)",
+        "Katari (grafía provisional)",
+        "Min (grafía provisional)"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "La burla inicial no equivale a que Calista conozca el mecanismo del miedo. La adjudicación final da punto a ambas parejas pese a la diferencia de desempeño.",
+      "cita": "si me tiene miedo. Huye de mí recto.",
+      "evidencia_cue": {
+        "inicio": "01:06:13.000",
+        "fin": "01:06:17.069"
+      }
+    },
+    {
+      "id": "97-005",
+      "titulo": "Una carrera con el cuerpo alterado",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "En la carrera de natación por parejas atadas, Min anula las adaptaciones acuáticas de Calista para igualar condiciones y restringe magia. La tritón se indigna y apenas puede nadar con normalidad. Ella y Gelbreak prueban corrientes, teletransporte, caminar sobre el agua y cambios de tamaño, pero Aka y Katari ganan. Al terminar recupera su cuerpo habitual.",
+      "inicio": "01:18:15.000",
+      "fin": "01:54:30.000",
+      "entidades": [
+        "Calista",
+        "Hermano de Danifae (nombre pendiente)",
+        "Min (grafía provisional)",
+        "Aka (grafía provisional)",
+        "Katari (grafía provisional)"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "Los trucos tienen aceptaciones, cancelaciones y retrocesos dentro del minijuego; no se convierten en reglas permanentes ni en una pérdida duradera de la naturaleza tritón.",
+      "cita": "transformación. No tiene aletas el",
+      "evidencia_cue": {
+        "inicio": "01:21:04.080",
+        "fin": "01:21:06.110"
+      }
+    },
+    {
+      "id": "97-006",
+      "titulo": "Un premio espiritual y dinero para una posible boda",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Min declara vencedoras a Aka y Katari. Aka pide un adorno espiritual que recuerde a Katari su origen y se lo coloca como colgante. La anfitriona ofrece 50 monedas de platino, equivalentes a 500 de oro, para una eventual boda. Shizuka quiere asistir y Aka le promete invitación si se casan.",
+      "inicio": "01:58:30.000",
+      "fin": "02:05:30.000",
+      "entidades": [
+        "Aka (grafía provisional)",
+        "Katari (grafía provisional)",
+        "Min (grafía provisional)",
+        "Colgante espiritual de Katari",
+        "Shizuka (grafía provisional)"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "No hay boda ni fecha fijada. La aclaración final destina la bolsa a pagar la boda, no 500 monedas individuales para cada participante.",
+      "cita": "es. 500 monedas de oro en platino.",
+      "evidencia_cue": {
+        "inicio": "02:03:14.360",
+        "fin": "02:03:18.069"
+      }
+    },
+    {
+      "id": "97-007",
+      "titulo": "Una tregua traviesa no borra el enfado",
+      "tipo": "hecho_confirmado",
+      "afirmacion": "Calista y Gelbreak lanzan niebla y oscuridad sobre la pareja vencedora y salen corriendo juntos antes de volver a distanciarse. Aka descubre que la anfitriona no recibió realmente permiso de sus superiores para traerla. Al anochecer regresan a la base: Calista retoma sus papeles molesta y Gelbreak se retira a su habitación, también enfadado.",
+      "inicio": "02:00:00.000",
+      "fin": "02:12:40.000",
+      "entidades": [
+        "Calista",
+        "Hermano de Danifae (nombre pendiente)",
+        "Aka (grafía provisional)",
+        "Katari (grafía provisional)",
+        "Min (grafía provisional)",
+        "Blaze (grafía provisional)"
+      ],
+      "ambito": "Kuroto",
+      "conocedores": [
+        "presentes en la escena"
+      ],
+      "conocimiento_personaje": "atestiguado",
+      "confianza": "alta",
+      "limitacion": "Los comentarios sobre ahogar a la anfitriona son pullas finales, no un intento ejecutado. La paz entre los dos bardos solo es momentánea.",
+      "cita": "superiores. Eh, la próxima vez por lo",
+      "evidencia_cue": {
+        "inicio": "02:08:30.480",
+        "fin": "02:08:33.189"
+      }
+    }
+  ],
+  "historia": {
+    "revisado_hasta": 97,
+    "etapas": [
+      {
+        "titulo": "Un descanso preparado sin consultar a todos",
+        "texto": "Después del baile, Calista se mantiene ocupada con nobles, contratos y archivos, y procura que Shizuka reciba visitas. Katari también pasa tiempo con la niña, vigila la recuperación de Erk y atiende sus vínculos con los sueños. Aka sigue dirigiendo tropas y prepara una futura reunión de estrategia. Gelbreak, en cambio, continúa molesto por haber sido obligado a asistir a la fiesta. Blaze aparece con herramientas y anuncia una sorpresa: ha trabajado en el portal, asegura que ya no provocará mareos y ha desbloqueado un nuevo destino. El grupo atraviesa para comprobarlo y encuentra una playa con sol y mar, muy lejos de las preocupaciones habituales de Kuroto.",
+        "referencias": [
+          "97-001",
+          "97-002"
+        ]
+      },
+      {
+        "titulo": "El paraíso que algunos no querían visitar",
+        "texto": "Min, amiga de Blaze, describe el refugio como un enclave entre planos elementales y advierte a Calista de que no debe nadar más allá de los límites, aunque el horizonte parezca abierto. La calma extraordinaria del agua inquieta a la tritón. Varios quieren regresar enseguida, pero el portal no reabrirá hasta la noche. La anfitriona propone juegos y un premio mientras esperan. Para salir de la cabaña deben ponerse bañador, regla que vuelve a convertir a Gelbreak en blanco de las bromas: solo queda para él un traje de patitos. Calista lo convence con Amigos y apenas puede sostener la magia cuando empieza a reírse de su aspecto. Los insultos y un intento de respuesta mágica del drow provocan una piña y la intervención de la anfitriona. Jin y Shizuka aparecen también: pretendían viajar de Ukio a Sho y el portal modificado los ha llevado por accidente a la playa.",
+        "referencias": [
+          "97-002",
+          "97-003"
+        ]
+      },
+      {
+        "titulo": "Competir en pareja con alguien que te enfada",
+        "texto": "Las parejas quedan fijadas: Aka con Katari, Jin con Shizuka, Min con Blaze y Calista con Gelbreak. Los dos últimos se resisten, pero la promesa de un premio consigue que participen. La primera prueba consiste en guiar a un compañero vendado hasta una sandía para romperla. Jin y Shizuka no consiguen completarla, mientras Aka y Katari cooperan con cariño pese a los errores de orientación. Calista, por su parte, conduce deliberadamente al drow contra unas cajas. Gelbreak resuelve su turno y devuelve la broma de una forma mucho más intimidante: utiliza su voz para que ella lo tema y avance aterrada. La tritón termina la prueba, pero se refugia junto a Aka y pide cambiar de pareja o retirarse. La anfitriona mantiene los equipos y golpea al drow con una piña para romper el miedo. La adjudicación da punto tanto a la pareja de Aka como a la de los dos rivales.",
+        "referencias": [
+          "97-004"
+        ]
+      },
+      {
+        "titulo": "Una carrera que Calista deja de sentir como un juego",
+        "texto": "La natación por parejas, con una cuerda atada a los pies, agrava el conflicto. Para igualar las condiciones, Min anula las adaptaciones acuáticas de Calista y rechaza las transformaciones y conjuros que facilitarían la carrera. La emisaria vive el cambio como una privación de lo que es: no controla su cuerpo con naturalidad y apenas puede nadar como esperaba. Gelbreak debe arrastrarla durante algunos tramos y los dos acumulan acusaciones de estorbarse. Intentan modificar la situación con agua y viento, teletransporte, caminar sobre el agua, una serpiente y cambios de tamaño; varias maniobras son canceladas o penalizadas, y el salto del drow los devuelve a la salida al caer en una trampa. Las cajas con premios aportan ventajas a otros equipos. Aka y Katari terminan ganando sin aquellas trampas. Al acabar la carrera Calista recupera sus aletas y membranas, pero la restitución no borra su enfado con Min.",
+        "referencias": [
+          "97-005"
+        ]
+      },
+      {
+        "titulo": "Un colgante, una dote y una broma compartida",
+        "texto": "El banquete de despedida encuentra a Calista y Gelbreak apartados y molestos, mientras Aka y Katari sí han disfrutado de la jornada. Como premio, Aka pide un adorno espiritual que recuerde a su pareja su procedencia; se lo coloca por detrás y le susurra unas palabras. La posibilidad de una boda aparece en la conversación, sin una fecha ni ceremonia acordada. Min ofrece cincuenta monedas de platino, quinientas de oro, para pagarla y pide que la inviten. Shizuka también quiere asistir y Aka se lo promete si finalmente se casan. Los dos rivales encuentran un breve interés común en no seguir contemplando la felicidad de las vencedoras: Calista lanza niebla, Gelbreak añade oscuridad y ambos escapan riéndose antes de recuperar su distancia habitual.",
+        "referencias": [
+          "97-006",
+          "97-007"
+        ]
+      },
+      {
+        "titulo": "Regresar con nuevas heridas y una puerta reutilizable",
+        "texto": "Aka cuestiona la salida porque ha dejado sus obligaciones militares sin una autorización clara. La anfitriona afirma haber hablado con sus superiores, pero los propios jugadores reconocen la mentira y las intervenciones mágicas permiten sostenerla durante la conversación. La comandante termina pidiendo que la avisen con antelación la próxima vez. Cuando por fin cae la noche todos regresan. Min indica que podrán volver a visitar el refugio, pero no todos desean hacerlo: Calista se sienta de nuevo con sus documentos y califica la jornada de pérdida de tiempo; Gelbreak coincide, añade una última pulla sobre la compañía y se va a su habitación. La escapada deja un premio afectivo para Aka y Katari, un nuevo destino de portal y un resentimiento compartido por otros invitados, sin una agresión final contra la anfitriona.",
+        "referencias": [
+          "97-007"
+        ]
+      }
+    ]
+  },
+  "misiones": [
+    "Probar el nuevo destino del portal: playa visitada y regreso al anochecer; Min permite nuevas visitas.",
+    "Juegos por parejas: Aka y Katari ganan, reciben adorno y bolsa para una eventual boda.",
+    "Reunión de estrategia de Aka con un noble: sigue pendiente al empezar la sesión."
+  ],
+  "preguntas": [
+    "¿Celebrarán Aka y Katari una boda y qué decidirán hacer con la bolsa destinada a ella?",
+    "¿Cómo afectará a la confianza en Blaze y Min la salida sin regreso inmediato y los cambios impuestos en los juegos?",
+    "¿Qué información buscaba Calista entre los archivos de los cazadores?"
+  ],
+  "nombres_dudosos": [
+    "Min/Mi/Mine: amiga con cuernos de Blaze y anfitriona del refugio; grafía provisional.",
+    "La referencia final a reina de los súcubos surge en comentarios de mesa sobre bañadores; no se impone como identidad demostrada sin contraste.",
+    "No se fija nombre propio a la playa, ni un poder específico al adorno espiritual."
+  ],
+  "contradicciones": [
+    "Min dice haber obtenido permiso de los superiores de Aka, pero la propia mesa trata la afirmación como engaño y juega con repetir la tirada para sostenerlo.",
+    "La carrera se modifica sobre la marcha: se abrevia el recorrido y se corrige que gana quien llega primero, no último. Se preserva el resultado final sin convertir cada instrucción inicial en regla estable.",
+    "El dinero del premio se corrige a 50 platinos equivalentes a 500 de oro destinados a la boda; no se afirma 500 para cada invitado."
+  ]
+}

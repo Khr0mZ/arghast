@@ -1,0 +1,277 @@
+{
+  "xoltacan": {
+    "source": "xolta.jpg",
+    "regions": {
+      "sky": [
+        {
+          "hex": "#6994af",
+          "pixels": 8337
+        },
+        {
+          "hex": "#84aac2",
+          "pixels": 8185
+        },
+        {
+          "hex": "#598194",
+          "pixels": 6651
+        },
+        {
+          "hex": "#b1cad1",
+          "pixels": 6227
+        }
+      ],
+      "stone": [
+        {
+          "hex": "#998080",
+          "pixels": 8862
+        },
+        {
+          "hex": "#f3dcbd",
+          "pixels": 8503
+        },
+        {
+          "hex": "#5d7285",
+          "pixels": 7324
+        },
+        {
+          "hex": "#a99f9d",
+          "pixels": 6811
+        }
+      ],
+      "jungle": [
+        {
+          "hex": "#b0c1b6",
+          "pixels": 30610
+        },
+        {
+          "hex": "#c3d7cb",
+          "pixels": 27434
+        },
+        {
+          "hex": "#848a6c",
+          "pixels": 25724
+        },
+        {
+          "hex": "#32362c",
+          "pixels": 24232
+        }
+      ],
+      "water": [
+        {
+          "hex": "#615c4d",
+          "pixels": 6088
+        },
+        {
+          "hex": "#747457",
+          "pixels": 6075
+        },
+        {
+          "hex": "#44453c",
+          "pixels": 5728
+        },
+        {
+          "hex": "#949a66",
+          "pixels": 5509
+        }
+      ]
+    },
+    "sha256": "96082c64bdbb6823ac1241a6cd3cd1440a87dffc0e283b440a7f0e978dd156b4"
+  },
+  "kuroto": {
+    "source": "kuroto.jpg",
+    "regions": {
+      "paper": [
+        {
+          "hex": "#fff0cf",
+          "pixels": 12047
+        },
+        {
+          "hex": "#fff2ce",
+          "pixels": 7015
+        },
+        {
+          "hex": "#c1d3bc",
+          "pixels": 4782
+        },
+        {
+          "hex": "#fbf3d3",
+          "pixels": 2156
+        }
+      ],
+      "sky": [
+        {
+          "hex": "#abd5c3",
+          "pixels": 6240
+        },
+        {
+          "hex": "#fff0cf",
+          "pixels": 6230
+        },
+        {
+          "hex": "#efebcd",
+          "pixels": 1529
+        },
+        {
+          "hex": "#b7c1ac",
+          "pixels": 1401
+        }
+      ],
+      "mountain": [
+        {
+          "hex": "#fff2d1",
+          "pixels": 21214
+        },
+        {
+          "hex": "#6eb0a8",
+          "pixels": 14336
+        },
+        {
+          "hex": "#308281",
+          "pixels": 12574
+        },
+        {
+          "hex": "#f0eed2",
+          "pixels": 7876
+        }
+      ],
+      "blossom": [
+        {
+          "hex": "#d78883",
+          "pixels": 18673
+        },
+        {
+          "hex": "#fbc2b0",
+          "pixels": 18541
+        },
+        {
+          "hex": "#b0c7b8",
+          "pixels": 12250
+        },
+        {
+          "hex": "#8e4847",
+          "pixels": 12136
+        }
+      ],
+      "ink": [
+        {
+          "hex": "#103f44",
+          "pixels": 10366
+        },
+        {
+          "hex": "#c3cbba",
+          "pixels": 7631
+        },
+        {
+          "hex": "#07282d",
+          "pixels": 7053
+        },
+        {
+          "hex": "#507b75",
+          "pixels": 6950
+        }
+      ]
+    },
+    "sha256": "47e24d44b33fbc9ea7ce3e537f1ed78eb692d6aba68c92551e8e96515b157910"
+  },
+  "arghast": {
+    "source": "arghast.webp",
+    "regions": {
+      "sea": [
+        {
+          "hex": "#50686e",
+          "pixels": 9088
+        },
+        {
+          "hex": "#546c72",
+          "pixels": 8721
+        },
+        {
+          "hex": "#4d666c",
+          "pixels": 7440
+        },
+        {
+          "hex": "#486368",
+          "pixels": 6951
+        }
+      ],
+      "land": [
+        {
+          "hex": "#4f4223",
+          "pixels": 19451
+        },
+        {
+          "hex": "#7f8a7d",
+          "pixels": 13360
+        },
+        {
+          "hex": "#5c512d",
+          "pixels": 12858
+        },
+        {
+          "hex": "#45381e",
+          "pixels": 11831
+        }
+      ],
+      "sand": [
+        {
+          "hex": "#af864f",
+          "pixels": 32318
+        },
+        {
+          "hex": "#ad8048",
+          "pixels": 28231
+        },
+        {
+          "hex": "#7b603b",
+          "pixels": 14184
+        },
+        {
+          "hex": "#ac9670",
+          "pixels": 12067
+        }
+      ],
+      "snow": [
+        {
+          "hex": "#e3e7ea",
+          "pixels": 14111
+        },
+        {
+          "hex": "#6d8383",
+          "pixels": 10439
+        },
+        {
+          "hex": "#a8b0af",
+          "pixels": 10373
+        },
+        {
+          "hex": "#d3d7d8",
+          "pixels": 6677
+        }
+      ]
+    },
+    "sha256": "44e3cebf32ac43e9c7d7a791e8f42bf8d59534091121d2ef6b09590abcd170a6"
+  },
+  "method": "Four-color quantization of selected landscape regions; avoids central titles and creator logos. UI variants adjusted for contrast.",
+  "selected": {
+    "xoltacan": {
+      "foliage": "#32362c",
+      "sky": "#6994af",
+      "stone": "#f3dcbd",
+      "stone_shadow": "#998080"
+    },
+    "kuroto": {
+      "paper": "#fff0cf",
+      "water_green": "#308281",
+      "sky": "#abd5c3",
+      "blossom": "#d78883",
+      "blossom_light": "#fbc2b0",
+      "ink": "#103f44"
+    },
+    "arghast": {
+      "sea": "#50686e",
+      "land": "#4f4223",
+      "sand": "#af864f",
+      "snow": "#e3e7ea"
+    }
+  }
+}

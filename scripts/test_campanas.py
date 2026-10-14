@@ -3,11 +3,31 @@ import json
 import tempfile
 import unittest
 from pathlib import Path
-from campanas import build_kuroto, build_world
+from campanas import build_kuroto, build_world, validate_story, mission_text
 from construir_interfaz import build_data
 
 
 class CampaignTests(unittest.TestCase):
+    def test_structured_mission_keeps_authored_result_and_citations(self):
+        text = mission_text({'titulo': 'Rescatar al joyero', 'estado': 'parcial',
+                             'descripcion': 'Sale de la cueva, pero necesita atención.', 'referencias': ['57-011']})
+        self.assertIn('Sale de la cueva, pero necesita atención.', text)
+        self.assertIn('parcial', text)
+        self.assertIn('57-011', text)
+        self.assertEqual(mission_text('Entrega pendiente.'), 'Entrega pendiente.')
+
+    def test_story_cannot_use_a_later_revelation_before_its_review(self):
+        story = {'revisado_hasta': 1, 'etapas': [
+            {'titulo': 'Un acuerdo', 'texto': 'El señor paga a los cazadores.', 'referencias': ['02-025']}]}
+        with self.assertRaisesRegex(ValueError, 'posterior a su revisión'):
+            validate_story(story, {'02-025': {'capitulo': 2}}, 'La casa')
+
+    def test_chapter_story_cannot_borrow_evidence_from_another_session(self):
+        story = {'revisado_hasta': 2, 'etapas': [
+            {'titulo': 'El pago', 'texto': 'La venta queda pagada.', 'referencias': ['01-007']}]}
+        with self.assertRaisesRegex(ValueError, 'otra sesión'):
+            validate_story(story, {'01-007': {'capitulo': 1}}, 'Capítulo 2', chapter=2)
+
     def fixture(self, folder):
         (folder / 'fuentes').mkdir()
         (folder / 'catalogo.json').write_text(json.dumps({'episodios': [
