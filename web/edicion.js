@@ -11,12 +11,14 @@ window.createArchiveEditor=function({data,campaignId,content,refresh,lettering})
   const toggle=document.createElement('button');toggle.type='button';toggle.className='secondary-button editor-exit';toggle.textContent='Salir de edición';toggle.hidden=true;footer.append(toggle);
   const status=document.createElement('span');status.className='editor-status';status.setAttribute('role','status');footer.append(status);
   const snapshot=()=>Object.fromEntries(keys.map(k=>[k,clone(data[k])]));
+  const service=location.hostname==='khr0mz.github.io'?'https://arghast-editor.ivan-osorio440384.chatgpt.site':'';
   async function request(path,body){
-    const response=await fetch('/api/editor'+path,{method:body?'POST':'GET',cache:'no-store',headers:body?{'Content-Type':'application/json',...(token?{Authorization:'Bearer '+token}:{})}:{},...(body?{body:JSON.stringify(body)}:{})});
+    const response=await fetch(service+'/api/editor'+path,{method:body?'POST':'GET',cache:'no-store',headers:body?{'Content-Type':'application/json',...(token?{Authorization:'Bearer '+token}:{})}:{},...(body?{body:JSON.stringify(body)}:{})});
     let result;try{result=await response.json();}catch{throw new Error('No se ha podido conectar con el servicio de edición.');}
     if(!response.ok){if(response.status===401){token='';toggle.hidden=true;if(!active)refresh();}throw new Error(result.error||'No se ha podido guardar.');}return result;
   }
   function apply(result){
+    if(result.original)result={...result,content:clone(original)};
     for(const c of data.chapters){const rows=data.transcripts[String(c.capitulo)];if(rows?.length)sourceRows[c._source??String(c.capitulo)]=rows;}
     revision=result.revision;versions=result.history;for(const k of keys)data[k]=result.content[k];
     data.transcripts={};data.transcriptFiles={};

@@ -32,9 +32,23 @@ Los lectores obtienen las correcciones sin código al abrir la página y cada 30
 
 Las correcciones y su historial se guardan en `.local/edicion/correcciones.sqlite3`, fuera de Git y separadas de los originales. Copiar ese archivo con el servidor detenido para hacer una copia de seguridad. Reiniciar el servidor no pierde correcciones. La primera corrección completa guarda una versión del archivo de campaña; las posteriores parten de esa versión. Si se incorporan nuevas sesiones al HTML base, hay que reconciliarlas con el archivo editado antes de sustituir la base publicada, para no ocultarlas bajo una versión anterior. Esta edición es del contenido de las campañas, no del código, los estilos o las ilustraciones de la web.
 
-## Alcance de esta versión
+## Servicio online
 
-El servidor escucha solo en este equipo. El HTML abierto con doble clic continúa permitiendo consultar el archivo, pero no guardar correcciones compartidas. La versión de GitHub Pages por sí sola tampoco puede guardarlas: para uso entre jugadores es necesario alojar el servicio con almacenamiento persistente y HTTPS y servir el archivo desde el mismo origen. Esta versión no publica ni configura servicios externos. El código de ejemplo es conocido y debe cambiarse en el servicio si se quiere restringir quién puede editar.
+La web publicada utiliza el servicio de edición de Sites, con almacenamiento
+persistente R2. Los jugadores no necesitan ejecutar nada en local ni iniciar
+sesión: entran en el enlace habitual y teclean el código. El servicio valida el
+código y conserva las correcciones y el historial entre dispositivos y reinicios.
+La configuración y el procedimiento de actualización están en
+[`online/README.md`](../online/README.md).
+
+## Uso local
+
+El servidor Python escucha solo en este equipo y mantiene sus correcciones en
+SQLite local, separado del servicio online. El HTML abierto con doble clic permite
+consultar el archivo, pero no guardar correcciones compartidas. GitHub Pages sirve
+la web y las transcripciones; Sites aporta la API HTTPS y el almacenamiento de
+las correcciones online. El código compartido es conocido por quien puede ver el
+cliente; proporciona el acceso acordado para el grupo, no identifica a cada jugador.
 
 Pruebas:
 
