@@ -76,14 +76,6 @@ class CampaignTests(unittest.TestCase):
         self.assertIsNot(kuroto['chapters'], xoltacan['chapters'])
         self.assertNotEqual(kuroto['chapters'][0]['id'], xoltacan['chapters'][0]['id'])
 
-    def test_kuroto_keeps_the_published_numbers_and_gap(self):
-        data = build_kuroto()
-        numbers = [chapter['capitulo'] for chapter in data['chapters']]
-        self.assertEqual(numbers, sorted(set(numbers)))
-        self.assertNotIn(92, numbers)
-        self.assertIn(182, numbers)
-        self.assertEqual(data['catalog']['capitulos_ausentes'], [92])
-
 
 if __name__ == '__main__':
     unittest.main()

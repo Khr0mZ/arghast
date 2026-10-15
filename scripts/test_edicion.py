@@ -16,10 +16,18 @@ class EditionTest(unittest.TestCase):
         (ROOT / '.pruebas').mkdir(parents=True, exist_ok=True)
         self.temp = tempfile.TemporaryDirectory(dir=ROOT / '.pruebas')
         self.database = Path(self.temp.name) / 'edits.sqlite3'
+        self.public = Path(self.temp.name) / 'public'
+        self.public.mkdir()
+        (self.public / 'arghast.html').write_bytes((ROOT / 'arghast.html').read_bytes())
+        # Verificar el servicio de archivos sin depender de derivados locales
+        # que se generan después de las pruebas en el flujo de publicación.
+        transcript = self.public / 'transcripciones/kuroto/001.js'
+        transcript.parent.mkdir(parents=True)
+        transcript.write_text('globalThis.arghastTranscripts = {};', encoding='utf-8')
         self.start()
 
     def start(self):
-        self.server = ArchiveServer(('127.0.0.1', 0), ROOT, self.database, 'showmethemoney')
+        self.server = ArchiveServer(('127.0.0.1', 0), self.public, self.database, 'showmethemoney')
         self.thread = threading.Thread(target=self.server.serve_forever, daemon=True)
         self.thread.start()
         self.url = f'http://127.0.0.1:{self.server.server_port}'

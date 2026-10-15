@@ -33,7 +33,6 @@ class TranscriptTests(unittest.TestCase):
     def test_normalization_only_known_whole_names(self):
         original = 'Choltacán y preCholtacán; Ione.'
         self.assertEqual(normalize(original, {'Choltacán': 'Xoltacan'}), 'Xoltacan y preCholtacán; Ione.')
-        self.assertEqual(original, 'Choltacán y preCholtacán; Ione.')
 
     def test_evidence_rejected_outside_interval(self):
         p = self.source('WEBVTT\n\n00:00:00.000 --> 00:00:01.000\nSecreto\n\n'

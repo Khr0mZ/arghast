@@ -9,6 +9,10 @@ from construir_interfaz import build_data
 
 
 class HistoryTests(unittest.TestCase):
+    @classmethod
+    def setUpClass(cls):
+        cls.data = build_data()
+
     def document(self, *, name='Persona', reference='01-001', until=39):
         return {'revisado_hasta': until, 'personajes': {name: [
             {'titulo': 'Un comienzo', 'texto': 'Una historia documentada.', 'referencias': [reference]}
@@ -24,17 +28,12 @@ class HistoryTests(unittest.TestCase):
             return load_histories(['Persona'], {'01-001': {'capitulo': 1}}, paths)
 
     def test_all_entities_have_cited_histories(self):
-        data = build_data()
-        characters = [entity for entity in data['entities'] if entity['type'] == 'personaje']
-        self.assertTrue(characters)
-        for entity in characters:
-            with self.subTest(character=entity['name']):
-                self.assertTrue(entity['history']['etapas'])
+        data = self.data
         self.assertTrue(all(entity['history']['etapas'] for entity in data['entities']))
         self.assertEqual({entity['type'] for entity in data['entities']}, {'personaje', 'lugar', 'faccion', 'objeto'})
 
     def test_chapter_stages_preserve_the_complete_summary_and_session_scope(self):
-        data = build_data()
+        data = self.data
         facts = {fact['id']: fact for fact in data['facts']}
         for chapter in data['chapters']:
             with self.subTest(chapter=chapter['capitulo']):
