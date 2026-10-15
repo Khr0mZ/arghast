@@ -29,6 +29,16 @@ LABELS = [
     'Buscar una facción', 'Buscar un vestigio', 'Estado', 'Capítulo',
     'Evidencia', 'Resultados de búsqueda', 'Buscar en esta transcripción',
     'Buscar una pregunta o respuesta',
+    'Activar edición', 'Salir de edición', 'Editar contenido', 'Activar',
+    'Cancelar', 'Guardar cambios', 'Cerrar', 'Usar esta versión',
+    'Administrar contenido', 'Nueva entrada', 'Eliminar entrada',
+    'Guardar eliminación', 'Aplicar estructura', 'Añadir elemento',
+    'Quitar', 'Subir', 'Bajar', 'Añadir',
+    'Editar',
+    'Añadir campo', 'Quitar campo', 'Cambiar nombre', 'Añadir etapa',
+    'Añadir selección',
+    'Quitar etapa',
+    'Deshacer eliminación',
 ]
 
 

@@ -6,7 +6,7 @@
   const campaignId=Object.hasOwn(campaignMetadata,requestedCampaign)?requestedCampaign:'xoltacan';
   const campaign=campaignMetadata[campaignId];
   const data = campaignId==='xoltacan'?archive:archive.campaigns[campaignId];
-  const reviewedCount=data.chapters.filter(chapter=>chapter.estado==='revisado').length;
+  let reviewedCount=data.chapters.filter(chapter=>chapter.estado==='revisado').length;
   const content = document.getElementById('content');
   const searchInput = document.getElementById('global-search');
   const facts = new Map(data.facts.map(f => [f.id, f]));
@@ -73,7 +73,8 @@
     transcriptLoads.set(number,script);
     script.src=new URL(file,location.href).href;
     const finish=ok=>{
-      const rows=globalThis.arghastTranscripts?.[campaignId+'/'+number];
+      const sourceNumber=chapters.get(n)?._source??number;
+      const rows=globalThis.arghastTranscripts?.[campaignId+'/'+sourceNumber];
       if(ok&&Array.isArray(rows)&&rows.length)data.transcripts[number]=rows;
       else transcriptErrors.add(number);
       transcriptLoads.delete(number);script.remove();
@@ -117,7 +118,7 @@
   function entityCard(e) {
     const storyRefs=e.history?.etapas.flatMap(stage=>stage.referencias)||[];
     const ns=[...new Set([...e.facts,...storyRefs].map(id=>facts.get(id).capitulo))].sort((a,b)=>a-b);
-    const preview=e.history?.etapas[0]?.texto || e.description || facts.get(e.facts[0]).titulo;
+    const preview=e.history?.etapas[0]?.texto || e.description || facts.get(e.facts[0])?.titulo || '';
     const invitation={personaje:'Leer su historia',lugar:'Conocer el lugar',faccion:'Conocer la facción',objeto:'Seguir su recorrido'}[e.type];
     return `<a class="card entity-card" data-kind="${esc(e.type)}" href="${routeEntity(e.name)}">${crest(e.type)}<span class="card-tag">${entityType(e.name)}</span><h3 class="card-title">${esc(e.name)}</h3><p class="card-copy">${esc(short(preview,240))}</p>${e.history?`<span class="story-invitation">${invitation} <span aria-hidden="true">↗</span></span>`:''}<div class="card-meta"><span>${e.facts.length} ${e.facts.length===1?'registro':'registros'}</span><span>Cap. ${String(ns[0]).padStart(2,'0')}–${String(ns.at(-1)).padStart(2,'0')} ${icons.arrow}</span></div></a>`;
   }
@@ -241,7 +242,7 @@
     const e=entities.get(name)||entityAliases.get(name); if(!e)return missing();
     const category=categories[e.type];
     heading(e.name,'Enciclopedia · '+category.title);
-    const refs=e.references.map(id=>facts.has(id)?`<a href="#registro/${id}">${id}</a>`:`<a href="#capitulo/${Number(id)}">${chapterName(Number(id))}</a>`).join(' · ');
+    const refs=(e.references||[]).map(id=>facts.has(id)?`<a href="#registro/${id}">${id}</a>`:`<a href="#capitulo/${Number(id)}">${chapterName(Number(id))}</a>`).join(' · ');
     content.innerHTML=`<a class="source-link" href="#${category.route}">← Volver a ${category.title.toLowerCase()}</a><div class="section-head"><div><p class="eyebrow">${entityType(e.name)} · ${e.facts.length} registros</p><h1>${esc(e.name)}</h1></div></div>${e.description?`<p class="${e.history?'entity-intro':'chapter-summary'}">${esc(e.description)}</p>`:''}${e.history?entityHistory(e):''}${e.note?`<details class="context-details"><summary>Identificación y referencias</summary><div class="document"><p>${esc(e.note)}</p><p>${refs}</p></div></details>`:''}${e.history?'<div class="section-head"><div><p class="eyebrow">Los acontecimientos que sostienen el relato</p><h2>Registros y evidencias</h2></div></div>':''}${paginated(e.facts.map(id=>facts.get(id)),f=>event(f,true),25)}`;
   }
   function entityHistory(e) {
@@ -298,6 +299,7 @@
   function missing(){heading('No se encontró la entrada');content.innerHTML='<div class="empty"><h1>Esta entrada no está en el archivo.</h1><p>Vuelve al índice o busca otra grafía.</p><a class="primary-button" href="#inicio">Ir al inicio</a></div>';}
   function current(){const parts=location.hash.slice(1).split('/');let value='';try{value=decodeURIComponent(parts.slice(1).join('/'));}catch{}return [parts[0]||(archive.world&&!Object.hasOwn(campaignMetadata,requestedCampaign)?'campanas':'inicio'),value];}
   function render(reset=false) {
+    if(editor?.isEditing())return;
     const [route,arg]=current();
     const worldView=route==='campanas';
     document.body.dataset.campaign=campaignId;
@@ -316,6 +318,7 @@
     const category=Object.entries(categories).find(([,value])=>value.route===route);
     if(route==='campanas')worldHome();else if(route==='inicio')home();else if(route==='capitulos')chapterList();else if(route==='capitulo')chapterView(Number(arg));else if(route==='registro')recordView(arg);else if(route==='pregunta')questionView(arg);else if(route==='misterios')questionList();else if(category)entityList(category[0]);else if(route==='entidad')entityView(arg);else if(route==='cronologia')listing();else if(route==='busqueda'){searchInput.value=arg;listing(arg);}else documentView(route);
     document.getElementById('search-clear').hidden=!searchInput.value;
+    editor?.decorate(current());
     applyCampaignLettering();
   }
   content.addEventListener('click',async eventObject=>{
@@ -338,5 +341,16 @@
   window.addEventListener('hashchange',()=>{render(true);window.scrollTo(0,0);});
   document.getElementById('app-stats').textContent=`${data.chapters.length} crónicas · ${data.facts.length} acontecimientos`;
   for(const [id,value] of [['count-chapters',data.chapters.length],['count-facts',data.facts.length],['count-entities',data.entities.length]])if(document.getElementById(id))document.getElementById(id).textContent=value;
+  const editor=window.createArchiveEditor({data,campaignId,content,lettering:applyCampaignLettering,refresh:()=>{
+    facts.clear();data.facts.forEach(f=>facts.set(f.id,f));
+    chapters.clear();data.chapters.forEach(c=>chapters.set(c.capitulo,c));
+    entities.clear();data.entities.forEach(e=>entities.set(e.name,e));
+    entityAliases.clear();data.entities.forEach(e=>e.aliases.forEach(a=>entityAliases.set(a,e)));
+    questions.clear();(data.seguimiento?.preguntas||[]).forEach(q=>questions.set(q.id,q));
+    reviewedCount=data.chapters.filter(c=>c.estado==='revisado').length;
+    searchIndex.length=0;
+    for(const f of data.facts)searchIndex.push({fact:f,text:fold([f.titulo,f.afirmacion,f.cita,f.ambito,f.limitacion,...(f.etiquetas_originales||[]),...f.entidades,...f.entidades.flatMap(name=>entities.get(name)?.aliases||[])].join(' '))});
+    render();
+  }});
   render();
 })();

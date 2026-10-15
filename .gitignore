@@ -15,5 +15,6 @@ transcripciones/
 .env.*
 !.env.example
 .aws/
+.local/
 *.pem
 *.key

@@ -81,7 +81,7 @@ def build_data():
 def main():
     from campanas import build_world
     template = (ROOT / 'web/plantilla.html').read_text(encoding='utf-8')
-    script = (ROOT / 'web/app.js').read_text(encoding='utf-8')
+    script = (ROOT / 'web/edicion.js').read_text(encoding='utf-8') + '\n' + (ROOT / 'web/app.js').read_text(encoding='utf-8')
     lettering = (ROOT / 'web/assets/rotulos-xoltacan/indice.json').read_text(encoding='utf-8')
     script = script.replace('/* ROTULOS_XOLTACAN */{}', lettering)
     theme = (ROOT / 'web/selva.css').read_text(encoding='utf-8')
@@ -91,6 +91,7 @@ def main():
     theme += '\n' + (ROOT / 'web/fuentes.css').read_text(encoding='utf-8')
     theme += '\n' + (ROOT / 'web/tipografia.css').read_text(encoding='utf-8')
     theme += '\n' + (ROOT / 'web/rotulos.css').read_text(encoding='utf-8')
+    theme += '\n' + (ROOT / 'web/edicion.css').read_text(encoding='utf-8')
     for label in sorted((ROOT / 'web/assets/rotulos-xoltacan').glob('*.png')):
         theme = theme.replace('assets/rotulos-xoltacan/' + label.name, 'data:image/png;base64,' + base64.b64encode(label.read_bytes()).decode('ascii'))
     for font in sorted((ROOT / 'web/assets/fonts').iterdir()):
