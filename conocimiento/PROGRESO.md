@@ -1,6 +1,6 @@
 # Progreso de la enciclopedia de Xoltacan
 
-**39/39 capítulos revisados; 946 registros con evidencia temporal.**
+**40/40 capítulos revisados; 988 registros con evidencia temporal.**
 
 Consulta global, sin filtro de conocimiento de Oghma. Originales conservados; audio no cotejado. Revisado significa lectura completa y selección estructurada de acontecimientos, no transcripción perfecta o extracción de cada detalle.
 
@@ -47,16 +47,17 @@ Consulta global, sin filtro de conocimiento de Oghma. Originales conservados; au
 | [37](capitulos/37.md) | revisado | 18 | 02:19:51.000 |
 | [38](capitulos/38.md) | revisado | 18 | 02:23:28.560 |
 | [39](capitulos/39.md) | revisado | 20 | 02:15:57.400 |
+| [40](capitulos/40.md) | revisado | 42 | 02:53:08.359 |
 
 ## Continuidad y mantenimiento
 
 [Índice](INDICE.md) · [Misterios actuales](MISTERIOS.md) · [Relaciones](RELACIONES.md) · [Tramas históricas](TRAMAS.md) · [Guía de consulta](GUIA_CONSULTA.md)
 
-La revisión paralela autorizada abarcó bloques 18–24, 25–31 y 32–39, con cruce posterior de revelaciones y referencias. Los anteriores se revisaron secuencialmente.
+La revisión paralela autorizada abarcó bloques 18–24, 25–31 y 32–39, con cruce posterior de revelaciones y referencias. Los anteriores se revisaron secuencialmente. El capítulo 40 se leyó en tres bloques sin solapamiento (00:00–00:58, 00:58–01:56 y 01:56–fin), integrados después con sus fichas y el seguimiento histórico.
 
 Siguiente capítulo pendiente: ninguno en el catálogo actual.
 
-La campaña narrativa conserva asuntos abiertos al final del capítulo 39. Incorporar publicaciones nuevas con `scripts/incorporar.py`, revisar fuentes completas y actualizar continuidades/alias/misterios antes de regenerar índices.
+La campaña narrativa conserva asuntos abiertos al final del capítulo 40. Incorporar publicaciones nuevas con `scripts/incorporar.py`, revisar fuentes completas y actualizar continuidades/alias/misterios antes de regenerar índices.
 
 Auditoría: `python -X utf8 scripts/auditar.py --exigir-completo --comparar-zip`. Pruebas: `scripts/test_construir.py` y `scripts/test_consultar.py`. Paquetes reproducibles: `scripts/empaquetar.py`.
 

@@ -12,7 +12,7 @@ Base para revisar equivalencia: [07-025](../capitulos/07.md), [26-017](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 39.
+Relato revisado hasta el capítulo 40.
 
 ### Un recuerdo que Mamá no consigue descifrar
 

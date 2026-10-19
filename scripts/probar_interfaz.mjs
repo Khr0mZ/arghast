@@ -5,6 +5,10 @@ import { spawn } from 'node:child_process';
 import { fileURLToPath, pathToFileURL } from 'node:url';
 const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
 const output=path.join(root,'.pruebas','interfaz');
+const chapterSources=await fs.readdir(path.join(root,'conocimiento/capitulos'));
+const expectedChapters=await Promise.all(chapterSources.filter(name=>/^\d+\.json$/.test(name)).map(async name=>JSON.parse(await fs.readFile(path.join(root,'conocimiento/capitulos',name),'utf8'))));
+const expectedFacts=expectedChapters.reduce((total,chapter)=>total+chapter.afirmaciones.length,0);
+const questionCount=expectedChapters.reduce((total,chapter)=>total+chapter.preguntas.length,0);
 const suppliedPalettes=JSON.parse(await fs.readFile(path.join(root,'config/paletas_campanas.json'),'utf8')).campanas;
 const expectedMaterialKeys=Object.fromEntries(await Promise.all(['xoltacan','kuroto'].map(async id=>{
   const uri='data:image/webp;base64,'+(await fs.readFile(path.join(root,'web/assets',id+'-panel-paleta.webp'))).toString('base64');
@@ -85,7 +89,7 @@ try {
   await check('Accesos a las seis secciones comunes de la campaña','document.querySelectorAll(".expedition-links a").length===6');
   await check('La portada abre las crónicas y los misterios dentro del archivo','JSON.stringify([...document.querySelectorAll(".hero .hero-actions a")].map(a=>a.getAttribute("href")))===JSON.stringify(["#capitulos","#misterios"])&&![...document.querySelectorAll(".hero .hero-actions a")].some(a=>a.target==="_blank")');
   const xoltacanHomeNavigation=await evaluate('('+homeNavigation.toString()+')()');
-  await check('39 episodios y 946 registros reales','(()=>{const d=JSON.parse(document.getElementById("xoltacan-data").textContent);return d.chapters.length===39&&d.facts.length===946&&Object.keys(d.transcripts).length===39})()');
+  await check('Todos los episodios, registros y transcripciones coinciden con las fichas locales',`(()=>{const d=JSON.parse(document.getElementById("xoltacan-data").textContent);return d.chapters.length===${expectedChapters.length}&&d.facts.length===${expectedFacts}&&Object.keys(d.transcripts).length===${expectedChapters.length}})()`);
   await check('Sin categoría editorial de contradicciones','![...document.querySelectorAll("#sidebar a")].some(a=>a.hash==="#contradicciones")');
   await check('Una ficha por nombre canónico','(()=>{const d=JSON.parse(document.getElementById("xoltacan-data").textContent);const n=d.entities.map(e=>e.name.normalize("NFD").replace(/[\\u0300-\\u036f]/g,"").toLowerCase());return n.length===new Set(n).size})()');
   await check('Personajes y objetos separados','(()=>{const d=JSON.parse(document.getElementById("xoltacan-data").textContent);return d.entities.find(e=>e.name==="Patata Hammer").type==="objeto"&&d.entities.find(e=>e.name==="Patata").type==="personaje"&&d.entities.filter(e=>e.name==="Coyote").length===1})()');
@@ -94,14 +98,14 @@ try {
   await check('Búsqueda global de Ilikar','document.getElementById("content").innerText.includes("Ilikar") && document.querySelectorAll(".event").length>0');
   await evaluate('document.querySelector("[data-filter=chapter]").value="38";document.querySelector("[data-filter=chapter]").dispatchEvent(new Event("change",{bubbles:true}))');
   await check('Filtro por capítulo','[...document.querySelectorAll(".event-time strong")].every(e=>e.textContent==="38")');
-  await route('#capitulos');await check('Catálogo completo navegable','document.querySelectorAll(".chapter-card").length===39');
+  await route('#capitulos');await check('Catálogo completo navegable',`document.querySelectorAll(".chapter-card").length===${expectedChapters.length}`);
   await check('Navegar retira el estado de búsqueda anterior','document.getElementById("search-status").textContent==="" && document.getElementById("global-search").value===""');
   await route('#capitulo/39');await check('El capítulo abre con el relato de su sesión','document.querySelector("[data-tab=relato]").classList.contains("active")&&document.querySelectorAll(".story-stage").length===4');
   await evaluate('document.querySelector("[data-tab=hechos]").click()');
   await check('Acontecimientos del capítulo 39','document.querySelectorAll(".event").length===20');
   await check('Notas de fuentes integradas en el capítulo','!!document.querySelector("details.context-details")&&!document.querySelector("[data-tab=contradicciones]")');
   await evaluate('document.querySelector("[data-tab=preguntas]").click()');
-  await check('Cada pregunta de capítulo tiene seguimiento','document.querySelectorAll(".question-card").length===5&&[...document.querySelectorAll(".question-card")].every(e=>e.dataset.status==="pendiente")');
+  await check('Cada pregunta de capítulo tiene seguimiento actualizado','(()=>{const q=JSON.parse(document.getElementById("xoltacan-data").textContent).seguimiento.preguntas.filter(q=>q.capitulo===39);const cards=[...document.querySelectorAll(".question-card")];return cards.length===q.length&&cards.every((card,i)=>card.dataset.status===q[i].estado)})()');
   await evaluate('document.querySelector("[data-tab=transcripcion]").click()');
   await check('Transcripción integrada y paginada','document.querySelectorAll(".transcript-row").length===120');
   await evaluate('document.getElementById("transcript-search").value="serpiente";document.getElementById("transcript-search").dispatchEvent(new Event("input",{bubbles:true}))');
@@ -110,6 +114,15 @@ try {
   await check('Cita y enlace al minuto','document.querySelector(".quote").textContent.length>0 && document.querySelector(".evidence a").href.includes("&t=")');
   await check('Contexto disponible','document.querySelectorAll(".context-details .transcript-row").length>0');
   await screenshot('evidencia-escritorio');
+  await route('#capitulo/40');
+  await check('El capítulo 40 abre su relato completo en ocho etapas','document.querySelector("[data-tab=relato]").classList.contains("active")&&document.querySelectorAll(".story-stage").length===8&&document.getElementById("content").innerText.includes("Tortas")');
+  await screenshot('capitulo-40-escritorio');
+  await evaluate('document.querySelector("[data-tab=hechos]").click()');
+  await check('El capítulo 40 incluye sus 42 evidencias','document.querySelectorAll(".event").length===42');
+  await route('#registro/40-035');
+  await check('La entrega del veneno enlaza el vídeo y su contexto','document.querySelector(".quote").textContent.length>0&&document.querySelector(".evidence a").href.includes("LBuXKKhfGlY")&&document.querySelectorAll(".context-details .transcript-row").length>0');
+  await route('#entidad/Tortas');
+  await check('Tortas tiene historia con sus tres etapas y evidencias','document.querySelectorAll(".story-stage").length===3&&document.getElementById("content").innerText.includes("77")');
   for(const section of ['misterios','misiones','relaciones','nombres','metodo']){await route('#'+section);if(section==='misterios')await evaluate('document.querySelector("details.context-details").open=true');await check('Documento '+section,'document.querySelector(".document").innerText.length>100');}
   for(const [section,type] of [['personajes','personaje'],['atlas','lugar'],['facciones','faccion'],['objetos','objeto']]){
     await route('#'+section);
@@ -123,7 +136,7 @@ try {
   await route('#entidad/'+encodeURIComponent('Marina'));
   await check('Facción vuelve a su sección y la resalta','document.querySelector("#content>.source-link").hash==="#facciones"&&document.querySelector("#sidebar a.active").hash==="#facciones"');
   await route('#misterios');await check('Misterios con referencias navegables','document.querySelectorAll(".document a[href*=registro]").length>10');
-  await check('228 preguntas cotejadas con cierre completo del catálogo','(()=>{const s=JSON.parse(document.getElementById("xoltacan-data").textContent).seguimiento;return s.preguntas.length===228&&!s.estados.sin_revisar&&s.por_actualizar===0})()');
+  await check('Todas las preguntas cotejadas hasta el último capítulo',`(()=>{const s=JSON.parse(document.getElementById("xoltacan-data").textContent).seguimiento;return s.preguntas.length===${questionCount}&&!s.estados.sin_revisar&&s.por_actualizar===0})()`);
   await check('Seguimiento paginado','document.querySelectorAll(".question-card").length===20');
   await evaluate('document.querySelector("[data-filter=questionStatus]").value="resuelta";document.querySelector("[data-filter=questionStatus]").dispatchEvent(new Event("change",{bubbles:true}))');
   await check('Filtro de preguntas resueltas','document.querySelectorAll(".question-card").length>0&&[...document.querySelectorAll(".question-card")].every(e=>e.dataset.status==="resuelta")');
@@ -155,7 +168,7 @@ try {
   }
   await check('Cada personaje tiene historia editorial con fuentes','JSON.parse(document.getElementById("xoltacan-data").textContent).entities.filter(e=>e.type==="personaje").every(e=>e.history?.etapas.length&&e.history.etapas.every(s=>s.texto.length>40&&s.referencias.length>0))');
   await route('#entidad/Ione');
-  await check('Historia narrativa antes de las evidencias','document.querySelectorAll(".story-stage").length===4&&document.querySelector(".character-story").compareDocumentPosition(document.querySelector(".event"))===Node.DOCUMENT_POSITION_FOLLOWING');
+  await check('Historia narrativa antes de las evidencias','document.querySelectorAll(".story-stage").length===JSON.parse(document.getElementById("xoltacan-data").textContent).entities.find(e=>e.name==="Ione").history.etapas.length&&document.querySelector(".character-story").compareDocumentPosition(document.querySelector(".event"))===Node.DOCUMENT_POSITION_FOLLOWING');
   await screenshot('historia-personaje-escritorio');
   await evaluate('document.querySelector(".story-sources a").click()');await sleep(180);
   await check('Fuentes del relato abren la evidencia original','location.hash.startsWith("#registro/")&&!!document.querySelector(".quote")&&document.querySelector(".evidence a").href.includes("&t=")');
@@ -163,7 +176,7 @@ try {
   await route('#capitulos');await screenshot('capitulos-escritorio');
   for(const width of [320,768]){
     await call('Emulation.setDeviceMetricsOverride',{width,height:900,deviceScaleFactor:1,mobile:width<560});
-    for(const section of ['personajes','capitulo/39','misterios','entidad/Ione','entidad/Shiaru','entidad/Marina','entidad/Zampaolas']){
+    for(const section of ['personajes','capitulo/39','capitulo/40','misterios','entidad/Ione','entidad/Tortas','entidad/Shiaru','entidad/Marina','entidad/Zampaolas']){
       await route('#'+section);
       await check('Códice sin desbordamiento a '+width+' px en '+section,'document.documentElement.scrollWidth<=window.innerWidth');
     }
@@ -181,6 +194,7 @@ try {
   await check('Atajo de búsqueda por teclado','document.activeElement.id==="global-search"');
   await screenshot('misterios-movil');
   await route('#capitulo/39');await screenshot('capitulo-movil');
+  await route('#capitulo/40');await screenshot('capitulo-40-movil');
   await route('#personajes');await screenshot('personajes-movil');
   await route('#entidad/Ione');await screenshot('historia-personaje-movil');
   await route('#entidad/Zampaolas');await screenshot('relato-objeto-movil');
@@ -236,7 +250,7 @@ try {
   const worldHeader=await readBackground('.topbar');
   const worldHero=await readBackground('.world-hero');
   await check('Arghast tiene textura de topbar y atlas propios',JSON.stringify(!!worldHeader&&!!worldHero&&worldHeader.key!==worldHero.key&&worldHero.key!==worldBackground.key));
-  await check('El atlas resume las campanas y cronicas reales','document.querySelector(".world-summary").textContent.includes("220")&&document.querySelectorAll(".world-summary strong")[0].textContent==="2"');
+  await check('El atlas resume las campanas y cronicas reales','(()=>{const archive=JSON.parse(document.getElementById("xoltacan-data").textContent);const campaigns=[archive,...Object.values(archive.campaigns)];const totals=[...document.querySelectorAll(".world-summary strong")].map(node=>Number(node.textContent));return totals[0]===campaigns.length&&totals[1]===campaigns.reduce((total,campaign)=>total+campaign.chapters.length,0)})()');
   await checkViewFinish();
   await check('Arghast conserva el mapa oficial en el contenido y una ilustración exclusiva en el drawer',JSON.stringify(!!worldBackground&&!!worldSidebar&&worldBackground.width===2048&&worldBackground.height===1536&&worldBackground.key!==worldSidebar.key));
   await check('Arghast usa los colores del mapa y conserva su color original','getComputedStyle(document.body).backgroundColor==="rgb(41, 62, 67)"&&getComputedStyle(document.querySelector(".workspace"),"::before").filter==="none"');

@@ -12,7 +12,7 @@ Base para revisar equivalencia: [06-018](../capitulos/06.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 39.
+Relato revisado hasta el capítulo 40.
 
 ### La bandera de un rey pirata
 

@@ -12,7 +12,7 @@ Base para revisar equivalencia: [33-005](../capitulos/33.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 39.
+Relato revisado hasta el capítulo 40.
 
 ### El intento de convertirse en pirata
 

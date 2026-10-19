@@ -12,7 +12,7 @@ Base para revisar equivalencia: [32-002](../capitulos/32.md), [36-001](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 39.
+Relato revisado hasta el capítulo 40.
 
 ### La escudera de Eleanor
 
@@ -331,4 +331,12 @@ Tipo: `hecho_confirmado`.
 Ione quiere una revancha y pide a Poncelot que la enfade. Él teme que lo sustituyan, pero ella reafirma su confianza y le asegura que no será reemplazado. La emoción la transforma en loba; abraza y lame al gnomo y prepara el duelo con Ilikar, sin que se muestre el resultado. Erandy encuentra parecido el jade a otro anterior. En una escena reservada, un hipopótamo arroja al agua el cofre vacío y se ve una placa de propiedad de Happy Bonnie.
 
 Según el director, los personajes no observan la placa porque están distraídos. No se acredita un robo intencional con conocimiento de la propietaria; las consecuencias quedan pendientes.
+
+## [40-001 · Ilikar entra en la selva buscando un regalo](../capitulos/40.md) · 00:00:24.960
+
+Tipo: `declaracion_personaje`.
+
+Ilikar relata otro duelo con la capitana y sus entrenamientos para soportar el calor de Shiaru. Tras una conversación con Erandy, busca un trofeo para la maestra mencionada en ella. Ha entrado en la selva y sigue a un pequeño acompañante intentando encontrar la salida.
+
+La recapitulación no identifica por nombre a la capitana ni a la maestra, ni precisa de quién es maestra. No atribuir la compensación nocturna a un acto sexual concreto.
 

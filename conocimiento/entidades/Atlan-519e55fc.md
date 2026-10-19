@@ -12,7 +12,7 @@ Base para revisar equivalencia: [16-003](../capitulos/16.md), [17-006](../capitu
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 39.
+Relato revisado hasta el capítulo 40.
 
 ### El reino del que parte la convocatoria
 

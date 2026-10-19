@@ -12,7 +12,7 @@ Base para revisar equivalencia: [12-009](../capitulos/12.md), [33-016](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 39.
+Relato revisado hasta el capítulo 40.
 
 ### Del mar a un campamento caníbal
 

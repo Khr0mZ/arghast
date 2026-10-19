@@ -12,7 +12,7 @@ Base para revisar equivalencia: [18-007](../capitulos/18.md), [18-008](../capitu
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 39.
+Relato revisado hasta el capítulo 40.
 
 ### Un santuario antiguo ocupado
 

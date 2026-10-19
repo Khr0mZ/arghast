@@ -12,7 +12,7 @@ Base para revisar equivalencia: [01-004](../capitulos/01.md), [16-014](../capitu
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 39.
+Relato revisado hasta el capítulo 40.
 
 ### Una comunidad que recibe a los extranjeros
 
@@ -31,6 +31,12 @@ Fuentes: [18-007 · Encargo de investigar yuan-ti](../capitulos/18.md) · 00:36:
 El envenenamiento de Eromov lleva al grupo a investigar la Hoja Caída. Las muestras se aíslan en casa de Leona y Parroter intenta encontrar una cura. Mientras tanto, Ayoto continúa entrenando a los habitantes y Citlali busca refugio para Etley cerca de la ciudad. Los guardias ayudan a rescatar a ambas del derrumbe, pero el grupo termina marchando hacia el norte. Cuicapalli sigue siendo un aliado importante, con la salud de su líder todavía sin resolver.
 
 Fuentes: [30-005 · Envenenamiento por ingestión tras una reunión](../capitulos/30.md) · 00:26:00.000 · [30-019 · Muestras aisladas en casa de Leona](../capitulos/30.md) · 02:00:00.000 · [30-020 · Eromov envía a Parroter a investigar una cura](../capitulos/30.md) · 02:04:00.000 · [39-001 · Regreso de Ayoto y crianza de Etley](../capitulos/39.md) · 00:00:00.000 · [39-013 · Los guardias ayudan a rescatar a Citlali y Etley](../capitulos/39.md) · 01:27:00.000 · [39-014 · Citlali drena a Tlachka y el grupo marcha al norte](../capitulos/39.md) · 01:34:00.000.
+
+### La advertencia de Leona y el apoyo prometido
+
+Con Eromov todavía envenenado según Leona, Guayacán queda cuidándolo y ella actúa como representante ante Walulu para advertir del posible ataque al festival de Iktan. La chamana promete enviar hombres, recetas y protecciones. Leona se presenta después como futura líder de Cuicapalli, pero admite que no es oficial. El regreso de la enviada, la ayuda y la cura no se muestran.
+
+Fuentes: [40-002 · La enfermedad de Triel y el encargo de Leona](../capitulos/40.md) · 00:01:42.600 · [40-006 · Walulu recibe la advertencia y promete ayuda a Cuicapalli](../capitulos/40.md) · 00:23:18.240 · [40-036 · Brazos astrales de Tortas y deseo de aprender de Triel](../capitulos/40.md) · 02:25:53.120 · [40-038 · Leona recibe trato de futura líder y los hermanos buscan aliados](../capitulos/40.md) · 02:33:15.520.
 
 ## Registros y evidencias
 
@@ -401,4 +407,44 @@ Tipo: `hecho_confirmado`.
 Citlali pide ayuda a Tlachka, se disculpa y drena un poco de su energía vital para cerrar sus propias heridas. Recuerda que hirió antes al enano. Propone viajar a Cuicapalli, pero sigue a Ayoto, que recomienda su pueblo natal al norte sin saber dónde está. El director indica que el goliat no procede de Xoltacan. Marchan al norte y se alejan de Cuicapalli con Etley sobre Luna.
 
 No encuentran el pueblo natal ni Ayoto conoce realmente la ruta. El lugar al que llegan después es Iktan.
+
+## [40-002 · La enfermedad de Triel y el encargo de Leona](../capitulos/40.md) · 00:01:42.600
+
+Tipo: `declaracion_personaje`.
+
+Eldrat relata que su hermana regresó envenenada, según él por el dragón verde, y que la cuidó por miedo a perderla. Ha entrenado con Coyote y Tesara, aunque su pique con el primero perjudicó el ejercicio. Leona explica que rastreaba serpientes por el envenenamiento del líder de Cuicapalli cuando este la envió ante la posibilidad de un ataque durante el festival; dejó a su aprendiz Guayacán cuidándolo.
+
+La autoría del veneno de Triel y el posible ataque se presentan en recapitulaciones de personajes. El ataque no ha ocurrido dentro de este bloque.
+
+## [40-004 · Frutas extrañas y llegada a Iktan](../capitulos/40.md) · 00:11:26.639
+
+Tipo: `hecho_confirmado`.
+
+Tras comer fruta, la sombra de Leona se desprende y se burla de ella; Ilikar se vuelve translúcido y recibe un punto de armadura. Llegan a Iktan, de vegetación más variada y colorida que Cuicapalli, y los guardias admiten a ambos tras reconocer a Leona. Eldrat sale de la taberna comiendo otra fruta, que lo hace brillar de verde. Ve reunirse a los vecinos en la zona cuya destrucción se atribuye a un dragón antiguo. Al acercarse pisa a Cipo, recibe un mordisco en el calzado y lo lanza de una patada.
+
+No se nombra la especie de las frutas ni se establece permanencia de los efectos. El dragón de hace unos cien años es una explicación referida de la zona, no una aparición presente.
+
+## [40-006 · Walulu recibe la advertencia y promete ayuda a Cuicapalli](../capitulos/40.md) · 00:23:18.240
+
+Tipo: `hecho_confirmado`.
+
+En el templo, Leona informa a Walulu de que Eromov ha sido envenenado por hombres serpiente y se presenta como su representante para advertir del posible ataque durante el festival. Walulu agradece el aviso, se dispone a informar a los guardias y promete enviar hombres con recetas y protecciones a Cuicapalli. Explica que Eromov es un gran amigo suyo.
+
+Se confirma la promesa y la marcha de Walulu a avisar; no la llegada de ayuda a Cuicapalli ni una curación de Eromov. El envenenamiento y la amenaza se comunican mediante el testimonio de Leona.
+
+## [40-036 · Brazos astrales de Tortas y deseo de aprender de Triel](../capitulos/40.md) · 02:25:53.120
+
+Tipo: `hecho_confirmado`.
+
+Con permiso del director para la acción de escena, Tortas manifiesta una energía verde y brazos astrales que le permiten llevar a Ilikar hacia la taberna con los brazos físicos cruzados. Los habitantes se arrodillan y lo llaman protector y señor. Ilikar toma un barril de cerveza mientras lo transportan. Triel se sube a su caparazón y le pide que le enseñe a hacer aquello. Walulu permite a Leona descansar en la taberna; ella pretende regresar después a Cuicapalli. Eldrat pide que suelten al goliat, que ya dice haber descansado.
+
+El director autoriza una manifestación para el roleo. No se define una proyección astral separada del cuerpo ni una fuerza numérica nueva. Triel todavía no aprende la técnica.
+
+## [40-038 · Leona recibe trato de futura líder y los hermanos buscan aliados](../capitulos/40.md) · 02:33:15.520
+
+Tipo: `hecho_confirmado`.
+
+Leona pide comida y habitación a una tabaxi de la taberna. Se presenta como vecina de Cuicapalli y dice que la consideran futura líder, aunque no sea oficial. La tabernera le ofrece una habitación especial, mejor cerveza y comida, mientras sirve aceitunas pasadas a los elfos. Eldrat quiere reunir aliados contra el dragón y Triel lo cura con palabras. Los hermanos acuerdan repartirse las conversaciones con Leona y el goliat; Triel considera a Leona fuerte después de que la venciera y admira el poder de Tortas.
+
+No se consuma un nombramiento de Leona. La tabernera no recibe un nombre propio en este bloque; no fusionarla automáticamente con Angélica Thunder o Angelique. Las heridas no identifican a los elfos con los dos enfermos anónimos del capítulo 39.
 

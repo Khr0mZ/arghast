@@ -12,7 +12,7 @@ Base para revisar equivalencia: [24-001](../capitulos/24.md), [30-001](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 39.
+Relato revisado hasta el capítulo 40.
 
 ### Un explorador que acaba colaborando con dos pueblos
 

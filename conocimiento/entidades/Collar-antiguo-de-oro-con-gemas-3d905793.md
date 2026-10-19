@@ -12,7 +12,7 @@ Base para revisar equivalencia: [04-020](../capitulos/04.md), [04-021](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 39.
+Relato revisado hasta el capítulo 40.
 
 ### El tesoro que vuelve incompleto
 

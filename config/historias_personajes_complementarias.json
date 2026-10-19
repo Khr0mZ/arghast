@@ -1,5 +1,5 @@
 {
-  "revisado_hasta": 39,
+  "revisado_hasta": 40,
   "personajes": {
     "Angélica Thunder": [
       {
@@ -165,6 +165,17 @@
           "36-009",
           "36-017"
         ]
+      },
+      {
+        "titulo": "El fragmento y la búsqueda fallida",
+        "texto": "Con sombrero de explorador, extrae una pieza de espada de debajo de la roca que sostiene Ilikar. Reconoce a Leona y los acompaña a Iktan. Eldrat lo pisa, recibe un mordisco y lo aleja de una patada que el goliat no presencia. El elfo encubre lo sucedido diciendo que al elemental le salieron alas. Ilikar y un guardia lo buscan bajo la idea de un dragón de fuego, sin recuperarlo en escena. Esa confusión no cambia su naturaleza de elemental.",
+        "referencias": [
+          "40-003",
+          "40-004",
+          "40-005",
+          "40-007",
+          "40-009"
+        ]
       }
     ],
     "Clodidrax": [
@@ -282,6 +293,35 @@
           "31-028",
           "39-018"
         ]
+      },
+      {
+        "titulo": "Cuidar a Triel durante el festival",
+        "texto": "Cuenta que su hermana regresó envenenada por el dragón verde y que la cuidó por miedo a perderla. Entrena con Coyote y Tesara y vigila los riesgos que Triel toma ante el anciano sagrado. En el claro le pide que vuelva a la aldea, pero acaba luchando para protegerla. Utiliza la cadena de su kusarigama para lanzar a Tortas, comunica avisos mentalmente y sufre el gas venenoso. Tras la victoria reprende a su hermana y comparte su celebración con el goliat.",
+        "referencias": [
+          "40-002",
+          "40-005",
+          "40-007",
+          "40-008",
+          "40-010",
+          "40-017",
+          "40-018",
+          "40-021",
+          "40-024",
+          "40-025"
+        ]
+      },
+      {
+        "titulo": "Preguntas para el dragón",
+        "texto": "Reconoce el rastro encontrado por Ilikar, pero insiste en descansar antes de enfrentarse al dragón. Pacta con el goliat herir al enemigo para obligarlo a responder y cederle después la cabeza. Triel lo cura y los hermanos intentan reunir aliados; también considera visitar a Ione y Poncelot. Al terminar aconseja a Tortas esconderse en el lago y retira a Triel de la piedra sagrada, disculpándose ante Walulu. Las preguntas que quiere formular al dragón no se revelan.",
+        "referencias": [
+          "40-033",
+          "40-034",
+          "40-037",
+          "40-038",
+          "40-039",
+          "40-041",
+          "40-042"
+        ]
       }
     ],
     "Eleanor": [
@@ -369,6 +409,14 @@
           "30-007",
           "30-020",
           "30-022"
+        ]
+      },
+      {
+        "titulo": "Un enviado y una promesa de ayuda",
+        "texto": "Leona lo describe todavía envenenado y cuenta que la envió a Iktan para prevenir un ataque durante el festival. Guayacán queda cuidándolo. Walulu lo llama amigo y promete enviar recetas y protecciones. Esto documenta un nuevo encargo referido por Leona y una oferta de apoyo, sin mostrar el envío ni la administración de un antídoto.",
+        "referencias": [
+          "40-002",
+          "40-006"
         ]
       }
     ],
@@ -459,6 +507,13 @@
           "30-020",
           "30-022"
         ]
+      },
+      {
+        "titulo": "Cuidar al dirigente durante la misión",
+        "texto": "Leona lo llama su aprendiz y explica que lo deja en Cuicapalli cuidando al envenenado Eromov mientras ella advierte a Walulu. La recapitulación no fija una sucesión de Leona ni resuelve el secreto anterior de Guayacán.",
+        "referencias": [
+          "40-002"
+        ]
       }
     ],
     "Gustavo": [
@@ -492,6 +547,36 @@
           "38-015",
           "38-017",
           "38-018"
+        ]
+      },
+      {
+        "titulo": "De Shiaru al festival de Iktan",
+        "texto": "Tras la revancha con la capitana, busca en la selva un trofeo a raíz de su conversación con Erandy. Acompaña a Cipo, ayuda a sacar un fragmento de espada y acepta que Leona lo guíe a Iktan. Eldrat le oculta la patada que aleja al elemental y el goliat lo busca bajo la falsa idea de un dragón de fuego. Se relaciona con los elfos mediante sus saludos de fuerza y sigue a Tortas al bosque.",
+        "referencias": [
+          "40-001",
+          "40-003",
+          "40-004",
+          "40-005",
+          "40-007",
+          "40-009",
+          "40-012",
+          "40-014"
+        ]
+      },
+      {
+        "titulo": "El trofeo y el trato con Eldrat",
+        "texto": "Lanza a Triel a través de la masa y combate con lanza y hielo. Encuentra un rastro del dragón al norte, pero el grupo necesita descansar. Eldrat le concede la futura cabeza a cambio de poder interrogar antes al dragón. Ilikar declara proceder de Valle Blanco, en las tierras frías del norte; debe volver a Shiaru y propone reclutar a Ione y Sir Poncelot. Todavía no obtiene el trofeo. Los juegos con Leona acaban con Tortas en el lago.",
+        "referencias": [
+          "40-019",
+          "40-020",
+          "40-023",
+          "40-025",
+          "40-030",
+          "40-033",
+          "40-034",
+          "40-037",
+          "40-039",
+          "40-041"
         ]
       }
     ],
@@ -615,6 +700,33 @@
           "30-016",
           "30-019",
           "30-020"
+        ]
+      },
+      {
+        "titulo": "Representar a Cuicapalli",
+        "texto": "Deja a Guayacán cuidando a Eromov y viaja a Iktan para advertir de un posible ataque al festival. Guía hasta allí a Ilikar y Cipo y consigue que Walulu prometa precauciones y ayuda. En la celebración carga a Tortas hacia el foco de vegetación muerta. Lucha en furia con el hacha, participa en maniobras con el monje y resiste parte del veneno. Su cometido diplomático y su acción en el bosque no equivalen todavía a una investidura como dirigente.",
+        "referencias": [
+          "40-002",
+          "40-003",
+          "40-006",
+          "40-014",
+          "40-016",
+          "40-018",
+          "40-020",
+          "40-021",
+          "40-024"
+        ]
+      },
+      {
+        "titulo": "La muestra y el descanso aplazado",
+        "texto": "Obliga mágicamente a Ilikar a descansar y lo carga de vuelta. Entrega a Walulu la botella de veneno y cuenta que convirtió a las criaturas en no muertos, interpretación que no recibe aún un análisis concluyente. Acepta descansar antes de regresar a Cuicapalli. En la taberna afirma ser considerada futura líder, aunque no oficialmente, y recibe mejor alojamiento y comida. Después participa en los juegos de fuerza y en los lanzamientos de Tortas al lago.",
+        "referencias": [
+          "40-034",
+          "40-035",
+          "40-036",
+          "40-038",
+          "40-040",
+          "40-041"
         ]
       }
     ],
@@ -1193,6 +1305,33 @@
           "31-028",
           "39-018"
         ]
+      },
+      {
+        "titulo": "La convalecencia no frena su curiosidad",
+        "texto": "Eldrat cuenta que la cuidó tras su regreso envenenada. Walulu le recomienda salir al festival. Triel intenta tocar al anciano y probar su movimiento con una piedra. Sigue al grupo todavía vendada, pide a Ilikar que la lance a través de la masa de cadáveres y vuelve a resultar herida. Continúa con su espada de escamas e imita las patadas de Tortas. Se cura un poco, celebra la maniobra y administra una poción al monje. Su entusiasmo no acredita una recuperación completa. Al conversar con Tortas explica que buscó al dragón para demostrar su valor y este la emboscó con veneno por la espalda en una cueva que no sabe si era su guarida.",
+        "referencias": [
+          "40-002",
+          "40-007",
+          "40-008",
+          "40-010",
+          "40-017",
+          "40-019",
+          "40-020",
+          "40-023",
+          "40-025",
+          "40-027",
+          "40-029",
+          "40-030"
+        ]
+      },
+      {
+        "titulo": "El deseo de aprender los brazos astrales",
+        "texto": "Admira los brazos verdes con los que Tortas lleva al goliat y le pide aprender. También cura a Eldrat y ayuda a buscar compañeros para la caza del dragón. Después ocupa la piedra sagrada e intenta meditar para conseguir el mismo poder. Los vecinos la miran con disgusto y su hermano la aparta. No obtiene brazos astrales ni se demuestra que el soporte tenga poderes.",
+        "referencias": [
+          "40-036",
+          "40-038",
+          "40-042"
+        ]
       }
     ],
     "Tórtola": [
@@ -1234,6 +1373,26 @@
           "39-017",
           "39-018",
           "39-020"
+        ]
+      },
+      {
+        "titulo": "Una advertencia durante el festival",
+        "texto": "Leona le informa del envenenamiento de Eromov y de un posible ataque yuan-ti. Walulu promete avisar a los guardias y enviar hombres con recetas y protecciones para su amigo de Cuicapalli. Ha recomendado a Triel salir para despejarse y conduce a Leona a la ceremonia del Gran Anciano. Atribuye a la tortuga más de quinientos años y se inclina cuando esta se levanta.",
+        "referencias": [
+          "40-006",
+          "40-007",
+          "40-010",
+          "40-011",
+          "40-013"
+        ]
+      },
+      {
+        "titulo": "Proteger Iktan del dragón",
+        "texto": "Al regreso ve caminar a Tortas, a quien atribuye siglos de inmovilidad. Recibe de Leona una muestra de veneno que parece potente, pero no concluye una fórmula ni explica la creación de los no muertos. Advierte que la ciudad no podría detener al dragón si lo provocan. Permite descansar a Leona y presencia el disgusto de los vecinos cuando Triel ocupa la piedra sagrada. Su conversación pendiente con Citlali sobre las marcas no se representa.",
+        "referencias": [
+          "40-035",
+          "40-036",
+          "40-042"
         ]
       }
     ],
@@ -1286,6 +1445,100 @@
           "34-009",
           "34-010",
           "34-013"
+        ]
+      }
+    ],
+    "Tortas": [
+      {
+        "titulo": "El protector abandona la piedra",
+        "texto": "La comunidad de Iktan venera al Gran Anciano, una tortuga cubierta de musgo y plantas cuyo movimiento asocia a las cosechas. Parece una estatua, pero gira la cabeza y atrapa una bolsa de agua a enorme velocidad. Siente que la vegetación muere cerca del lago y se levanta ante los vecinos. Leona lo transporta hacia el foco. Tortas se presenta por su nombre y explica que permanecía inmóvil por su paciencia. Dice tener 77 años, mientras Walulu le atribuye siglos: esa diferencia queda sin explicación.",
+        "referencias": [
+          "40-007",
+          "40-008",
+          "40-011",
+          "40-012",
+          "40-013",
+          "40-014",
+          "40-027",
+          "40-029",
+          "40-031",
+          "40-035"
+        ]
+      },
+      {
+        "titulo": "Un monje entre nuevos compañeros",
+        "texto": "Sale del caparazón tras el lanzamiento, examina los restos y combate junto a los viajeros. Acepta la maniobra de Eldrat con la cadena, aturde enemigos y remata al último zombi; evita el gas conteniendo la respiración. Después se cura, recibe una poción de Triel y enseña a respetar los árboles que aún tienen vida. Puede percibir las zonas dañadas por el veneno, pero el director aclara que no localiza al dragón mediante ese sentido.",
+        "referencias": [
+          "40-016",
+          "40-018",
+          "40-021",
+          "40-022",
+          "40-024",
+          "40-027",
+          "40-028",
+          "40-032"
+        ]
+      },
+      {
+        "titulo": "Los brazos astrales y el lago",
+        "texto": "Al volver a Iktan manifiesta brazos astrales verdes y lleva al goliat ante los vecinos arrodillados. Triel le pide aprender. Las competiciones posteriores terminan con Leona e Ilikar lanzándolo al lago a pesar de su resistencia; acepta el consejo de Eldrat y se esconde bajo el agua. La piedra que deja atrás conserva su valor sagrado, pero no transmite sus poderes a Triel.",
+        "referencias": [
+          "40-036",
+          "40-040",
+          "40-041",
+          "40-042"
+        ]
+      }
+    ],
+    "Dragón verde del bosque de Iktan": [
+      {
+        "titulo": "El enemigo que permanece en el bosque",
+        "texto": "Eldrat identifica un enorme dragón verde camuflado durante el viaje a Iktan; el grupo huye sin derrotarlo. Después relata que Triel volvió envenenada por ese dragón y que la cuidó. En el festival, Tortas expresa preocupación por el daño del veneno y se recuerda el título Serpiente del Bosque. Las variantes automáticas no fijan su nombre propio ni demuestran una identidad con Clodidrax.",
+        "referencias": [
+          "31-015",
+          "31-019",
+          "40-002",
+          "40-029",
+          "40-030"
+        ]
+      },
+      {
+        "titulo": "Una persecución aplazada",
+        "texto": "Triel cuenta una emboscada con veneno al entrar en una cueva, sin saber si era la guarida. Los restos del claro y la muestra se comparan con veneno dracónico, pero no se observa su producción. El goliat encuentra un rastro hacia el norte y Eldrat exige recuperarse antes de seguirlo. Walulu teme que provocar al dragón cause un ataque que Iktan no podría detener. Eldrat e Ilikar pactan obtener respuestas y después entregar la cabeza como trofeo; aún no se enfrentan al enemigo.",
+        "referencias": [
+          "40-016",
+          "40-026",
+          "40-030",
+          "40-032",
+          "40-033",
+          "40-035",
+          "40-037",
+          "40-039"
+        ]
+      }
+    ],
+    "Masa zombi del claro envenenado": [
+      {
+        "titulo": "Los restos se levantan",
+        "texto": "Lo que parece comida medio devorada de fauna y dinosaurios contiene miembros de especies distintas unidos de forma imposible y líquido verdoso. La masa se sacude y se alza. Los golpes desprenden zombis menores; la peonza de Tortas derriba a dos, pero el cuerpo principal recompone su posición. Triel lo atraviesa al ser lanzada y después evita que la envuelva, aunque resulta herida.",
+        "referencias": [
+          "40-015",
+          "40-016",
+          "40-017",
+          "40-018",
+          "40-019",
+          "40-020"
+        ]
+      },
+      {
+        "titulo": "Veneno y derrota local",
+        "texto": "Los zombis pueden levantarse tras caer y expulsan nubes venenosas. Tortas contiene la respiración y aturde a un rival; los demás combaten con hacha, dagas, espada y hielo. El anciano remata al último zombi y termina el combate. La explicación de Leona sobre el veneno que los convirtió en no muertos sigue siendo un testimonio; no se establece creador ni identidad con la masa anterior del bosque.",
+        "referencias": [
+          "40-021",
+          "40-022",
+          "40-023",
+          "40-024",
+          "40-035"
         ]
       }
     ]

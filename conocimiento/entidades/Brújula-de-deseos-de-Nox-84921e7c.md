@@ -12,7 +12,7 @@ Base para revisar equivalencia: [33-006](../capitulos/33.md), [33-009](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 39.
+Relato revisado hasta el capítulo 40.
 
 ### Buscar refugio sin desear siempre lo mismo
 

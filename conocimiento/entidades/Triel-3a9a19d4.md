@@ -12,7 +12,7 @@ Base para revisar equivalencia: [14-001](../capitulos/14.md), [31-006](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 39.
+Relato revisado hasta el capítulo 40.
 
 ### La hermana que pelea espalda con espalda
 
@@ -31,6 +31,18 @@ Fuentes: [16-006 · Luna y Triel encuentran a una leonina que muerde el mapa](..
 En el viaje a Iktan se enfrenta a los efectos de las voces y trata de contener las peleas entre sus compañeros. Ayuda a curar a Coyote y se mantiene en combate para facilitar la retirada. Cuando Eldrat quiere volver al bosque, lo paraliza y pide que lo carguen para salvarlo de otra confrontación. Walulu permite que ambos permanezcan en la ciudad sin revelar la ruta. La pareja de elfos pálidos que aparece después en el templo no recibe nombres, por lo que no puede atribuirse sin más a Triel la enfermedad de aquella escena.
 
 Fuentes: [31-011 · Ataques mutuos y Tesa inmovilizada temporalmente](../capitulos/31.md) · 01:08:00.000 · [31-017 · Coyote y Naór caen y son recuperados](../capitulos/31.md) · 01:54:00.000 · [31-019 · Leo mata al último zombi y los cuerpos se funden; llegada a Iktan](../capitulos/31.md) · 02:16:00.000 · [31-028 · Confianza limitada y secreto de ruta](../capitulos/31.md) · 03:10:00.000 · [39-018 · Hospitalidad de la ciudad oculta y una elfa enferma](../capitulos/39.md) · 02:04:00.000.
+
+### La convalecencia no frena su curiosidad
+
+Eldrat cuenta que la cuidó tras su regreso envenenada. Walulu le recomienda salir al festival. Triel intenta tocar al anciano y probar su movimiento con una piedra. Sigue al grupo todavía vendada, pide a Ilikar que la lance a través de la masa de cadáveres y vuelve a resultar herida. Continúa con su espada de escamas e imita las patadas de Tortas. Se cura un poco, celebra la maniobra y administra una poción al monje. Su entusiasmo no acredita una recuperación completa. Al conversar con Tortas explica que buscó al dragón para demostrar su valor y este la emboscó con veneno por la espalda en una cueva que no sabe si era su guarida.
+
+Fuentes: [40-002 · La enfermedad de Triel y el encargo de Leona](../capitulos/40.md) · 00:01:42.600 · [40-007 · Triel sale al espectáculo y comienza la búsqueda de Cipo](../capitulos/40.md) · 00:25:50.679 · [40-008 · El festival de las cosechas y la curiosidad de Triel](../capitulos/40.md) · 00:29:45.640 · [40-010 · La tortuga mueve la cabeza y la piedra de Triel se rompe](../capitulos/40.md) · 00:36:13.800 · [40-017 · Triel sigue vendada y la masa de cadáveres se levanta](../capitulos/40.md) · 01:05:23.960 · [40-019 · Puños del monje y lanzamiento de Triel a través de la masa](../capitulos/40.md) · 01:16:30.480 · [40-020 · Hielo de Ilikar y tentativa de envolver a Triel](../capitulos/40.md) · 01:22:34.719 · [40-023 · Triel imita las patadas de Tortas e Ilikar mantiene la presión](../capitulos/40.md) · 01:37:01.719 · [40-025 · Eldrat reprende a Triel y comparte la celebración](../capitulos/40.md) · 01:45:06.400 · [40-027 · Curación del anciano y fin del equívoco de la estatua](../capitulos/40.md) · 01:47:51.320 · [40-029 · Presentaciones de Tortas y preocupación por el veneno](../capitulos/40.md) · 01:56:02.360 · [40-030 · La Serpiente del Bosque y la cueva de la emboscada](../capitulos/40.md) · 02:02:39.199.
+
+### El deseo de aprender los brazos astrales
+
+Admira los brazos verdes con los que Tortas lleva al goliat y le pide aprender. También cura a Eldrat y ayuda a buscar compañeros para la caza del dragón. Después ocupa la piedra sagrada e intenta meditar para conseguir el mismo poder. Los vecinos la miran con disgusto y su hermano la aparta. No obtiene brazos astrales ni se demuestra que el soporte tenga poderes.
+
+Fuentes: [40-036 · Brazos astrales de Tortas y deseo de aprender de Triel](../capitulos/40.md) · 02:25:53.120 · [40-038 · Leona recibe trato de futura líder y los hermanos buscan aliados](../capitulos/40.md) · 02:33:15.520 · [40-042 · Triel ocupa la piedra sagrada y Eldrat la aparta](../capitulos/40.md) · 02:48:50.319.
 
 ## Registros y evidencias
 
@@ -745,4 +757,188 @@ Tipo: `declaracion_personaje`.
 Zarial ha pasado tiempo con su amiga Triel, ausente desde hace una semana, y pierde seis monedas de oro mientras duerme en Shiaru. Winscore explora los alrededores y viene de Cuicapalli. Citlali afirma que una pirata la liberó y habló con ella y Nox; evita Shiaru por la advertencia de Bonnie. Blink relata lagunas de memoria e intentos fallidos de marcharse.
 
 No se confirma la causa de la amnesia de Blink ni que sea mágica. Citlali refiere su liberación, por lo que no sigue cautiva.
+
+## [40-002 · La enfermedad de Triel y el encargo de Leona](../capitulos/40.md) · 00:01:42.600
+
+Tipo: `declaracion_personaje`.
+
+Eldrat relata que su hermana regresó envenenada, según él por el dragón verde, y que la cuidó por miedo a perderla. Ha entrenado con Coyote y Tesara, aunque su pique con el primero perjudicó el ejercicio. Leona explica que rastreaba serpientes por el envenenamiento del líder de Cuicapalli cuando este la envió ante la posibilidad de un ataque durante el festival; dejó a su aprendiz Guayacán cuidándolo.
+
+La autoría del veneno de Triel y el posible ataque se presentan en recapitulaciones de personajes. El ataque no ha ocurrido dentro de este bloque.
+
+## [40-005 · Saludos del goliat y cautela de Eldrat](../capitulos/40.md) · 00:18:33.760
+
+Tipo: `hecho_confirmado`.
+
+Eldrat conoce a Ilikar y adopta el saludo goliat de apretón de manos y golpes en la espalda. Ilikar se presenta con una procedencia que el subtítulo recoge como Tunkaz. Leona intercambia después el mismo saludo y se marcha al templo para atender su encargo. Eldrat decide seguirla porque no se fía de que se acerque a alguien importante para él, su hermana. La tirada de percepción confirma que Ilikar no vio la patada a Cipo.
+
+Tunkaz es una grafía ASR provisional y no basta para fijar un lugar nuevo. La anécdota sobre una sombra que habló con voz de bisabuela se mantiene como comentario del personaje, sin crear una aparición confirmada.
+
+## [40-007 · Triel sale al espectáculo y comienza la búsqueda de Cipo](../capitulos/40.md) · 00:25:50.679
+
+Tipo: `hecho_confirmado`.
+
+Walulu dice a Eldrat que su hermana ya fue al espectáculo para despejarse siguiendo su recomendación. Leona espera en un banco. Ilikar busca a Cipo y un guardia le explica que la estatua tortuga es el Gran Anciano, protector anterior a la construcción de la aldea. El guardia se suma a la búsqueda cuando Ilikar presenta al elemental como peligro de fuego. Eldrat oculta su patada diciendo que al lagarto le salieron alas; el goliat cree que es un dragón de fuego y corre hacia donde lo lanzó.
+
+La antigüedad y el papel protector son tradición comunicada por el guardia. Las alas y la condición de dragón no están confirmadas: proceden del encubrimiento de Eldrat y de la interpretación de Ilikar.
+
+## [40-008 · El festival de las cosechas y la curiosidad de Triel](../capitulos/40.md) · 00:29:45.640
+
+Tipo: `hecho_confirmado`.
+
+Un vecino explica a Eldrat que la tribu celebra un festival esperando el infrecuente movimiento del protector, considerado augurio de grandes cosechas. El anciano parece una tortuga de piedra cubierta de musgo y plantas. Eldrat ve a Triel trepar por detrás para tocarlo, se abre paso entre el gentío pese a brillar y la agarra del pie antes de que alcance la tortuga. Ambos caen y él le advierte de que podrían expulsarlos por ofender a los vecinos.
+
+El augurio agrícola es la creencia expresada por el vecino. El bloque no demuestra una relación causal entre el movimiento y las cosechas.
+
+## [40-010 · La tortuga mueve la cabeza y la piedra de Triel se rompe](../capitulos/40.md) · 00:36:13.800
+
+Tipo: `hecho_confirmado`.
+
+Una gran trompeta y la agitación de los vecinos convocan al festival. Walulu conduce a Leona y el guardia deja la búsqueda para reunirse con la multitud, seguido por Ilikar. Tortas gira muy lentamente la cabeza hacia el agua. Triel lanza una piedra para comprobar el movimiento, protegida de las miradas por Eldrat. El proyectil se hace pedazos antes de llegar; los observadores no perciben una acción clara del anciano. Ilikar pregunta a gritos dónde está Shiaru y toma la dirección de su mirada como respuesta.
+
+La piedra rota se observa, pero no debe atribuirse a un conjuro o mecanismo específico. La tortuga no da instrucciones verbales hacia Shiaru.
+
+## [40-012 · La supuesta deshidratación revela la velocidad del anciano](../capitulos/40.md) · 00:44:11.240
+
+Tipo: `hecho_confirmado`.
+
+Triel y Eldrat alcanzan a Ilikar y le explican que la tortuga es importante para la comunidad y no debe llevársela. El goliat cree que la mirada del anciano le indicó Shiaru y, al comprobar que se mueve, propone que la lentitud se deba a falta de agua. Eldrat prepara una bolsa de cuero impermeable llena del lago y le pide lanzarla hacia la tortuga, con intención de mojar también a Leona. Tortas atrapa la bolsa a una velocidad extraordinaria y la lanza hacia arriba, sorprendiendo a Eldrat.
+
+La deshidratación es una explicación improvisada de Ilikar, sin diagnóstico confirmado. La bolsa del tramposo se nombra como recurso de Eldrat, sin demostrar en este pasaje qué propiedades mágicas tiene ni crear una identidad nueva para los saquitos de agua.
+
+## [40-014 · Leona transporta al anciano y los viajeros lo siguen](../capitulos/40.md) · 00:54:39.240
+
+Tipo: `hecho_confirmado`.
+
+Eldrat saca sus dagas y se coloca delante de Triel por si la tortuga fuera peligrosa. Leona pregunta hacia dónde mira el anciano e interpreta su silencio como permiso: lo levanta y lo lleva en esa dirección, mientras él se deja transportar. Los vecinos se inclinan aún más ante la escena. Ilikar los sigue creyendo que van a acercarlo al agua, Triel se adelanta y Eldrat corre detrás por miedo a que culpen a todos los extranjeros si dañan a la tortuga. Al cierre empieza a preparar comunicación mental y consulta a cuántas personas puede incluir.
+
+No hay respuesta verbal de la tortuga que autorice el transporte, aunque el director confirma que se deja llevar. El bloque termina antes de fijar destinatarios o resultado del contacto mental.
+
+## [40-017 · Triel sigue vendada y la masa de cadáveres se levanta](../capitulos/40.md) · 01:05:23.960
+
+Tipo: `hecho_confirmado`.
+
+Eldrat alcanza a su hermana Triel y le recuerda que aún está herida y debería permanecer en la aldea. Ella asegura estar bien, aunque conserva las vendas. Los restos llevan distintos tiempos allí y el grupo juzga probable que procedan de la comida del dragón verde. Mientras Tortas muestra el hueso, la amalgama sufre espasmos y se alza como una enorme masa de zombis, carne y cuerpos, bastante mayor que el anciano. Se inicia el combate.
+
+La procedencia de la comida del dragón se formula como probabilidad. La observación de vendas acredita la recuperación incompleta de Triel; no identifica por sí sola a los elfos anónimos del capítulo 39.
+
+## [40-019 · Puños del monje y lanzamiento de Triel a través de la masa](../capitulos/40.md) · 01:16:30.480
+
+Tipo: `hecho_confirmado`.
+
+Tortas golpea la masa varias veces y se retira sin recibir el ataque de oportunidad previsto. Triel pide a Ilikar que la lance, desenvaina dos espadas cortas y sale disparada contra la criatura. Atraviesa el conjunto de cuerpos y aparece al otro lado. El impacto desprende otro fragmento, que se levanta como zombi y se dirige contra la tortuga.
+
+La atribución del lanzamiento a Ilikar se apoya en la continuidad de su turno y en la celebración posterior con Triel; el nombre del lanzador no se pronuncia en esta breve acción.
+
+## [40-020 · Hielo de Ilikar y tentativa de envolver a Triel](../capitulos/40.md) · 01:22:34.719
+
+Tipo: `hecho_confirmado`.
+
+Ilikar entra en furia, aumenta su tamaño y aplica daño de hielo a un zombi y a la masa principal con su arma. La criatura extiende su cuerpo hacia Triel, le rasga la piel con fragmentos de carne y trata de envolverla; la elfa logra apartarse antes de quedar atrapada. Leona encadena golpes que alcanzan a los tres enemigos que la rodean.
+
+
+
+## [40-021 · Dagas para defender a Triel y descargas de veneno](../capitulos/40.md) · 01:27:04.199
+
+Tipo: `hecho_confirmado`.
+
+Eldrat lanza dos dagas moradas brillantes contra un enemigo que ha golpeado a su hermana. Un zombi cae y vuelve a levantarse. Los cuerpos verdes abren la boca y liberan grandes nubes de gas venenoso: en la primera descarga casi todos fallan la salvación salvo Leona; en la segunda la supera el grupo salvo Eldrat. El elfo queda tosiendo y los compañeros presentan heridas de distinta gravedad. Tortas aguanta la respiración y evita inhalar el gas.
+
+La broma sobre brillar o ser radioactivo no acredita radioactividad. Que un enemigo se levante tras caer forma parte de su resistencia; no se describe una nueva resurrección de un aliado.
+
+## [40-023 · Triel imita las patadas de Tortas e Ilikar mantiene la presión](../capitulos/40.md) · 01:37:01.719
+
+Tipo: `hecho_confirmado`.
+
+Triel, muy herida, se coloca junto a un zombi aturdido, adopta una postura de luchadora y golpea con su espada de escamas. Después mira a Tortas e imita sus técnicas mediante dos patadas. Otro enemigo falla sus dos golpes contra Ilikar. El goliat responde con varios ataques de lanza y hielo, incluido un golpe con el reverso, pero el zombi vuelve a levantarse.
+
+El color azul del nombre de la ficha procede de la identidad del arma ya catalogada; este bloque vuelve a describir las escamas, sin enunciar ese color.
+
+## [40-025 · Eldrat reprende a Triel y comparte la celebración](../capitulos/40.md) · 01:45:06.400
+
+Tipo: `hecho_confirmado`.
+
+Eldrat examina a Triel, llena de veneno y golpes, y le reprocha que haya aceptado otro lanzamiento estando todavía convaleciente. Ella se cura un poco y corre a celebrar con Ilikar que atravesó la criatura, aunque le tiembla el brazo al saludarlo. Eldrat termina sonriendo y se suma al saludo. Durante la celebración vuelve a plantearse ir a por el dragón.
+
+La escena muestra alivio y celebración tras el peligro; no acredita que Triel haya completado su recuperación ni que el grupo emprenda aún la caza del dragón. La pregunta final no se atribuye a un personaje sin identificación explícita del hablante.
+
+## [40-027 · Curación del anciano y fin del equívoco de la estatua](../capitulos/40.md) · 01:47:51.320
+
+Tipo: `hecho_confirmado`.
+
+Se propone regresar a casa. Tortas se limpia el caparazón manchado de sangre y veneno, recuerda que llevaba años sin moverse de la piedra y se cura con su propia técnica. Triel lo ayuda administrándole una poción directamente en la boca; él dice sentirse mucho mejor y elogia sus patadas. El anciano insiste en que es una tortuga y explica que permanecía quieto por considerar la paciencia una virtud.
+
+El regreso es una intención; el bloque continúa en la selva. Los años de inmovilidad no constituyen petrificación demostrada y no fijan una cantidad exacta. La aparición de un golem es una broma de mesa.
+
+## [40-028 · Pruebas de fuerza, respeto por los árboles y una isla lejana](../capitulos/40.md) · 01:50:53.280
+
+Tipo: `hecho_confirmado`.
+
+Tortas, Leona e Ilikar prueban su fuerza con árboles y surge la propuesta de una competición. El anciano critica que Ilikar haya golpeado un árbol al que aún le quedaba vida; enseña a reconocer un tronco próximo a morir por su sonido hueco. Las bromas derivan en probar hojas y corteza. Tortas declara que le agradan los compañeros y pregunta por sus orígenes. Un interlocutor describe un bosque muy lejano y una isla transcrita como Brunami. En el intercambio la tortuga indica que no ha salido de Xoltacan y acaba reconociendo que no conoce ese destino.
+
+La adscripción de Leona a Cuicapalli se oye con ASR incierto («Wikale/Ikipacale»); la de Ilikar a Shiaru se transcribe «Sharu». La procedencia del bosque y la isla no se atribuye a un personaje sin cotejo. «Conozco Brunami» se corrige después con «No lo conozco»; no acredita una visita previa.
+
+## [40-029 · Presentaciones de Tortas y preocupación por el veneno](../capitulos/40.md) · 01:56:02.360
+
+Tipo: `declaracion_personaje`.
+
+La tortuga se presenta como Tortas ante Triel, Leona, Ilikar y Eldrat. Le preocupa el veneno del dragón verde que deteriora el bosque. Triel relata que buscó el rastro del dragón para probar su valor después de las burlas de unos compañeros y cayó en una trampa. Tortas afirma que el dragón lleva mucho tiempo merodeando, pero aclara que no lo conoce personalmente. Las bromas sobre Gusiluz no cambian el nombre de Eldrat.
+
+El relato de la emboscada pertenece a Triel, a quien Eldrat vuelve a preguntar por la cueva en B3-02; no se repite el ataque en este bloque. Tortas no acredita trato personal con el dragón.
+
+## [40-030 · La Serpiente del Bosque y la cueva de la emboscada](../capitulos/40.md) · 02:02:39.199
+
+Tipo: `declaracion_personaje`.
+
+El director proporciona un nombre de reconocimiento incierto para el dragón verde y el título Serpiente del Bosque, que Tortas repite. Eldrat pregunta a su hermana por la cueva. Triel precisa que el dragón no estaba dentro cuando entró: la emboscó y le arrojó veneno por la espalda. No sabe si aquella cueva es su guarida. El mapa sitúa al grupo junto al lago y al enemigo de forma aproximada hacia la zona central, sin fijar un punto exacto.
+
+ASR: Clen Dranks, clungrax y otras deformaciones. No fijar grafía ni identificarlo con Clodidrax del capítulo 39 únicamente por especie, entorno o parecido fonético. La propiedad de la cueva queda abierta. La atribución a Triel se apoya en la pregunta de Eldrat a su hermana (02:04:23.960–02:04:39.079), antes de que el director cambie el foco a Ilikar (02:05:02.719), y se corrobora en B3-05.
+
+## [40-031 · Ilikar desafía al dragón y recibe advertencias](../capitulos/40.md) · 02:05:52.199
+
+Tipo: `hecho_confirmado`.
+
+Ilikar clava su lanza y desafía a gritos a la Serpiente del Bosque. Tortas y Eldrat cuestionan que busque un combate a muerte sin estar preparado y advierten de la astucia de los dragones verdes. Tortas declara que tiene 77 años. Triel invita a Leona a pelear y ambas empiezan a forcejear mientras los demás conversan.
+
+El desafío no provoca una respuesta visible ni un combate con el dragón. La supuesta doma de un dragón de fuego se pronuncia en una discusión con bromas sobre plantas ingeridas; no constituye aquí una hazaña verificada.
+
+## [40-033 · Rastro hacia el norte y decisión de recuperarse](../capitulos/40.md) · 02:11:01.520
+
+Tipo: `hecho_confirmado`.
+
+Ilikar inspecciona el lago, que contiene agua y animales pequeños, sin ver ninguno capaz de explicar los cuerpos de la orilla. El director considera que un dragón podría haberlos dejado. Una tirada de supervivencia revela copas deshojadas, arañazos y ramas dañadas por el paso de algo grande. Ilikar sigue las señales hacia el norte y las muestra a Eldrat. Eldrat reconoce el hallazgo, pero, aún cubierto de veneno y dolorido, ve también heridos a Ilikar, Triel y Leona y rechaza luchar en esas condiciones. Recuerda que a su hermana le tendieron una trampa el otro día y casi murió. Ilikar propone investigar o tender una trampa; no llega a hacerlo.
+
+El rastro no fecha el paso del dragón ni demuestra por sí solo que sea autor de todos los restos. La frase de Tortas «He detectado otro dragón» ocurre después de que el director limite su capacidad: no acredita otro dragón localizado.
+
+## [40-034 · Leona obliga a Ilikar a descansar y lo carga](../capitulos/40.md) · 02:19:02.120
+
+Tipo: `hecho_confirmado`.
+
+Tortas pide descanso a Triel y Leona, que siguen forcejeando y mordiéndose las orejas. Para reunir al grupo, Leona lanza sobre Ilikar una orden imperiosa de descansar. Ilikar cae hacia atrás, cerca del borde del agua, y ronca. Eldrat no consigue moverlo solo; finalmente Leona lo carga y el grupo emprende la vuelta a Iktan.
+
+La escena muestra la orden y la caída; no establece que Ilikar quede inconsciente de larga duración ni que sufra una lesión nueva.
+
+## [40-036 · Brazos astrales de Tortas y deseo de aprender de Triel](../capitulos/40.md) · 02:25:53.120
+
+Tipo: `hecho_confirmado`.
+
+Con permiso del director para la acción de escena, Tortas manifiesta una energía verde y brazos astrales que le permiten llevar a Ilikar hacia la taberna con los brazos físicos cruzados. Los habitantes se arrodillan y lo llaman protector y señor. Ilikar toma un barril de cerveza mientras lo transportan. Triel se sube a su caparazón y le pide que le enseñe a hacer aquello. Walulu permite a Leona descansar en la taberna; ella pretende regresar después a Cuicapalli. Eldrat pide que suelten al goliat, que ya dice haber descansado.
+
+El director autoriza una manifestación para el roleo. No se define una proyección astral separada del cuerpo ni una fuerza numérica nueva. Triel todavía no aprende la técnica.
+
+## [40-038 · Leona recibe trato de futura líder y los hermanos buscan aliados](../capitulos/40.md) · 02:33:15.520
+
+Tipo: `hecho_confirmado`.
+
+Leona pide comida y habitación a una tabaxi de la taberna. Se presenta como vecina de Cuicapalli y dice que la consideran futura líder, aunque no sea oficial. La tabernera le ofrece una habitación especial, mejor cerveza y comida, mientras sirve aceitunas pasadas a los elfos. Eldrat quiere reunir aliados contra el dragón y Triel lo cura con palabras. Los hermanos acuerdan repartirse las conversaciones con Leona y el goliat; Triel considera a Leona fuerte después de que la venciera y admira el poder de Tortas.
+
+No se consuma un nombramiento de Leona. La tabernera no recibe un nombre propio en este bloque; no fusionarla automáticamente con Angélica Thunder o Angelique. Las heridas no identifican a los elfos con los dos enfermos anónimos del capítulo 39.
+
+## [40-042 · Triel ocupa la piedra sagrada y Eldrat la aparta](../capitulos/40.md) · 02:48:50.319
+
+Tipo: `hecho_confirmado`.
+
+Eldrat, Ilikar y Leona perciben que la población, incluida Walulu, mira con extrañeza y disgusto la piedra que antes ocupaba Tortas. Triel está sentada allí intentando meditar: cree que puede conseguir brazos astrales por imitarlo. Eldrat la reprende, la retira tirándole de la oreja y se disculpa ante Walulu por ocupar la piedra sagrada. No se manifiesta ningún poder. El capítulo termina con Tortas escondido bajo el agua y Leona e Ilikar considerando si lanzar también la cabra restante.
+
+La creencia de Triel no prueba que la piedra conceda poderes. El último lanzamiento de la cabra se debate, pero no se resuelve.
 

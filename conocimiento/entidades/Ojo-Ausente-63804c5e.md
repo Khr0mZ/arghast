@@ -12,7 +12,7 @@ Base para revisar equivalencia: [13-008](../capitulos/13.md), [24-003](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 39.
+Relato revisado hasta el capítulo 40.
 
 ### Mapas defectuosos y tensiones en la tripulación
 

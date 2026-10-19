@@ -12,7 +12,7 @@ Base para revisar equivalencia: [01-004](../capitulos/01.md), [08-001](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 39.
+Relato revisado hasta el capítulo 40.
 
 ### Las advertencias de un superviviente
 

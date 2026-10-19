@@ -12,7 +12,7 @@ Base para revisar equivalencia: [35-004](../capitulos/35.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 39.
+Relato revisado hasta el capítulo 40.
 
 ### Negociar pociones antes de Aurora
 

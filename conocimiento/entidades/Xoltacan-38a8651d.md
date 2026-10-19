@@ -12,7 +12,7 @@ Base para revisar equivalencia: [35-014](../capitulos/35.md), [36-019](../capitu
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 39.
+Relato revisado hasta el capítulo 40.
 
 ### Una isla de pueblos vivos y ruinas disputadas
 
@@ -43,4 +43,12 @@ Tipo: `hecho_confirmado`.
 La escena final abandona Shiaru y muestra, en blanco y negro, la perspectiva de una bestia que corre por la jungla, llega a un saliente y aúlla a la luna. No se da un nombre ni se identifica expresamente al personaje.
 
 El montaje es compatible con el lobo que acaba de retirarse, pero no basta para confirmar su identidad.
+
+## [40-028 · Pruebas de fuerza, respeto por los árboles y una isla lejana](../capitulos/40.md) · 01:50:53.280
+
+Tipo: `hecho_confirmado`.
+
+Tortas, Leona e Ilikar prueban su fuerza con árboles y surge la propuesta de una competición. El anciano critica que Ilikar haya golpeado un árbol al que aún le quedaba vida; enseña a reconocer un tronco próximo a morir por su sonido hueco. Las bromas derivan en probar hojas y corteza. Tortas declara que le agradan los compañeros y pregunta por sus orígenes. Un interlocutor describe un bosque muy lejano y una isla transcrita como Brunami. En el intercambio la tortuga indica que no ha salido de Xoltacan y acaba reconociendo que no conoce ese destino.
+
+La adscripción de Leona a Cuicapalli se oye con ASR incierto («Wikale/Ikipacale»); la de Ilikar a Shiaru se transcribe «Sharu». La procedencia del bosque y la isla no se atribuye a un personaje sin cotejo. «Conozco Brunami» se corrige después con «No lo conozco»; no acredita una visita previa.
 

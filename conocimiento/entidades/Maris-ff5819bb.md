@@ -12,7 +12,7 @@ Base para revisar equivalencia: [24-006](../capitulos/24.md), [29-002](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 39.
+Relato revisado hasta el capítulo 40.
 
 ### Una deuda de gratitud en la costa
 

@@ -12,7 +12,7 @@ Base para revisar equivalencia: [03-027](../capitulos/03.md), [38-005](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 39.
+Relato revisado hasta el capítulo 40.
 
 ### Una pirata endeudada y un secreto peligroso
 
@@ -37,6 +37,12 @@ Fuentes: [24-020 · Ropa, cultivo y reclutamiento](../capitulos/24.md) · 02:32:
 En la expedición a las ruinas arrasadas, Ione vuelve a atacar a sus aliados, pero el apoyo de Poncelot le permite recuperar el control sin abandonar la forma lupina y proteger a Blink de otro hombre lobo. Después intenta rastrear a ese desconocido sin alcanzarlo. En Shiaru conoce a Ilikar, empata con él en un duelo y lo incorpora a la tripulación. Ambos ayudan a desencajar el barco mientras combaten a un pulpo gigante. Ione lo muerde como gesto de pertenencia y protección: él siente algo extraño, pero no se confirma un contagio. Su último encuentro deja preparada una revancha, ahora con la transformación sobre la mesa.
 
 Fuentes: [36-013 · Ione ataca a sus aliados y los intentos de calmarla fallan](../capitulos/36.md) · 01:46:00.000 · [36-015 · Ione recupera el control e intimida al otro lobo](../capitulos/36.md) · 02:06:00.000 · [38-001 · Reencuentro de la escudera y rastreo del licántropo](../capitulos/38.md) · 00:00:00.000 · [38-004 · Duelo amistoso con resultado de empate](../capitulos/38.md) · 00:18:00.000 · [38-014 · Mordedura ritual de Ione a Ilikar](../capitulos/38.md) · 01:51:00.000 · [38-015 · El Zampaolas queda desencajado](../capitulos/38.md) · 01:58:00.000 · [38-017 · Significado de la mordedura y decepción de Ilikar](../capitulos/38.md) · 02:12:00.000 · [38-018 · Ione tranquiliza a Poncelot y se revela la propiedad del cofre](../capitulos/38.md) · 02:17:00.000.
+
+### Una capitana a la que se quiere reclutar
+
+Al pactar con Eldrat contra el dragón, Ilikar propone sumar la fuerza de su capitana Ione y de Sir Poncelot, pero explica que debe regresar a Shiaru. No se muestra una invitación ni la respuesta de la capitana.
+
+Fuentes: [40-039 · Origen de Ilikar y posibles aliados en Shiaru](../capitulos/40.md) · 02:36:36.680.
 
 ## Registros y evidencias
 
@@ -2375,4 +2381,12 @@ Tipo: `hecho_confirmado`.
 Ione quiere una revancha y pide a Poncelot que la enfade. Él teme que lo sustituyan, pero ella reafirma su confianza y le asegura que no será reemplazado. La emoción la transforma en loba; abraza y lame al gnomo y prepara el duelo con Ilikar, sin que se muestre el resultado. Erandy encuentra parecido el jade a otro anterior. En una escena reservada, un hipopótamo arroja al agua el cofre vacío y se ve una placa de propiedad de Happy Bonnie.
 
 Según el director, los personajes no observan la placa porque están distraídos. No se acredita un robo intencional con conocimiento de la propietaria; las consecuencias quedan pendientes.
+
+## [40-039 · Origen de Ilikar y posibles aliados en Shiaru](../capitulos/40.md) · 02:36:36.680
+
+Tipo: `declaracion_personaje`.
+
+Ilikar declara que procede de Valle Blanco, en las tierras frías del norte. Quiere un trofeo con el que hacerse amigo de un líder y del que su capitana esté orgullosa; Eldrat intenta atraerlo con posibles combates y premios posteriores. Ilikar dice que debe volver a Shiaru y propone sumar la fuerza de su capitana Ione y de Sir Poncelot. Atribuye a Poncelot la muerte de dragones, dinosaurios y gigantes del bosque. Eldrat considera visitarlos y propone competiciones de natación, robo, combate y lanzamiento para prepararse; Ilikar ofrece costumbres de fuerza de su tierra.
+
+Las hazañas de Poncelot se transmiten como testimonio de Ilikar; no se revisitan ni verifican en esta escena. Ione y Poncelot no están presentes ni aceptan participar. El lanzamiento de una cabra a 142 metros es un recuerdo contado durante la broma de los juegos.
 

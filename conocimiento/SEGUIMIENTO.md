@@ -2,15 +2,15 @@
 
 Cada entrada conserva la pregunta de su sesión y la vincula con evidencias posteriores. Una respuesta parcial no cierra las partes que siguen desconocidas. Los minutos corresponden a las anclas de los subtítulos.
 
-Resuelta: 15 · Parcialmente resuelta: 53 · Pendiente: 160 · Sin revisar: 0
+Resuelta: 16 · Parcialmente resuelta: 54 · Pendiente: 165 · Sin revisar: 0
 
-Catálogo revisado hasta el capítulo 39. Entradas que requieren revisión tras nuevos capítulos: 0.
+Catálogo revisado hasta el capítulo 40. Entradas que requieren revisión tras nuevos capítulos: 0.
 
 ## P01-001 · Parcialmente resuelta
 
 ¿Por qué Ione pide cadenas esa noche? ¿Qué relación hay con la luna llena y la acción final de Nox? 01-019 y 01-034 no confirman licantropía.
 
-Origen: [capítulo 01](capitulos/01.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 01](capitulos/01.md). Cotejada hasta el capítulo 40.
 
 Ione se transforma explícitamente en mujer lobo en el capítulo 3. Nox utiliza cadenas para ella y el grupo emplea medios de contención y calma; esto esclarece la necesidad de precauciones. No se representa lo que hizo Nox después del salto al mar ni se demuestra que la luna llena sea el único desencadenante.
 
@@ -22,7 +22,7 @@ Evidencia posterior: [03-024 · 02:21:32](capitulos/03.md) · [03-029 · 02:43:1
 
 ¿Qué significan las coincidencias que Nox ve entre su mapa y la armadura del guerrero? 01-034.
 
-Origen: [capítulo 01](capitulos/01.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 01](capitulos/01.md). Cotejada hasta el capítulo 40.
 
 No se explica posteriormente la coincidencia concreta entre el mapa de Nox y la armadura del guerrero. Las revelaciones sobre sus tatuajes y otras estatuas no identifican por sí mismas los símbolos de ese mapa.
 
@@ -32,7 +32,7 @@ No se explica posteriormente la coincidencia concreta entre el mapa de Nox y la 
 
 ¿Por qué murieron los hijos adoptivos de Mamá antes que ella? Su relato no da causa: 01-007.
 
-Origen: [capítulo 01](capitulos/01.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 01](capitulos/01.md). Cotejada hasta el capítulo 40.
 
 No se establece por qué murieron los hijos adoptivos de Citlali. Su recuerdo posterior de un bebé que intentó salvar y perdió no identifica a todos aquellos hijos ni demuestra una causa común.
 
@@ -44,7 +44,7 @@ Evidencia posterior: [39-002 · 00:05:48](capitulos/39.md)
 
 ¿Existen las pirámides de oro y dónde están? Se presenta como leyenda: 01-021.
 
-Origen: [capítulo 01](capitulos/01.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 01](capitulos/01.md). Cotejada hasta el capítulo 40.
 
 No se verifica la existencia ni la ubicación de las pirámides de oro de la leyenda. Las pirámides exploradas en otros capítulos no se identifican como esas construcciones.
 
@@ -54,7 +54,7 @@ No se verifica la existencia ni la ubicación de las pirámides de oro de la ley
 
 ¿Qué ocurrió con la familia del elfo, cuál es su reliquia y quién puede repararla? 01-005 y 01-018.
 
-Origen: [capítulo 01](capitulos/01.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 01](capitulos/01.md). Cotejada hasta el capítulo 40.
 
 No se revela la adversidad familiar de Erendriel, no se identifica inequívocamente su reliquia ni se muestra quién la repara. Más adelante exhibe un anillo familiar y Nox lo conserva tras su muerte, pero no se establece que sea la reliquia que necesitaba reparación.
 
@@ -66,7 +66,7 @@ Evidencia posterior: [05-010 · 00:30:18](capitulos/05.md) · [28-019 · 01:47:1
 
 ¿Cómo se llama el dragoncito? La mención Zari a 01:47:33–01:47:48 es una candidata, sin presentación inequívoca en la transcripción.
 
-Origen: [capítulo 01](capitulos/01.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 01](capitulos/01.md). Cotejada hasta el capítulo 40.
 
 En el capítulo 15 se pronuncia Tarin al pasar al turno del dragón de Erendriel. Es una nueva candidata nominal, no una presentación inequívoca que permita confirmar la grafía ni descartar definitivamente la mención anterior de Zari.
 
@@ -78,7 +78,7 @@ Evidencia posterior: [15-012 · 01:26:13](capitulos/15.md)
 
 ¿Cuánto deben los piratas a Bonnie y cuánto descuenta por lo obtenido? No consta saldo: 01-011 y 01-029.
 
-Origen: [capítulo 01](capitulos/01.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 01](capitulos/01.md). Cotejada hasta el capítulo 40.
 
 Bonnie anuncia un aumento de la deuda tras el incendio del buque. En el capítulo 37 sigue reclamando deudas por el barco, la taberna y la estancia de Mamá, retiene el pago de Nox y le entrega una moneda. Ninguno de esos pasajes fija el saldo inicial ni el descuento por el robo del capítulo 1.
 
@@ -90,7 +90,7 @@ Evidencia posterior: [05-031 · 02:49:47](capitulos/05.md) · [37-016 · 02:07:4
 
 ¿Cuándo ocurre exactamente el accidente respecto a la llegada del resto? Solo se indican algunos meses de servicio: 01-030.
 
-Origen: [capítulo 01](capitulos/01.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 01](capitulos/01.md). Cotejada hasta el capítulo 40.
 
 No aparece una fecha o duración posterior que permita calcular exactamente el intervalo entre el accidente y la llegada de los otros personajes. Se conserva la referencia inicial a varios meses de servicio.
 
@@ -100,7 +100,7 @@ No aparece una fecha o duración posterior que permita calcular exactamente el i
 
 ¿Qué ocurrió en el camarote y por qué se rompieron las cadenas? ¿Cómo llegó Ione desnuda a la selva? 02-001, 02-003 y 02-007 añaden evidencias a 01-019 y 01-034, sin confirmar causa sobrenatural.
 
-Origen: [capítulo 02](capitulos/02.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 02](capitulos/02.md). Cotejada hasta el capítulo 40.
 
 El capítulo 3 confirma la transformación de Ione en mujer lobo y el 4 relata otra recuperación de su forma humana sin recuerdos claros. Esos hechos permiten reconocer su condición, pero no reconstruyen directamente la rotura de las cadenas ni el recorrido concreto de la noche del capítulo 2.
 
@@ -112,7 +112,7 @@ Evidencia posterior: [03-024 · 02:21:32](capitulos/03.md) · [04-003 · 00:04:2
 
 ¿Quién provocó el zarpazo que Nox muestra y qué causó el enfado de Bonnie? No está confirmado: 02-004 y 02-019.
 
-Origen: [capítulo 02](capitulos/02.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 02](capitulos/02.md). Cotejada hasta el capítulo 40.
 
 No se identifica de manera explícita al autor del zarpazo de Nox ni la causa concreta del enfado de Bonnie en esa escena. La licantropía de Ione no demuestra retrospectivamente que ella causara esa herida.
 
@@ -122,7 +122,7 @@ No se identifica de manera explícita al autor del zarpazo de Nox ni la causa co
 
 ¿Qué tribu masacró la de Chochi, cuándo ocurrió y dónde vivían? 02-017 y 02-021 no dan nombres ni responsables.
 
-Origen: [capítulo 02](capitulos/02.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 02](capitulos/02.md). Cotejada hasta el capítulo 40.
 
 Axi vuelve a mencionar que los sabios de su aldea ya no están vivos, pero no proporciona el nombre de la tribu, la fecha o los responsables de su destrucción. Tampoco se identifica a los emboscadores por esa relación.
 
@@ -134,7 +134,7 @@ Evidencia posterior: [17-003 · 00:13:25](capitulos/17.md)
 
 ¿Cuál es la tribu adoptiva de Ayoto y fue realmente expulsado por su tamaño? Relato no corroborado: 02-021.
 
-Origen: [capítulo 02](capitulos/02.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 02](capitulos/02.md). Cotejada hasta el capítulo 40.
 
 Naór conoce el rumor de un extranjero de dos escudos criado en la isla; Ayoto afirma proceder de una aldea del norte. No se nombra inequívocamente su tribu adoptiva ni se corrobora la expulsión por su tamaño.
 
@@ -146,7 +146,7 @@ Evidencia posterior: [16-007 · 00:35:49](capitulos/16.md)
 
 ¿Qué tribu concreta compone la emboscada y qué especie es el dinosaurio? No se identifican: 02-012 y 02-016.
 
-Origen: [capítulo 02](capitulos/02.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 02](capitulos/02.md). Cotejada hasta el capítulo 40.
 
 Kilzer y Axi reconocen en otro poblado atacantes parecidos a los de su primer encuentro. El director distingue varias tribus, sin dar un nombre a la de la emboscada original. No se confirma la especie del dinosaurio que devoró aquellos cadáveres.
 
@@ -158,7 +158,7 @@ Evidencia posterior: [15-010 · 01:04:26](capitulos/15.md)
 
 ¿Qué ayuda nocturna solicita Nox a Ayoto? Se relaciona temáticamente con las cadenas, pero no se confirma esa conexión: 02-023.
 
-Origen: [capítulo 02](capitulos/02.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 02](capitulos/02.md). Cotejada hasta el capítulo 40.
 
 No se detalla posteriormente la tarea nocturna propuesta a Ayoto ni se muestra su ejecución. La transformación de Ione ofrece contexto sobre los riesgos que afrontan los piratas, pero no identifica por sí sola aquel encargo.
 
@@ -170,7 +170,7 @@ Evidencia posterior: [03-024 · 02:21:32](capitulos/03.md)
 
 ¿Se repetirá el pulso? ¿Quién conserva las monedas y se cumple algún reclutamiento? El cierre deja la apuesta disputada: 02-027–02-029.
 
-Origen: [capítulo 02](capitulos/02.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 02](capitulos/02.md). Cotejada hasta el capítulo 40.
 
 Chochi declara después que, como consecuencia de la apuesta, acabó en la tripulación de Ione. Esa aceptación posterior resuelve su posición declarada, pero no se documenta un nuevo pulso ni un cierre completo de las monedas y condiciones disputadas por los demás.
 
@@ -182,7 +182,7 @@ Evidencia posterior: [06-005 · 00:09:07](capitulos/06.md)
 
 ¿Qué busca la Marina en la excavación? Se confirma que excava; el oro era solo una sospecha de los captores (03-003 y 03-019).
 
-Origen: [capítulo 03](capitulos/03.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 03](capitulos/03.md). Cotejada hasta el capítulo 40.
 
 Jack declara que encontraron un collar en las minas. Posteriormente se obtiene un mapa de investigaciones y excavaciones y unos documentos sobre cultos serpiente y una ciudad buscada por la Marina. No se precisa que todo ello sea el objetivo concreto de aquella excavación.
 
@@ -194,7 +194,7 @@ Evidencia posterior: [05-005 · 00:10:46](capitulos/05.md) · [12-030 · 03:08:5
 
 ¿De dónde procede Blink/Blank y cómo llegó a este mundo? Relato de árboles parlantes y sensación de extrañeza, sin plano o portal identificado (03-005).
 
-Origen: [capítulo 03](capitulos/03.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 03](capitulos/03.md). Cotejada hasta el capítulo 40.
 
 En el capítulo 8 se relaciona el trasfondo de Blink con el plano feérico. Al explorar el mercante percibe una corrupción parecida a la de su antiguo hogar, sin que se confirme la misma causa. No se identifica su bosque ni se narra el portal o mecanismo que la llevó a Xoltacan.
 
@@ -206,7 +206,7 @@ Evidencia posterior: [08-011 · 00:32:23](capitulos/08.md) · [14-021 · 02:34:2
 
 ¿Por qué Ione es licántropa y cómo se controla? La forma de mujer lobo queda confirmada (03-024, 03-031), pero Poncelot y Mamá solo especulan sobre su origen (03-028).
 
-Origen: [capítulo 03](capitulos/03.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 03](capitulos/03.md). Cotejada hasta el capítulo 40.
 
 Se prueban métodos de contención, una palabra de aviso y recursos para recuperar el control. En el capítulo 36, la ayuda de Poncelot permite que Ione reconozca a sus aliados aun transformada, y después vuelve a su forma humana. No se explica el origen de su licantropía ni se muestra una cura definitiva.
 
@@ -218,7 +218,7 @@ Evidencia posterior: [12-011 · 00:41:11](capitulos/12.md) · [36-014 · 01:58:5
 
 ¿Qué harán con el marine cautivo? Nox lo lleva encadenado, sin destino final ni interrogatorio mostrado (03-029, 03-031).
 
-Origen: [capítulo 03](capitulos/03.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 03](capitulos/03.md). Cotejada hasta el capítulo 40.
 
 El cautivo es Jack. Nox lo lleva a Shiaru y lo presenta como exmarine incorporado a los piratas, aunque Jack inicialmente rechaza esa vida. Se proyecta su viaje a Puerto de Espadas, regresa de allí y continúa apareciendo junto a la tripulación del Zampaolas hasta el capítulo 38.
 
@@ -228,7 +228,7 @@ Evidencia posterior: [05-001 · 00:01:57](capitulos/05.md) · [05-003 · 00:05:4
 
 ¿Cuál es la recompensa y acusación exacta del cartel de Nox? Lo reconocen por un cartel; el importe no queda inequívoco (03-022).
 
-Origen: [capítulo 03](capitulos/03.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 03](capitulos/03.md). Cotejada hasta el capítulo 40.
 
 No se localiza una cifra y una acusación inequívocas para el cartel de Nox. Las recompensas posteriores ofrecidas por Molly se refieren a Ione o a información y no permiten completar el cartel de Nox.
 
@@ -238,7 +238,7 @@ No se localiza una cifra y una acusación inequívocas para el cartel de Nox. La
 
 ¿Ingresará Poncelot en la tripulación? Ione lo invita mediante una versión caballeresca engañosa; no hay juramento de tripulación explícito fuera de esa prueba presentada (03-015 y 03-020).
 
-Origen: [capítulo 03](capitulos/03.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 03](capitulos/03.md). Cotejada hasta el capítulo 40.
 
 Poncelot participa repetidamente con los piratas, ayuda a reparar el Zampaolas y recibe de Ione una oferta de camarote para él y su tigre. Prefiere alojarse con Liz. No se representa un juramento o una incorporación formal inequívoca como la de otros reclutas.
 
@@ -250,7 +250,7 @@ Evidencia posterior: [35-001 · 00:03:15](capitulos/35.md) · [36-018 · 02:30:0
 
 ¿Qué especie de dinosaurio es Merlucilla y qué vínculos reales tiene con una madre? Solo Nox afirma que es una cría; no se ve su madre (03-011).
 
-Origen: [capítulo 03](capitulos/03.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 03](capitulos/03.md). Cotejada hasta el capítulo 40.
 
 No se confirma la especie precisa del dinosaurio Merlucilla I ni se identifica o encuentra a su madre. La recapitulación posterior sobre su muerte no completa esos datos.
 
@@ -260,7 +260,7 @@ No se confirma la especie precisa del dinosaurio Merlucilla I ni se identifica o
 
 ¿Qué pretende Bonnie al decir a Ione que no hable con Nox? ¿Qué sabe de sus asuntos y de las gemas? 04-029.
 
-Origen: [capítulo 04](capitulos/04.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 04](capitulos/04.md). Cotejada hasta el capítulo 40.
 
 Bonnie localiza la gema entregada a Liz y ordena recuperar las gemas repartidas. Después recibe de Nox el mono, una moneda y una gema. Esto demuestra su conocimiento del reparto y su reclamación, pero no explica completamente por qué quiso impedir que Ione hablara con Nox.
 
@@ -272,7 +272,7 @@ Evidencia posterior: [06-004 · 00:07:44](capitulos/06.md) · [11-029 · 03:05:3
 
 ¿A qué civilización o tribu pertenece el collar antiguo y de dónde lo obtuvieron los hombres de Bonnie? Su antigüedad no resuelve su origen exacto (04-020).
 
-Origen: [capítulo 04](capitulos/04.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 04](capitulos/04.md). Cotejada hasta el capítulo 40.
 
 Jack dice que en las minas encontraron un collar, proporcionando una procedencia excavada al objeto reclamado. No se identifica su civilización, tribu, deidad o lugar exacto dentro de las minas.
 
@@ -284,7 +284,7 @@ Evidencia posterior: [05-005 · 00:10:46](capitulos/05.md)
 
 ¿Recuperarán las gemas de los compañeros y la entregada a la Sirena Borracha? Bonnie ordena buscarlas, pero no hay confiscación mostrada (04-029–04-030).
 
-Origen: [capítulo 04](capitulos/04.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 04](capitulos/04.md). Cotejada hasta el capítulo 40.
 
 Nox roba a Kilzer una obsidiana después llamada gema, entrega una gema a Bonnie y obtiene la de Liz al final del capítulo 11. El recuento pasa por tres, dos y una, con entregas externas mencionadas, por lo que no se acredita que todas las gemas hayan vuelto a Bonnie.
 
@@ -296,7 +296,7 @@ Evidencia posterior: [11-028 · 02:59:49](capitulos/11.md) · [11-029 · 03:05:3
 
 ¿Qué criatura divina se manifiesta a Mamá? ¿Qué equilibrio propone preservar y por qué quiere que suelten más a Ione? No se da nombre: 04-024.
 
-Origen: [capítulo 04](capitulos/04.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 04](capitulos/04.md). Cotejada hasta el capítulo 40.
 
 No se proporciona un nombre o identidad posterior para la criatura divina que visitó a Mamá ni se explica plenamente el equilibrio que defendían. No se vincula de forma comprobada a otra deidad o entidad de las tramas posteriores.
 
@@ -306,7 +306,7 @@ No se proporciona un nombre o identidad posterior para la criatura divina que vi
 
 ¿Qué ocurrió con el marine que Nox llevaba cautivo en el capítulo 3? No aparece su destino aquí.
 
-Origen: [capítulo 04](capitulos/04.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 04](capitulos/04.md). Cotejada hasta el capítulo 40.
 
 El marine es Jack y sigue vivo. Nox lo presenta en Shiaru como exmarine, le propone un viaje condicionado a Puerto de Espadas y Jack regresa de ese puerto. Más adelante participa con los piratas y aparece entre los antiguos tripulantes que disparan al pulpo ya muerto.
 
@@ -316,7 +316,7 @@ Evidencia posterior: [05-001 · 00:01:57](capitulos/05.md) · [05-003 · 00:05:4
 
 ¿Cómo reaccionará Poncelot a la muerte de Merlucilla? No participa en esta sesión: 04-003.
 
-Origen: [capítulo 04](capitulos/04.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 04](capitulos/04.md). Cotejada hasta el capítulo 40.
 
 Poncelot sigue buscando a la primera Merlucilla en el capítulo 11 porque cree que escapó. No se localiza una escena posterior en la que descubra que Ione se la comió y reaccione a esa revelación. Su duelo por la mosca Merlucilla III corresponde a otro animal.
 
@@ -328,7 +328,7 @@ Evidencia posterior: [11-004 · 00:07:05](capitulos/11.md)
 
 ¿Qué conjuro contiene el pergamino mágico recuperado? Sin identificación: 04-015.
 
-Origen: [capítulo 04](capitulos/04.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 04](capitulos/04.md). Cotejada hasta el capítulo 40.
 
 No se identifica el conjuro del pergamino tomado del pirata en el capítulo 4. Los pergaminos de otras expediciones no se consideran el mismo objeto sin una conexión explícita.
 
@@ -338,7 +338,7 @@ No se identifica el conjuro del pergamino tomado del pirata en el capítulo 4. L
 
 ¿Se mantienen la segunda cola y los otros efectos de frutas fuera de esta partida? No consta persistencia: 04-010.
 
-Origen: [capítulo 04](capitulos/04.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 04](capitulos/04.md). Cotejada hasta el capítulo 40.
 
 Los capítulos posteriores vuelven a presentar varios efectos de frutas como temporales de una partida, pero no documentan específicamente cuándo desaparecen la segunda cola y los demás efectos del capítulo 4. Otros efectos tienen duraciones propias y no permiten una regla retrospectiva universal.
 
@@ -350,7 +350,7 @@ Evidencia posterior: [07-011 · 00:45:42](capitulos/07.md)
 
 ¿Qué condiciones exactas incluye el contrato de Bonnie y Molly? Se habla de diezmo y permiso, pero no se lee completo. ¿Hay otras copias? No se demuestra anulación legal por robarlo (05-008 y 05-024).
 
-Origen: [capítulo 05](capitulos/05.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 05](capitulos/05.md). Cotejada hasta el capítulo 40.
 
 Bonnie afirma posteriormente que protegió la isla durante cinco años y que Molly era su aliada; ambas confirman un intercambio de información y rutas. Esto no proporciona las cláusulas completas del contrato sustraído, no acredita copias ni demuestra una anulación causada por el robo.
 
@@ -362,7 +362,7 @@ Evidencia posterior: [28-020 · 01:50:42](capitulos/28.md) · [36-004 · 00:25:2
 
 ¿Qué escribió Nox en su nota? ¿Molly la encontrará o sobrevivió al incendio? Contenido y lectura desconocidos (05-024, 05-032).
 
-Origen: [capítulo 05](capitulos/05.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 05](capitulos/05.md). Cotejada hasta el capítulo 40.
 
 No se transcribe el contenido de la nota que Nox dejó en el buque incendiado ni se confirma que Molly la recibiera o leyera. Las cartas posteriores son comunicaciones distintas.
 
@@ -372,7 +372,7 @@ No se transcribe el contenido de la nota que Nox dejó en el buque incendiado ni
 
 ¿Qué hará Molly tras el incendio y la explosión? ¿Quiénes sobrevivieron entre la tripulación del buque? El cierre muestra su barca acercándose, sin balance de víctimas (05-029–05-033).
 
-Origen: [capítulo 05](capitulos/05.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 05](capitulos/05.md). Cotejada hasta el capítulo 40.
 
 Molly reaparece al mando en Aurora, después es destituida y encarcelada, y Nox la libera. Regresa a Shiaru y colabora con Bonnie. Se conocen así sus acciones posteriores, pero no un balance de supervivientes de la tripulación del buque incendiado.
 
@@ -384,7 +384,7 @@ Evidencia posterior: [23-012 · 02:07:46](capitulos/23.md) · [35-009 · 01:20:0
 
 ¿Cuál será el nuevo saldo de deuda y qué trabajos dará Bonnie al visitante? Anuncio sin cifras ni tarea concreta (05-031).
 
-Origen: [capítulo 05](capitulos/05.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 05](capitulos/05.md). Cotejada hasta el capítulo 40.
 
 No se fija el nuevo saldo de la deuda ni se identifica inequívocamente el trabajo especial anunciado como castigo para Kilzer. El proyecto de casino tiene términos posteriores, pero no se confirma que sea aquel encargo. Bonnie sigue reclamando deudas sin un balance completo.
 
@@ -396,7 +396,7 @@ Evidencia posterior: [13-011 · 00:46:14](capitulos/13.md) · [37-016 · 02:07:4
 
 ¿Dónde queda Jack y logra volver con Lucy? Se lo aparta de la Marina y se aleja con ropa de pirata; no hay desenlace (05-007, 05-011).
 
-Origen: [capítulo 05](capitulos/05.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 05](capitulos/05.md). Cotejada hasta el capítulo 40.
 
 Jack permanece con los piratas, recibe el plan de visitar a Lucy mientras cobra en Puerto de Espadas y más tarde vuelve de ese puerto. En el capítulo 33 dice haber perdido su familia y trabajo por dejar la Marina. No se muestra un reencuentro con Lucy ni se aclara qué significa exactamente esa pérdida familiar.
 
@@ -408,7 +408,7 @@ Evidencia posterior: [12-007 · 00:26:43](capitulos/12.md) · [23-004 · 00:34:0
 
 ¿Qué muestran los dos mapas y los otros documentos de Puerto de Espadas conservados por Erendriel? El texto no se lee (05-024, 05-033).
 
-Origen: [capítulo 05](capitulos/05.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 05](capitulos/05.md). Cotejada hasta el capítulo 40.
 
 Erendriel ofrece revisar los mapas recuperados del buque, pero Nox prefiere esperar y centrarse en su propio mapa. No se lee un contenido completo que identifique los dos mapas y todos los documentos de Puerto de Espadas.
 
@@ -420,7 +420,7 @@ Evidencia posterior: [07-030 · 02:29:38](capitulos/07.md)
 
 ¿Qué ocurrió exactamente entre Nox y Molly en el pasado? Por ahora solo está su confesión de haberla abandonado tras descubrir su puesto (05-009).
 
-Origen: [capítulo 05](capitulos/05.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 05](capitulos/05.md). Cotejada hasta el capítulo 40.
 
 Molly culpa a Nox cuando este la libera y él se disculpa por el pasado. Esas reacciones no reconstruyen con detalle la relación, el abandono y sus circunstancias ni proporcionan una versión completa de Molly.
 
@@ -432,7 +432,7 @@ Evidencia posterior: [35-012 · 01:48:56](capitulos/35.md) · [35-015 · 02:10:1
 
 ¿Se identificarán nombre de familia y nombre preferido de Erendriel? Anillo y cambio de aspecto observados, palabras finales del nombre imprecisas (05-010, 05-033).
 
-Origen: [capítulo 05](capitulos/05.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 05](capitulos/05.md). Cotejada hasta el capítulo 40.
 
 El mismo elfo pide explícitamente que lo llamen Salazor en el capítulo 8. Después vuelve a utilizarse Erendriel. No se revela el nombre de su familia; el anillo tampoco lo identifica.
 
@@ -444,7 +444,7 @@ Evidencia posterior: [08-007 · 00:20:24](capitulos/08.md) · [12-004 · 00:14:3
 
 ¿Está Chochi infectado por la mordedura de Ione? Mordisco, salvaciones de Constitución y malestar documentados, sin contagio explícitamente confirmado ni transformación mostrada (06-030).
 
-Origen: [capítulo 06](capitulos/06.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 06](capitulos/06.md). Cotejada hasta el capítulo 40.
 
 Axi continúa identificado contextualmente con Chochi. En el capítulo 33 relata despertar sin memoria entre animales destrozados y parcialmente comidos, y teme intuir la causa. Es una pista nueva, pero no un diagnóstico de contagio ni una transformación observada.
 
@@ -456,7 +456,7 @@ Evidencia posterior: [09-020 · 01:22:25](capitulos/09.md) · [33-001 · 00:05:0
 
 ¿Dónde está Ione y recuperará forma habitual? Salió del agua y huyó tras romperse su burbuja, Blink va a buscarla (06-032, 06-038).
 
-Origen: [capítulo 06](capitulos/06.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 06](capitulos/06.md). Cotejada hasta el capítulo 40.
 
 Ione relata que huyó a la jungla, pasó un día hasta recuperar su forma habitual y regresó al pueblo muy herida. Permaneció en cama con dolor en las costillas y vuelve a participar con el grupo en el capítulo 9.
 
@@ -466,7 +466,7 @@ Evidencia posterior: [09-002 · 00:03:16](capitulos/09.md)
 
 ¿Qué coste y tratamiento tendrán las heridas de Chochi y del visitante? Van a buscar al médico, consulta no representada (06-038).
 
-Origen: [capítulo 06](capitulos/06.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 06](capitulos/06.md). Cotejada hasta el capítulo 40.
 
 Kilzer relata haber pasado bastante tiempo en el hospital por las heridas de las sirenas y el tiburón. Esto confirma atención posterior para el visitante, pero no se detallan su tratamiento o coste ni la consulta concreta de Chochi.
 
@@ -478,7 +478,7 @@ Evidencia posterior: [08-003 · 00:04:13](capitulos/08.md)
 
 ¿El oro del huevo son diez o cinco monedas? Ambas cifras aparecen; tres perlas son consistentes. Reparto definitivo pendiente (06-037).
 
-Origen: [capítulo 06](capitulos/06.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 06](capitulos/06.md). Cotejada hasta el capítulo 40.
 
 Poncelot vende las tres perlas por sesenta monedas y una obsidiana por ocho. Al repartir utiliza diez monedas de botín adicional y entrega catorce a Kilzer, sin borrar la cifra de cinco del cierre del capítulo 6. No se representa el reparto completo a todos los compañeros.
 
@@ -490,7 +490,7 @@ Evidencia posterior: [11-005 · 00:11:00](capitulos/11.md) · [11-008 · 00:24:1
 
 ¿Qué pasó con los captores de Blink y con los piratas atados que Poncelot llevó al juzgado? No se identifican ni se muestra su destino (06-003 y 06-009). No fusionarlos con otras partidas de piratas.
 
-Origen: [capítulo 06](capitulos/06.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 06](capitulos/06.md). Cotejada hasta el capítulo 40.
 
 Blink encuentra vivos en Shiaru a sus dos antiguos captores y recupera de ellos el mondadientes. No se identifica con certeza a esos captores con los piratas atados que Poncelot dijo llevar al supuesto juzgado ni se documenta el destino de estos últimos.
 
@@ -502,7 +502,7 @@ Evidencia posterior: [14-003 · 00:15:42](capitulos/14.md)
 
 ¿Recuperará Ione las gemas que Bonnie reclama? Solo encargo recapitulativo, no devolución (06-004).
 
-Origen: [capítulo 06](capitulos/06.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 06](capitulos/06.md). Cotejada hasta el capítulo 40.
 
 Nox obtiene una gema de Kilzer, entrega una a Bonnie y roba la gema de Liz. Hay recuperación documentada, pero las cifras finales y las entregas mencionadas fuera de escena no permiten confirmar una devolución completa de todas las gemas.
 
@@ -514,7 +514,7 @@ Evidencia posterior: [11-028 · 02:59:49](capitulos/11.md) · [11-029 · 03:05:3
 
 ¿Quién es exactamente Elger Banana, qué flota manda y qué tesoro buscaban sus piratas? Relatos de sirena y reconocimiento de Ione, sin encuentro directo (06-016–06-018).
 
-Origen: [capítulo 06](capitulos/06.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 06](capitulos/06.md). Cotejada hasta el capítulo 40.
 
 No se documenta un encuentro o una explicación posterior que complete la identidad de Elger Banana, la composición exacta de su flota o el objetivo íntegro de sus piratas. Se conserva el reconocimiento y el testimonio del capítulo 6.
 
@@ -524,7 +524,7 @@ No se documenta un encuentro o una explicación posterior que complete la identi
 
 ¿El crecimiento que dio la señora a Marina permanece y qué hechizo había sobre ella? Se observa restauración al llegar, sin identificación del conjuro original (06-025).
 
-Origen: [capítulo 06](capitulos/06.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 06](capitulos/06.md). Cotejada hasta el capítulo 40.
 
 No se identifica posteriormente el conjuro que reducía a Marina ni se comprueba la duración de la restauración de su tamaño. No se utiliza a Maris, la sirena de Perlasal, como continuación automática de Marina.
 
@@ -534,7 +534,7 @@ No se identifica posteriormente el conjuro que reducía a Marina ni se comprueba
 
 ¿Sabe Poncelot que su primera Merlucilla murió? Su recapitulación sigue atribuyendo ausencia a fuga (06-009).
 
-Origen: [capítulo 06](capitulos/06.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 06](capitulos/06.md). Cotejada hasta el capítulo 40.
 
 En el capítulo 11 Poncelot todavía busca a la primera Merlucilla porque cree que escapó. No se localiza una revelación posterior que le haga conocer su muerte a manos de Ione.
 
@@ -546,7 +546,7 @@ Evidencia posterior: [11-004 · 00:07:05](capitulos/11.md)
 
 ¿Cuál es el significado del mapa y de los tatuajes de Nox? Mamá no reconoce vínculo con ruinas y explica que vio los tatuajes en una escena escrita entre sesiones; no hay símbolos transcritos o solución (07-025).
 
-Origen: [capítulo 07](capitulos/07.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 07](capitulos/07.md). Cotejada hasta el capítulo 40.
 
 Nox atribuye sus tatuajes al antiguo capitán. En la pirámide sus molestias coinciden con la activación de las estatuas y el anfitrión dice necesitar lo que lleva en la espalda. Bonnie confirma después que el orbe reacciona ante Citlali. No se descifra el mapa inicial ni se explica el significado completo de los tatuajes.
 
@@ -558,7 +558,7 @@ Evidencia posterior: [26-017 · 01:36:06](capitulos/26.md) · [26-022 · 02:10:4
 
 ¿Qué saldrá del huevo y cuánto vale? Ni especie ni precio confirmados. ¿Mamá sabrá del pacto secreto de Nox con Bonnie? 07-023, 07-033.
 
-Origen: [capítulo 07](capitulos/07.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 07](capitulos/07.md). Cotejada hasta el capítulo 40.
 
 Del huevo nace una cría enorme, emplumada y con pico, descrita como un dinosaurio o pollo. En el capítulo 39 se llama Etley y sigue bajo el cuidado de Citlali. No se fija su precio ni se representa que Mamá descubra el pacto de venta de Nox y Bonnie.
 
@@ -570,7 +570,7 @@ Evidencia posterior: [34-018 · 02:33:43](capitulos/34.md) · [34-020 · 02:47:1
 
 ¿Qué hará Bonnie si no recibe la cría o si muere? Amenaza sin ejecución mostrada (07-033).
 
-Origen: [capítulo 07](capitulos/07.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 07](capitulos/07.md). Cotejada hasta el capítulo 40.
 
 No se muestra a Bonnie ejecutar la amenaza de cobro contra Nox y Mamá por la cría. El huevo y su cuidado continúan en otras tramas, pero no se documenta una resolución del pacto o la reacción de Bonnie a su incumplimiento.
 
@@ -580,7 +580,7 @@ No se muestra a Bonnie ejecutar la amenaza de cobro contra Nox y Mamá por la cr
 
 ¿Quién es la pirata pequeña que huyó, a qué grupo pertenece y volverá? Imagen mostrada a Bonnie, sin nombre (07-021, 07-032).
 
-Origen: [capítulo 07](capitulos/07.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 07](capitulos/07.md). Cotejada hasta el capítulo 40.
 
 No se identifica a la pirata pequeña fugitiva ni se confirma un regreso suyo. No se la equipara con otros personajes pequeños o con figuras femeninas de expediciones posteriores.
 
@@ -590,7 +590,7 @@ No se identifica a la pirata pequeña fugitiva ni se confirma un regreso suyo. N
 
 ¿Qué información dará el cautivo del nido y qué destino tendrá? Entregado, no interrogado en escena (07-016, 07-032).
 
-Origen: [capítulo 07](capitulos/07.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 07](capitulos/07.md). Cotejada hasta el capítulo 40.
 
 No se recupera un interrogatorio posterior del cautivo del nido ni se aclara su destino después de dejarlo en la taberna. El marine Jack es otro cautivo y su trayectoria no resuelve esta pregunta.
 
@@ -600,7 +600,7 @@ No se recupera un interrogatorio posterior del cautivo del nido ni se aclara su 
 
 ¿A qué cultura pertenecen las ruinas y qué dicen los símbolos copiados por el elfo? Escritura no entendida ni traducida (07-026).
 
-Origen: [capítulo 07](capitulos/07.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 07](capitulos/07.md). Cotejada hasta el capítulo 40.
 
 No se traduce explícitamente la copia de símbolos de estas ruinas ni se identifica su cultura. El diario del templo de los nawals pertenece a una expedición diferente y no se toma como traducción de esa copia.
 
@@ -610,7 +610,7 @@ No se traduce explícitamente la copia de símbolos de estas ruinas ni se identi
 
 ¿Quién sustrajo las herramientas de cocina de Patata y las monedas de los demás? Tiradas sin autoría demostrada (07-001–07-003).
 
-Origen: [capítulo 07](capitulos/07.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 07](capitulos/07.md). Cotejada hasta el capítulo 40.
 
 No se atribuyen posteriormente a un autor concreto las pérdidas de las tiradas de descanso. Los robos representados en otras escenas no demuestran quién sustrajo aquellos objetos o monedas.
 
@@ -620,7 +620,7 @@ No se atribuyen posteriormente a un autor concreto las pérdidas de las tiradas 
 
 ¿La montura comida por el pulpo en recapitulación es Merlucilla II? Se habla de montura de Poncelot sin nombrarla inequívocamente; no fusionar antes de aclaración (07-004).
 
-Origen: [capítulo 07](capitulos/07.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 07](capitulos/07.md). Cotejada hasta el capítulo 40.
 
 Poncelot relata después la pérdida de su segundo corcel, lo que es compatible con el hipocampo Merlucilla II. Sin embargo, no se identifica expresamente al hipocampo dentro del relato del pulpo, por lo que la correspondencia sigue siendo contextual.
 
@@ -632,7 +632,7 @@ Evidencia posterior: [11-004 · 00:07:05](capitulos/11.md)
 
 ¿Por qué Nox usa el nombre Capitán Nox además de Jim Hawkins? Declara ambos, sin historia completa de identidad (07-009).
 
-Origen: [capítulo 07](capitulos/07.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 07](capitulos/07.md). Cotejada hasta el capítulo 40.
 
 Nox menciona un antiguo capitán al que consideraba un padre y al que imita al lanzar dados. No se explica por qué adoptó el alias Nox ni cómo obtuvo el título de capitán. Se mantienen como identidades declaradas de una sola persona.
 
@@ -644,7 +644,7 @@ Evidencia posterior: [26-004 · 00:13:08](capitulos/26.md)
 
 ¿Quién era la mujer del templo, de qué tribu y por qué vivía allí? La transformación y la muerte se ven, pero no se revela su identidad (08-022–08-024).
 
-Origen: [capítulo 08](capitulos/08.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 08](capitulos/08.md). Cotejada hasta el capítulo 40.
 
 Ayoto acusa posteriormente a una mujer de Cuicapalli de ser la nawal muerta, pero ella lo niega. El director explica que se utilizó una representación gráfica reutilizada, no una identidad o resurrección confirmadas. La mujer del templo sigue sin nombre, tribu o motivo conocido para vivir allí.
 
@@ -656,7 +656,7 @@ Evidencia posterior: [16-019 · 02:15:03](capitulos/16.md) · [18-002 · 00:04:4
 
 ¿Qué dice el diario en Terran y quién lo escribió? Salazor lo conserva sin traducción (08-021 y 08-024).
 
-Origen: [capítulo 08](capitulos/08.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 08](capitulos/08.md). Cotejada hasta el capítulo 40.
 
 Nox dice que Erendriel le entregó el libro y el director lo identifica como el diario del nawal. Describe rutinas y ritos a dioses animales, seguidos por una escritura agresiva cada vez más reducida hasta terminar en garabatos; lo interpreta como pérdida de la esencia humana. No da un nombre de autor.
 
@@ -668,7 +668,7 @@ Evidencia posterior: [12-004 · 00:14:30](capitulos/12.md) · [12-008 · 00:28:3
 
 ¿Las plantas y el mortero explican la transformación de esta mujer? Civilización asociada a plantas y ascenso animal, sin prueba individual de su preparación o del mecanismo (08-020–08-024).
 
-Origen: [capítulo 08](capitulos/08.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 08](capitulos/08.md). Cotejada hasta el capítulo 40.
 
 El diario posterior describe ritos a dioses animales y una pérdida progresiva de la esencia humana. No demuestra que el mortero o una preparación concreta de plantas causaran la transformación de esta mujer, ni proporciona una receta o mecanismo comprobado.
 
@@ -680,7 +680,7 @@ Evidencia posterior: [12-008 · 00:28:34](capitulos/12.md)
 
 ¿Qué ocurre con el pirata herido entregado a Gobs? Intervención iniciada sin desenlace mostrado (08-010).
 
-Origen: [capítulo 08](capitulos/08.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 08](capitulos/08.md). Cotejada hasta el capítulo 40.
 
 No se documenta el desenlace del pirata que Gobs empezó a intervenir. Las consultas y cadáveres de otras escenas no permiten identificarlo como superviviente, fallecido o paciente transformado.
 
@@ -690,7 +690,7 @@ No se documenta el desenlace del pirata que Gobs empezó a intervenir. Las consu
 
 ¿Dónde están los captores de Blink y de quién eran las huellas? Sin identificación (08-004).
 
-Origen: [capítulo 08](capitulos/08.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 08](capitulos/08.md). Cotejada hasta el capítulo 40.
 
 Blink encuentra a los dos piratas conocidos que buscaba en Shiaru y les quita el mondadientes con una mano mágica. Esto sitúa a sus captores con vida en el poblado. No se identifica inequívocamente a todos los autores de las huellas investigadas en el capítulo 8.
 
@@ -702,7 +702,7 @@ Evidencia posterior: [14-003 · 00:15:42](capitulos/14.md)
 
 ¿Qué objeto descrito como truco obtuvo el elfo de los cadáveres y qué utilidad tiene? Fuente no precisa (08-019).
 
-Origen: [capítulo 08](capitulos/08.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 08](capitulos/08.md). Cotejada hasta el capítulo 40.
 
 El elfo precisa que el objeto pendiente del episodio anterior es un pergamino de truco. El director acepta incorporarlo, pero no se nombra el conjuro que contiene ni se documenta su uso.
 
@@ -714,7 +714,7 @@ Evidencia posterior: [10-011 · 00:30:49](capitulos/10.md)
 
 ¿Se reparará o sustituirá la espada de Kilzer? Recuerda otra guardada, sin cambio representado (08-027).
 
-Origen: [capítulo 08](capitulos/08.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 08](capitulos/08.md). Cotejada hasta el capítulo 40.
 
 No se representa una reparación o sustitución inequívoca de aquella espada corta rota. Kilzer utiliza armas después, pero eso no permite determinar qué hizo con la hoja dañada ni identificar la espada guardada como su reemplazo.
 
@@ -724,7 +724,7 @@ No se representa una reparación o sustitución inequívoca de aquella espada co
 
 ¿Cuándo adoptó Chochi el nombre Axi? La continuidad es contextual, sin una explicación completa del cambio en este capítulo (09-004 y 09-020).
 
-Origen: [capítulo 09](capitulos/09.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 09](capitulos/09.md). Cotejada hasta el capítulo 40.
 
 No se localiza una declaración posterior que feche o explique la adopción del nombre Axi. La continuidad con Chochi sigue respaldada por el arquero, el cautiverio y la mordedura, sin una escena nominal de cambio.
 
@@ -734,7 +734,7 @@ No se localiza una declaración posterior que feche o explique la adopción del 
 
 ¿Qué vio Mamá al tomar la mano de Nox y qué significa? No se describe la imagen ni se confirma un origen divino (09-003).
 
-Origen: [capítulo 09](capitulos/09.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 09](capitulos/09.md). Cotejada hasta el capítulo 40.
 
 Citlali recuerda después que pudo creer, bajo el alcohol, que Nox era el bebé que intentó salvar y perdió. Es una interpretación incierta suya, no una descripción de la imagen del apretón de manos ni una confirmación de su origen divino.
 
@@ -746,7 +746,7 @@ Evidencia posterior: [39-002 · 00:05:48](capitulos/39.md)
 
 ¿Por qué le escuece el tatuaje a Mamá cuando Nox la cura? La relación entre sus tatuajes y los de Nox sigue sin resolverse (09-028 y 09-031).
 
-Origen: [capítulo 09](capitulos/09.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 09](capitulos/09.md). Cotejada hasta el capítulo 40.
 
 Se documentan el drenaje y el rejuvenecimiento de Citlali, y Bonnie afirma que el orbe reacciona ante ella. Ninguno de esos datos explica por qué le escoció el tatuaje al recibir la curación de Nox ni establece una identidad entre los tatuajes de ambos.
 
@@ -758,7 +758,7 @@ Evidencia posterior: [34-009 · 01:13:18](capitulos/34.md) · [37-005 · 00:34:3
 
 ¿Quiénes deben volver según los guardianes y por qué llaman traidora a Mamá? Sus declaraciones carecen de un contexto histórico verificado (09-026–09-028).
 
-Origen: [capítulo 09](capitulos/09.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 09](capitulos/09.md). Cotejada hasta el capítulo 40.
 
 No se identifica a quienes debían volver ni se explica la acusación de traición de aquellos guardianes. Las revelaciones posteriores sobre otras entidades, cárceles y hombres serpiente no se conectan explícitamente con esta declaración.
 
@@ -768,7 +768,7 @@ No se identifica a quienes debían volver ni se explica la acusación de traici�
 
 ¿Qué mapa recibe el aprendiz y adónde conduce? No lo abre ni se muestra su expedición (09-009).
 
-Origen: [capítulo 09](capitulos/09.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 09](capitulos/09.md). Cotejada hasta el capítulo 40.
 
 No se muestra al aprendiz abrir el mapa recibido de Nox ni realizar una expedición con él. Los mapas que aparecen después no se identifican como ese ejemplar.
 
@@ -778,7 +778,7 @@ No se muestra al aprendiz abrir el mapa recibido de Nox ni realizar una expedici
 
 ¿Qué efectos tendrán las hojas que guarda Ione? Solo se observa un mareo breve al olerlas; no las fuma en esta escena (09-024).
 
-Origen: [capítulo 09](capitulos/09.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 09](capitulos/09.md). Cotejada hasta el capítulo 40.
 
 Ione ofrece las hojas a Nox y Nox entrega hojas de la planta de esporas a Pinky. Ella las huele y esnifa, describe su olor y considera que no sirven bien para fumar. No se verifica un efecto mágico, terapéutico o tóxico nuevo de esas hojas.
 
@@ -790,7 +790,7 @@ Evidencia posterior: [12-011 · 00:41:11](capitulos/12.md) · [12-013 · 00:47:3
 
 ¿Quién tomó la hierba de Ione? Pinky muestra una bolsa con su nombre, pero no se representa el robo (09-002 y 09-017).
 
-Origen: [capítulo 09](capitulos/09.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 09](capitulos/09.md). Cotejada hasta el capítulo 40.
 
 No se representa una escena del robo ni una confesión que identifique de forma definitiva a quien tomó la hierba de Ione. Que Pinky enseñe una bolsa con su nombre sigue siendo una pista.
 
@@ -800,7 +800,7 @@ No se representa una escena del robo ni una confesión que identifique de forma 
 
 ¿Cuánto dura la inmunidad de Lunaria al alcohol? Los 21 días del capítulo 7 y la semana aceptada aquí no se concilian expresamente (09-008).
 
-Origen: [capítulo 09](capitulos/09.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 09](capitulos/09.md). Cotejada hasta el capítulo 40.
 
 No aparece una conciliación posterior de las dos duraciones. Se conservan los veintiún días y la semana adjudicados en sus respectivas escenas, sin calcular una caducidad que la fuente no resuelve.
 
@@ -810,7 +810,7 @@ No aparece una conciliación posterior de las dos duraciones. Se conservan los v
 
 ¿Se contagió Axi con la mordedura de Ione? Hay reproches y temor, pero no un diagnóstico ni una transformación confirmada (09-007 y 09-020).
 
-Origen: [capítulo 09](capitulos/09.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 09](capitulos/09.md). Cotejada hasta el capítulo 40.
 
 Axi relata después despertar sin memoria entre animales destrozados y parcialmente comidos y teme intuir una causa. No se muestra una transformación suya ni se confirma que el episodio proceda de la mordedura de Ione.
 
@@ -822,7 +822,7 @@ Evidencia posterior: [33-001 · 00:05:00](capitulos/33.md)
 
 ¿Dónde está Pix, quién lo capturó y por qué? El rastro conduce al poblado, pero el mono no aparece directamente (10-005 y 10-010–10-027).
 
-Origen: [capítulo 10](capitulos/10.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 10](capitulos/10.md). Cotejada hasta el capítulo 40.
 
 Nox encuentra a Pix atado en un altar del poblado de hombres lagarto y lo rescata. Lo devuelve a Bonnie, que lo desata. La posición entre huesos y velas sugiere un sacrificio, pero no se confirma el motivo exacto del secuestro.
 
@@ -834,7 +834,7 @@ Evidencia posterior: [11-020 · 01:59:56](capitulos/11.md) · [11-023 · 02:36:2
 
 ¿Cómo se llama el poblado y qué organización o creencias tienen sus habitantes? Ayoto lo llama Ciudad de la Luna, sin confirmación del director (10-025).
 
-Origen: [capítulo 10](capitulos/10.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 10](capitulos/10.md). Cotejada hasta el capítulo 40.
 
 El director describe a los hombres lagarto como organizados, con liderazgo y chamán, y los guardias hablan de comer a sus propios caídos. Más adelante aparece Ras Racor, una ciudad mayor distinta de la aldea arrasada. Sus dirigentes atribuyen la comida recibida al dios Samuya, sin fijar el nombre formal del poblado del capítulo 10.
 
@@ -846,7 +846,7 @@ Evidencia posterior: [11-013 · 00:58:07](capitulos/11.md) · [11-016 · 01:24:4
 
 ¿Qué ocurrirá con Patata, Blink y Axi? Siguen vivos en jaulas; la posibilidad de sacrificios no se ejecuta (10-027).
 
-Origen: [capítulo 10](capitulos/10.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 10](capitulos/10.md). Cotejada hasta el capítulo 40.
 
 Nox y Kilzer abren las celdas, Mamá recoge la botella de Blink y el grupo vuelve a Shiaru con Patata, Axi y Blink rescatados. Los tres siguen vivos y después recuperan la consciencia. No se ejecuta el sacrificio anunciado como posibilidad.
 
@@ -856,7 +856,7 @@ Evidencia posterior: [11-025 · 02:46:48](capitulos/11.md) · [11-027 · 02:54:2
 
 ¿Podrá Erendriel recuperar las armas que le retiraron? Escapa sin ellas (10-018 y 10-022).
 
-Origen: [capítulo 10](capitulos/10.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 10](capitulos/10.md). Cotejada hasta el capítulo 40.
 
 Erendriel recibe apoyo material de Nox y compra un nuevo arco, pero no se confirma que recupere las armas retiradas durante su captura. Su posterior muerte tampoco permite convertir una recuperación no narrada en un hecho.
 
@@ -868,7 +868,7 @@ Evidencia posterior: [12-003 · 00:06:24](capitulos/12.md) · [12-011 · 00:41:1
 
 ¿Aceptarán Nox e Ione la nueva expedición? Bonnie ordena buscarlos, pero todavía no hablan con ellos (10-026).
 
-Origen: [capítulo 10](capitulos/10.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 10](capitulos/10.md). Cotejada hasta el capítulo 40.
 
 Ione organiza la expedición con Mamá, Kilzer y Poncelot; Nox se incorpora en el pantano. Participan en el rescate del poblado, liberan a los compañeros y devuelven a Pix a Bonnie.
 
@@ -878,7 +878,7 @@ Evidencia posterior: [11-007 · 00:20:29](capitulos/11.md) · [11-011 · 00:47:3
 
 ¿Qué conjuro contiene el pergamino? Solo se identifica como un pergamino de truco (10-011).
 
-Origen: [capítulo 10](capitulos/10.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 10](capitulos/10.md). Cotejada hasta el capítulo 40.
 
 No se proporciona el nombre del truco del pergamino. Los pergaminos de fuego y otros documentos obtenidos en expediciones posteriores no se identifican como este objeto.
 
@@ -888,7 +888,7 @@ No se proporciona el nombre del truco del pergamino. Los pergaminos de fuego y o
 
 ¿La visión del bebé corresponde al pasado de Mamá? ¿Quién es y dónde está el cofre? Solo se relata la visión (11-003).
 
-Origen: [capítulo 11](capitulos/11.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 11](capitulos/11.md). Cotejada hasta el capítulo 40.
 
 Citlali recuerda después que intentó salvar y perdió a un bebé y se pregunta si el alcohol influyó en creer que Nox era ese niño. No se confirma la historicidad de toda la visión, la identidad real del bebé o la ubicación del cofre.
 
@@ -900,7 +900,7 @@ Evidencia posterior: [39-002 · 00:05:48](capitulos/39.md)
 
 ¿Qué efectos tiene el juramento de Nox y qué ocurriría si mintiera? No se describe su mecánica ni se aplica una sanción (11-003).
 
-Origen: [capítulo 11](capitulos/11.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 11](capitulos/11.md). Cotejada hasta el capítulo 40.
 
 No se describen posteriormente las reglas del juramento o la maldición ni se muestra una sanción concreta por mentir. Las mentiras y conflictos de Nox en otras escenas no permiten deducir un efecto mágico no declarado.
 
@@ -910,7 +910,7 @@ No se describen posteriormente las reglas del juramento o la maldición ni se mu
 
 ¿Qué contiene el libro en Terran de Nox? Su relación con el diario de Erendriel todavía no queda inequívoca en este capítulo (11-011 y 11-022).
 
-Origen: [capítulo 11](capitulos/11.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 11](capitulos/11.md). Cotejada hasta el capítulo 40.
 
 Nox dice que Erendriel le entregó el libro y el director lo identifica como el diario del nawal. Su contenido relatado pasa de rutinas y rituales a dioses animales a una escritura agresiva y reducida, hasta los garabatos, interpretada como pérdida de la esencia humana.
 
@@ -920,7 +920,7 @@ Evidencia posterior: [12-004 · 00:14:30](capitulos/12.md) · [12-008 · 00:28:3
 
 ¿Qué poder o legitimidad confieren las monedas de los cinco reyes piratas? El director confirma la asociación, sin explicar las consecuencias de poseerlas (11-024).
 
-Origen: [capítulo 11](capitulos/11.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 11](capitulos/11.md). Cotejada hasta el capítulo 40.
 
 Bonnie activa una moneda pirata que emite chispas y se desplaza aparentemente como un rayo mientras combate con un sable eléctrico. Después vuelve a activarla y se la entrega a Pix. Se muestra así un uso concreto, pero no las reglas de todas las monedas ni una legitimidad automática por poseerlas.
 
@@ -932,7 +932,7 @@ Evidencia posterior: [32-014 · 01:29:16](capitulos/32.md) · [32-020 · 02:12:5
 
 ¿Qué relación tiene Bonnie con las Cuchillas Negras y cómo ve a Nox invisible? Se observan su anillo y su mirada, sin una explicación completa (11-029).
 
-Origen: [capítulo 11](capitulos/11.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 11](capitulos/11.md). Cotejada hasta el capítulo 40.
 
 No se explica completamente la afiliación de Bonnie a las Cuchillas Negras ni la facultad con la que percibe a Nox invisible. Sus poderes posteriores y su moneda no demuestran por sí solos el mecanismo de aquella percepción.
 
@@ -942,7 +942,7 @@ No se explica completamente la afiliación de Bonnie a las Cuchillas Negras ni l
 
 ¿Qué hablarán Bonnie y Nox en el muelle? Solo acuerdan la cita (11-029).
 
-Origen: [capítulo 11](capitulos/11.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 11](capitulos/11.md). Cotejada hasta el capítulo 40.
 
 Nox y Erendriel relatan después una conversación con Bonnie, con ayuda del elfo y consecuencias para su oreja, pero no se reproduce íntegramente ni se identifica de forma inequívoca como la cita del muelle. No se completa el contenido exacto de aquella charla.
 
@@ -954,7 +954,7 @@ Evidencia posterior: [12-001 · 00:00:32](capitulos/12.md) · [12-003 · 00:06:2
 
 ¿Cuántas gemas quedan y quién conserva la última? Las cifras y las entregas relatadas no permiten cerrar un inventario firme (11-028–11-029 y 11-032).
 
-Origen: [capítulo 11](capitulos/11.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 11](capitulos/11.md). Cotejada hasta el capítulo 40.
 
 No se obtiene un inventario posterior que concilie las tres, dos y una gemas y todas las entregas mencionadas. Las ventas y gemas de otras expediciones no resuelven automáticamente ese saldo.
 
@@ -964,7 +964,7 @@ No se obtiene un inventario posterior que concilie las tres, dos y una gemas y t
 
 ¿Se recuperará el resto del equipo de los cautivos? Solo recogen una caja con parte de los objetos y un arco (11-026).
 
-Origen: [capítulo 11](capitulos/11.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 11](capitulos/11.md). Cotejada hasta el capítulo 40.
 
 Patata recupera espada, escudo y amuleto, pero no la armadura, y más tarde compra otra. Axi recibe equipo y fabrica un arco. Blink recupera su mondadientes de los dos piratas. No se documenta la devolución completa de todos los objetos y dinero originales.
 
@@ -976,7 +976,7 @@ Evidencia posterior: [12-014 · 00:54:53](capitulos/12.md) · [13-003 · 00:09:2
 
 ¿Cuándo despertarán Blink, Patata y Axi y qué secuelas tendrán? Se inician el transporte y los cuidados, sin resolución médica (11-030).
 
-Origen: [capítulo 11](capitulos/11.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 11](capitulos/11.md). Cotejada hasta el capítulo 40.
 
 Blink relata estar consciente y recuperándose en el barco; Axi despierta en la enfermería con dolor y sin equipo; Patata relata haber despertado en el establecimiento del médico. Los tres vuelven a actuar. No se proporciona un diagnóstico completo de secuelas de su cautiverio.
 
@@ -988,7 +988,7 @@ Evidencia posterior: [12-001 · 00:00:32](capitulos/12.md) · [12-002 · 00:03:0
 
 ¿Qué consecuencias tendrá el incendio y la muerte de los defensores del poblado? El director las deja pendientes (11-032).
 
-Origen: [capítulo 11](capitulos/11.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 11](capitulos/11.md). Cotejada hasta el capítulo 40.
 
 Una patrulla lleva a los viajeros a Ras Racor por su relación con la destrucción. Los dirigentes consideran a los muertos una fuente de alimento, atribuyen el regalo a Samuya y ofrecen recompensas sujetas a una prueba de arena. Tras superarla, entregan botín y prometen acudir al concilio de Tutucan.
 
@@ -998,7 +998,7 @@ Evidencia posterior: [17-006 · 00:32:57](capitulos/17.md) · [17-010 · 01:02:5
 
 ¿Existe la licencia y abrirán el casino? Kilzer quiere verificar el papel antes de confirmar el trato (11-031).
 
-Origen: [capítulo 11](capitulos/11.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 11](capitulos/11.md). Cotejada hasta el capítulo 40.
 
 La licencia se muestra visible y Kilzer reconoce el documento. Se declara un reparto de 35/15/50, el casino está en construcción y posteriormente tiene un local, puerta, llaves y botellas. En el capítulo 29 Kilzer todavía lo repara para abrir pronto: no se acredita una apertura comercial o beneficios.
 
@@ -1010,7 +1010,7 @@ Evidencia posterior: [13-006 · 00:20:40](capitulos/13.md) · [13-011 · 00:46:1
 
 ¿Qué compromiso asumió Erendriel con Bonnie para cumplir en una semana? Las amenazas sobre sus orejas no explican todos los detalles (12-003–12-007).
 
-Origen: [capítulo 12](capitulos/12.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 12](capitulos/12.md). Cotejada hasta el capítulo 40.
 
 Erendriel organiza el envío de Jack a Puerto de Espadas. Bonnie le reprocha después que hayan pasado dos semanas y Jack acabe de irse; el elfo admite haberlo mandado tarde. Lo retienen y el capítulo siguiente confirma su muerte. Se aclara la relación del plazo con ese envío, pero no todo el contrato o sus condiciones.
 
@@ -1022,7 +1022,7 @@ Evidencia posterior: [15-002 · 00:05:58](capitulos/15.md) · [15-021 · 02:56:1
 
 ¿Dirige Molly Fuerte Aurora y por qué hay tantos lugares de interés? Nox lo cree, pero el mapa no revela el propósito completo (12-009 y 12-030).
 
-Origen: [capítulo 12](capitulos/12.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 12](capitulos/12.md). Cotejada hasta el capítulo 40.
 
 Molly aparece dando órdenes en Aurora y después es destituida por otro mando. Los documentos encontrados investigan cultos serpiente y una ciudad; posteriormente se explican posiciones para vigilar caminos y una ruta de transporte de cañones y pólvora. No se revela el propósito completo de cada punto del mapa inicial.
 
@@ -1034,7 +1034,7 @@ Evidencia posterior: [23-012 · 02:07:46](capitulos/23.md) · [23-015 · 02:42:0
 
 ¿Dónde están Mingo, Mango y el tercer pirata? Nox cree que viven, sin localizarles ni identificarles con los captores de Blink (12-009–12-010).
 
-Origen: [capítulo 12](capitulos/12.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 12](capitulos/12.md). Cotejada hasta el capítulo 40.
 
 Nox reconoce a Mingo, Mango y Mungo como tres hipopótamos de su tripulación en un campamento caníbal. Ellos explican que cayeron al mar antes de llegar a la isla y convencieron a los caníbales que querían comérselos hasta convertirse en sus líderes. Salen hacia Shiaru y después aparecen reorganizando el camarote del Zampaolas.
 
@@ -1044,7 +1044,7 @@ Evidencia posterior: [33-016 · 02:15:05](capitulos/33.md) · [33-019 · 02:38:4
 
 ¿Quiénes son la mujer tatuada, el hombre tigre y el preso pintado? ¿Por qué los encerraron y qué ocurre con el cuarto preso? No se proporcionan nombres ni delitos (12-017 y 12-023–12-025).
 
-Origen: [capítulo 12](capitulos/12.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 12](capitulos/12.md). Cotejada hasta el capítulo 40.
 
 El director identifica a Baton y Nelli como nativos liberados del campamento de la Marina, y ambos guían al grupo a Cuicapalli. No se explican los motivos de sus detenciones ni se identifica a todos los cautivos. Tampoco se muestra el destino del preso pintado que mordía los barrotes.
 
@@ -1056,7 +1056,7 @@ Evidencia posterior: [16-005 · 00:12:11](capitulos/16.md) · [16-007 · 00:35:4
 
 ¿Sobrevive o se recupera el pirata que cae bajo los disparos? No se muestra su salida ni su recuperación (12-024).
 
-Origen: [capítulo 12](capitulos/12.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 12](capitulos/12.md). Cotejada hasta el capítulo 40.
 
 No se confirma posteriormente que el pirata liberado sobreviva, reciba ayuda o abandone el campamento. No se identifica con otros piratas o cautivos por semejanza o ausencia de nombre.
 
@@ -1066,7 +1066,7 @@ No se confirma posteriormente que el pirata liberado sobreviva, reciba ayuda o a
 
 ¿Leerán el capitán o Molly la carta de Nox y qué dice? La nota no se lee y el capitán queda inconsciente (12-030 y 12-032).
 
-Origen: [capítulo 12](capitulos/12.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 12](capitulos/12.md). Cotejada hasta el capítulo 40.
 
 Nox relata después que espera que la carta llegue, pero no se muestra su lectura o recepción por el capitán o por Molly. La carta que Ione encuentra sobre el rescate de Nox es otra comunicación y no completa esta nota.
 
@@ -1078,7 +1078,7 @@ Evidencia posterior: [13-001 · 00:03:03](capitulos/13.md)
 
 ¿Qué investigan los marines en los lugares del mapa? Sus nombres y coordenadas no se transcriben (12-030).
 
-Origen: [capítulo 12](capitulos/12.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 12](capitulos/12.md). Cotejada hasta el capítulo 40.
 
 Los papeles obtenidos en Aurora tratan de cultos serpiente y una ciudad que los exploradores no encontraron. Molly explica posteriormente un campamento estratégico junto a un lago y una ruta logística para cañones. No se relaciona cada una de esas actividades con todas las marcas concretas del mapa entregado a Blink.
 
@@ -1090,7 +1090,7 @@ Evidencia posterior: [23-015 · 02:42:00](capitulos/23.md) · [36-004 · 00:25:2
 
 ¿Devolverá Pix el mondadientes de Blink? Se conoce quién lo tiene, pero la entrega sigue pendiente (12-005).
 
-Origen: [capítulo 12](capitulos/12.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 12](capitulos/12.md). Cotejada hasta el capítulo 40.
 
 Blink recupera el mondadientes en el capítulo 14 mediante una mano mágica invisible. Lo quita a los dos piratas que juegan con él, lo lleva al tejado y lo limpia. No es una devolución voluntaria de Pix, pero el objeto vuelve a su custodia.
 
@@ -1100,7 +1100,7 @@ Evidencia posterior: [14-003 · 00:15:42](capitulos/14.md)
 
 ¿Cuándo recuperará Pinky su forma y terminarán las alucinaciones? Regresa como oveja; se adjudican cuatro horas de alucinación, sin mostrar la reversión (12-023 y 12-027–12-032).
 
-Origen: [capítulo 12](capitulos/12.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 12](capitulos/12.md). Cotejada hasta el capítulo 40.
 
 Pinky reaparece como una anciana en el capítulo 26, por lo que la forma de oveja no es su estado permanente. No se muestra el instante de aquella reversión ni el final de las cuatro horas de alucinación del capítulo 12. Las intoxicaciones de otros capítulos son consumos nuevos, no prueba de que continuara el mismo episodio.
 
@@ -1112,7 +1112,7 @@ Evidencia posterior: [19-004 · 00:20:17](capitulos/19.md) · [26-009 · 00:42:0
 
 ¿Quién se llevó el cuerpo del nawal y por qué? La investigación de Ayoto no obtiene una respuesta (13-002).
 
-Origen: [capítulo 13](capitulos/13.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 13](capitulos/13.md). Cotejada hasta el capítulo 40.
 
 Ayoto acusa después a una mujer de Cuicapalli por su parecido con la nawal. El director aclara que se reutilizó una representación gráfica, sin confirmar una resurrección o que sea quien retiró el cuerpo.
 
@@ -1124,7 +1124,7 @@ Evidencia posterior: [16-019 · 02:15:03](capitulos/16.md) · [18-002 · 00:04:4
 
 ¿Quién construyó el templo y a qué cultura o deidad pertenece? Las figuras rotas y los símbolos animales no proporcionan una identificación; las referencias al sol, la luna y la noche son interpretaciones (13-014 y 13-022–13-023).
 
-Origen: [capítulo 13](capitulos/13.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 13](capitulos/13.md). Cotejada hasta el capítulo 40.
 
 Hasta el capítulo 39 no se identifica a los constructores ni la cultura o deidad de este templo concreto. Los nombres de otros templos no permiten equipararlos.
 
@@ -1134,7 +1134,7 @@ Hasta el capítulo 39 no se identifica a los constructores ni la cultura o deida
 
 ¿Podrán modificar el escudo o cultivar las semillas? Recogen materiales, pero no realizan los proyectos (13-021).
 
-Origen: [capítulo 13](capitulos/13.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 13](capitulos/13.md). Cotejada hasta el capítulo 40.
 
 No se documenta después que se cultiven estas semillas o que se utilicen para modificar el escudo. El caparazón obtenido por Ayoto en otra misión no demuestra que se ejecute este proyecto.
 
@@ -1144,7 +1144,7 @@ No se documenta después que se cultiven estas semillas o que se utilicen para m
 
 ¿Cómo volverán a activar la plataforma y salir con el tesoro? Retirar el peso no la hace subir y el regreso no se narra (13-026).
 
-Origen: [capítulo 13](capitulos/13.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 13](capitulos/13.md). Cotejada hasta el capítulo 40.
 
 Patata aparece después en Shiaru y vende el jade del sótano, lo que confirma que salió con ese botín. No se muestra el procedimiento de reactivación de la plataforma ni toda la salida del grupo.
 
@@ -1156,7 +1156,7 @@ Evidencia posterior: [14-004 · 00:21:49](capitulos/14.md)
 
 ¿Qué resultado sustituye a las ocho monedas y qué obtiene Kilzer en el sótano? No se anuncian todos los resultados de forma inequívoca (13-025).
 
-Origen: [capítulo 13](capitulos/13.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 13](capitulos/13.md). Cotejada hasta el capítulo 40.
 
 Los capítulos posteriores no aclaran la nueva tirada que sustituyó a las ocho monedas ni el botín concreto de Kilzer en aquel sótano.
 
@@ -1166,7 +1166,7 @@ Los capítulos posteriores no aclaran la nueva tirada que sustituyó a las ocho 
 
 ¿Cuáles serán las cláusulas finales del casino? El nuevo reparto no explica cómo cambió el cinco por ciento negociado por Nox (13-011 y 11-031).
 
-Origen: [capítulo 13](capitulos/13.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 13](capitulos/13.md). Cotejada hasta el capítulo 40.
 
 Kilzer obtiene las llaves, prepara mobiliario y acuerda pagar a Axi dos monedas por cada tramposo descubierto. Son avances de funcionamiento, pero no se reproducen unas cláusulas finales del reparto entre Kilzer, Nox y Bonnie.
 
@@ -1178,7 +1178,7 @@ Evidencia posterior: [17-001 · 00:02:05](capitulos/17.md) · [17-002 · 00:06:3
 
 ¿Recuperará Nox el sombrero que toma Ayoto? ¿Se recuperará Jack del golpe de botella? Ambos desenlaces quedan pendientes (13-008 y 13-012).
 
-Origen: [capítulo 13](capitulos/13.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 13](capitulos/13.md). Cotejada hasta el capítulo 40.
 
 El loro devuelve el sombrero a Nox durante la fuga de Aurora. Jack aparece vivo después del golpe: Bonnie confirma su partida y más adelante regresa de Puerto de Espadas. No se necesita atribuirle una muerte o un nuevo personaje.
 
@@ -1188,7 +1188,7 @@ Evidencia posterior: [15-021 · 02:56:10](capitulos/15.md) · [23-004 · 00:34:0
 
 ¿Qué entidad menciona el diario y qué precio exigió? No se lee un nombre ni el pacto completo (14-015).
 
-Origen: [capítulo 14](capitulos/14.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 14](capitulos/14.md). Cotejada hasta el capítulo 40.
 
 No se revela posteriormente el nombre de la entidad del diario ni el precio completo de su trato con el capitán. Las otras presencias serpentinas de la campaña no se identifican automáticamente con ella.
 
@@ -1198,7 +1198,7 @@ No se revela posteriormente el nombre de la entidad del diario ni el precio comp
 
 ¿Por qué la hija afirma que no puede salir si la mujer del bote tiene su mismo rostro? Las manifestaciones no reciben una explicación (14-007–14-008 y 14-016).
 
-Origen: [capítulo 14](capitulos/14.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 14](capitulos/14.md). Cotejada hasta el capítulo 40.
 
 No aparece una explicación posterior de la coincidencia entre la mujer del bote y la hija espectral, ni de su afirmación de que no podía salir.
 
@@ -1208,7 +1208,7 @@ No aparece una explicación posterior de la coincidencia entre la mujer del bote
 
 ¿A quién llama traidor el marinero y por qué señala al capitán y a su hija? Los gestos no revelan toda la historia (14-015 y 14-019).
 
-Origen: [capítulo 14](capitulos/14.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 14](capitulos/14.md). Cotejada hasta el capítulo 40.
 
 No se amplía posteriormente el testimonio del marinero de la lengua enjaulada. Sus gestos no bastan para establecer a quién acusa o el motivo de la traición.
 
@@ -1218,7 +1218,7 @@ No se amplía posteriormente el testimonio del marinero de la lengua enjaulada. 
 
 ¿Qué ocurre con el mercante, la hija y las almas? No se muestra un retorno a la vida ni el hundimiento final (14-024–14-025).
 
-Origen: [capítulo 14](capitulos/14.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 14](capitulos/14.md). Cotejada hasta el capítulo 40.
 
 Después de la desaparición de la tripulación y el regreso del grupo a tierra no se confirma el destino del mercante, de la hija o de las almas.
 
@@ -1228,7 +1228,7 @@ Después de la desaparición de la tripulación y el regreso del grupo a tierra 
 
 ¿La moneda negra causa otra maldición a Eldrat? La frase del marinero no viene acompañada de una marca o un efecto confirmado (14-019).
 
-Origen: [capítulo 14](capitulos/14.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 14](capitulos/14.md). Cotejada hasta el capítulo 40.
 
 No se confirma posteriormente una marca o maldición nueva en Eldrat atribuida a la moneda negra. La frase del marinero sigue sin un efecto adjudicado.
 
@@ -1238,7 +1238,7 @@ No se confirma posteriormente una marca o maldición nueva en Eldrat atribuida a
 
 ¿Qué quiere Bonnie de Patata y de los hermanos? ¿Habrá recompensa? Solo se muestra la convocatoria (14-025).
 
-Origen: [capítulo 14](capitulos/14.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 14](capitulos/14.md). Cotejada hasta el capítulo 40.
 
 En el capítulo 15, Bonnie encarga a Patata investigar el secuestro de dos piratas y eliminar la amenaza si se trata de caníbales. Después le paga cincuenta monedas. Esa misión y pago no reproducen la conversación pendiente del mercante ni prueban una recompensa específica por liberar el barco.
 
@@ -1250,7 +1250,7 @@ Evidencia posterior: [15-004 · 00:18:44](capitulos/15.md) · [15-020 · 02:54:2
 
 ¿De dónde proceden Eldrat y Triel y qué ocurrió con las dríadas? El pasado mostrado no ofrece nombres ni toda la historia (14-001 y 14-005).
 
-Origen: [capítulo 14](capitulos/14.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 14](capitulos/14.md). Cotejada hasta el capítulo 40.
 
 Triel afirma más adelante que consiguió su espada de un dragón que mató junto a Eldrat. Es un dato declarado de su pasado, pero no identifica su lugar de origen ni explica el episodio de las dríadas.
 
@@ -1262,7 +1262,7 @@ Evidencia posterior: [31-022 · 02:39:47](capitulos/31.md)
 
 ¿Recuperará Nox el sombrero del nido del loro? Ayoto lo entrega y no se recupera (14-006).
 
-Origen: [capítulo 14](capitulos/14.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 14](capitulos/14.md). Cotejada hasta el capítulo 40.
 
 Durante la fuga de Fuerte Aurora, el loro deja caer el sombrero y Nox lo recupera.
 
@@ -1272,7 +1272,7 @@ Evidencia posterior: [23-013 · 02:23:53](capitulos/23.md)
 
 ¿Qué hará Bonnie con Erendriel por el retraso? Sus hombres se lo llevan sin mostrar el desenlace (15-021).
 
-Origen: [capítulo 15](capitulos/15.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 15](capitulos/15.md). Cotejada hasta el capítulo 40.
 
 El capítulo 16 confirma la muerte de Erendriel por las recapitulaciones y por el cuerpo que Bonnie mantiene exhibido como advertencia. Patata pide enterrarlo y aplica magia de conservación. La ejecución no se muestra completa, pero el desenlace de su detención ya no está pendiente.
 
@@ -1282,7 +1282,7 @@ Evidencia posterior: [16-002 · 00:03:48](capitulos/16.md) · [16-004 · 00:13:3
 
 ¿Llegará Jack a Puerto de las Espadas, cobrará la lista y se reunirá con Lucy? Bonnie solo confirma su partida (15-021).
 
-Origen: [capítulo 15](capitulos/15.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 15](capitulos/15.md). Cotejada hasta el capítulo 40.
 
 Jack regresa en barco de Puerto de Espadas y busca a Nox. Esto confirma que llegó allí y volvió, pero no se informa del dinero cobrado a la lista ni de una reunión con Lucy.
 
@@ -1294,7 +1294,7 @@ Evidencia posterior: [23-004 · 00:34:01](capitulos/23.md)
 
 ¿Cómo se llama el poblado y por qué secuestraron a los piratas? No se explica su historia ni se lo identifica con la tribu del preso del capítulo 12 (15-010 y 15-019).
 
-Origen: [capítulo 15](capitulos/15.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 15](capitulos/15.md). Cotejada hasta el capítulo 40.
 
 No se proporciona después un nombre o una historia específica de ese poblado caníbal ni una explicación del secuestro. El campamento de los hipopótamos es otra expedición y no se identifica con este asentamiento.
 
@@ -1304,7 +1304,7 @@ No se proporciona después un nombre o una historia específica de ese poblado c
 
 ¿Qué significa el tatuaje del combatiente que vuelve a levantarse? Se copia, pero no se descifra ni se le adjudica un poder (15-019).
 
-Origen: [capítulo 15](capitulos/15.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 15](capitulos/15.md). Cotejada hasta el capítulo 40.
 
 No se descifra después el tatuaje copiado del combatiente ni se confirma qué relación tenía con su recuperación. Los tatuajes de Nox y Citlali son pistas distintas.
 
@@ -1314,7 +1314,7 @@ No se descifra después el tatuaje copiado del combatiente ni se confirma qué r
 
 ¿Cuándo producirán el huerto y el casino? Los proyectos existen, pero no generan ingresos mostrados (15-001 y 15-003–15-004).
 
-Origen: [capítulo 15](capitulos/15.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 15](capitulos/15.md). Cotejada hasta el capítulo 40.
 
 La granja sigue activa y produce una patata de la que surge el martillo de Patata; Bonnie también solicita cultivos. Kilzer consigue mobiliario, llaves y vigilancia para el casino, pero en el capítulo 29 todavía prepara su apertura. No se acredita una fecha de rentabilidad ni un balance de ingresos de ambos negocios.
 
@@ -1326,7 +1326,7 @@ Evidencia posterior: [16-001 · 00:00:46](capitulos/16.md) · [17-001 · 00:02:0
 
 ¿Es Tarin el nombre del dragón? La mención breve sigue siendo una candidata, sin confirmación clara (15-012).
 
-Origen: [capítulo 15](capitulos/15.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 15](capitulos/15.md). Cotejada hasta el capítulo 40.
 
 No se confirma posteriormente que Tarin sea el nombre del dragón de Erendriel. El nombre Etley corresponde a la cría del huevo de Mamá, no a este dragón.
 
@@ -1336,7 +1336,7 @@ No se confirma posteriormente que Tarin sea el nombre del dragón de Erendriel. 
 
 ¿Qué enfermedad tiene Mamá y por qué Triel no puede curarla? La recapitulación no aporta un diagnóstico ni una escena completa (15-002).
 
-Origen: [capítulo 15](capitulos/15.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 15](capitulos/15.md). Cotejada hasta el capítulo 40.
 
 Se documenta que los intentos de curación de Mamá dañan a compañeros y la rejuvenecen. Después drena vida de Winscore y Tlachka, y el director confirma que su maldición cura a las serpientes. Walulu estudia sus tatuajes al llegar a Iktan, pero todavía no explica la causa ni por qué Triel no pudo curarla.
 
@@ -1348,7 +1348,7 @@ Evidencia posterior: [18-009 · 01:04:22](capitulos/18.md) · [19-007 · 00:48:5
 
 ¿Quién mató a Erendriel, cómo y por qué incumplimiento concreto? La muerte se confirma, pero no se muestra la ejecución completa (16-002,16-004 y 15-021).
 
-Origen: [capítulo 16](capitulos/16.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 16](capitulos/16.md). Cotejada hasta el capítulo 40.
 
 Los episodios posteriores muestran los restos de Erendriel y el anillo en poder de Nox, pero no reconstruyen la ejecución ni especifican quién lo mató y cómo. La advertencia de Bonnie sobre el retraso no sustituye esa escena.
 
@@ -1358,7 +1358,7 @@ Los episodios posteriores muestran los restos de Erendriel y el anillo en poder 
 
 ¿Dónde está el dragón y qué negocio quiere discutir Bonnie con Nox tras la muerte del elfo? La búsqueda y la propuesta no obtienen un resultado (16-002 y 16-004).
 
-Origen: [capítulo 16](capitulos/16.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 16](capitulos/16.md). Cotejada hasta el capítulo 40.
 
 No se confirma el paradero posterior del dragón de Erendriel ni se reproduce el negocio que Bonnie quería tratar con Nox por la vacante. El pacto anterior sobre la criatura de Mamá no identifica automáticamente ese negocio.
 
@@ -1368,7 +1368,7 @@ No se confirma el paradero posterior del dragón de Erendriel ni se reproduce el
 
 ¿Qué despierta tras milenios y cómo se relaciona con los extranjeros y las serpientes? Las declaraciones no ofrecen una explicación confirmada (16-016–16-017).
 
-Origen: [capítulo 16](capitulos/16.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 16](capitulos/16.md). Cotejada hasta el capítulo 40.
 
 Walulu afirma que unos extranjeros saquearon templos y abrieron una prisión prohibida. Muestra a Tesara y Eldrat una visión en la que un fragmento escapa de una criatura tentacular contenida por cinco héroes. Es información atribuida a Walulu y una visión, no una identificación definitiva de todo lo que despierta ni de su relación con los hombres serpiente.
 
@@ -1380,7 +1380,7 @@ Evidencia posterior: [31-025 · 02:55:06](capitulos/31.md) · [31-026 · 03:00:2
 
 ¿Se celebrará el concilio y quién asistirá? Eromov plantea condiciones y todavía quedan líderes por contactar (16-003 y 16-016).
 
-Origen: [capítulo 16](capitulos/16.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 16](capitulos/16.md). Cotejada hasta el capítulo 40.
 
 Los dirigentes de Ras Racor prometen asistir. Naór llega finalmente a Iktan y transmite a Walulu la convocatoria para la noche anterior al próximo solsticio; ella promete apoyar a su padre. No se muestra la celebración del concilio ni una lista completa de asistentes.
 
@@ -1392,7 +1392,7 @@ Evidencia posterior: [17-021 · 02:42:09](capitulos/17.md) · [31-019 · 02:21:0
 
 ¿Quién es el campeón solar y tiene relación con Ayoto? Naór relata la leyenda sin designarlo (16-017).
 
-Origen: [capítulo 16](capitulos/16.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 16](capitulos/16.md). Cotejada hasta el capítulo 40.
 
 No se designa posteriormente al campeón solar ni se identifica a Ayoto como tal. Sus símbolos y creencias no cumplen por sí solos la leyenda relatada por Naór.
 
@@ -1402,7 +1402,7 @@ No se designa posteriormente al campeón solar ni se identifica a Ayoto como tal
 
 ¿Quiénes son las dos visitantes de Eromov que desaparecen mediante plantas? Se describen sus apariencias, sin nombres (16-015).
 
-Origen: [capítulo 16](capitulos/16.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 16](capitulos/16.md). Cotejada hasta el capítulo 40.
 
 No se nombran de forma inequívoca las dos visitantes de aquella reunión. Las mujeres de la Hoja Caída de una reunión posterior no se equiparan automáticamente con la alada y la mediana de esta escena.
 
@@ -1412,7 +1412,7 @@ No se nombran de forma inequívoca las dos visitantes de aquella reunión. Las m
 
 ¿Tiene la mujer de Cuicapalli relación con el nawal? Ayoto lo afirma por su parecido, pero ella niega conocerlo (16-019).
 
-Origen: [capítulo 16](capitulos/16.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 16](capitulos/16.md). Cotejada hasta el capítulo 40.
 
 El director aclara después que la semejanza proviene de una representación gráfica reutilizada. Esto explica el indicio visual de Ayoto, sin confirmar que la mujer sea la nawal muerta o tenga una relación narrativa con ella.
 
@@ -1424,7 +1424,7 @@ Evidencia posterior: [18-002 · 00:04:44](capitulos/18.md)
 
 ¿Qué plantas necesita el kenku y qué contienen los tubos de Lunaria? El encargo y los objetos quedan sin identificar por completo (16-017 y 16-020).
 
-Origen: [capítulo 16](capitulos/16.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 16](capitulos/16.md). Cotejada hasta el capítulo 40.
 
 No se identifican después la especie de las plantas fucsias ni el contenido de los dos tubos que tomó Lunaria. Su experimentación posterior no confirma una entrega de este encargo.
 
@@ -1434,7 +1434,7 @@ No se identifican después la especie de las plantas fucsias ni el contenido de 
 
 ¿Adónde llegarán Triel y Lunaria? ¿Qué efecto tendrá el tatuaje de Naór? El cierre deja ambas cuestiones pendientes (16-021).
 
-Origen: [capítulo 16](capitulos/16.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 16](capitulos/16.md). Cotejada hasta el capítulo 40.
 
 Eldrat relata que encontró a Triel después de cuatro días de búsqueda; ella tardó cinco y se perdió. Ambos aparecen juntos de nuevo en Shiaru. Lunaria también reaparece allí después. No se precisa el efecto elegido ni el pago del tatuaje festivo de Naór.
 
@@ -1446,7 +1446,7 @@ Evidencia posterior: [17-001 · 00:02:05](capitulos/17.md) · [20-002 · 00:07:5
 
 ¿Dónde está Atlan y cuál es su grafía correcta frente a Atlas? Nombre explícito de reino sin coordenadas (17-006 y 17-022).
 
-Origen: [capítulo 17](capitulos/17.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 17](capitulos/17.md). Cotejada hasta el capítulo 40.
 
 Naór explica después que Atlan lleva cientos de años vigilando la frontera y la costa del sur. Esto concreta su función y su posición general, pero no proporciona coordenadas ni una grafía oficial que elimine las variantes del reconocimiento.
 
@@ -1458,7 +1458,7 @@ Evidencia posterior: [31-027 · 03:07:52](capitulos/31.md)
 
 ¿Quiénes son el rey, la reina y la figura enmascarada, y qué implica la alianza? Sin nombres personales ni tratado escrito (17-010 y 17-023).
 
-Origen: [capítulo 17](capitulos/17.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 17](capitulos/17.md). Cotejada hasta el capítulo 40.
 
 No se dan después los nombres del rey, la reina o la figura enmascarada de Ras Racor, ni se desarrolla un tratado concreto para aquella alianza.
 
@@ -1468,7 +1468,7 @@ No se dan después los nombres del rey, la reina o la figura enmascarada de Ras 
 
 ¿Se celebrará el concilio de Tutucan y llegará Naór a Iktan? Promesas e intención, no llegada (17-021–17-023).
 
-Origen: [capítulo 17](capitulos/17.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 17](capitulos/17.md). Cotejada hasta el capítulo 40.
 
 Naór llega a Iktan y conversa con Walulu. Transmite la convocatoria de Tutucan para la noche anterior al próximo solsticio y obtiene su promesa de apoyo. La llegada sí se cumple, pero la reunión no se celebra en las fuentes disponibles.
 
@@ -1480,7 +1480,7 @@ Evidencia posterior: [31-019 · 02:21:01](capitulos/31.md) · [31-024 · 02:52:3
 
 ¿Qué relación tienen hombres serpiente vistos al norte y crisis de Cuicapalli? Informe de la escolta sin investigación (17-007).
 
-Origen: [capítulo 17](capitulos/17.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 17](capitulos/17.md). Cotejada hasta el capítulo 40.
 
 Una investigación posterior encuentra hombres serpiente infiltrados en la Hoja Caída, al norte, y veneno asociado al envenenamiento de Eromov. Refuerza la existencia de actividad serpiente en la zona, pero no identifica expresamente a ese grupo con los individuos avistados por la escolta de Ras Racor.
 
@@ -1492,7 +1492,7 @@ Evidencia posterior: [30-006 · 00:31:54](capitulos/30.md) · [30-007 · 00:35:4
 
 ¿Qué significan la palabra «tiempo», las botas con símbolos y las heridas persistentes de Mamá? (18-005, 18-009)
 
-Origen: [capítulo 18](capitulos/18.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 18](capitulos/18.md). Cotejada hasta el capítulo 40.
 
 Se amplía la documentación del daño y rejuvenecimiento de Citlali: drena vida de Winscore y Tlachka, su maldición cura a un enemigo serpiente y los yuan-ti reclaman su piel como clave. Walulu examina sus tatuajes. No se explica la palabra tiempo ni el origen y vínculo de los símbolos de las botas.
 
@@ -1504,7 +1504,7 @@ Evidencia posterior: [19-007 · 00:48:52](capitulos/19.md) · [34-009 · 01:13:1
 
 ¿Quiénes son las criaturas marinas asesinadas y qué ritual utiliza la sangre reciente? (18-012–18-013)
 
-Origen: [capítulo 18](capitulos/18.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 18](capitulos/18.md). Cotejada hasta el capítulo 40.
 
 No se identifican después las dos criaturas marinas del templo ni el ritual concreto alimentado con aquella sangre. Los rituales del kraken relatados en Perlasal no se vinculan expresamente a esta sala.
 
@@ -1514,7 +1514,7 @@ No se identifican después las dos criaturas marinas del templo ni el ritual con
 
 ¿Quién es el dios del templo, Lares/Larcamas, y qué vínculo tiene con Set nombrado en la bendición? Sin equivalencia establecida (18-007 y 18-017).
 
-Origen: [capítulo 18](capitulos/18.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 18](capitulos/18.md). Cotejada hasta el capítulo 40.
 
 No se aclara posteriormente la identidad del dios llamado Lares o Larcamas ni su equivalencia con Set. Compartir iconografía serpentina no permite fusionar ambos nombres.
 
@@ -1524,7 +1524,7 @@ No se aclara posteriormente la identidad del dios llamado Lares o Larcamas ni su
 
 ¿Qué representa la sombra del cierre y qué conoce algún personaje de ella? No acceso demostrado (18-021).
 
-Origen: [capítulo 18](capitulos/18.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 18](capitulos/18.md). Cotejada hasta el capítulo 40.
 
 Las visiones posteriores contienen figuras serpentinas, pero no identifican de forma expresa la sombra del cierre de este capítulo. Tampoco se transmite a un personaje aquella perspectiva de cámara.
 
@@ -1534,7 +1534,7 @@ Las visiones posteriores contienen figuras serpentinas, pero no identifican de f
 
 ¿Qué presencia habla a través del collar y puede modificar/controlar criaturas? Solo percepción e hipótesis (19-014–19-016).
 
-Origen: [capítulo 19](capitulos/19.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 19](capitulos/19.md). Cotejada hasta el capítulo 40.
 
 El collar vuelve a causar una visión a Blink y Zarial, figura entre las órdenes del ataque a Shiaru y es reconocido por el guardia poseído de la pirámide. Estos hechos prueban su relevancia y efectos mentales, pero no identifican a la presencia ni demuestran que controle o modifique al dinosaurio de la charca.
 
@@ -1546,7 +1546,7 @@ Evidencia posterior: [21-015 · 02:34:42](capitulos/21.md) · [25-021 · 02:25:3
 
 ¿Por qué el intento de curación de Mamá causa daño y rejuvenecimiento? Blink conoce el fenómeno, no explicación (19-007).
 
-Origen: [capítulo 19](capitulos/19.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 19](capitulos/19.md). Cotejada hasta el capítulo 40.
 
 El drenaje de Citlali se confirma cuando roba dieciocho puntos de vida a Winscore para curarse. En el capítulo 39 el mismo poder cura a la abominación serpiente y después vuelve a drenar a Tlachka. Walulu empieza a estudiar las marcas, sin explicar todavía el origen o el funcionamiento completo de la maldición.
 
@@ -1558,7 +1558,7 @@ Evidencia posterior: [34-009 · 01:13:18](capitulos/34.md) · [39-008 · 00:51:1
 
 ¿Se entrenará Leona y dónde custodiarán el collar? Pendientes (19-016–19-017).
 
-Origen: [capítulo 19](capitulos/19.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 19](capitulos/19.md). Cotejada hasta el capítulo 40.
 
 Blink sigue acompañando a Leona por la vigilancia encomendada y continúa guardando el collar dentro de una fruta. Más adelante lo abandona en la sala de la pirámide durante la huida. No se muestra un programa de entrenamiento completado ni se confirma que dejarlo allí lo vuelva seguro.
 
@@ -1570,7 +1570,7 @@ Evidencia posterior: [21-004 · 00:22:49](capitulos/21.md) · [21-015 · 02:34:4
 
 ¿Quién es Arcan, la figura del templo de Zarial, y por qué ella busca fuerza? Solo se dispone de su relato introductorio (20-003).
 
-Origen: [capítulo 20](capitulos/20.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 20](capitulos/20.md). Cotejada hasta el capítulo 40.
 
 No se amplía después la biografía de Arcan ni se explica con nuevas fuentes el motivo de la búsqueda de fuerza de Zarial.
 
@@ -1580,7 +1580,7 @@ No se amplía después la biografía de Arcan ni se explica con nuevas fuentes e
 
 ¿Qué indica la X junto a Slaz en el mapa y cuándo compartirá Poncelot su contenido? (20-014).
 
-Origen: [capítulo 20](capitulos/20.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 20](capitulos/20.md). Cotejada hasta el capítulo 40.
 
 Poncelot logra estudiar el mapa con Ione y después lo muestra al grupo. Lo siguen hacia el sur y Pinky los guía a la pirámide que el director llama provisionalmente Slaz. Se cumple la comunicación y la exploración, pero siguen inciertas la grafía y la identificación completa del lugar marcado.
 
@@ -1592,7 +1592,7 @@ Evidencia posterior: [25-001 · 00:00:21](capitulos/25.md) · [25-019 · 02:18:0
 
 ¿Cuál era el cometido del campamento, del gas y de la serpiente? ¿Dónde está Eldrat? No se averigua en este capítulo (20-008, 20-013 y 20-017).
 
-Origen: [capítulo 20](capitulos/20.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 20](capitulos/20.md). Cotejada hasta el capítulo 40.
 
 Poncelot sabe después que Eldrat está en su cuarto y deja de considerar el mapa una pista de su desaparición. Los capítulos posteriores no explican el cometido específico del campamento atacado, del gas o de su serpiente.
 
@@ -1604,7 +1604,7 @@ Evidencia posterior: [23-001 · 00:02:12](capitulos/23.md)
 
 ¿Existe la criatura de tres cabezas de la tradición leonina o aparece en otras fuentes? (20-006).
 
-Origen: [capítulo 20](capitulos/20.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 20](capitulos/20.md). Cotejada hasta el capítulo 40.
 
 No se encuentra ni identifica después a la criatura de la leyenda leonina que come moscas. Las serpientes de múltiples cabezas de otras escenas no se equiparan con ella por semejanza.
 
@@ -1614,7 +1614,7 @@ No se encuentra ni identifica después a la criatura de la leyenda leonina que c
 
 ¿Quién es la tercera criatura arrastrada del campamento y qué le ocurre? No se identifica (21-006–21-007).
 
-Origen: [capítulo 21](capitulos/21.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 21](capitulos/21.md). Cotejada hasta el capítulo 40.
 
 No se identifica posteriormente a la tercera criatura arrastrada ni se cuenta su destino. La presencia de dos padres muertos no resuelve por sí sola el tercer rastro.
 
@@ -1624,7 +1624,7 @@ No se identifica posteriormente a la tercera criatura arrastrada ni se cuenta su
 
 ¿El humano transformado en lobo, los lobos con marcas lunares y el estanque están vinculados al culto serpiente? El collar activa una visión, pero no se conoce un vínculo doctrinal (21-010 y 21-015).
 
-Origen: [capítulo 21](capitulos/21.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 21](capitulos/21.md). Cotejada hasta el capítulo 40.
 
 No se establece después un vínculo doctrinal o causal entre el humano-lobo, los lobos lunares y el culto serpiente. La reacción del collar es un indicio, no una explicación completa.
 
@@ -1634,7 +1634,7 @@ No se establece después un vínculo doctrinal o causal entre el humano-lobo, lo
 
 ¿Qué entidad se muestra a Blink y Zarial y habla al collar? Al final se describe como una mujer pez, sin nombre confirmado (21-015).
 
-Origen: [capítulo 21](capitulos/21.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 21](capitulos/21.md). Cotejada hasta el capítulo 40.
 
 No se da posteriormente un nombre o identificación inequívoca a la mujer pez de aquella visión. Maris y Marina no se identifican con ella por compartir rasgos acuáticos.
 
@@ -1644,7 +1644,7 @@ No se da posteriormente un nombre o identificación inequívoca a la mujer pez d
 
 ¿Aceptará Eromov la custodia de Leo y cómo afectará al niño lo sucedido? Queda pendiente (21-016).
 
-Origen: [capítulo 21](capitulos/21.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 21](capitulos/21.md). Cotejada hasta el capítulo 40.
 
 Naór continúa cuidando y entrenando a Leo, que la sigue para sobrevivir. Lo presenta como hijo y futuro príncipe, y después lo presenta a Walulu en Iktan. Leo también participa en el combate del bosque. No se muestra una aceptación formal de la custodia por Eromov ni una resolución del trauma.
 
@@ -1656,7 +1656,7 @@ Evidencia posterior: [31-001 · 00:03:36](capitulos/31.md) · [31-004 · 00:22:4
 
 ¿Cómo se infiltraron en la aldea y por qué preguntan a Mamá por el collar que tiene Blink? (22-011–22-018).
 
-Origen: [capítulo 22](capitulos/22.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 22](capitulos/22.md). Cotejada hasta el capítulo 40.
 
 La aparición posterior de hombres serpiente disfrazados confirma que esa infiltración es posible. Los yuan-ti reclaman después la piel marcada de Citlali como clave, lo que aporta contexto sobre su interés en ella. No explican cómo entraron al festival ni por qué le exigieron el collar que llevaba Blink.
 
@@ -1668,7 +1668,7 @@ Evidencia posterior: [30-009 · 00:50:50](capitulos/30.md) · [30-011 · 01:06:2
 
 ¿Qué descubrirá Blink sobre la amenaza y recibirá el aviso? (22-018).
 
-Origen: [capítulo 22](capitulos/22.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 22](capitulos/22.md). Cotejada hasta el capítulo 40.
 
 Blink sufre directamente el ataque a Shiaru. Al compartir Nox las órdenes sobre el mapa y el collar, revela que lo posee; después el grupo conversa sobre esa demanda y viaja a la pirámide. Conoce la amenaza, pero no se muestra la transmisión específica del aviso de Eromov.
 
@@ -1680,7 +1680,7 @@ Evidencia posterior: [25-006 · 00:26:59](capitulos/25.md) · [25-021 · 02:25:3
 
 ¿Cuál es la especie y el linaje de Guayacán? ¿Va disfrazado de ave o es un aracocra? La fuente mantiene la ambigüedad (22-002 y 22-005).
 
-Origen: [capítulo 22](capitulos/22.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 22](capitulos/22.md). Cotejada hasta el capítulo 40.
 
 Una fisura en el pico de Guayacán deja ver dientes humanos y el personaje intenta ocultar el deterioro de su traje. Más adelante vuelve a repararlo. Son indicios sobre su apariencia, sin una declaración definitiva de su especie o una genealogía del linaje.
 
@@ -1692,7 +1692,7 @@ Evidencia posterior: [27-020 · 02:47:18](capitulos/27.md) · [27-021 · 02:50:3
 
 ¿Cómo organizarán la expedición al norte y el concilio pendiente? (22-020).
 
-Origen: [capítulo 22](capitulos/22.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 22](capitulos/22.md). Cotejada hasta el capítulo 40.
 
 Naór completa el contacto con Iktan y obtiene la promesa de apoyo de Walulu para el concilio previo al solsticio. Ayoto sigue entrenando a Cuicapalli y en el capítulo 39 propone ir a su pueblo del norte, pero no sabe dónde está. No se celebra el concilio ni se ejecuta una expedición organizada al pueblo de Ayoto.
 
@@ -1704,7 +1704,7 @@ Evidencia posterior: [31-027 · 03:07:52](capitulos/31.md) · [39-001 · 00:00:3
 
 ¿Quién es la diosa anunciada por la serpiente del foso y cómo conoce esta a Hawkins? (23-011).
 
-Origen: [capítulo 23](capitulos/23.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 23](capitulos/23.md). Cotejada hasta el capítulo 40.
 
 En una visita posterior a la prisión de Aurora, una presencia muestra a Nox una serpiente alada que se convierte en humanoide y pide ser liberada. Nox y Molly resisten la influencia y no la liberan. La escena amplía la trama de la presencia cautiva, sin identificar a la diosa anunciada ni explicar cómo conocía a Hawkins.
 
@@ -1716,7 +1716,7 @@ Evidencia posterior: [35-014 · 02:07:15](capitulos/35.md) · [35-015 · 02:10:1
 
 ¿Qué ciudad buscan los documentos? ¿Coincide con el mapa Slaz? El nombre mostrado no se verbaliza (23-015).
 
-Origen: [capítulo 23](capitulos/23.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 23](capitulos/23.md). Cotejada hasta el capítulo 40.
 
 El mapa se comparte y conduce a una expedición a la pirámide que el director llama provisionalmente Slaz. Esto permite seguir su destino, pero no recupera el nombre no verbalizado de la ciudad de los documentos ni demuestra que ambas referencias sean idénticas.
 
@@ -1728,7 +1728,7 @@ Evidencia posterior: [25-019 · 02:18:01](capitulos/25.md) · [26-013 · 01:05:3
 
 ¿Qué símbolo espera Nox que Molly reconozca y quién es el alto cargo al que llama palomo? No se nombra literalmente a Tórtola en este capítulo (23-011 y 23-017).
 
-Origen: [capítulo 23](capitulos/23.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 23](capitulos/23.md). Cotejada hasta el capítulo 40.
 
 Tórtola aparece después como almirante aviar y nuevo mando de Aurora, que destituyó a Molly. Es un candidato contextual para el alto cargo temido, pero no se declara inequívocamente que sea aquel palomo. El símbolo que Nox esperaba que Molly reconociera tampoco se explica.
 
@@ -1740,7 +1740,7 @@ Evidencia posterior: [35-009 · 01:20:01](capitulos/35.md) · [35-010 · 01:30:3
 
 ¿Qué ocurre con el galeón a la deriva, los perros aliados y los otros presos? No se muestra su desenlace (23-010 y 23-016–23-017).
 
-Origen: [capítulo 23](capitulos/23.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 23](capitulos/23.md). Cotejada hasta el capítulo 40.
 
 No se da un desenlace posterior al galeón abandonado ni a los presos que Nox dejó sin liberar. La aparición de otros perros de Aurora no identifica individualmente a los aliados de aquella fuga.
 
@@ -1750,7 +1750,7 @@ No se da un desenlace posterior al galeón abandonado ni a los presos que Nox de
 
 ¿Qué robaron los impostores, quiénes son y qué relación tienen con la concha o el culto serpiente? No se confirma su especie ni su objetivo completo (24-007 y 24-017).
 
-Origen: [capítulo 24](capitulos/24.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 24](capitulos/24.md). Cotejada hasta el capítulo 40.
 
 Maris explica en la expedición posterior que los merros encontrados cerca de Perlasal sirven a los profundos, que secuestran gente para rituales del kraken. Amplía el contexto de sus enemigos marinos, pero no identifica expresamente el objeto robado a Bonnie ni una relación con el culto serpiente o la identidad completa de los impostores de la costa.
 
@@ -1762,7 +1762,7 @@ Evidencia posterior: [29-019 · 02:03:18](capitulos/29.md) · [29-021 · 02:20:2
 
 ¿Adónde conducen las coordenadas de la perla y cómo podrían reparar la concha? No se muestra ninguna reparación (24-014–24-015).
 
-Origen: [capítulo 24](capitulos/24.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 24](capitulos/24.md). Cotejada hasta el capítulo 40.
 
 Coyote utiliza la perla para comunicarse con Maris y orientarse desde el lago, por un túnel al mar, hasta ser recibido en Perlasal. No se leen los valores numéricos de las coordenadas ni se reparan los fragmentos de concha.
 
@@ -1774,7 +1774,7 @@ Evidencia posterior: [29-005 · 00:22:47](capitulos/29.md) · [29-009 · 00:41:4
 
 ¿Dónde está Sam y por qué Ione reacciona a su nombre? No se revela (24-016).
 
-Origen: [capítulo 24](capitulos/24.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 24](capitulos/24.md). Cotejada hasta el capítulo 40.
 
 Los capítulos posteriores no localizan a Sam ni explican la reacción de Ione a su nombre. El acuerdo de búsqueda con Bonnie no se muestra cumplido.
 
@@ -1784,7 +1784,7 @@ Los capítulos posteriores no localizan a Sam ni explican la reacción de Ione a
 
 ¿Coyote corresponde a una identidad anterior? Ser cambiaformas y compartir intérprete con Mamá no demuestra que sean la misma persona (24-005 y 24-019).
 
-Origen: [capítulo 24](capitulos/24.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 24](capitulos/24.md). Cotejada hasta el capítulo 40.
 
 El director identifica después a Coyote como quien suplantó a Ione y, más adelante, como changeling. En Iktan aparece junto a Citlali y reconoce al grupo. Se aclaran su especie y sus suplantaciones, pero no se revela una identidad anterior que permita equipararlo con Mamá.
 
@@ -1796,7 +1796,7 @@ Evidencia posterior: [26-001 · 00:02:59](capitulos/26.md) · [31-001 · 00:03:3
 
 ¿Qué máquinas y tinta lleva Gobs y cuándo se pondrán en servicio? (24-021).
 
-Origen: [capítulo 24](capitulos/24.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 24](capitulos/24.md). Cotejada hasta el capítulo 40.
 
 Después de la llegada del equipo, Ione sale de la consulta tras comprar un tatuaje. Triel también paga y recibe un tatuaje más adelante. Esto confirma que el servicio de tatuajes está funcionando; no permite atribuir un efecto específico a los dos tatuajes si no se describe.
 
@@ -1806,7 +1806,7 @@ Evidencia posterior: [26-003 · 00:08:27](capitulos/26.md) · [31-003 · 00:12:1
 
 ¿Quién ordenó el ataque y por qué necesita el mapa y el collar? Solo se conocen las palabras descifradas de las órdenes (25-021).
 
-Origen: [capítulo 25](capitulos/25.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 25](capitulos/25.md). Cotejada hasta el capítulo 40.
 
 En la pirámide, un guardia poseído reconoce que Nox y el collar han llegado. El anfitrión afirma que alguien superior necesita lo que Nox lleva en la espalda y lo llama Señor. Confirma que los objetos y Nox interesan a esa trama, pero no identifica al superior ni prueba quién impartió las órdenes del ataque a Shiaru.
 
@@ -1818,7 +1818,7 @@ Evidencia posterior: [26-021 · 02:04:58](capitulos/26.md) · [26-022 · 02:10:4
 
 ¿Dónde está Ezlat y qué contiene? La cartografía falla y el nombre procede del testimonio de Poncelot sobre Ione (25-019).
 
-Origen: [capítulo 25](capitulos/25.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 25](capitulos/25.md). Cotejada hasta el capítulo 40.
 
 El grupo sigue el mapa hacia el sur y Pinky lo guía a una pirámide oculta, llamada provisionalmente Slaz por el director. Encuentran estatuas, un altar, un trono y hombres serpiente, cuyo anfitrión se recompone en una criatura enorme tras morir. No se fija una ubicación cartográfica exacta ni la equivalencia nominal entre Ezlat y Slaz.
 
@@ -1830,7 +1830,7 @@ Evidencia posterior: [26-008 · 00:33:45](capitulos/26.md) · [26-013 · 01:05:3
 
 ¿Qué es el collar de Blink y cómo se relaciona con los anteriores? La mesa rechaza identificarlo con el de cuatro gemas (25-021).
 
-Origen: [capítulo 25](capitulos/25.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 25](capitulos/25.md). Cotejada hasta el capítulo 40.
 
 El collar de Blink reacciona mentalmente en la pirámide y un guardia poseído reconoce su presencia. Durante la huida, Blink deja la fruta que lo contiene en una sala. No se determina su naturaleza ni se establece una equivalencia con los collares de las misiones anteriores.
 
@@ -1842,7 +1842,7 @@ Evidencia posterior: [26-018 · 01:45:14](capitulos/26.md) · [26-021 · 02:04:5
 
 ¿Qué hechizos contienen los dos pergaminos robados y cuáles son todos los efectos de la espina-lanza? Se conocen sus niveles o cargas, pero no todos los detalles (25-012, 25-018 y 25-020).
 
-Origen: [capítulo 25](capitulos/25.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 25](capitulos/25.md). Cotejada hasta el capítulo 40.
 
 Los pergaminos robados no reciben una identificación posterior de sus conjuros. La espina-lanza se utiliza en combate, pero no se amplían de forma inequívoca todos sus efectos. No se asignan a ella las habilidades de clase de Poncelot.
 
@@ -1852,7 +1852,7 @@ Los pergaminos robados no reciben una identificación posterior de sus conjuros.
 
 ¿Qué lleva Nox en la espalda y quién quiere obtenerlo? La referencia al antiguo capitán y la respuesta del hombre serpiente no lo explican (26-017, 26-019 y 26-022).
 
-Origen: [capítulo 26](capitulos/26.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 26](capitulos/26.md). Cotejada hasta el capítulo 40.
 
 Durante la huida se aclara que las monedas no activaban las estatuas: el mecanismo responde cuando Nox las mira. Sus marcas siguen relacionadas con las molestias de la espalda y la reacción del lugar, pero no se explica su origen ni se identifica a quien necesita obtenerlas.
 
@@ -1864,7 +1864,7 @@ Evidencia posterior: [28-011 · 01:02:51](capitulos/28.md)
 
 ¿Qué ocurre si alguien se sienta realmente en el trono? La imagen engaña al anfitrión y los compañeros quedan amenazados, sin desenlace (26-023).
 
-Origen: [capítulo 26](capitulos/26.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 26](capitulos/26.md). Cotejada hasta el capítulo 40.
 
 La continuación confirma que Nox solo proyecta una ilusión y que el anfitrión se extraña porque el trono no reacciona. El grupo huye después del combate. Nadie ocupa realmente el asiento para comprobar sus efectos.
 
@@ -1876,7 +1876,7 @@ Evidencia posterior: [28-001 · 00:03:02](capitulos/28.md) · [28-002 · 00:09:0
 
 ¿Quién controla al guardia de ojos rojos y a quién llaman nuestro Señor? La lectura mental no identifica a la entidad (26-021–26-022).
 
-Origen: [capítulo 26](capitulos/26.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 26](capitulos/26.md). Cotejada hasta el capítulo 40.
 
 No se identifica al controlador de los ojos rojos ni a la entidad llamada nuestro Señor. Las alusiones posteriores de otros hombres serpiente no prueban que todas designen al mismo ser.
 
@@ -1886,7 +1886,7 @@ No se identifica al controlador de los ojos rojos ni a la entidad llamada nuestr
 
 ¿Por qué Coyote suplantó a Ione y qué sabe del informe de Poncelot? La audiencia conoce la suplantación, pero los personajes no la resuelven en su conversación (26-001 y 26-003).
 
-Origen: [capítulo 26](capitulos/26.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 26](capitulos/26.md). Cotejada hasta el capítulo 40.
 
 Las apariciones posteriores confirman que Coyote cambia de forma, pero no explican el motivo de esa suplantación ni detallan cómo utiliza el informe recibido de Poncelot.
 
@@ -1898,7 +1898,7 @@ Evidencia posterior: [31-001 · 00:03:36](capitulos/31.md) · [39-020 · 02:14:1
 
 ¿Qué decidirán los cinco piratas en su reunión? Se refiere la convocatoria, pero no se celebra aquí (26-006).
 
-Origen: [capítulo 26](capitulos/26.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 26](capitulos/26.md). Cotejada hasta el capítulo 40.
 
 Los capítulos posteriores muestran nuevos conflictos y preparativos militares, pero no una reunión de los cinco piratas ni sus decisiones.
 
@@ -1908,7 +1908,7 @@ Los capítulos posteriores muestran nuevos conflictos y preparativos militares, 
 
 ¿Por qué los hombres de azul, cuyo jefe cita a Tórtola, atacan Cuicapalli? ¿Qué fuerzas quedan? No interrogan a un jefe vivo y el cierre confirma que no eliminaron a todos (27-014 y 27-018–27-021).
 
-Origen: [capítulo 27](capitulos/27.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 27](capitulos/27.md). Cotejada hasta el capítulo 40.
 
 En Aurora se habla de preparar los barcos para acabar con la piratería, y Tórtola ordena un ataque. Molly revela después una ruta de cañones y pólvora que la Marina transporta para atacar. Esto amplía el contexto militar, pero no proporciona una explicación directa del ataque a Cuicapalli ni un inventario de las fuerzas restantes.
 
@@ -1920,7 +1920,7 @@ Evidencia posterior: [35-008 · 01:10:32](capitulos/35.md) · [35-016 · 02:23:1
 
 ¿Qué ocultan el traje y el pico de Guayacán y quién lo sabe? Se ven dientes humanos y sus intentos de ocultarlos, pero no declara su identidad precisa (27-020–27-021).
 
-Origen: [capítulo 27](capitulos/27.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 27](capitulos/27.md). Cotejada hasta el capítulo 40.
 
 Guayacán vuelve a reparar su traje en una recapitulación posterior. No se declara su especie o identidad real ni se establece qué personajes conocen lo que oculta.
 
@@ -1932,7 +1932,7 @@ Evidencia posterior: [30-001 · 00:00:39](capitulos/30.md)
 
 ¿Puede Tlachka volver formalmente a Cuicapalli después de su destierro? Entrar sin reconocimiento no equivale a un indulto (27-002–27-004 y 27-020).
 
-Origen: [capítulo 27](capitulos/27.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 27](capitulos/27.md). Cotejada hasta el capítulo 40.
 
 Tlachka vuelve a participar en actividades relacionadas con Cuicapalli y, en el capítulo 39, trae guardias que ayudan a rescatar a Citlali y Etley. No se muestra una revocación formal del destierro.
 
@@ -1944,7 +1944,7 @@ Evidencia posterior: [29-001 · 00:02:17](capitulos/29.md) · [39-013 · 01:30:3
 
 ¿Dónde está la abuela que busca Cipo? El director confirma que no se han reencontrado desde su invocación (27-003).
 
-Origen: [capítulo 27](capitulos/27.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 27](capitulos/27.md). Cotejada hasta el capítulo 40.
 
 Pinky declara después que busca a Cipo y Ayoto le indica que estuvo en Cuicapalli. Ella parte hacia ese objetivo. Más adelante se la encuentra presa en un campamento de la Marina y en Aurora; tras una liberación, Tórtola la captura de nuevo. Cipo aparece por separado en las ruinas del lago. No se representa un reencuentro entre ambos.
 
@@ -1956,7 +1956,7 @@ Evidencia posterior: [29-007 · 00:29:26](capitulos/29.md) · [29-008 · 00:34:5
 
 ¿Qué entidad formada por serpientes persigue al grupo y dónde queda después? No la matan y los siseos cesan tras la huida (28-009–28-015).
 
-Origen: [capítulo 28](capitulos/28.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 28](capitulos/28.md). Cotejada hasta el capítulo 40.
 
 La gran criatura queda atrás durante la huida, sin ser derrotada. Los capítulos posteriores no muestran su destino ni explican qué entidad concreta forman las serpientes.
 
@@ -1966,7 +1966,7 @@ La gran criatura queda atrás durante la huida, sin ser derrotada. Los capítulo
 
 ¿Quién es la serpiente alada de la visión y qué significa el ritual con la criatura de varias cabezas? La visión no confirma el futuro y la presencia de Nox en el altar sigue sin explicar (28-015).
 
-Origen: [capítulo 28](capitulos/28.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 28](capitulos/28.md). Cotejada hasta el capítulo 40.
 
 Nox recibe después otra visión de una serpiente alada que se transforma en humanoide sobre una pirámide. La nueva experiencia no identifica a la criatura de la visión anterior ni explica el ritual del altar.
 
@@ -1978,7 +1978,7 @@ Evidencia posterior: [35-014 · 02:07:15](capitulos/35.md) · [35-015 · 02:10:1
 
 ¿Qué consecuencias tendrá dejar el collar en el templo? No se destruye y su ubicación queda registrada para contrastarla después (28-010).
 
-Origen: [capítulo 28](capitulos/28.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 28](capitulos/28.md). Cotejada hasta el capítulo 40.
 
 No se documenta la recuperación, destrucción o uso posterior del collar dejado dentro de la fruta. Las lagunas de memoria de Blink no se atribuyen de forma confirmada a ese abandono.
 
@@ -1988,7 +1988,7 @@ No se documenta la recuperación, destrucción o uso posterior del collar dejado
 
 ¿Qué protege exactamente Bonnie y qué ocurrió con la anciana nativa? Su información está condicionada y el paradero sigue oculto (28-020–28-021).
 
-Origen: [capítulo 28](capitulos/28.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 28](capitulos/28.md). Cotejada hasta el capítulo 40.
 
 Citlali relata que una pirata la liberó y que Bonnie le advirtió que evitara Shiaru. El director explica que la separación pretende protegerla de la Marina. Después se confirma que vive con la cría en una cueva cercana a Cuicapalli y que acaba en Iktan. Bonnie afirma que el ojo reacciona ante Citlali; Molly habla de algo despertado que ocultó a Tórtola. No se identifica de forma definitiva qué protegen.
 
@@ -2000,7 +2000,7 @@ Evidencia posterior: [34-001 · 00:03:09](capitulos/34.md) · [34-020 · 02:47:1
 
 ¿Qué superiores llegaron a Fuerte Aurora y qué implica la alianza de Bonnie y Molly? Se dispone de un testimonio, sin inspeccionar su llegada (28-020).
 
-Origen: [capítulo 28](capitulos/28.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 28](capitulos/28.md). Cotejada hasta el capítulo 40.
 
 Los episodios de Aurora identifican a Tórtola como la autoridad que ha tomado el mando y destituido a Molly. Nox libera a Molly, que vuelve a Shiaru y coopera con Bonnie aportando posiciones estratégicas y rutas de suministros. No se reconstruye una lista completa de los superiores llegados ni todo el acuerdo protector.
 
@@ -2012,7 +2012,7 @@ Evidencia posterior: [35-009 · 01:20:01](capitulos/35.md) · [35-013 · 02:05:4
 
 ¿Quiénes son los profundos y dónde y cómo hacen crecer al kraken mediante secuestros? Solo se dispone del relato de Maris; no se inspeccionan sus líderes o instalaciones (29-021–29-022).
 
-Origen: [capítulo 29](capitulos/29.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 29](capitulos/29.md). Cotejada hasta el capítulo 40.
 
 Coyote vuelve a la superficie con los asuntos de Perlasal sin resolver. No se exploran las instalaciones de los profundos ni se localiza o combate al kraken.
 
@@ -2024,7 +2024,7 @@ Evidencia posterior: [31-001 · 00:03:36](capitulos/31.md)
 
 ¿Qué sirenas o sirenos pueden otorgar branquias y cuánto duran? Las conceden a los cuatro viajeros, sin una duración exacta transcrita (29-019).
 
-Origen: [capítulo 29](capitulos/29.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 29](capitulos/29.md). Cotejada hasta el capítulo 40.
 
 No se da después una duración exacta de las branquias ni una explicación completa de qué sirénidos pueden concederlas. El efecto observado en los viajeros no establece por sí solo una regla general.
 
@@ -2034,7 +2034,7 @@ No se da después una duración exacta de las branquias ni una explicación comp
 
 ¿Qué religión y deidad sigue Ivet y cómo pueden ganar su confianza? Visitan el templo con Maris, pero después niegan el acceso a Ayoto (29-020 y 29-025).
 
-Origen: [capítulo 29](capitulos/29.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 29](capitulos/29.md). Cotejada hasta el capítulo 40.
 
 Ayoto relata más adelante una negociación rechazada por los sirénidos y regresa a entrenar en Cuicapalli. No se identifica una deidad de Ivet ni se muestra que él obtenga su confianza o acceso al templo.
 
@@ -2046,7 +2046,7 @@ Evidencia posterior: [39-001 · 00:00:33](capitulos/39.md)
 
 ¿Qué conoce Coyote sobre las amenazas a una familia y por qué no responde a la pregunta sobre su sacrificio? La conversación no revela un pasado específico (29-022).
 
-Origen: [capítulo 29](capitulos/29.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 29](capitulos/29.md). Cotejada hasta el capítulo 40.
 
 Los capítulos posteriores no aclaran a qué familia se refiere Coyote ni el posible sacrificio por el que preguntó Maris.
 
@@ -2056,7 +2056,7 @@ Los capítulos posteriores no aclaran a qué familia se refiere Coyote ni el pos
 
 ¿Qué queda de Erendriel y por qué está casi esquelético pese a la conservación del capítulo 16? El tigre se lleva sus restos, sin resolver los tiempos o efectos de conservación (29-003).
 
-Origen: [capítulo 29](capitulos/29.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 29](capitulos/29.md). Cotejada hasta el capítulo 40.
 
 Una conversación posterior recuerda que Merlucilla IV se llevó el cadáver del elfo, confirmando que sus restos ya no siguen exhibidos en la entrada de Shiaru. No se explica por qué estaban casi esqueléticos ni cómo encaja eso con la conservación anterior.
 
@@ -2068,9 +2068,11 @@ Evidencia posterior: [34-005 · 00:31:01](capitulos/34.md)
 
 ¿Conseguirá Parroter un antídoto y sobrevivirá Eromov? La investigación comienza, pero la curación no se muestra (30-020 y 30-022).
 
-Origen: [capítulo 30](capitulos/30.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 30](capitulos/30.md). Cotejada hasta el capítulo 40.
 
-No se muestra después una cura administrada a Eromov ni se confirma el resultado de la investigación de Parroter. Las nuevas visitas a los alrededores de Cuicapalli no establecen su estado vital.
+Leona relata que Eromov sigue envenenado, que la envió a Iktan para advertir de un ataque y que Guayacán quedó cuidándolo. Walulu promete enviar hombres, recetas y protecciones. Esto aporta un estado referido y un ofrecimiento de ayuda, pero no muestra un antídoto administrado ni la recuperación del líder.
+
+Evidencia posterior: [40-002 · 00:02:05](capitulos/40.md) · [40-006 · 00:25:36](capitulos/40.md)
 
 **Sigue pendiente:** El resultado del antídoto y el estado de Eromov.
 
@@ -2078,7 +2080,7 @@ No se muestra después una cura administrada a Eromov ni se confirma el resultad
 
 ¿Quién añadió el veneno a la comida y quiénes eran las dos visitantes? La infiltración de la Hoja Caída es una sospecha fundada, pero no se muestra la contaminación ni se obtiene una confesión (30-005, 30-006 y 30-009).
 
-Origen: [capítulo 30](capitulos/30.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 30](capitulos/30.md). Cotejada hasta el capítulo 40.
 
 No aparece un testimonio posterior que identifique a quien añadió el veneno. La preparación de la comida por Tacha y la infiltración de hombres serpiente no prueban por sí solas una autoría concreta.
 
@@ -2088,7 +2090,7 @@ No aparece un testimonio posterior que identifique a quien añadió el veneno. L
 
 ¿Quedaban cautivos vivos tras la reja? La mayoría parecen muertos y solo se retira un cadáver; no se resuelve el estado de posibles supervivientes (30-017).
 
-Origen: [capítulo 30](capitulos/30.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 30](capitulos/30.md). Cotejada hasta el capítulo 40.
 
 No se regresa a la prisión ni se informa después de posibles cautivos supervivientes. El cadáver retirado no permite deducir el estado de todas las personas tras la reja.
 
@@ -2098,7 +2100,7 @@ No se regresa a la prisión ni se informa después de posibles cautivos superviv
 
 ¿Adónde envió Eromov a Naór y llegó ella a su destino? La transcripción recoge una expresión incierta, Naoritan, que no permite fijarlo (30-020).
 
-Origen: [capítulo 30](capitulos/30.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 30](capitulos/30.md). Cotejada hasta el capítulo 40.
 
 Naór relata que se perdió, regresó a Cuicapalli y volvió a salir. Después identifica Iktan como su destino, llega allí y obtiene de Walulu una promesa de apoyo al concilio. Esto confirma una llegada posterior, pero no permite reconstruir con certeza la expresión del encargo de Eromov.
 
@@ -2110,11 +2112,11 @@ Evidencia posterior: [31-001 · 00:03:36](capitulos/31.md) · [31-005 · 00:30:5
 
 ¿Qué otros grupos de hombres serpiente están despertando y qué aliados tienen? Los informes locales no describen toda su organización (30-020).
 
-Origen: [capítulo 30](capitulos/30.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 30](capitulos/30.md). Cotejada hasta el capítulo 40.
 
-Un grupo posterior de yuan-ti ataca a Citlali y Etley en una cueva próxima a Cuicapalli; dos refuerzos reclaman mentalmente la piel de Citlali como clave. Se documenta otra operación, pero no su jerarquía, aliados o vínculo preciso con Hoja Caída.
+Además de la operación contra Citlali y Etley, Leona transmite una previsión de ataque yuan-ti al festival de Iktan. Walulu promete precauciones. La advertencia no se convierte en un ataque mostrado ni identifica jerarquía, aliados o vínculo organizativo preciso con Hoja Caída.
 
-Evidencia posterior: [39-005 · 00:32:27](capitulos/39.md) · [39-010 · 01:12:40](capitulos/39.md)
+Evidencia posterior: [39-005 · 00:32:27](capitulos/39.md) · [39-010 · 01:12:40](capitulos/39.md) · [40-002 · 00:02:05](capitulos/40.md) · [40-006 · 00:25:36](capitulos/40.md)
 
 **Sigue pendiente:** La organización de los grupos, sus aliados y las relaciones entre las distintas operaciones.
 
@@ -2122,11 +2124,11 @@ Evidencia posterior: [39-005 · 00:32:27](capitulos/39.md) · [39-010 · 01:12:4
 
 ¿Cuál es el nombre exacto del dragón verde y qué relación tiene con las ruinas? El nombre enviado al chat no puede recuperarse de los subtítulos y el guardia no identifica el color del dragón que destruyó las casas (31-015 y 31-021).
 
-Origen: [capítulo 31](capitulos/31.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 31](capitulos/31.md). Cotejada hasta el capítulo 40.
 
-En el capítulo 39 se presenta un dragón invisible como Clodidrax o Clotis, serpiente del bosque. Esa presentación no identifica inequívocamente al dragón verde del capítulo 31 ni demuestra que destruyera las casas de Iktan.
+El capítulo 40 recuerda al dragón verde como Serpiente del Bosque y proporciona un nombre con lecturas automáticas inciertas: Clen Dranks, clungrax, Clogreg y variantes. No fija una grafía inequívoca ni prueba quién destruyó las casas antiguas de Iktan. La similitud con Clodidrax/Clotis no permite fusionar las identidades.
 
-Evidencia posterior: [39-016 · 01:52:58](capitulos/39.md)
+Evidencia posterior: [39-016 · 01:52:58](capitulos/39.md) · [40-030 · 02:04:13](capitulos/40.md) · [40-032 · 02:09:57](capitulos/40.md)
 
 **Sigue pendiente:** La grafía exacta del dragón verde y su relación demostrada con la destrucción de las ruinas.
 
@@ -2134,9 +2136,11 @@ Evidencia posterior: [39-016 · 01:52:58](capitulos/39.md)
 
 ¿Cómo provoca el bosque las agresiones y cómo puede romperse esa influencia de forma permanente? El grupo logra escapar, pero no derrota al dragón (31-008–31-019).
 
-Origen: [capítulo 31](capitulos/31.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 31](capitulos/31.md). Cotejada hasta el capítulo 40.
 
-No se vuelve a derrotar al dragón ni se muestra una forma de eliminar permanentemente la influencia del bosque. La huida anterior no equivale a una cura o neutralización.
+Los viajeros encuentran un nuevo foco de plantas muertas, restos fusionados y zombis que expulsan veneno. Derrotan a los enemigos de ese claro y recogen una muestra, pero no vencen al dragón ni demuestran que sean los mismos cadáveres de la expedición anterior. La percepción de Tortas detecta zonas afectadas, no al dragón. No se explica el mecanismo de las voces ni una neutralización permanente.
+
+Evidencia posterior: [40-015 · 01:01:32](capitulos/40.md) · [40-016 · 01:04:43](capitulos/40.md) · [40-021 · 01:29:00](capitulos/40.md) · [40-024 · 01:44:58](capitulos/40.md) · [40-032 · 02:09:57](capitulos/40.md) · [40-035 · 02:25:29](capitulos/40.md)
 
 **Sigue pendiente:** El mecanismo completo de la influencia y cómo romperla de forma permanente.
 
@@ -2144,7 +2148,7 @@ No se vuelve a derrotar al dragón ni se muestra una forma de eliminar permanent
 
 ¿Quiénes son los cinco héroes, qué fragmento escapó y quién abrió la puerta? La visión y el relato no proporcionan todas esas identidades ni una fecha (31-025–31-026).
 
-Origen: [capítulo 31](capitulos/31.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 31](capitulos/31.md). Cotejada hasta el capítulo 40.
 
 Los episodios posteriores no proporcionan los nombres de los cinco héroes ni identifican con certeza el fragmento o a quienes abrieron la prisión. Las otras visiones no permiten fusionar sus entidades por semejanza.
 
@@ -2154,7 +2158,7 @@ Los episodios posteriores no proporcionan los nombres de los cinco héroes ni id
 
 ¿Qué ocurrió con el padre de Walulu? Su hija menciona un altercado sin dar más detalles (31-024).
 
-Origen: [capítulo 31](capitulos/31.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 31](capitulos/31.md). Cotejada hasta el capítulo 40.
 
 No se amplía el relato de Walulu sobre el altercado en el que murió su padre.
 
@@ -2164,7 +2168,7 @@ No se amplía el relato de Walulu sobre el altercado en el que murió su padre.
 
 ¿Qué consecuencias tendría revelar otra vez la ruta a Iktan? ¿Quién asistirá al concilio? El permiso es condicional y la reunión sigue pendiente (31-027–31-028).
 
-Origen: [capítulo 31](capitulos/31.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 31](capitulos/31.md). Cotejada hasta el capítulo 40.
 
 Walulu admite después a otro grupo herido en Iktan y Coyote vuelve a recibir una reprimenda. No se atribuye esa llegada a la revelación de ruta por el grupo anterior, se ejecuta el castigo anunciado ni se celebra el concilio.
 
@@ -2176,7 +2180,7 @@ Evidencia posterior: [39-017 · 02:03:59](capitulos/39.md) · [39-019 · 02:09:1
 
 ¿Qué efecto tiene el tatuaje de Triel? Se conoce el pago, pero no se identifica la mejora elegida (31-003).
 
-Origen: [capítulo 31](capitulos/31.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 31](capitulos/31.md). Cotejada hasta el capítulo 40.
 
 No se especifica después qué mejora eligió Triel con el tatuaje pagado por Eldrat.
 
@@ -2186,7 +2190,7 @@ No se especifica después qué mejora eligió Triel con el tatuaje pagado por El
 
 ¿Cuál es el nombre de la escudera y el apellido de Eleanor? Las presentaciones se reconocen de forma inconsistente (32-002).
 
-Origen: [capítulo 32](capitulos/32.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 32](capitulos/32.md). Cotejada hasta el capítulo 40.
 
 La continuidad identifica a la escudera como Erandy, también reconocida como Erendy, Eri o Maya. Ella aclara que sirve a Lady Eleanor de la casa Roosevelt. Eleanor explica que Aragón es su reino; procedencia y casa son datos compatibles, aunque la grafía de la escudera conserva variantes de transcripción.
 
@@ -2196,7 +2200,7 @@ Evidencia posterior: [33-007 · 00:46:26](capitulos/33.md) · [36-003 · 00:14:5
 
 ¿Quién es el general aviar y volverá a atacar? Consigue escapar (32-013 y 32-015).
 
-Origen: [capítulo 32](capitulos/32.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 32](capitulos/32.md). Cotejada hasta el capítulo 40.
 
 No se identifica inequívocamente al general aviar que escapó. Tórtola ordena después nuevos ataques, pero estos episodios no prueban que sea el mismo individuo del asalto.
 
@@ -2208,7 +2212,7 @@ Evidencia posterior: [35-016 · 02:23:10](capitulos/35.md)
 
 ¿Cuáles eran los términos del acuerdo de Bonnie con la Marina y qué piensa hacer con Mamá? Solo se dispone de su declaración y de la escena reservada (32-018 y 32-020).
 
-Origen: [capítulo 32](capitulos/32.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 32](capitulos/32.md). Cotejada hasta el capítulo 40.
 
 Bonnie y Molly confirman después un intercambio de información y rutas para mantener la seguridad. Citlali relata su liberación y la advertencia de evitar Shiaru; el director atribuye esa separación a la protección frente a la Marina. El pacto completo y el alcance del plan de Bonnie no se revelan.
 
@@ -2220,7 +2224,7 @@ Evidencia posterior: [34-001 · 00:03:09](capitulos/34.md) · [34-020 · 02:47:1
 
 ¿Dónde está Citlali y en qué estado se encuentra el huevo? Patata no la encuentra y Bonnie no lo sabe (32-019).
 
-Origen: [capítulo 32](capitulos/32.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 32](capitulos/32.md). Cotejada hasta el capítulo 40.
 
 Citlali reaparece y descubre que el huevo ya no está en el Zampaolas. Los piratas afirman que la Marina se lo llevó durante el ataque. El grupo lo recupera; tras un disparo y una curación, eclosiona una cría emplumada. En el capítulo 39, Citlali y Etley sobreviven al derrumbe de su refugio y llegan a Iktan, donde duermen en el templo.
 
@@ -2230,7 +2234,7 @@ Evidencia posterior: [34-003 · 00:15:00](capitulos/34.md) · [34-006 · 00:44:0
 
 ¿Qué le ocurrió a Axi durante la noche entre los cadáveres? Tiene amnesia y sospechas, sin confirmación (33-001).
 
-Origen: [capítulo 33](capitulos/33.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 33](capitulos/33.md). Cotejada hasta el capítulo 40.
 
 Axi no recibe después un diagnóstico ni explica lo ocurrido durante aquella noche. La amnesia y los animales muertos no confirman por sí solos licantropía u otra causa.
 
@@ -2240,7 +2244,7 @@ Axi no recibe después un diagnóstico ni explica lo ocurrido durante aquella no
 
 ¿Quién entregó la piedra rota a los hipopótamos y dónde está? Según ellos, saltó por un acantilado (33-018).
 
-Origen: [capítulo 33](capitulos/33.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 33](capitulos/33.md). Cotejada hasta el capítulo 40.
 
 No se identifica después a quien entregó la piedra rota ni se localiza al individuo que saltó por el acantilado. Tampoco se establece la función del objeto.
 
@@ -2250,7 +2254,7 @@ No se identifica después a quien entregó la piedra rota ni se localiza al indi
 
 ¿Dónde esconde Nox a Citlali y qué peligro teme? No revela su ubicación en el encargo (33-006).
 
-Origen: [capítulo 33](capitulos/33.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 33](capitulos/33.md). Cotejada hasta el capítulo 40.
 
 Se aclara que Bonnie apartó a Citlali de Shiaru para evitar a la Marina. Tras recuperar a la cría, se propone una cueva yuan-ti cercana a Cuicapalli, donde vive en el capítulo 39 antes del ataque y el derrumbe. Acaba alojada en Iktan. Esto documenta refugios posteriores y el motivo de Bonnie, pero no revela el escondite inicial, la amenaza concreta que teme Nox ni que él organizara esos traslados.
 
@@ -2262,7 +2266,7 @@ Evidencia posterior: [34-001 · 00:03:09](capitulos/34.md) · [34-020 · 02:47:1
 
 ¿Qué ocurre con Morris después de huir y cómo informarán de la muerte de Margaret? No se muestra el desenlace (33-012–33-014).
 
-Origen: [capítulo 33](capitulos/33.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 33](capitulos/33.md). Cotejada hasta el capítulo 40.
 
 Liz sabe después que murió una de sus trabajadoras, por lo que la noticia ya ha llegado a su entorno. No se muestra quién se la comunica ni se vuelve a localizar a Morris tras su huida.
 
@@ -2274,7 +2278,7 @@ Evidencia posterior: [35-002 · 00:09:00](capitulos/35.md)
 
 ¿Qué causa las lagunas de memoria de Blink? No se explica (34-001).
 
-Origen: [capítulo 34](capitulos/34.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 34](capitulos/34.md). Cotejada hasta el capítulo 40.
 
 Blink vuelve a relatar que despierta en Shiaru pese a intentar viajar a Cuicapalli. El nuevo episodio confirma la repetición del problema, pero no identifica su causa.
 
@@ -2282,23 +2286,21 @@ Evidencia posterior: [36-001 · 00:05:10](capitulos/36.md)
 
 **Sigue pendiente:** La causa de las lagunas de memoria y de los retornos de Blink.
 
-## P34-002 · Parcialmente resuelta
+## P34-002 · Resuelta
 
 ¿Dónde están Triel, ausente una semana, y Nox, expulsado del barco? Se mencionan sin revelar sus paraderos (34-001 y 34-003).
 
-Origen: [capítulo 34](capitulos/34.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 34](capitulos/34.md). Cotejada hasta el capítulo 40.
 
-Nox reaparece en Shiaru, prepara una infiltración en Aurora, regresa con Molly y más adelante parte de nuevo hacia el fuerte con el ojo. No se identifica el paradero de Triel después de la ausencia referida. Los dos elfos pálidos de Iktan no reciben nombres en el capítulo 39.
+Nox reaparece en Shiaru, prepara la infiltración de Aurora, regresa con Molly y después parte hacia el fuerte con el ojo. El capítulo 40 sí nombra a Triel y Eldrat en Iktan: ella sale al festival y participa vendada en la expedición al claro. Queda establecido un paradero posterior de Triel tras su ausencia, sin atribuir retrospectivamente esos nombres a los elfos anónimos de la habitación del 39.
 
-Evidencia posterior: [35-001 · 00:03:15](capitulos/35.md) · [35-006 · 00:51:24](capitulos/35.md) · [35-018 · 02:41:30](capitulos/35.md) · [37-018 · 02:19:26](capitulos/37.md) · [39-018 · 02:04:22](capitulos/39.md)
-
-**Sigue pendiente:** El paradero identificado de Triel tras su ausencia.
+Evidencia posterior: [35-001 · 00:03:15](capitulos/35.md) · [35-006 · 00:51:24](capitulos/35.md) · [35-018 · 02:41:30](capitulos/35.md) · [37-018 · 02:19:26](capitulos/37.md) · [39-018 · 02:04:22](capitulos/39.md) · [40-002 · 00:02:05](capitulos/40.md) · [40-007 · 00:28:02](capitulos/40.md) · [40-017 · 01:07:15](capitulos/40.md)
 
 ## P34-003 · Parcialmente resuelta
 
 ¿En qué estado quedan el campamento y Pinky y qué causa la desaparición de Paco? Hay un incendio y una huida, sin un balance final (34-017).
 
-Origen: [capítulo 34](capitulos/34.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 34](capitulos/34.md). Cotejada hasta el capítulo 40.
 
 Pinky aparece presa en Aurora y relata que la encarcelaron por el huevo y por matar marines. Nox la libera, pero Tórtola la recaptura durante la fuga. No se ofrece un balance final del campamento del huevo ni se explica por qué la tierra se tragó al marine referido como Paco.
 
@@ -2310,7 +2312,7 @@ Evidencia posterior: [35-012 · 01:48:56](capitulos/35.md) · [35-016 · 02:23:1
 
 ¿Cuál es el nombre y la especie de la cría? ¿La aceptarán en Cuicapalli? Queda pendiente (34-018–34-020).
 
-Origen: [capítulo 34](capitulos/34.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 34](capitulos/34.md). Cotejada hasta el capítulo 40.
 
 La cría recibe en el capítulo 39 un nombre reconocido como Etley y variantes. Los guardias de Cuicapalli ayudan a rescatarla con Citlali del derrumbe. Después ambas llegan a Iktan y se alojan en el templo. No se fija la especie exacta ni se representa una decisión de aceptar su residencia en Cuicapalli.
 
@@ -2322,7 +2324,7 @@ Evidencia posterior: [39-001 · 00:00:33](capitulos/39.md) · [39-013 · 01:30:3
 
 ¿Quiénes son la criatura presa y la serpiente de la visión, y qué pirámide aparece? La influencia mental no termina con su liberación (35-014–35-015).
 
-Origen: [capítulo 35](capitulos/35.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 35](capitulos/35.md). Cotejada hasta el capítulo 40.
 
 No se identifican después la criatura presa, la serpiente alada de la visión ni la pirámide. Las conversaciones posteriores mencionan algo despertado, pero no establecen que sea la misma entidad.
 
@@ -2334,7 +2336,7 @@ Evidencia posterior: [37-017 · 02:11:52](capitulos/37.md)
 
 ¿Qué dicen los informes de Molly y cuál será su situación oficial tras huir? ¿Qué contará a Nox? Queda pendiente (35-016 y 35-020).
 
-Origen: [capítulo 35](capitulos/35.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 35](capitulos/35.md). Cotejada hasta el capítulo 40.
 
 Molly coopera con Bonnie y aporta la ubicación de unas ruinas estratégicas y una ruta de suministros que ella recomendó a la Marina. En una charla posterior con Nox y Bonnie dice que Tórtola está obsesionado con la isla y que le ocultó lo despertado. No se lee el contenido completo de sus informes ni se acredita su restitución oficial. Tampoco se muestra la conversación en el barco que habían acordado.
 
@@ -2346,7 +2348,7 @@ Evidencia posterior: [36-004 · 00:25:20](capitulos/36.md) · [37-004 · 00:25:4
 
 ¿Qué piratas anuncia Nox que están en camino y qué prepara el almirante? No se muestra su llegada (35-016).
 
-Origen: [capítulo 35](capitulos/35.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 35](capitulos/35.md). Cotejada hasta el capítulo 40.
 
 Después se intercepta un convoy de cañones y pólvora que la Marina mueve hacia Aurora para atacar. Molly proporciona la ruta. No se documentan los nombres o la llegada de los piratas anunciados por Nox.
 
@@ -2358,7 +2360,7 @@ Evidencia posterior: [37-004 · 00:25:45](capitulos/37.md) · [37-007 · 00:48:4
 
 ¿Los perseguidores siguen al grupo y qué ocurre con Smith y Pinky? Se ordena seguirlos y se confirma la recaptura de Pinky (35-010, 35-013 y 35-016).
 
-Origen: [capítulo 35](capitulos/35.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 35](capitulos/35.md). Cotejada hasta el capítulo 40.
 
 No se vuelve a mostrar a Smith ni se verifica el seguimiento ordenado contra los viajeros. La última captura confirmada de Pinky sigue siendo la del capítulo 35, sin una liberación o un destino posterior documentados.
 
@@ -2368,7 +2370,7 @@ No se vuelve a mostrar a Smith ni se verifica el seguimiento ordenado contra los
 
 ¿Quién es el hombre lobo de ojos ámbar y qué relación tiene con la bestia de la escena final? No se dan sus nombres (36-014–36-015, 36-019).
 
-Origen: [capítulo 36](capitulos/36.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 36](capitulos/36.md). Cotejada hasta el capítulo 40.
 
 Ione relata después que ha perseguido al licántropo sin alcanzarlo. No se revela su nombre ni se identifica expresamente con la bestia de la escena final.
 
@@ -2380,7 +2382,7 @@ Evidencia posterior: [38-001 · 00:00:35](capitulos/38.md)
 
 ¿Qué sabe el marine superviviente y qué hará Bonnie con él? Se entrega sin un interrogatorio narrado (36-017).
 
-Origen: [capítulo 36](capitulos/36.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 36](capitulos/36.md). Cotejada hasta el capítulo 40.
 
 No se muestra después el interrogatorio del marine ni se cuenta qué hace Bonnie con él.
 
@@ -2390,7 +2392,7 @@ No se muestra después el interrogatorio del marine ni se cuenta qué hace Bonni
 
 ¿Por qué Blink vuelve a Shiaru y sufre lagunas de memoria? ¿Dónde está Eleanor? Las recapitulaciones no lo resuelven (36-001).
 
-Origen: [capítulo 36](capitulos/36.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 36](capitulos/36.md). Cotejada hasta el capítulo 40.
 
 Erandy relata que esperó a Eleanor en la taberna de Shiaru y finalmente se reencontró con ella entre sesiones. Esto sitúa el regreso de Eleanor a Shiaru, pero no explica por qué Blink vuelve allí ni por qué pierde recuerdos.
 
@@ -2402,7 +2404,7 @@ Evidencia posterior: [38-001 · 00:00:35](capitulos/38.md)
 
 ¿Se ocuparán las ruinas y se reparará a tiempo el Zampaolas? No se muestran una guarnición ni una nueva navegación (36-017–36-018).
 
-Origen: [capítulo 36](capitulos/36.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 36](capitulos/36.md). Cotejada hasta el capítulo 40.
 
 El grupo consigue desencajar el Zampaolas y Erandy aporta dinero para materiales. La proa sigue rota y no se acredita que el barco esté listo para navegar. No se muestra la ocupación de las ruinas por una guarnición.
 
@@ -2414,7 +2416,7 @@ Evidencia posterior: [38-015 · 02:02:30](capitulos/38.md) · [38-016 · 02:09:1
 
 ¿Qué han despertado y qué contiene el ojo? ¿Cómo reacciona ante Citlali? Hay testimonios y se propone un experimento reservado (37-005, 37-017).
 
-Origen: [capítulo 37](capitulos/37.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 37](capitulos/37.md). Cotejada hasta el capítulo 40.
 
 No se representa el experimento propuesto ni se identifica de forma definitiva lo despertado o el contenido del ojo. Las marcas de Citlali reciben atención posterior, pero no se prueba su mecanismo de interacción con el objeto.
 
@@ -2426,7 +2428,7 @@ Evidencia posterior: [39-017 · 02:03:59](capitulos/39.md) · [39-018 · 02:04:2
 
 ¿Llegará Nox a Aurora con el ojo y qué hará tras incumplir la condición? Parte sin informar (37-018).
 
-Origen: [capítulo 37](capitulos/37.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 37](capitulos/37.md). Cotejada hasta el capítulo 40.
 
 No se muestra una llegada posterior de Nox a Aurora ni el uso del ojo fuera de Shiaru. Tampoco se representan las consecuencias del incumplimiento.
 
@@ -2436,7 +2438,7 @@ No se muestra una llegada posterior de Nox a Aurora ni el uso del ojo fuera de S
 
 ¿Logrará Eleanor contactar con su reino y aportar el oro? La alianza queda aplazada (37-003).
 
-Origen: [capítulo 37](capitulos/37.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 37](capitulos/37.md). Cotejada hasta el capítulo 40.
 
 El reencuentro de Eleanor con su escudera no acredita un contacto con Aragón ni la obtención del oro. La alianza sigue sin formalizarse.
 
@@ -2448,7 +2450,7 @@ Evidencia posterior: [38-001 · 00:00:35](capitulos/38.md)
 
 ¿Cuál es el estado del tiranosaurio después del cañonazo? Hay un ataque y una referencia final, pero no se inspecciona el cadáver (37-014).
 
-Origen: [capítulo 37](capitulos/37.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 37](capitulos/37.md). Cotejada hasta el capítulo 40.
 
 No se inspecciona después el cuerpo del tiranosaurio ni se confirma su estado con una nueva escena.
 
@@ -2458,27 +2460,31 @@ No se inspecciona después el cuerpo del tiranosaurio ni se confirma su estado c
 
 ¿Qué consecuencias tendrá la mordedura de Ilikar? La sensación y la tirada no confirman un contagio (38-014).
 
-Origen: [capítulo 38](capitulos/38.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 38](capitulos/38.md). Cotejada hasta el capítulo 40.
 
-El capítulo 39 no vuelve a mostrar a Ilikar ni aporta una consecuencia de la mordedura. La sensación previa no demuestra un contagio o una inmunidad.
+Ilikar reaparece en el capítulo 40 y participa en la expedición de Iktan, pero no se muestra una transformación ni se diagnostica el efecto de la mordedura de Ione. El crecimiento en furia y el daño de hielo no se atribuyen a ella. Tampoco su reaparición acredita inmunidad.
+
+Evidencia posterior: [40-001 · 00:01:08](capitulos/40.md) · [40-020 · 01:25:36](capitulos/40.md) · [40-039 · 02:37:17](capitulos/40.md)
 
 **Sigue pendiente:** Los efectos de la mordedura de Ione sobre Ilikar.
 
-## P38-002 · Pendiente
+## P38-002 · Parcialmente resuelta
 
 ¿Qué causó las heridas de Ilikar y cuál es su pasado tribal? Su llegada no proporciona una explicación completa (38-003).
 
-Origen: [capítulo 38](capitulos/38.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 38](capitulos/38.md). Cotejada hasta el capítulo 40.
 
-No se amplía después el pasado de Ilikar ni se explica quién le causó las heridas. La información sobre el origen de Ayoto no corresponde a Ilikar.
+Ilikar declara proceder de Valle Blanco, en las tierras frías del norte. No explica quién le causó las heridas de su llegada a la playa ni desarrolla toda su historia tribal. La emboscada con veneno relatada en esta sesión corresponde a Triel, no al goliat.
 
-**Sigue pendiente:** La causa de sus heridas y sus antecedentes tribales.
+Evidencia posterior: [40-039 · 02:37:17](capitulos/40.md)
+
+**Sigue pendiente:** La causa de las heridas con que apareció en la playa y los detalles de sus antecedentes tribales.
 
 ## P38-003 · Pendiente
 
 ¿Descubrirá Bonnie que han repartido su cofre y qué reclamará? La propiedad solo se revela al público (38-018).
 
-Origen: [capítulo 38](capitulos/38.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 38](capitulos/38.md). Cotejada hasta el capítulo 40.
 
 No se muestra que Bonnie descubra el reparto de su cofre ni que reclame los objetos o imponga consecuencias.
 
@@ -2488,7 +2494,7 @@ No se muestra que Bonnie descubra el reparto de su cofre ni que reclame los obje
 
 ¿Cuándo repararán la proa y podrá navegar el barco? Desencajarlo no equivale a repararlo (38-015).
 
-Origen: [capítulo 38](capitulos/38.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 38](capitulos/38.md). Cotejada hasta el capítulo 40.
 
 No se documenta después una reparación completa de la proa ni una navegación del Zampaolas.
 
@@ -2498,9 +2504,9 @@ No se documenta después una reparación completa de la proa ni una navegación 
 
 ¿Por qué la piel o las marcas de Citlali son una clave y quién es el Señor mencionado por las serpientes? Las alusiones y la telepatía no lo resuelven (39-008, 39-010).
 
-Origen: [capítulo 39](capitulos/39.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 39](capitulos/39.md). Cotejada hasta el capítulo 40.
 
-Los yuan-ti reclaman la piel de Citlali como clave y su maldición cura a una abominación. La alusión a Nuestro Señor no identifica una deidad ni explica la función de las marcas. No hay episodios posteriores revisados.
+Los yuan-ti reclaman la piel de Citlali como clave y su maldición cura a una abominación. El capítulo 40 no retoma la explicación de las marcas ni identifica al Señor; el nuevo veneno del bosque no demuestra una relación causal con ellas.
 
 **Sigue pendiente:** La función de la piel y de las marcas, y la identidad del Señor.
 
@@ -2508,9 +2514,9 @@ Los yuan-ti reclaman la piel de Citlali como clave y su maldición cura a una ab
 
 ¿Es Nox el bebé que perdió Citlali o un recuerdo alterado por el alcohol? La hipótesis no se confirma (39-002).
 
-Origen: [capítulo 39](capitulos/39.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 39](capitulos/39.md). Cotejada hasta el capítulo 40.
 
-Citlali expresa una duda sobre su recuerdo y sobre la influencia del alcohol. El capítulo no confirma que Nox sea aquel bebé ni un parentesco. No hay una fuente posterior.
+Citlali expresa una duda sobre el bebé y la influencia del alcohol. El capítulo 40 no aporta una identificación ni confirma parentesco entre Citlali y Nox.
 
 **Sigue pendiente:** La identidad del bebé y la relación real entre Citlali y Nox.
 
@@ -2518,28 +2524,116 @@ Citlali expresa una duda sobre su recuerdo y sobre la influencia del alcohol. El
 
 ¿Quiénes son los elfos pálidos, qué enfermedad sufre ella y por qué el dragón no puede acercarse? No se establecen sus nombres ni la causa (39-016, 39-018, 39-020).
 
-Origen: [capítulo 39](capitulos/39.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 39](capitulos/39.md). Cotejada hasta el capítulo 40.
 
-El dragón pide información sobre dos elfos pálidos, y después se observa a una elfa enferma y a un elfo que la cuida. No se dan nombres, diagnóstico ni una explicación de la imposibilidad del dragón de acercarse.
+La continuación nombra a Eldrat y a su hermana Triel en Iktan. Eldrat relata que ella volvió envenenada por el dragón verde y que la cuidó; sale del templo al festival y sigue vendada. Es una continuidad compatible con la pareja anónima, pero no hay un enlace expreso a aquella habitación. No se explica por qué Clodidrax no podía acercarse ni se acredita un diagnóstico de la elfa de esa escena.
+
+Evidencia posterior: [40-002 · 00:02:05](capitulos/40.md) · [40-007 · 00:28:02](capitulos/40.md) · [40-017 · 01:07:15](capitulos/40.md)
 
 **Sigue pendiente:** Las identidades de los elfos, la enfermedad y el impedimento del dragón.
 
-## P39-004 · Pendiente
+## P39-004 · Parcialmente resuelta
 
 ¿Qué quiere saber Walulu de los tatuajes durante el té y qué problemas tiene Iktan? La conversación propuesta no se realiza (39-017–39-018).
 
-Origen: [capítulo 39](capitulos/39.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 39](capitulos/39.md). Cotejada hasta el capítulo 40.
 
-Walulu examina los tatuajes e invita a Citlali a conversar y tomar té al día siguiente. La conversación no se muestra antes de terminar el último episodio disponible.
+La conversación de Walulu con Citlali sobre las marcas no se representa. En cambio se amplían los problemas de Iktan: Leona advierte de un posible ataque yuan-ti; Tortas detecta vegetación marchita y el grupo encuentra restos animados y veneno. Walulu recibe la muestra y teme un ataque del dragón que la ciudad no podría detener.
 
-**Sigue pendiente:** El resultado de la conversación sobre las marcas y la explicación de los problemas de Iktan.
+Evidencia posterior: [40-006 · 00:25:36](capitulos/40.md) · [40-013 · 00:53:09](capitulos/40.md) · [40-016 · 01:04:43](capitulos/40.md) · [40-035 · 02:25:29](capitulos/40.md)
+
+**Sigue pendiente:** El resultado de la conversación con Citlali sobre las marcas y las causas de la amenaza del bosque.
 
 ## P39-005 · Pendiente
 
 ¿Qué observa a la ciudad y qué ocurre con los yuan-ti sepultados? No se resuelve (39-011, 39-020).
 
-Origen: [capítulo 39](capitulos/39.md). Cotejada hasta el capítulo 39.
+Origen: [capítulo 39](capitulos/39.md). Cotejada hasta el capítulo 40.
 
 La escena sugiere una presencia que observa el entorno, sin identificarla. El rescate confirma que Citlali y Etley sobreviven, pero no informa del destino de los yuan-ti sepultados.
 
 **Sigue pendiente:** La identidad de lo que observa y el destino de los yuan-ti tras el derrumbe.
+
+## P40-001 · Pendiente
+
+¿Quién anima los restos y qué relación causal tiene el veneno con los no muertos? La semejanza dracónica y la explicación de Leona no sustituyen un análisis de la muestra (40-016–40-017, 40-026, 40-035).
+
+Origen: [capítulo 40](capitulos/40.md). Cotejada hasta el capítulo 40.
+
+Los restos fusionados se levantan y desprenden zombis que expulsan gas. Leona atribuye su condición al veneno al entregar la muestra; Walulu solo observa que parece potente. No se identifica a un creador ni se concluye un análisis.
+
+Evidencia posterior: [40-016 · 01:04:43](capitulos/40.md) · [40-017 · 01:07:15](capitulos/40.md) · [40-026 · 01:47:18](capitulos/40.md) · [40-035 · 02:25:29](capitulos/40.md)
+
+**Sigue pendiente:** El origen de la animación de los restos y la función causal del veneno.
+
+## P40-002 · Pendiente
+
+¿Se recuperará la vegetación o continúa la contaminación del entorno del lago y del claro? La derrota de los zombis no se acompaña de una comprobación del entorno (40-013, 40-015, 40-024).
+
+Origen: [capítulo 40](capitulos/40.md). Cotejada hasta el capítulo 40.
+
+El grupo mata al último zombi y abandona el claro. La recogida de una muestra y el regreso a Iktan no incluyen una inspección de las plantas ni una descontaminación.
+
+Evidencia posterior: [40-013 · 00:53:09](capitulos/40.md) · [40-015 · 01:01:32](capitulos/40.md) · [40-024 · 01:44:58](capitulos/40.md)
+
+**Sigue pendiente:** La extensión restante del daño y la recuperación de la vegetación.
+
+## P40-003 · Pendiente
+
+¿Cuál es la grafía del nombre de la Serpiente del Bosque y es la cueva de la emboscada su guarida? El rastro orienta al norte, pero no fija su posición ni su relación con Clodidrax (40-030–40-033).
+
+Origen: [capítulo 40](capitulos/40.md). Cotejada hasta el capítulo 40.
+
+La mesa recuerda el título Serpiente del Bosque y varias lecturas inciertas del nombre. Triel cuenta la emboscada de la cueva sin saber si era una guarida. El rastro hallado por Ilikar orienta al norte, pero la persecución se aplaza.
+
+Evidencia posterior: [40-030 · 02:04:13](capitulos/40.md) · [40-033 · 02:15:46](capitulos/40.md)
+
+**Sigue pendiente:** La grafía, la ubicación de la guarida y la relación de identidad con Clodidrax.
+
+## P40-004 · Pendiente
+
+¿Qué información necesita Eldrat del dragón y aceptarán Ione y Poncelot ayudar? El interrogatorio y el reclutamiento no se realizan (40-037, 40-039).
+
+Origen: [capítulo 40](capitulos/40.md). Cotejada hasta el capítulo 40.
+
+Eldrat obtiene de Ilikar el compromiso de preguntar antes de entregarle la cabeza del dragón. No revela el contenido de sus preguntas. Ilikar propone a Ione y Poncelot como aliados, sin invitación ni aceptación mostradas.
+
+Evidencia posterior: [40-037 · 02:31:49](capitulos/40.md) · [40-039 · 02:37:17](capitulos/40.md)
+
+**Sigue pendiente:** Las preguntas de Eldrat, el reclutamiento y el cumplimiento del pacto.
+
+## P40-005 · Pendiente
+
+¿Qué explica los 77 años que declara Tortas frente a los siglos de inmovilidad que recuerda Walulu? No se ofrece una explicación (40-011, 40-031, 40-035).
+
+Origen: [capítulo 40](capitulos/40.md). Cotejada hasta el capítulo 40.
+
+Tortas dice tener 77 años. Walulu le atribuye más de quinientos y recuerda siglos de inmovilidad anteriores a su bisabuela. La fuente no explica cómo conciliar esas declaraciones.
+
+Evidencia posterior: [40-011 · 00:42:39](capitulos/40.md) · [40-031 · 02:06:08](capitulos/40.md) · [40-035 · 02:25:29](capitulos/40.md)
+
+**Sigue pendiente:** La edad de Tortas y la historia de su inmovilidad.
+
+## P40-006 · Pendiente
+
+¿Llegará la ayuda prometida a Eromov y se producirá el ataque al festival? No se muestran el envío, una cura ni el ataque anunciado (40-002, 40-006, 40-036).
+
+Origen: [capítulo 40](capitulos/40.md). Cotejada hasta el capítulo 40.
+
+Walulu promete enviar ayuda y avisar a los guardias. Leona descansa en la taberna antes del regreso previsto. No se muestra un ataque, la salida de los emisarios ni una cura administrada a Eromov.
+
+Evidencia posterior: [40-002 · 00:02:05](capitulos/40.md) · [40-006 · 00:25:36](capitulos/40.md) · [40-036 · 02:26:30](capitulos/40.md)
+
+**Sigue pendiente:** El envío y resultado de la ayuda, la recuperación de Eromov y el destino del ataque anunciado.
+
+## P40-007 · Pendiente
+
+¿Dónde está Cipo tras la patada y de dónde procede el fragmento de espada recuperado? No se resuelven su búsqueda ni la historia del arma (40-003–40-009).
+
+Origen: [capítulo 40](capitulos/40.md). Cotejada hasta el capítulo 40.
+
+Cipo extrae la pieza y más tarde Eldrat lo aleja de una patada. Ilikar y el guardia lo buscan a partir de un equívoco, sin recuperarlo en escena. No se identifica al dueño ni la procedencia del arma.
+
+Evidencia posterior: [40-003 · 00:06:33](capitulos/40.md) · [40-009 · 00:36:00](capitulos/40.md)
+
+**Sigue pendiente:** El paradero de Cipo y el origen y destino del fragmento de espada.

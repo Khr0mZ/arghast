@@ -798,6 +798,11 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 36, 01:26:00.000: Aparece un tiranosaurio y Poncelot carga ([36-011](capitulos/36.md)).
 - Cap. 36, 01:35:00.000: Ione se transforma y muere el tiranosaurio ([36-012](capitulos/36.md)).
 - Cap. 36, 02:21:00.000: Entrega del cautivo e informe parcial ([36-017](capitulos/36.md)).
+- Cap. 40, 00:05:21.280: Cipo rescata un fragmento de espada y Leona guía a Ilikar ([40-003](capitulos/40.md)).
+- Cap. 40, 00:11:26.639: Frutas extrañas y llegada a Iktan ([40-004](capitulos/40.md)).
+- Cap. 40, 00:18:33.760: Saludos del goliat y cautela de Eldrat ([40-005](capitulos/40.md)).
+- Cap. 40, 00:25:50.679: Triel sale al espectáculo y comienza la búsqueda de Cipo ([40-007](capitulos/40.md)).
+- Cap. 40, 00:34:33.760: Ilikar y un guardia buscan al supuesto dragón de fuego ([40-009](capitulos/40.md)).
 
 ## Citlali
 
@@ -1020,6 +1025,12 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 39, 02:04:00.000: Hospitalidad de la ciudad oculta y una elfa enferma ([39-018](capitulos/39.md)).
 - Cap. 39, 02:12:00.000: Descanso en Iktan y expulsión de Coyote ([39-020](capitulos/39.md)).
 
+## Claro de los restos envenenados
+
+- Cap. 40, 00:58:10.319: Voces mentales y vegetación que muere junto a los restos ([40-015](capitulos/40.md)).
+- Cap. 40, 01:02:02.160: Tortas examina la amalgama y el líquido verde ([40-016](capitulos/40.md)).
+- Cap. 40, 01:47:01.520: Se conserva una muestra de un veneno distinto al de los yuan-ti ([40-026](capitulos/40.md)).
+
 ## Clodidrax
 
 - Cap. 39, 01:50:00.000: Un dragón invisible ofrece un trato a Citlali ([39-016](capitulos/39.md)).
@@ -1118,6 +1129,7 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 39, 02:04:00.000: Hospitalidad de la ciudad oculta y una elfa enferma ([39-018](capitulos/39.md)).
 - Cap. 39, 02:08:00.000: Luna prueba las ganzúas y Coyote recibe una reprimenda ([39-019](capitulos/39.md)).
 - Cap. 39, 02:12:00.000: Descanso en Iktan y expulsión de Coyote ([39-020](capitulos/39.md)).
+- Cap. 40, 00:01:42.600: La enfermedad de Triel y el encargo de Leona ([40-002](capitulos/40.md)).
 
 ## Cuchillas Negras
 
@@ -1178,6 +1190,11 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 34, 02:39:00.000: Rumbo Cuicapalli con cría ([34-020](capitulos/34.md)).
 - Cap. 39, 00:00:00.000: Regreso de Ayoto y crianza de Etley ([39-001](capitulos/39.md)).
 - Cap. 39, 01:34:00.000: Citlali drena a Tlachka y el grupo marcha al norte ([39-014](capitulos/39.md)).
+- Cap. 40, 00:01:42.600: La enfermedad de Triel y el encargo de Leona ([40-002](capitulos/40.md)).
+- Cap. 40, 00:11:26.639: Frutas extrañas y llegada a Iktan ([40-004](capitulos/40.md)).
+- Cap. 40, 00:23:18.240: Walulu recibe la advertencia y promete ayuda a Cuicapalli ([40-006](capitulos/40.md)).
+- Cap. 40, 02:25:53.120: Brazos astrales de Tortas y deseo de aprender de Triel ([40-036](capitulos/40.md)).
+- Cap. 40, 02:33:15.520: Leona recibe trato de futura líder y los hermanos buscan aliados ([40-038](capitulos/40.md)).
 
 ## Diario Terran del nawal
 
@@ -1257,6 +1274,29 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 15, 02:54:30.000: Bonnie retiene al elfo por envío tardío ([15-021](capitulos/15.md)).
 - Cap. 15, 02:56:30.000: Treinta monedas repartidas entre cuatro; el dragón busca a la abuela ([15-022](capitulos/15.md)).
 - Cap. 16, 00:02:20.000: Muerte del elfo referida y búsqueda de templo ([16-002](capitulos/16.md)).
+
+## Dragón verde del bosque de Iktan
+
+- Cap. 31, 01:17:00.000: Naór paralizada y Tesa detecta una criatura enorme ([31-012](capitulos/31.md)).
+- Cap. 31, 01:23:00.000: Una voz conoce intimidades y alza a los muertos con plantas ([31-013](capitulos/31.md)).
+- Cap. 31, 01:36:00.000: Eldrat reconoce al dragón verde y el ácido daña al grupo ([31-015](capitulos/31.md)).
+- Cap. 31, 02:04:00.000: Leo queda envenenado y los compañeros se cubren ([31-018](capitulos/31.md)).
+- Cap. 31, 02:28:00.000: Según los antiguos, un dragón destruyó las casas ([31-021](capitulos/31.md)).
+- Cap. 31, 02:54:00.000: Gualulu afirma que el dragón revive a los muertos ([31-025](capitulos/31.md)).
+- Cap. 31, 03:10:00.000: Confianza limitada y secreto de ruta ([31-028](capitulos/31.md)).
+- Cap. 40, 00:01:42.600: La enfermedad de Triel y el encargo de Leona ([40-002](capitulos/40.md)).
+- Cap. 40, 00:58:10.319: Voces mentales y vegetación que muere junto a los restos ([40-015](capitulos/40.md)).
+- Cap. 40, 01:02:02.160: Tortas examina la amalgama y el líquido verde ([40-016](capitulos/40.md)).
+- Cap. 40, 01:05:23.960: Triel sigue vendada y la masa de cadáveres se levanta ([40-017](capitulos/40.md)).
+- Cap. 40, 01:45:06.400: Eldrat reprende a Triel y comparte la celebración ([40-025](capitulos/40.md)).
+- Cap. 40, 01:56:02.360: Presentaciones de Tortas y preocupación por el veneno ([40-029](capitulos/40.md)).
+- Cap. 40, 02:02:39.199: La Serpiente del Bosque y la cueva de la emboscada ([40-030](capitulos/40.md)).
+- Cap. 40, 02:05:52.199: Ilikar desafía al dragón y recibe advertencias ([40-031](capitulos/40.md)).
+- Cap. 40, 02:08:20.440: Tortas percibe el deterioro del bosque, no al dragón ([40-032](capitulos/40.md)).
+- Cap. 40, 02:11:01.520: Rastro hacia el norte y decisión de recuperarse ([40-033](capitulos/40.md)).
+- Cap. 40, 02:23:21.439: Iktan recibe al protector y Walulu examina el veneno ([40-035](capitulos/40.md)).
+- Cap. 40, 02:31:24.600: Pacto entre Eldrat e Ilikar para interrogar al dragón ([40-037](capitulos/40.md)).
+- Cap. 40, 02:36:36.680: Origen de Ilikar y posibles aliados en Shiaru ([40-039](capitulos/40.md)).
 
 ## El Bocado del Jaguar
 
@@ -1353,6 +1393,33 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 31, 02:54:00.000: Gualulu afirma que el dragón revive a los muertos ([31-025](capitulos/31.md)).
 - Cap. 31, 02:58:00.000: Visión de cinco héroes y fragmento tentacular ([31-026](capitulos/31.md)).
 - Cap. 31, 03:10:00.000: Confianza limitada y secreto de ruta ([31-028](capitulos/31.md)).
+- Cap. 40, 00:01:42.600: La enfermedad de Triel y el encargo de Leona ([40-002](capitulos/40.md)).
+- Cap. 40, 00:11:26.639: Frutas extrañas y llegada a Iktan ([40-004](capitulos/40.md)).
+- Cap. 40, 00:18:33.760: Saludos del goliat y cautela de Eldrat ([40-005](capitulos/40.md)).
+- Cap. 40, 00:25:50.679: Triel sale al espectáculo y comienza la búsqueda de Cipo ([40-007](capitulos/40.md)).
+- Cap. 40, 00:29:45.640: El festival de las cosechas y la curiosidad de Triel ([40-008](capitulos/40.md)).
+- Cap. 40, 00:36:13.800: La tortuga mueve la cabeza y la piedra de Triel se rompe ([40-010](capitulos/40.md)).
+- Cap. 40, 00:44:11.240: La supuesta deshidratación revela la velocidad del anciano ([40-012](capitulos/40.md)).
+- Cap. 40, 00:54:39.240: Leona transporta al anciano y los viajeros lo siguen ([40-014](capitulos/40.md)).
+- Cap. 40, 00:58:10.319: Voces mentales y vegetación que muere junto a los restos ([40-015](capitulos/40.md)).
+- Cap. 40, 01:05:23.960: Triel sigue vendada y la masa de cadáveres se levanta ([40-017](capitulos/40.md)).
+- Cap. 40, 01:08:34.120: Leona carga y Eldrat lanza a Tortas como peonza ([40-018](capitulos/40.md)).
+- Cap. 40, 01:27:04.199: Dagas para defender a Triel y descargas de veneno ([40-021](capitulos/40.md)).
+- Cap. 40, 01:41:12.760: Los últimos golpes y el remate de Tortas ([40-024](capitulos/40.md)).
+- Cap. 40, 01:45:06.400: Eldrat reprende a Triel y comparte la celebración ([40-025](capitulos/40.md)).
+- Cap. 40, 01:56:02.360: Presentaciones de Tortas y preocupación por el veneno ([40-029](capitulos/40.md)).
+- Cap. 40, 02:02:39.199: La Serpiente del Bosque y la cueva de la emboscada ([40-030](capitulos/40.md)).
+- Cap. 40, 02:05:52.199: Ilikar desafía al dragón y recibe advertencias ([40-031](capitulos/40.md)).
+- Cap. 40, 02:08:20.440: Tortas percibe el deterioro del bosque, no al dragón ([40-032](capitulos/40.md)).
+- Cap. 40, 02:11:01.520: Rastro hacia el norte y decisión de recuperarse ([40-033](capitulos/40.md)).
+- Cap. 40, 02:19:02.120: Leona obliga a Ilikar a descansar y lo carga ([40-034](capitulos/40.md)).
+- Cap. 40, 02:25:53.120: Brazos astrales de Tortas y deseo de aprender de Triel ([40-036](capitulos/40.md)).
+- Cap. 40, 02:31:24.600: Pacto entre Eldrat e Ilikar para interrogar al dragón ([40-037](capitulos/40.md)).
+- Cap. 40, 02:33:15.520: Leona recibe trato de futura líder y los hermanos buscan aliados ([40-038](capitulos/40.md)).
+- Cap. 40, 02:36:36.680: Origen de Ilikar y posibles aliados en Shiaru ([40-039](capitulos/40.md)).
+- Cap. 40, 02:42:05.120: Una competición de fuerza termina con la cabra de la cena ([40-040](capitulos/40.md)).
+- Cap. 40, 02:44:33.840: Leona e Ilikar lanzan a Tortas al lago ([40-041](capitulos/40.md)).
+- Cap. 40, 02:48:50.319: Triel ocupa la piedra sagrada y Eldrat la aparta ([40-042](capitulos/40.md)).
 
 ## Eleanor
 
@@ -1441,6 +1508,7 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 38, 01:58:00.000: El Zampaolas queda desencajado ([38-015](capitulos/38.md)).
 - Cap. 38, 02:04:00.000: Aportación de oro y reparto del cofre ([38-016](capitulos/38.md)).
 - Cap. 38, 02:17:00.000: Ione tranquiliza a Poncelot y se revela la propiedad del cofre ([38-018](capitulos/38.md)).
+- Cap. 40, 00:00:24.960: Ilikar entra en la selva buscando un regalo ([40-001](capitulos/40.md)).
 
 ## Erendriel
 
@@ -1587,11 +1655,14 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 30, 00:46:00.000: Recepción de la Hoja Caída y cambio de una pupila ([30-009](capitulos/30.md)).
 - Cap. 30, 02:04:00.000: Eromov envía a Parroter a investigar una cura ([30-020](capitulos/30.md)).
 - Cap. 30, 02:12:00.000: Descanso y reflexión de Luna sobre el exceso de fuego ([30-022](capitulos/30.md)).
+- Cap. 40, 00:01:42.600: La enfermedad de Triel y el encargo de Leona ([40-002](capitulos/40.md)).
+- Cap. 40, 00:23:18.240: Walulu recibe la advertencia y promete ayuda a Cuicapalli ([40-006](capitulos/40.md)).
 
 ## Espada azul de escamas de Triel
 
 - Cap. 14, 00:03:15.000: Cocodrilo alimentado y panteras derrotadas por los hermanos ([14-002](capitulos/14.md)).
 - Cap. 15, 00:31:00.000: La espada de Triel tiene escamas de dragón azul ([15-006](capitulos/15.md)).
+- Cap. 40, 01:37:01.719: Triel imita las patadas de Tortas e Ilikar mantiene la presión ([40-023](capitulos/40.md)).
 
 ## Etley
 
@@ -1615,6 +1686,10 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 
 - Cap. 16, 02:10:40.000: Comercios de Cuicapalli y tatuajes ([16-018](capitulos/16.md)).
 - Cap. 30, 02:08:00.000: Winscore compra escudo más uno ([30-021](capitulos/30.md)).
+
+## Fragmento de espada bajo la roca
+
+- Cap. 40, 00:05:21.280: Cipo rescata un fragmento de espada y Leona guía a Ilikar ([40-003](capitulos/40.md)).
 
 ## Fred
 
@@ -1720,6 +1795,7 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 30, 01:41:00.000: Criaturas de charcas muertas y victoria ([30-016](capitulos/30.md)).
 - Cap. 30, 01:54:00.000: Cabezas para hablar con los muertos y evacuación por el humo ([30-018](capitulos/30.md)).
 - Cap. 30, 02:12:00.000: Descanso y reflexión de Luna sobre el exceso de fuego ([30-022](capitulos/30.md)).
+- Cap. 40, 00:01:42.600: La enfermedad de Triel y el encargo de Leona ([40-002](capitulos/40.md)).
 
 ## Gustavo
 
@@ -1755,6 +1831,24 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 39, 01:55:00.000: Iktan admite y cura a los viajeros ([39-017](capitulos/39.md)).
 - Cap. 39, 02:04:00.000: Hospitalidad de la ciudad oculta y una elfa enferma ([39-018](capitulos/39.md)).
 - Cap. 39, 02:12:00.000: Descanso en Iktan y expulsión de Coyote ([39-020](capitulos/39.md)).
+- Cap. 40, 00:05:21.280: Cipo rescata un fragmento de espada y Leona guía a Ilikar ([40-003](capitulos/40.md)).
+- Cap. 40, 00:11:26.639: Frutas extrañas y llegada a Iktan ([40-004](capitulos/40.md)).
+- Cap. 40, 00:23:18.240: Walulu recibe la advertencia y promete ayuda a Cuicapalli ([40-006](capitulos/40.md)).
+- Cap. 40, 00:25:50.679: Triel sale al espectáculo y comienza la búsqueda de Cipo ([40-007](capitulos/40.md)).
+- Cap. 40, 00:29:45.640: El festival de las cosechas y la curiosidad de Triel ([40-008](capitulos/40.md)).
+- Cap. 40, 00:34:33.760: Ilikar y un guardia buscan al supuesto dragón de fuego ([40-009](capitulos/40.md)).
+- Cap. 40, 00:36:13.800: La tortuga mueve la cabeza y la piedra de Triel se rompe ([40-010](capitulos/40.md)).
+- Cap. 40, 00:41:52.560: Walulu reverencia al Gran Anciano y Leona lo observa de cerca ([40-011](capitulos/40.md)).
+- Cap. 40, 00:44:11.240: La supuesta deshidratación revela la velocidad del anciano ([40-012](capitulos/40.md)).
+- Cap. 40, 00:52:07.799: Tortas siente morir las plantas al norte de Iktan ([40-013](capitulos/40.md)).
+- Cap. 40, 00:54:39.240: Leona transporta al anciano y los viajeros lo siguen ([40-014](capitulos/40.md)).
+- Cap. 40, 02:19:02.120: Leona obliga a Ilikar a descansar y lo carga ([40-034](capitulos/40.md)).
+- Cap. 40, 02:23:21.439: Iktan recibe al protector y Walulu examina el veneno ([40-035](capitulos/40.md)).
+- Cap. 40, 02:25:53.120: Brazos astrales de Tortas y deseo de aprender de Triel ([40-036](capitulos/40.md)).
+- Cap. 40, 02:33:15.520: Leona recibe trato de futura líder y los hermanos buscan aliados ([40-038](capitulos/40.md)).
+- Cap. 40, 02:42:05.120: Una competición de fuerza termina con la cabra de la cena ([40-040](capitulos/40.md)).
+- Cap. 40, 02:44:33.840: Leona e Ilikar lanzan a Tortas al lago ([40-041](capitulos/40.md)).
+- Cap. 40, 02:48:50.319: Triel ocupa la piedra sagrada y Eldrat la aparta ([40-042](capitulos/40.md)).
 
 ## Ilikar
 
@@ -1774,6 +1868,32 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 38, 02:04:00.000: Aportación de oro y reparto del cofre ([38-016](capitulos/38.md)).
 - Cap. 38, 02:12:00.000: Significado de la mordedura y decepción de Ilikar ([38-017](capitulos/38.md)).
 - Cap. 38, 02:17:00.000: Ione tranquiliza a Poncelot y se revela la propiedad del cofre ([38-018](capitulos/38.md)).
+- Cap. 40, 00:00:24.960: Ilikar entra en la selva buscando un regalo ([40-001](capitulos/40.md)).
+- Cap. 40, 00:05:21.280: Cipo rescata un fragmento de espada y Leona guía a Ilikar ([40-003](capitulos/40.md)).
+- Cap. 40, 00:11:26.639: Frutas extrañas y llegada a Iktan ([40-004](capitulos/40.md)).
+- Cap. 40, 00:18:33.760: Saludos del goliat y cautela de Eldrat ([40-005](capitulos/40.md)).
+- Cap. 40, 00:25:50.679: Triel sale al espectáculo y comienza la búsqueda de Cipo ([40-007](capitulos/40.md)).
+- Cap. 40, 00:34:33.760: Ilikar y un guardia buscan al supuesto dragón de fuego ([40-009](capitulos/40.md)).
+- Cap. 40, 00:36:13.800: La tortuga mueve la cabeza y la piedra de Triel se rompe ([40-010](capitulos/40.md)).
+- Cap. 40, 00:44:11.240: La supuesta deshidratación revela la velocidad del anciano ([40-012](capitulos/40.md)).
+- Cap. 40, 00:54:39.240: Leona transporta al anciano y los viajeros lo siguen ([40-014](capitulos/40.md)).
+- Cap. 40, 01:16:30.480: Puños del monje y lanzamiento de Triel a través de la masa ([40-019](capitulos/40.md)).
+- Cap. 40, 01:22:34.719: Hielo de Ilikar y tentativa de envolver a Triel ([40-020](capitulos/40.md)).
+- Cap. 40, 01:37:01.719: Triel imita las patadas de Tortas e Ilikar mantiene la presión ([40-023](capitulos/40.md)).
+- Cap. 40, 01:45:06.400: Eldrat reprende a Triel y comparte la celebración ([40-025](capitulos/40.md)).
+- Cap. 40, 01:50:53.280: Pruebas de fuerza, respeto por los árboles y una isla lejana ([40-028](capitulos/40.md)).
+- Cap. 40, 01:56:02.360: Presentaciones de Tortas y preocupación por el veneno ([40-029](capitulos/40.md)).
+- Cap. 40, 02:02:39.199: La Serpiente del Bosque y la cueva de la emboscada ([40-030](capitulos/40.md)).
+- Cap. 40, 02:05:52.199: Ilikar desafía al dragón y recibe advertencias ([40-031](capitulos/40.md)).
+- Cap. 40, 02:11:01.520: Rastro hacia el norte y decisión de recuperarse ([40-033](capitulos/40.md)).
+- Cap. 40, 02:19:02.120: Leona obliga a Ilikar a descansar y lo carga ([40-034](capitulos/40.md)).
+- Cap. 40, 02:25:53.120: Brazos astrales de Tortas y deseo de aprender de Triel ([40-036](capitulos/40.md)).
+- Cap. 40, 02:31:24.600: Pacto entre Eldrat e Ilikar para interrogar al dragón ([40-037](capitulos/40.md)).
+- Cap. 40, 02:33:15.520: Leona recibe trato de futura líder y los hermanos buscan aliados ([40-038](capitulos/40.md)).
+- Cap. 40, 02:36:36.680: Origen de Ilikar y posibles aliados en Shiaru ([40-039](capitulos/40.md)).
+- Cap. 40, 02:42:05.120: Una competición de fuerza termina con la cabra de la cena ([40-040](capitulos/40.md)).
+- Cap. 40, 02:44:33.840: Leona e Ilikar lanzan a Tortas al lago ([40-041](capitulos/40.md)).
+- Cap. 40, 02:48:50.319: Triel ocupa la piedra sagrada y Eldrat la aparta ([40-042](capitulos/40.md)).
 
 ## Ione
 
@@ -2069,6 +2189,7 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 38, 02:04:00.000: Aportación de oro y reparto del cofre ([38-016](capitulos/38.md)).
 - Cap. 38, 02:12:00.000: Significado de la mordedura y decepción de Ilikar ([38-017](capitulos/38.md)).
 - Cap. 38, 02:17:00.000: Ione tranquiliza a Poncelot y se revela la propiedad del cofre ([38-018](capitulos/38.md)).
+- Cap. 40, 02:36:36.680: Origen de Ilikar y posibles aliados en Shiaru ([40-039](capitulos/40.md)).
 
 ## Ivet
 
@@ -2413,6 +2534,33 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 30, 02:00:00.000: Muestras aisladas en casa de Leona ([30-019](capitulos/30.md)).
 - Cap. 30, 02:04:00.000: Eromov envía a Parroter a investigar una cura ([30-020](capitulos/30.md)).
 - Cap. 30, 02:12:00.000: Descanso y reflexión de Luna sobre el exceso de fuego ([30-022](capitulos/30.md)).
+- Cap. 40, 00:01:42.600: La enfermedad de Triel y el encargo de Leona ([40-002](capitulos/40.md)).
+- Cap. 40, 00:05:21.280: Cipo rescata un fragmento de espada y Leona guía a Ilikar ([40-003](capitulos/40.md)).
+- Cap. 40, 00:11:26.639: Frutas extrañas y llegada a Iktan ([40-004](capitulos/40.md)).
+- Cap. 40, 00:18:33.760: Saludos del goliat y cautela de Eldrat ([40-005](capitulos/40.md)).
+- Cap. 40, 00:23:18.240: Walulu recibe la advertencia y promete ayuda a Cuicapalli ([40-006](capitulos/40.md)).
+- Cap. 40, 00:25:50.679: Triel sale al espectáculo y comienza la búsqueda de Cipo ([40-007](capitulos/40.md)).
+- Cap. 40, 00:36:13.800: La tortuga mueve la cabeza y la piedra de Triel se rompe ([40-010](capitulos/40.md)).
+- Cap. 40, 00:41:52.560: Walulu reverencia al Gran Anciano y Leona lo observa de cerca ([40-011](capitulos/40.md)).
+- Cap. 40, 00:44:11.240: La supuesta deshidratación revela la velocidad del anciano ([40-012](capitulos/40.md)).
+- Cap. 40, 00:54:39.240: Leona transporta al anciano y los viajeros lo siguen ([40-014](capitulos/40.md)).
+- Cap. 40, 01:02:02.160: Tortas examina la amalgama y el líquido verde ([40-016](capitulos/40.md)).
+- Cap. 40, 01:08:34.120: Leona carga y Eldrat lanza a Tortas como peonza ([40-018](capitulos/40.md)).
+- Cap. 40, 01:22:34.719: Hielo de Ilikar y tentativa de envolver a Triel ([40-020](capitulos/40.md)).
+- Cap. 40, 01:27:04.199: Dagas para defender a Triel y descargas de veneno ([40-021](capitulos/40.md)).
+- Cap. 40, 01:41:12.760: Los últimos golpes y el remate de Tortas ([40-024](capitulos/40.md)).
+- Cap. 40, 01:47:51.320: Curación del anciano y fin del equívoco de la estatua ([40-027](capitulos/40.md)).
+- Cap. 40, 01:50:53.280: Pruebas de fuerza, respeto por los árboles y una isla lejana ([40-028](capitulos/40.md)).
+- Cap. 40, 01:56:02.360: Presentaciones de Tortas y preocupación por el veneno ([40-029](capitulos/40.md)).
+- Cap. 40, 02:05:52.199: Ilikar desafía al dragón y recibe advertencias ([40-031](capitulos/40.md)).
+- Cap. 40, 02:11:01.520: Rastro hacia el norte y decisión de recuperarse ([40-033](capitulos/40.md)).
+- Cap. 40, 02:19:02.120: Leona obliga a Ilikar a descansar y lo carga ([40-034](capitulos/40.md)).
+- Cap. 40, 02:23:21.439: Iktan recibe al protector y Walulu examina el veneno ([40-035](capitulos/40.md)).
+- Cap. 40, 02:25:53.120: Brazos astrales de Tortas y deseo de aprender de Triel ([40-036](capitulos/40.md)).
+- Cap. 40, 02:33:15.520: Leona recibe trato de futura líder y los hermanos buscan aliados ([40-038](capitulos/40.md)).
+- Cap. 40, 02:42:05.120: Una competición de fuerza termina con la cabra de la cena ([40-040](capitulos/40.md)).
+- Cap. 40, 02:44:33.840: Leona e Ilikar lanzan a Tortas al lago ([40-041](capitulos/40.md)).
+- Cap. 40, 02:48:50.319: Triel ocupa la piedra sagrada y Eldrat la aparta ([40-042](capitulos/40.md)).
 
 ## Liz
 
@@ -2706,6 +2854,18 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 29, 02:32:00.000: Habitación pagada y descanso local ([29-024](capitulos/29.md)).
 - Cap. 31, 00:00:00.000: Coyote vuelve, los gemelos exploran y Naór cría a Leo ([31-001](capitulos/31.md)).
 
+## Masa zombi del claro envenenado
+
+- Cap. 40, 01:02:02.160: Tortas examina la amalgama y el líquido verde ([40-016](capitulos/40.md)).
+- Cap. 40, 01:05:23.960: Triel sigue vendada y la masa de cadáveres se levanta ([40-017](capitulos/40.md)).
+- Cap. 40, 01:08:34.120: Leona carga y Eldrat lanza a Tortas como peonza ([40-018](capitulos/40.md)).
+- Cap. 40, 01:16:30.480: Puños del monje y lanzamiento de Triel a través de la masa ([40-019](capitulos/40.md)).
+- Cap. 40, 01:22:34.719: Hielo de Ilikar y tentativa de envolver a Triel ([40-020](capitulos/40.md)).
+- Cap. 40, 01:27:04.199: Dagas para defender a Triel y descargas de veneno ([40-021](capitulos/40.md)).
+- Cap. 40, 01:31:32.639: Tortas consigue aturdir a un enemigo y se repliega ([40-022](capitulos/40.md)).
+- Cap. 40, 01:37:01.719: Triel imita las patadas de Tortas e Ilikar mantiene la presión ([40-023](capitulos/40.md)).
+- Cap. 40, 01:41:12.760: Los últimos golpes y el remate de Tortas ([40-024](capitulos/40.md)).
+
 ## Melisa
 
 - Cap. 14, 00:16:00.000: Patata vende jade a Liz por cincuenta ([14-004](capitulos/14.md)).
@@ -2882,6 +3042,11 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 ## Morti
 
 - Cap. 35, 00:20:00.000: Negocios de Nox y nombre Armin ([35-004](capitulos/35.md)).
+
+## Muestra de veneno del claro
+
+- Cap. 40, 01:47:01.520: Se conserva una muestra de un veneno distinto al de los yuan-ti ([40-026](capitulos/40.md)).
+- Cap. 40, 02:23:21.439: Iktan recibe al protector y Walulu examina el veneno ([40-035](capitulos/40.md)).
 
 ## Mugre
 
@@ -3569,6 +3734,10 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 29, 02:26:00.000: Promesa pública y hospitalidad de la taberna ([29-023](capitulos/29.md)).
 - Cap. 29, 02:36:00.000: Ayoto no obtiene acceso religioso sin actos ([29-025](capitulos/29.md)).
 
+## Piedra sagrada de Iktan
+
+- Cap. 40, 02:48:50.319: Triel ocupa la piedra sagrada y Eldrat la aparta ([40-042](capitulos/40.md)).
+
 ## Pinky
 
 - Cap. 01, 00:34:51.000: Encargo de obtener dinero de los visitantes ([01-012](capitulos/01.md)).
@@ -3799,6 +3968,10 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 37, 00:00:00.000: Eleanor investiga y Luna cambia de forma ([37-001](capitulos/37.md)).
 - Cap. 37, 01:50:00.000: Explosión y cañonazo contra el dinosaurio ([37-014](capitulos/37.md)).
 - Cap. 38, 00:06:00.000: Regreso de Ione y hallazgo de un herido en la playa ([38-002](capitulos/38.md)).
+- Cap. 40, 00:00:24.960: Ilikar entra en la selva buscando un regalo ([40-001](capitulos/40.md)).
+- Cap. 40, 00:36:13.800: La tortuga mueve la cabeza y la piedra de Triel se rompe ([40-010](capitulos/40.md)).
+- Cap. 40, 00:44:11.240: La supuesta deshidratación revela la velocidad del anciano ([40-012](capitulos/40.md)).
+- Cap. 40, 02:36:36.680: Origen de Ilikar y posibles aliados en Shiaru ([40-039](capitulos/40.md)).
 
 ## Sir Poncelot
 
@@ -4014,6 +4187,7 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 38, 02:04:00.000: Aportación de oro y reparto del cofre ([38-016](capitulos/38.md)).
 - Cap. 38, 02:12:00.000: Significado de la mordedura y decepción de Ilikar ([38-017](capitulos/38.md)).
 - Cap. 38, 02:17:00.000: Ione tranquiliza a Poncelot y se revela la propiedad del cofre ([38-018](capitulos/38.md)).
+- Cap. 40, 02:36:36.680: Origen de Ilikar y posibles aliados en Shiaru ([40-039](capitulos/40.md)).
 
 ## Smith
 
@@ -4080,6 +4254,7 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 31, 02:54:00.000: Gualulu afirma que el dragón revive a los muertos ([31-025](capitulos/31.md)).
 - Cap. 31, 02:58:00.000: Visión de cinco héroes y fragmento tentacular ([31-026](capitulos/31.md)).
 - Cap. 31, 03:10:00.000: Confianza limitada y secreto de ruta ([31-028](capitulos/31.md)).
+- Cap. 40, 00:01:42.600: La enfermedad de Triel y el encargo de Leona ([40-002](capitulos/40.md)).
 
 ## Tim
 
@@ -4199,6 +4374,40 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 
 - Cap. 24, 02:17:00.000: Bonnie mata a un pirata y reduce el pago ([24-017](capitulos/24.md)).
 
+## Tortas
+
+- Cap. 40, 00:25:50.679: Triel sale al espectáculo y comienza la búsqueda de Cipo ([40-007](capitulos/40.md)).
+- Cap. 40, 00:29:45.640: El festival de las cosechas y la curiosidad de Triel ([40-008](capitulos/40.md)).
+- Cap. 40, 00:36:13.800: La tortuga mueve la cabeza y la piedra de Triel se rompe ([40-010](capitulos/40.md)).
+- Cap. 40, 00:41:52.560: Walulu reverencia al Gran Anciano y Leona lo observa de cerca ([40-011](capitulos/40.md)).
+- Cap. 40, 00:44:11.240: La supuesta deshidratación revela la velocidad del anciano ([40-012](capitulos/40.md)).
+- Cap. 40, 00:52:07.799: Tortas siente morir las plantas al norte de Iktan ([40-013](capitulos/40.md)).
+- Cap. 40, 00:54:39.240: Leona transporta al anciano y los viajeros lo siguen ([40-014](capitulos/40.md)).
+- Cap. 40, 00:58:10.319: Voces mentales y vegetación que muere junto a los restos ([40-015](capitulos/40.md)).
+- Cap. 40, 01:02:02.160: Tortas examina la amalgama y el líquido verde ([40-016](capitulos/40.md)).
+- Cap. 40, 01:05:23.960: Triel sigue vendada y la masa de cadáveres se levanta ([40-017](capitulos/40.md)).
+- Cap. 40, 01:08:34.120: Leona carga y Eldrat lanza a Tortas como peonza ([40-018](capitulos/40.md)).
+- Cap. 40, 01:16:30.480: Puños del monje y lanzamiento de Triel a través de la masa ([40-019](capitulos/40.md)).
+- Cap. 40, 01:27:04.199: Dagas para defender a Triel y descargas de veneno ([40-021](capitulos/40.md)).
+- Cap. 40, 01:31:32.639: Tortas consigue aturdir a un enemigo y se repliega ([40-022](capitulos/40.md)).
+- Cap. 40, 01:37:01.719: Triel imita las patadas de Tortas e Ilikar mantiene la presión ([40-023](capitulos/40.md)).
+- Cap. 40, 01:41:12.760: Los últimos golpes y el remate de Tortas ([40-024](capitulos/40.md)).
+- Cap. 40, 01:47:51.320: Curación del anciano y fin del equívoco de la estatua ([40-027](capitulos/40.md)).
+- Cap. 40, 01:50:53.280: Pruebas de fuerza, respeto por los árboles y una isla lejana ([40-028](capitulos/40.md)).
+- Cap. 40, 01:56:02.360: Presentaciones de Tortas y preocupación por el veneno ([40-029](capitulos/40.md)).
+- Cap. 40, 02:02:39.199: La Serpiente del Bosque y la cueva de la emboscada ([40-030](capitulos/40.md)).
+- Cap. 40, 02:05:52.199: Ilikar desafía al dragón y recibe advertencias ([40-031](capitulos/40.md)).
+- Cap. 40, 02:08:20.440: Tortas percibe el deterioro del bosque, no al dragón ([40-032](capitulos/40.md)).
+- Cap. 40, 02:11:01.520: Rastro hacia el norte y decisión de recuperarse ([40-033](capitulos/40.md)).
+- Cap. 40, 02:19:02.120: Leona obliga a Ilikar a descansar y lo carga ([40-034](capitulos/40.md)).
+- Cap. 40, 02:23:21.439: Iktan recibe al protector y Walulu examina el veneno ([40-035](capitulos/40.md)).
+- Cap. 40, 02:25:53.120: Brazos astrales de Tortas y deseo de aprender de Triel ([40-036](capitulos/40.md)).
+- Cap. 40, 02:31:24.600: Pacto entre Eldrat e Ilikar para interrogar al dragón ([40-037](capitulos/40.md)).
+- Cap. 40, 02:33:15.520: Leona recibe trato de futura líder y los hermanos buscan aliados ([40-038](capitulos/40.md)).
+- Cap. 40, 02:42:05.120: Una competición de fuerza termina con la cabra de la cena ([40-040](capitulos/40.md)).
+- Cap. 40, 02:44:33.840: Leona e Ilikar lanzan a Tortas al lago ([40-041](capitulos/40.md)).
+- Cap. 40, 02:48:50.319: Triel ocupa la piedra sagrada y Eldrat la aparta ([40-042](capitulos/40.md)).
+
 ## Tribu de la Hoja Caída
 
 - Cap. 30, 00:31:00.000: Hoja Caída y encargo de mediación ([30-007](capitulos/30.md)).
@@ -4296,6 +4505,29 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 31, 02:54:00.000: Gualulu afirma que el dragón revive a los muertos ([31-025](capitulos/31.md)).
 - Cap. 31, 03:10:00.000: Confianza limitada y secreto de ruta ([31-028](capitulos/31.md)).
 - Cap. 34, 00:00:00.000: Recapitulaciones y libertad de Citlali ([34-001](capitulos/34.md)).
+- Cap. 40, 00:01:42.600: La enfermedad de Triel y el encargo de Leona ([40-002](capitulos/40.md)).
+- Cap. 40, 00:18:33.760: Saludos del goliat y cautela de Eldrat ([40-005](capitulos/40.md)).
+- Cap. 40, 00:25:50.679: Triel sale al espectáculo y comienza la búsqueda de Cipo ([40-007](capitulos/40.md)).
+- Cap. 40, 00:29:45.640: El festival de las cosechas y la curiosidad de Triel ([40-008](capitulos/40.md)).
+- Cap. 40, 00:36:13.800: La tortuga mueve la cabeza y la piedra de Triel se rompe ([40-010](capitulos/40.md)).
+- Cap. 40, 00:44:11.240: La supuesta deshidratación revela la velocidad del anciano ([40-012](capitulos/40.md)).
+- Cap. 40, 00:54:39.240: Leona transporta al anciano y los viajeros lo siguen ([40-014](capitulos/40.md)).
+- Cap. 40, 01:05:23.960: Triel sigue vendada y la masa de cadáveres se levanta ([40-017](capitulos/40.md)).
+- Cap. 40, 01:16:30.480: Puños del monje y lanzamiento de Triel a través de la masa ([40-019](capitulos/40.md)).
+- Cap. 40, 01:22:34.719: Hielo de Ilikar y tentativa de envolver a Triel ([40-020](capitulos/40.md)).
+- Cap. 40, 01:27:04.199: Dagas para defender a Triel y descargas de veneno ([40-021](capitulos/40.md)).
+- Cap. 40, 01:37:01.719: Triel imita las patadas de Tortas e Ilikar mantiene la presión ([40-023](capitulos/40.md)).
+- Cap. 40, 01:45:06.400: Eldrat reprende a Triel y comparte la celebración ([40-025](capitulos/40.md)).
+- Cap. 40, 01:47:51.320: Curación del anciano y fin del equívoco de la estatua ([40-027](capitulos/40.md)).
+- Cap. 40, 01:50:53.280: Pruebas de fuerza, respeto por los árboles y una isla lejana ([40-028](capitulos/40.md)).
+- Cap. 40, 01:56:02.360: Presentaciones de Tortas y preocupación por el veneno ([40-029](capitulos/40.md)).
+- Cap. 40, 02:02:39.199: La Serpiente del Bosque y la cueva de la emboscada ([40-030](capitulos/40.md)).
+- Cap. 40, 02:05:52.199: Ilikar desafía al dragón y recibe advertencias ([40-031](capitulos/40.md)).
+- Cap. 40, 02:11:01.520: Rastro hacia el norte y decisión de recuperarse ([40-033](capitulos/40.md)).
+- Cap. 40, 02:19:02.120: Leona obliga a Ilikar a descansar y lo carga ([40-034](capitulos/40.md)).
+- Cap. 40, 02:25:53.120: Brazos astrales de Tortas y deseo de aprender de Triel ([40-036](capitulos/40.md)).
+- Cap. 40, 02:33:15.520: Leona recibe trato de futura líder y los hermanos buscan aliados ([40-038](capitulos/40.md)).
+- Cap. 40, 02:48:50.319: Triel ocupa la piedra sagrada y Eldrat la aparta ([40-042](capitulos/40.md)).
 
 ## Tripulación del Zampaolas
 
@@ -4325,6 +4557,10 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 36, 00:20:00.000: Molly informa de una posición estratégica ([36-004](capitulos/36.md)).
 - Cap. 37, 02:09:00.000: Bonnie presta el ojo con una condición que Nox planea incumplir ([37-017](capitulos/37.md)).
 
+## Valle Blanco
+
+- Cap. 40, 02:36:36.680: Origen de Ilikar y posibles aliados en Shiaru ([40-039](capitulos/40.md)).
+
 ## Walulu
 
 - Cap. 31, 02:42:00.000: La líder enmascarada exige saber quién guio a los extranjeros ([31-023](capitulos/31.md)).
@@ -4336,6 +4572,14 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 39, 01:55:00.000: Iktan admite y cura a los viajeros ([39-017](capitulos/39.md)).
 - Cap. 39, 02:04:00.000: Hospitalidad de la ciudad oculta y una elfa enferma ([39-018](capitulos/39.md)).
 - Cap. 39, 02:12:00.000: Descanso en Iktan y expulsión de Coyote ([39-020](capitulos/39.md)).
+- Cap. 40, 00:23:18.240: Walulu recibe la advertencia y promete ayuda a Cuicapalli ([40-006](capitulos/40.md)).
+- Cap. 40, 00:25:50.679: Triel sale al espectáculo y comienza la búsqueda de Cipo ([40-007](capitulos/40.md)).
+- Cap. 40, 00:36:13.800: La tortuga mueve la cabeza y la piedra de Triel se rompe ([40-010](capitulos/40.md)).
+- Cap. 40, 00:41:52.560: Walulu reverencia al Gran Anciano y Leona lo observa de cerca ([40-011](capitulos/40.md)).
+- Cap. 40, 00:52:07.799: Tortas siente morir las plantas al norte de Iktan ([40-013](capitulos/40.md)).
+- Cap. 40, 02:23:21.439: Iktan recibe al protector y Walulu examina el veneno ([40-035](capitulos/40.md)).
+- Cap. 40, 02:25:53.120: Brazos astrales de Tortas y deseo de aprender de Triel ([40-036](capitulos/40.md)).
+- Cap. 40, 02:48:50.319: Triel ocupa la piedra sagrada y Eldrat la aparta ([40-042](capitulos/40.md)).
 
 ## Winscore
 
@@ -4385,12 +4629,16 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 
 - Cap. 35, 02:05:00.000: Visión de isla devastada y serpiente alada ([35-014](capitulos/35.md)).
 - Cap. 36, 02:32:00.000: Una bestia corre y aúlla en la escena final ([36-019](capitulos/36.md)).
+- Cap. 40, 01:50:53.280: Pruebas de fuerza, respeto por los árboles y una isla lejana ([40-028](capitulos/40.md)).
 
 ## Yuan-ti
 
 - Cap. 18, 00:36:00.000: Encargo de investigar yuan-ti ([18-007](capitulos/18.md)).
 - Cap. 22, 01:52:00.000: Arqueros y monstruosidades abaten a Axi ([22-012](capitulos/22.md)).
 - Cap. 22, 03:15:00.000: Antigua enemistad y concilio pendiente ([22-020](capitulos/22.md)).
+- Cap. 40, 00:01:42.600: La enfermedad de Triel y el encargo de Leona ([40-002](capitulos/40.md)).
+- Cap. 40, 00:23:18.240: Walulu recibe la advertencia y promete ayuda a Cuicapalli ([40-006](capitulos/40.md)).
+- Cap. 40, 01:47:01.520: Se conserva una muestra de un veneno distinto al de los yuan-ti ([40-026](capitulos/40.md)).
 
 ## Zampaolas
 

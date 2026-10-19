@@ -12,7 +12,7 @@ Base para revisar equivalencia: [31-004](../capitulos/31.md), [31-005](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 39.
+Relato revisado hasta el capítulo 40.
 
 ### Una historiadora que quiere conocer la isla
 
@@ -187,4 +187,12 @@ Tipo: `hecho_confirmado`.
 Walulu regresa y reprende a Coyote por revelar una ubicación prohibida. Acepta el argumento de Naór sobre las dificultades de los clanes y la posibilidad de confiar en algunos extranjeros. Permite que Tesara, Eldrat y Triel permanezcan en Iktan si no revelan el camino. Advierte que habrá consecuencias para ellos y para Coyote si llegan nuevos extranjeros o los traen. Angélica Thunder les proporcionará habitaciones. Naór presenta a Leo y pide visitar la tumba del padre de Walulu; ella recomienda descansar primero debido a las heridas. La escena final muestra una gran criatura serpenteante entre los árboles cercanos.
 
 La decisión cambia y no se ejecuta el borrado de memoria. No se concreta ni se cumple un castigo contra Coyote. La visita a la tumba queda pendiente.
+
+## [40-002 · La enfermedad de Triel y el encargo de Leona](../capitulos/40.md) · 00:01:42.600
+
+Tipo: `declaracion_personaje`.
+
+Eldrat relata que su hermana regresó envenenada, según él por el dragón verde, y que la cuidó por miedo a perderla. Ha entrenado con Coyote y Tesara, aunque su pique con el primero perjudicó el ejercicio. Leona explica que rastreaba serpientes por el envenenamiento del líder de Cuicapalli cuando este la envió ante la posibilidad de un ataque durante el festival; dejó a su aprendiz Guayacán cuidándolo.
+
+La autoría del veneno de Triel y el posible ataque se presentan en recapitulaciones de personajes. El ataque no ha ocurrido dentro de este bloque.
 

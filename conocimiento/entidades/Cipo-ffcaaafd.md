@@ -12,7 +12,7 @@ Base para revisar equivalencia: [01-022](../capitulos/01.md), [27-003](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 39.
+Relato revisado hasta el capítulo 40.
 
 ### Una presencia de fuego junto a Mamá
 
@@ -25,6 +25,12 @@ Fuentes: [01-022 · Incidente con la criatura ígnea](../capitulos/01.md) · 01:
 Más adelante reúne viajeros en el camino a Cuicapalli y sirve de montura a Poncelot. Durante el ataque de la Marina ayuda con sus mordeduras de fuego y sus desplazamientos mágicos. Pinky lo busca después. La expedición a las ruinas arrasadas vuelve a encontrarlo escondido allí y consigue llevarlo de regreso a Shiaru junto al marine superviviente. La campaña lo mantiene ligado a los encuentros de los aventureros, sin explicar por completo su autonomía ni sus ausencias.
 
 Fuentes: [18-003 · Cipo reúne a los viajeros y evitan un dinosaurio](../capitulos/18.md) · 00:06:00.000 · [18-014 · Emboscada y Cipo como montura](../capitulos/18.md) · 01:46:00.000 · [27-012 · Tlachka sale oculto y Cipo combate](../capitulos/27.md) · 01:26:00.000 · [29-007 · Pinky busca a Cipo y hace crecer cáñamo](../capitulos/29.md) · 00:27:00.000 · [36-009 · Cipo se oculta entre las ruinas](../capitulos/36.md) · 01:10:00.000 · [36-017 · Entrega del cautivo e informe parcial](../capitulos/36.md) · 02:21:00.000.
+
+### El fragmento y la búsqueda fallida
+
+Con sombrero de explorador, extrae una pieza de espada de debajo de la roca que sostiene Ilikar. Reconoce a Leona y los acompaña a Iktan. Eldrat lo pisa, recibe un mordisco y lo aleja de una patada que el goliat no presencia. El elfo encubre lo sucedido diciendo que al elemental le salieron alas. Ilikar y un guardia lo buscan bajo la idea de un dragón de fuego, sin recuperarlo en escena. Esa confusión no cambia su naturaleza de elemental.
+
+Fuentes: [40-003 · Cipo rescata un fragmento de espada y Leona guía a Ilikar](../capitulos/40.md) · 00:05:21.280 · [40-004 · Frutas extrañas y llegada a Iktan](../capitulos/40.md) · 00:11:26.639 · [40-005 · Saludos del goliat y cautela de Eldrat](../capitulos/40.md) · 00:18:33.760 · [40-007 · Triel sale al espectáculo y comienza la búsqueda de Cipo](../capitulos/40.md) · 00:25:50.679 · [40-009 · Ilikar y un guardia buscan al supuesto dragón de fuego](../capitulos/40.md) · 00:34:33.760.
 
 ## Registros y evidencias
 
@@ -307,4 +313,44 @@ Tipo: `hecho_confirmado`.
 Regresan a Shiaru de noche con Cipo y el marine, que ya no tiene ropa o bienes útiles. Ione lo entrega a Bonnie y Molly y dice que el campamento está completamente arrasado, sin explicar que lo atacó un dinosaurio. Aunque no puede mentir, utiliza una verdad parcial ante las dudas de Molly. Bonnie entrega dos recompensas: diecisiete monedas de oro y un jade.
 
 No se muestran el interrogatorio, la tortura o la ejecución del marine, ni la ocupación de las ruinas por tropas piratas.
+
+## [40-003 · Cipo rescata un fragmento de espada y Leona guía a Ilikar](../capitulos/40.md) · 00:05:21.280
+
+Tipo: `hecho_confirmado`.
+
+Con sombrero de explorador, Cipo busca bajo una roca. Ilikar la sostiene parcialmente y el elemental extrae una pieza de espada rota, mientras otro filo queda clavado debajo. Leona aparece, reconoce a Cipo y lo acaricia pese a quemarse ligeramente. Cipo imita la figura del goliat para comunicarse. Al saber que Ilikar está perdido, Leona lo conduce a Iktan y el elemental los acompaña.
+
+No se establece propietario, antigüedad ni función del arma. No identificar el fragmento con otra espada del catálogo.
+
+## [40-004 · Frutas extrañas y llegada a Iktan](../capitulos/40.md) · 00:11:26.639
+
+Tipo: `hecho_confirmado`.
+
+Tras comer fruta, la sombra de Leona se desprende y se burla de ella; Ilikar se vuelve translúcido y recibe un punto de armadura. Llegan a Iktan, de vegetación más variada y colorida que Cuicapalli, y los guardias admiten a ambos tras reconocer a Leona. Eldrat sale de la taberna comiendo otra fruta, que lo hace brillar de verde. Ve reunirse a los vecinos en la zona cuya destrucción se atribuye a un dragón antiguo. Al acercarse pisa a Cipo, recibe un mordisco en el calzado y lo lanza de una patada.
+
+No se nombra la especie de las frutas ni se establece permanencia de los efectos. El dragón de hace unos cien años es una explicación referida de la zona, no una aparición presente.
+
+## [40-005 · Saludos del goliat y cautela de Eldrat](../capitulos/40.md) · 00:18:33.760
+
+Tipo: `hecho_confirmado`.
+
+Eldrat conoce a Ilikar y adopta el saludo goliat de apretón de manos y golpes en la espalda. Ilikar se presenta con una procedencia que el subtítulo recoge como Tunkaz. Leona intercambia después el mismo saludo y se marcha al templo para atender su encargo. Eldrat decide seguirla porque no se fía de que se acerque a alguien importante para él, su hermana. La tirada de percepción confirma que Ilikar no vio la patada a Cipo.
+
+Tunkaz es una grafía ASR provisional y no basta para fijar un lugar nuevo. La anécdota sobre una sombra que habló con voz de bisabuela se mantiene como comentario del personaje, sin crear una aparición confirmada.
+
+## [40-007 · Triel sale al espectáculo y comienza la búsqueda de Cipo](../capitulos/40.md) · 00:25:50.679
+
+Tipo: `hecho_confirmado`.
+
+Walulu dice a Eldrat que su hermana ya fue al espectáculo para despejarse siguiendo su recomendación. Leona espera en un banco. Ilikar busca a Cipo y un guardia le explica que la estatua tortuga es el Gran Anciano, protector anterior a la construcción de la aldea. El guardia se suma a la búsqueda cuando Ilikar presenta al elemental como peligro de fuego. Eldrat oculta su patada diciendo que al lagarto le salieron alas; el goliat cree que es un dragón de fuego y corre hacia donde lo lanzó.
+
+La antigüedad y el papel protector son tradición comunicada por el guardia. Las alas y la condición de dragón no están confirmadas: proceden del encubrimiento de Eldrat y de la interpretación de Ilikar.
+
+## [40-009 · Ilikar y un guardia buscan al supuesto dragón de fuego](../capitulos/40.md) · 00:34:33.760
+
+Tipo: `hecho_confirmado`.
+
+Ilikar y el guardia continúan la búsqueda de Cipo hacia el agua. Imaginan que se ha convertido en un dragón de vapor o gigante y acaban apuntando hacia el sol. Ambos lanzan sus armas al aire; la del guardia cae y la de Ilikar regresa a su mano antes de golpearlo. Ilikar se guarda su lanza y recibe el elogio del guardia por su supuesta puntería.
+
+Las transformaciones atribuidas a Cipo son ocurrencias de los buscadores. El sol no es Cipo y no se confirma ningún impacto sobre el elemental.
 

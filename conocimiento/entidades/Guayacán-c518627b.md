@@ -12,7 +12,7 @@ Base para revisar equivalencia: [22-002](../capitulos/22.md), [27-004](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 39.
+Relato revisado hasta el capítulo 40.
 
 ### Linaje, puños y un festival interrumpido
 
@@ -31,6 +31,12 @@ Fuentes: [27-006 · Primeras trampas y Axi atrapado por un cocodrilo](../capitul
 Acompaña a Leona en la búsqueda de ayuda para Eromov y participa en la investigación de la Hoja Caída. Llega a sujetar a una mujer serpiente, pero una influencia de miedo rompe el control; otra explosión psíquica lo derriba y Luna lo cura. El grupo regresa con muestras para Parroter. Guayacán sigue admirando a Leona y queriendo aprender de ella, mientras la cura del dirigente permanece pendiente.
 
 Fuentes: [30-001 · Leona harengon, Guayacán y Winscore en camino](../capitulos/30.md) · 00:00:00.000 · [30-013 · Guayacán inmoviliza a la mujer y recibe terror psíquico](../capitulos/30.md) · 01:18:00.000 · [30-015 · La segunda explosión mata a la mujer y Luna cura al monje](../capitulos/30.md) · 01:37:00.000 · [30-020 · Eromov envía a Parroter a investigar una cura](../capitulos/30.md) · 02:04:00.000 · [30-022 · Descanso y reflexión de Luna sobre el exceso de fuego](../capitulos/30.md) · 02:12:00.000.
+
+### Cuidar al dirigente durante la misión
+
+Leona lo llama su aprendiz y explica que lo deja en Cuicapalli cuidando al envenenado Eromov mientras ella advierte a Walulu. La recapitulación no fija una sucesión de Leona ni resuelve el secreto anterior de Guayacán.
+
+Fuentes: [40-002 · La enfermedad de Triel y el encargo de Leona](../capitulos/40.md) · 00:01:42.600.
 
 ## Registros y evidencias
 
@@ -425,4 +431,12 @@ Tipo: `hecho_confirmado`.
 Tacha sirve comida. Guayacán pide fruta y sigue admirando a Leona, de la que quiere aprender mientras la protege. Luna reflexiona sobre sus nuevas bolas de fuego: destruyen demasiado y necesita elegir mejor dónde apuntar. El director cierra la sesión con la investigación de Parroter todavía en marcha, sin una cura para Eromov y con la amenaza sin resolver.
 
 Las expresiones sobre salvar al jefe reflejan esperanza o una valoración de la expedición; no representan una curación realizada.
+
+## [40-002 · La enfermedad de Triel y el encargo de Leona](../capitulos/40.md) · 00:01:42.600
+
+Tipo: `declaracion_personaje`.
+
+Eldrat relata que su hermana regresó envenenada, según él por el dragón verde, y que la cuidó por miedo a perderla. Ha entrenado con Coyote y Tesara, aunque su pique con el primero perjudicó el ejercicio. Leona explica que rastreaba serpientes por el envenenamiento del líder de Cuicapalli cuando este la envió ante la posibilidad de un ataque durante el festival; dejó a su aprendiz Guayacán cuidándolo.
+
+La autoría del veneno de Triel y el posible ataque se presentan en recapitulaciones de personajes. El ataque no ha ocurrido dentro de este bloque.
 

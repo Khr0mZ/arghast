@@ -119,9 +119,9 @@ def render_views():
                 '## Cobertura', '', '| Capítulo | Revisión | Registros | Último cue de fuente |',
                 '|---|---|---|---|', *rows, '', '## Continuidad y mantenimiento', '',
                 '[Índice](INDICE.md) · [Misterios actuales](MISTERIOS.md) · [Relaciones](RELACIONES.md) · [Tramas históricas](TRAMAS.md) · [Guía de consulta](GUIA_CONSULTA.md)', '',
-                'La revisión paralela autorizada abarcó bloques 18–24, 25–31 y 32–39, con cruce posterior de revelaciones y referencias. Los anteriores se revisaron secuencialmente.', '',
+                'La revisión paralela autorizada abarcó bloques 18–24, 25–31 y 32–39, con cruce posterior de revelaciones y referencias. Los anteriores se revisaron secuencialmente. El capítulo 40 se leyó en tres bloques sin solapamiento (00:00–00:58, 00:58–01:56 y 01:56–fin), integrados después con sus fichas y el seguimiento histórico.', '',
                 'Siguiente capítulo pendiente: ' + (f'{min(pending):02d}.' if pending else 'ninguno en el catálogo actual.'), '',
-                'La campaña narrativa conserva asuntos abiertos al final del capítulo 39. Incorporar publicaciones nuevas con `scripts/incorporar.py`, revisar fuentes completas y actualizar continuidades/alias/misterios antes de regenerar índices.', '',
+                f'La campaña narrativa conserva asuntos abiertos al final del capítulo {max(reviewed, default=0)}. Incorporar publicaciones nuevas con `scripts/incorporar.py`, revisar fuentes completas y actualizar continuidades/alias/misterios antes de regenerar índices.', '',
                 'Auditoría: `python -X utf8 scripts/auditar.py --exigir-completo --comparar-zip`. Pruebas: `scripts/test_construir.py` y `scripts/test_consultar.py`. Paquetes reproducibles: `scripts/empaquetar.py`.', '',
                 'Notas de trabajo antiguas preservadas en [historial](historial/PROGRESO_01_16.md). No representan el estado actual.', '']
     write(KB / 'PROGRESO.md', '\n'.join(progress))

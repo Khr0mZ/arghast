@@ -12,7 +12,7 @@ Base para revisar equivalencia: [20-005](../capitulos/20.md), [21-001](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 39.
+Relato revisado hasta el capítulo 40.
 
 ### La mosca que pudo sacar al grupo de Aurora
 

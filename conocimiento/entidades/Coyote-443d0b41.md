@@ -12,7 +12,7 @@ Base para revisar equivalencia: [24-004](../capitulos/24.md), [26-001](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 39.
+Relato revisado hasta el capítulo 40.
 
 ### Un guía que cambia de rostro
 
@@ -537,4 +537,12 @@ Tipo: `hecho_confirmado`.
 Citlali y Etley duermen en el templo. Ella oye en la habitación contigua a los elfos y a Walulu, que tratan la enfermedad de la elfa. Ayoto y Tlachka piden habitaciones individuales en la taberna para evitar a Coyote. El director confirma que es un cambiaformas. Coyote intenta obtener el amor de Angelique sin éxito; un guardia lo expulsa y duerme fuera, cerca del poste donde lo cuelgan. Se confirma la llegada a Iktan y se sugiere que algo observa el entorno, sin identificarlo.
 
 Coyote y Citlali son personajes distintos aunque compartan jugador. El alias aportado en el contexto no acredita una identidad única.
+
+## [40-002 · La enfermedad de Triel y el encargo de Leona](../capitulos/40.md) · 00:01:42.600
+
+Tipo: `declaracion_personaje`.
+
+Eldrat relata que su hermana regresó envenenada, según él por el dragón verde, y que la cuidó por miedo a perderla. Ha entrenado con Coyote y Tesara, aunque su pique con el primero perjudicó el ejercicio. Leona explica que rastreaba serpientes por el envenenamiento del líder de Cuicapalli cuando este la envió ante la posibilidad de un ataque durante el festival; dejó a su aprendiz Guayacán cuidándolo.
+
+La autoría del veneno de Triel y el posible ataque se presentan en recapitulaciones de personajes. El ataque no ha ocurrido dentro de este bloque.
 

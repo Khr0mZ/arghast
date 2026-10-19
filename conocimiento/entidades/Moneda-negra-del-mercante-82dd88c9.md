@@ -12,7 +12,7 @@ Base para revisar equivalencia: [14-019](../capitulos/14.md), [14-021](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 39.
+Relato revisado hasta el capítulo 40.
 
 ### Una pieza entre los objetos del pacto
 

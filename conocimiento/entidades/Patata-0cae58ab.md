@@ -12,7 +12,7 @@ Base para revisar equivalencia: [01-002](../capitulos/01.md), [16-001](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 39.
+Relato revisado hasta el capítulo 40.
 
 ### Cultivar una nueva vida
 

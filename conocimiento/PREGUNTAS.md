@@ -230,3 +230,10 @@ Historial de preguntas planteadas en cada episodio. Algunas reciben respuesta de
 - Cap. 39: ¿Quiénes son los elfos pálidos, qué enfermedad sufre ella y por qué el dragón no puede acercarse? No se establecen sus nombres ni la causa (39-016, 39-018, 39-020). ([ficha](capitulos/39.md)).
 - Cap. 39: ¿Qué quiere saber Walulu de los tatuajes durante el té y qué problemas tiene Iktan? La conversación propuesta no se realiza (39-017–39-018). ([ficha](capitulos/39.md)).
 - Cap. 39: ¿Qué observa a la ciudad y qué ocurre con los yuan-ti sepultados? No se resuelve (39-011, 39-020). ([ficha](capitulos/39.md)).
+- Cap. 40: ¿Quién anima los restos y qué relación causal tiene el veneno con los no muertos? La semejanza dracónica y la explicación de Leona no sustituyen un análisis de la muestra (40-016–40-017, 40-026, 40-035). ([ficha](capitulos/40.md)).
+- Cap. 40: ¿Se recuperará la vegetación o continúa la contaminación del entorno del lago y del claro? La derrota de los zombis no se acompaña de una comprobación del entorno (40-013, 40-015, 40-024). ([ficha](capitulos/40.md)).
+- Cap. 40: ¿Cuál es la grafía del nombre de la Serpiente del Bosque y es la cueva de la emboscada su guarida? El rastro orienta al norte, pero no fija su posición ni su relación con Clodidrax (40-030–40-033). ([ficha](capitulos/40.md)).
+- Cap. 40: ¿Qué información necesita Eldrat del dragón y aceptarán Ione y Poncelot ayudar? El interrogatorio y el reclutamiento no se realizan (40-037, 40-039). ([ficha](capitulos/40.md)).
+- Cap. 40: ¿Qué explica los 77 años que declara Tortas frente a los siglos de inmovilidad que recuerda Walulu? No se ofrece una explicación (40-011, 40-031, 40-035). ([ficha](capitulos/40.md)).
+- Cap. 40: ¿Llegará la ayuda prometida a Eromov y se producirá el ataque al festival? No se muestran el envío, una cura ni el ataque anunciado (40-002, 40-006, 40-036). ([ficha](capitulos/40.md)).
+- Cap. 40: ¿Dónde está Cipo tras la patada y de dónde procede el fragmento de espada recuperado? No se resuelven su búsqueda ni la historia del arma (40-003–40-009). ([ficha](capitulos/40.md)).

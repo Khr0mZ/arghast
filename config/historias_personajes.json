@@ -1,5 +1,5 @@
 {
-  "revisado_hasta": 39,
+  "revisado_hasta": 40,
   "criterio": "Síntesis editorial por etapas a partir de los registros revisados. Los testimonios se atribuyen a quien los cuenta y no se cierran destinos ni identidades que las fuentes dejan abiertos.",
   "personajes": {
     "Axi": [
@@ -225,6 +225,13 @@
           "38-017",
           "38-018"
         ]
+      },
+      {
+        "titulo": "Una capitana a la que se quiere reclutar",
+        "texto": "Al pactar con Eldrat contra el dragón, Ilikar propone sumar la fuerza de su capitana Ione y de Sir Poncelot, pero explica que debe regresar a Shiaru. No se muestra una invitación ni la respuesta de la capitana.",
+        "referencias": [
+          "40-039"
+        ]
       }
     ],
     "Nox": [
@@ -412,6 +419,13 @@
           "38-009",
           "38-015",
           "38-018"
+        ]
+      },
+      {
+        "titulo": "Un aliado propuesto desde Iktan",
+        "texto": "Ilikar propone incorporarlo a la caza del dragón junto con Ione y le atribuye grandes hazañas contra dragones, dinosaurios y gigantes. Esas proezas pertenecen al relato del goliat, no se representan en esta sesión. Eldrat considera visitar a ambos; no hay invitación ni aceptación mostradas.",
+        "referencias": [
+          "40-039"
         ]
       }
     ],

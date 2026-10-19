@@ -12,7 +12,7 @@ Base para revisar equivalencia: [03-015](../capitulos/03.md), [06-005](../capitu
 
 ## Intereses y evolución
 
-Relato revisado hasta el capítulo 39.
+Relato revisado hasta el capítulo 40.
 
 ### Reunirse alrededor de un barco averiado
 

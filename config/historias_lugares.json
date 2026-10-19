@@ -1,100 +1,568 @@
 {
-  "revisado_hasta":39,
-  "entidades":{
-    "Atlan":[
-      {"titulo":"El reino del que parte la convocatoria","texto":"Atlan es el reino leonino del sur gobernado por Camar Taruan. Su presencia en la campaña llega sobre todo a través de Naór, la princesa enviada a convocar a los otros clanes. Según ella, sus habitantes llevan siglos custodiando la frontera y la costa meridional. El avance de los extranjeros impulsa a Camar a buscar una respuesta conjunta, de modo que Atlan pasa de ser una procedencia a convertirse en el origen de una iniciativa política que recorre la isla.","referencias":["16-003","31-005","31-027"]},
-      {"titulo":"Un destino que todavía no se visita","texto":"Naór obtiene apoyos durante su viaje y presenta a Leo como hijo y futuro príncipe. Esas declaraciones no equivalen a mostrar la vida de la corte ni el reconocimiento del niño en Atlan. La campaña no escenifica todavía el regreso de la princesa a su reino: el resultado del concilio y sus consecuencias para el sur permanecen pendientes.","referencias":["17-021","31-006","31-027"]}
+  "revisado_hasta": 40,
+  "entidades": {
+    "Atlan": [
+      {
+        "titulo": "El reino del que parte la convocatoria",
+        "texto": "Atlan es el reino leonino del sur gobernado por Camar Taruan. Su presencia en la campaña llega sobre todo a través de Naór, la princesa enviada a convocar a los otros clanes. Según ella, sus habitantes llevan siglos custodiando la frontera y la costa meridional. El avance de los extranjeros impulsa a Camar a buscar una respuesta conjunta, de modo que Atlan pasa de ser una procedencia a convertirse en el origen de una iniciativa política que recorre la isla.",
+        "referencias": [
+          "16-003",
+          "31-005",
+          "31-027"
+        ]
+      },
+      {
+        "titulo": "Un destino que todavía no se visita",
+        "texto": "Naór obtiene apoyos durante su viaje y presenta a Leo como hijo y futuro príncipe. Esas declaraciones no equivalen a mostrar la vida de la corte ni el reconocimiento del niño en Atlan. La campaña no escenifica todavía el regreso de la princesa a su reino: el resultado del concilio y sus consecuencias para el sur permanecen pendientes.",
+        "referencias": [
+          "17-021",
+          "31-006",
+          "31-027"
+        ]
+      }
     ],
-    "Cabaña del Sueño":[
-      {"titulo":"Los tatuajes del sabio","texto":"La Cabaña del Sueño se presenta entre los servicios de Cuicapalli como la clínica de un sabio que ofrece tatuajes. La explicación de la mesa les atribuye una mejora de dos puntos en una habilidad, con un solo tatuaje por persona y sin permitir intercambios diarios. Su importancia es la posibilidad de transformar las capacidades de los visitantes mediante una práctica local; no se demuestra que ese servicio explique las marcas de Nox o la maldición de Citlali.","referencias":["16-018"]}
+    "Cabaña del Sueño": [
+      {
+        "titulo": "Los tatuajes del sabio",
+        "texto": "La Cabaña del Sueño se presenta entre los servicios de Cuicapalli como la clínica de un sabio que ofrece tatuajes. La explicación de la mesa les atribuye una mejora de dos puntos en una habilidad, con un solo tatuaje por persona y sin permitir intercambios diarios. Su importancia es la posibilidad de transformar las capacidades de los visitantes mediante una práctica local; no se demuestra que ese servicio explique las marcas de Nox o la maldición de Citlali.",
+        "referencias": [
+          "16-018"
+        ]
+      }
     ],
-    "Casino de Kilzer":[
-      {"titulo":"Un proyecto que necesita permiso pirata","texto":"El casino nace del deseo de Kilzer de establecer un negocio en Shiaru. Nox propone asociarse y negocia una licencia, aunque al principio su validez todavía debe comprobarse. Más adelante anuncia un reparto del cincuenta por ciento para Kilzer, treinta y cinco para Bonnie y quince para él. El local representa una apuesta por obtener ingresos estables dentro de un pueblo donde casi todo depende de las condiciones de Bonnie.","referencias":["01-003","11-031","13-011"]},
-      {"titulo":"Obras, personal y una apertura pendiente","texto":"Las obras avanzan mientras los futuros socios siguen saliendo de expedición. Kilzer contrata a Axi para descubrir tramposos y el lugar empieza a acumular suministros, incluido el licor que Triel roba. Sin embargo, las menciones posteriores aún lo describen en preparación. Al final de su recorrido documentado continúa cerrado: no se puede dar por inaugurado ni atribuirle beneficios regulares.","referencias":["15-001","17-001","17-002","21-002","29-001"]}
+    "Casino de Kilzer": [
+      {
+        "titulo": "Un proyecto que necesita permiso pirata",
+        "texto": "El casino nace del deseo de Kilzer de establecer un negocio en Shiaru. Nox propone asociarse y negocia una licencia, aunque al principio su validez todavía debe comprobarse. Más adelante anuncia un reparto del cincuenta por ciento para Kilzer, treinta y cinco para Bonnie y quince para él. El local representa una apuesta por obtener ingresos estables dentro de un pueblo donde casi todo depende de las condiciones de Bonnie.",
+        "referencias": [
+          "01-003",
+          "11-031",
+          "13-011"
+        ]
+      },
+      {
+        "titulo": "Obras, personal y una apertura pendiente",
+        "texto": "Las obras avanzan mientras los futuros socios siguen saliendo de expedición. Kilzer contrata a Axi para descubrir tramposos y el lugar empieza a acumular suministros, incluido el licor que Triel roba. Sin embargo, las menciones posteriores aún lo describen en preparación. Al final de su recorrido documentado continúa cerrado: no se puede dar por inaugurado ni atribuirle beneficios regulares.",
+        "referencias": [
+          "15-001",
+          "17-001",
+          "17-002",
+          "21-002",
+          "29-001"
+        ]
+      }
     ],
-    "Cueva de la Hoja Caída":[
-      {"titulo":"Una visita que debía evitar una guerra","texto":"Eromov sitúa al norte de Cuicapalli una cueva ocupada por la tribu de la Hoja Caída, cuyas representantes lo habían visitado antes de enfermar. Encarga investigar y pide a Leona que medie para no desencadenar un conflicto injustificado. La recepción de los visitantes alimenta las sospechas de Winscore, que detecta una sorpresa fingida y un cambio en las pupilas de una mujer.","referencias":["30-007","30-009"]},
-      {"titulo":"Lo que escondían las charcas","texto":"Dentro encuentran charcas venenosas conectadas, guardias, criaturas y una mujer serpiente trabajando ante un caldero. El enfrentamiento y las bolas de fuego destruyen parte de la instalación. Los aventureros recogen veneno, restos y pruebas para investigar una cura. El hallazgo confirma la presencia de hombres serpiente, pero no muestra quién vertió el tóxico en la comida de Eromov ni resuelve todavía su enfermedad.","referencias":["30-010","30-012","30-016","30-018","30-020"]}
+    "Cueva de la Hoja Caída": [
+      {
+        "titulo": "Una visita que debía evitar una guerra",
+        "texto": "Eromov sitúa al norte de Cuicapalli una cueva ocupada por la tribu de la Hoja Caída, cuyas representantes lo habían visitado antes de enfermar. Encarga investigar y pide a Leona que medie para no desencadenar un conflicto injustificado. La recepción de los visitantes alimenta las sospechas de Winscore, que detecta una sorpresa fingida y un cambio en las pupilas de una mujer.",
+        "referencias": [
+          "30-007",
+          "30-009"
+        ]
+      },
+      {
+        "titulo": "Lo que escondían las charcas",
+        "texto": "Dentro encuentran charcas venenosas conectadas, guardias, criaturas y una mujer serpiente trabajando ante un caldero. El enfrentamiento y las bolas de fuego destruyen parte de la instalación. Los aventureros recogen veneno, restos y pruebas para investigar una cura. El hallazgo confirma la presencia de hombres serpiente, pero no muestra quién vertió el tóxico en la comida de Eromov ni resuelve todavía su enfermedad.",
+        "referencias": [
+          "30-010",
+          "30-012",
+          "30-016",
+          "30-018",
+          "30-020"
+        ]
+      }
     ],
-    "Cuicapalli":[
-      {"titulo":"Una comunidad que recibe a los extranjeros","texto":"Baton y Nelli guían a los aventureros hasta Cuicapalli después de ser liberados de la Marina. La ciudad reúne habitantes de distintas especies bajo la dirección de Eromov y ofrece taberna, forja, alquimia, tatuajes y alojamiento. El líder agradece el rescate, recibe a Naór y permite que los visitantes se queden. Para Blink se convierte en un refugio y para Ayoto en un lugar donde entrenar y colaborar con los guardias.","referencias":["16-005","16-014","16-015","16-018","18-002","19-001"]},
-      {"titulo":"El peligro entra en la vida del pueblo","texto":"Eromov solicita ayuda ante los templos ocupados y los dinosaurios muertos cerca de una charca. El festival muestra una vida comunitaria de juegos y comida, hasta que Citlali descubre infiltradas serpentinas y estalla un ataque. Después la Marina avanza por el sur y los aventureros preparan trampas y combaten para proteger el acceso. Rechazan a esa fuerza, pero la victoria local no elimina todos los enemigos de la ciudad.","referencias":["18-007","19-003","22-002","22-011","27-005","27-019","27-021"]},
-      {"titulo":"Un dirigente enfermo y nuevas responsabilidades","texto":"El envenenamiento de Eromov lleva al grupo a investigar la Hoja Caída. Las muestras se aíslan en casa de Leona y Parroter intenta encontrar una cura. Mientras tanto, Ayoto continúa entrenando a los habitantes y Citlali busca refugio para Etley cerca de la ciudad. Los guardias ayudan a rescatar a ambas del derrumbe, pero el grupo termina marchando hacia el norte. Cuicapalli sigue siendo un aliado importante, con la salud de su líder todavía sin resolver.","referencias":["30-005","30-019","30-020","39-001","39-013","39-014"]}
+    "Cuicapalli": [
+      {
+        "titulo": "Una comunidad que recibe a los extranjeros",
+        "texto": "Baton y Nelli guían a los aventureros hasta Cuicapalli después de ser liberados de la Marina. La ciudad reúne habitantes de distintas especies bajo la dirección de Eromov y ofrece taberna, forja, alquimia, tatuajes y alojamiento. El líder agradece el rescate, recibe a Naór y permite que los visitantes se queden. Para Blink se convierte en un refugio y para Ayoto en un lugar donde entrenar y colaborar con los guardias.",
+        "referencias": [
+          "16-005",
+          "16-014",
+          "16-015",
+          "16-018",
+          "18-002",
+          "19-001"
+        ]
+      },
+      {
+        "titulo": "El peligro entra en la vida del pueblo",
+        "texto": "Eromov solicita ayuda ante los templos ocupados y los dinosaurios muertos cerca de una charca. El festival muestra una vida comunitaria de juegos y comida, hasta que Citlali descubre infiltradas serpentinas y estalla un ataque. Después la Marina avanza por el sur y los aventureros preparan trampas y combaten para proteger el acceso. Rechazan a esa fuerza, pero la victoria local no elimina todos los enemigos de la ciudad.",
+        "referencias": [
+          "18-007",
+          "19-003",
+          "22-002",
+          "22-011",
+          "27-005",
+          "27-019",
+          "27-021"
+        ]
+      },
+      {
+        "titulo": "Un dirigente enfermo y nuevas responsabilidades",
+        "texto": "El envenenamiento de Eromov lleva al grupo a investigar la Hoja Caída. Las muestras se aíslan en casa de Leona y Parroter intenta encontrar una cura. Mientras tanto, Ayoto continúa entrenando a los habitantes y Citlali busca refugio para Etley cerca de la ciudad. Los guardias ayudan a rescatar a ambas del derrumbe, pero el grupo termina marchando hacia el norte. Cuicapalli sigue siendo un aliado importante, con la salud de su líder todavía sin resolver.",
+        "referencias": [
+          "30-005",
+          "30-019",
+          "30-020",
+          "39-001",
+          "39-013",
+          "39-014"
+        ]
+      },
+      {
+        "titulo": "La advertencia de Leona y el apoyo prometido",
+        "texto": "Con Eromov todavía envenenado según Leona, Guayacán queda cuidándolo y ella actúa como representante ante Walulu para advertir del posible ataque al festival de Iktan. La chamana promete enviar hombres, recetas y protecciones. Leona se presenta después como futura líder de Cuicapalli, pero admite que no es oficial. El regreso de la enviada, la ayuda y la cura no se muestran.",
+        "referencias": [
+          "40-002",
+          "40-006",
+          "40-036",
+          "40-038"
+        ]
+      }
     ],
-    "El Bocado del Jaguar":[
-      {"titulo":"La mesa de Cuicapalli","texto":"El Bocado del Jaguar se presenta como la taberna de Cuicapalli, integrada en la oferta de servicios que Eromov abre a los viajeros. El banquete y las comidas del pueblo permiten descansar, reunirse y compartir información entre expediciones. La cocina de Tacha forma parte de esa hospitalidad; las fuentes no convierten al establecimiento en un templo ni atribuyen propiedades mágicas a su nombre.","referencias":["16-018","16-021"]}
+    "El Bocado del Jaguar": [
+      {
+        "titulo": "La mesa de Cuicapalli",
+        "texto": "El Bocado del Jaguar se presenta como la taberna de Cuicapalli, integrada en la oferta de servicios que Eromov abre a los viajeros. El banquete y las comidas del pueblo permiten descansar, reunirse y compartir información entre expediciones. La cocina de Tacha forma parte de esa hospitalidad; las fuentes no convierten al establecimiento en un templo ni atribuyen propiedades mágicas a su nombre.",
+        "referencias": [
+          "16-018",
+          "16-021"
+        ]
+      }
     ],
-    "El Garfio":[
-      {"titulo":"La costa que da nombre a una ruta","texto":"El director llama El Garfio a unas costas con esa forma al presentar la zona del poblado de Bonnie. El nombre vuelve en croquis y conversaciones sobre los recorridos de la Marina. Más adelante varios viajeros se desvían hacia el Garfio y encuentran un campamento militar instalado en un templo. La referencia funciona como orientación costera, sin identificar automáticamente todas las ruinas y excavaciones de la región como un mismo lugar.","referencias":["04-001","13-008","20-007","20-008"]}
+    "El Garfio": [
+      {
+        "titulo": "La costa que da nombre a una ruta",
+        "texto": "El director llama El Garfio a unas costas con esa forma al presentar la zona del poblado de Bonnie. El nombre vuelve en croquis y conversaciones sobre los recorridos de la Marina. Más adelante varios viajeros se desvían hacia el Garfio y encuentran un campamento militar instalado en un templo. La referencia funciona como orientación costera, sin identificar automáticamente todas las ruinas y excavaciones de la región como un mismo lugar.",
+        "referencias": [
+          "04-001",
+          "13-008",
+          "20-007",
+          "20-008"
+        ]
+      }
     ],
-    "El Huevo Emplumado":[
-      {"titulo":"Descansar después del bosque","texto":"Los viajeros llegan a El Huevo Emplumado cuando por fin entran en Iktan, exhaustos después del ataque del bosque. Triel lleva allí a Naór con Leo, mientras Tesara reconoce la taberna durante su exploración de la ciudad. La comida devuelve al grupo a una escena cotidiana: Naór comparte carne y Coyote intenta seducir a la tabernera, que recuerda sus deudas y anteriores expulsiones. El lugar sirve de refugio bajo las condiciones de hospitalidad impuestas por Walulu.","referencias":["31-020","31-022","31-028"]}
+    "El Huevo Emplumado": [
+      {
+        "titulo": "Descansar después del bosque",
+        "texto": "Los viajeros llegan a El Huevo Emplumado cuando por fin entran en Iktan, exhaustos después del ataque del bosque. Triel lleva allí a Naór con Leo, mientras Tesara reconoce la taberna durante su exploración de la ciudad. La comida devuelve al grupo a una escena cotidiana: Naór comparte carne y Coyote intenta seducir a la tabernera, que recuerda sus deudas y anteriores expulsiones. El lugar sirve de refugio bajo las condiciones de hospitalidad impuestas por Walulu.",
+        "referencias": [
+          "31-020",
+          "31-022",
+          "31-028"
+        ]
+      }
     ],
-    "Forja del Águila de Sangre":[
-      {"titulo":"Equiparse en el interior de la isla","texto":"La forja aparece entre los establecimientos de Cuicapalli con armas y armaduras mejoradas. Su utilidad se concreta cuando Winscore busca un escudo: un herrero tabaxi le ofrece uno más uno por veinte monedas. El explorador vende una obsidiana y un hacha de coral para poder pagarlo. El episodio enlaza la economía de los botines con la preparación de nuevas expediciones, sin fijar una historia anterior del taller.","referencias":["16-018","30-021"]}
+    "Forja del Águila de Sangre": [
+      {
+        "titulo": "Equiparse en el interior de la isla",
+        "texto": "La forja aparece entre los establecimientos de Cuicapalli con armas y armaduras mejoradas. Su utilidad se concreta cuando Winscore busca un escudo: un herrero tabaxi le ofrece uno más uno por veinte monedas. El explorador vende una obsidiana y un hacha de coral para poder pagarlo. El episodio enlaza la economía de los botines con la preparación de nuevas expediciones, sin fijar una historia anterior del taller.",
+        "referencias": [
+          "16-018",
+          "30-021"
+        ]
+      }
     ],
-    "Fuerte Aurora":[
-      {"titulo":"La expansión de la Marina toma forma","texto":"Aurora aparece primero en mapas e informes como una fortificación de la Marina. Jack cuenta que, cuando él llegó, todavía faltaban muros y otras obras, y que desde allí se organizaban expediciones. El fuerte pasa de ser una amenaza cartográfica a un destino urgente cuando Nox queda preso tras visitar a Molly. Ione y sus compañeros se infiltran mientras él intenta liberarse desde las celdas.","referencias":["07-030","12-009","23-001","23-004","23-010"]},
-      {"titulo":"Un rescate revela un cambio de mando","texto":"El grupo escapa con documentos y otras pistas, pero la relación con Aurora vuelve a cambiar cuando Molly deja de contactar con Bonnie. Una nueva incursión la encuentra destituida y encarcelada. Tórtola controla el lugar, retiene a los visitantes y prepara operaciones contra los piratas. Nox libera a Molly y Pinky; una criatura cautiva les muestra visiones y trata de conseguir su propia libertad. El fuerte combina así ocupación militar y secretos sobrenaturales que no quedan resueltos por el rescate.","referencias":["23-015","23-017","35-009","35-012","35-013","35-014","35-016"]},
-      {"titulo":"Un conflicto que sigue abierto","texto":"Molly consigue regresar a Shiaru, pero Pinky vuelve a caer en poder de Tórtola. Las operaciones posteriores interceptan un convoy de cañones y pólvora destinado a Aurora. Después de obtener prestado el ojo-orbe, Nox parte de nuevo en bote hacia el fuerte. No se muestra el resultado de ese viaje ni la caída de la fortaleza.","referencias":["35-016","35-019","37-004","37-017","37-018"]}
+    "Fuerte Aurora": [
+      {
+        "titulo": "La expansión de la Marina toma forma",
+        "texto": "Aurora aparece primero en mapas e informes como una fortificación de la Marina. Jack cuenta que, cuando él llegó, todavía faltaban muros y otras obras, y que desde allí se organizaban expediciones. El fuerte pasa de ser una amenaza cartográfica a un destino urgente cuando Nox queda preso tras visitar a Molly. Ione y sus compañeros se infiltran mientras él intenta liberarse desde las celdas.",
+        "referencias": [
+          "07-030",
+          "12-009",
+          "23-001",
+          "23-004",
+          "23-010"
+        ]
+      },
+      {
+        "titulo": "Un rescate revela un cambio de mando",
+        "texto": "El grupo escapa con documentos y otras pistas, pero la relación con Aurora vuelve a cambiar cuando Molly deja de contactar con Bonnie. Una nueva incursión la encuentra destituida y encarcelada. Tórtola controla el lugar, retiene a los visitantes y prepara operaciones contra los piratas. Nox libera a Molly y Pinky; una criatura cautiva les muestra visiones y trata de conseguir su propia libertad. El fuerte combina así ocupación militar y secretos sobrenaturales que no quedan resueltos por el rescate.",
+        "referencias": [
+          "23-015",
+          "23-017",
+          "35-009",
+          "35-012",
+          "35-013",
+          "35-014",
+          "35-016"
+        ]
+      },
+      {
+        "titulo": "Un conflicto que sigue abierto",
+        "texto": "Molly consigue regresar a Shiaru, pero Pinky vuelve a caer en poder de Tórtola. Las operaciones posteriores interceptan un convoy de cañones y pólvora destinado a Aurora. Después de obtener prestado el ojo-orbe, Nox parte de nuevo en bote hacia el fuerte. No se muestra el resultado de ese viaje ni la caída de la fortaleza.",
+        "referencias": [
+          "35-016",
+          "35-019",
+          "37-004",
+          "37-017",
+          "37-018"
+        ]
+      }
     ],
-    "Granja de Patata":[
-      {"titulo":"Sembrar junto al camino","texto":"Patata busca desde su llegada tierras donde empezar de nuevo. La granja termina apareciendo junto al camino cercano a Shiaru, aún en obras pero con cultivos, una estatua de su diosa y una gran calabaza llamada Patricia. Bonnie permite el proyecto a cambio de aportaciones, inicialmente calabazas. El lugar expresa una ambición distinta de la búsqueda de tesoros: producir alimentos y establecerse en la isla.","referencias":["01-002","14-004","15-003","15-007"]},
-      {"titulo":"La jungla no queda fuera del cultivo","texto":"Dos piratas molestan a Patata junto a la granja y unas sombras los arrastran a la selva, desencadenando la investigación del poblado caníbal. Más tarde el director sitúa en una patata cultivada los restos de su espada rota: al recogerla obtiene el Patata Hammer. El huerto sigue creciendo entre amenazas, encargos y ausencias de su dueño, sin que se establezca una explotación plenamente terminada.","referencias":["15-003","15-004","16-001","32-001"]}
+    "Granja de Patata": [
+      {
+        "titulo": "Sembrar junto al camino",
+        "texto": "Patata busca desde su llegada tierras donde empezar de nuevo. La granja termina apareciendo junto al camino cercano a Shiaru, aún en obras pero con cultivos, una estatua de su diosa y una gran calabaza llamada Patricia. Bonnie permite el proyecto a cambio de aportaciones, inicialmente calabazas. El lugar expresa una ambición distinta de la búsqueda de tesoros: producir alimentos y establecerse en la isla.",
+        "referencias": [
+          "01-002",
+          "14-004",
+          "15-003",
+          "15-007"
+        ]
+      },
+      {
+        "titulo": "La jungla no queda fuera del cultivo",
+        "texto": "Dos piratas molestan a Patata junto a la granja y unas sombras los arrastran a la selva, desencadenando la investigación del poblado caníbal. Más tarde el director sitúa en una patata cultivada los restos de su espada rota: al recogerla obtiene el Patata Hammer. El huerto sigue creciendo entre amenazas, encargos y ausencias de su dueño, sin que se establezca una explotación plenamente terminada.",
+        "referencias": [
+          "15-003",
+          "15-004",
+          "16-001",
+          "32-001"
+        ]
+      }
     ],
-    "Hospital de Shiaru":[
-      {"titulo":"Volver herido no garantiza tranquilidad","texto":"El hospital recibe a quienes regresan malheridos de la jungla y del mar. Kilzer pasa allí tiempo tras la expedición de las sirenas y Erendriel acude por las heridas del depredador volador. El médico le propone sustituir una pierna por una pata de mesa, intervención que el elfo rechaza. Más adelante Gobs transporta máquinas, agujas y tinta al hospital de campaña. El establecimiento ofrece atención y tratamientos, pero no se confirma el resultado de todas las intervenciones ni se presentan sus propuestas como curas fiables.","referencias":["08-003","08-006","11-030","24-021"]}
+    "Hospital de Shiaru": [
+      {
+        "titulo": "Volver herido no garantiza tranquilidad",
+        "texto": "El hospital recibe a quienes regresan malheridos de la jungla y del mar. Kilzer pasa allí tiempo tras la expedición de las sirenas y Erendriel acude por las heridas del depredador volador. El médico le propone sustituir una pierna por una pata de mesa, intervención que el elfo rechaza. Más adelante Gobs transporta máquinas, agujas y tinta al hospital de campaña. El establecimiento ofrece atención y tratamientos, pero no se confirma el resultado de todas las intervenciones ni se presentan sus propuestas como curas fiables.",
+        "referencias": [
+          "08-003",
+          "08-006",
+          "11-030",
+          "24-021"
+        ]
+      }
     ],
-    "Humo del Paso de los Muertos":[
-      {"titulo":"La alquimia entre los servicios locales","texto":"Humo del Paso de los Muertos se presenta como el establecimiento de alquimia de Cuicapalli cuando los viajeros conocen sus comercios. Su nombre lo distingue de la clínica de tatuajes y de la forja. La fuente no desarrolla una expedición propia en su interior ni identifica por ese solo nombre las propiedades o el origen de cada poción que aparece después en la campaña.","referencias":["16-018"]}
+    "Humo del Paso de los Muertos": [
+      {
+        "titulo": "La alquimia entre los servicios locales",
+        "texto": "Humo del Paso de los Muertos se presenta como el establecimiento de alquimia de Cuicapalli cuando los viajeros conocen sus comercios. Su nombre lo distingue de la clínica de tatuajes y de la forja. La fuente no desarrolla una expedición propia en su interior ni identifica por ese solo nombre las propiedades o el origen de cada poción que aparece después en la campaña.",
+        "referencias": [
+          "16-018"
+        ]
+      }
     ],
-    "Iktan":[
-      {"titulo":"La ciudad que no se deja encontrar fácilmente","texto":"Iktan aparece como lugar de procedencia de Mamá y destino de la misión de Naór. Los viajeros se pierden al intentar alcanzarla hasta que Coyote, que conoce la ruta, guía a un grupo. El bosque los ataca con voces, raíces y muertos animados; huyen y llegan por fin a una pequeña muralla. Allí encuentran edificios de madera y plantas, un templo íntegro y una zona de piedra fundida donde ya no crece vegetación.","referencias":["01-007","17-004","31-007","31-019","31-020"]},
-      {"titulo":"Hospitalidad condicionada por el pasado","texto":"Un guardia atribuye las casas destruidas al aliento de un dragón, sin confirmar que sea el verde del bosque. Walulu protege los caminos ocultos y reprende a Coyote por traer extranjeros. Tras escuchar a Naór acepta la convocatoria del concilio y permite que los visitantes se queden si mantienen secreta la ruta. La ciudad recibe a los aventureros, pero conserva razones concretas para desconfiar de quienes vienen de fuera.","referencias":["31-021","31-023","31-025","31-027","31-028"]},
-      {"titulo":"Un nuevo refugio para Citlali y Etley","texto":"Citlali llega más adelante con la cría y sus compañeros, después del derrumbe de su refugio. Walulu los admite, cura al grupo y estudia sus tatuajes. El templo también alberga a una elfa enferma y a un elfo que la cuida, sin nombres revelados. La estancia comienza con invitaciones a conversar y descansar; el trato de Citlali con el dragón y el problema de las marcas siguen abiertos.","referencias":["39-016","39-017","39-018","39-020"]}
+    "Iktan": [
+      {
+        "titulo": "La ciudad que no se deja encontrar fácilmente",
+        "texto": "Iktan aparece como lugar de procedencia de Mamá y destino de la misión de Naór. Los viajeros se pierden al intentar alcanzarla hasta que Coyote, que conoce la ruta, guía a un grupo. El bosque los ataca con voces, raíces y muertos animados; huyen y llegan por fin a una pequeña muralla. Allí encuentran edificios de madera y plantas, un templo íntegro y una zona de piedra fundida donde ya no crece vegetación.",
+        "referencias": [
+          "01-007",
+          "17-004",
+          "31-007",
+          "31-019",
+          "31-020"
+        ]
+      },
+      {
+        "titulo": "Hospitalidad condicionada por el pasado",
+        "texto": "Un guardia atribuye las casas destruidas al aliento de un dragón, sin confirmar que sea el verde del bosque. Walulu protege los caminos ocultos y reprende a Coyote por traer extranjeros. Tras escuchar a Naór acepta la convocatoria del concilio y permite que los visitantes se queden si mantienen secreta la ruta. La ciudad recibe a los aventureros, pero conserva razones concretas para desconfiar de quienes vienen de fuera.",
+        "referencias": [
+          "31-021",
+          "31-023",
+          "31-025",
+          "31-027",
+          "31-028"
+        ]
+      },
+      {
+        "titulo": "Un nuevo refugio para Citlali y Etley",
+        "texto": "Citlali llega más adelante con la cría y sus compañeros, después del derrumbe de su refugio. Walulu los admite, cura al grupo y estudia sus tatuajes. El templo también alberga a una elfa enferma y a un elfo que la cuida, sin nombres revelados. La estancia comienza con invitaciones a conversar y descansar; el trato de Citlali con el dragón y el problema de las marcas siguen abiertos.",
+        "referencias": [
+          "39-016",
+          "39-017",
+          "39-018",
+          "39-020"
+        ]
+      },
+      {
+        "titulo": "El festival y una amenaza que se extiende",
+        "texto": "La ciudad celebra los movimientos del Gran Anciano como augurio de cosechas. Leona llega para advertir de un ataque yuan-ti y Walulu promete precauciones y ayuda a Cuicapalli. Tortas se levanta al sentir plantas morir junto al lago al norte de Iktan; los visitantes investigan, vencen a los zombis y vuelven con una muestra. La dirigente teme un ataque del dragón que no podrían detener. La población reverencia al monje y protege el valor de su piedra, incluso frente a la curiosidad de Triel.",
+        "referencias": [
+          "40-006",
+          "40-008",
+          "40-011",
+          "40-013",
+          "40-015",
+          "40-024",
+          "40-035",
+          "40-036",
+          "40-042"
+        ]
+      }
     ],
-    "La Madriguera":[
-      {"titulo":"Alojamiento y ropa en Cuicapalli","texto":"La Madriguera se presenta como uno de los servicios de Cuicapalli, con alojamiento y sastrería. Complementa los recursos de taberna, forja, clínica y alquimia que hacen posible permanecer en la ciudad entre expediciones. La campaña no desarrolla en sus registros una historia propia del establecimiento ni una relación confirmada entre su nombre y una especie concreta de propietario.","referencias":["16-018"]}
+    "La Madriguera": [
+      {
+        "titulo": "Alojamiento y ropa en Cuicapalli",
+        "texto": "La Madriguera se presenta como uno de los servicios de Cuicapalli, con alojamiento y sastrería. Complementa los recursos de taberna, forja, clínica y alquimia que hacen posible permanecer en la ciudad entre expediciones. La campaña no desarrolla en sus registros una historia propia del establecimiento ni una relación confirmada entre su nombre y una especie concreta de propietario.",
+        "referencias": [
+          "16-018"
+        ]
+      }
     ],
-    "La Sirena Borracha":[
-      {"titulo":"El punto de encuentro de los recién llegados","texto":"La Sirena Borracha ofrece alojamiento, comercio y otros servicios en Shiaru bajo la atención de Liz. Los visitantes compran descanso y ropa, venden botín y negocian precios. Patata paga con una gema tomada del collar que Bonnie reclamaba: ese pago convierte a la posada en una pieza de la persecución de las piedras y extiende el conflicto a sus clientes.","referencias":["01-024","01-025","01-035","04-030","06-007"]},
-      {"titulo":"Negocios que sobreviven a las expediciones","texto":"Poncelot trabaja limpiando mientras busca a Merlucilla y confunde la posición de Liz con la de una jueza. Otros compañeros vuelven para vender tesoros y conseguir suministros. La compra del jade de Patata incluye conversaciones sobre su granja y un posible abastecimiento de comida. La posada sigue funcionando como ancla de la vida cotidiana, aunque las deudas y robos de los viajeros atraviesan sus acuerdos.","referencias":["06-009","09-032","14-004","35-002"]}
+    "La Sirena Borracha": [
+      {
+        "titulo": "El punto de encuentro de los recién llegados",
+        "texto": "La Sirena Borracha ofrece alojamiento, comercio y otros servicios en Shiaru bajo la atención de Liz. Los visitantes compran descanso y ropa, venden botín y negocian precios. Patata paga con una gema tomada del collar que Bonnie reclamaba: ese pago convierte a la posada en una pieza de la persecución de las piedras y extiende el conflicto a sus clientes.",
+        "referencias": [
+          "01-024",
+          "01-025",
+          "01-035",
+          "04-030",
+          "06-007"
+        ]
+      },
+      {
+        "titulo": "Negocios que sobreviven a las expediciones",
+        "texto": "Poncelot trabaja limpiando mientras busca a Merlucilla y confunde la posición de Liz con la de una jueza. Otros compañeros vuelven para vender tesoros y conseguir suministros. La compra del jade de Patata incluye conversaciones sobre su granja y un posible abastecimiento de comida. La posada sigue funcionando como ancla de la vida cotidiana, aunque las deudas y robos de los viajeros atraviesan sus acuerdos.",
+        "referencias": [
+          "06-009",
+          "09-032",
+          "14-004",
+          "35-002"
+        ]
+      }
     ],
-    "Perlasal":[
-      {"titulo":"Una ciudad bajo el agua que teme a la superficie","texto":"Los aventureros llegan a Perlasal después de seguir la petición de ayuda de Maris y combatir a una patrulla de merros. La ciudad está hecha de coral y conchas. Para entrar necesitan ayuda de los sirénidos para respirar; Maris los presenta y responde por ellos ante Ivet, que teme que revelen la ubicación a enemigos de la superficie.","referencias":["29-019","29-020","29-021"]},
-      {"titulo":"Hospitalidad a cambio de una promesa","texto":"Maris explica los secuestros y rituales que atribuye a los profundos, y Coyote consigue que la población acepte su promesa de ayuda. Los visitantes reciben comida y alojamiento, pero el acceso religioso sigue restringido y Ayoto debe demostrar sus intenciones con actos. La visita termina allí, sin que se narre una liberación definitiva de la amenaza del kraken.","referencias":["29-022","29-023","29-024","29-025"]}
+    "Perlasal": [
+      {
+        "titulo": "Una ciudad bajo el agua que teme a la superficie",
+        "texto": "Los aventureros llegan a Perlasal después de seguir la petición de ayuda de Maris y combatir a una patrulla de merros. La ciudad está hecha de coral y conchas. Para entrar necesitan ayuda de los sirénidos para respirar; Maris los presenta y responde por ellos ante Ivet, que teme que revelen la ubicación a enemigos de la superficie.",
+        "referencias": [
+          "29-019",
+          "29-020",
+          "29-021"
+        ]
+      },
+      {
+        "titulo": "Hospitalidad a cambio de una promesa",
+        "texto": "Maris explica los secuestros y rituales que atribuye a los profundos, y Coyote consigue que la población acepte su promesa de ayuda. Los visitantes reciben comida y alojamiento, pero el acceso religioso sigue restringido y Ayoto debe demostrar sus intenciones con actos. La visita termina allí, sin que se narre una liberación definitiva de la amenaza del kraken.",
+        "referencias": [
+          "29-022",
+          "29-023",
+          "29-024",
+          "29-025"
+        ]
+      }
     ],
-    "Puerto de Espadas":[
-      {"titulo":"El mundo exterior que sigue influyendo","texto":"Puerto de Espadas es el lugar del que Erendriel dice proceder y donde sitúa a su familia de exploradores. También es el destino propuesto para Jack, que debe cobrar a una lista de personas, ver a Lucy y regresar con dinero. El retraso de ese envío tiene consecuencias para Erendriel, y el retorno de Jack confirma el viaje sin mostrar todas sus gestiones.","referencias":["01-005","12-007","15-002","15-021","23-004"]},
-      {"titulo":"Nuevas historias llegan desde el puerto","texto":"El mercante maldito se presenta como un navío procedente de Puerto de Espadas y Tesara declara venir también de allí. El lugar conecta la campaña insular con exploradores, familias y viajes marítimos, aunque no se escenifica una visita del grupo al puerto. No deben confundirse sus relatos de origen con un recorrido completo por la ciudad.","referencias":["14-007","31-005","31-007"]}
+    "Puerto de Espadas": [
+      {
+        "titulo": "El mundo exterior que sigue influyendo",
+        "texto": "Puerto de Espadas es el lugar del que Erendriel dice proceder y donde sitúa a su familia de exploradores. También es el destino propuesto para Jack, que debe cobrar a una lista de personas, ver a Lucy y regresar con dinero. El retraso de ese envío tiene consecuencias para Erendriel, y el retorno de Jack confirma el viaje sin mostrar todas sus gestiones.",
+        "referencias": [
+          "01-005",
+          "12-007",
+          "15-002",
+          "15-021",
+          "23-004"
+        ]
+      },
+      {
+        "titulo": "Nuevas historias llegan desde el puerto",
+        "texto": "El mercante maldito se presenta como un navío procedente de Puerto de Espadas y Tesara declara venir también de allí. El lugar conecta la campaña insular con exploradores, familias y viajes marítimos, aunque no se escenifica una visita del grupo al puerto. No deben confundirse sus relatos de origen con un recorrido completo por la ciudad.",
+        "referencias": [
+          "14-007",
+          "31-005",
+          "31-007"
+        ]
+      }
     ],
-    "Ras Racor":[
-      {"titulo":"La ciudad detrás de la patrulla","texto":"Una patrulla de hombres lagarto encuentra a los viajeros en el pantano y los escolta a Ras Racor. Buscan a los responsables de la destrucción de otro poblado, pero sus dirigentes interpretan los cadáveres como un regalo de Samuya. En lugar de un castigo inmediato, ofrecen recompensas condicionadas a una prueba en la arena. Naór aprovecha la recepción para transmitir la convocatoria de su padre.","referencias":["17-006","17-007","17-010","17-011","17-012"]},
-      {"titulo":"La arena abre una vía política","texto":"Los visitantes combaten contra bestias, un enorme cocodrilo y una hidra. La victoria les proporciona jade, monedas y perlas, y los dirigentes prometen acudir al concilio de Tutucan. Después el grupo se separa. Ras Racor no queda destruida ni conquistada por los aventureros: el encuentro transforma una relación marcada por la violencia anterior en una promesa de cooperación todavía por materializar.","referencias":["17-013","17-017","17-019","17-021","17-023"]}
+    "Ras Racor": [
+      {
+        "titulo": "La ciudad detrás de la patrulla",
+        "texto": "Una patrulla de hombres lagarto encuentra a los viajeros en el pantano y los escolta a Ras Racor. Buscan a los responsables de la destrucción de otro poblado, pero sus dirigentes interpretan los cadáveres como un regalo de Samuya. En lugar de un castigo inmediato, ofrecen recompensas condicionadas a una prueba en la arena. Naór aprovecha la recepción para transmitir la convocatoria de su padre.",
+        "referencias": [
+          "17-006",
+          "17-007",
+          "17-010",
+          "17-011",
+          "17-012"
+        ]
+      },
+      {
+        "titulo": "La arena abre una vía política",
+        "texto": "Los visitantes combaten contra bestias, un enorme cocodrilo y una hidra. La victoria les proporciona jade, monedas y perlas, y los dirigentes prometen acudir al concilio de Tutucan. Después el grupo se separa. Ras Racor no queda destruida ni conquistada por los aventureros: el encuentro transforma una relación marcada por la violencia anterior en una promesa de cooperación todavía por materializar.",
+        "referencias": [
+          "17-013",
+          "17-017",
+          "17-019",
+          "17-021",
+          "17-023"
+        ]
+      }
     ],
-    "Ruki Peten":[
-      {"titulo":"El pantano de la búsqueda de Pix","texto":"Ruki Peten se describe al norte de Shiaru como una zona pantanosa poco profunda por la que se puede caminar o navegar. El rastro de pelos de mono lleva a la primera expedición hacia el poblado de hombres lagarto, donde el intento de rescatar a Pix acaba con tres aventureros presos. La segunda expedición vuelve por ese camino y consigue sacarlos. Más adelante Naór reaparece perdida en el pantano antes de encontrar a la patrulla de Ras Racor. El nombre designa la región, no equivale por sí solo al poblado atacado ni a la capital de los hombres lagarto.","referencias":["10-009","10-010","10-027","11-009","11-027","17-004"]}
+    "Ruki Peten": [
+      {
+        "titulo": "El pantano de la búsqueda de Pix",
+        "texto": "Ruki Peten se describe al norte de Shiaru como una zona pantanosa poco profunda por la que se puede caminar o navegar. El rastro de pelos de mono lleva a la primera expedición hacia el poblado de hombres lagarto, donde el intento de rescatar a Pix acaba con tres aventureros presos. La segunda expedición vuelve por ese camino y consigue sacarlos. Más adelante Naór reaparece perdida en el pantano antes de encontrar a la patrulla de Ras Racor. El nombre designa la región, no equivale por sí solo al poblado atacado ni a la capital de los hombres lagarto.",
+        "referencias": [
+          "10-009",
+          "10-010",
+          "10-027",
+          "11-009",
+          "11-027",
+          "17-004"
+        ]
+      }
     ],
-    "Shiaru":[
-      {"titulo":"El primer puerto y sus deudas","texto":"Shiaru es el poblado pirata que el director presenta como punto de llegada. Bajo la autoridad de Happy Bonnie reúne tabernas, comercios y una tripulación cuyo barco termina incrustado en la costa de una taberna. Los recién llegados convierten el lugar en base para explorar la isla, negociar botín y buscar trabajo. Los proyectos de la granja de Patata y del casino de Kilzer intentan arraigar allí, sujetos a las condiciones de Bonnie.","referencias":["01-001","01-008","01-024","04-001","13-011","15-003"]},
-      {"titulo":"De base de expediciones a frente de guerra","texto":"Las desapariciones, incursiones y rescates conectan Shiaru con el pantano, los templos y Aurora. Los hombres serpiente llegan a atacar a viajeros en sus habitaciones y en el barco. Más adelante la Marina lanza un asalto abierto: Patata, Luna, Eleanor, Erandy y Bonnie ayudan a resistirlo. La victoria mantiene el poblado en pie, pero rompe la apariencia de seguridad que sostenía el antiguo acuerdo con Molly.","referencias":["10-005","23-017","25-006","32-006","32-014","32-017","32-018"]},
-      {"titulo":"Reparar mientras el conflicto continúa","texto":"El regreso de Molly reorganiza las operaciones contra la Marina. Desde Shiaru salen nuevas misiones de rescate, sabotaje e interceptación de suministros, mientras Ione intenta recuperar el Zampaolas. La lucha contra un pulpo gigante permite por fin desencajar el casco de la taberna. El barco aún necesita reparar la proa y la guerra no termina con ese avance: el poblado continúa como hogar provisional y centro de decisiones de los aventureros.","referencias":["35-019","36-001","36-004","37-004","38-007","38-015","38-016"]}
+    "Shiaru": [
+      {
+        "titulo": "El primer puerto y sus deudas",
+        "texto": "Shiaru es el poblado pirata que el director presenta como punto de llegada. Bajo la autoridad de Happy Bonnie reúne tabernas, comercios y una tripulación cuyo barco termina incrustado en la costa de una taberna. Los recién llegados convierten el lugar en base para explorar la isla, negociar botín y buscar trabajo. Los proyectos de la granja de Patata y del casino de Kilzer intentan arraigar allí, sujetos a las condiciones de Bonnie.",
+        "referencias": [
+          "01-001",
+          "01-008",
+          "01-024",
+          "04-001",
+          "13-011",
+          "15-003"
+        ]
+      },
+      {
+        "titulo": "De base de expediciones a frente de guerra",
+        "texto": "Las desapariciones, incursiones y rescates conectan Shiaru con el pantano, los templos y Aurora. Los hombres serpiente llegan a atacar a viajeros en sus habitaciones y en el barco. Más adelante la Marina lanza un asalto abierto: Patata, Luna, Eleanor, Erandy y Bonnie ayudan a resistirlo. La victoria mantiene el poblado en pie, pero rompe la apariencia de seguridad que sostenía el antiguo acuerdo con Molly.",
+        "referencias": [
+          "10-005",
+          "23-017",
+          "25-006",
+          "32-006",
+          "32-014",
+          "32-017",
+          "32-018"
+        ]
+      },
+      {
+        "titulo": "Reparar mientras el conflicto continúa",
+        "texto": "El regreso de Molly reorganiza las operaciones contra la Marina. Desde Shiaru salen nuevas misiones de rescate, sabotaje e interceptación de suministros, mientras Ione intenta recuperar el Zampaolas. La lucha contra un pulpo gigante permite por fin desencajar el casco de la taberna. El barco aún necesita reparar la proa y la guerra no termina con ese avance: el poblado continúa como hogar provisional y centro de decisiones de los aventureros.",
+        "referencias": [
+          "35-019",
+          "36-001",
+          "36-004",
+          "37-004",
+          "38-007",
+          "38-015",
+          "38-016"
+        ]
+      }
     ],
-    "Templo de Lares":[
-      {"titulo":"Un santuario antiguo ocupado","texto":"Eromov encarga investigar un templo al sur que un clan yuan-ti ocupa mientras sale de sus escondrijos y se aproxima a Cuicapalli. El nombre de la deidad se reconoce con variantes como Lares o Larcamas y no queda fijado con certeza. Baton da una ruta y Mamá consigue guiar al grupo hasta el lugar. La inspección descubre guardianes, una serpiente en el altar y rastros recientes que confirman actividad en ambas bifurcaciones.","referencias":["18-007","18-008","18-010"]},
-      {"titulo":"Trampas y una victoria limitada","texto":"Los viajeros descubren estatuas cuya línea de visión mantiene a raya chorros de veneno; al romper una dejan las trampas activas. Más adentro combaten a monstruosidades y humanoides serpiente, varios compañeros caen y reciben ayuda. Vuelven con pruebas y recompensas, pero la derrota de esos ocupantes no elimina la amenaza yuan-ti ni aclara por completo las visiones de Mamá.","referencias":["18-011","18-014","18-018","18-020"]}
+    "Templo de Lares": [
+      {
+        "titulo": "Un santuario antiguo ocupado",
+        "texto": "Eromov encarga investigar un templo al sur que un clan yuan-ti ocupa mientras sale de sus escondrijos y se aproxima a Cuicapalli. El nombre de la deidad se reconoce con variantes como Lares o Larcamas y no queda fijado con certeza. Baton da una ruta y Mamá consigue guiar al grupo hasta el lugar. La inspección descubre guardianes, una serpiente en el altar y rastros recientes que confirman actividad en ambas bifurcaciones.",
+        "referencias": [
+          "18-007",
+          "18-008",
+          "18-010"
+        ]
+      },
+      {
+        "titulo": "Trampas y una victoria limitada",
+        "texto": "Los viajeros descubren estatuas cuya línea de visión mantiene a raya chorros de veneno; al romper una dejan las trampas activas. Más adentro combaten a monstruosidades y humanoides serpiente, varios compañeros caen y reciben ayuda. Vuelven con pruebas y recompensas, pero la derrota de esos ocupantes no elimina la amenaza yuan-ti ni aclara por completo las visiones de Mamá.",
+        "referencias": [
+          "18-011",
+          "18-014",
+          "18-018",
+          "18-020"
+        ]
+      }
     ],
-    "Templo de los nawals":[
-      {"titulo":"Una expedición tras el relato de un superviviente","texto":"Un pirata herido cuenta que criaturas negras de ojos rojos acabaron con sus compañeros cuando intentaban saquear un templo. Tlachka lo relaciona con las leyendas de los nawals y el grupo investiga un altar junto al río. El director vincula los símbolos con una civilización antigua de rituales de transformación y sacrificios. En el interior encuentran un pirata muerto y un diario en Terran más reciente que el edificio.","referencias":["08-008","08-009","08-016","08-020","08-021"]},
-      {"titulo":"El combate deja preguntas y un manuscrito","texto":"Una figura humanoide acusa al grupo de robar, se transforma en pantera bípeda y ataca. Cuando Blink la mata, el cuerpo vuelve a ser el de una mujer. Erendriel se lleva el diario y Ayoto el mortero y el cadáver para investigar. La expedición aporta pruebas concretas de transformación, pero no una explicación completa de todos los rituales ni una identificación automática de cualquier persona parecida que encuentren después.","referencias":["08-022","08-023","08-024","16-019"]}
+    "Templo de los nawals": [
+      {
+        "titulo": "Una expedición tras el relato de un superviviente",
+        "texto": "Un pirata herido cuenta que criaturas negras de ojos rojos acabaron con sus compañeros cuando intentaban saquear un templo. Tlachka lo relaciona con las leyendas de los nawals y el grupo investiga un altar junto al río. El director vincula los símbolos con una civilización antigua de rituales de transformación y sacrificios. En el interior encuentran un pirata muerto y un diario en Terran más reciente que el edificio.",
+        "referencias": [
+          "08-008",
+          "08-009",
+          "08-016",
+          "08-020",
+          "08-021"
+        ]
+      },
+      {
+        "titulo": "El combate deja preguntas y un manuscrito",
+        "texto": "Una figura humanoide acusa al grupo de robar, se transforma en pantera bípeda y ataca. Cuando Blink la mata, el cuerpo vuelve a ser el de una mujer. Erendriel se lleva el diario y Ayoto el mortero y el cadáver para investigar. La expedición aporta pruebas concretas de transformación, pero no una explicación completa de todos los rituales ni una identificación automática de cualquier persona parecida que encuentren después.",
+        "referencias": [
+          "08-022",
+          "08-023",
+          "08-024",
+          "16-019"
+        ]
+      }
     ],
-    "Tutucan":[
-      {"titulo":"El destino político de una convocatoria","texto":"Camar elige Tutucan para reunir a los clanes ante la expansión extranjera. Naór transmite esa invitación a Eromov, a los dirigentes de Ras Racor y a Walulu, con distintos compromisos de asistencia o apoyo. La conversación de Iktan precisa que el concilio debe celebrarse la noche anterior al próximo solsticio. La ciudad importa como punto de encuentro previsto entre pueblos que no han resuelto sus antiguas diferencias.","referencias":["16-003","16-016","17-011","17-021","22-020","31-027"]},
-      {"titulo":"Una reunión que no puede darse por celebrada","texto":"Tutucan vuelve a aparecer al investigar las reuniones anteriores al envenenamiento de Eromov y como posible lugar donde buscar conocimiento. Esas referencias no muestran todavía el concilio anunciado ni autorizan a inventar sus acuerdos. Al cierre del catálogo permanece como una expectativa central para la respuesta conjunta de los habitantes de la isla.","referencias":["19-016","30-005","31-027"]}
+    "Tutucan": [
+      {
+        "titulo": "El destino político de una convocatoria",
+        "texto": "Camar elige Tutucan para reunir a los clanes ante la expansión extranjera. Naór transmite esa invitación a Eromov, a los dirigentes de Ras Racor y a Walulu, con distintos compromisos de asistencia o apoyo. La conversación de Iktan precisa que el concilio debe celebrarse la noche anterior al próximo solsticio. La ciudad importa como punto de encuentro previsto entre pueblos que no han resuelto sus antiguas diferencias.",
+        "referencias": [
+          "16-003",
+          "16-016",
+          "17-011",
+          "17-021",
+          "22-020",
+          "31-027"
+        ]
+      },
+      {
+        "titulo": "Una reunión que no puede darse por celebrada",
+        "texto": "Tutucan vuelve a aparecer al investigar las reuniones anteriores al envenenamiento de Eromov y como posible lugar donde buscar conocimiento. Esas referencias no muestran todavía el concilio anunciado ni autorizan a inventar sus acuerdos. Al cierre del catálogo permanece como una expectativa central para la respuesta conjunta de los habitantes de la isla.",
+        "referencias": [
+          "19-016",
+          "30-005",
+          "31-027"
+        ]
+      }
     ],
-    "Xoltacan":[
-      {"titulo":"Una isla de pueblos vivos y ruinas disputadas","texto":"La isla selvática de Xoltacan es el escenario común de la campaña: sus costas reciben a piratas y marines, mientras comunidades del interior intentan proteger sus rutas, tradiciones y territorios. Desde Shiaru los viajeros avanzan hacia pantanos, ciudades, templos y asentamientos submarinos. La misión de Naór muestra una respuesta local al cambio de equilibrio que provoca la llegada extranjera, sin convertir a todos los pueblos nativos en un único bando.","referencias":["01-001","04-001","16-003","16-014","17-011","29-020"]},
-      {"titulo":"El conflicto visible y la amenaza que se insinúa","texto":"Los ataques de la Marina y de los hombres serpiente cruzan las rutas de los aventureros. Las visiones del ojo-orbe, el relato mostrado por Walulu y la criatura cautiva de Aurora sugieren peligros de mayor escala, pero proceden de experiencias y testimonios distintos que no deben fundirse en una profecía confirmada. La isla no ha sido destruida en la realidad narrada por el mero hecho de que Nox la vea devastada. Al final siguen abiertos el concilio, las marcas de Citlali y los propósitos de quienes disputan sus secretos.","referencias":["28-015","31-026","32-017","35-014","39-016","39-018"]}
+    "Xoltacan": [
+      {
+        "titulo": "Una isla de pueblos vivos y ruinas disputadas",
+        "texto": "La isla selvática de Xoltacan es el escenario común de la campaña: sus costas reciben a piratas y marines, mientras comunidades del interior intentan proteger sus rutas, tradiciones y territorios. Desde Shiaru los viajeros avanzan hacia pantanos, ciudades, templos y asentamientos submarinos. La misión de Naór muestra una respuesta local al cambio de equilibrio que provoca la llegada extranjera, sin convertir a todos los pueblos nativos en un único bando.",
+        "referencias": [
+          "01-001",
+          "04-001",
+          "16-003",
+          "16-014",
+          "17-011",
+          "29-020"
+        ]
+      },
+      {
+        "titulo": "El conflicto visible y la amenaza que se insinúa",
+        "texto": "Los ataques de la Marina y de los hombres serpiente cruzan las rutas de los aventureros. Las visiones del ojo-orbe, el relato mostrado por Walulu y la criatura cautiva de Aurora sugieren peligros de mayor escala, pero proceden de experiencias y testimonios distintos que no deben fundirse en una profecía confirmada. La isla no ha sido destruida en la realidad narrada por el mero hecho de que Nox la vea devastada. Al final siguen abiertos el concilio, las marcas de Citlali y los propósitos de quienes disputan sus secretos.",
+        "referencias": [
+          "28-015",
+          "31-026",
+          "32-017",
+          "35-014",
+          "39-016",
+          "39-018"
+        ]
+      }
+    ],
+    "Claro de los restos envenenados": [
+      {
+        "titulo": "La vegetación anuncia el peligro",
+        "texto": "Tortas siente que las plantas mueren en las inmediaciones del lago al norte de Iktan. El grupo encuentra animales y dinosaurios medio devorados cuyos restos dañan el entorno. El líquido verdoso se compara con veneno dracónico y los cuerpos se levantan como una masa. Allí se libra el combate y se recoge una muestra. La derrota del último zombi no va seguida de una comprobación de la recuperación del claro.",
+        "referencias": [
+          "40-013",
+          "40-015",
+          "40-016",
+          "40-017",
+          "40-024",
+          "40-026"
+        ]
+      }
+    ],
+    "Valle Blanco": [
+      {
+        "titulo": "La tierra fría recordada por Ilikar",
+        "texto": "Ilikar declara que procede de Valle Blanco, en las tierras frías del norte, al comparar las costumbres de fuerza de su tierra con los juegos de sus nuevos compañeros. El lugar no se visita, no recibe coordenadas y no se identifica con Shiaru ni con la lectura incierta Tunkaz de su saludo inicial.",
+        "referencias": [
+          "40-005",
+          "40-039"
+        ]
+      }
     ]
   }
 }

@@ -12,7 +12,7 @@ Base para revisar equivalencia: [01-001](../capitulos/01.md), [01-009](../capitu
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 39.
+Relato revisado hasta el capítulo 40.
 
 ### El primer puerto y sus deudas
 
@@ -457,4 +457,36 @@ Tipo: `hecho_confirmado`.
 Ione vuelve de la jungla y habla con Poncelot; los incendios recientes han cesado. Una carta hace que un pirata entregue al gnomo una bolsa con trece monedas de oro al confundir al destinatario. Erandy intenta localizar el estandarte de Eleanor, pero ve a un hombre enorme, pálido, tatuado y herido junto a la playa. Un ladrón lo está registrando y ella se acerca.
 
 La búsqueda del objeto no proporciona coordenadas confirmadas de Eleanor.
+
+## [40-001 · Ilikar entra en la selva buscando un regalo](../capitulos/40.md) · 00:00:24.960
+
+Tipo: `declaracion_personaje`.
+
+Ilikar relata otro duelo con la capitana y sus entrenamientos para soportar el calor de Shiaru. Tras una conversación con Erandy, busca un trofeo para la maestra mencionada en ella. Ha entrado en la selva y sigue a un pequeño acompañante intentando encontrar la salida.
+
+La recapitulación no identifica por nombre a la capitana ni a la maestra, ni precisa de quién es maestra. No atribuir la compensación nocturna a un acto sexual concreto.
+
+## [40-010 · La tortuga mueve la cabeza y la piedra de Triel se rompe](../capitulos/40.md) · 00:36:13.800
+
+Tipo: `hecho_confirmado`.
+
+Una gran trompeta y la agitación de los vecinos convocan al festival. Walulu conduce a Leona y el guardia deja la búsqueda para reunirse con la multitud, seguido por Ilikar. Tortas gira muy lentamente la cabeza hacia el agua. Triel lanza una piedra para comprobar el movimiento, protegida de las miradas por Eldrat. El proyectil se hace pedazos antes de llegar; los observadores no perciben una acción clara del anciano. Ilikar pregunta a gritos dónde está Shiaru y toma la dirección de su mirada como respuesta.
+
+La piedra rota se observa, pero no debe atribuirse a un conjuro o mecanismo específico. La tortuga no da instrucciones verbales hacia Shiaru.
+
+## [40-012 · La supuesta deshidratación revela la velocidad del anciano](../capitulos/40.md) · 00:44:11.240
+
+Tipo: `hecho_confirmado`.
+
+Triel y Eldrat alcanzan a Ilikar y le explican que la tortuga es importante para la comunidad y no debe llevársela. El goliat cree que la mirada del anciano le indicó Shiaru y, al comprobar que se mueve, propone que la lentitud se deba a falta de agua. Eldrat prepara una bolsa de cuero impermeable llena del lago y le pide lanzarla hacia la tortuga, con intención de mojar también a Leona. Tortas atrapa la bolsa a una velocidad extraordinaria y la lanza hacia arriba, sorprendiendo a Eldrat.
+
+La deshidratación es una explicación improvisada de Ilikar, sin diagnóstico confirmado. La bolsa del tramposo se nombra como recurso de Eldrat, sin demostrar en este pasaje qué propiedades mágicas tiene ni crear una identidad nueva para los saquitos de agua.
+
+## [40-039 · Origen de Ilikar y posibles aliados en Shiaru](../capitulos/40.md) · 02:36:36.680
+
+Tipo: `declaracion_personaje`.
+
+Ilikar declara que procede de Valle Blanco, en las tierras frías del norte. Quiere un trofeo con el que hacerse amigo de un líder y del que su capitana esté orgullosa; Eldrat intenta atraerlo con posibles combates y premios posteriores. Ilikar dice que debe volver a Shiaru y propone sumar la fuerza de su capitana Ione y de Sir Poncelot. Atribuye a Poncelot la muerte de dragones, dinosaurios y gigantes del bosque. Eldrat considera visitarlos y propone competiciones de natación, robo, combate y lanzamiento para prepararse; Ilikar ofrece costumbres de fuerza de su tierra.
+
+Las hazañas de Poncelot se transmiten como testimonio de Ilikar; no se revisitan ni verifican en esta escena. Ione y Poncelot no están presentes ni aceptan participar. El lanzamiento de una cabra a 142 metros es un recuerdo contado durante la broma de los juegos.
 

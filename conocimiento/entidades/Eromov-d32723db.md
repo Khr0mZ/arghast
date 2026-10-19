@@ -12,7 +12,7 @@ Base para revisar equivalencia: [16-015](../capitulos/16.md), [30-003](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 39.
+Relato revisado hasta el capítulo 40.
 
 ### El dirigente que abre Cuicapalli a los viajeros
 
@@ -25,6 +25,12 @@ Fuentes: [16-015 · Eromov ofrece hospitalidad y reconoce a Naór](../capitulos/
 Después del ataque al festival comprende que el collar de Blink la pone en peligro. Más adelante aparece enfermo, con manchas verdes y síntomas que recuerdan al veneno de los hombres serpiente. Winscore determina que el tóxico fue ingerido, y la investigación conduce a la cueva de la Hoja Caída. Eromov pide a Leona que medie para no provocar una guerra injusta. Los viajeros destruyen una instalación serpentina y vuelven con muestras que encarga estudiar a Parroter. Al terminar esa investigación todavía no se ha obtenido una cura ni demostrado quién añadió el veneno a la comida.
 
 Fuentes: [22-018 · Blink en peligro y arco venenoso](../capitulos/22.md) · 03:07:00.000 · [30-004 · Marcas verdes y veneno similar al de las serpientes](../capitulos/30.md) · 00:19:00.000 · [30-005 · Envenenamiento por ingestión tras una reunión](../capitulos/30.md) · 00:26:00.000 · [30-006 · Autor del veneno todavía sin confesión](../capitulos/30.md) · 00:27:00.000 · [30-007 · Hoja Caída y encargo de mediación](../capitulos/30.md) · 00:31:00.000 · [30-020 · Eromov envía a Parroter a investigar una cura](../capitulos/30.md) · 02:04:00.000 · [30-022 · Descanso y reflexión de Luna sobre el exceso de fuego](../capitulos/30.md) · 02:12:00.000.
+
+### Un enviado y una promesa de ayuda
+
+Leona lo describe todavía envenenado y cuenta que la envió a Iktan para prevenir un ataque durante el festival. Guayacán queda cuidándolo. Walulu lo llama amigo y promete enviar recetas y protecciones. Esto documenta un nuevo encargo referido por Leona y una oferta de apoyo, sin mostrar el envío ni la administración de un antídoto.
+
+Fuentes: [40-002 · La enfermedad de Triel y el encargo de Leona](../capitulos/40.md) · 00:01:42.600 · [40-006 · Walulu recibe la advertencia y promete ayuda a Cuicapalli](../capitulos/40.md) · 00:23:18.240.
 
 ## Registros y evidencias
 
@@ -227,4 +233,20 @@ Tipo: `hecho_confirmado`.
 Tacha sirve comida. Guayacán pide fruta y sigue admirando a Leona, de la que quiere aprender mientras la protege. Luna reflexiona sobre sus nuevas bolas de fuego: destruyen demasiado y necesita elegir mejor dónde apuntar. El director cierra la sesión con la investigación de Parroter todavía en marcha, sin una cura para Eromov y con la amenaza sin resolver.
 
 Las expresiones sobre salvar al jefe reflejan esperanza o una valoración de la expedición; no representan una curación realizada.
+
+## [40-002 · La enfermedad de Triel y el encargo de Leona](../capitulos/40.md) · 00:01:42.600
+
+Tipo: `declaracion_personaje`.
+
+Eldrat relata que su hermana regresó envenenada, según él por el dragón verde, y que la cuidó por miedo a perderla. Ha entrenado con Coyote y Tesara, aunque su pique con el primero perjudicó el ejercicio. Leona explica que rastreaba serpientes por el envenenamiento del líder de Cuicapalli cuando este la envió ante la posibilidad de un ataque durante el festival; dejó a su aprendiz Guayacán cuidándolo.
+
+La autoría del veneno de Triel y el posible ataque se presentan en recapitulaciones de personajes. El ataque no ha ocurrido dentro de este bloque.
+
+## [40-006 · Walulu recibe la advertencia y promete ayuda a Cuicapalli](../capitulos/40.md) · 00:23:18.240
+
+Tipo: `hecho_confirmado`.
+
+En el templo, Leona informa a Walulu de que Eromov ha sido envenenado por hombres serpiente y se presenta como su representante para advertir del posible ataque durante el festival. Walulu agradece el aviso, se dispone a informar a los guardias y promete enviar hombres con recetas y protecciones a Cuicapalli. Explica que Eromov es un gran amigo suyo.
+
+Se confirma la promesa y la marcha de Walulu a avisar; no la llegada de ayuda a Cuicapalli ni una curación de Eromov. El envenenamiento y la amenaza se comunican mediante el testimonio de Leona.
 

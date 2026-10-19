@@ -12,7 +12,7 @@ Base para revisar equivalencia: [14-003](../capitulos/14.md), [16-005](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 39.
+Relato revisado hasta el capítulo 40.
 
 ### Del cautiverio al camino de casa
 

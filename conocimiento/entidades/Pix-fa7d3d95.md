@@ -12,7 +12,7 @@ Base para revisar equivalencia: [10-005](../capitulos/10.md), [11-023](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 39.
+Relato revisado hasta el capítulo 40.
 
 ### El mono cuya desaparición moviliza al pueblo
 

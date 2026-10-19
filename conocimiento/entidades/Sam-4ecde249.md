@@ -12,7 +12,7 @@ Base para revisar equivalencia: [24-002](../capitulos/24.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 39.
+Relato revisado hasta el capítulo 40.
 
 ### El hermano al que Din no consigue encontrar
 

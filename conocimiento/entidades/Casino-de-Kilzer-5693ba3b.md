@@ -12,7 +12,7 @@ Base para revisar equivalencia: [11-031](../capitulos/11.md), [13-011](../capitu
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 39.
+Relato revisado hasta el capítulo 40.
 
 ### Un proyecto que necesita permiso pirata
 

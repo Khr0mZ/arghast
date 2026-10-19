@@ -12,7 +12,7 @@ Base para revisar equivalencia: [03-013](../capitulos/03.md), [34-004](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 39.
+Relato revisado hasta el capítulo 40.
 
 ### Mamá y el huevo de las ruinas
 

@@ -45,3 +45,4 @@ Las fichas reúnen acontecimientos seleccionados y citados. La tabla distingue d
 | 37 | [Asalto Nocturno](capitulos/37.md) | disponible | revisado | [texto](../derivados/37/lectura.md) |
 | 38 | [Puesta a Punto](capitulos/38.md) | disponible | revisado | [texto](../derivados/38/lectura.md) |
 | 39 | [El Rastro](capitulos/39.md) | disponible | revisado | [texto](../derivados/39/lectura.md) |
+| 40 | [El Festival del Anciano de Piedra](capitulos/40.md) | disponible | revisado | [texto](../derivados/40/lectura.md) |

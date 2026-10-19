@@ -12,7 +12,7 @@ Base para revisar equivalencia: [21-007](../capitulos/21.md), [21-012](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 39.
+Relato revisado hasta el capítulo 40.
 
 ### Del cuello del niño a la boca del lobo
 

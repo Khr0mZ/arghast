@@ -1972,6 +1972,118 @@
         "33-019",
         "34-003"
       ]
+    },
+    {
+      "nombre": "Tortas",
+      "tipo": "personaje",
+      "etiquetas": [
+        "Tortas (anciano tortuga, grafía provisional)"
+      ],
+      "referencias": [
+        "40-007",
+        "40-011",
+        "40-029",
+        "40-035"
+      ],
+      "descripcion": "Tortuga monje venerada como Gran Anciano y protectora de Iktan.",
+      "nota": "Su aspecto pétreo no es una petrificación. Se conservan en tensión la edad declarada de 77 años y los siglos atribuidos por Walulu."
+    },
+    {
+      "nombre": "Dragón verde del bosque de Iktan",
+      "tipo": "personaje",
+      "etiquetas": [
+        "Dragón verde del bosque de Iktan"
+      ],
+      "referencias": [
+        "31-015",
+        "40-002",
+        "40-030",
+        "40-032"
+      ],
+      "descripcion": "Adversario del bosque relacionado con el veneno, las heridas de Triel y la caza proyectada por Ilikar y Eldrat.",
+      "nota": "Nombre propio de reconocimiento incierto. No se fusiona con Clodidrax ni se afirma que sean necesariamente criaturas diferentes. La destrucción de las casas antiguas tampoco fija su autoría."
+    },
+    {
+      "nombre": "Masa zombi del claro envenenado",
+      "tipo": "personaje",
+      "etiquetas": [
+        "Masa zombi del claro envenenado",
+        "Zombis desprendidos de la masa (capítulo 40)"
+      ],
+      "referencias": [
+        "40-016",
+        "40-017",
+        "40-018",
+        "40-024"
+      ],
+      "descripcion": "Amalgama de fauna muerta que desprende zombis venenosos durante el combate del capítulo 40.",
+      "nota": "Nombre editorial descriptivo. Los zombis menores se integran en su historia; no se identifica con la masa del capítulo 31 ni se fija creador o especie de bestiario."
+    },
+    {
+      "nombre": "Claro de los restos envenenados",
+      "tipo": "lugar",
+      "etiquetas": [
+        "Claro de los restos envenenados (capítulo 40)"
+      ],
+      "referencias": [
+        "40-013",
+        "40-015",
+        "40-016"
+      ],
+      "descripcion": "Foco de vegetación marchita y cadáveres en las inmediaciones del lago al norte de Iktan.",
+      "nota": "Etiqueta geográfica descriptiva; no fija coordenadas, no abarca toda la orilla ni acredita la descontaminación posterior."
+    },
+    {
+      "nombre": "Valle Blanco",
+      "tipo": "lugar",
+      "etiquetas": [
+        "Valle Blanco (origen declarado de Ilikar)"
+      ],
+      "referencias": [
+        "40-039"
+      ],
+      "descripcion": "Lugar de las tierras frías del norte del que Ilikar declara proceder.",
+      "nota": "Procedencia declarada sin coordenadas. No se equipara con Tunkaz ni se confunde con Shiaru, donde Ilikar se ha alojado."
+    },
+    {
+      "nombre": "Muestra de veneno del claro",
+      "tipo": "objeto",
+      "etiquetas": [
+        "Muestra de veneno del claro (capítulo 40)",
+        "Muestra de veneno entregada a Walulu"
+      ],
+      "referencias": [
+        "40-026",
+        "40-035"
+      ],
+      "descripcion": "Botella de veneno recogida tras el combate y entregada por Leona a Walulu.",
+      "nota": "Una sola muestra con dos etiquetas: se desconoce el recolector inicial; la entrega sí identifica a Leona y la custodia de Walulu. El análisis queda pendiente."
+    },
+    {
+      "nombre": "Fragmento de espada bajo la roca",
+      "tipo": "objeto",
+      "etiquetas": [
+        "Fragmento de espada bajo la roca (40)"
+      ],
+      "referencias": [
+        "40-003"
+      ],
+      "descripcion": "Pieza de espada rota que Cipo extrae de debajo de una roca sostenida por Ilikar.",
+      "nota": "No se establecen propietario, antigüedad ni relación con otras espadas."
+    },
+    {
+      "nombre": "Piedra sagrada de Iktan",
+      "tipo": "objeto",
+      "etiquetas": [
+        "Piedra sagrada de Iktan (asiento de Tortas)"
+      ],
+      "referencias": [
+        "40-008",
+        "40-013",
+        "40-042"
+      ],
+      "descripcion": "Soporte venerado que ocupaba Tortas y donde Triel intenta meditar al final del festival.",
+      "nota": "Su valor sagrado está documentado. No se demuestra que otorgue brazos astrales ni otro poder propio."
     }
   ],
   "exclusiones": [

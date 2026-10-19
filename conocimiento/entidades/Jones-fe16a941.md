@@ -12,7 +12,7 @@ Base para revisar equivalencia: [26-006](../capitulos/26.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 39.
+Relato revisado hasta el capítulo 40.
 
 ### Una llegada anunciada
 

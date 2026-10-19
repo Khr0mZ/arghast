@@ -12,7 +12,7 @@ Base para revisar equivalencia: [31-023](../capitulos/31.md), [31-024](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 39.
+Relato revisado hasta el capítulo 40.
 
 ### La heredera que protege los caminos ocultos
 
@@ -25,6 +25,18 @@ Fuentes: [31-023 · La líder enmascarada exige saber quién guio a los extranje
 Naór le transmite la convocatoria del concilio de Camar y consigue su apoyo. Walulu permite que los visitantes se queden si mantienen en secreto el camino y responsabiliza también a Coyote. Cuando llega el grupo de Citlali, atiende a los heridos, cura discretamente a Etley y examina los tatuajes de la anciana. Les ofrece descanso y pide conversar con ella. Al final también trata a una elfa enferma acompañada por otro elfo, sin que se revelen sus nombres ni el resultado del tratamiento.
 
 Fuentes: [31-027 · Naór convoca un concilio y Gualulu apoya al rey](../capitulos/31.md) · 03:04:00.000 · [31-028 · Confianza limitada y secreto de ruta](../capitulos/31.md) · 03:10:00.000 · [39-017 · Iktan admite y cura a los viajeros](../capitulos/39.md) · 01:55:00.000 · [39-018 · Hospitalidad de la ciudad oculta y una elfa enferma](../capitulos/39.md) · 02:04:00.000 · [39-020 · Descanso en Iktan y expulsión de Coyote](../capitulos/39.md) · 02:12:00.000.
+
+### Una advertencia durante el festival
+
+Leona le informa del envenenamiento de Eromov y de un posible ataque yuan-ti. Walulu promete avisar a los guardias y enviar hombres con recetas y protecciones para su amigo de Cuicapalli. Ha recomendado a Triel salir para despejarse y conduce a Leona a la ceremonia del Gran Anciano. Atribuye a la tortuga más de quinientos años y se inclina cuando esta se levanta.
+
+Fuentes: [40-006 · Walulu recibe la advertencia y promete ayuda a Cuicapalli](../capitulos/40.md) · 00:23:18.240 · [40-007 · Triel sale al espectáculo y comienza la búsqueda de Cipo](../capitulos/40.md) · 00:25:50.679 · [40-010 · La tortuga mueve la cabeza y la piedra de Triel se rompe](../capitulos/40.md) · 00:36:13.800 · [40-011 · Walulu reverencia al Gran Anciano y Leona lo observa de cerca](../capitulos/40.md) · 00:41:52.560 · [40-013 · Tortas siente morir las plantas al norte de Iktan](../capitulos/40.md) · 00:52:07.799.
+
+### Proteger Iktan del dragón
+
+Al regreso ve caminar a Tortas, a quien atribuye siglos de inmovilidad. Recibe de Leona una muestra de veneno que parece potente, pero no concluye una fórmula ni explica la creación de los no muertos. Advierte que la ciudad no podría detener al dragón si lo provocan. Permite descansar a Leona y presencia el disgusto de los vecinos cuando Triel ocupa la piedra sagrada. Su conversación pendiente con Citlali sobre las marcas no se representa.
+
+Fuentes: [40-035 · Iktan recibe al protector y Walulu examina el veneno](../capitulos/40.md) · 02:23:21.439 · [40-036 · Brazos astrales de Tortas y deseo de aprender de Triel](../capitulos/40.md) · 02:25:53.120 · [40-042 · Triel ocupa la piedra sagrada y Eldrat la aparta](../capitulos/40.md) · 02:48:50.319.
 
 ## Registros y evidencias
 
@@ -99,4 +111,68 @@ Tipo: `hecho_confirmado`.
 Citlali y Etley duermen en el templo. Ella oye en la habitación contigua a los elfos y a Walulu, que tratan la enfermedad de la elfa. Ayoto y Tlachka piden habitaciones individuales en la taberna para evitar a Coyote. El director confirma que es un cambiaformas. Coyote intenta obtener el amor de Angelique sin éxito; un guardia lo expulsa y duerme fuera, cerca del poste donde lo cuelgan. Se confirma la llegada a Iktan y se sugiere que algo observa el entorno, sin identificarlo.
 
 Coyote y Citlali son personajes distintos aunque compartan jugador. El alias aportado en el contexto no acredita una identidad única.
+
+## [40-006 · Walulu recibe la advertencia y promete ayuda a Cuicapalli](../capitulos/40.md) · 00:23:18.240
+
+Tipo: `hecho_confirmado`.
+
+En el templo, Leona informa a Walulu de que Eromov ha sido envenenado por hombres serpiente y se presenta como su representante para advertir del posible ataque durante el festival. Walulu agradece el aviso, se dispone a informar a los guardias y promete enviar hombres con recetas y protecciones a Cuicapalli. Explica que Eromov es un gran amigo suyo.
+
+Se confirma la promesa y la marcha de Walulu a avisar; no la llegada de ayuda a Cuicapalli ni una curación de Eromov. El envenenamiento y la amenaza se comunican mediante el testimonio de Leona.
+
+## [40-007 · Triel sale al espectáculo y comienza la búsqueda de Cipo](../capitulos/40.md) · 00:25:50.679
+
+Tipo: `hecho_confirmado`.
+
+Walulu dice a Eldrat que su hermana ya fue al espectáculo para despejarse siguiendo su recomendación. Leona espera en un banco. Ilikar busca a Cipo y un guardia le explica que la estatua tortuga es el Gran Anciano, protector anterior a la construcción de la aldea. El guardia se suma a la búsqueda cuando Ilikar presenta al elemental como peligro de fuego. Eldrat oculta su patada diciendo que al lagarto le salieron alas; el goliat cree que es un dragón de fuego y corre hacia donde lo lanzó.
+
+La antigüedad y el papel protector son tradición comunicada por el guardia. Las alas y la condición de dragón no están confirmadas: proceden del encubrimiento de Eldrat y de la interpretación de Ilikar.
+
+## [40-010 · La tortuga mueve la cabeza y la piedra de Triel se rompe](../capitulos/40.md) · 00:36:13.800
+
+Tipo: `hecho_confirmado`.
+
+Una gran trompeta y la agitación de los vecinos convocan al festival. Walulu conduce a Leona y el guardia deja la búsqueda para reunirse con la multitud, seguido por Ilikar. Tortas gira muy lentamente la cabeza hacia el agua. Triel lanza una piedra para comprobar el movimiento, protegida de las miradas por Eldrat. El proyectil se hace pedazos antes de llegar; los observadores no perciben una acción clara del anciano. Ilikar pregunta a gritos dónde está Shiaru y toma la dirección de su mirada como respuesta.
+
+La piedra rota se observa, pero no debe atribuirse a un conjuro o mecanismo específico. La tortuga no da instrucciones verbales hacia Shiaru.
+
+## [40-011 · Walulu reverencia al Gran Anciano y Leona lo observa de cerca](../capitulos/40.md) · 00:41:52.560
+
+Tipo: `hecho_confirmado`.
+
+Walulu se inclina ante la tortuga y la identifica como el Gran Anciano, presente desde tiempos inmemoriales. Afirma que tiene más de quinientos años y que lleva generaciones sin moverse. Leona atraviesa el gentío, se planta frente a su cara para comprobar si es una estatua y comienza una competición de miradas. El anciano acerca lentamente el cuello hacia ella.
+
+La edad es un testimonio de Walulu. Su expresión de generaciones sin movimiento convive con la tradición de movimientos infrecuentes que origina el festival.
+
+## [40-013 · Tortas siente morir las plantas al norte de Iktan](../capitulos/40.md) · 00:52:07.799
+
+Tipo: `hecho_confirmado`.
+
+El anciano siente que sufren y se aprietan las plantas que crecen por sus escamas, cuello y caparazón. Al prestar atención percibe una alteración semejante a una plaga cerca de las orillas del lago al norte de Iktan: marchita y mata plantas mientras se extiende. Tortas se pone de pie, hace temblar la roca y deja caer vegetación. La población interrumpe el baile y se inclina ante un gesto que se presenta como extraordinario; Walulu también se arrodilla con su bastón.
+
+La muerte de la vegetación es una percepción del anciano confirmada por el director. No se identifica todavía causa, autor, especie ni relación con los yuan-ti o el dragón.
+
+## [40-035 · Iktan recibe al protector y Walulu examina el veneno](../capitulos/40.md) · 02:23:21.439
+
+Tipo: `hecho_confirmado`.
+
+Los guardias y vecinos de Iktan se apartan y se arrodillan al ver caminar a Tortas. Walulu dice que llevaba siglos inmóvil y que ni su bisabuela la había visto moverse así. Leona entrega una botella con la muestra recogida y atribuye a ese veneno la infección y conversión en no muertos de las criaturas combatidas. Walulu observa que parece potente y advierte que Iktan no podría detener al dragón si lo provocan y ataca la ciudad.
+
+La conversión en no muertos es la explicación que Leona da a Walulu; no aparece un análisis que pruebe mecanismo o autoría. Los siglos de inmovilidad que refiere Walulu se conservan junto a los 77 años declarados por Tortas, sin resolver la diferencia.
+
+## [40-036 · Brazos astrales de Tortas y deseo de aprender de Triel](../capitulos/40.md) · 02:25:53.120
+
+Tipo: `hecho_confirmado`.
+
+Con permiso del director para la acción de escena, Tortas manifiesta una energía verde y brazos astrales que le permiten llevar a Ilikar hacia la taberna con los brazos físicos cruzados. Los habitantes se arrodillan y lo llaman protector y señor. Ilikar toma un barril de cerveza mientras lo transportan. Triel se sube a su caparazón y le pide que le enseñe a hacer aquello. Walulu permite a Leona descansar en la taberna; ella pretende regresar después a Cuicapalli. Eldrat pide que suelten al goliat, que ya dice haber descansado.
+
+El director autoriza una manifestación para el roleo. No se define una proyección astral separada del cuerpo ni una fuerza numérica nueva. Triel todavía no aprende la técnica.
+
+## [40-042 · Triel ocupa la piedra sagrada y Eldrat la aparta](../capitulos/40.md) · 02:48:50.319
+
+Tipo: `hecho_confirmado`.
+
+Eldrat, Ilikar y Leona perciben que la población, incluida Walulu, mira con extrañeza y disgusto la piedra que antes ocupaba Tortas. Triel está sentada allí intentando meditar: cree que puede conseguir brazos astrales por imitarlo. Eldrat la reprende, la retira tirándole de la oreja y se disculpa ante Walulu por ocupar la piedra sagrada. No se manifiesta ningún poder. El capítulo termina con Tortas escondido bajo el agua y Leona e Ilikar considerando si lanzar también la cabra restante.
+
+La creencia de Triel no prueba que la piedra conceda poderes. El último lanzamiento de la cabra se debate, pero no se resuelve.
 

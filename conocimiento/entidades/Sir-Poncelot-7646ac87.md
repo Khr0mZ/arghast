@@ -12,7 +12,7 @@ Base para revisar equivalencia: [03-008](../capitulos/03.md), [11-004](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 39.
+Relato revisado hasta el capítulo 40.
 
 ### Un caballero y muchas Merlucillas
 
@@ -37,6 +37,12 @@ Fuentes: [26-010 · Pinky mata a la mosca para atraer al tigre](../capitulos/26.
 La ayuda de Poncelot permite a Ione reconocer a sus aliados sin dejar de ser loba y proteger a Blink del segundo licántropo. Después se suma a la extracción del Zampaolas: cae al agua, calma y cura al tiburón que lo perseguía y lo incorpora como Merlucilla V. Cuando Ilikar entra en la tripulación, Ione le asegura al gnomo que no lo ha reemplazado. El barco queda por fin desencajado, aunque con la proa dañada y reparaciones pendientes.
 
 Fuentes: [36-015 · Ione recupera el control e intimida al otro lobo](../capitulos/36.md) · 02:06:00.000 · [38-008 · El pulpo agarra a Ione e Ilikar hiere a un tiburón](../capitulos/38.md) · 01:02:00.000 · [38-009 · Poncelot calma y cura al tiburón](../capitulos/38.md) · 01:12:00.000 · [38-015 · El Zampaolas queda desencajado](../capitulos/38.md) · 01:58:00.000 · [38-018 · Ione tranquiliza a Poncelot y se revela la propiedad del cofre](../capitulos/38.md) · 02:17:00.000.
+
+### Un aliado propuesto desde Iktan
+
+Ilikar propone incorporarlo a la caza del dragón junto con Ione y le atribuye grandes hazañas contra dragones, dinosaurios y gigantes. Esas proezas pertenecen al relato del goliat, no se representan en esta sesión. Eldrat considera visitar a ambos; no hay invitación ni aceptación mostradas.
+
+Fuentes: [40-039 · Origen de Ilikar y posibles aliados en Shiaru](../capitulos/40.md) · 02:36:36.680.
 
 ## Registros y evidencias
 
@@ -1735,4 +1741,12 @@ Tipo: `hecho_confirmado`.
 Ione quiere una revancha y pide a Poncelot que la enfade. Él teme que lo sustituyan, pero ella reafirma su confianza y le asegura que no será reemplazado. La emoción la transforma en loba; abraza y lame al gnomo y prepara el duelo con Ilikar, sin que se muestre el resultado. Erandy encuentra parecido el jade a otro anterior. En una escena reservada, un hipopótamo arroja al agua el cofre vacío y se ve una placa de propiedad de Happy Bonnie.
 
 Según el director, los personajes no observan la placa porque están distraídos. No se acredita un robo intencional con conocimiento de la propietaria; las consecuencias quedan pendientes.
+
+## [40-039 · Origen de Ilikar y posibles aliados en Shiaru](../capitulos/40.md) · 02:36:36.680
+
+Tipo: `declaracion_personaje`.
+
+Ilikar declara que procede de Valle Blanco, en las tierras frías del norte. Quiere un trofeo con el que hacerse amigo de un líder y del que su capitana esté orgullosa; Eldrat intenta atraerlo con posibles combates y premios posteriores. Ilikar dice que debe volver a Shiaru y propone sumar la fuerza de su capitana Ione y de Sir Poncelot. Atribuye a Poncelot la muerte de dragones, dinosaurios y gigantes del bosque. Eldrat considera visitarlos y propone competiciones de natación, robo, combate y lanzamiento para prepararse; Ilikar ofrece costumbres de fuerza de su tierra.
+
+Las hazañas de Poncelot se transmiten como testimonio de Ilikar; no se revisitan ni verifican en esta escena. Ione y Poncelot no están presentes ni aceptan participar. El lanzamiento de una cabra a 142 metros es un recuerdo contado durante la broma de los juegos.
 
