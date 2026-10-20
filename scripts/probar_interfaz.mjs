@@ -121,8 +121,21 @@ try {
   await check('El capítulo 40 incluye sus 42 evidencias','document.querySelectorAll(".event").length===42');
   await route('#registro/40-035');
   await check('La entrega del veneno enlaza el vídeo y su contexto','document.querySelector(".quote").textContent.length>0&&document.querySelector(".evidence a").href.includes("LBuXKKhfGlY")&&document.querySelectorAll(".context-details .transcript-row").length>0');
+  await route('#capitulo/41');
+  await check('El capítulo 41 abre su relato completo en diez etapas','document.querySelector("[data-tab=relato]").classList.contains("active")&&document.querySelectorAll(".story-stage").length===10&&document.getElementById("content").innerText.includes("Tentacol")');
+  await screenshot('capitulo-41-escritorio');
+  await evaluate('document.querySelector("[data-tab=hechos]").click()');
+  await check('El capítulo 41 incluye sus 55 evidencias','document.querySelectorAll(".event").length===55');
+  await evaluate('document.querySelector("[data-tab=preguntas]").click()');
+  await check('Las once preguntas del capítulo 41 conservan seguimiento','document.querySelectorAll(".question-card").length===11&&[...document.querySelectorAll(".question-card")].every(card=>card.dataset.status==="pendiente")');
+  await route('#registro/41-023');
+  await check('La muerte de la infiltrada enlaza la nueva fuente y su contexto','document.querySelector(".quote").textContent.length>0&&document.querySelector(".evidence a").href.includes("vB6Y1LQ2IaM")&&document.querySelectorAll(".context-details .transcript-row").length>0');
+  await route('#entidad/Tentacol');
+  await check('Tentacol tiene historia y fuentes navegables','document.querySelectorAll(".story-stage").length===2&&document.querySelectorAll(".story-sources a").length>0&&document.getElementById("content").innerText.includes("Chopito")');
+  await route('#pregunta/P40-007');
+  await check('Cipo queda localizado y el fragmento sigue pendiente','document.querySelector(".question-card").dataset.status==="parcial"&&document.getElementById("content").innerText.includes("Tentacol")&&document.getElementById("content").innerText.includes("fragmento de espada")');
   await route('#entidad/Tortas');
-  await check('Tortas tiene historia con sus tres etapas y evidencias','document.querySelectorAll(".story-stage").length===3&&document.getElementById("content").innerText.includes("77")');
+  await check('Tortas conserva su historia actualizada y las edades discrepantes','document.querySelectorAll(".story-stage").length===JSON.parse(document.getElementById("xoltacan-data").textContent).entities.find(e=>e.name==="Tortas").history.etapas.length&&document.getElementById("content").innerText.includes("77")');
   for(const section of ['misterios','misiones','relaciones','nombres','metodo']){await route('#'+section);if(section==='misterios')await evaluate('document.querySelector("details.context-details").open=true');await check('Documento '+section,'document.querySelector(".document").innerText.length>100');}
   for(const [section,type] of [['personajes','personaje'],['atlas','lugar'],['facciones','faccion'],['objetos','objeto']]){
     await route('#'+section);
@@ -176,7 +189,7 @@ try {
   await route('#capitulos');await screenshot('capitulos-escritorio');
   for(const width of [320,768]){
     await call('Emulation.setDeviceMetricsOverride',{width,height:900,deviceScaleFactor:1,mobile:width<560});
-    for(const section of ['personajes','capitulo/39','capitulo/40','misterios','entidad/Ione','entidad/Tortas','entidad/Shiaru','entidad/Marina','entidad/Zampaolas']){
+    for(const section of ['personajes','capitulo/39','capitulo/40','capitulo/41','misterios','entidad/Ione','entidad/Tortas','entidad/Tentacol','entidad/Shiaru','entidad/Marina','entidad/Zampaolas']){
       await route('#'+section);
       await check('Códice sin desbordamiento a '+width+' px en '+section,'document.documentElement.scrollWidth<=window.innerWidth');
     }
@@ -195,6 +208,7 @@ try {
   await screenshot('misterios-movil');
   await route('#capitulo/39');await screenshot('capitulo-movil');
   await route('#capitulo/40');await screenshot('capitulo-40-movil');
+  await route('#capitulo/41');await screenshot('capitulo-41-movil');
   await route('#personajes');await screenshot('personajes-movil');
   await route('#entidad/Ione');await screenshot('historia-personaje-movil');
   await route('#entidad/Zampaolas');await screenshot('relato-objeto-movil');

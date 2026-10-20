@@ -12,7 +12,7 @@ Base para revisar equivalencia: [16-015](../capitulos/16.md), [30-003](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 40.
+Relato revisado hasta el capítulo 41.
 
 ### El dirigente que abre Cuicapalli a los viajeros
 
@@ -31,6 +31,12 @@ Fuentes: [22-018 · Blink en peligro y arco venenoso](../capitulos/22.md) · 03:
 Leona lo describe todavía envenenado y cuenta que la envió a Iktan para prevenir un ataque durante el festival. Guayacán queda cuidándolo. Walulu lo llama amigo y promete enviar recetas y protecciones. Esto documenta un nuevo encargo referido por Leona y una oferta de apoyo, sin mostrar el envío ni la administración de un antídoto.
 
 Fuentes: [40-002 · La enfermedad de Triel y el encargo de Leona](../capitulos/40.md) · 00:01:42.600 · [40-006 · Walulu recibe la advertencia y promete ayuda a Cuicapalli](../capitulos/40.md) · 00:23:18.240.
+
+### La atribución de Walulu sigue sin una cura
+
+Walulu identifica a la infiltrada como parte del grupo que lo envenenó y recuerda la información transmitida por Leona. Eso amplía la atribución de la dirigente, sin señalar al individuo que contaminó la comida. La sesión no muestra la llegada de la ayuda prometida, un antídoto administrado o la recuperación de Eromov.
+
+Fuentes: [41-015 · Walulu confirma las precauciones tras el aviso de Leona](../capitulos/41.md) · 00:42:00.000 · [41-019 · Walulu vincula la infiltración con el veneno de Eromov](../capitulos/41.md) · 00:48:00.000.
 
 ## Registros y evidencias
 
@@ -249,4 +255,20 @@ Tipo: `hecho_confirmado`.
 En el templo, Leona informa a Walulu de que Eromov ha sido envenenado por hombres serpiente y se presenta como su representante para advertir del posible ataque durante el festival. Walulu agradece el aviso, se dispone a informar a los guardias y promete enviar hombres con recetas y protecciones a Cuicapalli. Explica que Eromov es un gran amigo suyo.
 
 Se confirma la promesa y la marcha de Walulu a avisar; no la llegada de ayuda a Cuicapalli ni una curación de Eromov. El envenenamiento y la amenaza se comunican mediante el testimonio de Leona.
+
+## [41-013 · El golpe de Winscore provoca la intervención del guardia](../capitulos/41.md) · 00:35:30.000
+
+Tipo: `hecho_confirmado`.
+
+Winscore encanta su bastón y golpea en la cabeza a la sospechosa, que cae y protesta. Un guardia sujeta al enano y pide explicaciones. Winscore acusa a la mujer de ser una serpiente infiltrada que intenta convencer a alguien de llevarse la tortuga. Durante la discusión se pide hacer que huela a serpiente. El guardia percibe el olor y conduce a ambos ante la autoridad. Winscore relata el antecedente de enemigos con disfraces mágicos y el envenenamiento de otro dirigente.
+
+El olor fue solicitado artificialmente, no es prueba natural independiente. La acusación de envenenar el pueblo es de Winscore; no se demuestra nueva contaminación. El ASR no permite fijar autor ni nombre del recurso que produce el olor.
+
+## [41-019 · Walulu vincula la infiltración con el veneno de Eromov](../capitulos/41.md) · 00:48:00.000
+
+Tipo: `declaracion_personaje`.
+
+Naór y Blink ven a la prisionera y preguntan qué sucede. Walulu afirma ante Naór que pertenece al grupo que envenenó a Eromov. Explica que aumentaron la vigilancia tras la información de Leona, pero parece que los enemigos se colaron, y propone buscar más. Una de las recién llegadas se marcha corriendo al oír hablar de serpientes. Los demás plantean buscar magia y averiguar el objetivo de la cautiva.
+
+La atribución al grupo es de Walulu, sin prueba de que esta mujer administrara el veneno. No queda nombrada la voz de quien sale: cotejar la continuación antes de atribuir a Naór o Blink.
 

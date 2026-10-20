@@ -1,0 +1,195 @@
+{
+  "capitulo": 41,
+  "bloque": 3,
+  "fuente": "xoltacan_subtitulos/subtitulos/41 - vB6Y1LQ2IaM.es-orig.vtt",
+  "fuente_leida": "borradores/41/lectura_bloque_3.md",
+  "fuente_sha256": "adebd167844d7ee8d71cfa956de20d4403e244ec00146fa8f8f19d29edb8159b",
+  "intervalo_leido": ["01:42:01.320", "02:31:43.520"],
+  "intervalo_leido_completo": ["01:42:01.320", "02:31:43.520"],
+  "lectura_completa": true,
+  "estado_revision": "Bloque leído íntegro en tres tramos; anclas cotejadas con sus cues. Pendiente de integración editorial del coordinador. Audio no cotejado.",
+  "convencion_referencias": "B3-01 a B3-17 identifican los registros locales en orden, empezando por uno; no son identificadores finales del capítulo.",
+  "resumen": "El combate continúa con Naór atrapada por la cola de una criatura serpentina, que también la hiere con cimitarra y mordisco venenoso. Un enemigo cegado trata de curarse y mantiene una protección que dificulta atacarlo. Blink libera a Naór mediante telequinesis y la agranda. Tentacol utiliza un tentáculo y descargas para dañar, ralentizar y apartar a los adversarios. Un arquero oculto entre las ramas alcanza a Blink con flechas envenenadas, aunque ella conserva la concentración. Un combatiente del grupo deja inconsciente a uno de los enemigos mediante daño no letal. Naór recibe golpes muy fuertes, pero el grupo combina protecciones, curación, ceguera, movimientos y ataques para sostener el combate. Blink utiliza el conjuro Blink y ataques psíquicos, mientras Winscore combate con su bastón y Tentacol sigue protegiendo a sus compañeros y disparando. Finalmente derrotan a la abominación que seguía luchando. Queda un enemigo vivo al que registran y atan para interrogarlo; el registro proporciona veinticuatro monedas de oro. Examinan las cimitarras de buena factura y sospechan una organización mayor, sin identificar a un herrero o dirigente. Naór recoge dos cabezas para Leo y Walulu. Blink atiende sus heridas y Tentacol devuelve a Chopito a una botella. Entonces una voz enorme exige que dejen los cuerpos en el bosque para alimentarse. Todos escuchan la voz, pero Tentacol no siente la compulsión que afecta a los demás; la sugerencia jocosa de que Chopito lo protege no demuestra por sí sola una inmunidad. Chopito presenta al emisor como un súbdito suyo y pide a Tentacol que deje los cuerpos, sin que esa jerarquía quede confirmada. Winscore recoge los venenos y Naór carga a sus compañeros rumbo a Iktan. Al mirar atrás, Winscore ve un dragón verde entre las ramas. El director permite llevarse las cabezas pese a dejar los cuerpos; no se muestra que el prisionero sea trasladado, interrogado ni devorado. En Iktan, el grupo presencia cómo Tortas se mueve y habla ante la población. Naór se arrodilla, ofrece las cabezas y llora porque por fin lo ha visto moverse; el anciano recuerda sus primeros bigotes. Winscore se presenta como explorador y el grupo explica la leyenda de que Iktan se construyó alrededor de Tortas. Blink se acerca y le aparta el pelo del rostro. Al rozarla con la nariz, Tortas reconoce un olor del bosque que lleva percibiendo muchos años; el director confirma que es olor de dragón verde. Blink relaciona su presencia con la voz que los hizo dejar las presas, pero la naturaleza exacta del rastro mágico sigue siendo una propuesta de ella. Naór trae a Leo desde la taberna para que vea al anciano. Tortas intenta recordar y deletrear el nombre del dragón, mientras Winscore lo apunta; la transcripción no permite fijar su grafía. El director aclara que Tortas no sabe dónde está la guarida. La noche cae, la fiesta se disuelve y el episodio termina con el anciano aún intentando pronunciar el nombre y Leo vencido por el sueño. No se combate al dragón, no se completa un interrogatorio y no se establece relación de mando entre el dragón y los hombres serpiente.",
+  "registros": [
+    [
+      "01:42:01.320", "01:45:40.790", "Naór queda atrapada y sufre veneno durante el combate", "hecho_confirmado",
+      "La criatura serpentina enrosca la cola alrededor de Naór, la retiene y continúa atacándola con una cimitarra y un mordisco que introduce veneno. Otro enemigo cegado intenta curarse y conserva una protección mágica que dificulta atacarlo. El combate sigue abierto y el rugido con que Naór trata de intimidar no doblega a su adversario.",
+      ["Naór", "Yuan-ti"],
+      "intentar como enroscarte.", "combate y estado físico de Naór", [], "desconocido",
+      "El comienzo del bloque continúa un turno ya iniciado. La identificación de los combatientes serpentinos como yuan-ti se coteja con los bloques anteriores; no se fija una subespecie de bestiario. Que un enemigo intente curarse no demuestra una curación total."
+    ],
+    [
+      "01:45:40.800", "01:47:19.350", "Blink libera y agranda a Naór", "hecho_confirmado",
+      "Blink utiliza telequinesis para sacar a Naór del agarre de la cola; el director confirma el éxito. Después emplea Enlarge para aumentar el tamaño de su compañera y dificultar que vuelvan a sujetarla. Se retira hacia la posición del aliado que dispara descargas.",
+      ["Blink", "Naór", "Tentacol"],
+      "Vale, pues consigue sacar a a Naor.", "auxilio mágico entre compañeros", [], "desconocido",
+      "La liberación y el aumento de tamaño son efectos observados. Las cifras de daño y ventajas se discuten como reglas de combate; no se convierten en atributos permanentes de Naór."
+    ],
+    [
+      "01:47:19.360", "01:50:16.000", "Tentacol aparta enemigos y Blink recibe flechas envenenadas", "hecho_confirmado",
+      "Tentacol mueve su tentáculo e intenta atacar con él; después sus descargas empujan y ralentizan a un enemigo. Un arquero oculto entre las ramas dispara contra Blink. Las flechas van envenenadas, la hieren y le obligan a mantener la concentración, que logra conservar en las tiradas mostradas.",
+      ["Tentacol", "Chopito", "Blink", "Yuan-ti"],
+      "Ves que te cae ese flechazo que va", "ataques a distancia y protección de la concentración", [], "desconocido",
+      "No atribuir a Chopito cada efecto del tentáculo sin el contexto mecánico previo. El daño a Blink no implica que pierda el conjuro que mantiene ni una lesión permanente."
+    ],
+    [
+      "01:50:16.000", "01:51:45.990", "El grupo conserva con vida a un enemigo", "hecho_confirmado",
+      "Un combatiente del grupo insiste en que sus ataques son no letales y deja inconsciente al enemigo que estaba en el suelo. Se aleja después. La supervivencia del adversario se vuelve a confirmar al terminar el combate, cuando el grupo prepara un interrogatorio.",
+      ["Yuan-ti"],
+      "no letal como declaro ya antes varias", "captura en combate", [], "desconocido",
+      "En este tramo no se nombra de forma inequívoca al hablante que declara el daño no letal; el coordinador podrá cotejar el turno con los bloques anteriores. No se afirma que el cautivo sea trasladado o interrogado."
+    ],
+    [
+      "01:51:46.000", "01:58:11.109", "El grupo protege a Naór y Blink busca refugio mágico", "hecho_confirmado",
+      "La criatura vuelve contra Naór y la alcanza con varios ataques fuertes. Sus compañeros combinan una reacción mágica y Guardian Coil para reducir el daño. Naór contraataca, provoca ceguera y se cura parcialmente. Aprovecha esa ceguera para alejarse sin recibir un ataque de oportunidad. Blink, herida, busca cobertura detrás de Naór y utiliza el conjuro Blink, cuyo funcionamiento describe como desapariciones intermitentes al plano etéreo.",
+      ["Naór", "Blink", "Tentacol", "Chopito", "Yuan-ti"],
+      "y uso el blink", "defensa, retirada y recursos mágicos", [], "desconocido",
+      "No se determina quién lanza cada reacción únicamente por la voz. La frase sobre encontrarse un dragón azul en el plano etéreo es una broma de mesa: no confirma un encuentro ni un segundo dragón. La descripción del conjuro no demuestra una estancia prolongada fuera del combate."
+    ],
+    [
+      "01:58:11.119", "02:04:00.000", "Winscore entra en el intercambio de golpes", "hecho_confirmado",
+      "Los ataques del tentáculo y las descargas vuelven a dañar, ralentizar y empujar a una de las serpientes. Otra intenta apresar a Winscore con la cola y falla; la cimitarra sí lo alcanza, aunque una reacción reduce el daño. El explorador responde con golpes de bastón y una marca sobre el enemigo, y obtiene un impacto crítico. El adversario cegado continúa moviéndose e intentando disparar hacia el grupo.",
+      ["Winscore", "Tentacol", "Yuan-ti"],
+      "te va a mirar a ti Winscore", "combate de Winscore y apoyo del grupo", [], "desconocido",
+      "La marca y los daños añadidos son recursos utilizados en la escena, sin inferir una propiedad nueva del bastón ni una transformación permanente."
+    ],
+    [
+      "02:04:00.000", "02:08:00.000", "Blink ataca la mente del enemigo y el grupo sostiene a Winscore", "hecho_confirmado",
+      "Blink utiliza metamagia y ataques psíquicos para herir a una de las criaturas y obligarla a desplazarse, hasta agotar el movimiento disponible. Vuelve a buscar cobertura cerca de Naór. Tentacol continúa sus ataques con tentáculo y descargas. La criatura regresa contra Winscore; falla al intentar enredarlo, pero lo hiere con la cimitarra. Una reacción vuelve a reducir el daño y Winscore mantiene la concentración que estaba sosteniendo.",
+      ["Blink", "Naór", "Tentacol", "Winscore", "Yuan-ti"],
+      "No va a poder alejarse más.", "control de movimiento y defensa coordinada", [], "desconocido",
+      "Las conversaciones sobre qué conjuro debería haberse elegido no acreditan un lanzamiento adicional. El director limita el desplazamiento forzado por el movimiento restante."
+    ],
+    [
+      "02:08:00.000", "02:12:16.350", "La abominación cae tras los últimos ataques", "hecho_confirmado",
+      "Winscore y Naór continúan atacando. Blink intenta otro ataque psíquico y trata de mover a Winscore por telequinesis, sin conseguir desplazarlo en la resolución mostrada. Tentacol vuelve a mover el tentáculo y a disparar. El director confirma que acaban con la abominación que aún combatía.",
+      ["Winscore", "Naór", "Blink", "Tentacol", "Yuan-ti"],
+      "Y veis que acabáis con esa abominación.", "desenlace del combate", [], "desconocido",
+      "La derrota de la abominación no supone la muerte del enemigo que habían dejado inconsciente. No se atribuye el golpe final a una persona concreta fuera de la secuencia de turnos que muestra la fuente."
+    ],
+    [
+      "02:12:16.360", "02:14:25.189", "Un prisionero y armas bien forjadas para investigar", "hecho_confirmado",
+      "El grupo confirma que queda un enemigo vivo y pide que no lo maten para poder interrogarlo. Lo registran y lo atan para impedir que escape. El registro proporciona veinticuatro monedas de oro. Examinan las grandes cimitarras y el director confirma su buena factura. Los personajes interpretan ese equipamiento como señal de una organización mayor y proponen trasladar los cuerpos discretamente a la aldea y avisar a su dirigente.",
+      ["Yuan-ti", "Walulu", "Iktan"],
+      "No lo matéis, es para interrogarlo.", "cautivo, botín e investigación", [], "desconocido",
+      "No se identifica al herrero, al proveedor ni a un mando enemigo. La organización mayor es una conclusión de los personajes. La propuesta de traslado y el interrogatorio todavía no se ejecutan en esta parte."
+    ],
+    [
+      "02:13:27.760", "02:14:03.310", "Cabezas para Leo y Walulu y regreso de Chopito a la botella", "hecho_confirmado",
+      "Naór corta dos cabezas de los adversarios vencidos: una como recuerdo para Leo y otra como prueba para Walulu. Blink se apoya en una roca y se tapa las heridas. Tentacol recoge a Chopito y lo introduce de nuevo en una botella.",
+      ["Naór", "Leo", "Walulu", "Blink", "Tentacol", "Chopito", "Yuan-ti"],
+      "Yo le quiero llevar un recuerdo a a Leo", "pruebas del combate y cuidado inmediato", [], "desconocido",
+      "La futura entrega a Walulu se anuncia; no aparece una conversación de entrega o un análisis suyo en este bloque. Las cabezas proceden de los vencidos, sin atribuirles nombres ni confundirlas con el prisionero vivo."
+    ],
+    [
+      "02:14:26.760", "02:16:17.870", "Una voz obliga a dejar los cuerpos en el bosque", "hecho_confirmado",
+      "Tras una salvación de sabiduría, el grupo escucha una voz enorme que les sugiere dejar los cuerpos en el bosque para que pueda alimentarse. El director describe que sienten que deben obedecer. Tentacol también escucha la voz, pero no experimenta esa compulsión. Cuando discuten si el prisionero vivo cuenta como cuerpo, el director aclara que también es un cuerpo; no se llega a resolver un traslado suyo.",
+      ["Naór", "Winscore", "Blink", "Tentacol", "Chopito", "Dragón verde del bosque de Iktan", "Yuan-ti"],
+      "menos tenta, ¿vale? Tú escuchas esa voz,", "influencia mental y destino de los cuerpos", [], "desconocido",
+      "El emisor no se nombra en el momento de la orden. La posterior visión del dragón y el olor reconocido por Tortas contextualizan el episodio. El comentario de que quizá Chopito evita el efecto es tentativo y jocoso; no fija una inmunidad o una habilidad protectora nueva."
+    ],
+    [
+      "02:16:18.119", "02:16:37.790", "Chopito presenta al emisor como un súbdito", "declaracion_personaje",
+      "Chopito dice a Tentacol que la voz pertenece a uno de sus súbditos, que necesita alimentarse para fortalecerse, y le pide que no toque los cuerpos. Esa explicación persuade dentro de la escena, pero no prueba una relación de vasallaje entre Chopito y el ser del bosque.",
+      ["Chopito", "Tentacol", "Dragón verde del bosque de Iktan"],
+      "uno de mis súditos que nos pide que", "explicación de Chopito para dejar los cuerpos", [], "desconocido",
+      "Conservar como declaración de Chopito, sin convertir la broma o su propia pretensión de poder en jerarquía confirmada. No todos los personajes reciben necesariamente esta comunicación del mismo modo."
+    ],
+    [
+      "02:16:37.800", "02:18:04.389", "Naór evacua al grupo y Winscore ve un dragón verde", "hecho_confirmado",
+      "Winscore recoge los recipientes de veneno de los enemigos. Naór, aún agrandada, carga a sus compañeros y corre hacia Iktan, describiendo al emisor como la serpiente alada que susurra desde el bosque. Al mirar atrás entre las ramas, Winscore ve un dragón verde y el director lo confirma. El grupo deja los cuerpos, pero el director permite que Naór se lleve las cabezas cortadas. Llegan al poblado huyendo.",
+      ["Naór", "Winscore", "Blink", "Tentacol", "Iktan", "Dragón verde del bosque de Iktan", "Yuan-ti"],
+      "Ah, bonito dragón verde.", "avistamiento del dragón y retirada a Iktan", ["Winscore"], "desconocido",
+      "Winscore es el observador explícito del dragón. La retirada no incluye un combate con él ni su persecución hasta la guarida. No se muestra al prisionero llegando a la aldea, recuperando la conciencia o siendo comido; su desenlace queda abierto."
+    ],
+    [
+      "02:18:04.399", "02:20:48.870", "Naór presencia el movimiento de Tortas y ofrece las cabezas", "hecho_confirmado",
+      "De vuelta en Iktan, el grupo encuentra a la población reunida ante la gran tortuga venerada como estatua. Tortas se mueve muy lentamente, mira alrededor y habla. Naór coloca las cabezas como ofrenda, se arrodilla y llora porque lleva visitando el lugar desde pequeña y nunca había conseguido verlo moverse. Tortas dice recordar sus primeros bigotes y la llama Bigotitos.",
+      ["Tortas", "Naór", "Iktan", "Yuan-ti"],
+      "visto moverse y encima habla.", "encuentro con el anciano y vínculo de infancia", [], "desconocido",
+      "Las cabezas se ofrecen a Tortas en esta escena, aunque Naór las había destinado antes a Leo y Walulu. La sorpresa de este grupo no implica que Tortas estuviera inmóvil entre los capítulos 40 y 41 ni que se repita cronológicamente su despertar."
+    ],
+    [
+      "02:20:48.880", "02:24:09.309", "Winscore y Blink se presentan ante el anciano", "hecho_confirmado",
+      "Naór presenta a Winscore a Tortas. El enano se identifica como explorador y expresa que busca los tesoros de aquellas tierras, aunque hasta ahora encuentra serpientes. Se cuenta la leyenda de que Iktan fue construida alrededor del anciano. Tortas resta importancia al tiempo que lleva allí. Blink se presenta, se acerca y aparta el pelo que le cubre el rostro; el anciano termina rozándola con la nariz para verla.",
+      ["Naór", "Winscore", "Blink", "Tortas", "Iktan"],
+      "Buenas, Wincor. Explorador.", "presentaciones y tradición de Iktan", [], "desconocido",
+      "La construcción de Iktan alrededor de Tortas se cuenta como leyenda; no se fija una fecha de fundación ni una edad exacta. El diálogo jocoso sobre ser milenario no resuelve los testimonios incompatibles del capítulo 40."
+    ],
+    [
+      "02:24:09.319", "02:26:36.070", "Tortas reconoce el olor del dragón verde en Blink", "hecho_confirmado",
+      "Al olfatear a Blink, Tortas percibe un olor familiar que lleva notando muchos años en el bosque. El director lo vincula a la gran serpiente del bosque y confirma después que es olor de dragón verde. Blink cuenta que, tras derrotar a las criaturas, algo les habló en la cabeza y les ordenó dejar las presas; propone que aún conserva un rastro del aura o de la magia usada.",
+      ["Tortas", "Blink", "Dragón verde del bosque de Iktan"],
+      "Sí, sí, sí. Huele es a dragón,", "reconocimiento sensorial y relato de la voz", [], "desconocido",
+      "El reconocimiento del olor sí recibe confirmación. La explicación concreta como rastro de un aura es una propuesta de Blink. Esta percepción olfativa por contacto no transforma la percepción del veneno del capítulo 40 en una capacidad general de localizar dragones."
+    ],
+    [
+      "02:26:36.080", "02:31:43.520", "Leo llega al encuentro y la guarida sigue sin localizarse", "hecho_confirmado",
+      "Naór va a la taberna y trae a Leo para que vea a Tortas. Durante la conversación se expresa poca disposición a combatir a un dragón y Winscore empieza a apuntar el nombre y los datos que el anciano intenta recordar. Tortas dice conocer el nombre y comienza a deletrearlo con mucha lentitud. La transcripción alterna formas irreconocibles y no completa una grafía segura. Cuando preguntan por la guarida, el director aclara que Tortas no sabe dónde está. Se hace de noche, la gente abandona la fiesta y Leo empieza a dormirse mientras Naór intenta mantenerlo atento. La sesión termina con el anciano todavía pronunciando el nombre.",
+      ["Naór", "Leo", "Winscore", "Tortas", "Iktan", "Dragón verde del bosque de Iktan"],
+      "No, la guarida no sabe dónde está. No", "nombre, guarida pendiente y cierre del festival", [], "desconocido",
+      "Los enunciados sobre el roble rojo y subir una montaña no se establecen como ruta; el director corrige expresamente que desconoce la guarida. El deletreo incompleto no autoriza a fijar Colgen o Clodidrax ni a fusionar sus fichas. El comentario de Chopito sobre cuatro horas no confirma una duración literal de esta escena."
+    ]
+  ],
+  "misiones": [
+    "Interrogar a un hombre serpiente: el grupo conserva a uno con vida, lo registra y ata, pero la intervención de la voz les hace abandonar los cuerpos. No se representa el interrogatorio ni el traslado del cautivo a Iktan; conservar el destino como pendiente (B3-04, B3-09, B3-11, B3-13).",
+    "Reunir pruebas de los atacantes: se obtienen veinticuatro monedas, se examinan las cimitarras de buena factura, Winscore recoge los venenos y Naór corta dos cabezas. Se pretendía entregar una prueba a Walulu, pero las cabezas se ofrecen después ante Tortas. No se muestra que Walulu reciba o analice nada en este bloque (B3-09, B3-10, B3-13, B3-14).",
+    "Investigar al dragón verde: Winscore lo ve en el bosque y Tortas reconoce su olor en Blink. El anciano intenta facilitar su nombre, pero se conserva la grafía dudosa; el director aclara que desconoce la guarida. No se ejecuta el pacto de caza e interrogatorio de Eldrat e Ilikar del capítulo 40 (B3-13, B3-16, B3-17).",
+    "Mostrar el anciano a Leo: Naór lo trae de la taberna al final de la fiesta para presenciar a Tortas hablando y moviéndose. Se completa el traslado y la presencia del niño, aunque este se queda dormido (B3-17)."
+  ],
+  "preguntas": [
+    "¿Qué ocurre finalmente con el cautivo vivo después de la orden de dejar los cuerpos en el bosque? Se le ata para interrogarlo, pero no vuelve a describirse su traslado ni un interrogatorio. Tampoco se muestra que el dragón lo devore (B3-09, B3-11, B3-13).",
+    "¿Quién fabrica y proporciona las cimitarras bien forjadas de los hombres serpiente? La factura inspira una sospecha de organización; no identifica herrero, proveedor o mando (B3-09).",
+    "¿Cuál es la relación entre los hombres serpiente y el dragón que reclama sus cuerpos? La proximidad y su intención de alimentarse no prueban alianza, control ni autoría del ataque (B3-11, B3-13).",
+    "¿Cuál es la grafía del nombre de la Serpiente del Bosque y se corresponde con Clodidrax? El deletreo no queda claro en los subtítulos y no aparece identificación expresa con la ficha del capítulo 39 (B3-16, B3-17).",
+    "¿Dónde está la guarida del dragón? El director aclara que Tortas no lo sabe, por lo que las bromas previas sobre una ruta no constituyen respuesta (B3-17).",
+    "¿Por qué Tentacol no siente la compulsión de la voz? El director describe la excepción, pero su sugerencia de que quizá Chopito lo protege no establece la causa (B3-11).",
+    "¿Qué muestra o prueba recibirá Walulu y qué relación tiene el veneno recogido con las otras fuentes de infección del bosque? Se obtienen recipientes, pero en este bloque no se entrega ni analiza una muestra (B3-10, B3-13)."
+  ],
+  "contradicciones": [
+    "Naór llama estatua a Tortas y celebra verlo moverse por primera vez; esto describe la experiencia de ella, sin contradecir los movimientos y acciones de Tortas presenciados por otro grupo en el capítulo 40. No repetir un despertar ni imponer una cronología entre ambos grupos sin revisar el episodio completo (B3-14).",
+    "Tortas reconoce por olfato el rastro dracónico de Blink al tocarla. El capítulo 40 limitaba su percepción de las zonas envenenadas y no le permitía localizar directamente al dragón. Conservar ambas circunstancias; el nuevo reconocimiento no elimina aquel límite (B3-16).",
+    "El grupo quiere interrogar al cautivo, pero la voz pide dejar todos los cuerpos. La aclaración del director incluye al vivo y no narra su destino después. No cerrar la misión como interrogatorio completado ni declarar muerto al prisionero (B3-09, B3-11, B3-13).",
+    "La cabeza que Naór quería para Walulu se incluye después en las ofrendas ante Tortas. No inventar una entrega posterior a la chamana ni afirmar que desaparece del inventario de forma definitiva sin seguimiento (B3-10, B3-14).",
+    "Chopito llama súbdito al emisor de la voz. Se conserva como afirmación del propio Chopito, sin dar por confirmada una subordinación del dragón (B3-12).",
+    "El director niega que Tortas conozca la guarida después de los comentarios sobre una ruta. La respuesta explícita prevalece para la ubicación; no convertir el roble rojo o la montaña en coordenadas (B3-17).",
+    "El chiste sobre un dragón azul del plano etéreo no es un encuentro. El único dragón visualmente confirmado dentro del bloque es el verde que ve Winscore (B3-05, B3-13).",
+    "Tortas habla de pasar muchos años en el bosque y el diálogo juega con ser milenario, pero este bloque no resuelve los 77 años declarados frente a los siglos que Walulu le atribuye en el capítulo 40 (B3-15, B3-16)."
+  ],
+  "nombres_dudosos": [
+    "El grupo de este bloque está formado por Naór, Blink, Winscore y Tentacol; no confundir Naór, leonina, con Leona, harengon del capítulo 40. La expresión super leona describe a Naór agrandada.",
+    "Winscore/Winscor/Whiscor/Wincor son variantes del explorador enano que se presenta expresamente. Usar la identidad Winscore ya catalogada.",
+    "Tentacol/Tentac/Tenta se coordinan con la presentación del bloque 1; la grafía es provisional. No crear un segundo personaje a partir de Det en el reconocimiento de 01:47.",
+    "Chopito/Chapito es el pulpo que Tentacol lleva en un recipiente y al que trata como dios. La condición divina no queda demostrada por esa devoción o por los chistes.",
+    "Colgen (02:27:28.800 y 02:28), Los del Grax for Snake (02:25:43.040) y las letras sueltas del deletreo son reconocimientos insuficientes del nombre del dragón. Mantener la ficha descriptiva del Dragón verde del bosque de Iktan sin fijar nuevo nombre ni fusionar con Clodidrax.",
+    "Gran torta/torta/estatua/señor tortuga corresponden al anciano Tortas en esta escena; no crean otra estatua viviente distinta. Ictan/Itan son Iktan por el contexto del festival y sus habitantes.",
+    "Bigotitos es el apelativo que Tortas da a Naór durante el encuentro, no una identidad nueva. Leo es el niño harengon que ella trae de la taberna, no Leona."
+  ],
+  "propuestas_entidades": [
+    {
+      "nombre": "Tentacol",
+      "tipo": "personaje",
+      "grafia": "provisional; coordinar con bloque 1",
+      "descripcion": "Compañero del grupo que utiliza descargas y un tentáculo, cuida de Chopito y le rinde devoción.",
+      "historia_bloque": "Contribuye al combate mediante daño, empujes, ralentización y protección. Devuelve a Chopito a una botella. Escucha la voz del bosque, pero no siente su compulsión. Tras la explicación de Chopito, el grupo se retira a Iktan.",
+      "limite": "La excepción a la compulsión no se atribuye con certeza a una habilidad o al poder de Chopito. No identificarlo con personajes anteriores por la apariencia o el sonido del nombre."
+    },
+    {
+      "nombre": "Chopito",
+      "tipo": "personaje",
+      "descripcion": "Pulpo vinculado a Tentacol, que lo lleva en un recipiente y lo trata como dios; puede comunicarse con él según la presentación del bloque 1.",
+      "historia_bloque": "Tentacol lo recoge al terminar el combate. Chopito pide dejar los cuerpos al emisor de la voz, al que llama súbdito. Al final recuerda que necesita agua mientras Tortas deletrea lentamente el nombre del dragón.",
+      "limite": "Sus declaraciones de soberanía y los comentarios de cuatro horas no confirman divinidad, control del dragón ni duración literal. Los tentáculos de combate y sus recursos se describen con la atribución que establezcan los bloques anteriores."
+    }
+  ],
+  "continuidad": [
+    "Naór: sobrevive al combate, ayuda a retirar a sus compañeros agrandada, vuelve a Iktan, presencia por primera vez para ella a Tortas moviéndose y trae a Leo al encuentro. Su relación previa con la población se amplía por el recuerdo de sus visitas infantiles y los primeros bigotes.",
+    "Blink: libera a Naór, la agranda, recibe flechas envenenadas y sigue utilizando magia de protección y control. Regresa herida a Iktan. El olor dracónico que reconoce Tortas aporta una evidencia nueva del encuentro con la voz, pero no vuelve a introducir su antiguo collar sin mención.",
+    "Winscore: combate con su bastón, recoge los venenos y es el observador explícito del dragón verde entre las ramas durante la huida. Se presenta ante Tortas y apunta lo que este intenta contar del nombre. No acepta una cacería en la escena y desconoce la guarida.",
+    "Tortas: el capítulo muestra un encuentro con otro grupo respecto del 40. Se mueve, habla, recuerda a Naór de pequeña y reconoce el olor de dragón verde. Desconoce la guarida; su lenta explicación no entrega una grafía segura del nombre. No se resuelve su edad.",
+    "Dragón verde del bosque: ahora hay avistamiento directo de Winscore y orden de dejar cadáveres para alimentarlo contextualizada por esa aparición. No lo combaten ni lo hieren; tampoco se prueba que mandara a los hombres serpiente, los crease o fuese el autor de todos los venenos.",
+    "Yuan-ti: el combate local termina; uno sobrevive inicialmente y queda atado. La buena factura de las armas y los venenos proporcionan material de investigación, pero no conducen a un jefe, un taller o un interrogatorio completado dentro del bloque.",
+    "Walulu: se la menciona como destinataria de una cabeza-prueba y como contacto al que habría que avisar. No aparece recibiendo el botín ni realizando un análisis. No se resuelve por esta mención la cura de Eromov o el origen de los no muertos del capítulo 40.",
+    "Arcos del capítulo 40: no aparecen Eldrat, Triel ni Ilikar en este bloque y no se ejecuta su pacto de caza. Tampoco hay noticia de la espada de Cipo, de una cura a Eromov, del análisis de la botella de Leona o de una recuperación de la vegetación. Mantener pendientes esos seguimientos sin declararlos fracasados."
+  ]
+}

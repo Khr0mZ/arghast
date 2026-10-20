@@ -12,7 +12,7 @@ Base para revisar equivalencia: [19-002](../capitulos/19.md), [21-004](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 40.
+Relato revisado hasta el capítulo 41.
 
 ### Aprender a no resolverlo todo con el hacha
 
@@ -43,6 +43,12 @@ Fuentes: [40-002 · La enfermedad de Triel y el encargo de Leona](../capitulos/4
 Obliga mágicamente a Ilikar a descansar y lo carga de vuelta. Entrega a Walulu la botella de veneno y cuenta que convirtió a las criaturas en no muertos, interpretación que no recibe aún un análisis concluyente. Acepta descansar antes de regresar a Cuicapalli. En la taberna afirma ser considerada futura líder, aunque no oficialmente, y recibe mejor alojamiento y comida. Después participa en los juegos de fuerza y en los lanzamientos de Tortas al lago.
 
 Fuentes: [40-034 · Leona obliga a Ilikar a descansar y lo carga](../capitulos/40.md) · 02:19:02.120 · [40-035 · Iktan recibe al protector y Walulu examina el veneno](../capitulos/40.md) · 02:23:21.439 · [40-036 · Brazos astrales de Tortas y deseo de aprender de Triel](../capitulos/40.md) · 02:25:53.120 · [40-038 · Leona recibe trato de futura líder y los hermanos buscan aliados](../capitulos/40.md) · 02:33:15.520 · [40-040 · Una competición de fuerza termina con la cabra de la cena](../capitulos/40.md) · 02:42:05.120 · [40-041 · Leona e Ilikar lanzan a Tortas al lago](../capitulos/40.md) · 02:44:33.840.
+
+### El aviso recordado en Iktan
+
+Walulu confirma que su advertencia desde Cuicapalli motivó un aumento de las precauciones. La infiltración se descubre pese a esas medidas y los visitantes localizan después a los adversarios del norte. Leona es citada como mensajera, sin atribuirle las acciones de Naór ni un regreso representado a Cuicapalli.
+
+Fuentes: [41-015 · Walulu confirma las precauciones tras el aviso de Leona](../capitulos/41.md) · 00:42:00.000 · [41-019 · Walulu vincula la infiltración con el veneno de Eromov](../capitulos/41.md) · 00:48:00.000 · [41-023 · Advertencia, revelación de la emboscada y muerte entre serpientes](../capitulos/41.md) · 00:54:38.599 · [41-038 · Una abominación sale de la vegetación](../capitulos/41.md) · 01:41:33.000 · [41-046 · La abominación cae tras los últimos ataques](../capitulos/41.md) · 02:08:00.000.
 
 ## Registros y evidencias
 
@@ -605,4 +611,20 @@ Tipo: `hecho_confirmado`.
 Eldrat, Ilikar y Leona perciben que la población, incluida Walulu, mira con extrañeza y disgusto la piedra que antes ocupaba Tortas. Triel está sentada allí intentando meditar: cree que puede conseguir brazos astrales por imitarlo. Eldrat la reprende, la retira tirándole de la oreja y se disculpa ante Walulu por ocupar la piedra sagrada. No se manifiesta ningún poder. El capítulo termina con Tortas escondido bajo el agua y Leona e Ilikar considerando si lanzar también la cabra restante.
 
 La creencia de Triel no prueba que la piedra conceda poderes. El último lanzamiento de la cabra se debate, pero no se resuelve.
+
+## [41-015 · Walulu confirma las precauciones tras el aviso de Leona](../capitulos/41.md) · 00:42:00.000
+
+Tipo: `declaracion_personaje`.
+
+El guardia conduce a Winscore y la sospechosa al templo de piedra. Walulu escucha que puede haber un ataque y confirma que Leona llegó desde Cuicapalli para advertirlos; por eso aumentaron las precauciones. Winscore mantiene la acusación de disfraz mágico y el guardia refiere el olor. Walulu examina a la mujer y empieza a actuar con magia.
+
+Testimonio de medidas preventivas aplicadas, sin enumerar su alcance. No hay información nueva de la ayuda prometida a Eromov.
+
+## [41-019 · Walulu vincula la infiltración con el veneno de Eromov](../capitulos/41.md) · 00:48:00.000
+
+Tipo: `declaracion_personaje`.
+
+Naór y Blink ven a la prisionera y preguntan qué sucede. Walulu afirma ante Naór que pertenece al grupo que envenenó a Eromov. Explica que aumentaron la vigilancia tras la información de Leona, pero parece que los enemigos se colaron, y propone buscar más. Una de las recién llegadas se marcha corriendo al oír hablar de serpientes. Los demás plantean buscar magia y averiguar el objetivo de la cautiva.
+
+La atribución al grupo es de Walulu, sin prueba de que esta mujer administrara el veneno. No queda nombrada la voz de quien sale: cotejar la continuación antes de atribuir a Naór o Blink.
 

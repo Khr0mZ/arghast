@@ -12,7 +12,7 @@ Base para revisar equivalencia: [24-001](../capitulos/24.md), [30-001](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 40.
+Relato revisado hasta el capítulo 41.
 
 ### Un explorador que acaba colaborando con dos pueblos
 
@@ -25,6 +25,24 @@ Fuentes: [24-001 · Descansos y Winscor explorador](../capitulos/24.md) · 00:00
 En la cueva sospecha de una mujer cuyas pupilas cambian y ayuda a descubrir la instalación serpentina. El grupo vuelve con muestras, pero sin una cura confirmada. Más tarde acompaña a Citlali a recuperar el huevo robado. Cae ante los dinosaurios y sufre el drenaje de vida de Mamá, pero recibe ayuda. En el campamento corta la tela de la tienda para facilitar que Blink saque el huevo y participa en la huida. Tras la eclosión marcha con los demás hacia Cuicapalli.
 
 Fuentes: [30-009 · Recepción de la Hoja Caída y cambio de una pupila](../capitulos/30.md) · 00:46:00.000 · [30-018 · Cabezas para hablar con los muertos y evacuación por el humo](../capitulos/30.md) · 01:54:00.000 · [30-020 · Eromov envía a Parroter a investigar una cura](../capitulos/30.md) · 02:04:00.000 · [34-009 · Mamá drena Winscore y ambos aliados caen](../capitulos/34.md) · 01:11:00.000 · [34-010 · Combate resuelto y descanso corto](../capitulos/34.md) · 01:20:00.000 · [34-013 · Mamá distrae y Blink encuentra huevo](../capitulos/34.md) · 01:50:00.000 · [34-020 · Rumbo Cuicapalli con cría](../capitulos/34.md) · 02:39:00.000.
+
+### Descubrir a la falsa celebrante
+
+Llega al festival desde Cuicapalli. Resiste una sugerencia de llevarse la tortuga, detecta la ilusión de la mujer y encuentra mentiras en su relato. La golpea y acaba ante Walulu con un guardia. La dirigente revela su forma serpentina. Winscore intenta obtener información mediante quemaduras, sin que eso identifique el plan completo.
+
+Fuentes: [41-003 · Winscore llega al festival de Iktan](../capitulos/41.md) · 00:02:22.040 · [41-007 · Los visitantes reciben bebida y Blink presenta a Winscore](../capitulos/41.md) · 00:14:04.950 · [41-011 · Winscore resiste la sugerencia de llevarse la tortuga](../capitulos/41.md) · 00:31:07.240 · [41-012 · Winscore detecta una ilusión y descubre incoherencias](../capitulos/41.md) · 00:32:17.000 · [41-013 · El golpe de Winscore provoca la intervención del guardia](../capitulos/41.md) · 00:35:30.000 · [41-015 · Walulu confirma las precauciones tras el aviso de Leona](../capitulos/41.md) · 00:42:00.000 · [41-016 · Las raíces de Walulu revelan a la infiltrada serpiente](../capitulos/41.md) · 00:43:49.720 · [41-017 · La prisionera se niega a responder y Walulu no puede forzarla](../capitulos/41.md) · 00:44:55.001 · [41-018 · Winscore quema a la cautiva, que anuncia una amenaza](../capitulos/41.md) · 00:46:25.000.
+
+### Un cautivo que no llega a ser interrogado
+
+Busca otros infiltrados, pide precauciones a un guardia sin obtener obediencia y propone una expedición discreta al norte. Mantiene ataques no letales y participa en la lucha con el bastón. Un adversario queda vivo, es registrado y atado; obtienen monedas y observan armas de buena factura. La orden del bosque interrumpe el proyecto de interrogatorio. Winscore recoge los recipientes y ve un dragón verde entre las ramas durante la retirada.
+
+Fuentes: [41-024 · Vigilancia mágica del festival y presencia de Cipo](../capitulos/41.md) · 00:57:46.000 · [41-025 · Tenta informa y un guardia rechaza las órdenes de Winscore](../capitulos/41.md) · 01:02:02.000 · [41-026 · La multitud se reúne y el grupo parte al norte con sigilo](../capitulos/41.md) · 01:06:00.000 · [41-030 · Tinta de Chopito y ataque por sorpresa](../capitulos/41.md) · 01:20:26.000 · [41-033 · Golpes no letales, ilusión rota y santuario contrarrestado](../capitulos/41.md) · 01:27:39.000 · [41-037 · Tenta frena a las serpientes y Winscore mantiene el ataque no letal](../capitulos/41.md) · 01:38:29.000 · [41-042 · El grupo conserva con vida a un enemigo](../capitulos/41.md) · 01:50:16.000 · [41-044 · Winscore entra en el intercambio de golpes](../capitulos/41.md) · 01:58:11.119 · [41-046 · La abominación cae tras los últimos ataques](../capitulos/41.md) · 02:08:00.000 · [41-047 · Un prisionero y armas bien forjadas para investigar](../capitulos/41.md) · 02:12:16.360 · [41-049 · Una voz obliga a dejar los cuerpos en el bosque](../capitulos/41.md) · 02:14:26.760 · [41-051 · Naór evacua al grupo y Winscore ve un dragón verde](../capitulos/41.md) · 02:16:37.800.
+
+### Las notas ante Tortas
+
+Se presenta al monje como explorador interesado en los tesoros de aquellas tierras. Escucha la tradición de Iktan y anota el nombre que Tortas intenta pronunciar. No desea combatir al dragón. El deletreo no ofrece una grafía segura y el anciano no sabe dónde se encuentra la guarida.
+
+Fuentes: [41-053 · Winscore y Blink se presentan ante el anciano](../capitulos/41.md) · 02:20:48.880 · [41-055 · Leo llega al encuentro y la guarida sigue sin localizarse](../capitulos/41.md) · 02:26:36.080.
 
 ## Registros y evidencias
 
@@ -355,4 +373,236 @@ Tipo: `hecho_confirmado`.
 Winscore propone como refugio una cueva de hombres serpiente muertos cerca de Cuicapalli. Mamá prefiere la ciudad, aunque teme que no la acepten. El director aclara que Bonnie la apartó de Shiaru para evitar a la Marina, sin que eso implique que la persiga. Parten hacia Cuicapalli con la cueva como alternativa y guían al bebé mediante un conejo ilusorio. La cría come la cartera de Winscore con dos monedas de oro. Todavía no tiene nombre.
 
 No llegan a la ciudad ni obtienen su aceptación. Tampoco se alojan aún en la cueva.
+
+## [41-003 · Winscore llega al festival de Iktan](../capitulos/41.md) · 00:02:22.040
+
+Tipo: `hecho_confirmado`.
+
+Winscore llega desde Cuicapalli atraído por la noticia de un festival. Los guardias lo dejan entrar y observa plantas de colores y olores intensos. Sigue a los vecinos hasta la zona de casas derrumbadas y suelo sin vegetación. Se congregan ante una tortuga inmóvil sobre una piedra: su barba gotea agua aunque no ha llovido. Hay música, ofrendas y celebrantes.
+
+El pasaje no explica qué destruyó las casas ni por qué está mojada la barba. La figura no recibe identificación nominal nueva ni se mueve en este tramo.
+
+## [41-007 · Los visitantes reciben bebida y Blink presenta a Winscore](../capitulos/41.md) · 00:14:04.950
+
+Tipo: `hecho_confirmado`.
+
+Los vecinos reciben a los extranjeros con bebida y adornos florales; también ofrecen a Leo un líquido que no se identifica como cerveza. Winscore bebe sentado en una piedra. Blink lo reconoce por una aventura con Mamá y un dragón y le presenta a Naór. Ella lo saluda y le da la bienvenida a Xoltacan. Él explica que explora estas tierras y ha acudido al festival.
+
+El recuerdo de Blink no especifica qué dragón: no atribuir acciones nuevas a Winscore ni identificarlo con el verde de Iktan.
+
+## [41-010 · Tentacol habla de Perlasal y se aclara la telepatía de Chopito](../capitulos/41.md) · 00:24:44.000
+
+Tipo: `declaracion_personaje`.
+
+Tentacol se presenta a Winscore, Blink y Naór y dice proceder de aguas profundas, por los bosques de algas próximos a Perlasal. Naór conoce el destino y quiere visitarlo, pero no tiene un método para permanecer bajo el agua; sus intentos han terminado casi en ahogamiento. Tentacol consulta a Chopito sobre ayudarla a respirar, sin obtener solución efectiva. La mesa aclara que el pulpo habla telepáticamente y los demás ven burbujas. Tentacol lo llama su señor.
+
+Procedencia declarada, sin coordenadas ni raza establecida. No se demuestra respiración acuática otorgada por Chopito ni que los presentes oigan todas sus frases telepáticas.
+
+## [41-011 · Winscore resiste la sugerencia de llevarse la tortuga](../capitulos/41.md) · 00:31:07.240
+
+Tipo: `hecho_confirmado`.
+
+Mientras Winscore recibe bebida y un adorno de flores, una mujer le susurra que estaría bien llevarse la tortuga. Tras superar la salvación de sabiduría, el enano escucha la frase y queda extrañado, sin obedecerla. La mujer se aleja.
+
+La sugerencia identifica el objetivo inmediato, no el propósito último, el autor de la orden ni el conjuro usado.
+
+## [41-012 · Winscore detecta una ilusión y descubre incoherencias](../capitulos/41.md) · 00:32:17.000
+
+Tipo: `hecho_confirmado`.
+
+Winscore lanza detectar magia y ve una película ilusoria alrededor de la mujer. Le pregunta por el festival: ella habla de una tortuga grande y rectifica cuando él recuerda que veneran una estatua. Afirma ser del lugar y niega saber del ataque de hombres serpiente en una población próxima. La resolución de la tirada de intuición comunica a Winscore que miente.
+
+La ilusión y la mentira son los indicios de esta fase; la forma serpentina aparece después. El brillo de armas de guardias no los convierte en infiltrados.
+
+## [41-013 · El golpe de Winscore provoca la intervención del guardia](../capitulos/41.md) · 00:35:30.000
+
+Tipo: `hecho_confirmado`.
+
+Winscore encanta su bastón y golpea en la cabeza a la sospechosa, que cae y protesta. Un guardia sujeta al enano y pide explicaciones. Winscore acusa a la mujer de ser una serpiente infiltrada que intenta convencer a alguien de llevarse la tortuga. Durante la discusión se pide hacer que huela a serpiente. El guardia percibe el olor y conduce a ambos ante la autoridad. Winscore relata el antecedente de enemigos con disfraces mágicos y el envenenamiento de otro dirigente.
+
+El olor fue solicitado artificialmente, no es prueba natural independiente. La acusación de envenenar el pueblo es de Winscore; no se demuestra nueva contaminación. El ASR no permite fijar autor ni nombre del recurso que produce el olor.
+
+## [41-014 · Cipo recupera sus llamas y Naór deja a Leo vigilado](../capitulos/41.md) · 00:38:03.000
+
+Tipo: `hecho_confirmado`.
+
+Naór y Blink ven inicialmente el altercado como una escena extraña de la fiesta. Naór busca con quién pelear, pero los vecinos se apartan. Cipo asiente cuando ella se acerca y ya recupera el color rojo y las llamas. Naór comprueba que Leo sigue pendiente de la figura venerada y va con Blink a averiguar qué sucede con Winscore. Encarga a alguien vigilar al niño junto a la estatua.
+
+El destinatario del encargo figura como Isabel en ASR sin identificación suficiente. La recuperación visible de Cipo no acredita restitución de todos sus puntos de salud.
+
+## [41-015 · Walulu confirma las precauciones tras el aviso de Leona](../capitulos/41.md) · 00:42:00.000
+
+Tipo: `declaracion_personaje`.
+
+El guardia conduce a Winscore y la sospechosa al templo de piedra. Walulu escucha que puede haber un ataque y confirma que Leona llegó desde Cuicapalli para advertirlos; por eso aumentaron las precauciones. Winscore mantiene la acusación de disfraz mágico y el guardia refiere el olor. Walulu examina a la mujer y empieza a actuar con magia.
+
+Testimonio de medidas preventivas aplicadas, sin enumerar su alcance. No hay información nueva de la ayuda prometida a Eromov.
+
+## [41-016 · Las raíces de Walulu revelan a la infiltrada serpiente](../capitulos/41.md) · 00:43:49.720
+
+Tipo: `hecho_confirmado`.
+
+Walulu hace surgir raíces que enredan a la mujer y su ilusión empieza a desaparecer. Queda expuesta una humanoide con piernas y manos, zonas de escamas y facciones serpentinas. Sisea e intenta moverse, pero el guardia la sujeta por detrás. Su disfraz queda deshecho ante los presentes.
+
+La mujer no recibe nombre propio ni rango. No convertir una infiltración concreta en invasión general demostrada.
+
+## [41-017 · La prisionera se niega a responder y Walulu no puede forzarla](../capitulos/41.md) · 00:44:55.001
+
+Tipo: `hecho_confirmado`.
+
+La infiltrada rechaza las preguntas de Winscore. Chopito propone por medio de Tentacol sumergirla cabeza abajo para interrogarla. Winscore pregunta por magia que la haga hablar. Walulu explica que puede sujetarla con la naturaleza, pero no domina bien los medios para forzar la mente. La propuesta de inmersión no llega a ejecutarse en este tramo.
+
+El ahogamiento es una propuesta, no una tortura practicada. El encantamiento posterior de Chopito aún no ha ocurrido.
+
+## [41-018 · Winscore quema a la cautiva, que anuncia una amenaza](../capitulos/41.md) · 00:46:25.000
+
+Tipo: `hecho_confirmado`.
+
+Winscore usa una antorcha para quemar la cara de la prisionera y después un pie, intentando hacerla hablar. Ella resiste y le recuerda que, si la mata, no obtendrá información. Prefiere sufrir ahora porque, según afirma, algo está por llegar y hará sufrir a sus captores. Naór y Blink alcanzan la entrada de la capilla y oyen los gritos.
+
+La amenaza es una declaración de la cautiva; no identifica criatura, jefe, ritual o momento. No vincularla automáticamente al dragón ni al veneno de la vegetación.
+
+## [41-020 · El encantamiento de Chopito cambia la actitud de la cautiva](../capitulos/41.md) · 00:49:38.000
+
+Tipo: `hecho_confirmado`.
+
+Chopito sale del frasco y se acerca a la prisionera para lanzarle un encantamiento identificado en la mesa como charm person. Tras las salvaciones, ella mira a Tentacol y le pide ayuda porque los otros la hieren. Tentacol ofrece la protección de Chopito a cambio de sumisión y pregunta cuántos aliados suyos hay por allí. El bloque termina antes de la respuesta.
+
+Se observa cambio de actitud y petición de ayuda, no confesión completa ni sumisión irrevocable. Cantidad de infiltrados, identidades y plan siguen sin respuesta.
+
+## [41-022 · Tenta se presenta y sumerge a la cautiva](../capitulos/41.md) · 00:52:24.000
+
+Tipo: `hecho_confirmado`.
+
+Tras pedir refuerzos para proteger al Anciano, el grupo deja el interrogatorio en manos del recién llegado, que se presenta como Tenta, mientras Walulu permanece con la prisionera. Chopito propone llevarla al agua; Tenta le sumerge repetidamente la cabeza y la mujer empieza a ahogarse. Se aclara que la agresión rompe el encantamiento amistoso aplicado antes.
+
+La presentación del enano se transcribe Wincore; se normaliza con Winscore ya catalogado. La violencia del interrogatorio ocurre efectivamente, aunque se acompaña de bromas.
+
+## [41-024 · Vigilancia mágica del festival y presencia de Cipo](../capitulos/41.md) · 00:57:46.000
+
+Tipo: `hecho_confirmado`.
+
+Los compañeros buscan el rastro de la infiltrada y vigilan al Anciano. La magia ilusoria deja un recorrido hacia la entrada, sin detectar otra aura semejante dentro del poblado. Leo es enviado a la taberna. Winscore observa que la estatua también brilla ante detectar magia, y Blink vigila desde una posición elevada. Los asistentes continúan bailando sin conocer el incidente. El director señala a Cipo en la fiesta como una pequeña llama que empieza a moverse y estirarse.
+
+El brillo acredita una detección mágica; no explica su causa. Cipo está identificado por el director en 01:01:20.599–01:01:30.349. No equiparar la estatua con la piedra sagrada ni asignar a ésta el aura.
+
+## [41-025 · Tenta informa y un guardia rechaza las órdenes de Winscore](../capitulos/41.md) · 01:02:02.000
+
+Tipo: `hecho_confirmado`.
+
+Tenta reúne a los compañeros y transmite la noticia de los dos sacerdotes y las dos grandes criaturas, representando con prestidigitación las serpientes que salieron de la cautiva. Aclara que ésta ha muerto. Winscore pide cancelar la fiesta, reducir el área de los asistentes y doblar la vigilancia, explicando que pretenden llevarse a la tortuga. El guardia se niega a abandonar su puesto o seguir instrucciones de un desconocido y dice que esperará órdenes de su jefa.
+
+No afirmar una cancelación consumada ni que la guardia haya obedecido. El vocativo Leona en 01:02:40 se conserva como desliz o reconocimiento dudoso: el coordinador confirma Naór por el bloque 1, sin crear una presencia de Leona a partir de esa frase.
+
+## [41-026 · La multitud se reúne y el grupo parte al norte con sigilo](../capitulos/41.md) · 01:06:00.000
+
+Tipo: `hecho_confirmado`.
+
+Un compañero conduce a los asistentes hacia la hoguera y la estatua anunciando que pronto hablará Walulu; los vecinos terminan reuniéndose pese a algunas protestas. Winscore propone localizar y neutralizar discretamente a los enemigos del norte. Los compañeros abandonan el poblado bajo una magia que mejora su sigilo y exige permanecer próximos a su portador.
+
+No atribuir el conjuro a un personaje sólo por proximidad de turno. La mención de agrupar a la gente para una bola de fuego es broma de mesa, no plan demostrado de atacar a los civiles.
+
+## [41-028 · Dos mujeres con la misma aura trabajan junto a la roca](../capitulos/41.md) · 01:14:55.000
+
+Tipo: `hecho_confirmado`.
+
+El grupo encuentra junto a una roca a dos mujeres vestidas como nativas, ocupadas en reunir materiales y vigilar a su alrededor. Desde el escondite se comprueba que ambas presentan la misma magia que la infiltrada. Las ven manipular recipientes clavados en el suelo y rellenar viales, aunque desde esa distancia no distinguen su contenido.
+
+La igualdad de aura es observada. Su naturaleza serpentina queda confirmada después al romperse la ilusión, no por su aspecto humano inicial.
+
+## [41-030 · Tinta de Chopito y ataque por sorpresa](../capitulos/41.md) · 01:20:26.000
+
+Tipo: `hecho_confirmado`.
+
+Chopito sale del frasco, cae sobre las enemigas y les cubre la cara de tinta. Una de las botellas cae, se rompe y derrama el líquido. Winscore ataca con su bastón; otro compañero se lanza sobre una rival y la sujeta contra el suelo, acción atribuida después por el director a Naór. La tinta queda adherida a sus caras y no constituye una oscuridad que impida ver al resto.
+
+Conservar que buscan al menos una prisionera viva. No atribuir daño venenoso a la tinta de Chopito: la resolución la trata como tinta en los ojos.
+
+## [41-033 · Golpes no letales, ilusión rota y santuario contrarrestado](../capitulos/41.md) · 01:27:39.000
+
+Tipo: `hecho_confirmado`.
+
+Winscore exige rendición y golpea con intención no letal. Bajo los impactos se rompe la ilusión de una mujer y queda visible su forma serpentina. La adversaria intenta protegerse con santuario, pero Tenta usa contrahechizo y lo impide. La criatura se enfurece al advertir la intervención del oculto.
+
+No afirmar que Winscore consigue ya dejarla inconsciente. La palabra santuario se pronuncia y su anulación se confirma antes de continuar.
+
+## [41-035 · Un ataque con hacha y una furia radiante ciegan a la rival](../capitulos/41.md) · 01:33:59.000
+
+Tipo: `hecho_confirmado`.
+
+Un compañero golpea con el hacha de forma expresamente distinta a los ataques no letales de Winscore y después entra en furia. Se resuelve un efecto radiante que daña y deja cegada a la adversaria. El atacante se aparta para vigilar posibles refuerzos y esquiva el golpe de oportunidad que intentan darle.
+
+El nombre del actor no queda fijado de forma explícita en estos minutos. La continuidad del turno parece corresponder a Naór, pero la identidad debe confirmarse con el bloque 1 y no reemplazarse por Leona a partir de un desliz. No documentar un cambio de nivel como hecho narrativo consumado por los comentarios de mesa.
+
+## [41-036 · Los chillidos psíquicos de Blink fuerzan una retirada](../capitulos/41.md) · 01:36:50.000
+
+Tipo: `hecho_confirmado`.
+
+Blink usa metamagia para acelerar un conjuro y lanza ataques psíquicos contra las dos adversarias. Una supera la resistencia y otra falla, recibe daño y debe alejarse todo lo que puede. Ese movimiento permite otro golpe de oportunidad declarado no letal.
+
+No se afirma que ambas huyan ni que alguna haya muerto; la resolución conserva una salvación exitosa. El nombre formal del conjuro no queda acreditado más allá de la descripción de chillido psíquico.
+
+## [41-037 · Tenta frena a las serpientes y Winscore mantiene el ataque no letal](../capitulos/41.md) · 01:38:29.000
+
+Tipo: `hecho_confirmado`.
+
+Tenta mueve su tentáculo y golpea con frío a la enemiga que intenta alejarse, reduciendo su movilidad. Sus descargas también frenan a una rival y empujan a la otra. Chopito sigue acercándose al agua. Winscore vuelve a golpear sin intención de matar a la serpiente caída que continúa siseando.
+
+Este tramo no muestra una rendición ni una captura final. Los daños y desplazamientos no permiten inventar un desenlace previo al bloque 3.
+
+## [41-044 · Winscore entra en el intercambio de golpes](../capitulos/41.md) · 01:58:11.119
+
+Tipo: `hecho_confirmado`.
+
+Los ataques del tentáculo y las descargas vuelven a dañar, ralentizar y empujar a una de las serpientes. Otra intenta apresar a Winscore con la cola y falla; la cimitarra sí lo alcanza, aunque una reacción reduce el daño. El explorador responde con golpes de bastón y una marca sobre el enemigo, y obtiene un impacto crítico. El adversario cegado continúa moviéndose e intentando disparar hacia el grupo.
+
+La marca y los daños añadidos son recursos utilizados en la escena, sin inferir una propiedad nueva del bastón ni una transformación permanente.
+
+## [41-045 · Blink ataca la mente del enemigo y el grupo sostiene a Winscore](../capitulos/41.md) · 02:04:00.000
+
+Tipo: `hecho_confirmado`.
+
+Blink utiliza metamagia y ataques psíquicos para herir a una de las criaturas y obligarla a desplazarse, hasta agotar el movimiento disponible. Vuelve a buscar cobertura cerca de Naór. Tentacol continúa sus ataques con tentáculo y descargas. La criatura regresa contra Winscore; falla al intentar enredarlo, pero lo hiere con la cimitarra. Una reacción vuelve a reducir el daño y Winscore mantiene la concentración que estaba sosteniendo.
+
+Las conversaciones sobre qué conjuro debería haberse elegido no acreditan un lanzamiento adicional. El director limita el desplazamiento forzado por el movimiento restante.
+
+## [41-046 · La abominación cae tras los últimos ataques](../capitulos/41.md) · 02:08:00.000
+
+Tipo: `hecho_confirmado`.
+
+Winscore y Naór continúan atacando. Blink intenta otro ataque psíquico y trata de mover a Winscore por telequinesis, sin conseguir desplazarlo en la resolución mostrada. Tentacol vuelve a mover el tentáculo y a disparar. El director confirma que acaban con la abominación que aún combatía.
+
+La derrota de la abominación no supone la muerte del enemigo que habían dejado inconsciente. No se atribuye el golpe final a una persona concreta fuera de la secuencia de turnos que muestra la fuente.
+
+## [41-049 · Una voz obliga a dejar los cuerpos en el bosque](../capitulos/41.md) · 02:14:26.760
+
+Tipo: `hecho_confirmado`.
+
+Tras una salvación de sabiduría, el grupo escucha una voz enorme que les sugiere dejar los cuerpos en el bosque para que pueda alimentarse. El director describe que sienten que deben obedecer. Tentacol también escucha la voz, pero no experimenta esa compulsión. Cuando discuten si el prisionero vivo cuenta como cuerpo, el director aclara que también es un cuerpo; no se llega a resolver un traslado suyo.
+
+El emisor no se nombra en el momento de la orden. La posterior visión del dragón y el olor reconocido por Tortas contextualizan el episodio. El comentario de que quizá Chopito evita el efecto es tentativo y jocoso; no fija una inmunidad o una habilidad protectora nueva.
+
+## [41-051 · Naór evacua al grupo y Winscore ve un dragón verde](../capitulos/41.md) · 02:16:37.800
+
+Tipo: `hecho_confirmado`.
+
+Winscore recoge los recipientes de veneno de los enemigos. Naór, aún agrandada, carga a sus compañeros y corre hacia Iktan, describiendo al emisor como la serpiente alada que susurra desde el bosque. Al mirar atrás entre las ramas, Winscore ve un dragón verde y el director lo confirma. El grupo deja los cuerpos, pero el director permite que Naór se lleve las cabezas cortadas. Llegan al poblado huyendo.
+
+Winscore es el observador explícito del dragón. La retirada no incluye un combate con él ni su persecución hasta la guarida. No se muestra al prisionero llegando a la aldea, recuperando la conciencia o siendo comido; su desenlace queda abierto.
+
+## [41-053 · Winscore y Blink se presentan ante el anciano](../capitulos/41.md) · 02:20:48.880
+
+Tipo: `hecho_confirmado`.
+
+Naór presenta a Winscore a Tortas. El enano se identifica como explorador y expresa que busca los tesoros de aquellas tierras, aunque hasta ahora encuentra serpientes. Se cuenta la leyenda de que Iktan fue construida alrededor del anciano. Tortas resta importancia al tiempo que lleva allí. Blink se presenta, se acerca y aparta el pelo que le cubre el rostro; el anciano termina rozándola con la nariz para verla.
+
+La construcción de Iktan alrededor de Tortas se cuenta como leyenda; no se fija una fecha de fundación ni una edad exacta. El diálogo jocoso sobre ser milenario no resuelve los testimonios incompatibles del capítulo 40.
+
+## [41-055 · Leo llega al encuentro y la guarida sigue sin localizarse](../capitulos/41.md) · 02:26:36.080
+
+Tipo: `hecho_confirmado`.
+
+Naór va a la taberna y trae a Leo para que vea a Tortas. Durante la conversación se expresa poca disposición a combatir a un dragón y Winscore empieza a apuntar el nombre y los datos que el anciano intenta recordar. Tortas dice conocer el nombre y comienza a deletrearlo con mucha lentitud. La transcripción alterna formas irreconocibles y no completa una grafía segura. Cuando preguntan por la guarida, el director aclara que Tortas no sabe dónde está. Se hace de noche, la gente abandona la fiesta y Leo empieza a dormirse mientras Naór intenta mantenerlo atento. La sesión termina con el anciano todavía pronunciando el nombre.
+
+Los enunciados sobre el roble rojo y subir una montaña no se establecen como ruta; el director corrige expresamente que desconoce la guarida. El deletreo incompleto no autoriza a fijar Colgen o Clodidrax ni a fusionar sus fichas. El comentario de Chopito sobre cuatro horas no confirma una duración literal de esta escena.
 

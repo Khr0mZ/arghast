@@ -1,5 +1,5 @@
 {
-  "revisado_hasta": 40,
+  "revisado_hasta": 41,
   "entidades": {
     "Anillo familiar de Erendriel": [
       {
@@ -422,6 +422,29 @@
           "40-008",
           "40-013",
           "40-042"
+        ]
+      },
+      {
+        "titulo": "La observación de Leo durante la fiesta",
+        "texto": "El Anciano aparece inmóvil sobre el soporte mientras recibe ofrendas. Naór lleva las figuras talladas y encarga a Leo esperar un movimiento como ejercicio de paciencia. Más tarde el grupo observa a Tortas hablar. El brillo detectado durante la vigilancia corresponde al Anciano y no demuestra magia propia de esta piedra, que sigue separada de la roca exterior de los sacerdotes.",
+        "referencias": [
+          "41-003",
+          "41-009",
+          "41-024",
+          "41-052",
+          "41-055"
+        ]
+      }
+    ],
+    "Viales verdes de la roca norte": [
+      {
+        "titulo": "De la preparación a la recogida",
+        "texto": "Las dos figuras llenan pequeños viales de líquido verdoso a partir de recipientes mayores. Tentacol observa el color a través de Chopito y el grupo sospecha veneno. Una botella se rompe durante la emboscada. Tras el combate Winscore recoge recipientes que considera venenos; no se realiza un análisis ni se demuestra relación con la muestra del claro entregada antes a Walulu.",
+        "referencias": [
+          "41-028",
+          "41-029",
+          "41-030",
+          "41-051"
         ]
       }
     ]

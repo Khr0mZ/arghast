@@ -12,7 +12,7 @@ Base para revisar equivalencia: [01-004](../capitulos/01.md), [16-014](../capitu
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 40.
+Relato revisado hasta el capítulo 41.
 
 ### Una comunidad que recibe a los extranjeros
 
@@ -447,4 +447,28 @@ Tipo: `hecho_confirmado`.
 Leona pide comida y habitación a una tabaxi de la taberna. Se presenta como vecina de Cuicapalli y dice que la consideran futura líder, aunque no sea oficial. La tabernera le ofrece una habitación especial, mejor cerveza y comida, mientras sirve aceitunas pasadas a los elfos. Eldrat quiere reunir aliados contra el dragón y Triel lo cura con palabras. Los hermanos acuerdan repartirse las conversaciones con Leona y el goliat; Triel considera a Leona fuerte después de que la venciera y admira el poder de Tortas.
 
 No se consuma un nombramiento de Leona. La tabernera no recibe un nombre propio en este bloque; no fusionarla automáticamente con Angélica Thunder o Angelique. Las heridas no identifican a los elfos con los dos enfermos anónimos del capítulo 39.
+
+## [41-001 · Blink sale de Shiaru y una fruta altera su voz](../capitulos/41.md) · 00:00:10.800
+
+Tipo: `declaracion_personaje`.
+
+Blink relata que salió de Shiaru tras varios intentos, despertó fuera del poblado y lleva días perdida intentando llegar a Cuicapalli. Evita a los humanos, habla con animales y come frutas. El director establece que una fruta le vuelve la voz grave y gutural, con ventaja para intimidar y desventaja para persuadir durante esta jornada.
+
+El despertar fuera del poblado procede de Blink: no se establece un mecanismo de teletransporte ni permanencia del efecto vocal.
+
+## [41-003 · Winscore llega al festival de Iktan](../capitulos/41.md) · 00:02:22.040
+
+Tipo: `hecho_confirmado`.
+
+Winscore llega desde Cuicapalli atraído por la noticia de un festival. Los guardias lo dejan entrar y observa plantas de colores y olores intensos. Sigue a los vecinos hasta la zona de casas derrumbadas y suelo sin vegetación. Se congregan ante una tortuga inmóvil sobre una piedra: su barba gotea agua aunque no ha llovido. Hay música, ofrendas y celebrantes.
+
+El pasaje no explica qué destruyó las casas ni por qué está mojada la barba. La figura no recibe identificación nominal nueva ni se mueve en este tramo.
+
+## [41-015 · Walulu confirma las precauciones tras el aviso de Leona](../capitulos/41.md) · 00:42:00.000
+
+Tipo: `declaracion_personaje`.
+
+El guardia conduce a Winscore y la sospechosa al templo de piedra. Walulu escucha que puede haber un ataque y confirma que Leona llegó desde Cuicapalli para advertirlos; por eso aumentaron las precauciones. Winscore mantiene la acusación de disfraz mágico y el guardia refiere el olor. Walulu examina a la mujer y empieza a actuar con magia.
+
+Testimonio de medidas preventivas aplicadas, sin enumerar su alcance. No hay información nueva de la ayuda prometida a Eromov.
 

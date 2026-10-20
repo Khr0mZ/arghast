@@ -12,7 +12,7 @@ Base para revisar equivalencia: [35-014](../capitulos/35.md), [36-019](../capitu
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 40.
+Relato revisado hasta el capítulo 41.
 
 ### Una isla de pueblos vivos y ruinas disputadas
 
@@ -51,4 +51,12 @@ Tipo: `hecho_confirmado`.
 Tortas, Leona e Ilikar prueban su fuerza con árboles y surge la propuesta de una competición. El anciano critica que Ilikar haya golpeado un árbol al que aún le quedaba vida; enseña a reconocer un tronco próximo a morir por su sonido hueco. Las bromas derivan en probar hojas y corteza. Tortas declara que le agradan los compañeros y pregunta por sus orígenes. Un interlocutor describe un bosque muy lejano y una isla transcrita como Brunami. En el intercambio la tortuga indica que no ha salido de Xoltacan y acaba reconociendo que no conoce ese destino.
 
 La adscripción de Leona a Cuicapalli se oye con ASR incierto («Wikale/Ikipacale»); la de Ilikar a Shiaru se transcribe «Sharu». La procedencia del bosque y la isla no se atribuye a un personaje sin cotejo. «Conozco Brunami» se corrige después con «No lo conozco»; no acredita una visita previa.
+
+## [41-007 · Los visitantes reciben bebida y Blink presenta a Winscore](../capitulos/41.md) · 00:14:04.950
+
+Tipo: `hecho_confirmado`.
+
+Los vecinos reciben a los extranjeros con bebida y adornos florales; también ofrecen a Leo un líquido que no se identifica como cerveza. Winscore bebe sentado en una piedra. Blink lo reconoce por una aventura con Mamá y un dragón y le presenta a Naór. Ella lo saluda y le da la bienvenida a Xoltacan. Él explica que explora estas tierras y ha acudido al festival.
+
+El recuerdo de Blink no especifica qué dragón: no atribuir acciones nuevas a Winscore ni identificarlo con el verde de Iktan.
 

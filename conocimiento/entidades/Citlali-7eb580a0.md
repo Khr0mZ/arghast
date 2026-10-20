@@ -12,7 +12,7 @@ Base para revisar equivalencia: [03-013](../capitulos/03.md), [34-004](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 40.
+Relato revisado hasta el capítulo 41.
 
 ### Mamá y el huevo de las ruinas
 
@@ -1783,4 +1783,12 @@ Tipo: `hecho_confirmado`.
 Citlali y Etley duermen en el templo. Ella oye en la habitación contigua a los elfos y a Walulu, que tratan la enfermedad de la elfa. Ayoto y Tlachka piden habitaciones individuales en la taberna para evitar a Coyote. El director confirma que es un cambiaformas. Coyote intenta obtener el amor de Angelique sin éxito; un guardia lo expulsa y duerme fuera, cerca del poste donde lo cuelgan. Se confirma la llegada a Iktan y se sugiere que algo observa el entorno, sin identificarlo.
 
 Coyote y Citlali son personajes distintos aunque compartan jugador. El alias aportado en el contexto no acredita una identidad única.
+
+## [41-007 · Los visitantes reciben bebida y Blink presenta a Winscore](../capitulos/41.md) · 00:14:04.950
+
+Tipo: `hecho_confirmado`.
+
+Los vecinos reciben a los extranjeros con bebida y adornos florales; también ofrecen a Leo un líquido que no se identifica como cerveza. Winscore bebe sentado en una piedra. Blink lo reconoce por una aventura con Mamá y un dragón y le presenta a Naór. Ella lo saluda y le da la bienvenida a Xoltacan. Él explica que explora estas tierras y ha acudido al festival.
+
+El recuerdo de Blink no especifica qué dragón: no atribuir acciones nuevas a Winscore ni identificarlo con el verde de Iktan.
 

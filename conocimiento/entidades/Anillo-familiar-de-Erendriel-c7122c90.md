@@ -12,7 +12,7 @@ Base para revisar equivalencia: [05-010](../capitulos/05.md), [12-007](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 40.
+Relato revisado hasta el capítulo 41.
 
 ### La señal de una familia de exploradores
 

@@ -12,7 +12,7 @@ Base para revisar equivalencia: [32-014](../capitulos/32.md), [32-020](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 40.
+Relato revisado hasta el capítulo 41.
 
 ### La moneda que acompaña al rayo
 

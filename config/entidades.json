@@ -2084,6 +2084,137 @@
       ],
       "descripcion": "Soporte venerado que ocupaba Tortas y donde Triel intenta meditar al final del festival.",
       "nota": "Su valor sagrado está documentado. No se demuestra que otorgue brazos astrales ni otro poder propio."
+    },
+    {
+      "nombre": "Tentacol",
+      "tipo": "personaje",
+      "etiquetas": [
+        "Tentacol / Tentac (viajero acuático, grafía provisional)",
+        "Tentacol",
+        "Tentac",
+        "Tenta"
+      ],
+      "referencias": [
+        "41-006",
+        "41-008",
+        "41-010",
+        "41-022",
+        "41-029",
+        "41-049"
+      ],
+      "descripcion": "Viajero acuático próximo a Perlasal que lleva a Chopito en un frasco y combate junto a Naór, Blink y Winscore.",
+      "nota": "Grafía provisional. La presentación Tenta y la continuidad con el pulpo enlazan las variantes; no se fija raza ni una identidad anterior."
+    },
+    {
+      "nombre": "Chopito",
+      "tipo": "personaje",
+      "etiquetas": [
+        "Chopito (pulpo, grafía provisional)",
+        "Chopito"
+      ],
+      "referencias": [
+        "41-006",
+        "41-010",
+        "41-020",
+        "41-029",
+        "41-030",
+        "41-050"
+      ],
+      "descripcion": "Pulpo telepático vinculado a Tentacol, transportado en un recipiente con agua y capaz de intervenir en la investigación.",
+      "nota": "Su pretensión de recibir adoración o poseer súbditos es testimonio suyo, sin divinidad ni mando sobre el dragón demostrados."
+    },
+    {
+      "nombre": "Infiltrada serpiente del festival de Iktan",
+      "tipo": "personaje",
+      "etiquetas": [
+        "Infiltrada serpiente del festival de Iktan (41)",
+        "Prisionera serpiente del festival de Iktan (capítulo 41)"
+      ],
+      "referencias": [
+        "41-011",
+        "41-012",
+        "41-016",
+        "41-019",
+        "41-023"
+      ],
+      "descripcion": "Mujer con apariencia ilusoria de nativa que intenta inducir a Winscore a retirar al Anciano y muere durante el interrogatorio.",
+      "nota": "Identidad descriptiva sin nombre ni rango. Walulu la vincula al grupo del veneno de Eromov; la causa de su muerte y la presencia que anuncia siguen abiertas."
+    },
+    {
+      "nombre": "Sacerdotes serpiente de la roca norte",
+      "tipo": "personaje",
+      "etiquetas": [
+        "Sacerdotes serpiente de la roca norte (capítulo 41)"
+      ],
+      "referencias": [
+        "41-023",
+        "41-028",
+        "41-029",
+        "41-030",
+        "41-033",
+        "41-034"
+      ],
+      "descripcion": "Dos adversarios localizados fuera de Iktan bajo apariencia de mujeres nativas, preparando viales junto a una roca.",
+      "nota": "Ficha colectiva descriptiva. Sus capacidades se registran por intervención; no se atribuye a ambos todo efecto individual ni se identifica por nombre al superviviente."
+    },
+    {
+      "nombre": "Abominación de la roca norte",
+      "tipo": "personaje",
+      "etiquetas": [
+        "Abominaciones serpiente del festival (capítulo 41)",
+        "Abominación de la roca norte"
+      ],
+      "referencias": [
+        "41-023",
+        "41-038",
+        "41-039",
+        "41-046"
+      ],
+      "descripcion": "Gran criatura serpentina que sale de la vegetación, apresa a Naór con la cola y es derrotada en el combate del capítulo 41.",
+      "nota": "Solo una aparición confirmada. La mención previa de dos grandes abominaciones permanece como declaración no verificada; no se fija subespecie de bestiario."
+    },
+    {
+      "nombre": "Conejo cornudo del bosque de Iktan",
+      "tipo": "personaje",
+      "etiquetas": [
+        "Conejo cornudo del bosque de Iktan (capítulo 41)"
+      ],
+      "referencias": [
+        "41-027"
+      ],
+      "descripcion": "Animal consultado por Blink que señala la dirección de las mujeres junto a la roca al norte de Iktan.",
+      "nota": "Nombre editorial descriptivo, sin identificar especie fantástica por parecido. Su relato de la gran serpiente conserva atribución y no confirma identidad con el dragón."
+    },
+    {
+      "nombre": "Roca de los sacerdotes al norte de Iktan",
+      "tipo": "lugar",
+      "etiquetas": [
+        "Roca de los sacerdotes al norte de Iktan (capítulo 41)"
+      ],
+      "referencias": [
+        "41-023",
+        "41-027",
+        "41-028",
+        "41-029",
+        "41-038"
+      ],
+      "descripcion": "Lugar exterior al poblado donde dos figuras con ilusiones preparan viales y el grupo libra el combate.",
+      "nota": "Etiqueta descriptiva sin coordenadas precisas. Es distinta de la piedra sagrada del Anciano y del claro de los restos envenenados del capítulo 40."
+    },
+    {
+      "nombre": "Viales verdes de la roca norte",
+      "tipo": "objeto",
+      "etiquetas": [
+        "Viales verdes de la roca norte (capítulo 41)"
+      ],
+      "referencias": [
+        "41-028",
+        "41-029",
+        "41-030",
+        "41-051"
+      ],
+      "descripcion": "Recipientes de líquido verdoso preparados por los adversarios del norte de Iktan; Winscore recoge recipientes tras el combate.",
+      "nota": "El grupo los trata como venenos, sin análisis de composición. No se fusionan con la botella de Leona ni con la tinta del familiar."
     }
   ],
   "exclusiones": [

@@ -12,7 +12,7 @@ Base para revisar equivalencia: [11-024](../capitulos/11.md), [26-006](../capitu
 
 ## Intereses y evolución
 
-Relato revisado hasta el capítulo 40.
+Relato revisado hasta el capítulo 41.
 
 ### Las monedas y la autoridad pirata
 

@@ -12,7 +12,7 @@ Base para revisar equivalencia: [20-002](../capitulos/20.md), [20-003](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 40.
+Relato revisado hasta el capítulo 41.
 
 ### Buscar maestros y demostrar su fuerza
 

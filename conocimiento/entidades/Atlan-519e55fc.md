@@ -12,7 +12,7 @@ Base para revisar equivalencia: [16-003](../capitulos/16.md), [17-006](../capitu
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 40.
+Relato revisado hasta el capítulo 41.
 
 ### El reino del que parte la convocatoria
 
@@ -25,6 +25,12 @@ Fuentes: [16-003 · El rey leonino encarga a Naór convocar un concilio](../capi
 Naór obtiene apoyos durante su viaje y presenta a Leo como hijo y futuro príncipe. Esas declaraciones no equivalen a mostrar la vida de la corte ni el reconocimiento del niño en Atlan. La campaña no escenifica todavía el regreso de la princesa a su reino: el resultado del concilio y sus consecuencias para el sur permanecen pendientes.
 
 Fuentes: [17-021 · Botín y promesa de los dirigentes de asistir al concilio](../capitulos/17.md) · 02:39:30.000 · [31-006 · Grupos confluyen y conflicto territorial](../capitulos/31.md) · 00:31:00.000 · [31-027 · Naór convoca un concilio y Gualulu apoya al rey](../capitulos/31.md) · 03:04:00.000.
+
+### Una ofrenda y un emisario pendiente
+
+Naór lleva días esperando a un emisario de su tierra que debía llegar durante el festival de Iktan. Pide noticias y presenta una ofrenda en nombre del reino. La ausencia no se explica: no se identifica al mensajero ni se acredita captura, muerte o un cambio político en Atlan.
+
+Fuentes: [41-002 · Naór consigue plaza para Leo y espera a un emisario de Atlan](../capitulos/41.md) · 00:01:18.119 · [41-004 · Naór prepara con Leo las ofrendas del festival](../capitulos/41.md) · 00:07:46.000 · [41-009 · Naór ofrece respetos de Atlan y encarga a Leo vigilar la tortuga](../capitulos/41.md) · 00:21:23.000.
 
 ## Registros y evidencias
 
@@ -91,4 +97,28 @@ Tipo: `declaracion_personaje`.
 Naór solicita una conversación privada antes de que Walulu decida qué hacer con los visitantes. A solas en el templo, transmite la convocatoria de su padre: los clanes se reunirán en Tutucan la noche anterior al próximo solsticio. Explica que Atlan lleva cientos de años custodiando la frontera y la costa del sur, donde sus habitantes fueron apartados o destinados. Considera que la llegada de los extranjeros de azul y de los piratas cambia la situación. Su padre cree que no podrán vencer solos. Aunque Naór desconfía de los extranjeros, confía en él y pide el apoyo de Walulu. Ella promete apoyarlo como hizo su propio padre.
 
 No se proporciona una fecha absoluta ni se celebra el concilio. Los demás permanecen con los guardias y no oyen esta conversación privada.
+
+## [41-002 · Naór consigue plaza para Leo y espera a un emisario de Atlan](../capitulos/41.md) · 00:01:18.119
+
+Tipo: `declaracion_personaje`.
+
+Naór explica que Leo ha sido admitido en la academia de guerreros de Iktan gracias a su conversación con Walulu, después de que lo rechazaran por pequeño. Le enseña lo que recuerda de la aldea y del festival desde su infancia. Lleva días esperando en la muralla a un emisario de Atlan que debía llegar para estas fechas; su ausencia la inquieta.
+
+Naór es la leonina acompañada por Leo; no confundirla con Leona, la harengon mensajera de Cuicapalli. No se identifica al emisario ni el motivo del retraso.
+
+## [41-004 · Naór prepara con Leo las ofrendas del festival](../capitulos/41.md) · 00:07:46.000
+
+Tipo: `hecho_confirmado`.
+
+La tabernera llamada Angelic sirve a Naór. Leo muestra moratones y la falta de algún diente; Naór lo reprende por no defenderse de un alumno que le quita la comida. Le entrega una figura de madera tallada para la ofrenda, explica que tienen una para cada uno y permite que él la deposite. Antes de salir pide a la tabernera noticias del emisario.
+
+La taberna no se nombra. Angelic se conserva como Angelique de la continuidad39, sin cerrar su posible equivalencia con Angélica Thunder. No atribuir cada lesión de Leo a un agresor concreto sin más prueba.
+
+## [41-009 · Naór ofrece respetos de Atlan y encarga a Leo vigilar la tortuga](../capitulos/41.md) · 00:21:23.000
+
+Tipo: `hecho_confirmado`.
+
+Naór reconoce a Cipo y recuerda haberlo visto bajo un caldero. Acompaña a Leo a depositar la figura tallada y presenta su propia ofrenda en nombre de Atlan. Cuenta que de pequeña esperaba con Walulu a que la figura venerada se moviera, sin verlo. Después sienta a Leo en una piedra y le encarga vigilarla sin parpadear como prueba de paciencia, mientras busca bebida.
+
+El recuerdo infantil y la leyenda son testimonios de Naór. No se confirma avance de nivel de Leo ni movimiento de la figura venerada.
 

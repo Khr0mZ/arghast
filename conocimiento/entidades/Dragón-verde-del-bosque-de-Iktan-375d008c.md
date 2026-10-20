@@ -12,7 +12,7 @@ Base para revisar equivalencia: [31-015](../capitulos/31.md), [40-002](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 40.
+Relato revisado hasta el capítulo 41.
 
 ### El enemigo que permanece en el bosque
 
@@ -25,6 +25,12 @@ Fuentes: [31-015 · Eldrat reconoce al dragón verde y el ácido daña al grupo]
 Triel cuenta una emboscada con veneno al entrar en una cueva, sin saber si era la guarida. Los restos del claro y la muestra se comparan con veneno dracónico, pero no se observa su producción. El goliat encuentra un rastro hacia el norte y Eldrat exige recuperarse antes de seguirlo. Walulu teme que provocar al dragón cause un ataque que Iktan no podría detener. Eldrat e Ilikar pactan obtener respuestas y después entregar la cabeza como trofeo; aún no se enfrentan al enemigo.
 
 Fuentes: [40-016 · Tortas examina la amalgama y el líquido verde](../capitulos/40.md) · 01:02:02.160 · [40-026 · Se conserva una muestra de un veneno distinto al de los yuan-ti](../capitulos/40.md) · 01:47:01.520 · [40-030 · La Serpiente del Bosque y la cueva de la emboscada](../capitulos/40.md) · 02:02:39.199 · [40-032 · Tortas percibe el deterioro del bosque, no al dragón](../capitulos/40.md) · 02:08:20.440 · [40-033 · Rastro hacia el norte y decisión de recuperarse](../capitulos/40.md) · 02:11:01.520 · [40-035 · Iktan recibe al protector y Walulu examina el veneno](../capitulos/40.md) · 02:23:21.439 · [40-037 · Pacto entre Eldrat e Ilikar para interrogar al dragón](../capitulos/40.md) · 02:31:24.600 · [40-039 · Origen de Ilikar y posibles aliados en Shiaru](../capitulos/40.md) · 02:36:36.680.
+
+### La mirada entre las ramas y el olor reconocido
+
+Tras la victoria sobre los adversarios, una voz exige dejar los cuerpos como alimento y provoca compulsión en todos los viajeros salvo Tentacol. Durante la retirada Winscore ve un dragón verde entre las ramas. Tortas reconoce después el mismo tipo de olor en Blink. La asociación contextual no establece verbalmente quién emitió la voz ni una alianza con los yuan-ti. El nombre sigue mal reconocido, la guarida desconocida y la identidad con Clodidrax sin demostrar; no se cumple la caza pactada por Eldrat e Ilikar.
+
+Fuentes: [41-049 · Una voz obliga a dejar los cuerpos en el bosque](../capitulos/41.md) · 02:14:26.760 · [41-050 · Chopito presenta al emisor como un súbdito](../capitulos/41.md) · 02:16:18.119 · [41-051 · Naór evacua al grupo y Winscore ve un dragón verde](../capitulos/41.md) · 02:16:37.800 · [41-054 · Tortas reconoce el olor del dragón verde en Blink](../capitulos/41.md) · 02:24:09.319 · [41-055 · Leo llega al encuentro y la guarida sigue sin localizarse](../capitulos/41.md) · 02:26:36.080.
 
 ## Registros y evidencias
 
@@ -187,4 +193,52 @@ Tipo: `declaracion_personaje`.
 Ilikar declara que procede de Valle Blanco, en las tierras frías del norte. Quiere un trofeo con el que hacerse amigo de un líder y del que su capitana esté orgullosa; Eldrat intenta atraerlo con posibles combates y premios posteriores. Ilikar dice que debe volver a Shiaru y propone sumar la fuerza de su capitana Ione y de Sir Poncelot. Atribuye a Poncelot la muerte de dragones, dinosaurios y gigantes del bosque. Eldrat considera visitarlos y propone competiciones de natación, robo, combate y lanzamiento para prepararse; Ilikar ofrece costumbres de fuerza de su tierra.
 
 Las hazañas de Poncelot se transmiten como testimonio de Ilikar; no se revisitan ni verifican en esta escena. Ione y Poncelot no están presentes ni aceptan participar. El lanzamiento de una cabra a 142 metros es un recuerdo contado durante la broma de los juegos.
+
+## [41-005 · Blink se une a Naór y escucha la advertencia del bosque](../capitulos/41.md) · 00:10:00.000
+
+Tipo: `declaracion_personaje`.
+
+Naór reconoce a Blink, que entró por los tejados tras observar la aldea desde el aire. Ambas van al festival con Leo. Naór advierte que una criatura ronda los alrededores: la describe como una serpiente verde alada. Atribuye a Triel la explicación de que es un dragón, pero ella niega que existan los dragones. Blink no declara haber encontrado esa amenaza durante su viaje.
+
+La negación pertenece a Naór: no modifica la naturaleza de criaturas documentadas. No se da nombre propio ni prueba para fusionar al dragón con Clodidrax.
+
+## [41-049 · Una voz obliga a dejar los cuerpos en el bosque](../capitulos/41.md) · 02:14:26.760
+
+Tipo: `hecho_confirmado`.
+
+Tras una salvación de sabiduría, el grupo escucha una voz enorme que les sugiere dejar los cuerpos en el bosque para que pueda alimentarse. El director describe que sienten que deben obedecer. Tentacol también escucha la voz, pero no experimenta esa compulsión. Cuando discuten si el prisionero vivo cuenta como cuerpo, el director aclara que también es un cuerpo; no se llega a resolver un traslado suyo.
+
+El emisor no se nombra en el momento de la orden. La posterior visión del dragón y el olor reconocido por Tortas contextualizan el episodio. El comentario de que quizá Chopito evita el efecto es tentativo y jocoso; no fija una inmunidad o una habilidad protectora nueva.
+
+## [41-050 · Chopito presenta al emisor como un súbdito](../capitulos/41.md) · 02:16:18.119
+
+Tipo: `declaracion_personaje`.
+
+Chopito dice a Tentacol que la voz pertenece a uno de sus súbditos, que necesita alimentarse para fortalecerse, y le pide que no toque los cuerpos. Esa explicación persuade dentro de la escena, pero no prueba una relación de vasallaje entre Chopito y el ser del bosque.
+
+Conservar como declaración de Chopito, sin convertir la broma o su propia pretensión de poder en jerarquía confirmada. No todos los personajes reciben necesariamente esta comunicación del mismo modo.
+
+## [41-051 · Naór evacua al grupo y Winscore ve un dragón verde](../capitulos/41.md) · 02:16:37.800
+
+Tipo: `hecho_confirmado`.
+
+Winscore recoge los recipientes de veneno de los enemigos. Naór, aún agrandada, carga a sus compañeros y corre hacia Iktan, describiendo al emisor como la serpiente alada que susurra desde el bosque. Al mirar atrás entre las ramas, Winscore ve un dragón verde y el director lo confirma. El grupo deja los cuerpos, pero el director permite que Naór se lleve las cabezas cortadas. Llegan al poblado huyendo.
+
+Winscore es el observador explícito del dragón. La retirada no incluye un combate con él ni su persecución hasta la guarida. No se muestra al prisionero llegando a la aldea, recuperando la conciencia o siendo comido; su desenlace queda abierto.
+
+## [41-054 · Tortas reconoce el olor del dragón verde en Blink](../capitulos/41.md) · 02:24:09.319
+
+Tipo: `hecho_confirmado`.
+
+Al olfatear a Blink, Tortas percibe un olor familiar que lleva notando muchos años en el bosque. El director lo vincula a la gran serpiente del bosque y confirma después que es olor de dragón verde. Blink cuenta que, tras derrotar a las criaturas, algo les habló en la cabeza y les ordenó dejar las presas; propone que aún conserva un rastro del aura o de la magia usada.
+
+El reconocimiento del olor sí recibe confirmación. La explicación concreta como rastro de un aura es una propuesta de Blink. Esta percepción olfativa por contacto no transforma la percepción del veneno del capítulo 40 en una capacidad general de localizar dragones.
+
+## [41-055 · Leo llega al encuentro y la guarida sigue sin localizarse](../capitulos/41.md) · 02:26:36.080
+
+Tipo: `hecho_confirmado`.
+
+Naór va a la taberna y trae a Leo para que vea a Tortas. Durante la conversación se expresa poca disposición a combatir a un dragón y Winscore empieza a apuntar el nombre y los datos que el anciano intenta recordar. Tortas dice conocer el nombre y comienza a deletrearlo con mucha lentitud. La transcripción alterna formas irreconocibles y no completa una grafía segura. Cuando preguntan por la guarida, el director aclara que Tortas no sabe dónde está. Se hace de noche, la gente abandona la fiesta y Leo empieza a dormirse mientras Naór intenta mantenerlo atento. La sesión termina con el anciano todavía pronunciando el nombre.
+
+Los enunciados sobre el roble rojo y subir una montaña no se establecen como ruta; el director corrige expresamente que desconoce la guarida. El deletreo incompleto no autoriza a fijar Colgen o Clodidrax ni a fusionar sus fichas. El comentario de Chopito sobre cuatro horas no confirma una duración literal de esta escena.
 

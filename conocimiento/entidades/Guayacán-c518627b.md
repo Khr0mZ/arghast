@@ -12,7 +12,7 @@ Base para revisar equivalencia: [22-002](../capitulos/22.md), [27-004](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 40.
+Relato revisado hasta el capítulo 41.
 
 ### Linaje, puños y un festival interrumpido
 

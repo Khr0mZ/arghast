@@ -12,7 +12,7 @@ Base para revisar equivalencia: [40-007](../capitulos/40.md), [40-011](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 40.
+Relato revisado hasta el capítulo 41.
 
 ### El protector abandona la piedra
 
@@ -31,6 +31,12 @@ Fuentes: [40-016 · Tortas examina la amalgama y el líquido verde](../capitulos
 Al volver a Iktan manifiesta brazos astrales verdes y lleva al goliat ante los vecinos arrodillados. Triel le pide aprender. Las competiciones posteriores terminan con Leona e Ilikar lanzándolo al lago a pesar de su resistencia; acepta el consejo de Eldrat y se esconde bajo el agua. La piedra que deja atrás conserva su valor sagrado, pero no transmite sus poderes a Triel.
 
 Fuentes: [40-036 · Brazos astrales de Tortas y deseo de aprender de Triel](../capitulos/40.md) · 02:25:53.120 · [40-040 · Una competición de fuerza termina con la cabra de la cena](../capitulos/40.md) · 02:42:05.120 · [40-041 · Leona e Ilikar lanzan a Tortas al lago](../capitulos/40.md) · 02:44:33.840 · [40-042 · Triel ocupa la piedra sagrada y Eldrat la aparta](../capitulos/40.md) · 02:48:50.319.
+
+### Los visitantes del festival y el olor del dragón
+
+Otro grupo se reúne ante el Anciano de barba mojada, inicialmente inmóvil. Una infiltrada pretende que lo retiren y durante la vigilancia se detecta brillo mágico en él, sin explicarlo. Al volver del combate, Naór lo ve moverse y hablar y él recuerda sus primeros bigotes. Reconoce olor de dragón verde en Blink por contacto con la nariz. Su lenta tentativa de recordar el nombre no fija grafía y el director aclara que desconoce la guarida. La experiencia de este grupo no reescribe la actividad del capítulo 40 ni resuelve su edad.
+
+Fuentes: [41-003 · Winscore llega al festival de Iktan](../capitulos/41.md) · 00:02:22.040 · [41-009 · Naór ofrece respetos de Atlan y encarga a Leo vigilar la tortuga](../capitulos/41.md) · 00:21:23.000 · [41-011 · Winscore resiste la sugerencia de llevarse la tortuga](../capitulos/41.md) · 00:31:07.240 · [41-024 · Vigilancia mágica del festival y presencia de Cipo](../capitulos/41.md) · 00:57:46.000 · [41-052 · Naór presencia el movimiento de Tortas y ofrece las cabezas](../capitulos/41.md) · 02:18:04.399 · [41-053 · Winscore y Blink se presentan ante el anciano](../capitulos/41.md) · 02:20:48.880 · [41-054 · Tortas reconoce el olor del dragón verde en Blink](../capitulos/41.md) · 02:24:09.319 · [41-055 · Leo llega al encuentro y la guarida sigue sin localizarse](../capitulos/41.md) · 02:26:36.080.
 
 ## Registros y evidencias
 
@@ -281,4 +287,100 @@ Tipo: `hecho_confirmado`.
 Eldrat, Ilikar y Leona perciben que la población, incluida Walulu, mira con extrañeza y disgusto la piedra que antes ocupaba Tortas. Triel está sentada allí intentando meditar: cree que puede conseguir brazos astrales por imitarlo. Eldrat la reprende, la retira tirándole de la oreja y se disculpa ante Walulu por ocupar la piedra sagrada. No se manifiesta ningún poder. El capítulo termina con Tortas escondido bajo el agua y Leona e Ilikar considerando si lanzar también la cabra restante.
 
 La creencia de Triel no prueba que la piedra conceda poderes. El último lanzamiento de la cabra se debate, pero no se resuelve.
+
+## [41-003 · Winscore llega al festival de Iktan](../capitulos/41.md) · 00:02:22.040
+
+Tipo: `hecho_confirmado`.
+
+Winscore llega desde Cuicapalli atraído por la noticia de un festival. Los guardias lo dejan entrar y observa plantas de colores y olores intensos. Sigue a los vecinos hasta la zona de casas derrumbadas y suelo sin vegetación. Se congregan ante una tortuga inmóvil sobre una piedra: su barba gotea agua aunque no ha llovido. Hay música, ofrendas y celebrantes.
+
+El pasaje no explica qué destruyó las casas ni por qué está mojada la barba. La figura no recibe identificación nominal nueva ni se mueve en este tramo.
+
+## [41-009 · Naór ofrece respetos de Atlan y encarga a Leo vigilar la tortuga](../capitulos/41.md) · 00:21:23.000
+
+Tipo: `hecho_confirmado`.
+
+Naór reconoce a Cipo y recuerda haberlo visto bajo un caldero. Acompaña a Leo a depositar la figura tallada y presenta su propia ofrenda en nombre de Atlan. Cuenta que de pequeña esperaba con Walulu a que la figura venerada se moviera, sin verlo. Después sienta a Leo en una piedra y le encarga vigilarla sin parpadear como prueba de paciencia, mientras busca bebida.
+
+El recuerdo infantil y la leyenda son testimonios de Naór. No se confirma avance de nivel de Leo ni movimiento de la figura venerada.
+
+## [41-011 · Winscore resiste la sugerencia de llevarse la tortuga](../capitulos/41.md) · 00:31:07.240
+
+Tipo: `hecho_confirmado`.
+
+Mientras Winscore recibe bebida y un adorno de flores, una mujer le susurra que estaría bien llevarse la tortuga. Tras superar la salvación de sabiduría, el enano escucha la frase y queda extrañado, sin obedecerla. La mujer se aleja.
+
+La sugerencia identifica el objetivo inmediato, no el propósito último, el autor de la orden ni el conjuro usado.
+
+## [41-012 · Winscore detecta una ilusión y descubre incoherencias](../capitulos/41.md) · 00:32:17.000
+
+Tipo: `hecho_confirmado`.
+
+Winscore lanza detectar magia y ve una película ilusoria alrededor de la mujer. Le pregunta por el festival: ella habla de una tortuga grande y rectifica cuando él recuerda que veneran una estatua. Afirma ser del lugar y niega saber del ataque de hombres serpiente en una población próxima. La resolución de la tirada de intuición comunica a Winscore que miente.
+
+La ilusión y la mentira son los indicios de esta fase; la forma serpentina aparece después. El brillo de armas de guardias no los convierte en infiltrados.
+
+## [41-013 · El golpe de Winscore provoca la intervención del guardia](../capitulos/41.md) · 00:35:30.000
+
+Tipo: `hecho_confirmado`.
+
+Winscore encanta su bastón y golpea en la cabeza a la sospechosa, que cae y protesta. Un guardia sujeta al enano y pide explicaciones. Winscore acusa a la mujer de ser una serpiente infiltrada que intenta convencer a alguien de llevarse la tortuga. Durante la discusión se pide hacer que huela a serpiente. El guardia percibe el olor y conduce a ambos ante la autoridad. Winscore relata el antecedente de enemigos con disfraces mágicos y el envenenamiento de otro dirigente.
+
+El olor fue solicitado artificialmente, no es prueba natural independiente. La acusación de envenenar el pueblo es de Winscore; no se demuestra nueva contaminación. El ASR no permite fijar autor ni nombre del recurso que produce el olor.
+
+## [41-022 · Tenta se presenta y sumerge a la cautiva](../capitulos/41.md) · 00:52:24.000
+
+Tipo: `hecho_confirmado`.
+
+Tras pedir refuerzos para proteger al Anciano, el grupo deja el interrogatorio en manos del recién llegado, que se presenta como Tenta, mientras Walulu permanece con la prisionera. Chopito propone llevarla al agua; Tenta le sumerge repetidamente la cabeza y la mujer empieza a ahogarse. Se aclara que la agresión rompe el encantamiento amistoso aplicado antes.
+
+La presentación del enano se transcribe Wincore; se normaliza con Winscore ya catalogado. La violencia del interrogatorio ocurre efectivamente, aunque se acompaña de bromas.
+
+## [41-024 · Vigilancia mágica del festival y presencia de Cipo](../capitulos/41.md) · 00:57:46.000
+
+Tipo: `hecho_confirmado`.
+
+Los compañeros buscan el rastro de la infiltrada y vigilan al Anciano. La magia ilusoria deja un recorrido hacia la entrada, sin detectar otra aura semejante dentro del poblado. Leo es enviado a la taberna. Winscore observa que la estatua también brilla ante detectar magia, y Blink vigila desde una posición elevada. Los asistentes continúan bailando sin conocer el incidente. El director señala a Cipo en la fiesta como una pequeña llama que empieza a moverse y estirarse.
+
+El brillo acredita una detección mágica; no explica su causa. Cipo está identificado por el director en 01:01:20.599–01:01:30.349. No equiparar la estatua con la piedra sagrada ni asignar a ésta el aura.
+
+## [41-025 · Tenta informa y un guardia rechaza las órdenes de Winscore](../capitulos/41.md) · 01:02:02.000
+
+Tipo: `hecho_confirmado`.
+
+Tenta reúne a los compañeros y transmite la noticia de los dos sacerdotes y las dos grandes criaturas, representando con prestidigitación las serpientes que salieron de la cautiva. Aclara que ésta ha muerto. Winscore pide cancelar la fiesta, reducir el área de los asistentes y doblar la vigilancia, explicando que pretenden llevarse a la tortuga. El guardia se niega a abandonar su puesto o seguir instrucciones de un desconocido y dice que esperará órdenes de su jefa.
+
+No afirmar una cancelación consumada ni que la guardia haya obedecido. El vocativo Leona en 01:02:40 se conserva como desliz o reconocimiento dudoso: el coordinador confirma Naór por el bloque 1, sin crear una presencia de Leona a partir de esa frase.
+
+## [41-052 · Naór presencia el movimiento de Tortas y ofrece las cabezas](../capitulos/41.md) · 02:18:04.399
+
+Tipo: `hecho_confirmado`.
+
+De vuelta en Iktan, el grupo encuentra a la población reunida ante la gran tortuga venerada como estatua. Tortas se mueve muy lentamente, mira alrededor y habla. Naór coloca las cabezas como ofrenda, se arrodilla y llora porque lleva visitando el lugar desde pequeña y nunca había conseguido verlo moverse. Tortas dice recordar sus primeros bigotes y la llama Bigotitos.
+
+Las cabezas se ofrecen a Tortas en esta escena, aunque Naór las había destinado antes a Leo y Walulu. La sorpresa de este grupo no implica que Tortas estuviera inmóvil entre los capítulos 40 y 41 ni que se repita cronológicamente su despertar.
+
+## [41-053 · Winscore y Blink se presentan ante el anciano](../capitulos/41.md) · 02:20:48.880
+
+Tipo: `hecho_confirmado`.
+
+Naór presenta a Winscore a Tortas. El enano se identifica como explorador y expresa que busca los tesoros de aquellas tierras, aunque hasta ahora encuentra serpientes. Se cuenta la leyenda de que Iktan fue construida alrededor del anciano. Tortas resta importancia al tiempo que lleva allí. Blink se presenta, se acerca y aparta el pelo que le cubre el rostro; el anciano termina rozándola con la nariz para verla.
+
+La construcción de Iktan alrededor de Tortas se cuenta como leyenda; no se fija una fecha de fundación ni una edad exacta. El diálogo jocoso sobre ser milenario no resuelve los testimonios incompatibles del capítulo 40.
+
+## [41-054 · Tortas reconoce el olor del dragón verde en Blink](../capitulos/41.md) · 02:24:09.319
+
+Tipo: `hecho_confirmado`.
+
+Al olfatear a Blink, Tortas percibe un olor familiar que lleva notando muchos años en el bosque. El director lo vincula a la gran serpiente del bosque y confirma después que es olor de dragón verde. Blink cuenta que, tras derrotar a las criaturas, algo les habló en la cabeza y les ordenó dejar las presas; propone que aún conserva un rastro del aura o de la magia usada.
+
+El reconocimiento del olor sí recibe confirmación. La explicación concreta como rastro de un aura es una propuesta de Blink. Esta percepción olfativa por contacto no transforma la percepción del veneno del capítulo 40 en una capacidad general de localizar dragones.
+
+## [41-055 · Leo llega al encuentro y la guarida sigue sin localizarse](../capitulos/41.md) · 02:26:36.080
+
+Tipo: `hecho_confirmado`.
+
+Naór va a la taberna y trae a Leo para que vea a Tortas. Durante la conversación se expresa poca disposición a combatir a un dragón y Winscore empieza a apuntar el nombre y los datos que el anciano intenta recordar. Tortas dice conocer el nombre y comienza a deletrearlo con mucha lentitud. La transcripción alterna formas irreconocibles y no completa una grafía segura. Cuando preguntan por la guarida, el director aclara que Tortas no sabe dónde está. Se hace de noche, la gente abandona la fiesta y Leo empieza a dormirse mientras Naór intenta mantenerlo atento. La sesión termina con el anciano todavía pronunciando el nombre.
+
+Los enunciados sobre el roble rojo y subir una montaña no se establecen como ruta; el director corrige expresamente que desconoce la guarida. El deletreo incompleto no autoriza a fijar Colgen o Clodidrax ni a fusionar sus fichas. El comentario de Chopito sobre cuatro horas no confirma una duración literal de esta escena.
 

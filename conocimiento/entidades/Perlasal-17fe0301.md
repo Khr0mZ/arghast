@@ -12,7 +12,7 @@ Base para revisar equivalencia: [29-020](../capitulos/29.md), [29-021](../capitu
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 40.
+Relato revisado hasta el capítulo 41.
 
 ### Una ciudad bajo el agua que teme a la superficie
 
@@ -25,6 +25,12 @@ Fuentes: [29-019 · Maris calma a los guardias y los besos conceden branquias](.
 Maris explica los secuestros y rituales que atribuye a los profundos, y Coyote consigue que la población acepte su promesa de ayuda. Los visitantes reciben comida y alojamiento, pero el acceso religioso sigue restringido y Ayoto debe demostrar sus intenciones con actos. La visita termina allí, sin que se narre una liberación definitiva de la amenaza del kraken.
 
 Fuentes: [29-022 · Secuestros y kraken que crece por rituales](../capitulos/29.md) · 02:20:00.000 · [29-023 · Promesa pública y hospitalidad de la taberna](../capitulos/29.md) · 02:26:00.000 · [29-024 · Habitación pagada y descanso local](../capitulos/29.md) · 02:32:00.000 · [29-025 · Ayoto no obtiene acceso religioso sin actos](../capitulos/29.md) · 02:36:00.000.
+
+### Una procedencia cercana y una visita deseada
+
+Tentacol declara proceder de aguas profundas y bosques de algas próximos a Perlasal. Naór conoce el nombre y desea visitar esas aguas, pero sus intentos anteriores acabaron cerca del ahogamiento. La consulta a Chopito no proporciona un medio de respiración ni inicia un viaje; tampoco resuelve la crisis de los profundos documentada por Maris.
+
+Fuentes: [41-010 · Tentacol habla de Perlasal y se aclara la telepatía de Chopito](../capitulos/41.md) · 00:24:44.000.
 
 ## Registros y evidencias
 
@@ -59,4 +65,12 @@ Tipo: `hecho_confirmado`.
 Ayoto vuelve al templo para conocer y respetar la religión y la especie locales. Los guardias le niegan el acceso sin Maris o permiso de Ivet. Espera a la oficiante, se inclina y ofrece un juramento al sol y cortarse la mano. Ella no acepta la palabra ni la mano y exige actos que demuestren que no es un peligro. Ayoto busca un cadáver grande para presentarlo, pero no se muestra que lo entregue o acepten. El episodio termina en Perlasal.
 
 No se revela la religión o deidad concreta. Ofrecer el cadáver sigue siendo un plan, y Ayoto no vulnera la prohibición de entrar.
+
+## [41-010 · Tentacol habla de Perlasal y se aclara la telepatía de Chopito](../capitulos/41.md) · 00:24:44.000
+
+Tipo: `declaracion_personaje`.
+
+Tentacol se presenta a Winscore, Blink y Naór y dice proceder de aguas profundas, por los bosques de algas próximos a Perlasal. Naór conoce el destino y quiere visitarlo, pero no tiene un método para permanecer bajo el agua; sus intentos han terminado casi en ahogamiento. Tentacol consulta a Chopito sobre ayudarla a respirar, sin obtener solución efectiva. La mesa aclara que el pulpo habla telepáticamente y los demás ven burbujas. Tentacol lo llama su señor.
+
+Procedencia declarada, sin coordenadas ni raza establecida. No se demuestra respiración acuática otorgada por Chopito ni que los presentes oigan todas sus frases telepáticas.
 

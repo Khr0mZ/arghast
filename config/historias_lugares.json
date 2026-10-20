@@ -1,5 +1,5 @@
 {
-  "revisado_hasta": 40,
+  "revisado_hasta": 41,
   "entidades": {
     "Atlan": [
       {
@@ -18,6 +18,15 @@
           "17-021",
           "31-006",
           "31-027"
+        ]
+      },
+      {
+        "titulo": "Una ofrenda y un emisario pendiente",
+        "texto": "Naór lleva días esperando a un emisario de su tierra que debía llegar durante el festival de Iktan. Pide noticias y presenta una ofrenda en nombre del reino. La ausencia no se explica: no se identifica al mensajero ni se acredita captura, muerte o un cambio político en Atlan.",
+        "referencias": [
+          "41-002",
+          "41-004",
+          "41-009"
         ]
       }
     ],
@@ -292,6 +301,38 @@
           "40-036",
           "40-042"
         ]
+      },
+      {
+        "titulo": "El festival entre recuerdos y recién llegados",
+        "texto": "Naór relata la admisión de Leo en la academia y espera a un emisario de Atlan. Los vecinos reciben con flores y bebida a los viajeros, mientras la fiesta se concentra junto a las casas arruinadas y el Anciano. Tentacol rescata a Cipo y Naór recuerda sus visitas infantiles con Walulu. No se explica por esta celebración la destrucción de las casas ni se fija una fecha de fundación.",
+        "referencias": [
+          "41-002",
+          "41-003",
+          "41-006",
+          "41-007",
+          "41-008",
+          "41-009",
+          "41-053"
+        ]
+      },
+      {
+        "titulo": "Una infiltración y el combate exterior",
+        "texto": "Walulu confirma precauciones y deshace el disfraz de una infiltrada, que muere después de revelar la posición de otros adversarios. Los visitantes vigilan el festival, reúnen a la población y buscan al norte. Vencen en el combate junto a una roca y regresan tras la orden de una voz del bosque. Tortas se mueve y habla al terminar la fiesta. La amenaza inmediata se combate, sin acreditar la eliminación de toda la red o de la presencia dracónica.",
+        "referencias": [
+          "41-015",
+          "41-016",
+          "41-023",
+          "41-024",
+          "41-025",
+          "41-026",
+          "41-028",
+          "41-038",
+          "41-046",
+          "41-049",
+          "41-051",
+          "41-052",
+          "41-055"
+        ]
       }
     ],
     "La Madriguera": [
@@ -344,6 +385,13 @@
           "29-023",
           "29-024",
           "29-025"
+        ]
+      },
+      {
+        "titulo": "Una procedencia cercana y una visita deseada",
+        "texto": "Tentacol declara proceder de aguas profundas y bosques de algas próximos a Perlasal. Naór conoce el nombre y desea visitar esas aguas, pero sus intentos anteriores acabaron cerca del ahogamiento. La consulta a Chopito no proporciona un medio de respiración ni inicia un viaje; tampoco resuelve la crisis de los profundos documentada por Maris.",
+        "referencias": [
+          "41-010"
         ]
       }
     ],
@@ -561,6 +609,22 @@
         "referencias": [
           "40-005",
           "40-039"
+        ]
+      }
+    ],
+    "Roca de los sacerdotes al norte de Iktan": [
+      {
+        "titulo": "El lugar de los viales y la emboscada",
+        "texto": "La confesión incompleta y la indicación del conejo llevan al grupo hasta una roca exterior al norte del poblado. Allí dos figuras con ilusiones llenan viales de líquido verdoso. Un estanque cercano ofrece agua a Chopito. Los aventureros preparan una emboscada y afrontan después una abominación. El lugar no se identifica con la piedra sagrada del festival ni con el claro contaminado de la expedición anterior.",
+        "referencias": [
+          "41-023",
+          "41-027",
+          "41-028",
+          "41-029",
+          "41-030",
+          "41-032",
+          "41-038",
+          "41-046"
         ]
       }
     ]

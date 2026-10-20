@@ -12,7 +12,7 @@ Base para revisar equivalencia: [01-006](../capitulos/01.md), [01-010](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 40.
+Relato revisado hasta el capítulo 41.
 
 ### La cría que acompañaba al explorador
 

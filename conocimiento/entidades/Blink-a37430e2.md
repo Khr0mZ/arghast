@@ -12,7 +12,7 @@ Base para revisar equivalencia: [03-005](../capitulos/03.md), [14-003](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 40.
+Relato revisado hasta el capítulo 41.
 
 ### Un hada perdida y una libertad recuperada
 
@@ -37,6 +37,18 @@ Fuentes: [19-014 · Collar con voz poderosa en fruta](../capitulos/19.md) · 01:
 Blink vuelve a ayudar a Citlali cuando desaparece el huevo: busca entre los piratas, entra en la tienda de la Marina y participa en su recuperación, poco antes de la eclosión. En otra expedición intercambia temporalmente su cuerpo con Poncelot y se enfrenta a un tiranosaurio. Cuando un segundo hombre lobo la ataca, Ione logra reconocer a sus aliados aun transformada y la protege. Ese encuentro deja pendiente la identidad y el propósito del otro licántropo.
 
 Fuentes: [34-005 · Origen del huevo y barrido mental](../capitulos/34.md) · 00:30:00.000 · [34-013 · Mamá distrae y Blink encuentra huevo](../capitulos/34.md) · 01:50:00.000 · [34-016 · Disparo agujerea huevo y Mamá se zafa](../capitulos/34.md) · 02:20:00.000 · [36-008 · Intercambio de cuerpos y ruinas arrasadas](../capitulos/36.md) · 00:54:00.000 · [36-014 · Otro hombre lobo observa y ataca a Blink](../capitulos/36.md) · 01:57:00.000 · [36-015 · Ione recupera el control e intimida al otro lobo](../capitulos/36.md) · 02:06:00.000.
+
+### Salir de Shiaru y reencontrarse en Iktan
+
+Relata que consiguió despertar fuera de Shiaru tras varios intentos, aunque lleva días perdida buscando Cuicapalli. Esa salida no explica sus lagunas de memoria. Llega a Iktan por el aire, se reencuentra con Naór y reconoce a Winscore. Conoce a Tentacol y Chopito, vigila el festival y obtiene de un conejo cornudo una dirección útil para localizar a los enemigos.
+
+Fuentes: [41-001 · Blink sale de Shiaru y una fruta altera su voz](../capitulos/41.md) · 00:00:10.800 · [41-005 · Blink se une a Naór y escucha la advertencia del bosque](../capitulos/41.md) · 00:10:00.000 · [41-007 · Los visitantes reciben bebida y Blink presenta a Winscore](../capitulos/41.md) · 00:14:04.950 · [41-010 · Tentacol habla de Perlasal y se aclara la telepatía de Chopito](../capitulos/41.md) · 00:24:44.000 · [41-024 · Vigilancia mágica del festival y presencia de Cipo](../capitulos/41.md) · 00:57:46.000 · [41-027 · Un conejo cornudo orienta a Blink hacia la piedra](../capitulos/41.md) · 01:09:27.000.
+
+### La defensa de sus compañeros y el olor del bosque
+
+Participa en la emboscada con magia de control, aunque se corrige la inmovilización de ambas enemigas. Libera a Naór de la cola y aumenta su tamaño. Resiste flechas envenenadas, mantiene la concentración y busca cobertura mientras ataca la mente de los adversarios. Tras sentir la orden de dejar los cuerpos vuelve a Iktan. Tortas reconoce en ella olor de dragón verde; la idea de un rastro de aura sigue siendo una explicación propuesta por Blink.
+
+Fuentes: [41-031 · Blink intenta inmovilizar a las dos sacerdotisas](../capitulos/41.md) · 01:24:00.000 · [41-036 · Los chillidos psíquicos de Blink fuerzan una retirada](../capitulos/41.md) · 01:36:50.000 · [41-040 · Blink libera y agranda a Naór](../capitulos/41.md) · 01:45:40.800 · [41-041 · Tentacol aparta enemigos y Blink recibe flechas envenenadas](../capitulos/41.md) · 01:47:19.360 · [41-043 · El grupo protege a Naór y Blink busca refugio mágico](../capitulos/41.md) · 01:51:46.000 · [41-045 · Blink ataca la mente del enemigo y el grupo sostiene a Winscore](../capitulos/41.md) · 02:04:00.000 · [41-049 · Una voz obliga a dejar los cuerpos en el bosque](../capitulos/41.md) · 02:14:26.760 · [41-051 · Naór evacua al grupo y Winscore ve un dragón verde](../capitulos/41.md) · 02:16:37.800 · [41-054 · Tortas reconoce el olor del dragón verde en Blink](../capitulos/41.md) · 02:24:09.319.
 
 ## Registros y evidencias
 
@@ -1687,4 +1699,196 @@ Tipo: `hecho_confirmado`.
 Ione entrega el jade a Poncelot y pide conservar más dinero para reparar el barco. Erandy y Blink aceptan no cobrar. Blink propone un nido en el mástil, pero Ione rechaza convertir el barco en un hotel y permite visitas avisadas. Ofrece un camarote a Poncelot y al tigre; él prefiere alojarse con Liz por protección. Ione invita a todos a una fiesta con cerveza gratis. Poncelot vende dos jades por cien monedas en total; la moneda antigua sigue en su casco.
 
 
+
+## [41-001 · Blink sale de Shiaru y una fruta altera su voz](../capitulos/41.md) · 00:00:10.800
+
+Tipo: `declaracion_personaje`.
+
+Blink relata que salió de Shiaru tras varios intentos, despertó fuera del poblado y lleva días perdida intentando llegar a Cuicapalli. Evita a los humanos, habla con animales y come frutas. El director establece que una fruta le vuelve la voz grave y gutural, con ventaja para intimidar y desventaja para persuadir durante esta jornada.
+
+El despertar fuera del poblado procede de Blink: no se establece un mecanismo de teletransporte ni permanencia del efecto vocal.
+
+## [41-005 · Blink se une a Naór y escucha la advertencia del bosque](../capitulos/41.md) · 00:10:00.000
+
+Tipo: `declaracion_personaje`.
+
+Naór reconoce a Blink, que entró por los tejados tras observar la aldea desde el aire. Ambas van al festival con Leo. Naór advierte que una criatura ronda los alrededores: la describe como una serpiente verde alada. Atribuye a Triel la explicación de que es un dragón, pero ella niega que existan los dragones. Blink no declara haber encontrado esa amenaza durante su viaje.
+
+La negación pertenece a Naór: no modifica la naturaleza de criaturas documentadas. No se da nombre propio ni prueba para fusionar al dragón con Clodidrax.
+
+## [41-007 · Los visitantes reciben bebida y Blink presenta a Winscore](../capitulos/41.md) · 00:14:04.950
+
+Tipo: `hecho_confirmado`.
+
+Los vecinos reciben a los extranjeros con bebida y adornos florales; también ofrecen a Leo un líquido que no se identifica como cerveza. Winscore bebe sentado en una piedra. Blink lo reconoce por una aventura con Mamá y un dragón y le presenta a Naór. Ella lo saluda y le da la bienvenida a Xoltacan. Él explica que explora estas tierras y ha acudido al festival.
+
+El recuerdo de Blink no especifica qué dragón: no atribuir acciones nuevas a Winscore ni identificarlo con el verde de Iktan.
+
+## [41-010 · Tentacol habla de Perlasal y se aclara la telepatía de Chopito](../capitulos/41.md) · 00:24:44.000
+
+Tipo: `declaracion_personaje`.
+
+Tentacol se presenta a Winscore, Blink y Naór y dice proceder de aguas profundas, por los bosques de algas próximos a Perlasal. Naór conoce el destino y quiere visitarlo, pero no tiene un método para permanecer bajo el agua; sus intentos han terminado casi en ahogamiento. Tentacol consulta a Chopito sobre ayudarla a respirar, sin obtener solución efectiva. La mesa aclara que el pulpo habla telepáticamente y los demás ven burbujas. Tentacol lo llama su señor.
+
+Procedencia declarada, sin coordenadas ni raza establecida. No se demuestra respiración acuática otorgada por Chopito ni que los presentes oigan todas sus frases telepáticas.
+
+## [41-014 · Cipo recupera sus llamas y Naór deja a Leo vigilado](../capitulos/41.md) · 00:38:03.000
+
+Tipo: `hecho_confirmado`.
+
+Naór y Blink ven inicialmente el altercado como una escena extraña de la fiesta. Naór busca con quién pelear, pero los vecinos se apartan. Cipo asiente cuando ella se acerca y ya recupera el color rojo y las llamas. Naór comprueba que Leo sigue pendiente de la figura venerada y va con Blink a averiguar qué sucede con Winscore. Encarga a alguien vigilar al niño junto a la estatua.
+
+El destinatario del encargo figura como Isabel en ASR sin identificación suficiente. La recuperación visible de Cipo no acredita restitución de todos sus puntos de salud.
+
+## [41-018 · Winscore quema a la cautiva, que anuncia una amenaza](../capitulos/41.md) · 00:46:25.000
+
+Tipo: `hecho_confirmado`.
+
+Winscore usa una antorcha para quemar la cara de la prisionera y después un pie, intentando hacerla hablar. Ella resiste y le recuerda que, si la mata, no obtendrá información. Prefiere sufrir ahora porque, según afirma, algo está por llegar y hará sufrir a sus captores. Naór y Blink alcanzan la entrada de la capilla y oyen los gritos.
+
+La amenaza es una declaración de la cautiva; no identifica criatura, jefe, ritual o momento. No vincularla automáticamente al dragón ni al veneno de la vegetación.
+
+## [41-019 · Walulu vincula la infiltración con el veneno de Eromov](../capitulos/41.md) · 00:48:00.000
+
+Tipo: `declaracion_personaje`.
+
+Naór y Blink ven a la prisionera y preguntan qué sucede. Walulu afirma ante Naór que pertenece al grupo que envenenó a Eromov. Explica que aumentaron la vigilancia tras la información de Leona, pero parece que los enemigos se colaron, y propone buscar más. Una de las recién llegadas se marcha corriendo al oír hablar de serpientes. Los demás plantean buscar magia y averiguar el objetivo de la cautiva.
+
+La atribución al grupo es de Walulu, sin prueba de que esta mujer administrara el veneno. No queda nombrada la voz de quien sale: cotejar la continuación antes de atribuir a Naór o Blink.
+
+## [41-024 · Vigilancia mágica del festival y presencia de Cipo](../capitulos/41.md) · 00:57:46.000
+
+Tipo: `hecho_confirmado`.
+
+Los compañeros buscan el rastro de la infiltrada y vigilan al Anciano. La magia ilusoria deja un recorrido hacia la entrada, sin detectar otra aura semejante dentro del poblado. Leo es enviado a la taberna. Winscore observa que la estatua también brilla ante detectar magia, y Blink vigila desde una posición elevada. Los asistentes continúan bailando sin conocer el incidente. El director señala a Cipo en la fiesta como una pequeña llama que empieza a moverse y estirarse.
+
+El brillo acredita una detección mágica; no explica su causa. Cipo está identificado por el director en 01:01:20.599–01:01:30.349. No equiparar la estatua con la piedra sagrada ni asignar a ésta el aura.
+
+## [41-025 · Tenta informa y un guardia rechaza las órdenes de Winscore](../capitulos/41.md) · 01:02:02.000
+
+Tipo: `hecho_confirmado`.
+
+Tenta reúne a los compañeros y transmite la noticia de los dos sacerdotes y las dos grandes criaturas, representando con prestidigitación las serpientes que salieron de la cautiva. Aclara que ésta ha muerto. Winscore pide cancelar la fiesta, reducir el área de los asistentes y doblar la vigilancia, explicando que pretenden llevarse a la tortuga. El guardia se niega a abandonar su puesto o seguir instrucciones de un desconocido y dice que esperará órdenes de su jefa.
+
+No afirmar una cancelación consumada ni que la guardia haya obedecido. El vocativo Leona en 01:02:40 se conserva como desliz o reconocimiento dudoso: el coordinador confirma Naór por el bloque 1, sin crear una presencia de Leona a partir de esa frase.
+
+## [41-026 · La multitud se reúne y el grupo parte al norte con sigilo](../capitulos/41.md) · 01:06:00.000
+
+Tipo: `hecho_confirmado`.
+
+Un compañero conduce a los asistentes hacia la hoguera y la estatua anunciando que pronto hablará Walulu; los vecinos terminan reuniéndose pese a algunas protestas. Winscore propone localizar y neutralizar discretamente a los enemigos del norte. Los compañeros abandonan el poblado bajo una magia que mejora su sigilo y exige permanecer próximos a su portador.
+
+No atribuir el conjuro a un personaje sólo por proximidad de turno. La mención de agrupar a la gente para una bola de fuego es broma de mesa, no plan demostrado de atacar a los civiles.
+
+## [41-027 · Un conejo cornudo orienta a Blink hacia la piedra](../capitulos/41.md) · 01:09:27.000
+
+Tipo: `declaracion_personaje`.
+
+Tras una búsqueda dificultada por el ruido de la jungla, Blink habla con un conejo cornudo. El animal afirma haber visto una serpiente enorme que se proclama dueña del bosque. Al precisar que busca humanoides serpentinos, recuerda unas mujeres extrañas que estuvieron junto a una piedra y le señala la dirección. Blink comunica la pista al grupo, que decide investigar la roca sin desviarse a buscar a la gran serpiente.
+
+La gran serpiente es un testimonio del conejo; no se identifica con el dragón verde ni con una criatura conocida. Los comentarios sobre que alguien se ha comido al conejo no describen un agresor ni una acción inequívoca: no incorporarlos como muerte comprobada.
+
+## [41-028 · Dos mujeres con la misma aura trabajan junto a la roca](../capitulos/41.md) · 01:14:55.000
+
+Tipo: `hecho_confirmado`.
+
+El grupo encuentra junto a una roca a dos mujeres vestidas como nativas, ocupadas en reunir materiales y vigilar a su alrededor. Desde el escondite se comprueba que ambas presentan la misma magia que la infiltrada. Las ven manipular recipientes clavados en el suelo y rellenar viales, aunque desde esa distancia no distinguen su contenido.
+
+La igualdad de aura es observada. Su naturaleza serpentina queda confirmada después al romperse la ilusión, no por su aspecto humano inicial.
+
+## [41-031 · Blink intenta inmovilizar a las dos sacerdotisas](../capitulos/41.md) · 01:24:00.000
+
+Tipo: `hecho_confirmado`.
+
+Blink intenta sujetar mágicamente a ambas rivales. La primera resolución se corrige al recordar su resistencia a la magia: una logra superar la salvación. El combate continúa con al menos una enemiga inmovilizada; no queda establecido que ambas permanezcan retenidas por el conjuro.
+
+El nombre del conjuro se corta en «un person»; puede describirse el efecto sin inventar un título oído con claridad. La ventaja en salvaciones es regla explicitada por el director, no invulnerabilidad a toda magia.
+
+## [41-036 · Los chillidos psíquicos de Blink fuerzan una retirada](../capitulos/41.md) · 01:36:50.000
+
+Tipo: `hecho_confirmado`.
+
+Blink usa metamagia para acelerar un conjuro y lanza ataques psíquicos contra las dos adversarias. Una supera la resistencia y otra falla, recibe daño y debe alejarse todo lo que puede. Ese movimiento permite otro golpe de oportunidad declarado no letal.
+
+No se afirma que ambas huyan ni que alguna haya muerto; la resolución conserva una salvación exitosa. El nombre formal del conjuro no queda acreditado más allá de la descripción de chillido psíquico.
+
+## [41-040 · Blink libera y agranda a Naór](../capitulos/41.md) · 01:45:40.800
+
+Tipo: `hecho_confirmado`.
+
+Blink utiliza telequinesis para sacar a Naór del agarre de la cola; el director confirma el éxito. Después emplea Enlarge para aumentar el tamaño de su compañera y dificultar que vuelvan a sujetarla. Se retira hacia la posición del aliado que dispara descargas.
+
+La liberación y el aumento de tamaño son efectos observados. Las cifras de daño y ventajas se discuten como reglas de combate; no se convierten en atributos permanentes de Naór.
+
+## [41-041 · Tentacol aparta enemigos y Blink recibe flechas envenenadas](../capitulos/41.md) · 01:47:19.360
+
+Tipo: `hecho_confirmado`.
+
+Tentacol mueve su tentáculo e intenta atacar con él; después sus descargas empujan y ralentizan a un enemigo. Un arquero oculto entre las ramas dispara contra Blink. Las flechas van envenenadas, la hieren y le obligan a mantener la concentración, que logra conservar en las tiradas mostradas.
+
+No atribuir a Chopito cada efecto del tentáculo sin el contexto mecánico previo. El daño a Blink no implica que pierda el conjuro que mantiene ni una lesión permanente.
+
+## [41-043 · El grupo protege a Naór y Blink busca refugio mágico](../capitulos/41.md) · 01:51:46.000
+
+Tipo: `hecho_confirmado`.
+
+La criatura vuelve contra Naór y la alcanza con varios ataques fuertes. Sus compañeros combinan una reacción mágica y Guardian Coil para reducir el daño. Naór contraataca, provoca ceguera y se cura parcialmente. Aprovecha esa ceguera para alejarse sin recibir un ataque de oportunidad. Blink, herida, busca cobertura detrás de Naór y utiliza el conjuro Blink, cuyo funcionamiento describe como desapariciones intermitentes al plano etéreo.
+
+No se determina quién lanza cada reacción únicamente por la voz. La frase sobre encontrarse un dragón azul en el plano etéreo es una broma de mesa: no confirma un encuentro ni un segundo dragón. La descripción del conjuro no demuestra una estancia prolongada fuera del combate.
+
+## [41-045 · Blink ataca la mente del enemigo y el grupo sostiene a Winscore](../capitulos/41.md) · 02:04:00.000
+
+Tipo: `hecho_confirmado`.
+
+Blink utiliza metamagia y ataques psíquicos para herir a una de las criaturas y obligarla a desplazarse, hasta agotar el movimiento disponible. Vuelve a buscar cobertura cerca de Naór. Tentacol continúa sus ataques con tentáculo y descargas. La criatura regresa contra Winscore; falla al intentar enredarlo, pero lo hiere con la cimitarra. Una reacción vuelve a reducir el daño y Winscore mantiene la concentración que estaba sosteniendo.
+
+Las conversaciones sobre qué conjuro debería haberse elegido no acreditan un lanzamiento adicional. El director limita el desplazamiento forzado por el movimiento restante.
+
+## [41-046 · La abominación cae tras los últimos ataques](../capitulos/41.md) · 02:08:00.000
+
+Tipo: `hecho_confirmado`.
+
+Winscore y Naór continúan atacando. Blink intenta otro ataque psíquico y trata de mover a Winscore por telequinesis, sin conseguir desplazarlo en la resolución mostrada. Tentacol vuelve a mover el tentáculo y a disparar. El director confirma que acaban con la abominación que aún combatía.
+
+La derrota de la abominación no supone la muerte del enemigo que habían dejado inconsciente. No se atribuye el golpe final a una persona concreta fuera de la secuencia de turnos que muestra la fuente.
+
+## [41-048 · Cabezas para Leo y Walulu y regreso de Chopito a la botella](../capitulos/41.md) · 02:13:27.760
+
+Tipo: `hecho_confirmado`.
+
+Naór corta dos cabezas de los adversarios vencidos: una como recuerdo para Leo y otra como prueba para Walulu. Blink se apoya en una roca y se tapa las heridas. Tentacol recoge a Chopito y lo introduce de nuevo en una botella.
+
+La futura entrega a Walulu se anuncia; no aparece una conversación de entrega o un análisis suyo en este bloque. Las cabezas proceden de los vencidos, sin atribuirles nombres ni confundirlas con el prisionero vivo.
+
+## [41-049 · Una voz obliga a dejar los cuerpos en el bosque](../capitulos/41.md) · 02:14:26.760
+
+Tipo: `hecho_confirmado`.
+
+Tras una salvación de sabiduría, el grupo escucha una voz enorme que les sugiere dejar los cuerpos en el bosque para que pueda alimentarse. El director describe que sienten que deben obedecer. Tentacol también escucha la voz, pero no experimenta esa compulsión. Cuando discuten si el prisionero vivo cuenta como cuerpo, el director aclara que también es un cuerpo; no se llega a resolver un traslado suyo.
+
+El emisor no se nombra en el momento de la orden. La posterior visión del dragón y el olor reconocido por Tortas contextualizan el episodio. El comentario de que quizá Chopito evita el efecto es tentativo y jocoso; no fija una inmunidad o una habilidad protectora nueva.
+
+## [41-051 · Naór evacua al grupo y Winscore ve un dragón verde](../capitulos/41.md) · 02:16:37.800
+
+Tipo: `hecho_confirmado`.
+
+Winscore recoge los recipientes de veneno de los enemigos. Naór, aún agrandada, carga a sus compañeros y corre hacia Iktan, describiendo al emisor como la serpiente alada que susurra desde el bosque. Al mirar atrás entre las ramas, Winscore ve un dragón verde y el director lo confirma. El grupo deja los cuerpos, pero el director permite que Naór se lleve las cabezas cortadas. Llegan al poblado huyendo.
+
+Winscore es el observador explícito del dragón. La retirada no incluye un combate con él ni su persecución hasta la guarida. No se muestra al prisionero llegando a la aldea, recuperando la conciencia o siendo comido; su desenlace queda abierto.
+
+## [41-053 · Winscore y Blink se presentan ante el anciano](../capitulos/41.md) · 02:20:48.880
+
+Tipo: `hecho_confirmado`.
+
+Naór presenta a Winscore a Tortas. El enano se identifica como explorador y expresa que busca los tesoros de aquellas tierras, aunque hasta ahora encuentra serpientes. Se cuenta la leyenda de que Iktan fue construida alrededor del anciano. Tortas resta importancia al tiempo que lleva allí. Blink se presenta, se acerca y aparta el pelo que le cubre el rostro; el anciano termina rozándola con la nariz para verla.
+
+La construcción de Iktan alrededor de Tortas se cuenta como leyenda; no se fija una fecha de fundación ni una edad exacta. El diálogo jocoso sobre ser milenario no resuelve los testimonios incompatibles del capítulo 40.
+
+## [41-054 · Tortas reconoce el olor del dragón verde en Blink](../capitulos/41.md) · 02:24:09.319
+
+Tipo: `hecho_confirmado`.
+
+Al olfatear a Blink, Tortas percibe un olor familiar que lleva notando muchos años en el bosque. El director lo vincula a la gran serpiente del bosque y confirma después que es olor de dragón verde. Blink cuenta que, tras derrotar a las criaturas, algo les habló en la cabeza y les ordenó dejar las presas; propone que aún conserva un rastro del aura o de la magia usada.
+
+El reconocimiento del olor sí recibe confirmación. La explicación concreta como rastro de un aura es una propuesta de Blink. Esta percepción olfativa por contacto no transforma la percepción del veneno del capítulo 40 en una capacidad general de localizar dragones.
 

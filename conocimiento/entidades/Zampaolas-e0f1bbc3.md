@@ -12,7 +12,7 @@ Base para revisar equivalencia: [01-033](../capitulos/01.md), [33-002](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 40.
+Relato revisado hasta el capítulo 41.
 
 ### Un barco que se convierte en casa inmóvil
 

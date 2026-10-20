@@ -12,7 +12,7 @@ Base para revisar equivalencia: [01-022](../capitulos/01.md), [27-003](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 40.
+Relato revisado hasta el capítulo 41.
 
 ### Una presencia de fuego junto a Mamá
 
@@ -31,6 +31,12 @@ Fuentes: [18-003 · Cipo reúne a los viajeros y evitan un dinosaurio](../capitu
 Con sombrero de explorador, extrae una pieza de espada de debajo de la roca que sostiene Ilikar. Reconoce a Leona y los acompaña a Iktan. Eldrat lo pisa, recibe un mordisco y lo aleja de una patada que el goliat no presencia. El elfo encubre lo sucedido diciendo que al elemental le salieron alas. Ilikar y un guardia lo buscan bajo la idea de un dragón de fuego, sin recuperarlo en escena. Esa confusión no cambia su naturaleza de elemental.
 
 Fuentes: [40-003 · Cipo rescata un fragmento de espada y Leona guía a Ilikar](../capitulos/40.md) · 00:05:21.280 · [40-004 · Frutas extrañas y llegada a Iktan](../capitulos/40.md) · 00:11:26.639 · [40-005 · Saludos del goliat y cautela de Eldrat](../capitulos/40.md) · 00:18:33.760 · [40-007 · Triel sale al espectáculo y comienza la búsqueda de Cipo](../capitulos/40.md) · 00:25:50.679 · [40-009 · Ilikar y un guardia buscan al supuesto dragón de fuego](../capitulos/40.md) · 00:34:33.760.
+
+### Recuperar el fuego en Iktan
+
+Chopito descubre una silueta en el agua y Tentacol encuentra a Cipo ennegrecido, humeante y debilitado. Lo acerca al fuego hasta que recupera el rojo y las llamas. Naór lo reconoce y más tarde el director lo señala entre los asistentes al festival. Queda documentado su paradero después de la patada, sin que se informe a Ilikar en escena o se revele la historia del fragmento de espada.
+
+Fuentes: [41-008 · Tentacol rescata a Cipo del agua y lo acerca al fuego](../capitulos/41.md) · 00:18:07.000 · [41-009 · Naór ofrece respetos de Atlan y encarga a Leo vigilar la tortuga](../capitulos/41.md) · 00:21:23.000 · [41-014 · Cipo recupera sus llamas y Naór deja a Leo vigilado](../capitulos/41.md) · 00:38:03.000 · [41-024 · Vigilancia mágica del festival y presencia de Cipo](../capitulos/41.md) · 00:57:46.000.
 
 ## Registros y evidencias
 
@@ -353,4 +359,36 @@ Tipo: `hecho_confirmado`.
 Ilikar y el guardia continúan la búsqueda de Cipo hacia el agua. Imaginan que se ha convertido en un dragón de vapor o gigante y acaban apuntando hacia el sol. Ambos lanzan sus armas al aire; la del guardia cae y la de Ilikar regresa a su mano antes de golpearlo. Ilikar se guarda su lanza y recibe el elogio del guardia por su supuesta puntería.
 
 Las transformaciones atribuidas a Cipo son ocurrencias de los buscadores. El sol no es Cipo y no se confirma ningún impacto sobre el elemental.
+
+## [41-008 · Tentacol rescata a Cipo del agua y lo acerca al fuego](../capitulos/41.md) · 00:18:07.000
+
+Tipo: `hecho_confirmado`.
+
+Chopito ve una silueta bajo el agua y llama a Tentacol. En la orilla aparece Cipo, ennegrecido, humeante y tan debilitado que cae. La explicación de la mesa recuerda que lo arrojaron al agua el día anterior. Tentacol lo recoge y lo coloca en el fuego de un poste o antorcha. El elemental comienza a recuperarse y levanta el pulgar.
+
+Queda localizado después de la patada de Eldrat, sin precisar duración exacta en el agua. La criatura maligna imaginada por Chopito resulta ser Cipo, sin cambio de identidad.
+
+## [41-009 · Naór ofrece respetos de Atlan y encarga a Leo vigilar la tortuga](../capitulos/41.md) · 00:21:23.000
+
+Tipo: `hecho_confirmado`.
+
+Naór reconoce a Cipo y recuerda haberlo visto bajo un caldero. Acompaña a Leo a depositar la figura tallada y presenta su propia ofrenda en nombre de Atlan. Cuenta que de pequeña esperaba con Walulu a que la figura venerada se moviera, sin verlo. Después sienta a Leo en una piedra y le encarga vigilarla sin parpadear como prueba de paciencia, mientras busca bebida.
+
+El recuerdo infantil y la leyenda son testimonios de Naór. No se confirma avance de nivel de Leo ni movimiento de la figura venerada.
+
+## [41-014 · Cipo recupera sus llamas y Naór deja a Leo vigilado](../capitulos/41.md) · 00:38:03.000
+
+Tipo: `hecho_confirmado`.
+
+Naór y Blink ven inicialmente el altercado como una escena extraña de la fiesta. Naór busca con quién pelear, pero los vecinos se apartan. Cipo asiente cuando ella se acerca y ya recupera el color rojo y las llamas. Naór comprueba que Leo sigue pendiente de la figura venerada y va con Blink a averiguar qué sucede con Winscore. Encarga a alguien vigilar al niño junto a la estatua.
+
+El destinatario del encargo figura como Isabel en ASR sin identificación suficiente. La recuperación visible de Cipo no acredita restitución de todos sus puntos de salud.
+
+## [41-024 · Vigilancia mágica del festival y presencia de Cipo](../capitulos/41.md) · 00:57:46.000
+
+Tipo: `hecho_confirmado`.
+
+Los compañeros buscan el rastro de la infiltrada y vigilan al Anciano. La magia ilusoria deja un recorrido hacia la entrada, sin detectar otra aura semejante dentro del poblado. Leo es enviado a la taberna. Winscore observa que la estatua también brilla ante detectar magia, y Blink vigila desde una posición elevada. Los asistentes continúan bailando sin conocer el incidente. El director señala a Cipo en la fiesta como una pequeña llama que empieza a moverse y estirarse.
+
+El brillo acredita una detección mágica; no explica su causa. Cipo está identificado por el director en 01:01:20.599–01:01:30.349. No equiparar la estatua con la piedra sagrada ni asignar a ésta el aura.
 

@@ -12,7 +12,7 @@ Base para revisar equivalencia: [21-007](../capitulos/21.md), [31-001](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 40.
+Relato revisado hasta el capítulo 41.
 
 ### Un niño que esperaba a sus padres
 
@@ -25,6 +25,12 @@ Fuentes: [21-007 · Leo, escondido, relata el secuestro](../capitulos/21.md) · 
 Naór lo presenta más adelante como su hijo y futuro príncipe, lo entrena para esquivar proyectiles y lo lleva hacia Iktan. Durante el ataque del bosque, las voces intentan usar su vínculo para confundirla. Leo queda envenenado, pero sigue ayudando con piedras y mata al último zombi antes de la huida. Sobrevive y entra en Iktan con el grupo, donde su madre adoptiva lo presenta a Walulu. No se muestra todavía su llegada a Atlan ni un reconocimiento político de su nueva posición.
 
 Fuentes: [31-004 · Tesara observa el entrenamiento de Leo](../capitulos/31.md) · 00:18:00.000 · [31-006 · Grupos confluyen y conflicto territorial](../capitulos/31.md) · 00:31:00.000 · [31-009 · La voz de Leo induce un golpe de Naór](../capitulos/31.md) · 00:56:00.000 · [31-018 · Leo queda envenenado y los compañeros se cubren](../capitulos/31.md) · 02:04:00.000 · [31-019 · Leo mata al último zombi y los cuerpos se funden; llegada a Iktan](../capitulos/31.md) · 02:16:00.000 · [31-028 · Confianza limitada y secreto de ruta](../capitulos/31.md) · 03:10:00.000.
+
+### Academia, ofrendas y una lección de paciencia
+
+Naór relata que lo admitieron en la academia de guerreros de Iktan gracias a su conversación con Walulu. En la taberna presenta moratones y le falta algún diente; su protectora le exige defenderse. Deposita una figura tallada y recibe el encargo de vigilar al Anciano. Durante la crisis vuelve a la taberna. Naór lo trae al final para ver a Tortas moverse y hablar, aunque el niño acaba adormeciéndose. No se fija un rango, avance de nivel ni reconocimiento sucesorio.
+
+Fuentes: [41-002 · Naór consigue plaza para Leo y espera a un emisario de Atlan](../capitulos/41.md) · 00:01:18.119 · [41-004 · Naór prepara con Leo las ofrendas del festival](../capitulos/41.md) · 00:07:46.000 · [41-009 · Naór ofrece respetos de Atlan y encarga a Leo vigilar la tortuga](../capitulos/41.md) · 00:21:23.000 · [41-014 · Cipo recupera sus llamas y Naór deja a Leo vigilado](../capitulos/41.md) · 00:38:03.000 · [41-024 · Vigilancia mágica del festival y presencia de Cipo](../capitulos/41.md) · 00:57:46.000 · [41-055 · Leo llega al encuentro y la guarida sigue sin localizarse](../capitulos/41.md) · 02:26:36.080.
 
 ## Registros y evidencias
 
@@ -179,4 +185,76 @@ Tipo: `hecho_confirmado`.
 Walulu regresa y reprende a Coyote por revelar una ubicación prohibida. Acepta el argumento de Naór sobre las dificultades de los clanes y la posibilidad de confiar en algunos extranjeros. Permite que Tesara, Eldrat y Triel permanezcan en Iktan si no revelan el camino. Advierte que habrá consecuencias para ellos y para Coyote si llegan nuevos extranjeros o los traen. Angélica Thunder les proporcionará habitaciones. Naór presenta a Leo y pide visitar la tumba del padre de Walulu; ella recomienda descansar primero debido a las heridas. La escena final muestra una gran criatura serpenteante entre los árboles cercanos.
 
 La decisión cambia y no se ejecuta el borrado de memoria. No se concreta ni se cumple un castigo contra Coyote. La visita a la tumba queda pendiente.
+
+## [41-002 · Naór consigue plaza para Leo y espera a un emisario de Atlan](../capitulos/41.md) · 00:01:18.119
+
+Tipo: `declaracion_personaje`.
+
+Naór explica que Leo ha sido admitido en la academia de guerreros de Iktan gracias a su conversación con Walulu, después de que lo rechazaran por pequeño. Le enseña lo que recuerda de la aldea y del festival desde su infancia. Lleva días esperando en la muralla a un emisario de Atlan que debía llegar para estas fechas; su ausencia la inquieta.
+
+Naór es la leonina acompañada por Leo; no confundirla con Leona, la harengon mensajera de Cuicapalli. No se identifica al emisario ni el motivo del retraso.
+
+## [41-004 · Naór prepara con Leo las ofrendas del festival](../capitulos/41.md) · 00:07:46.000
+
+Tipo: `hecho_confirmado`.
+
+La tabernera llamada Angelic sirve a Naór. Leo muestra moratones y la falta de algún diente; Naór lo reprende por no defenderse de un alumno que le quita la comida. Le entrega una figura de madera tallada para la ofrenda, explica que tienen una para cada uno y permite que él la deposite. Antes de salir pide a la tabernera noticias del emisario.
+
+La taberna no se nombra. Angelic se conserva como Angelique de la continuidad39, sin cerrar su posible equivalencia con Angélica Thunder. No atribuir cada lesión de Leo a un agresor concreto sin más prueba.
+
+## [41-005 · Blink se une a Naór y escucha la advertencia del bosque](../capitulos/41.md) · 00:10:00.000
+
+Tipo: `declaracion_personaje`.
+
+Naór reconoce a Blink, que entró por los tejados tras observar la aldea desde el aire. Ambas van al festival con Leo. Naór advierte que una criatura ronda los alrededores: la describe como una serpiente verde alada. Atribuye a Triel la explicación de que es un dragón, pero ella niega que existan los dragones. Blink no declara haber encontrado esa amenaza durante su viaje.
+
+La negación pertenece a Naór: no modifica la naturaleza de criaturas documentadas. No se da nombre propio ni prueba para fusionar al dragón con Clodidrax.
+
+## [41-007 · Los visitantes reciben bebida y Blink presenta a Winscore](../capitulos/41.md) · 00:14:04.950
+
+Tipo: `hecho_confirmado`.
+
+Los vecinos reciben a los extranjeros con bebida y adornos florales; también ofrecen a Leo un líquido que no se identifica como cerveza. Winscore bebe sentado en una piedra. Blink lo reconoce por una aventura con Mamá y un dragón y le presenta a Naór. Ella lo saluda y le da la bienvenida a Xoltacan. Él explica que explora estas tierras y ha acudido al festival.
+
+El recuerdo de Blink no especifica qué dragón: no atribuir acciones nuevas a Winscore ni identificarlo con el verde de Iktan.
+
+## [41-009 · Naór ofrece respetos de Atlan y encarga a Leo vigilar la tortuga](../capitulos/41.md) · 00:21:23.000
+
+Tipo: `hecho_confirmado`.
+
+Naór reconoce a Cipo y recuerda haberlo visto bajo un caldero. Acompaña a Leo a depositar la figura tallada y presenta su propia ofrenda en nombre de Atlan. Cuenta que de pequeña esperaba con Walulu a que la figura venerada se moviera, sin verlo. Después sienta a Leo en una piedra y le encarga vigilarla sin parpadear como prueba de paciencia, mientras busca bebida.
+
+El recuerdo infantil y la leyenda son testimonios de Naór. No se confirma avance de nivel de Leo ni movimiento de la figura venerada.
+
+## [41-014 · Cipo recupera sus llamas y Naór deja a Leo vigilado](../capitulos/41.md) · 00:38:03.000
+
+Tipo: `hecho_confirmado`.
+
+Naór y Blink ven inicialmente el altercado como una escena extraña de la fiesta. Naór busca con quién pelear, pero los vecinos se apartan. Cipo asiente cuando ella se acerca y ya recupera el color rojo y las llamas. Naór comprueba que Leo sigue pendiente de la figura venerada y va con Blink a averiguar qué sucede con Winscore. Encarga a alguien vigilar al niño junto a la estatua.
+
+El destinatario del encargo figura como Isabel en ASR sin identificación suficiente. La recuperación visible de Cipo no acredita restitución de todos sus puntos de salud.
+
+## [41-024 · Vigilancia mágica del festival y presencia de Cipo](../capitulos/41.md) · 00:57:46.000
+
+Tipo: `hecho_confirmado`.
+
+Los compañeros buscan el rastro de la infiltrada y vigilan al Anciano. La magia ilusoria deja un recorrido hacia la entrada, sin detectar otra aura semejante dentro del poblado. Leo es enviado a la taberna. Winscore observa que la estatua también brilla ante detectar magia, y Blink vigila desde una posición elevada. Los asistentes continúan bailando sin conocer el incidente. El director señala a Cipo en la fiesta como una pequeña llama que empieza a moverse y estirarse.
+
+El brillo acredita una detección mágica; no explica su causa. Cipo está identificado por el director en 01:01:20.599–01:01:30.349. No equiparar la estatua con la piedra sagrada ni asignar a ésta el aura.
+
+## [41-048 · Cabezas para Leo y Walulu y regreso de Chopito a la botella](../capitulos/41.md) · 02:13:27.760
+
+Tipo: `hecho_confirmado`.
+
+Naór corta dos cabezas de los adversarios vencidos: una como recuerdo para Leo y otra como prueba para Walulu. Blink se apoya en una roca y se tapa las heridas. Tentacol recoge a Chopito y lo introduce de nuevo en una botella.
+
+La futura entrega a Walulu se anuncia; no aparece una conversación de entrega o un análisis suyo en este bloque. Las cabezas proceden de los vencidos, sin atribuirles nombres ni confundirlas con el prisionero vivo.
+
+## [41-055 · Leo llega al encuentro y la guarida sigue sin localizarse](../capitulos/41.md) · 02:26:36.080
+
+Tipo: `hecho_confirmado`.
+
+Naór va a la taberna y trae a Leo para que vea a Tortas. Durante la conversación se expresa poca disposición a combatir a un dragón y Winscore empieza a apuntar el nombre y los datos que el anciano intenta recordar. Tortas dice conocer el nombre y comienza a deletrearlo con mucha lentitud. La transcripción alterna formas irreconocibles y no completa una grafía segura. Cuando preguntan por la guarida, el director aclara que Tortas no sabe dónde está. Se hace de noche, la gente abandona la fiesta y Leo empieza a dormirse mientras Naór intenta mantenerlo atento. La sesión termina con el anciano todavía pronunciando el nombre.
+
+Los enunciados sobre el roble rojo y subir una montaña no se establecen como ruta; el director corrige expresamente que desconoce la guarida. El deletreo incompleto no autoriza a fijar Colgen o Clodidrax ni a fusionar sus fichas. El comentario de Chopito sobre cuatro horas no confirma una duración literal de esta escena.
 

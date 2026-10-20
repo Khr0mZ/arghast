@@ -12,7 +12,7 @@ Base para revisar equivalencia: [04-001](../capitulos/04.md), [07-010](../capitu
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 40.
+Relato revisado hasta el capítulo 41.
 
 ### La costa que da nombre a una ruta
 

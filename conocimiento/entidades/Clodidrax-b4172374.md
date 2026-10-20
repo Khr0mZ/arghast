@@ -12,7 +12,7 @@ Base para revisar equivalencia: [39-016](../capitulos/39.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 40.
+Relato revisado hasta el capítulo 41.
 
 ### Un trato en el bosque
 

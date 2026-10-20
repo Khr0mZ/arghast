@@ -12,7 +12,7 @@ Base para revisar equivalencia: [01-001](../capitulos/01.md), [01-009](../capitu
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 40.
+Relato revisado hasta el capítulo 41.
 
 ### El primer puerto y sus deudas
 
@@ -489,4 +489,12 @@ Tipo: `declaracion_personaje`.
 Ilikar declara que procede de Valle Blanco, en las tierras frías del norte. Quiere un trofeo con el que hacerse amigo de un líder y del que su capitana esté orgullosa; Eldrat intenta atraerlo con posibles combates y premios posteriores. Ilikar dice que debe volver a Shiaru y propone sumar la fuerza de su capitana Ione y de Sir Poncelot. Atribuye a Poncelot la muerte de dragones, dinosaurios y gigantes del bosque. Eldrat considera visitarlos y propone competiciones de natación, robo, combate y lanzamiento para prepararse; Ilikar ofrece costumbres de fuerza de su tierra.
 
 Las hazañas de Poncelot se transmiten como testimonio de Ilikar; no se revisitan ni verifican en esta escena. Ione y Poncelot no están presentes ni aceptan participar. El lanzamiento de una cabra a 142 metros es un recuerdo contado durante la broma de los juegos.
+
+## [41-001 · Blink sale de Shiaru y una fruta altera su voz](../capitulos/41.md) · 00:00:10.800
+
+Tipo: `declaracion_personaje`.
+
+Blink relata que salió de Shiaru tras varios intentos, despertó fuera del poblado y lleva días perdida intentando llegar a Cuicapalli. Evita a los humanos, habla con animales y come frutas. El director establece que una fruta le vuelve la voz grave y gutural, con ventaja para intimidar y desventaja para persuadir durante esta jornada.
+
+El despertar fuera del poblado procede de Blink: no se establece un mecanismo de teletransporte ni permanencia del efecto vocal.
 

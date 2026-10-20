@@ -12,7 +12,7 @@ Base para revisar equivalencia: [14-001](../capitulos/14.md), [31-006](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 40.
+Relato revisado hasta el capítulo 41.
 
 ### La hermana que pelea espalda con espalda
 
@@ -941,4 +941,12 @@ Tipo: `hecho_confirmado`.
 Eldrat, Ilikar y Leona perciben que la población, incluida Walulu, mira con extrañeza y disgusto la piedra que antes ocupaba Tortas. Triel está sentada allí intentando meditar: cree que puede conseguir brazos astrales por imitarlo. Eldrat la reprende, la retira tirándole de la oreja y se disculpa ante Walulu por ocupar la piedra sagrada. No se manifiesta ningún poder. El capítulo termina con Tortas escondido bajo el agua y Leona e Ilikar considerando si lanzar también la cabra restante.
 
 La creencia de Triel no prueba que la piedra conceda poderes. El último lanzamiento de la cabra se debate, pero no se resuelve.
+
+## [41-005 · Blink se une a Naór y escucha la advertencia del bosque](../capitulos/41.md) · 00:10:00.000
+
+Tipo: `declaracion_personaje`.
+
+Naór reconoce a Blink, que entró por los tejados tras observar la aldea desde el aire. Ambas van al festival con Leo. Naór advierte que una criatura ronda los alrededores: la describe como una serpiente verde alada. Atribuye a Triel la explicación de que es un dragón, pero ella niega que existan los dragones. Blink no declara haber encontrado esa amenaza durante su viaje.
+
+La negación pertenece a Naór: no modifica la naturaleza de criaturas documentadas. No se da nombre propio ni prueba para fusionar al dragón con Clodidrax.
 

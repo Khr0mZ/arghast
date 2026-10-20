@@ -12,7 +12,7 @@ Base para revisar equivalencia: [03-019](../capitulos/03.md), [05-007](../capitu
 
 ## Intereses y evolución
 
-Relato revisado hasta el capítulo 40.
+Relato revisado hasta el capítulo 41.
 
 ### Explorar, ocupar y disputar las ruinas
 

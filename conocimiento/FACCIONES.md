@@ -22,3 +22,5 @@ Este registro recoge autoridades, grupos e intereses documentados. Las declaraci
 | Iktan / Walulu | La ciudad oculta ofrece hospitalidad y curación al grupo admitido. La chamana enmascarada estudia las marcas de Citlali. No se ofrece un diagnóstico completo ni se acredita que los elfos enfermos pertenezcan a un culto. | [39-017–39-020](capitulos/39.md) |
 
 Los capítulos y las fichas de entidades conservan los nombres inciertos y las declaraciones exactas. Las visiones de una serpiente alada, de un eclipse o de una entidad mayor son pistas; todavía no explican de forma definitiva a todas las facciones.
+
+En el festival de Iktan se documenta otra operación de los **yuan-ti**: una infiltrada con ilusión, dos sacerdotes junto a una roca exterior y una abominación observada. La cautiva anuncia a «ella» sin nombrarla y muere expulsando serpientes. La victoria local deja un prisionero cuyo destino no se muestra después de la orden del bosque. Las armas de buena factura son una pista, sin proveedor o jerarquía identificados; la presencia del dragón no acredita una alianza (41-011–41-023, 41-028–41-030, 41-038–41-051). [Fuentes del capítulo 41](capitulos/41.md).

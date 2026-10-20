@@ -12,7 +12,7 @@ Base para revisar equivalencia: [31-023](../capitulos/31.md), [31-024](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 40.
+Relato revisado hasta el capítulo 41.
 
 ### La heredera que protege los caminos ocultos
 
@@ -37,6 +37,12 @@ Fuentes: [40-006 · Walulu recibe la advertencia y promete ayuda a Cuicapalli](.
 Al regreso ve caminar a Tortas, a quien atribuye siglos de inmovilidad. Recibe de Leona una muestra de veneno que parece potente, pero no concluye una fórmula ni explica la creación de los no muertos. Advierte que la ciudad no podría detener al dragón si lo provocan. Permite descansar a Leona y presencia el disgusto de los vecinos cuando Triel ocupa la piedra sagrada. Su conversación pendiente con Citlali sobre las marcas no se representa.
 
 Fuentes: [40-035 · Iktan recibe al protector y Walulu examina el veneno](../capitulos/40.md) · 02:23:21.439 · [40-036 · Brazos astrales de Tortas y deseo de aprender de Triel](../capitulos/40.md) · 02:25:53.120 · [40-042 · Triel ocupa la piedra sagrada y Eldrat la aparta](../capitulos/40.md) · 02:48:50.319.
+
+### Las precauciones se ponen a prueba
+
+Confirma que aumentó las precauciones tras el aviso de Leona, pero una infiltrada logra entrar. Mediante raíces revela sus rasgos serpentinos y la retiene. Atribuye su grupo al del veneno de Eromov. Presencia un interrogatorio que acaba con la muerte de la cautiva y pide a Tentacol ayudar a los compañeros. No se muestra una cura de Eromov ni un análisis de las nuevas muestras o entrega de las cabezas a la dirigente.
+
+Fuentes: [41-015 · Walulu confirma las precauciones tras el aviso de Leona](../capitulos/41.md) · 00:42:00.000 · [41-016 · Las raíces de Walulu revelan a la infiltrada serpiente](../capitulos/41.md) · 00:43:49.720 · [41-017 · La prisionera se niega a responder y Walulu no puede forzarla](../capitulos/41.md) · 00:44:55.001 · [41-019 · Walulu vincula la infiltración con el veneno de Eromov](../capitulos/41.md) · 00:48:00.000 · [41-021 · La prisionera sufre pese a la curación](../capitulos/41.md) · 00:51:00.720 · [41-022 · Tenta se presenta y sumerge a la cautiva](../capitulos/41.md) · 00:52:24.000 · [41-023 · Advertencia, revelación de la emboscada y muerte entre serpientes](../capitulos/41.md) · 00:54:38.599 · [41-025 · Tenta informa y un guardia rechaza las órdenes de Winscore](../capitulos/41.md) · 01:02:02.000 · [41-048 · Cabezas para Leo y Walulu y regreso de Chopito a la botella](../capitulos/41.md) · 02:13:27.760 · [41-052 · Naór presencia el movimiento de Tortas y ofrece las cabezas](../capitulos/41.md) · 02:18:04.399.
 
 ## Registros y evidencias
 
@@ -175,4 +181,108 @@ Tipo: `hecho_confirmado`.
 Eldrat, Ilikar y Leona perciben que la población, incluida Walulu, mira con extrañeza y disgusto la piedra que antes ocupaba Tortas. Triel está sentada allí intentando meditar: cree que puede conseguir brazos astrales por imitarlo. Eldrat la reprende, la retira tirándole de la oreja y se disculpa ante Walulu por ocupar la piedra sagrada. No se manifiesta ningún poder. El capítulo termina con Tortas escondido bajo el agua y Leona e Ilikar considerando si lanzar también la cabra restante.
 
 La creencia de Triel no prueba que la piedra conceda poderes. El último lanzamiento de la cabra se debate, pero no se resuelve.
+
+## [41-002 · Naór consigue plaza para Leo y espera a un emisario de Atlan](../capitulos/41.md) · 00:01:18.119
+
+Tipo: `declaracion_personaje`.
+
+Naór explica que Leo ha sido admitido en la academia de guerreros de Iktan gracias a su conversación con Walulu, después de que lo rechazaran por pequeño. Le enseña lo que recuerda de la aldea y del festival desde su infancia. Lleva días esperando en la muralla a un emisario de Atlan que debía llegar para estas fechas; su ausencia la inquieta.
+
+Naór es la leonina acompañada por Leo; no confundirla con Leona, la harengon mensajera de Cuicapalli. No se identifica al emisario ni el motivo del retraso.
+
+## [41-009 · Naór ofrece respetos de Atlan y encarga a Leo vigilar la tortuga](../capitulos/41.md) · 00:21:23.000
+
+Tipo: `hecho_confirmado`.
+
+Naór reconoce a Cipo y recuerda haberlo visto bajo un caldero. Acompaña a Leo a depositar la figura tallada y presenta su propia ofrenda en nombre de Atlan. Cuenta que de pequeña esperaba con Walulu a que la figura venerada se moviera, sin verlo. Después sienta a Leo en una piedra y le encarga vigilarla sin parpadear como prueba de paciencia, mientras busca bebida.
+
+El recuerdo infantil y la leyenda son testimonios de Naór. No se confirma avance de nivel de Leo ni movimiento de la figura venerada.
+
+## [41-015 · Walulu confirma las precauciones tras el aviso de Leona](../capitulos/41.md) · 00:42:00.000
+
+Tipo: `declaracion_personaje`.
+
+El guardia conduce a Winscore y la sospechosa al templo de piedra. Walulu escucha que puede haber un ataque y confirma que Leona llegó desde Cuicapalli para advertirlos; por eso aumentaron las precauciones. Winscore mantiene la acusación de disfraz mágico y el guardia refiere el olor. Walulu examina a la mujer y empieza a actuar con magia.
+
+Testimonio de medidas preventivas aplicadas, sin enumerar su alcance. No hay información nueva de la ayuda prometida a Eromov.
+
+## [41-016 · Las raíces de Walulu revelan a la infiltrada serpiente](../capitulos/41.md) · 00:43:49.720
+
+Tipo: `hecho_confirmado`.
+
+Walulu hace surgir raíces que enredan a la mujer y su ilusión empieza a desaparecer. Queda expuesta una humanoide con piernas y manos, zonas de escamas y facciones serpentinas. Sisea e intenta moverse, pero el guardia la sujeta por detrás. Su disfraz queda deshecho ante los presentes.
+
+La mujer no recibe nombre propio ni rango. No convertir una infiltración concreta en invasión general demostrada.
+
+## [41-017 · La prisionera se niega a responder y Walulu no puede forzarla](../capitulos/41.md) · 00:44:55.001
+
+Tipo: `hecho_confirmado`.
+
+La infiltrada rechaza las preguntas de Winscore. Chopito propone por medio de Tentacol sumergirla cabeza abajo para interrogarla. Winscore pregunta por magia que la haga hablar. Walulu explica que puede sujetarla con la naturaleza, pero no domina bien los medios para forzar la mente. La propuesta de inmersión no llega a ejecutarse en este tramo.
+
+El ahogamiento es una propuesta, no una tortura practicada. El encantamiento posterior de Chopito aún no ha ocurrido.
+
+## [41-019 · Walulu vincula la infiltración con el veneno de Eromov](../capitulos/41.md) · 00:48:00.000
+
+Tipo: `declaracion_personaje`.
+
+Naór y Blink ven a la prisionera y preguntan qué sucede. Walulu afirma ante Naór que pertenece al grupo que envenenó a Eromov. Explica que aumentaron la vigilancia tras la información de Leona, pero parece que los enemigos se colaron, y propone buscar más. Una de las recién llegadas se marcha corriendo al oír hablar de serpientes. Los demás plantean buscar magia y averiguar el objetivo de la cautiva.
+
+La atribución al grupo es de Walulu, sin prueba de que esta mujer administrara el veneno. No queda nombrada la voz de quien sale: cotejar la continuación antes de atribuir a Naór o Blink.
+
+## [41-021 · La prisionera sufre pese a la curación](../capitulos/41.md) · 00:51:00.720
+
+Tipo: `hecho_confirmado`.
+
+La cautiva trata de revelar dónde están sus compañeros y empieza a sufrir intensamente. El director precisa que no se observa ningún efecto mágico y que el dolor no parece deberse al fuego. Le curan parte de las quemaduras, pero continúa padeciendo por una causa que los presentes no identifican.
+
+Ausencia de efecto visible no equivale a demostrar una causa no mágica. No atribuir el tormento a una entidad concreta.
+
+## [41-022 · Tenta se presenta y sumerge a la cautiva](../capitulos/41.md) · 00:52:24.000
+
+Tipo: `hecho_confirmado`.
+
+Tras pedir refuerzos para proteger al Anciano, el grupo deja el interrogatorio en manos del recién llegado, que se presenta como Tenta, mientras Walulu permanece con la prisionera. Chopito propone llevarla al agua; Tenta le sumerge repetidamente la cabeza y la mujer empieza a ahogarse. Se aclara que la agresión rompe el encantamiento amistoso aplicado antes.
+
+La presentación del enano se transcribe Wincore; se normaliza con Winscore ya catalogado. La violencia del interrogatorio ocurre efectivamente, aunque se acompaña de bromas.
+
+## [41-023 · Advertencia, revelación de la emboscada y muerte entre serpientes](../capitulos/41.md) · 00:54:38.599
+
+Tipo: `hecho_confirmado`.
+
+La prisionera advierte que alguien a quien solo llama «ella» ya viene y que impedirá que descubran lo que buscan. Revela que hay dos sacerdotes serpiente al norte de la roca y comienza a mencionar dos grandes abominaciones. Entonces vomita numerosas serpientes, cae muerta y los reptiles huyen hacia la jungla. Walulu apremia a Tenta a ayudar al grupo. Las amenazas y el número de enemigos son declaraciones de la cautiva; su muerte y la salida de serpientes son observadas.
+
+No identificar a «ella» ni afirmar que la prisionera escape transformada en serpientes. No queda demostrada la causa exacta de la muerte. Su frase se corta en «dos grandes abomina» y el informe posterior transmite ese mismo corte.
+
+## [41-025 · Tenta informa y un guardia rechaza las órdenes de Winscore](../capitulos/41.md) · 01:02:02.000
+
+Tipo: `hecho_confirmado`.
+
+Tenta reúne a los compañeros y transmite la noticia de los dos sacerdotes y las dos grandes criaturas, representando con prestidigitación las serpientes que salieron de la cautiva. Aclara que ésta ha muerto. Winscore pide cancelar la fiesta, reducir el área de los asistentes y doblar la vigilancia, explicando que pretenden llevarse a la tortuga. El guardia se niega a abandonar su puesto o seguir instrucciones de un desconocido y dice que esperará órdenes de su jefa.
+
+No afirmar una cancelación consumada ni que la guardia haya obedecido. El vocativo Leona en 01:02:40 se conserva como desliz o reconocimiento dudoso: el coordinador confirma Naór por el bloque 1, sin crear una presencia de Leona a partir de esa frase.
+
+## [41-026 · La multitud se reúne y el grupo parte al norte con sigilo](../capitulos/41.md) · 01:06:00.000
+
+Tipo: `hecho_confirmado`.
+
+Un compañero conduce a los asistentes hacia la hoguera y la estatua anunciando que pronto hablará Walulu; los vecinos terminan reuniéndose pese a algunas protestas. Winscore propone localizar y neutralizar discretamente a los enemigos del norte. Los compañeros abandonan el poblado bajo una magia que mejora su sigilo y exige permanecer próximos a su portador.
+
+No atribuir el conjuro a un personaje sólo por proximidad de turno. La mención de agrupar a la gente para una bola de fuego es broma de mesa, no plan demostrado de atacar a los civiles.
+
+## [41-047 · Un prisionero y armas bien forjadas para investigar](../capitulos/41.md) · 02:12:16.360
+
+Tipo: `hecho_confirmado`.
+
+El grupo confirma que queda un enemigo vivo y pide que no lo maten para poder interrogarlo. Lo registran y lo atan para impedir que escape. El registro proporciona veinticuatro monedas de oro. Examinan las grandes cimitarras y el director confirma su buena factura. Los personajes interpretan ese equipamiento como señal de una organización mayor y proponen trasladar los cuerpos discretamente a la aldea y avisar a su dirigente.
+
+No se identifica al herrero, al proveedor ni a un mando enemigo. La organización mayor es una conclusión de los personajes. La propuesta de traslado y el interrogatorio todavía no se ejecutan en esta parte.
+
+## [41-048 · Cabezas para Leo y Walulu y regreso de Chopito a la botella](../capitulos/41.md) · 02:13:27.760
+
+Tipo: `hecho_confirmado`.
+
+Naór corta dos cabezas de los adversarios vencidos: una como recuerdo para Leo y otra como prueba para Walulu. Blink se apoya en una roca y se tapa las heridas. Tentacol recoge a Chopito y lo introduce de nuevo en una botella.
+
+La futura entrega a Walulu se anuncia; no aparece una conversación de entrega o un análisis suyo en este bloque. Las cabezas proceden de los vencidos, sin atribuirles nombres ni confundirlas con el prisionero vivo.
 

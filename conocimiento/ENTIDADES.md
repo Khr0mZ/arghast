@@ -2,6 +2,13 @@
 
 Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas de extracción sin identidad verificada no generan fichas automáticamente.
 
+## Abominación de la roca norte
+
+- Cap. 41, 00:54:38.599: Advertencia, revelación de la emboscada y muerte entre serpientes ([41-023](capitulos/41.md)).
+- Cap. 41, 01:41:33.000: Una abominación sale de la vegetación ([41-038](capitulos/41.md)).
+- Cap. 41, 01:42:01.320: Naór queda atrapada y sufre veneno durante el combate ([41-039](capitulos/41.md)).
+- Cap. 41, 02:08:00.000: La abominación cae tras los últimos ataques ([41-046](capitulos/41.md)).
+
 ## Angélica Thunder
 
 - Cap. 31, 02:34:00.000: Naór y Triel comen mientras Coyote habla con la tabernera ([31-022](capitulos/31.md)).
@@ -40,6 +47,9 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 31, 02:21:00.000: Ciudad y ruinas de piedra derretida ([31-020](capitulos/31.md)).
 - Cap. 31, 02:49:00.000: Gualulu, amiga de la infancia de Naór, y la muerte de su padre ([31-024](capitulos/31.md)).
 - Cap. 31, 03:04:00.000: Naór convoca un concilio y Gualulu apoya al rey ([31-027](capitulos/31.md)).
+- Cap. 41, 00:01:18.119: Naór consigue plaza para Leo y espera a un emisario de Atlan ([41-002](capitulos/41.md)).
+- Cap. 41, 00:07:46.000: Naór prepara con Leo las ofrendas del festival ([41-004](capitulos/41.md)).
+- Cap. 41, 00:21:23.000: Naór ofrece respetos de Atlan y encarga a Leo vigilar la tortuga ([41-009](capitulos/41.md)).
 
 ## Axi
 
@@ -622,6 +632,30 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 36, 01:57:00.000: Otro hombre lobo observa y ataca a Blink ([36-014](capitulos/36.md)).
 - Cap. 36, 02:06:00.000: Ione recupera el control e intimida al otro lobo ([36-015](capitulos/36.md)).
 - Cap. 36, 02:26:00.000: Reparto de recompensas, fiesta y alojamiento ([36-018](capitulos/36.md)).
+- Cap. 41, 00:00:10.800: Blink sale de Shiaru y una fruta altera su voz ([41-001](capitulos/41.md)).
+- Cap. 41, 00:10:00.000: Blink se une a Naór y escucha la advertencia del bosque ([41-005](capitulos/41.md)).
+- Cap. 41, 00:14:04.950: Los visitantes reciben bebida y Blink presenta a Winscore ([41-007](capitulos/41.md)).
+- Cap. 41, 00:24:44.000: Tentacol habla de Perlasal y se aclara la telepatía de Chopito ([41-010](capitulos/41.md)).
+- Cap. 41, 00:38:03.000: Cipo recupera sus llamas y Naór deja a Leo vigilado ([41-014](capitulos/41.md)).
+- Cap. 41, 00:46:25.000: Winscore quema a la cautiva, que anuncia una amenaza ([41-018](capitulos/41.md)).
+- Cap. 41, 00:48:00.000: Walulu vincula la infiltración con el veneno de Eromov ([41-019](capitulos/41.md)).
+- Cap. 41, 00:57:46.000: Vigilancia mágica del festival y presencia de Cipo ([41-024](capitulos/41.md)).
+- Cap. 41, 01:02:02.000: Tenta informa y un guardia rechaza las órdenes de Winscore ([41-025](capitulos/41.md)).
+- Cap. 41, 01:06:00.000: La multitud se reúne y el grupo parte al norte con sigilo ([41-026](capitulos/41.md)).
+- Cap. 41, 01:09:27.000: Un conejo cornudo orienta a Blink hacia la piedra ([41-027](capitulos/41.md)).
+- Cap. 41, 01:14:55.000: Dos mujeres con la misma aura trabajan junto a la roca ([41-028](capitulos/41.md)).
+- Cap. 41, 01:24:00.000: Blink intenta inmovilizar a las dos sacerdotisas ([41-031](capitulos/41.md)).
+- Cap. 41, 01:36:50.000: Los chillidos psíquicos de Blink fuerzan una retirada ([41-036](capitulos/41.md)).
+- Cap. 41, 01:45:40.800: Blink libera y agranda a Naór ([41-040](capitulos/41.md)).
+- Cap. 41, 01:47:19.360: Tentacol aparta enemigos y Blink recibe flechas envenenadas ([41-041](capitulos/41.md)).
+- Cap. 41, 01:51:46.000: El grupo protege a Naór y Blink busca refugio mágico ([41-043](capitulos/41.md)).
+- Cap. 41, 02:04:00.000: Blink ataca la mente del enemigo y el grupo sostiene a Winscore ([41-045](capitulos/41.md)).
+- Cap. 41, 02:08:00.000: La abominación cae tras los últimos ataques ([41-046](capitulos/41.md)).
+- Cap. 41, 02:13:27.760: Cabezas para Leo y Walulu y regreso de Chopito a la botella ([41-048](capitulos/41.md)).
+- Cap. 41, 02:14:26.760: Una voz obliga a dejar los cuerpos en el bosque ([41-049](capitulos/41.md)).
+- Cap. 41, 02:16:37.800: Naór evacua al grupo y Winscore ve un dragón verde ([41-051](capitulos/41.md)).
+- Cap. 41, 02:20:48.880: Winscore y Blink se presentan ante el anciano ([41-053](capitulos/41.md)).
+- Cap. 41, 02:24:09.319: Tortas reconoce el olor del dragón verde en Blink ([41-054](capitulos/41.md)).
 
 ## Bonnie
 
@@ -756,6 +790,27 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 
 - Cap. 10, 00:22:20.000: Expedición en barca hasta Ruki Peten ([10-009](capitulos/10.md)).
 
+## Chopito
+
+- Cap. 41, 00:12:28.000: Tentacol llega por el agua con Chopito ([41-006](capitulos/41.md)).
+- Cap. 41, 00:14:04.950: Los visitantes reciben bebida y Blink presenta a Winscore ([41-007](capitulos/41.md)).
+- Cap. 41, 00:18:07.000: Tentacol rescata a Cipo del agua y lo acerca al fuego ([41-008](capitulos/41.md)).
+- Cap. 41, 00:24:44.000: Tentacol habla de Perlasal y se aclara la telepatía de Chopito ([41-010](capitulos/41.md)).
+- Cap. 41, 00:43:49.720: Las raíces de Walulu revelan a la infiltrada serpiente ([41-016](capitulos/41.md)).
+- Cap. 41, 00:44:55.001: La prisionera se niega a responder y Walulu no puede forzarla ([41-017](capitulos/41.md)).
+- Cap. 41, 00:49:38.000: El encantamiento de Chopito cambia la actitud de la cautiva ([41-020](capitulos/41.md)).
+- Cap. 41, 00:52:24.000: Tenta se presenta y sumerge a la cautiva ([41-022](capitulos/41.md)).
+- Cap. 41, 00:54:38.599: Advertencia, revelación de la emboscada y muerte entre serpientes ([41-023](capitulos/41.md)).
+- Cap. 41, 01:18:00.000: Chopito permite ver los viales verdosos ([41-029](capitulos/41.md)).
+- Cap. 41, 01:20:26.000: Tinta de Chopito y ataque por sorpresa ([41-030](capitulos/41.md)).
+- Cap. 41, 01:25:13.000: Tenta manifiesta un tentáculo y se oculta ([41-032](capitulos/41.md)).
+- Cap. 41, 01:38:29.000: Tenta frena a las serpientes y Winscore mantiene el ataque no letal ([41-037](capitulos/41.md)).
+- Cap. 41, 01:47:19.360: Tentacol aparta enemigos y Blink recibe flechas envenenadas ([41-041](capitulos/41.md)).
+- Cap. 41, 01:51:46.000: El grupo protege a Naór y Blink busca refugio mágico ([41-043](capitulos/41.md)).
+- Cap. 41, 02:13:27.760: Cabezas para Leo y Walulu y regreso de Chopito a la botella ([41-048](capitulos/41.md)).
+- Cap. 41, 02:14:26.760: Una voz obliga a dejar los cuerpos en el bosque ([41-049](capitulos/41.md)).
+- Cap. 41, 02:16:18.119: Chopito presenta al emisor como un súbdito ([41-050](capitulos/41.md)).
+
 ## Cinco reyes piratas
 
 - Cap. 11, 02:41:20.000: Nox toma una moneda de los cinco reyes piratas ([11-024](capitulos/11.md)).
@@ -803,6 +858,10 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 40, 00:18:33.760: Saludos del goliat y cautela de Eldrat ([40-005](capitulos/40.md)).
 - Cap. 40, 00:25:50.679: Triel sale al espectáculo y comienza la búsqueda de Cipo ([40-007](capitulos/40.md)).
 - Cap. 40, 00:34:33.760: Ilikar y un guardia buscan al supuesto dragón de fuego ([40-009](capitulos/40.md)).
+- Cap. 41, 00:18:07.000: Tentacol rescata a Cipo del agua y lo acerca al fuego ([41-008](capitulos/41.md)).
+- Cap. 41, 00:21:23.000: Naór ofrece respetos de Atlan y encarga a Leo vigilar la tortuga ([41-009](capitulos/41.md)).
+- Cap. 41, 00:38:03.000: Cipo recupera sus llamas y Naór deja a Leo vigilado ([41-014](capitulos/41.md)).
+- Cap. 41, 00:57:46.000: Vigilancia mágica del festival y presencia de Cipo ([41-024](capitulos/41.md)).
 
 ## Citlali
 
@@ -1024,6 +1083,7 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 39, 01:55:00.000: Iktan admite y cura a los viajeros ([39-017](capitulos/39.md)).
 - Cap. 39, 02:04:00.000: Hospitalidad de la ciudad oculta y una elfa enferma ([39-018](capitulos/39.md)).
 - Cap. 39, 02:12:00.000: Descanso en Iktan y expulsión de Coyote ([39-020](capitulos/39.md)).
+- Cap. 41, 00:14:04.950: Los visitantes reciben bebida y Blink presenta a Winscore ([41-007](capitulos/41.md)).
 
 ## Claro de los restos envenenados
 
@@ -1063,6 +1123,10 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 21, 00:51:00.000: Leo, escondido, relata el secuestro ([21-007](capitulos/21.md)).
 - Cap. 21, 01:50:00.000: Leo entrega el collar de plata y Poncelot despierta ([21-012](capitulos/21.md)).
 - Cap. 21, 02:08:00.000: Plata en la boca y muerte del lobo grande ([21-013](capitulos/21.md)).
+
+## Conejo cornudo del bosque de Iktan
+
+- Cap. 41, 01:09:27.000: Un conejo cornudo orienta a Blink hacia la piedra ([41-027](capitulos/41.md)).
 
 ## Coyote
 
@@ -1195,6 +1259,9 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 40, 00:23:18.240: Walulu recibe la advertencia y promete ayuda a Cuicapalli ([40-006](capitulos/40.md)).
 - Cap. 40, 02:25:53.120: Brazos astrales de Tortas y deseo de aprender de Triel ([40-036](capitulos/40.md)).
 - Cap. 40, 02:33:15.520: Leona recibe trato de futura líder y los hermanos buscan aliados ([40-038](capitulos/40.md)).
+- Cap. 41, 00:00:10.800: Blink sale de Shiaru y una fruta altera su voz ([41-001](capitulos/41.md)).
+- Cap. 41, 00:02:22.040: Winscore llega al festival de Iktan ([41-003](capitulos/41.md)).
+- Cap. 41, 00:42:00.000: Walulu confirma las precauciones tras el aviso de Leona ([41-015](capitulos/41.md)).
 
 ## Diario Terran del nawal
 
@@ -1297,6 +1364,12 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 40, 02:23:21.439: Iktan recibe al protector y Walulu examina el veneno ([40-035](capitulos/40.md)).
 - Cap. 40, 02:31:24.600: Pacto entre Eldrat e Ilikar para interrogar al dragón ([40-037](capitulos/40.md)).
 - Cap. 40, 02:36:36.680: Origen de Ilikar y posibles aliados en Shiaru ([40-039](capitulos/40.md)).
+- Cap. 41, 00:10:00.000: Blink se une a Naór y escucha la advertencia del bosque ([41-005](capitulos/41.md)).
+- Cap. 41, 02:14:26.760: Una voz obliga a dejar los cuerpos en el bosque ([41-049](capitulos/41.md)).
+- Cap. 41, 02:16:18.119: Chopito presenta al emisor como un súbdito ([41-050](capitulos/41.md)).
+- Cap. 41, 02:16:37.800: Naór evacua al grupo y Winscore ve un dragón verde ([41-051](capitulos/41.md)).
+- Cap. 41, 02:24:09.319: Tortas reconoce el olor del dragón verde en Blink ([41-054](capitulos/41.md)).
+- Cap. 41, 02:26:36.080: Leo llega al encuentro y la guarida sigue sin localizarse ([41-055](capitulos/41.md)).
 
 ## El Bocado del Jaguar
 
@@ -1657,6 +1730,8 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 30, 02:12:00.000: Descanso y reflexión de Luna sobre el exceso de fuego ([30-022](capitulos/30.md)).
 - Cap. 40, 00:01:42.600: La enfermedad de Triel y el encargo de Leona ([40-002](capitulos/40.md)).
 - Cap. 40, 00:23:18.240: Walulu recibe la advertencia y promete ayuda a Cuicapalli ([40-006](capitulos/40.md)).
+- Cap. 41, 00:35:30.000: El golpe de Winscore provoca la intervención del guardia ([41-013](capitulos/41.md)).
+- Cap. 41, 00:48:00.000: Walulu vincula la infiltración con el veneno de Eromov ([41-019](capitulos/41.md)).
 
 ## Espada azul de escamas de Triel
 
@@ -1849,6 +1924,29 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 40, 02:42:05.120: Una competición de fuerza termina con la cabra de la cena ([40-040](capitulos/40.md)).
 - Cap. 40, 02:44:33.840: Leona e Ilikar lanzan a Tortas al lago ([40-041](capitulos/40.md)).
 - Cap. 40, 02:48:50.319: Triel ocupa la piedra sagrada y Eldrat la aparta ([40-042](capitulos/40.md)).
+- Cap. 41, 00:01:18.119: Naór consigue plaza para Leo y espera a un emisario de Atlan ([41-002](capitulos/41.md)).
+- Cap. 41, 00:02:22.040: Winscore llega al festival de Iktan ([41-003](capitulos/41.md)).
+- Cap. 41, 00:07:46.000: Naór prepara con Leo las ofrendas del festival ([41-004](capitulos/41.md)).
+- Cap. 41, 00:10:00.000: Blink se une a Naór y escucha la advertencia del bosque ([41-005](capitulos/41.md)).
+- Cap. 41, 00:12:28.000: Tentacol llega por el agua con Chopito ([41-006](capitulos/41.md)).
+- Cap. 41, 00:14:04.950: Los visitantes reciben bebida y Blink presenta a Winscore ([41-007](capitulos/41.md)).
+- Cap. 41, 00:18:07.000: Tentacol rescata a Cipo del agua y lo acerca al fuego ([41-008](capitulos/41.md)).
+- Cap. 41, 00:31:07.240: Winscore resiste la sugerencia de llevarse la tortuga ([41-011](capitulos/41.md)).
+- Cap. 41, 00:32:17.000: Winscore detecta una ilusión y descubre incoherencias ([41-012](capitulos/41.md)).
+- Cap. 41, 00:35:30.000: El golpe de Winscore provoca la intervención del guardia ([41-013](capitulos/41.md)).
+- Cap. 41, 00:38:03.000: Cipo recupera sus llamas y Naór deja a Leo vigilado ([41-014](capitulos/41.md)).
+- Cap. 41, 00:42:00.000: Walulu confirma las precauciones tras el aviso de Leona ([41-015](capitulos/41.md)).
+- Cap. 41, 00:43:49.720: Las raíces de Walulu revelan a la infiltrada serpiente ([41-016](capitulos/41.md)).
+- Cap. 41, 00:46:25.000: Winscore quema a la cautiva, que anuncia una amenaza ([41-018](capitulos/41.md)).
+- Cap. 41, 00:48:00.000: Walulu vincula la infiltración con el veneno de Eromov ([41-019](capitulos/41.md)).
+- Cap. 41, 00:57:46.000: Vigilancia mágica del festival y presencia de Cipo ([41-024](capitulos/41.md)).
+- Cap. 41, 01:02:02.000: Tenta informa y un guardia rechaza las órdenes de Winscore ([41-025](capitulos/41.md)).
+- Cap. 41, 01:06:00.000: La multitud se reúne y el grupo parte al norte con sigilo ([41-026](capitulos/41.md)).
+- Cap. 41, 02:12:16.360: Un prisionero y armas bien forjadas para investigar ([41-047](capitulos/41.md)).
+- Cap. 41, 02:16:37.800: Naór evacua al grupo y Winscore ve un dragón verde ([41-051](capitulos/41.md)).
+- Cap. 41, 02:18:04.399: Naór presencia el movimiento de Tortas y ofrece las cabezas ([41-052](capitulos/41.md)).
+- Cap. 41, 02:20:48.880: Winscore y Blink se presentan ante el anciano ([41-053](capitulos/41.md)).
+- Cap. 41, 02:26:36.080: Leo llega al encuentro y la guarida sigue sin localizarse ([41-055](capitulos/41.md)).
 
 ## Ilikar
 
@@ -1894,6 +1992,21 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 40, 02:42:05.120: Una competición de fuerza termina con la cabra de la cena ([40-040](capitulos/40.md)).
 - Cap. 40, 02:44:33.840: Leona e Ilikar lanzan a Tortas al lago ([40-041](capitulos/40.md)).
 - Cap. 40, 02:48:50.319: Triel ocupa la piedra sagrada y Eldrat la aparta ([40-042](capitulos/40.md)).
+
+## Infiltrada serpiente del festival de Iktan
+
+- Cap. 41, 00:31:07.240: Winscore resiste la sugerencia de llevarse la tortuga ([41-011](capitulos/41.md)).
+- Cap. 41, 00:32:17.000: Winscore detecta una ilusión y descubre incoherencias ([41-012](capitulos/41.md)).
+- Cap. 41, 00:35:30.000: El golpe de Winscore provoca la intervención del guardia ([41-013](capitulos/41.md)).
+- Cap. 41, 00:42:00.000: Walulu confirma las precauciones tras el aviso de Leona ([41-015](capitulos/41.md)).
+- Cap. 41, 00:43:49.720: Las raíces de Walulu revelan a la infiltrada serpiente ([41-016](capitulos/41.md)).
+- Cap. 41, 00:44:55.001: La prisionera se niega a responder y Walulu no puede forzarla ([41-017](capitulos/41.md)).
+- Cap. 41, 00:46:25.000: Winscore quema a la cautiva, que anuncia una amenaza ([41-018](capitulos/41.md)).
+- Cap. 41, 00:48:00.000: Walulu vincula la infiltración con el veneno de Eromov ([41-019](capitulos/41.md)).
+- Cap. 41, 00:49:38.000: El encantamiento de Chopito cambia la actitud de la cautiva ([41-020](capitulos/41.md)).
+- Cap. 41, 00:51:00.720: La prisionera sufre pese a la curación ([41-021](capitulos/41.md)).
+- Cap. 41, 00:52:24.000: Tenta se presenta y sumerge a la cautiva ([41-022](capitulos/41.md)).
+- Cap. 41, 00:54:38.599: Advertencia, revelación de la emboscada y muerte entre serpientes ([41-023](capitulos/41.md)).
 
 ## Ione
 
@@ -2488,6 +2601,15 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 31, 02:21:00.000: Ciudad y ruinas de piedra derretida ([31-020](capitulos/31.md)).
 - Cap. 31, 02:34:00.000: Naór y Triel comen mientras Coyote habla con la tabernera ([31-022](capitulos/31.md)).
 - Cap. 31, 03:10:00.000: Confianza limitada y secreto de ruta ([31-028](capitulos/31.md)).
+- Cap. 41, 00:01:18.119: Naór consigue plaza para Leo y espera a un emisario de Atlan ([41-002](capitulos/41.md)).
+- Cap. 41, 00:07:46.000: Naór prepara con Leo las ofrendas del festival ([41-004](capitulos/41.md)).
+- Cap. 41, 00:10:00.000: Blink se une a Naór y escucha la advertencia del bosque ([41-005](capitulos/41.md)).
+- Cap. 41, 00:14:04.950: Los visitantes reciben bebida y Blink presenta a Winscore ([41-007](capitulos/41.md)).
+- Cap. 41, 00:21:23.000: Naór ofrece respetos de Atlan y encarga a Leo vigilar la tortuga ([41-009](capitulos/41.md)).
+- Cap. 41, 00:38:03.000: Cipo recupera sus llamas y Naór deja a Leo vigilado ([41-014](capitulos/41.md)).
+- Cap. 41, 00:57:46.000: Vigilancia mágica del festival y presencia de Cipo ([41-024](capitulos/41.md)).
+- Cap. 41, 02:13:27.760: Cabezas para Leo y Walulu y regreso de Chopito a la botella ([41-048](capitulos/41.md)).
+- Cap. 41, 02:26:36.080: Leo llega al encuentro y la guarida sigue sin localizarse ([41-055](capitulos/41.md)).
 
 ## Leona
 
@@ -2561,6 +2683,8 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 40, 02:42:05.120: Una competición de fuerza termina con la cabra de la cena ([40-040](capitulos/40.md)).
 - Cap. 40, 02:44:33.840: Leona e Ilikar lanzan a Tortas al lago ([40-041](capitulos/40.md)).
 - Cap. 40, 02:48:50.319: Triel ocupa la piedra sagrada y Eldrat la aparta ([40-042](capitulos/40.md)).
+- Cap. 41, 00:42:00.000: Walulu confirma las precauciones tras el aviso de Leona ([41-015](capitulos/41.md)).
+- Cap. 41, 00:48:00.000: Walulu vincula la infiltración con el veneno de Eromov ([41-019](capitulos/41.md)).
 
 ## Liz
 
@@ -3150,6 +3274,32 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 31, 02:54:00.000: Gualulu afirma que el dragón revive a los muertos ([31-025](capitulos/31.md)).
 - Cap. 31, 03:04:00.000: Naór convoca un concilio y Gualulu apoya al rey ([31-027](capitulos/31.md)).
 - Cap. 31, 03:10:00.000: Confianza limitada y secreto de ruta ([31-028](capitulos/31.md)).
+- Cap. 41, 00:01:18.119: Naór consigue plaza para Leo y espera a un emisario de Atlan ([41-002](capitulos/41.md)).
+- Cap. 41, 00:07:46.000: Naór prepara con Leo las ofrendas del festival ([41-004](capitulos/41.md)).
+- Cap. 41, 00:10:00.000: Blink se une a Naór y escucha la advertencia del bosque ([41-005](capitulos/41.md)).
+- Cap. 41, 00:14:04.950: Los visitantes reciben bebida y Blink presenta a Winscore ([41-007](capitulos/41.md)).
+- Cap. 41, 00:21:23.000: Naór ofrece respetos de Atlan y encarga a Leo vigilar la tortuga ([41-009](capitulos/41.md)).
+- Cap. 41, 00:24:44.000: Tentacol habla de Perlasal y se aclara la telepatía de Chopito ([41-010](capitulos/41.md)).
+- Cap. 41, 00:38:03.000: Cipo recupera sus llamas y Naór deja a Leo vigilado ([41-014](capitulos/41.md)).
+- Cap. 41, 00:46:25.000: Winscore quema a la cautiva, que anuncia una amenaza ([41-018](capitulos/41.md)).
+- Cap. 41, 00:48:00.000: Walulu vincula la infiltración con el veneno de Eromov ([41-019](capitulos/41.md)).
+- Cap. 41, 00:57:46.000: Vigilancia mágica del festival y presencia de Cipo ([41-024](capitulos/41.md)).
+- Cap. 41, 01:02:02.000: Tenta informa y un guardia rechaza las órdenes de Winscore ([41-025](capitulos/41.md)).
+- Cap. 41, 01:06:00.000: La multitud se reúne y el grupo parte al norte con sigilo ([41-026](capitulos/41.md)).
+- Cap. 41, 01:14:55.000: Dos mujeres con la misma aura trabajan junto a la roca ([41-028](capitulos/41.md)).
+- Cap. 41, 01:20:26.000: Tinta de Chopito y ataque por sorpresa ([41-030](capitulos/41.md)).
+- Cap. 41, 01:30:01.000: La sacerdotisa obliga a Naór a soltarla y cae al intentar escapar ([41-034](capitulos/41.md)).
+- Cap. 41, 01:42:01.320: Naór queda atrapada y sufre veneno durante el combate ([41-039](capitulos/41.md)).
+- Cap. 41, 01:45:40.800: Blink libera y agranda a Naór ([41-040](capitulos/41.md)).
+- Cap. 41, 01:51:46.000: El grupo protege a Naór y Blink busca refugio mágico ([41-043](capitulos/41.md)).
+- Cap. 41, 02:04:00.000: Blink ataca la mente del enemigo y el grupo sostiene a Winscore ([41-045](capitulos/41.md)).
+- Cap. 41, 02:08:00.000: La abominación cae tras los últimos ataques ([41-046](capitulos/41.md)).
+- Cap. 41, 02:13:27.760: Cabezas para Leo y Walulu y regreso de Chopito a la botella ([41-048](capitulos/41.md)).
+- Cap. 41, 02:14:26.760: Una voz obliga a dejar los cuerpos en el bosque ([41-049](capitulos/41.md)).
+- Cap. 41, 02:16:37.800: Naór evacua al grupo y Winscore ve un dragón verde ([41-051](capitulos/41.md)).
+- Cap. 41, 02:18:04.399: Naór presencia el movimiento de Tortas y ofrece las cabezas ([41-052](capitulos/41.md)).
+- Cap. 41, 02:20:48.880: Winscore y Blink se presentan ante el anciano ([41-053](capitulos/41.md)).
+- Cap. 41, 02:26:36.080: Leo llega al encuentro y la guarida sigue sin localizarse ([41-055](capitulos/41.md)).
 
 ## Negociación
 
@@ -3733,10 +3883,13 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 29, 02:13:00.000: Maris asume la responsabilidad y los merros siguen siendo una amenaza ([29-021](capitulos/29.md)).
 - Cap. 29, 02:26:00.000: Promesa pública y hospitalidad de la taberna ([29-023](capitulos/29.md)).
 - Cap. 29, 02:36:00.000: Ayoto no obtiene acceso religioso sin actos ([29-025](capitulos/29.md)).
+- Cap. 41, 00:24:44.000: Tentacol habla de Perlasal y se aclara la telepatía de Chopito ([41-010](capitulos/41.md)).
 
 ## Piedra sagrada de Iktan
 
 - Cap. 40, 02:48:50.319: Triel ocupa la piedra sagrada y Eldrat la aparta ([40-042](capitulos/40.md)).
+- Cap. 41, 00:02:22.040: Winscore llega al festival de Iktan ([41-003](capitulos/41.md)).
+- Cap. 41, 00:21:23.000: Naór ofrece respetos de Atlan y encarga a Leo vigilar la tortuga ([41-009](capitulos/41.md)).
 
 ## Pinky
 
@@ -3899,12 +4052,35 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 14, 02:30:10.000: Cofre abierto y aparición del capitán al reunir los objetos ([14-021](capitulos/14.md)).
 - Cap. 14, 02:52:40.000: La rotura del relicario dispersa al capitán y los tripulantes ([14-024](capitulos/14.md)).
 
+## Roca de los sacerdotes al norte de Iktan
+
+- Cap. 41, 01:09:27.000: Un conejo cornudo orienta a Blink hacia la piedra ([41-027](capitulos/41.md)).
+- Cap. 41, 01:14:55.000: Dos mujeres con la misma aura trabajan junto a la roca ([41-028](capitulos/41.md)).
+- Cap. 41, 01:18:00.000: Chopito permite ver los viales verdosos ([41-029](capitulos/41.md)).
+- Cap. 41, 01:25:13.000: Tenta manifiesta un tentáculo y se oculta ([41-032](capitulos/41.md)).
+- Cap. 41, 01:41:33.000: Una abominación sale de la vegetación ([41-038](capitulos/41.md)).
+
 ## Ruki Peten
 
 - Cap. 10, 00:22:20.000: Expedición en barca hasta Ruki Peten ([10-009](capitulos/10.md)).
 - Cap. 10, 00:27:40.000: Rastro de varias criaturas con pelos de mono ([10-010](capitulos/10.md)).
 - Cap. 11, 00:26:00.000: Planes, huevo interpretado como Pegaso y salida al norte ([11-009](capitulos/11.md)).
 - Cap. 17, 00:12:50.000: Naór, perdida en Ruki Peten, caza un cocodrilo ([17-004](capitulos/17.md)).
+
+## Sacerdotes serpiente de la roca norte
+
+- Cap. 41, 00:54:38.599: Advertencia, revelación de la emboscada y muerte entre serpientes ([41-023](capitulos/41.md)).
+- Cap. 41, 01:09:27.000: Un conejo cornudo orienta a Blink hacia la piedra ([41-027](capitulos/41.md)).
+- Cap. 41, 01:14:55.000: Dos mujeres con la misma aura trabajan junto a la roca ([41-028](capitulos/41.md)).
+- Cap. 41, 01:18:00.000: Chopito permite ver los viales verdosos ([41-029](capitulos/41.md)).
+- Cap. 41, 01:20:26.000: Tinta de Chopito y ataque por sorpresa ([41-030](capitulos/41.md)).
+- Cap. 41, 01:24:00.000: Blink intenta inmovilizar a las dos sacerdotisas ([41-031](capitulos/41.md)).
+- Cap. 41, 01:27:39.000: Golpes no letales, ilusión rota y santuario contrarrestado ([41-033](capitulos/41.md)).
+- Cap. 41, 01:30:01.000: La sacerdotisa obliga a Naór a soltarla y cae al intentar escapar ([41-034](capitulos/41.md)).
+- Cap. 41, 01:33:59.000: Un ataque con hacha y una furia radiante ciegan a la rival ([41-035](capitulos/41.md)).
+- Cap. 41, 01:36:50.000: Los chillidos psíquicos de Blink fuerzan una retirada ([41-036](capitulos/41.md)).
+- Cap. 41, 01:38:29.000: Tenta frena a las serpientes y Winscore mantiene el ataque no letal ([41-037](capitulos/41.md)).
+- Cap. 41, 01:41:33.000: Una abominación sale de la vegetación ([41-038](capitulos/41.md)).
 
 ## Sam
 
@@ -3972,6 +4148,7 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 40, 00:36:13.800: La tortuga mueve la cabeza y la piedra de Triel se rompe ([40-010](capitulos/40.md)).
 - Cap. 40, 00:44:11.240: La supuesta deshidratación revela la velocidad del anciano ([40-012](capitulos/40.md)).
 - Cap. 40, 02:36:36.680: Origen de Ilikar y posibles aliados en Shiaru ([40-039](capitulos/40.md)).
+- Cap. 41, 00:00:10.800: Blink sale de Shiaru y una fruta altera su voz ([41-001](capitulos/41.md)).
 
 ## Sir Poncelot
 
@@ -4232,6 +4409,36 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 08, 01:46:20.000: Una figura se transforma en pantera bípeda y ataca ([08-022](capitulos/08.md)).
 - Cap. 08, 02:12:40.000: Descanso de ocho horas y vuelta nocturna ([08-025](capitulos/08.md)).
 
+## Tentacol
+
+- Cap. 41, 00:12:28.000: Tentacol llega por el agua con Chopito ([41-006](capitulos/41.md)).
+- Cap. 41, 00:14:04.950: Los visitantes reciben bebida y Blink presenta a Winscore ([41-007](capitulos/41.md)).
+- Cap. 41, 00:18:07.000: Tentacol rescata a Cipo del agua y lo acerca al fuego ([41-008](capitulos/41.md)).
+- Cap. 41, 00:24:44.000: Tentacol habla de Perlasal y se aclara la telepatía de Chopito ([41-010](capitulos/41.md)).
+- Cap. 41, 00:43:49.720: Las raíces de Walulu revelan a la infiltrada serpiente ([41-016](capitulos/41.md)).
+- Cap. 41, 00:44:55.001: La prisionera se niega a responder y Walulu no puede forzarla ([41-017](capitulos/41.md)).
+- Cap. 41, 00:49:38.000: El encantamiento de Chopito cambia la actitud de la cautiva ([41-020](capitulos/41.md)).
+- Cap. 41, 00:52:24.000: Tenta se presenta y sumerge a la cautiva ([41-022](capitulos/41.md)).
+- Cap. 41, 00:54:38.599: Advertencia, revelación de la emboscada y muerte entre serpientes ([41-023](capitulos/41.md)).
+- Cap. 41, 01:02:02.000: Tenta informa y un guardia rechaza las órdenes de Winscore ([41-025](capitulos/41.md)).
+- Cap. 41, 01:06:00.000: La multitud se reúne y el grupo parte al norte con sigilo ([41-026](capitulos/41.md)).
+- Cap. 41, 01:14:55.000: Dos mujeres con la misma aura trabajan junto a la roca ([41-028](capitulos/41.md)).
+- Cap. 41, 01:18:00.000: Chopito permite ver los viales verdosos ([41-029](capitulos/41.md)).
+- Cap. 41, 01:20:26.000: Tinta de Chopito y ataque por sorpresa ([41-030](capitulos/41.md)).
+- Cap. 41, 01:25:13.000: Tenta manifiesta un tentáculo y se oculta ([41-032](capitulos/41.md)).
+- Cap. 41, 01:27:39.000: Golpes no letales, ilusión rota y santuario contrarrestado ([41-033](capitulos/41.md)).
+- Cap. 41, 01:38:29.000: Tenta frena a las serpientes y Winscore mantiene el ataque no letal ([41-037](capitulos/41.md)).
+- Cap. 41, 01:45:40.800: Blink libera y agranda a Naór ([41-040](capitulos/41.md)).
+- Cap. 41, 01:47:19.360: Tentacol aparta enemigos y Blink recibe flechas envenenadas ([41-041](capitulos/41.md)).
+- Cap. 41, 01:51:46.000: El grupo protege a Naór y Blink busca refugio mágico ([41-043](capitulos/41.md)).
+- Cap. 41, 01:58:11.119: Winscore entra en el intercambio de golpes ([41-044](capitulos/41.md)).
+- Cap. 41, 02:04:00.000: Blink ataca la mente del enemigo y el grupo sostiene a Winscore ([41-045](capitulos/41.md)).
+- Cap. 41, 02:08:00.000: La abominación cae tras los últimos ataques ([41-046](capitulos/41.md)).
+- Cap. 41, 02:13:27.760: Cabezas para Leo y Walulu y regreso de Chopito a la botella ([41-048](capitulos/41.md)).
+- Cap. 41, 02:14:26.760: Una voz obliga a dejar los cuerpos en el bosque ([41-049](capitulos/41.md)).
+- Cap. 41, 02:16:18.119: Chopito presenta al emisor como un súbdito ([41-050](capitulos/41.md)).
+- Cap. 41, 02:16:37.800: Naór evacua al grupo y Winscore ve un dragón verde ([41-051](capitulos/41.md)).
+
 ## Tesara Queen
 
 - Cap. 31, 00:18:00.000: Tesara observa el entrenamiento de Leo ([31-004](capitulos/31.md)).
@@ -4407,6 +4614,18 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 40, 02:42:05.120: Una competición de fuerza termina con la cabra de la cena ([40-040](capitulos/40.md)).
 - Cap. 40, 02:44:33.840: Leona e Ilikar lanzan a Tortas al lago ([40-041](capitulos/40.md)).
 - Cap. 40, 02:48:50.319: Triel ocupa la piedra sagrada y Eldrat la aparta ([40-042](capitulos/40.md)).
+- Cap. 41, 00:02:22.040: Winscore llega al festival de Iktan ([41-003](capitulos/41.md)).
+- Cap. 41, 00:21:23.000: Naór ofrece respetos de Atlan y encarga a Leo vigilar la tortuga ([41-009](capitulos/41.md)).
+- Cap. 41, 00:31:07.240: Winscore resiste la sugerencia de llevarse la tortuga ([41-011](capitulos/41.md)).
+- Cap. 41, 00:32:17.000: Winscore detecta una ilusión y descubre incoherencias ([41-012](capitulos/41.md)).
+- Cap. 41, 00:35:30.000: El golpe de Winscore provoca la intervención del guardia ([41-013](capitulos/41.md)).
+- Cap. 41, 00:52:24.000: Tenta se presenta y sumerge a la cautiva ([41-022](capitulos/41.md)).
+- Cap. 41, 00:57:46.000: Vigilancia mágica del festival y presencia de Cipo ([41-024](capitulos/41.md)).
+- Cap. 41, 01:02:02.000: Tenta informa y un guardia rechaza las órdenes de Winscore ([41-025](capitulos/41.md)).
+- Cap. 41, 02:18:04.399: Naór presencia el movimiento de Tortas y ofrece las cabezas ([41-052](capitulos/41.md)).
+- Cap. 41, 02:20:48.880: Winscore y Blink se presentan ante el anciano ([41-053](capitulos/41.md)).
+- Cap. 41, 02:24:09.319: Tortas reconoce el olor del dragón verde en Blink ([41-054](capitulos/41.md)).
+- Cap. 41, 02:26:36.080: Leo llega al encuentro y la guarida sigue sin localizarse ([41-055](capitulos/41.md)).
 
 ## Tribu de la Hoja Caída
 
@@ -4528,6 +4747,7 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 40, 02:25:53.120: Brazos astrales de Tortas y deseo de aprender de Triel ([40-036](capitulos/40.md)).
 - Cap. 40, 02:33:15.520: Leona recibe trato de futura líder y los hermanos buscan aliados ([40-038](capitulos/40.md)).
 - Cap. 40, 02:48:50.319: Triel ocupa la piedra sagrada y Eldrat la aparta ([40-042](capitulos/40.md)).
+- Cap. 41, 00:10:00.000: Blink se une a Naór y escucha la advertencia del bosque ([41-005](capitulos/41.md)).
 
 ## Tripulación del Zampaolas
 
@@ -4561,6 +4781,11 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 
 - Cap. 40, 02:36:36.680: Origen de Ilikar y posibles aliados en Shiaru ([40-039](capitulos/40.md)).
 
+## Viales verdes de la roca norte
+
+- Cap. 41, 01:18:00.000: Chopito permite ver los viales verdosos ([41-029](capitulos/41.md)).
+- Cap. 41, 01:20:26.000: Tinta de Chopito y ataque por sorpresa ([41-030](capitulos/41.md)).
+
 ## Walulu
 
 - Cap. 31, 02:42:00.000: La líder enmascarada exige saber quién guio a los extranjeros ([31-023](capitulos/31.md)).
@@ -4580,6 +4805,19 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 40, 02:23:21.439: Iktan recibe al protector y Walulu examina el veneno ([40-035](capitulos/40.md)).
 - Cap. 40, 02:25:53.120: Brazos astrales de Tortas y deseo de aprender de Triel ([40-036](capitulos/40.md)).
 - Cap. 40, 02:48:50.319: Triel ocupa la piedra sagrada y Eldrat la aparta ([40-042](capitulos/40.md)).
+- Cap. 41, 00:01:18.119: Naór consigue plaza para Leo y espera a un emisario de Atlan ([41-002](capitulos/41.md)).
+- Cap. 41, 00:21:23.000: Naór ofrece respetos de Atlan y encarga a Leo vigilar la tortuga ([41-009](capitulos/41.md)).
+- Cap. 41, 00:42:00.000: Walulu confirma las precauciones tras el aviso de Leona ([41-015](capitulos/41.md)).
+- Cap. 41, 00:43:49.720: Las raíces de Walulu revelan a la infiltrada serpiente ([41-016](capitulos/41.md)).
+- Cap. 41, 00:44:55.001: La prisionera se niega a responder y Walulu no puede forzarla ([41-017](capitulos/41.md)).
+- Cap. 41, 00:48:00.000: Walulu vincula la infiltración con el veneno de Eromov ([41-019](capitulos/41.md)).
+- Cap. 41, 00:51:00.720: La prisionera sufre pese a la curación ([41-021](capitulos/41.md)).
+- Cap. 41, 00:52:24.000: Tenta se presenta y sumerge a la cautiva ([41-022](capitulos/41.md)).
+- Cap. 41, 00:54:38.599: Advertencia, revelación de la emboscada y muerte entre serpientes ([41-023](capitulos/41.md)).
+- Cap. 41, 01:02:02.000: Tenta informa y un guardia rechaza las órdenes de Winscore ([41-025](capitulos/41.md)).
+- Cap. 41, 01:06:00.000: La multitud se reúne y el grupo parte al norte con sigilo ([41-026](capitulos/41.md)).
+- Cap. 41, 02:12:16.360: Un prisionero y armas bien forjadas para investigar ([41-047](capitulos/41.md)).
+- Cap. 41, 02:13:27.760: Cabezas para Leo y Walulu y regreso de Chopito a la botella ([41-048](capitulos/41.md)).
 
 ## Winscore
 
@@ -4624,12 +4862,42 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 34, 01:50:00.000: Mamá distrae y Blink encuentra huevo ([34-013](capitulos/34.md)).
 - Cap. 34, 02:04:00.000: Pinky delata extracción e invisibilidad parcial ([34-014](capitulos/34.md)).
 - Cap. 34, 02:39:00.000: Rumbo Cuicapalli con cría ([34-020](capitulos/34.md)).
+- Cap. 41, 00:02:22.040: Winscore llega al festival de Iktan ([41-003](capitulos/41.md)).
+- Cap. 41, 00:14:04.950: Los visitantes reciben bebida y Blink presenta a Winscore ([41-007](capitulos/41.md)).
+- Cap. 41, 00:24:44.000: Tentacol habla de Perlasal y se aclara la telepatía de Chopito ([41-010](capitulos/41.md)).
+- Cap. 41, 00:31:07.240: Winscore resiste la sugerencia de llevarse la tortuga ([41-011](capitulos/41.md)).
+- Cap. 41, 00:32:17.000: Winscore detecta una ilusión y descubre incoherencias ([41-012](capitulos/41.md)).
+- Cap. 41, 00:35:30.000: El golpe de Winscore provoca la intervención del guardia ([41-013](capitulos/41.md)).
+- Cap. 41, 00:38:03.000: Cipo recupera sus llamas y Naór deja a Leo vigilado ([41-014](capitulos/41.md)).
+- Cap. 41, 00:42:00.000: Walulu confirma las precauciones tras el aviso de Leona ([41-015](capitulos/41.md)).
+- Cap. 41, 00:43:49.720: Las raíces de Walulu revelan a la infiltrada serpiente ([41-016](capitulos/41.md)).
+- Cap. 41, 00:44:55.001: La prisionera se niega a responder y Walulu no puede forzarla ([41-017](capitulos/41.md)).
+- Cap. 41, 00:46:25.000: Winscore quema a la cautiva, que anuncia una amenaza ([41-018](capitulos/41.md)).
+- Cap. 41, 00:49:38.000: El encantamiento de Chopito cambia la actitud de la cautiva ([41-020](capitulos/41.md)).
+- Cap. 41, 00:52:24.000: Tenta se presenta y sumerge a la cautiva ([41-022](capitulos/41.md)).
+- Cap. 41, 00:57:46.000: Vigilancia mágica del festival y presencia de Cipo ([41-024](capitulos/41.md)).
+- Cap. 41, 01:02:02.000: Tenta informa y un guardia rechaza las órdenes de Winscore ([41-025](capitulos/41.md)).
+- Cap. 41, 01:06:00.000: La multitud se reúne y el grupo parte al norte con sigilo ([41-026](capitulos/41.md)).
+- Cap. 41, 01:14:55.000: Dos mujeres con la misma aura trabajan junto a la roca ([41-028](capitulos/41.md)).
+- Cap. 41, 01:20:26.000: Tinta de Chopito y ataque por sorpresa ([41-030](capitulos/41.md)).
+- Cap. 41, 01:27:39.000: Golpes no letales, ilusión rota y santuario contrarrestado ([41-033](capitulos/41.md)).
+- Cap. 41, 01:33:59.000: Un ataque con hacha y una furia radiante ciegan a la rival ([41-035](capitulos/41.md)).
+- Cap. 41, 01:36:50.000: Los chillidos psíquicos de Blink fuerzan una retirada ([41-036](capitulos/41.md)).
+- Cap. 41, 01:38:29.000: Tenta frena a las serpientes y Winscore mantiene el ataque no letal ([41-037](capitulos/41.md)).
+- Cap. 41, 01:58:11.119: Winscore entra en el intercambio de golpes ([41-044](capitulos/41.md)).
+- Cap. 41, 02:04:00.000: Blink ataca la mente del enemigo y el grupo sostiene a Winscore ([41-045](capitulos/41.md)).
+- Cap. 41, 02:08:00.000: La abominación cae tras los últimos ataques ([41-046](capitulos/41.md)).
+- Cap. 41, 02:14:26.760: Una voz obliga a dejar los cuerpos en el bosque ([41-049](capitulos/41.md)).
+- Cap. 41, 02:16:37.800: Naór evacua al grupo y Winscore ve un dragón verde ([41-051](capitulos/41.md)).
+- Cap. 41, 02:20:48.880: Winscore y Blink se presentan ante el anciano ([41-053](capitulos/41.md)).
+- Cap. 41, 02:26:36.080: Leo llega al encuentro y la guarida sigue sin localizarse ([41-055](capitulos/41.md)).
 
 ## Xoltacan
 
 - Cap. 35, 02:05:00.000: Visión de isla devastada y serpiente alada ([35-014](capitulos/35.md)).
 - Cap. 36, 02:32:00.000: Una bestia corre y aúlla en la escena final ([36-019](capitulos/36.md)).
 - Cap. 40, 01:50:53.280: Pruebas de fuerza, respeto por los árboles y una isla lejana ([40-028](capitulos/40.md)).
+- Cap. 41, 00:14:04.950: Los visitantes reciben bebida y Blink presenta a Winscore ([41-007](capitulos/41.md)).
 
 ## Yuan-ti
 
@@ -4639,6 +4907,22 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 40, 00:01:42.600: La enfermedad de Triel y el encargo de Leona ([40-002](capitulos/40.md)).
 - Cap. 40, 00:23:18.240: Walulu recibe la advertencia y promete ayuda a Cuicapalli ([40-006](capitulos/40.md)).
 - Cap. 40, 01:47:01.520: Se conserva una muestra de un veneno distinto al de los yuan-ti ([40-026](capitulos/40.md)).
+- Cap. 41, 00:32:17.000: Winscore detecta una ilusión y descubre incoherencias ([41-012](capitulos/41.md)).
+- Cap. 41, 00:35:30.000: El golpe de Winscore provoca la intervención del guardia ([41-013](capitulos/41.md)).
+- Cap. 41, 00:43:49.720: Las raíces de Walulu revelan a la infiltrada serpiente ([41-016](capitulos/41.md)).
+- Cap. 41, 00:48:00.000: Walulu vincula la infiltración con el veneno de Eromov ([41-019](capitulos/41.md)).
+- Cap. 41, 01:42:01.320: Naór queda atrapada y sufre veneno durante el combate ([41-039](capitulos/41.md)).
+- Cap. 41, 01:47:19.360: Tentacol aparta enemigos y Blink recibe flechas envenenadas ([41-041](capitulos/41.md)).
+- Cap. 41, 01:50:16.000: El grupo conserva con vida a un enemigo ([41-042](capitulos/41.md)).
+- Cap. 41, 01:51:46.000: El grupo protege a Naór y Blink busca refugio mágico ([41-043](capitulos/41.md)).
+- Cap. 41, 01:58:11.119: Winscore entra en el intercambio de golpes ([41-044](capitulos/41.md)).
+- Cap. 41, 02:04:00.000: Blink ataca la mente del enemigo y el grupo sostiene a Winscore ([41-045](capitulos/41.md)).
+- Cap. 41, 02:08:00.000: La abominación cae tras los últimos ataques ([41-046](capitulos/41.md)).
+- Cap. 41, 02:12:16.360: Un prisionero y armas bien forjadas para investigar ([41-047](capitulos/41.md)).
+- Cap. 41, 02:13:27.760: Cabezas para Leo y Walulu y regreso de Chopito a la botella ([41-048](capitulos/41.md)).
+- Cap. 41, 02:14:26.760: Una voz obliga a dejar los cuerpos en el bosque ([41-049](capitulos/41.md)).
+- Cap. 41, 02:16:37.800: Naór evacua al grupo y Winscore ve un dragón verde ([41-051](capitulos/41.md)).
+- Cap. 41, 02:18:04.399: Naór presencia el movimiento de Tortas y ofrece las cabezas ([41-052](capitulos/41.md)).
 
 ## Zampaolas
 

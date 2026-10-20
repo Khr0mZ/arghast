@@ -1,6 +1,6 @@
 # Progreso de la enciclopedia de Xoltacan
 
-**40/40 capítulos revisados; 988 registros con evidencia temporal.**
+**41/41 capítulos revisados; 1043 registros con evidencia temporal.**
 
 Consulta global, sin filtro de conocimiento de Oghma. Originales conservados; audio no cotejado. Revisado significa lectura completa y selección estructurada de acontecimientos, no transcripción perfecta o extracción de cada detalle.
 
@@ -48,6 +48,7 @@ Consulta global, sin filtro de conocimiento de Oghma. Originales conservados; au
 | [38](capitulos/38.md) | revisado | 18 | 02:23:28.560 |
 | [39](capitulos/39.md) | revisado | 20 | 02:15:57.400 |
 | [40](capitulos/40.md) | revisado | 42 | 02:53:08.359 |
+| [41](capitulos/41.md) | revisado | 55 | 02:31:43.520 |
 
 ## Continuidad y mantenimiento
 
@@ -57,7 +58,7 @@ La revisión paralela autorizada abarcó bloques 18–24, 25–31 y 32–39, con
 
 Siguiente capítulo pendiente: ninguno en el catálogo actual.
 
-La campaña narrativa conserva asuntos abiertos al final del capítulo 40. Incorporar publicaciones nuevas con `scripts/incorporar.py`, revisar fuentes completas y actualizar continuidades/alias/misterios antes de regenerar índices.
+La campaña narrativa conserva asuntos abiertos al final del capítulo 41. Incorporar publicaciones nuevas con `scripts/incorporar.py`, revisar fuentes completas y actualizar continuidades/alias/misterios antes de regenerar índices.
 
 Auditoría: `python -X utf8 scripts/auditar.py --exigir-completo --comparar-zip`. Pruebas: `scripts/test_construir.py` y `scripts/test_consultar.py`. Paquetes reproducibles: `scripts/empaquetar.py`.
 

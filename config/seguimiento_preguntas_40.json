@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revisado_hasta": 40,
+  "revisado_hasta": 41,
   "preguntas": [
     {
       "id": "P40-001",
@@ -8,15 +8,17 @@
       "indice": 1,
       "pregunta": "¿Quién anima los restos y qué relación causal tiene el veneno con los no muertos? La semejanza dracónica y la explicación de Leona no sustituyen un análisis de la muestra (40-016–40-017, 40-026, 40-035).",
       "estado": "pendiente",
-      "respuesta": "Los restos fusionados se levantan y desprenden zombis que expulsan gas. Leona atribuye su condición al veneno al entregar la muestra; Walulu solo observa que parece potente. No se identifica a un creador ni se concluye un análisis.",
+      "respuesta": "La muestra del claro no recibe análisis nuevo. Los adversarios del norte preparan otros recipientes verdes que el grupo considera venenos y Winscore recoge tras el combate. No se identifica al creador de los restos animados ni se demuestra una equivalencia o causalidad entre ambas fuentes.",
       "referencias": [
         "40-016",
         "40-017",
         "40-026",
-        "40-035"
+        "40-035",
+        "41-029",
+        "41-051"
       ],
       "pendiente": "El origen de la animación de los restos y la función causal del veneno.",
-      "revisado_hasta": 40
+      "revisado_hasta": 41
     },
     {
       "id": "P40-002",
@@ -31,7 +33,7 @@
         "40-024"
       ],
       "pendiente": "La extensión restante del daño y la recuperación de la vegetación.",
-      "revisado_hasta": 40
+      "revisado_hasta": 41
     },
     {
       "id": "P40-003",
@@ -39,13 +41,16 @@
       "indice": 3,
       "pregunta": "¿Cuál es la grafía del nombre de la Serpiente del Bosque y es la cueva de la emboscada su guarida? El rastro orienta al norte, pero no fija su posición ni su relación con Clodidrax (40-030–40-033).",
       "estado": "pendiente",
-      "respuesta": "La mesa recuerda el título Serpiente del Bosque y varias lecturas inciertas del nombre. Triel cuenta la emboscada de la cueva sin saber si era una guarida. El rastro hallado por Ilikar orienta al norte, pero la persecución se aplaza.",
+      "respuesta": "Winscore ve el dragón verde y Tortas reconoce su olor en Blink. El anciano intenta pronunciar su nombre, sin grafía segura en la transcripción, y el director aclara que no conoce la guarida. No se inspecciona la cueva de la emboscada ni se demuestra identidad con Clodidrax.",
       "referencias": [
         "40-030",
-        "40-033"
+        "40-033",
+        "41-051",
+        "41-054",
+        "41-055"
       ],
       "pendiente": "La grafía, la ubicación de la guarida y la relación de identidad con Clodidrax.",
-      "revisado_hasta": 40
+      "revisado_hasta": 41
     },
     {
       "id": "P40-004",
@@ -59,7 +64,7 @@
         "40-039"
       ],
       "pendiente": "Las preguntas de Eldrat, el reclutamiento y el cumplimiento del pacto.",
-      "revisado_hasta": 40
+      "revisado_hasta": 41
     },
     {
       "id": "P40-005",
@@ -67,43 +72,52 @@
       "indice": 5,
       "pregunta": "¿Qué explica los 77 años que declara Tortas frente a los siglos de inmovilidad que recuerda Walulu? No se ofrece una explicación (40-011, 40-031, 40-035).",
       "estado": "pendiente",
-      "respuesta": "Tortas dice tener 77 años. Walulu le atribuye más de quinientos y recuerda siglos de inmovilidad anteriores a su bisabuela. La fuente no explica cómo conciliar esas declaraciones.",
+      "respuesta": "Tortas recuerda los primeros bigotes de Naór y reconoce un olor que lleva muchos años percibiendo. La tradición de la ciudad y las bromas sobre su antigüedad no concilian la edad declarada de 77 años con los siglos que le atribuye Walulu.",
       "referencias": [
         "40-011",
         "40-031",
-        "40-035"
+        "40-035",
+        "41-052",
+        "41-053",
+        "41-054"
       ],
       "pendiente": "La edad de Tortas y la historia de su inmovilidad.",
-      "revisado_hasta": 40
+      "revisado_hasta": 41
     },
     {
       "id": "P40-006",
       "capitulo": 40,
       "indice": 6,
       "pregunta": "¿Llegará la ayuda prometida a Eromov y se producirá el ataque al festival? No se muestran el envío, una cura ni el ataque anunciado (40-002, 40-006, 40-036).",
-      "estado": "pendiente",
-      "respuesta": "Walulu promete enviar ayuda y avisar a los guardias. Leona descansa en la taberna antes del regreso previsto. No se muestra un ataque, la salida de los emisarios ni una cura administrada a Eromov.",
+      "estado": "parcial",
+      "respuesta": "Walulu confirma que aumentó las precauciones tras el aviso de Leona. La amenaza se concreta en una infiltrada y adversarios localizados al norte, con un combate que termina en victoria local. No se muestra la llegada de hombres, recetas o protecciones a Cuicapalli ni una cura de Eromov; tampoco la eliminación de toda la red.",
       "referencias": [
-        "40-002",
-        "40-006",
-        "40-036"
+        "41-015",
+        "41-016",
+        "41-019",
+        "41-023",
+        "41-028",
+        "41-038",
+        "41-046"
       ],
-      "pendiente": "El envío y resultado de la ayuda, la recuperación de Eromov y el destino del ataque anunciado.",
-      "revisado_hasta": 40
+      "pendiente": "El envío y resultado de la ayuda a Eromov y el alcance restante de la operación contra Iktan.",
+      "revisado_hasta": 41
     },
     {
       "id": "P40-007",
       "capitulo": 40,
       "indice": 7,
       "pregunta": "¿Dónde está Cipo tras la patada y de dónde procede el fragmento de espada recuperado? No se resuelven su búsqueda ni la historia del arma (40-003–40-009).",
-      "estado": "pendiente",
-      "respuesta": "Cipo extrae la pieza y más tarde Eldrat lo aleja de una patada. Ilikar y el guardia lo buscan a partir de un equívoco, sin recuperarlo en escena. No se identifica al dueño ni la procedencia del arma.",
+      "estado": "parcial",
+      "respuesta": "Chopito descubre a Cipo saliendo del agua y Tentacol lo acerca al fuego. Recupera el rojo y las llamas y el director lo señala después en el festival de Iktan. Queda resuelto el paradero posterior, sin que Ilikar sea informado en escena; la procedencia, dueño e historia del fragmento de espada continúan desconocidos.",
       "referencias": [
-        "40-003",
-        "40-009"
+        "41-008",
+        "41-009",
+        "41-014",
+        "41-024"
       ],
-      "pendiente": "El paradero de Cipo y el origen y destino del fragmento de espada.",
-      "revisado_hasta": 40
+      "pendiente": "El origen y la historia del fragmento de espada; no se documenta que Ilikar conozca el rescate.",
+      "revisado_hasta": 41
     }
   ]
 }
